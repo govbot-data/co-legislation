@@ -1,4 +1,4 @@
-# 🏛️ co legislation file tree
+# 🏛️ Colorado legislation file tree
 
 Download a copy of your states legislation.
 
