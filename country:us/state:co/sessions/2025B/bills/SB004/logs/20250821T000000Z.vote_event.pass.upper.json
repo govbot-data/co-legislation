@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.002",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-08-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025B",
+  "bill": "9a885006-cb69-11f0-a9ac-1ac51679ef60",
+  "bill_action": null,
+  "bill_identifier": "SB 004",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/2431/votes/4133",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
