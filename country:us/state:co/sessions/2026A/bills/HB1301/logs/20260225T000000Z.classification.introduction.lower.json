@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to Health & Human Services + Finance",
+    "date": "2026-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1301"
+}
