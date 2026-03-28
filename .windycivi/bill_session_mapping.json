@@ -879,6 +879,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "HR1003": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1189": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
@@ -1060,6 +1065,11 @@
     "date_folder": "2026-2026"
   },
   "HB1121": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB1341": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
@@ -1545,6 +1555,11 @@
     "date_folder": "2026-2026"
   },
   "HB1222": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB1342": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
@@ -2060,6 +2075,11 @@
     "date_folder": "2026-2026"
   },
   "HB1095": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB1343": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
