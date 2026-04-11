@@ -909,6 +909,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "HB1415": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB084": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
@@ -990,6 +995,11 @@
     "date_folder": "2026-2026"
   },
   "HB1403": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "SB160": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
