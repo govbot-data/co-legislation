@@ -119,6 +119,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SCR001": {
+    "session_id": "2025B",
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  },
   "HB1291": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
@@ -1664,6 +1669,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SB167": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB163": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
@@ -2209,6 +2219,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SB166": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB142": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
@@ -2660,6 +2675,11 @@
     "date_folder": "2026-2026"
   },
   "HB1370": {
+    "session_id": "2026A",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "SB165": {
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
@@ -3283,10 +3303,5 @@
     "session_id": "2026A",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
-  },
-  "SCR001": {
-    "session_id": "2025B",
-    "name": "2025 First Extraordinary Session",
-    "date_folder": "2025-2025"
   }
 }
