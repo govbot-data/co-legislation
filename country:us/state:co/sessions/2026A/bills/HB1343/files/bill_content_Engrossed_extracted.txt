@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0902.01 Anna Petrini x5497 HOUSE BILL 26-1343
+House Committees Senate Committees
+Health & Human Services
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING EXPANDING THE USE OF ELECTRONIC PROCESSES IN
+102 PROCEEDINGS INVOLVING ADMINISTRATIVE DETERMINATIONS,
+103 AND, IN CONNECTION THEREWITH, EXPANDING THE USE OF
+104 ELECTRONIC FILING RELATED TO THE COMPETENCY OF
+105 CRIMINAL DEFENDANTS AND IN "STATE ADMINISTRATIVE
+106 PROCEDURE ACT" PROCEEDINGS AND MAKING AN
+107 APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,12
+lirpA
+HOUSE SPONSORSHIP
+Mauro and Clifford,
+SENATE SPONSORSHIP
+Marchman,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Current law requires a court to allow the department of human
+services (department) to submit a competency evaluation for a criminal
+defendant (evaluation) to the court through electronic means. The bill
+expands the use of electronic processes in competency proceedings by
+clarifying that the court must permit the department's evaluation
+submission via e-filing and by directing the department to:
+! Accept, by electronic means, a court order to conduct an
+evaluation; and
+! Electronically deliver an evaluation to interested parties
+through the e-filing system.
+Current law generally requires an administrative agency that is
+conducting an adjudicatory hearing (agency) to serve any person entitled
+to notice of that hearing either personally or by first-class mail. The bill
+permits an agency to serve notice of the hearing by electronic means,
+upon a documented request or with the documented consent of the person
+to be notified. The bill similarly authorizes electronic service with respect
+to an agency's final decision or the initial decision by an administrative
+law judge or hearing officer.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 16-8.5-105, amend
+3 (1)(a)(I), (1)(d), (4), and (7) as follows:
+4 16-8.5-105. Evaluations, locations, time frames, and report.
+5 (1) (a) (I) The court shall order that the competency evaluation be
+6 conducted on an outpatient basis or, if the defendant is unable to post the
+7 monetary condition of bond or is ineligible to be released on bond, at the
+8 place where the defendant is in-custody, except as provided in subsection
+9 (1)(b) of this section. If the department conducts the evaluation on an
+10 in-custody basis, the department shall begin the evaluation as soon as
+11 practicable after the department's receipt of a court order directing the
+12 evaluation. If the evaluation is conducted on an in-custody basis, the
+13 department shall complete the evaluation no later than twenty-one days
+14 after receipt of the order and the collateral materials. If the evaluation is
+-2- 1343
+
+1 conducted on an out-of-custody basis, the department shall complete the
+2 evaluation within forty-two days after receipt of the order and collateral
+3 materials, unless the court extends the time upon a showing of good
+4 cause. IF THE PARTIES OF THE CASE ARE COMMUNICATING WITH THE
+5 COURT BY ELECTRONIC MEANS, AND THE ORDER IS ISSUED BY ELECTRONIC
+6 MEANS, THE DEPARTMENT SHALL ACCEPT THE ORDER BY THE SAME
+7 ELECTRONIC MEANS.
+8 (d) If a defendant is in the department's custody for purposes of
+9 the competency evaluation ordered pursuant to this article 8.5 and the
+10 defendant has completed the competency evaluation and the evaluator has
+11 concluded that the defendant is competent to proceed, the department may
+12 return the defendant to a county jail or to the community, as determined
+13 by the defendant's bond status. If the evaluator has concluded that the
+14 defendant is incompetent to proceed and that inpatient restoration services
+15 are not clinically appropriate, and outpatient restoration services are
+16 available to the defendant in the community, the department shall notify
+17 the court and the bridges court liaison BY ELECTRONIC MEANS, and the
+18 department shall develop a discharge plan and a plan for
+19 community-based restoration services in coordination with the community
+20 restoration services provider. The court shall hold a hearing within seven
+21 days after receiving the notice, at which the department shall provide to
+22 the court the plan for community-based restoration services, and the court
+23 may enter any appropriate orders regarding the custody of the defendant
+24 and the defendant's bond status. The department shall advise the
+25 defendant of the date and time of the court hearing. If the department is
+26 returning the defendant to a county jail, the county sheriff in the
+27 jurisdiction where the defendant must return shall take custody of the
+-3- 1343
+
+1 defendant within seventy-two hours after receiving notification from the
+2 department that the defendant's evaluation is completed. At the time the
+3 department notifies the sheriff, the department shall also notify the court
+4 and the bridges court liaison that the department is returning the
+5 defendant to the custody of the jail.
+6 (4) A written report of the evaluation must be prepared, and the
+7 department shall electronically deliver the report to the court clerk who
+8 ordered it. The clerk shall provide a copy of the report to the prosecuting
+9 attorney, the bridges court liaison and the defense counsel using an
+10 e-filing system AS ORDERED USING AN E-FILING SYSTEM RECORD IN THE
+11 MATTER. Without reducing any other timelines set forth in this article 8.5,
+12 the competency evaluator shall provide the written report to the court
+13 within fourteen days after finishing meeting or attempting to meet with
+14 the defendant to evaluate the defendant's competency.
+15 (7) Each court shall allow for any competency evaluation
+16 conducted pursuant to the provisions of this section or section 16-8.5-106
+17 to be submitted to the court through electronic means, INCLUDING
+18 THROUGH AN E-FILING SYSTEM IF THE ORDER FOR THE EVALUATION IS
+19 ISSUED TO THE DEPARTMENT THROUGH AN E-FILING SYSTEM.
+20 SECTION 2. In Colorado Revised Statutes, 24-4-105, amend
+21 (2)(a), (2)(b), and (16)(a) as follows:
+22 24-4-105. Hearings and determinations.
+23 (2) (a) In any such proceeding in which an opportunity for agency
+24 adjudicatory hearing is required under the state constitution or by this or
+25 any other statute, the parties are entitled to a hearing and decision in
+26 conformity with this section. Any person entitled to notice of a hearing
+27 shall be given timely notice of the time, place, and nature thereof, the
+-4- 1343
+
+1 legal authority and jurisdiction under which it is to be held, and the
+2 matters of fact and law asserted. Unless otherwise provided by law, such
+3 THE notice shall be served personally; BY ELECTRONIC MEANS, UPON THE
+4 DOCUMENTED REQUEST OR CONSENT OF THE PERSON TO BE NOTIFIED; or
+5 by mailing by first-class mail to the last address furnished TO the agency
+6 by the person to be notified at least thirty days prior to the hearing. In
+7 fixing the time and place for a hearing, due regard shall be had for the
+8 convenience and necessity of the parties and their representatives.
+9 (b) Any person given such notice PURSUANT TO SUBSECTION (2)(a)
+10 OF THIS SECTION shall file a written answer thirty days after the service,
+11 ELECTRONIC DELIVERY, or mailing of such THE notice. If such THE person
+12 fails to answer, any agency, administrative law judge, or hearing officer,
+13 upon motion, may enter a default. For good cause shown, the entry of
+14 default may be set aside within ten days after the date of such entry.
+15 (16) (a) Each decision and initial decision shall be served on each
+16 party by personal service; BY ELECTRONIC MEANS, UPON THE
+17 DOCUMENTED REQUEST OR CONSENT OF THE PARTY TO BE SERVED; or by
+18 mailing by first-class mail to the last address furnished TO the agency by
+19 such THE party and, except as provided in paragraph (b) of this subsection
+20 (16) SUBSECTION (16)(b) OF THIS SECTION, shall be effective as to such
+21 THE party on the date mailed, PROVIDED ELECTRONICALLY, or such THE
+22 later date as is stated in the decision.
+23 SECTION 3. Appropriation. For the 2026-27 state fiscal year,
+24 $26,296 is appropriated to the judicial department for use by state courts
+25 administration. This appropriation is from the judicial department
+26 information technology cash fund created in section 13-32-114 (1),
+27 C.R.S. To implement this act, state courts administration may use this
+-5- 1343
+
+1 appropriation for information technology infrastructure.
+2 SECTION 4. Act subject to petition - effective date. This act
+3 takes effect at 12:01 a.m. on the day following the expiration of the
+4 ninety-day period after final adjournment of the general assembly (August
+5 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+6 referendum petition is filed pursuant to section 1 (3) of article V of the
+7 state constitution against this act or an item, section, or part of this act
+8 within such period, then the act, item, section, or part will not take effect
+9 unless approved by the people at the general election to be held in
+10 November 2026 and, in such case, will take effect on the date of the
+11 official declaration of the vote thereon by the governor.
+-6- 1343

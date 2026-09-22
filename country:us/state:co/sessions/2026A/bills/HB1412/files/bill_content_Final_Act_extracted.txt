@@ -1,0 +1,178 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 26-1412
+BY REPRESENTATIVE(S) Sirota and Taggart, Brown, Woodrow,
+Bradley, Keltie;
+also SENATOR(S) Bridges and Kirkmeyer, Amabile, Hinrichsen.
+CONCERNING AUTHORIZING THE DEPARTMENT OF HEALTH CARE POLICY AND
+FINANCING TO USE STATISTICAL SAMPLING AND EXTRAPOLATION TO
+RECOVER OVERPAYMENTS TO PROVIDERS FOR CERTAIN MEDICAID
+SERVICES, AND, IN CONNECTION THEREWITH, MAKING AND REDUCING
+AN APPROPRIATION.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds and declares that:
+(a) The federal centers for medicare and medicaid services, the
+office of inspector general in the federal department of health and human
+services, and other federal agencies regularly employ statistical sampling
+and extrapolation methodologies to identify and recover improper payments
+from the Colorado medicaid program administered by the department of
+health care policy and financing, or HCPF;
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(b) Certain medicaid service areas, including nonemergency medical
+transportation and pediatric behavioral therapy, such as applied behavior
+analysis services, have been identified as having elevated rates of
+insufficient documentation, improper billing, or fraud, waste, and abuse,
+characterized by rapid outsized spending growth not explained or supported
+by a corresponding increase in the number of individuals served;
+(c) Requiring HCPF to individually audit each claim submitted for
+payment by a provider to determine the appropriate error rate and
+overpayment recovery imposes an unrealistic and unsustainable
+administrative burden;
+(d) The inability for HCPF to audit every claim submitted by a
+provider results in under-represented recoupments, recovery delays, and
+increased risk for federal disallowance, which the state is solely financially
+responsible for;
+(e) Statistical sampling and extrapolation methodologies, when
+applied consistently with recognized federal standards, provide a reliable
+and efficient basis for overpayment recovery; and
+(f) Using statistical sampling and extrapolation across providers
+treating medicaid members for services covered under the nonemergent
+medical transportation benefit and the pediatric behavioral therapy benefit,
+including applied behavioral analysis, will protect Colorado medicaid funds
+and the state general fund; deter fraud, waste, and abuse and related
+practices; and align state practices with established federal methodologies
+and standards.
+SECTION 2. In Colorado Revised Statutes, 25.5-4-301, add
+(3)(a)(VI.5) as follows:
+25.5-4-301. Recoveries - overpayments - penalties - interest -
+adjustments - liens - review or audit procedures - cash fund - rules -
+definitions - repeal.
+(3) (a) A review or audit of a provider is subject to the following
+procedures:
+(VI.5) (A) IF AN AUDIT OF A PROVIDER WHO PROVIDES
+PAGE 2-HOUSE BILL 26-1412
+
+NONEMERGENCY MEDICAL TRANSPORTATION SERVICES OR PEDIATRIC
+BEHAVIORAL THERAPY, INCLUDING APPLIED BEHAVIORAL ANALYSIS, IS
+INITIATED AFTER JULY 1, 2026, FOR SERVICES PROVIDED FROM JANUARY 1,
+2022, THROUGH DECEMBER 31, 2023, THE STATE DEPARTMENT IS
+AUTHORIZED TO DETERMINE AND RECOVER AN OVERPAYMENT TO A
+PROVIDER USING A SAMPLING OF RECORDS AND EXTRAPOLATION OF THE
+RECORDS SO LONG AS THE SAMPLING AND EXTRAPOLATION METHODS
+EMPLOYED UTILIZE A STATISTICALLY VALID SAMPLE AND ARE DESIGNED AND
+IMPLEMENTED IN ACCORDANCE WITH NATIONALLY RECOGNIZED, GENERALLY
+ACCEPTED STATISTICAL PRINCIPLES, STANDARDS, AND METHODS.
+(B) IF AN AUDIT CONDUCTED PURSUANT TO SUBSECTION
+(3)(a)(VI.5)(A) OF THIS SECTION IDENTIFIES A STATISTICALLY SIGNIFICANT
+PATTERN OF ALLEGED OVERPAYMENTS TO A PROVIDER OF NONEMERGENCY
+MEDICAL TRANSPORTATION SERVICES OR PEDIATRIC BEHAVIORAL THERAPY,
+THE AUDITOR IS AUTHORIZED TO USE THE SAME STATISTICAL SAMPLING AND
+EXTRAPOLATION METHODS TO AUDIT SERVICES PROVIDED BY THE PROVIDER
+FROM JANUARY 1, 2024, THROUGH DECEMBER 31, 2025. FOR THE PURPOSES
+OF THIS SUBSECTION (3)(a)(VI.5)(B), "STATISTICALLY SIGNIFICANT
+PATTERN" MEANS A CLAIMS ERROR RATE IDENTIFIED THROUGH THE AUDIT
+THAT EXCEEDS TEN PERCENT.
+(C) IF AN AUDIT IDENTIFIES AN ALLEGED OVERPAYMENT, THE STATE
+DEPARTMENT SHALL ISSUE A NOTICE TO THE PROVIDER OF THE ALLEGED
+OVERPAYMENT WITHIN SIXTY DAYS AFTER THE ALLEGED OVERPAYMENT IS
+IDENTIFIED. THE NOTICE OF THE ALLEGED OVERPAYMENT MUST INCLUDE THE
+BASIS OF THE ALLEGED OVERPAYMENT, THE RATIONALE FOR THE ALLEGED
+OVERPAYMENT, THE METHODOLOGY USED TO CALCULATE THE ALLEGED
+OVERPAYMENT, AND INFORMATION ON HOW THE STATE DEPARTMENT
+IDENTIFIED THE ALLEGED OVERPAYMENT, INCLUDING CLAIMS SAMPLES USED,
+CLAIM-LEVEL FINDINGS, AND OTHER DOCUMENTATION TO ENABLE THE
+PROVIDER TO FULLY EVALUATE AND REPLICATE THE AUDITOR'S ANALYSIS.
+PRIOR TO THE STATE DEPARTMENT IMPLEMENTING RECOVERY OF AN
+OVERPAYMENT, THE PROVIDER HAS THE RIGHT TO AN INFORMAL
+RECONSIDERATION IN ACCORDANCE WITH SUBSECTION (3)(a)(VII) OF THIS
+SECTION OR THE RIGHT TO A FORMAL APPEAL IN ACCORDANCE WITH
+SUBSECTION (3)(a)(VIII) OF THIS SECTION.
+(D) IF THE STATE DEPARTMENT ENTERS INTO A CONTRACT FOR THE
+PURPOSE OF CONDUCTING AN AUDIT PURSUANT TO THIS SUBSECTION
+PAGE 3-HOUSE BILL 26-1412
+
+(3)(a)(VI.5), THE CONTRACT MUST NOT BE A CONTINGENCY-BASED
+CONTRACT BASED ON A PERCENTAGE OF THE AMOUNT OF RECOVERY
+COLLECTED FROM THE PROVIDER.
+(E) AFTER THE STATE DEPARTMENT COMPLETES AN AUDIT OF A
+PROVIDER PURSUANT TO THIS SUBSECTION (3)(a)(VI.5), THE STATE AUDITOR
+OR A PERSON AUTHORIZED BY THE STATE AUDITOR SHALL CONDUCT AN
+EXAMINATION IN ACCORDANCE WITH SECTION 2-3-103 TO DETERMINE
+WHETHER THE STATE DEPARTMENT USED PROPER STATISTICAL SAMPLING
+AND EXTRAPOLATION METHODS WHEN DETERMINING WHETHER
+OVERPAYMENTS WERE MADE TO A PROVIDER. THE STATE AUDITOR SHALL
+ANNUALLY PRESENT A REPORT OF THE FINDINGS MADE PURSUANT TO THIS
+SUBSECTION (3)(a)(VI.5)(E) TO THE LEGISLATIVE AUDIT COMMITTEE AND
+THE JOINT BUDGET COMMITTEE UNTIL THE AUDITS ARE COMPLETE.
+SECTION 3. Appropriation - adjustments to 2026 long bill.
+(1) Except as provided in subsection (3) of this section, to implement this
+act, the appropriation made in the annual general appropriation act for the
+2026-27 state fiscal year to the department of health care policy and
+financing for medical and long-term care services for Medicaid-eligible
+individuals is adjusted as follows:
+(a) The general fund appropriation is decreased by $6,861,775,
+which amount is subject to the "(M)" notation as defined in the annual
+general appropriation act for the same fiscal year; and
+(b) The cash funds appropriation from recoveries and recoupments
+is increased by $13,723,550.
+(2) For the 2026-27 state fiscal year, the general assembly
+anticipates that the federal funds received by the department of health care
+policy and financing for medical and long-term care services for
+Medicaid-eligible individuals will decrease by $6,861,775. The
+appropriation in subsection (1)(a) of this section is based on the assumption
+that the department will not receive this amount of federal funds.
+(3) Subsection (1)(a) of this section does not require a reduction of
+an appropriation in the annual general appropriation act for the 2026-27
+state fiscal year if:
+PAGE 4-HOUSE BILL 26-1412
+
+(a) The amount of the general fund appropriation made in the annual
+general appropriation act for the 2026-27 state fiscal year to the department
+of health care policy and financing for medical and long-term care services
+for Medicaid-eligible individuals is less than the amount of the adjustment
+required in subsection (1)(a) of this section; or
+(b) The annual general appropriation act for the 2026-27 state fiscal
+year does not include an appropriation to the department of health care
+policy and financing for medical and long-term care services for
+Medicaid-eligible individuals.
+SECTION 4. Effective date. This act takes effect upon passage;
+except that section 3 of this act takes effect only if the annual general
+appropriation act for the 2026-27 state fiscal year becomes law, in which
+case section 3 of this act takes effect upon the effective date of this act or
+of the annual general appropriation act for state fiscal year 2026-27,
+whichever is later.
+SECTION 5. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 5-HOUSE BILL 26-1412
+
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 6-HOUSE BILL 26-1412

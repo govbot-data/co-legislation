@@ -1,0 +1,334 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0529.02 Jacob Baus x2173 HOUSE BILL 26-1350
+HOUSE SPONSORSHIP
+Brown and Taggart, Sirota
+SENATE SPONSORSHIP
+Amabile and Bridges, Kirkmeyer
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING APPROPRIATIONS RELATED TO SCHOOL FOOD
+102 PROGRAMS, AND, IN CONNECTION THEREWITH, MAKING AND
+103 REDUCING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. Under current law, the general
+assembly is required to appropriate an amount to comply with matching
+requirements under the federal "Richard B. Russell National School
+Lunch Act". The bill makes this appropriation optional and allows the
+amount to be appropriated from the healthy school meals for all program
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+cash fund.
+Under current law, the department of education is a designated
+partner agency for the summer electronic benefits transfer for children
+program (summer EBT program), created in the department of human
+services, and is required to administer the summer EBT program. The bill
+allows money for administration of the summer EBT program to be
+appropriated from the healthy school meals for all program cash fund.
+Under current law, the general assembly is required to appropriate
+$700,000 to $1.5 million to the start smart nutrition program cash fund
+(cash fund). The bill makes the appropriation optional, repeals the cash
+fund, transfers the cash fund balance to the general fund, and allows an
+appropriation to be made from the healthy school meals for all program
+cash fund.
+Under current law, the general assembly is required to appropriate
+money for the child nutrition school lunch protection program. The bill
+makes the appropriation optional and allows an appropriation to be made
+from the healthy school meals for all program cash fund.
+Under current law, the department of education administers a local
+school food purchasing program and a local school food purchasing
+technical assistance and education grant program (legacy local school
+food programs) that are distinct from the local school food purchasing
+program and technical assistance and education grant programs within the
+"Healthy School Meals for All Act" (HSMA local school food programs).
+The bill states that the general assembly may appropriate an amount for
+the legacy local school food programs if the healthy school meals for all
+program cash fund does not fully fund the HSMA local school food
+programs.
+The bill makes and reduces appropriations to the department of
+education for the affected programs.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Prior to the approval of propositions FF, MM, and LL
+5 concerning the healthy school meals for all program, the state maintained
+6 a number of mechanisms and programs to subsidize meals for students,
+7 each with required appropriations; and
+8 (b) The voter approval of propositions FF, MM, and LL
+-2- HB26-1350
+
+1 concerning the healthy school meals for all program is anticipated to be
+2 sufficient to fully support school nutrition programs.
+3 (2) Therefore, the general assembly declares that it is necessary to
+4 eliminate the requirement to appropriate money to the legacy meal
+5 mechanisms and that the healthy school meals for all program may be
+6 used to support school nutrition programs, if necessary.
+7 SECTION 2. In Colorado Revised Statutes, 22-82.9-211, amend
+8 (3)(a)(VII) and (3)(g); and add (3)(a)(IX), (3)(a)(X), (3)(a)(XI), and
+9 (3)(a)(XII) as follows:
+10 22-82.9-211. Healthy school meals for all program cash fund
+11 - creation - uses - reporting requirements - legislative declaration -
+12 definitions - repeal.
+13 (3) (a) Subject to annual appropriation by the general assembly,
+14 money may be expended from the fund that is not in the account for the
+15 following purposes:
+16 (VII) Beginning July 1, 2026, providing outreach related to the
+17 supplemental nutritional assistance program; and
+18 (IX) BEGINNING JULY 1, 2026, COMPLYING WITH THE
+19 REQUIREMENTS FOR STATE MATCHING FUNDS UNDER THE FEDERAL
+20 "RICHARD B. RUSSELL NATIONAL SCHOOL LUNCH ACT", 42 U.S.C. SEC.
+21 1751 ET SEQ.;
+22 (X) BEGINNING JULY 1, 2026, ADMINISTERING THE START SMART
+23 NUTRITION PROGRAM CREATED IN SECTION 22-82.7-103;
+24 (XI) BEGINNING JULY 1, 2026, ADMINISTERING THE CHILD
+25 NUTRITION SCHOOL LUNCH PROTECTION PROGRAM CREATED IN SECTION
+26 22-82.9-104; AND
+27 (XII) BEGINNING JULY 1, 2026, ADMINISTERING THE SUMMER
+-3- HB26-1350
+
+1 ELECTRONIC BENEFITS TRANSFER FOR CHILDREN PROGRAM PURSUANT TO
+2 SECTION 22-2-149.
+3 (g) If, upon awarding money according to subsection (3)(f) of this
+4 section, the department determines that awarding money pursuant to this
+5 subsection (3)(g) would result in a reserve calculation amount equal to
+6 thirty-five percent or more, then money may be expended from the fund,
+7 including money in the account in accordance with subsection (3)(a.5)(II)
+8 of this section by awarding and distributing amounts from the fund as
+9 described in subsection (3)(f) of this section and then funding the
+10 implementation of the supplemental nutritional assistance program in a
+11 manner that supplements and does not supplant the state's expenditures,
+12 as of July 1, 2025, to implement the supplemental nutritional assistance
+13 program; outreach related to the supplemental nutritional assistance
+14 program; and community-based nutrition education; THE REQUIREMENTS
+15 FOR STATE MATCHING FUNDS UNDER THE FEDERAL "RICHARD B. RUSSELL
+16 NATIONAL SCHOOL LUNCH ACT", 42 U.S.C. SEC. 1751 ET SEQ.; AND THE
+17 SUMMER ELECTRONIC BENEFITS TRANSFER FOR CHILDREN PROGRAM
+18 PURSUANT TO SECTION 22-2-149.
+19 SECTION 3. In Colorado Revised Statutes, 22-54-123, amend
+20 (1); and add (1.5) as follows:
+21 22-54-123. Richard B. Russell national school lunch act -
+22 appropriation of state matching funds - definition.
+23 (1) For the 2001-02 budget year and budget years thereafter, The
+24 general assembly shall MAY appropriate by separate line item an amount
+25 to comply with the requirements for state matching funds under the
+26 federal "Richard B. Russell National School Lunch Act", 42 U.S.C. sec.
+27 1751 et seq. The department of education shall develop procedures to
+-4- HB26-1350
+
+1 allocate and disburse the funds among participating school food
+2 authorities each year in an equitable manner so as to comply with the
+3 requirements of said act.
+4 (1.5) PURSUANT TO SECTION 22-82.9-211 (3)(a)(IX), SUBJECT TO
+5 ANNUAL APPROPRIATION BY THE GENERAL ASSEMBLY, THE DEPARTMENT
+6 OF EDUCATION MAY EXPEND AN AMOUNT FROM THE HEALTHY SCHOOL
+7 MEALS FOR ALL PROGRAM CASH FUND TO COMPLY WITH THE
+8 REQUIREMENTS FOR STATE MATCHING FUNDS UNDER THE FEDERAL
+9 "RICHARD B. RUSSELL NATIONAL SCHOOL LUNCH ACT", 42 U.S.C. SEC.
+10 1751 ET SEQ.
+11 SECTION 4. In Colorado Revised Statutes, 22-82.7-102, amend
+12 the introductory portion; and repeal (2) as follows:
+13 22-82.7-102. Definitions.
+14 As used in this article ARTICLE 82.7, unless the context otherwise
+15 requires:
+16 (2) "Fund" means the start smart nutrition program fund created
+17 in section 22-82.7-105.
+18 SECTION 5. In Colorado Revised Statutes, 22-82.7-104, amend
+19 (1); and repeal (2) as follows:
+20 22-82.7-104. Program funding - appropriation.
+21 (1) The general assembly shall MAY annually appropriate by
+22 separate line item in the annual general appropriation bill an amount of
+23 not less than seven hundred thousand dollars and not more than one
+24 million five hundred thousand dollars to the fund created in section
+25 22-82.7-105 TO THE DEPARTMENT FOR DISTRIBUTION TO SCHOOL FOOD
+26 AUTHORITIES to allow school food authorities to provide free breakfasts
+27 to children participating in the school breakfast program who would
+-5- HB26-1350
+
+1 otherwise be required to pay a reduced price for breakfast and to offset
+2 the costs incurred by facility schools in providing breakfasts to students
+3 who are placed in the facility and are eligible to participate in the school
+4 breakfast program. The appropriation to the fund shall be DEPARTMENT
+5 MAY BE in addition to any appropriation made by the general assembly
+6 pursuant to section 22-54-123 or 22-54-123.5 (1).
+7 (2) The department may seek and accept gifts, grants, and
+8 donations from public and private sources to fund the program, but
+9 receipt of gifts, grants, and donations shall not be a prerequisite to the
+10 implementation of the program. All private and public funds received
+11 through gifts, grants, and donations shall be transmitted to the state
+12 treasurer, who shall credit the same to the fund.
+13 SECTION 6. In Colorado Revised Statutes, 22-82.7-105, amend
+14 (1) introductory portion and (1)(a); repeal (1)(b); and add (4) and (5) as
+15 follows:
+16 22-82.7-105. Start smart nutrition program fund - creation -
+17 administrative costs - repeal.
+18 (1) There is hereby created in the state treasury the start smart
+19 nutrition program fund. The fund shall consist CONSISTS of:
+20 (a) Such moneys as are MONEY AS IS appropriated to the fund by
+21 the general assembly pursuant to section 22-82.7-104 (1); AND
+22 (b) Any gifts, grants, or donations received by the department for
+23 the fund pursuant to section 22-82.7-104 (2); and
+24 (4) (a) NOTWITHSTANDING SUBSECTIONS (1) TO (3) OF THIS
+25 SECTION, ON JUNE 30, 2026, THE STATE TREASURER SHALL TRANSFER ALL
+26 UNEXPENDED AND UNENCUMBERED MONEY IN THE FUND TO THE GENERAL
+27 FUND.
+-6- HB26-1350
+
+1 (b) NOTWITHSTANDING SUBSECTIONS (1) TO (3) OF THIS SECTION,
+2 ON AUGUST 31, 2026, THE STATE TREASURER SHALL TRANSFER ALL
+3 UNEXPENDED AND UNENCUMBERED MONEY IN THE FUND TO THE GENERAL
+4 FUND.
+5 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2026.
+6 SECTION 7. In Colorado Revised Statutes, amend 22-82.7-106
+7 as follows:
+8 22-82.7-106. Program - procedures.
+9 The department shall develop procedures to allocate and disburse
+10 the moneys in the fund THE MONEY APPROPRIATED TO THE DEPARTMENT
+11 FOR THE PROGRAM among participating school food authorities and
+12 facility schools each year, in an equitable manner and in compliance with
+13 the requirements of the federal "Richard B. Russell National School
+14 Lunch Act", 42 U.S.C. sec. 1751 et seq.
+15 SECTION 8. In Colorado Revised Statutes, 22-82.9-105, amend
+16 (1) as follows:
+17 22-82.9-105. Program funding.
+18 (1) For each fiscal year, the general assembly shall MAY make an
+19 appropriation by separate line item in the annual general appropriation
+20 bill to allow school food authorities to provide lunches at no charge for
+21 children in state-subsidized early childhood education programs
+22 administered by public schools or in kindergarten through twelfth grade
+23 participating in the school lunch program who would otherwise be
+24 required to pay a reduced price for lunch and to offset the costs incurred
+25 by a facility school in providing lunch to students who are placed in the
+26 facility and are eligible to participate in the school lunch program. The
+27 appropriation to the department for the program must MAY be in addition
+-7- HB26-1350
+
+1 to any appropriation made by the general assembly pursuant to section
+2 22-54-123 or 22-54-123.5 (1). The department may expend not more than
+3 two percent of the money annually appropriated for the program to offset
+4 the direct and indirect costs incurred by the department in implementing
+5 the program pursuant to this part 1.
+6 SECTION 9. In Colorado Revised Statutes, 22-82.9-302, amend
+7 (3)(a) as follows:
+8 22-82.9-302. Local school food purchasing program - creation
+9 - rules.
+10 (3) (a) In October 2024, and each October thereafter, subject to
+11 annual appropriation IN A STATE FISCAL YEAR WHEN APPROPRIATIONS
+12 FROM THE HEALTHY SCHOOL MEALS FOR ALL PROGRAM FUND CREATED IN
+13 SECTION 22-82.9-211 DO NOT FULLY FUND THE AWARD OF LOCAL FOOD
+14 PURCHASING GRANTS PURSUANT TO SECTION 22-82.9-205, THE GENERAL
+15 ASSEMBLY MAY APPROPRIATE AN AMOUNT FOR the department shall TO
+16 reimburse each participating provider at least five cents for every school
+17 lunch that the participating provider prepared in the immediately
+18 preceding school year; or a minimum of one thousand dollars, whichever
+19 is greater; except that a participating provider is not reimbursed for the
+20 amount of value-added processed products that exceeds twenty-five
+21 percent of the total of the Colorado grown, raised, or processed products
+22 it purchased and that the department may prorate these reimbursements
+23 as necessary.
+24 SECTION 10. In Colorado Revised Statutes, 22-82.9-303,
+25 amend (2) introductory portion as follows:
+26 22-82.9-303. Local school food purchasing technical assistance
+27 and education grant program - creation - report.
+-8- HB26-1350
+
+1 (2) Subject to available appropriations IN A STATE FISCAL YEAR
+2 WHEN APPROPRIATIONS FROM THE HEALTHY SCHOOL MEALS FOR ALL
+3 PROGRAM FUND CREATED IN SECTION 22-82.9-211 DO NOT FULLY FUND
+4 THE LOCAL SCHOOL FOOD PURCHASING TECHNICAL ASSISTANCE AND
+5 EDUCATION GRANT PROGRAM PURSUANT TO SECTION 22-82.9-207, THE
+6 GENERAL ASSEMBLY MAY APPROPRIATE AN AMOUNT FOR the nonprofit
+7 organization may TO award grants for the following:
+8 SECTION 11. Appropriation - adjustments to 2026 long bill.
+9 (1) Except as provided in subsection (3) of this section, to implement this
+10 act, appropriations made in the annual general appropriation act for the
+11 2026-27 state fiscal year to the department of education for use by school
+12 district operations are adjusted as follows:
+13 (a) The cash funds appropriation from the state public school fund
+14 created in section 22-54-114 (1), C.R.S., for state match for the school
+15 lunch program is decreased by $2,472,644;
+16 (b) The cash funds appropriation from the state education fund
+17 created in section 17 (4)(a) of article IX of the state constitution for the
+18 child nutrition school lunch protection program is decreased by $841,460;
+19 (c) The cash funds appropriation from the start smart nutrition
+20 program fund created in section 22-82.7-105 (1), C.R.S., for the start
+21 smart nutrition program is decreased by $296,484; and
+22 (d) The general fund appropriation for summer electronics
+23 benefits transfer for children is decreased by $229,097, and the related
+24 FTE is decreased by 0.9 FTE.
+25 (2) For the 2026-27 state fiscal year, $3,001,741 is appropriated
+26 to the department of education for use by school district operations. This
+27 appropriation is from the healthy school meals for all program fund
+-9- HB26-1350
+
+1 created in section 22-82.9-211 (2)(a), C.R.S. To implement this act, the
+2 department may use this appropriation as follows:
+3 (a) $2,472,644 for state match for the school lunch program;
+4 (b) $235,000 for the child nutrition school lunch protection
+5 program;
+6 (c) $65,000 for the start smart nutrition program; and
+7 (d) $229,097 for summer electronics benefits transfer for children,
+8 which amount is based on an assumption that the department will require
+9 an additional 0.9 FTE.
+10 (3) Subsection (1) of this section does not require a reduction of
+11 an appropriation in the annual general appropriation act for the 2026-27
+12 state fiscal year for the department of education for use by school district
+13 operations if:
+14 (a) The amount of cash funds appropriation from the state public
+15 school fund created in section 22-54-114 (1), C.R.S., made in the annual
+16 general appropriation act for the 2026-27 state fiscal year for state match
+17 for the school lunch program is less than the amount of the adjustment
+18 required in subsection (1)(a) of this section;
+19 (b) The amount of cash funds appropriation from the state
+20 education fund created in section 17 (4)(a) of article IX of the state
+21 constitution made in the annual general appropriation act for the 2026-27
+22 state fiscal year for the child nutrition school lunch protection program is
+23 less than the amount of the adjustment required in subsection (1)(b) of
+24 this section;
+25 (c) The amount of cash funds appropriation from the start smart
+26 nutrition program fund created in section 22-82.7-105 (1), C.R.S., made
+27 in the annual general appropriation act for the 2026-27 state fiscal year
+-10- HB26-1350
+
+1 for the start smart nutrition program is less than the amount of the
+2 adjustment required in subsection (1)(c) of this section;
+3 (d) The amount of the general fund appropriation made in the
+4 annual general appropriation act for the 2026-27 state fiscal year for the
+5 summer electronics benefits transfer for children is less than the amount
+6 of the adjustment required in subsection (1)(d) of this section; or
+7 (e) The annual general appropriation act for the 2026-27 state
+8 fiscal year does not include an appropriation to the department of
+9 education for use by school district operations for:
+10 (I) State match for the school lunch program;
+11 (II) The child nutrition school lunch protection program;
+12 (III) The start smart nutrition program; or
+13 (IV) The summer electronics benefits transfer for children.
+14 SECTION 12. Effective date. This act takes effect upon passage;
+15 except that subsections (1) and (3) of section 11 of this act take effect
+16 only if the annual general appropriation act for the 2026-27 state fiscal
+17 year becomes law, in which case subsections (1) and (3) of section 11 of
+18 this act take effect upon the effective date of this act or of the annual
+19 general appropriation act for state fiscal year 2026-27, whichever is later.
+20 SECTION 13. Safety clause. The general assembly finds,
+21 determines, and declares that this act is necessary for the immediate
+22 preservation of the public peace, health, or safety or for appropriations for
+23 the support and maintenance of the departments of the state and state
+24 institutions.
+-11- HB26-1350

@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0697.01 Michael Dohr x4347 SENATE BILL 26-137
+SENATE SPONSORSHIP
+Coleman and Simpson,
+HOUSE SPONSORSHIP
+McCluskie and Caldwell,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO REDUCE ADMINISTRATIVE BURDENS, AND,
+102 IN CONNECTION THEREWITH, MAKING CHANGES TO THE
+103 MANDATORY REVIEW OF DEPARTMENT RULES BY EACH
+104 PRINCIPAL DEPARTMENT AND CLARIFYING THE ATTORNEY
+105 GENERAL'S SCOPE OF AUTHORITY RELATED TO LITIGATION
+106 DISCOVERY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires each principal department (department) to
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+establish a schedule to review all of its rules. The bill requires the review
+to occur at least every 5 years. Current law directs each department to
+make certain determinations when conducting the review of the rules. The
+bill requires the following additional determinations:
+! Whether the department has rules with the same or similar
+purpose, intent, or goal and, if so, how those are
+coordinated and whether redundant rules can be eliminated;
+! Whether the rule is outdated or obsolete;
+! Whether funding levels to support the program or function
+subject to the rule are appropriate;
+! Whether there are opportunities to improve the
+effectiveness of the rule in meeting its purpose, intent, or
+goal; and
+! Whether the rule creates administrative burdens on the
+agency, consumers, or businesses without a corresponding
+public benefit.
+Current law requires each department to present a report at its
+"SMART Act" hearing regarding its mandatory review of all rules. The
+bill permits the committee of reference presiding over the "SMART Act"
+hearing to determine whether a program or function subject to the rules
+should be subject to a sunset review and to provide to the legislative audit
+committee its departmental regulatory agenda for the audit committee to
+determine whether a program or function subject to the rule should be
+subject to a performance or financial audit.
+The bill clarifies the attorney general's responsibility regarding
+litigation discovery on behalf of the state of Colorado or on behalf of the
+people of the state of Colorado.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-4-103.3, amend
+3 (1) introductory portion, (1)(e), (1)(g), (3), and (4); and add (1)(i), (1)(j),
+4 (1)(k), (1)(l), and (1)(m) as follows:
+5 24-4-103.3. Mandatory review of rules by agencies - report on
+6 results of review in departmental regulatory agendas - definitions.
+7 (1) The department of regulatory agencies EACH PRINCIPAL
+8 DEPARTMENT shall establish a schedule in consultation with each
+9 principal department, for the PERIODIC review of all of the DEPARTMENT'S
+10 rules for each principal department TO OCCUR AT LEAST EVERY FIVE
+-2- SB26-137
+
+1 YEARS; EXCEPT THAT THE YEAR BEFORE AND THE YEAR AFTER A SUNSET
+2 REVIEW ARE NOT INCLUDED IN THE FIVE-YEAR CALCULATION. Each
+3 principal department shall conduct a review of all of its rules to assess the
+4 continuing need for and the appropriateness and cost-effectiveness of its
+5 rules to determine if they should be continued in their current form,
+6 modified, or repealed. The applicable rule-making agency or official in
+7 the principal department shall consider the following:
+8 (e) Whether the rule can be amended to give more flexibility,
+9 reduce regulatory burdens, or reduce unnecessary paperwork or steps
+10 while maintaining MEETING its INTENDED GOALS AND benefits;
+11 (g) Whether a cost-benefit analysis was performed by the
+12 applicable rule-making agency or official in the principal department
+13 pursuant to section 24-4-103 (2.5) and OR AN EQUIVALENT ANALYSIS
+14 REQUIRED BY FEDERAL LAW OR PURSUANT TO SECTION 25-7-110.5;
+15 (i) WHETHER THERE ARE OTHER RULES ADOPTED BY THE
+16 RULE-MAKING AGENCY OR OFFICIAL THAT HAVE THE SAME OR SIMILAR
+17 PURPOSE, INTENT, OR GOAL; HOW THOSE ARE COORDINATED; AND
+18 WHETHER REDUNDANCIES CAN BE ELIMINATED;
+19 (j) WHETHER THE RULE IS OUTDATED OR OBSOLETE;
+20 (k) WHETHER FUNDING LEVELS TO SUPPORT THE PROGRAM OR
+21 FUNCTION SUBJECT TO THE RULE ARE APPROPRIATE. AS USED IN THIS
+22 SUBSECTION (1)(k), "APPROPRIATE" MEANS SUFFICIENT TO ADMINISTER
+23 AND ENFORCE THE PROGRAM OR RULE IN COMPLIANCE WITH STATE AND
+24 FEDERAL LAW, WITHIN EXISTING APPROPRIATIONS AND AUTHORIZED FEE
+25 STRUCTURES.
+26 (l) WHETHER THERE ARE OPPORTUNITIES TO IMPROVE THE
+27 EFFECTIVENESS OF THE RULE IN MEETING ITS PURPOSE, INTENT, OR GOAL.
+-3- SB26-137
+
+1 AS USED IN THIS SUBSECTION (1)(l), "OPPORTUNITIES" MEANS
+2 REASONABLE AND LEGALLY PERMISSIBLE ADJUSTMENTS WITHIN THE
+3 AGENCY'S EXISTING STATUTORY AUTHORITY THAT WOULD IMPROVE
+4 IMPLEMENTATION OR ADMINISTRATION OF THE RULE.
+5 (m) WHETHER THE RULE CREATES ADMINISTRATIVE BURDENS ON
+6 THE AGENCY, CONSUMERS, OR BUSINESSES WITHOUT A CORRESPONDING
+7 PUBLIC BENEFIT. FOR THE PURPOSES OF THIS SUBSECTION (1)(m), A RULE
+8 REQUIRED BY FEDERAL LAW OR APPROVED AS PART OF A STATE
+9 IMPLEMENTATION PLAN IS PRESUMED TO HAVE A CORRESPONDING PUBLIC
+10 BENEFIT.
+11 (3) The department of regulatory agencies A PRINCIPAL
+12 DEPARTMENT shall not schedule mandatory review under this section
+13 during the year of and during the year following any scheduled sunset
+14 review conducted by the department of regulatory agencies pursuant to
+15 section 24-34-104.
+16 (4) (a) Each principal department shall include a report on the
+17 results of its mandatory review of rules as part of its departmental
+18 regulatory agenda that it submits to the staff of the legislative council for
+19 distribution to the applicable committee of reference of the general
+20 assembly as outlined in section 2-7-203. C.R.S. THE COMMITTEE OF
+21 REFERENCE SHALL REVIEW THE DEPARTMENTAL REPORT DURING THE
+22 COMMITTEE'S "SMART ACT" HEARING.
+23 (b) THE COMMITTEE OF REFERENCE MAY DETERMINE WHETHER A
+24 PROGRAM OR FUNCTION SUBJECT TO THE RULES SHOULD BE SUBJECT TO A
+25 SUNSET REVIEW PURSUANT TO SECTION 24-34-104 (5) AND SHALL PROVIDE
+26 TO THE LEGISLATIVE AUDIT COMMITTEE ITS DEPARTMENTAL REGULATORY
+27 AGENDA FOR THE LEGISLATIVE AUDIT COMMITTEE TO DETERMINE
+-4- SB26-137
+
+1 WHETHER A PROGRAM OR FUNCTION SUBJECT TO THE RULES SHOULD BE
+2 SUBJECT TO A PERFORMANCE OR FINANCIAL AUDIT BY THE OFFICE OF THE
+3 STATE AUDITOR PURSUANT TO SECTION 2-3-103.
+4 SECTION 2. In Colorado Revised Statutes, 24-31-101, add (6)
+5 as follows:
+6 24-31-101. Powers and duties of attorney general.
+7 (6) IN ANY ACTION BROUGHT BY THE ATTORNEY GENERAL IN THE
+8 ATTORNEY GENERAL'S OFFICIAL CAPACITY, OR ON THE RELATION OF THE
+9 STATE OF COLORADO OR THE PEOPLE OF THE STATE OF COLORADO, TO
+10 ENFORCE THE LAW AS AUTHORIZED BY STATUTE OR COMMON LAW, THE
+11 ATTORNEY GENERAL SHALL NOT BE DEEMED TO PURSUE AN ACTION ON
+12 BEHALF OF ANY OTHER STATE OFFICER OR ANY STATE AGENCY,
+13 DEPARTMENT, OFFICE, BOARD, COMMISSION, OR ENTERPRISE AND SHALL
+14 NOT BE DEEMED IN POSSESSION, CUSTODY, OR CONTROL OF ANY RECORD
+15 THAT IS MADE, KEPT, OR MAINTAINED BY ANY OTHER STATE OFFICER OR
+16 ANY STATE AGENCY, DEPARTMENT, OFFICE, BOARD, COMMISSION, OR
+17 ENTERPRISE FOR THE PURPOSE OF ANY DISCOVERY REQUEST DIRECTED AT
+18 THE ATTORNEY GENERAL IN THE ATTORNEY GENERAL'S OFFICIAL
+19 CAPACITY, OR ON THE RELATION OF THE STATE OF COLORADO OR THE
+20 PEOPLE OF THE STATE OF COLORADO, AS A PARTY TO SUCH ACTION.
+21 SECTION 3. Act subject to petition - effective date. This act
+22 takes effect at 12:01 a.m. on the day following the expiration of the
+23 ninety-day period after final adjournment of the general assembly (August
+24 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+25 referendum petition is filed pursuant to section 1 (3) of article V of the
+26 state constitution against this act or an item, section, or part of this act
+27 within such period, then the act, item, section, or part will not take effect
+-5- SB26-137
+
+1 unless approved by the people at the general election to be held in
+2 November 2026 and, in such case, will take effect on the date of the
+3 official declaration of the vote thereon by the governor.
+-6- SB26-137

@@ -1,0 +1,363 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0319.01 Clare Haffner x6137 HOUSE BILL 26-1007
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO IMPROVE A CUSTOMER'S ABILITY TO USE
+102 DISTRIBUTED ENERGY RESOURCES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill defines, and creates requirements for, portable-scale solar
+generation devices. In addition, the bill prohibits a provider of retail
+electric service or wholesale energy from, among other things, requiring
+a customer to obtain the provider's approval before installing or using a
+portable-scale solar generation device. The bill also prohibits a person
+from restricting, prohibiting, or imposing unreasonable conditions on the
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,4
+hcraM
+HOUSE SPONSORSHIP
+Smith and Stewart R.,
+SENATE SPONSORSHIP
+Kipp,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+installation, use, or operation of a portable-scale solar generation device.
+Under current law, a utility that is subject to regulation by the
+public utilities commission (commission) must allow for customer
+ownership and use of a meter collar adapter through the utility's
+interconnection standards. The bill requires the commission, on or before
+December 31, 2026, to revise existing commission interconnection rules
+to explicitly require commission-regulated utilities to allow for customer
+ownership and use of meter collar adapters and to prohibit
+commission-regulated utilities from requiring a production meter as a
+condition of interconnection for a customer-sited distributed energy
+resource.
+The bill requires municipally owned utilities and cooperative
+electric associations to also allow for customer ownership and use of
+meter collar adapters and prohibits municipally owned utilities and
+cooperative electric associations from requiring a production meter as a
+condition of interconnection for a customer-sited distributed energy
+resource.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) With weather-related power outages on the rise, distributed
+5 generation systems, such as residential solar energy systems, create a
+6 clean, reliable energy source that, especially when paired with an energy
+7 storage system, is less vulnerable to natural disasters and grid failures;
+8 (b) Customers across the state are increasingly wanting to have
+9 more freedom and choice over their energy decisions and to increase the
+10 self-reliance and self-sufficiency of their families and communities;
+11 (c) Portable-scale solar generation devices plug in directly to a
+12 wall outlet and immediately provide energy to a home. These devices can
+13 play a meaningful role in addressing energy affordability statewide, and
+14 they are ideal for any small space, such as an apartment balcony or a
+15 small patio.
+16 (d) While clean energy technologies, including portable-scale
+-2- 1007
+
+1 solar generation devices, are becoming increasingly available for
+2 customers, interconnection fees and other utility processes can make the
+3 adoption of such technologies unnecessarily costly and burdensome;
+4 (e) It is the policy of the state and the intent of the general
+5 assembly to encourage the use of portable-scale solar generation devices
+6 and to limit obstacles to customers' use of these devices; and
+7 (f) Increasing renewable energy generation and allowing
+8 customers across the state to have more freedom, choice, and
+9 self-sufficiency over their energy decisions through the use of
+10 portable-scale solar generation devices is a matter of statewide concern.
+11 (2) The general assembly further finds that:
+12 (a) Customer-sited distributed energy resources, including rooftop
+13 solar and energy storage, are important tools to help customers manage
+14 bills, improve resilience, and support achievement of the state's clean
+15 energy and climate goals;
+16 (b) UL labeling and listing, building codes, and fire codes ensure
+17 consumer safety for renewable energy devices;
+18 (c) Ensuring efficient, low-cost, and timely interconnection of
+19 distributed energy resources is a matter of statewide concern;
+20 (d) Use of meter collar adapters can reduce or avoid costly and
+21 time-consuming service panel upgrades when interconnecting distributed
+22 energy resources, thereby lowering the costs of and barriers to
+23 customer-sited distributed energy resources for households and small
+24 businesses;
+25 (e) Cooperative electric associations are required to comply with
+26 the interconnection rules adopted by the public utilities commission, and
+27 municipally owned utilities are required to adopt interconnection
+-3- 1007
+
+1 standards that are functionally similar to those established by the public
+2 utilities commission;
+3 (f) However, existing law does not explicitly require that
+4 cooperative electric associations and municipally owned utilities must
+5 allow for customer use of meter collar adapters; and
+6 (g) Therefore, additional statutory direction is needed to ensure
+7 that all utilities in the state fully and efficiently accommodate the use of
+8 meter collar adapters.
+9 (3) The general assembly further finds that requiring separate
+10 production meters for customer-sited distributed energy resources in
+11 circumstances where net energy consumption can be accurately measured
+12 at the customer's billing meter adds unnecessary cost and complexity that
+13 discourage beneficial distributed energy resources.
+14 SECTION 2. In Colorado Revised Statutes, add 40-2-140 as
+15 follows:
+16 40-2-140. Portable-scale solar generation devices -
+17 requirements - exemptions - definitions.
+18 (1) AS USED IN THIS SECTION:
+19 (a) "COMMON INTEREST COMMUNITY" HAS THE MEANING SET
+20 FORTH IN SECTION 38-33.3-103 (8).
+21 (b) "ENERGY EFFICIENCY MEASURE" HAS THE MEANING SET FORTH
+22 IN SECTION 38-33.3-106.7 (1)(b).
+23 (c) "LIMITED COMMON ELEMENT" HAS THE MEANING SET FORTH IN
+24 SECTION 38-33.3-103 (19).
+25 (d) "PERSON" HAS THE MEANING SET FORTH IN SECTION 2-4-401
+26 (8).
+27 (e) "PORTABLE-SCALE SOLAR GENERATION DEVICE" OR "DEVICE"
+-4- 1007
+
+1 MEANS A SINGLE PHOTOVOLTAIC SYSTEM PER ADDRESS AND ASSOCIATED
+2 EQUIPMENT THAT:
+3 (I) IS DESIGNED OR COMMISSIONED TO SUPPLY A MAXIMUM POWER
+4 OUTPUT OF NOT MORE THAN ONE THOUSAND NINE HUNDRED TWENTY
+5 WATTS TO THE ELECTRIC GRID; AND
+6 (II) IS LABELED AND LISTED BY A NATIONALLY RECOGNIZED
+7 TESTING LABORATORY.
+8 (2) A PORTABLE-SCALE SOLAR GENERATION DEVICE MUST INCLUDE
+9 A FEATURE THAT PREVENTS THE DEVICE FROM ENERGIZING THE ELECTRIC
+10 GRID DURING A POWER OUTAGE.
+11 (3) A CUSTOMER THAT USES A PORTABLE-SCALE SOLAR
+12 GENERATION DEVICE SHALL NOT CONNECT MORE THAN ONE DEVICE TO A
+13 SINGLE WALL OUTLET PER ADDRESS.
+14 (4) (a) A PROVIDER OF RETAIL ELECTRIC SERVICE OR WHOLESALE
+15 ENERGY SHALL NOT REQUIRE A CUSTOMER TO:
+16 (I) OBTAIN THE PROVIDER'S APPROVAL BEFORE INSTALLING OR
+17 USING A PORTABLE-SCALE SOLAR GENERATION DEVICE;
+18 (II) PAY THE PROVIDER A FEE RELATED TO A PORTABLE-SCALE
+19 SOLAR GENERATION DEVICE; OR
+20 (III) INSTALL ANY ADDITIONAL CONTROLS OR EQUIPMENT BEYOND
+21 WHAT IS INTEGRATED INTO A PORTABLE-SCALE SOLAR GENERATION
+22 DEVICE PURSUANT TO THE UL LISTING OF THE DEVICE.
+23 (b) A PROVIDER OF RETAIL ELECTRIC SERVICE OR WHOLESALE
+24 ENERGY MAY REQUIRE A CUSTOMER TO NOTIFY THE PROVIDER OF THE
+25 CUSTOMER'S USE OF A PORTABLE-SCALE SOLAR GENERATION DEVICE BY
+26 INDICATING THE PRESENCE AND SIZE OF THE DEVICE IN KILOWATTS.
+27 (5) A PORTABLE-SCALE SOLAR GENERATION DEVICE THAT HAS A
+-5- 1007
+
+1 POWER OUTPUT OF NOT MORE THAN THREE HUNDRED NINETY-ONE WATTS
+2 IS EXEMPT FROM:
+3 (a) THE SOLAR PHOTOVOLTAIC INSTALLATION REQUIREMENTS
+4 DESCRIBED IN SECTION 40-2-128; AND
+5 (b) ANY BUILDING SAFETY CODE PROVISIONS OR PRODUCT LISTING
+6 PROVISIONS THAT WOULD REQUIRE ALTERATIONS TO THE BUILDING'S
+7 ELECTRICAL WIRING.
+8 (6) ON AND AFTER JANUARY 1, 2027, A PERSON SHALL NOT SELL,
+9 LEASE, OR RENT A PORTABLE-SCALE SOLAR GENERATION DEVICE THAT HAS
+10 A POWER OUTPUT OF NOT MORE THAN THREE HUNDRED NINETY-ONE
+11 WATTS IN THE STATE AND IS NOT UL LABELED AND LISTED.
+12 (7) ON AND AFTER JANUARY 1, 2027:
+13 (a) A PERSON SHALL NOT DIRECTLY OR INDIRECTLY
+14 UNREASONABLY PROHIBIT THE INSTALLATION, USE, OR OPERATION OF A
+15 PORTABLE-SCALE SOLAR GENERATION DEVICE;
+16 (b) A COVENANT OR RESTRICTION THAT EXPLICITLY OR
+17 INDIRECTLY UNREASONABLY PROHIBITS OR RESTRICTS THE INSTALLATION,
+18 USE, OR OPERATION OF A PORTABLE-SCALE SOLAR GENERATION DEVICE IS
+19 UNENFORCEABLE AND VOID AS A MATTER OF PUBLIC POLICY;
+20 (c) A PORTABLE-SCALE SOLAR GENERATION DEVICE IS CONSIDERED
+21 AN ENERGY EFFICIENCY MEASURE FOR THE PURPOSES OF SECTION
+22 38-33.3-106.7; EXCEPT THAT, NOTWITHSTANDING SECTION 38-33.3-106.7
+23 (3)(d), A REAL PROPERTY OWNER MAY INSTALL, USE, OR OPERATE A
+24 DEVICE ON REAL PROPERTY THAT IS A LIMITED COMMON ELEMENT OF A
+25 COMMON INTEREST COMMUNITY; AND
+26 (d) A REAL PROPERTY OWNER MAY REQUIRE REASONABLE
+27 RESTRICTIONS FOR THE INSTALLATION, USE, OR OPERATION OF A
+-6- 1007
+
+1 PORTABLE-SCALE SOLAR GENERATION DEVICE, INCLUDING REQUIRING
+2 PRIOR NOTICE OF THE INSTALLATION OF A DEVICE AND RESTRICTIONS
+3 RELATED TO PREVENTING FIRE OR ELECTRICAL OVERLOAD OF THE
+4 EXISTING ELECTRICAL SYSTEM, PREVENTING DAMAGE OR HARM TO A
+5 PERSON OR PROPERTY, AND THE LOCATION OF THE DEVICE.
+6 (8) A PROVIDER OF RETAIL ELECTRIC SERVICE OR WHOLESALE
+7 ENERGY IS NOT LIABLE FOR ANY DAMAGE OR INJURY CAUSED BY A
+8 PORTABLE-SCALE SOLAR GENERATION DEVICE.
+9 (9) THE INSTALLATION OF A PORTABLE-SCALE SOLAR GENERATION
+10 DEVICE MUST BE IN ACCORDANCE WITH FIRE CODE REQUIREMENTS AND
+11 APPLICABLE LOCAL BUILDING CODES THAT PERTAIN TO HEALTH AND
+12 SAFETY.
+13 SECTION 3. In Colorado Revised Statutes, 40-2-124, amend
+14 (7)(b)(IV); and add (1.3) as follows:
+15 40-2-124. Renewable energy standards - qualifying retail and
+16 wholesale utilities - definitions - net metering - legislative declaration
+17 - rules.
+18 (1.3) ON OR BEFORE DECEMBER 31, 2026, THE COMMISSION SHALL
+19 REVISE EXISTING RULES TO:
+20 (a) REQUIRE A QUALIFYING RETAIL UTILITY TO ALLOW FOR
+21 CUSTOMER OWNERSHIP AND USE OF A METER COLLAR ADAPTER THAT IS
+22 APPROVED BY A NATIONALLY RECOGNIZED TESTING LABORATORY TO
+23 PERMIT THE INTERCONNECTION OF DISTRIBUTED ENERGY RESOURCES AND
+24 FOR ELECTRICAL ISOLATION OF THE CUSTOMER'S SITE FOR ENERGY BACKUP
+25 PURPOSES;
+26 (b) REQUIRE A QUALIFYING RETAIL UTILITY TO HAVE A
+27 TRANSPARENT PROCESS FOR APPROVING CUSTOMER-OWNED METER
+-7- 1007
+
+1 COLLAR ADAPTERS THAT MEET MINIMUM SAFETY REQUIREMENTS. THE
+2 APPROVAL PROCESS MUST TAKE NO MORE THAN SIXTY DAYS AFTER THE
+3 DATE OF SUBMISSION FOR APPROVAL OF A SPECIFIC METER COLLAR
+4 ADAPTER BY THE PROPOSING PARTY. A QUALIFYING RETAIL UTILITY SHALL
+5 POST ON ITS WEBSITE A PUBLIC LIST OF APPROVED METER COLLAR
+6 ADAPTERS AND UPDATE THE LIST AT LEAST ANNUALLY. A QUALIFYING
+7 RETAIL UTILITY SHALL APPROVE A PROPOSED CUSTOMER-OWNED METER
+8 COLLAR ADAPTER THAT:
+9 (I) IS CERTIFIED FOR COMPLIANCE WITH THE STANDARDS
+10 REFERENCED IN UL 414 AND OTHER APPLICABLE STANDARDS, AS
+11 DETERMINED BY A NATIONALLY RECOGNIZED TESTING LABORATORY, AND
+12 IS RATED ADEQUATELY FOR THE CONNECTED EQUIPMENT; AND
+13 (II) DOES NOT IMPEDE ACCESS TO THE SEALED METER SOCKET
+14 COMPARTMENT OR PULL SECTION OF THE SERVICE ENTRANCE STATION;
+15 (c) IF THE INSTALLATION OF AN APPROVED METER COLLAR
+16 ADAPTER REQUIRES REMOVAL OF THE METER, ALLOW A QUALIFYING
+17 RETAIL UTILITY TO REQUIRE THAT THE INSTALLATION WORK BE
+18 PERFORMED BY THE QUALIFYING RETAIL UTILITY OR A LICENSED
+19 ELECTRICAL CONTRACTOR OR OTHER THIRD PARTY APPROVED BY THE
+20 QUALIFYING RETAIL UTILITY IN A TIMELY MANNER AND AT NO ADDITIONAL
+21 COST TO THE CUSTOMER;
+22 (d) REQUIRE A QUALIFYING RETAIL UTILITY TO ESTABLISH AND
+23 PUBLISH IN THE QUALIFYING RETAIL UTILITY'S TARIFFS A PROCESS FOR A
+24 CUSTOMER TO REQUEST AND INSTALL A METER COLLAR ADAPTER, WHICH
+25 PROCESS MUST TAKE NO LONGER THAN THIRTY DAYS AND NOT BE UNDULY
+26 BURDENSOME TO THE CUSTOMER;
+27 (e) REQUIRE A QUALIFYING RETAIL UTILITY TO FACILITATE THE
+-8- 1007
+
+1 INSTALLATION OF A METER COLLAR ADAPTER BY AN ELECTRICAL
+2 CONTRACTOR REGISTERED WITH THE STATE ELECTRICAL BOARD PURSUANT
+3 TO SECTION 12-115-110 AND REQUIRE THAT ALL ELECTRICAL WORK BE
+4 PERFORMED BY A MASTER ELECTRICIAN, JOURNEYMAN ELECTRICIAN,
+5 RESIDENTIAL WIREMAN, OR PROPERLY SUPERVISED APPRENTICE; AND
+6 (f) PROHIBIT A QUALIFYING RETAIL UTILITY FROM REQUIRING A
+7 PRODUCTION METER AS A CONDITION OF INTERCONNECTION FOR A
+8 CUSTOMER-SITED DISTRIBUTED ENERGY RESOURCE THAT HAS A POWER
+9 OUTPUT OF NO MORE THAN TEN KILOWATTS.
+10 (7) (b) Each municipally owned utility shall allow a
+11 customer-generator's retail electricity consumption to be offset by the
+12 electricity generated from eligible energy resources on the
+13 customer-generator's side of the meter that are interconnected with the
+14 facilities of the municipally owned utility, subject to the following:
+15 (IV) Interconnection standards. Each municipally owned utility
+16 shall adopt and post small generation interconnection standards and
+17 insurance requirements that are functionally similar to those established
+18 in the rules promulgated ADOPTED by the public utilities commission
+19 pursuant to this section; except that the municipally owned utility may
+20 reduce or waive any of the insurance requirements. If any
+21 customer-generator subject to the size specifications specified in
+22 subparagraph (V) of this paragraph (b) SUBSECTION (7)(b)(V) OF THIS
+23 SECTION is denied interconnection by the municipally owned utility, the
+24 utility shall provide a written technical or economic explanation of such
+25 denial to the customer. A MUNICIPALLY OWNED UTILITY SHALL NOT
+26 REQUIRE A PRODUCTION METER AS A CONDITION FOR INTERCONNECTION
+27 FOR A CUSTOMER-SITED DISTRIBUTED ENERGY RESOURCE. A MUNICIPALLY
+-9- 1007
+
+1 OWNED UTILITY'S INTERCONNECTION STANDARDS MUST:
+2 (A) ALLOW FOR CUSTOMER OWNERSHIP AND USE OF A METER
+3 COLLAR ADAPTER TO PERMIT THE INTERCONNECTION OF DISTRIBUTED
+4 ENERGY RESOURCES AND FOR ELECTRICAL ISOLATION OF THE CUSTOMER'S
+5 SITE FOR ENERGY BACKUP PURPOSES;
+6 (B) INCLUDE A TRANSPARENT PROCESS FOR APPROVING
+7 CUSTOMER-OWNED METER COLLAR ADAPTERS THAT MEET MINIMUM
+8 SAFETY REQUIREMENTS. THE APPROVAL PROCESS MUST TAKE NO MORE
+9 THAN SIXTY DAYS AFTER THE DATE OF SUBMISSION FOR APPROVAL OF A
+10 SPECIFIC METER COLLAR ADAPTER BY THE PROPOSING PARTY. A
+11 MUNICIPALLY OWNED UTILITY SHALL POST ON ITS WEBSITE A PUBLIC LIST
+12 OF APPROVED METER COLLAR ADAPTERS AND UPDATE THE LIST AT LEAST
+13 ANNUALLY. A MUNICIPALLY OWNED UTILITY SHALL APPROVE A PROPOSED
+14 CUSTOMER-OWNED METER COLLAR ADAPTER THAT IS CERTIFIED FOR
+15 COMPLIANCE WITH THE STANDARDS REFERENCED IN UL 414, IS RATED
+16 ADEQUATELY FOR THE CONNECTED EQUIPMENT, AND DOES NOT IMPEDE
+17 ACCESS TO THE SEALED METER SOCKET COMPARTMENT OR PULL SECTION
+18 OF THE SERVICE ENTRANCE STATION.
+19 (C) INCLUDE A PROCESS FOR A CUSTOMER TO REQUEST AND
+20 INSTALL A METER COLLAR ADAPTER, WHICH PROCESS MUST TAKE NO
+21 LONGER THAN THIRTY DAYS AND NOT BE UNDULY BURDENSOME TO THE
+22 CUSTOMER; AND
+23 (D) ALLOW FOR THE INSTALLATION OF A METER COLLAR ADAPTER
+24 BY A PROFESSIONAL CONTRACTOR WITH A VALID ELECTRICIAN LICENSE
+25 ISSUED PURSUANT TO ARTICLE 115 OF TITLE 12.
+26 SECTION 4. In Colorado Revised Statutes, 40-9.5-118, amend
+27 (2)(d) as follows:
+-10- 1007
+
+1 40-9.5-118. Net metering - rules.
+2 (2) Each cooperative electric association shall allow a
+3 customer-generator's retail electricity consumption to be offset by the
+4 electricity generated from eligible energy resources on the
+5 customer-generator's side of the meter that are interconnected with the
+6 facilities of the cooperative electric association, subject to the following:
+7 (d) Interconnection standards. A cooperative electric association
+8 and a customer-generator shall comply with the interconnection standards
+9 and insurance requirements established in the rules promulgated ADOPTED
+10 by the public utilities commission pursuant to section 40-2-124; except
+11 that the cooperative electric association may reduce or waive any of the
+12 insurance requirements; and except that the public utilities commission
+13 shall initiate a rule-making proceeding no later than October 1, 2008, for
+14 the purpose of addressing cooperative electric association system issues
+15 in its small generator interconnection procedures. A cooperative electric
+16 association shall not prevent or unreasonably burden the installation of a
+17 net metering system if such system includes protective equipment that
+18 prevents any export of customer-generated electricity from the customer's
+19 side of the meter. A COOPERATIVE ELECTRIC ASSOCIATION AND A
+20 CUSTOMER-GENERATOR SHALL COMPLY WITH THE RULES ADOPTED BY THE
+21 PUBLIC UTILITIES COMMISSION PURSUANT TO SECTION 40-2-124 (1.3)
+22 REGARDING METER COLLAR ADAPTERS AND PRODUCTION METERS.
+23 SECTION 5. In Colorado Revised Statutes, 38-33.3-106.7,
+24 amend (1)(b)(V) and (1)(b)(VI); and add (1)(b)(VII) as follows:
+25 38-33.3-106.7. Unreasonable restrictions on energy efficiency
+26 measures - definitions.
+27 (1) (b) As used in this section, "energy efficiency measure" means
+-11- 1007
+
+1 a device or structure that reduces the amount of energy derived from
+2 fossil fuels that is consumed by a residence or business located on the real
+3 property. "Energy efficiency measure" is further limited to include only
+4 the following types of devices or structures:
+5 (V) A retractable clothesline; and
+6 (VI) A heat pump system, as defined in section 39-26-732 (2)(c);
+7 AND
+8 (VII) ON AND AFTER JANUARY 1, 2027, A PORTABLE-SCALE SOLAR
+9 GENERATION DEVICE, AS DEFINED IN SECTION 40-2-140 (1)(e).
+10 SECTION 6. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-12- 1007

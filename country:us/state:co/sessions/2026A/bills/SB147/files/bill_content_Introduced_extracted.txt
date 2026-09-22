@@ -1,0 +1,341 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0859.01 Jed Franklin x5484 SENATE BILL 26-147
+SENATE SPONSORSHIP
+Cutter and Pelton R., Carson, Catlin, Gonzales J., Jodeh, Kipp, Kolker, Lindstedt, Liston,
+Marchman, Rich, Sullivan
+HOUSE SPONSORSHIP
+Johnson and Froelich, Winter T., Bacon, Barron, Bottoms, Bradfield, Caldwell, Clifford,
+Goldstein, Gonzalez R., Hamrick, Hartsook, Jackson, Keltie, Lindsay, Marshall, Martinez,
+Richardson, Slaugh, Soper, Stewart R., Story, Taggart, Titone, Velasco, Willford, Woog,
+Zokaie
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING THE REGULATION OF LOBBYISTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill allows a person to select a day (advocacy day) that
+individuals may lobby a covered official on the person's behalf (advocacy
+day participant). A person who will have an advocacy day participant
+lobby a covered official on their behalf during an advocacy day must
+register and file specified information with the general assembly for each
+advocacy day during which an advocacy day participant is expected to
+participate. An advocacy day may only occur if the person has filed the
+form and the general assembly is in a regular or special session.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+An advocacy day participant is not a volunteer or professional
+lobbyist and is not required to annually register with the secretary of state
+or complete monthly disclosure statements. An advocacy day participant
+must not accept compensation for lobbying during an advocacy day,
+lobby on behalf of a person not registered with the general assembly,
+lobby outside of a one-mile radius of the state capitol, or lobby on a day
+other than that designated as an advocacy day.
+The bill provides that a lobbyist exclusively employed by a single
+nonprofit entity who engages in lobbying of covered officials on behalf
+of the nonprofit entity as an incidental duty of the individual's role is a
+nonprofit advocate (nonprofit advocate). A nonprofit advocate is not a
+professional lobbyist but must comply with the registration and disclosure
+requirements of professional lobbyists.
+Currently, each principal department must designate one person
+who is responsible for lobbying a state official or employee on behalf of
+the department (legislative liaison). The bill provides that the judicial
+branch must also have one legislative liaison who lobbies on the judicial
+branch's behalf (judicial lobbyist). A legislative liaison, a judicial
+lobbyist, or an individual who lobbies on behalf of the offices of the
+governor or lieutenant governor as a member of the governor's cabinet or
+as a personal staff employee in the offices of the governor or the
+lieutenant governor (governor's lobbyist) must register with the secretary
+of state annually.
+In addition to annually registering with the secretary of state, a
+legislative liaison, judicial lobbyist, or a governor's lobbyist must file a
+monthly disclosure statement with the secretary of state (disclosure
+statement). The bill provides that a legislative liaison, judicial lobbyist,
+or a governor's lobbyist must indicate on the disclosure statement the bill
+number of any legislation for which they have lobbied or will lobby a
+covered official and their position regarding the legislation. The
+legislative liaison, judicial lobbyist, or a governor's lobbyist must update
+their position on the disclosure statement within 72 hours of a change in
+position.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Community engagement is the foundation of a democratic
+5 legislative body and is critical to ensure a collaborate environment for
+6 developing sustainable public policy that impacts the state;
+-2- SB26-147
+
+1 (b) Community engagement should be conducted in a transparent
+2 manner; and
+3 (c) Government transparency is crucial to the democratic process
+4 and the general public should have transparent access to state agency
+5 engagement.
+6 (2) Therefore, the general assembly further finds and declares that
+7 it seeks to foster collaboration and policy engagement by the community
+8 through strengthening the state's lobbying transparency laws and
+9 providing greater clarity to ensure a role for all entities and persons to
+10 participate.
+11 SECTION 2. In Colorado Revised Statutes, 24-6-301, amend (1),
+12 (3.7), and (6); and add (1.1), (1.2), (3.8), and (3.9) as follows:
+13 24-6-301. Definitions - legislative declaration.
+14 As used in this part 3, unless the context otherwise requires:
+15 (1) "Client" means the person who employs or retains the
+16 professional services of one or more lobbyists to undertake lobbying on
+17 behalf of that person. For the purposes of this part 3, a professional
+18 lobbyist is not a client of another lobbyist for whom he or she undertakes
+19 lobbying on a subcontract basis nor is the professional lobbyist a client of
+20 either a lobbying firm or any other person that employs or retains one or
+21 more professional lobbyists to undertake lobbying on behalf of one or
+22 more clients. Where the client is an organization or entity, nothing in this
+23 subsection (1) requires the organization or entity to provide the names of
+24 any of its shareholders, investors, business partners, coalition partners,
+25 members, donors, or supporters, as applicable. "ADVOCACY DAY" MEANS
+26 A CALENDAR DAY SELECTED BY A PERSON PURSUANT TO SECTION
+27 24-6-303.3 (1)(b).
+-3- SB26-147
+
+1 (1.1) "ADVOCACY DAY PARTICIPANT" MEANS AN INDIVIDUAL WHO
+2 LOBBIES A COVERED OFFICIAL IN COMPLIANCE WITH SECTION 24-6-303.3.
+3 (1.2) "CLIENT" MEANS THE PERSON WHO EMPLOYS OR RETAINS THE
+4 PROFESSIONAL SERVICES OF ONE OR MORE LOBBYISTS TO UNDERTAKE
+5 LOBBYING ON BEHALF OF THAT PERSON. FOR THE PURPOSES OF THIS PART
+6 3, A PROFESSIONAL LOBBYIST IS NOT A CLIENT OF ANOTHER LOBBYIST FOR
+7 WHOM HE OR SHE UNDERTAKES LOBBYING ON A SUBCONTRACT BASIS NOR
+8 IS THE PROFESSIONAL LOBBYIST A CLIENT OF EITHER A LOBBYING FIRM OR
+9 ANY OTHER PERSON THAT EMPLOYS OR RETAINS ONE OR MORE
+10 PROFESSIONAL LOBBYISTS TO UNDERTAKE LOBBYING ON BEHALF OF ONE
+11 OR MORE CLIENTS. WHERE THE CLIENT IS AN ORGANIZATION OR ENTITY,
+12 NOTHING IN THIS SUBSECTION (1.2) REQUIRES THE ORGANIZATION OR
+13 ENTITY TO PROVIDE THE NAMES OF ANY OF ITS SHAREHOLDERS,
+14 INVESTORS, BUSINESS PARTNERS, COALITION PARTNERS, MEMBERS,
+15 DONORS, OR SUPPORTERS, AS APPLICABLE.
+16 (3.7) "Lobbyist" means either a professional LOBBYIST, AN
+17 ADVOCACY DAY PARTICIPANT, A NONPROFIT ADVOCATE, or a volunteer
+18 lobbyist.
+19 (3.8) "NONPROFIT ADVOCATE" MEANS AN INDIVIDUAL
+20 EXCLUSIVELY EMPLOYED BY A SINGLE NONPROFIT ENTITY WHO ENGAGES
+21 IN LOBBYING OF ONE OR MORE COVERED OFFICIALS ON BEHALF OF THE
+22 NONPROFIT ENTITY AS AN INCIDENTAL DUTY OF THE INDIVIDUAL'S ROLE.
+23 (3.9) "NONPROFIT ENTITY" MEANS A PERSON THAT IS REGISTERED
+24 AS AN EXEMPT CHARITABLE ORGANIZATION PURSUANT TO 26 U.S.C. SEC.
+25 501 (c)(3) AND THAT IS EXEMPT FROM TAXATION PURSUANT TO 26 U.S.C.
+26 SEC. 501 (a) OF THE FEDERAL "INTERNAL REVENUE CODE OF 1986".
+27 (6) "Professional lobbyist" means a person, business entity,
+-4- SB26-147
+
+1 including a sole proprietorship, or an employee of a client, who is
+2 compensated by a client or another professional lobbyist for lobbying.
+3 "Professional lobbyist" does not include any volunteer lobbyist, any state
+4 official or employee acting in his THEIR official capacity, except as
+5 provided in section 24-6-303.5, any elected public official acting in his
+6 THEIR official capacity, A NONPROFIT ADVOCATE, AN ADVOCACY DAY
+7 PARTICIPANT, AN EMPLOYEE OF A CLIENT WHO IS ASSISTING A
+8 PROFESSIONAL LOBBYIST, UNLESS THE EMPLOYEE'S DUTIES FOR THE CLIENT
+9 INCLUDE LOBBYING ON BEHALF OF THE CLIENT, or any individual who
+10 appears as counsel or advisor in an adjudicatory proceeding.
+11 SECTION 3. In Colorado Revised Statutes, 24-6-302, amend (5)
+12 as follows:
+13 24-6-302. Disclosure statements - required - definition.
+14 (5) (a) This section shall DOES not apply to any political
+15 committee, volunteer lobbyist, citizen who lobbies on his or her THEIR
+16 own behalf, state official or employee acting in his or her THEIR official
+17 capacity, except as provided in section 24-6-303.5, or elected public
+18 official acting in his or her THEIR official capacity, OR AN EMPLOYEE OF
+19 A CLIENT WHO IS ASSISTING A PROFESSIONAL LOBBYIST IF THE
+20 PROFESSIONAL LOBBYIST IS IN COMPLIANCE WITH THE DISCLOSURE
+21 REQUIREMENTS MANDATED BY THIS SECTION, UNLESS THE EMPLOYEE'S
+22 DUTIES FOR THE CLIENT INCLUDE LOBBYING ON BEHALF OF THE CLIENT.
+23 (b) THIS SECTION APPLIES TO A NONPROFIT ADVOCATE.
+24 SECTION 4. In Colorado Revised Statutes, 24-6-303, amend
+25 (1.3)(a) and (6); and add (1.2) as follows:
+26 24-6-303. Registration as professional lobbyist - filing of
+27 disclosure statements - certificate of registration - legislative
+-5- SB26-147
+
+1 declaration.
+2 (1.2) BEFORE LOBBYING, A VOLUNTEER LOBBYIST SHALL REGISTER
+3 AND FILE WITH THE GENERAL ASSEMBLY IN ACCORDANCE WITH JOINT
+4 RULES ADOPTED BY THE GENERAL ASSEMBLY A REGISTRATION STATEMENT
+5 THAT CONTAINS AN ATTESTATION BY THE VOLUNTEER LOBBYIST THAT THE
+6 VOLUNTEER LOBBYIST IS NOT BEING PAID OR OTHERWISE COMPENSATED
+7 FOR THE LOBBYING.
+8 (1.3) (a) At the time a professional lobbyist files a registration
+9 statement in accordance with subsection (1) of this section prior to
+10 engaging in lobbying, and each time such lobbyist files an updated
+11 registration statement in accordance with subsection (1.5) of this section,
+12 such THE individual shall pay a registration fee in an amount that shall be
+13 set by the secretary of state by rule promulgated ADOPTED in accordance
+14 with article 4 of this title and shall be set at a level that offsets the costs
+15 to the secretary of state of providing electronic access to information
+16 pursuant to section 24-6-304 (2), and in processing and maintaining the
+17 disclosure information required by this part 3. The secretary of state shall
+18 charge a reduced fee to a professional lobbyist that files his or her THEIR
+19 registration statement pursuant to paragraph (b) of subsection (6.3)(b) of
+20 this section. The secretary of state may waive the fee of a NONPROFIT
+21 ADVOCATE or a professional lobbyist for a not-for-profit organization
+22 NONPROFIT ENTITY who derives his or her THEIR compensation solely
+23 from the organization. A volunteer lobbyist shall be OR AN ADVOCACY
+24 DAY PARTICIPANT IS exempt from the requirement to pay the registration
+25 fee mandated by this paragraph (a) SUBSECTION (1.3)(a).
+26 (6) (a) This section shall DOES not apply to any political
+27 committee, volunteer lobbyist, citizen who lobbies on his or her THEIR
+-6- SB26-147
+
+1 own behalf, state official or employee acting in his or her THEIR official
+2 capacity, except as provided in section 24-6-303.5, or elected public
+3 official acting in his or her THEIR official capacity, OR AN EMPLOYEE OF
+4 A CLIENT WHO IS ASSISTING A PROFESSIONAL LOBBYIST IF THE
+5 PROFESSIONAL LOBBYIST IS IN COMPLIANCE WITH THE REGISTRATION
+6 REQUIREMENTS MANDATED BY THIS SECTION, UNLESS THE EMPLOYEE'S
+7 DUTIES FOR THE CLIENT INCLUDE LOBBYING ON BEHALF OF THE CLIENT.
+8 (b) THIS SECTION APPLIES TO A NONPROFIT ADVOCATE.
+9 SECTION 5. In Colorado Revised Statutes, add 24-6-303.3 as
+10 follows:
+11 24-6-303.3 Advocacy day participant - registration -
+12 requirements.
+13 (1) (a) AN ADVOCACY DAY PARTICIPANT MAY LOBBY A COVERED
+14 OFFICIAL ON BEHALF OF A PERSON DURING AN ADVOCACY DAY IF THE
+15 PERSON HAS SATISFIED THE REQUIREMENTS OF SUBSECTION (1)(b) OF THIS
+16 SECTION.
+17 (b) A PERSON WHO WILL HAVE AN ADVOCACY DAY PARTICIPANT
+18 LOBBY A COVERED OFFICIAL ON THEIR BEHALF DURING AN ADVOCACY DAY
+19 MUST REGISTER AND FILE WITH THE GENERAL ASSEMBLY, IN ACCORDANCE
+20 WITH JOINT RULES ADOPTED BY THE GENERAL ASSEMBLY, FOR EACH
+21 ADVOCACY DAY DURING WHICH AN ADVOCACY DAY PARTICIPANT IS
+22 EXPECTED TO PARTICIPATE, A REGISTRATION STATEMENT SPECIFYING THE
+23 PERSON'S NAME, THE CALENDAR DAY ON WHICH THE ADVOCACY DAY WILL
+24 OCCUR AND WHEN AN ADVOCACY DAY PARTICIPANT WILL LOBBY A
+25 COVERED INDIVIDUAL ON THE PERSON'S BEHALF, THE NUMBER OF
+26 ADVOCACY DAY PARTICIPANTS EXPECTED, AND THE TOPIC OF THE
+27 ADVOCACY.
+-7- SB26-147
+
+1 (2) AN ADVOCACY DAY MAY ONLY OCCUR WHEN:
+2 (a) A PERSON HAS FOLLOWED THE REGISTRATION AND FILING
+3 REQUIREMENT IN SUBSECTION (1)(b) OF THIS SECTION; AND
+4 (b) THE GENERAL ASSEMBLY IS IN A REGULAR SESSION OR A
+5 SPECIAL SESSION.
+6 (3) AN INDIVIDUAL IS NOT CONSIDERED AN ADVOCACY DAY
+7 PARTICIPANT IF THE INDIVIDUAL:
+8 (a) ACCEPTS COMPENSATION FOR LOBBYING DURING AN
+9 ADVOCACY DAY;
+10 (b) LOBBIES A COVERED OFFICIAL ON BEHALF OF A PERSON THAT
+11 HAS NOT REGISTERED AND FILED WITH THE GENERAL ASSEMBLY PURSUANT
+12 TO SUBSECTION (1)(b) OF THIS SECTION;
+13 (c) LOBBIES A COVERED OFFICIAL AT A LOCATION OUTSIDE OF A
+14 ONE-MILE RADIUS OF THE STATE CAPITOL BUILDING; OR
+15 (d) LOBBIES A COVERED OFFICIAL ON A DAY NOT DESIGNATED AS
+16 AN ADVOCACY DAY PURSUANT TO SUBSECTION (1)(b) OF THIS SECTION.
+17 (4) AN ADVOCACY DAY PARTICIPANT IS NOT A PROFESSIONAL
+18 LOBBYIST OR A VOLUNTEER LOBBYIST. AN ADVOCACY DAY PARTICIPANT
+19 IS NOT REQUIRED TO REGISTER AS A LOBBYIST WITH THE SECRETARY OF
+20 STATE PURSUANT TO SECTION 24-6-303 OR FILE A DISCLOSURE STATEMENT
+21 WITH THE SECRETARY OF STATE PURSUANT TO SECTION 24-6-302.
+22 SECTION 6. In Colorado Revised Statutes, 24-6-303.5, amend
+23 (1)(a), (2)(a) introductory portion, (2)(a)(III), (4) introductory portion,
+24 (4)(g), and (5); repeal (4)(c); and add (2)(a)(IV) as follows:
+25 24-6-303.5. Lobbying by state officials and employees.
+26 (1) (a) Each principal department of state government, as defined
+27 in section 24-1-110, AND THE JUDICIAL BRANCH shall designate one
+-8- SB26-147
+
+1 person INDIVIDUAL who shall be IS responsible for any lobbying of the
+2 type defined in section 24-6-301 (3.5)(a)(I) or (3.5)(a)(III) by a state
+3 official or employee on behalf of said THE principal department OR THE
+4 JUDICIAL BRANCH. All designated persons INDIVIDUALS from the principal
+5 departments, as well as any person JUDICIAL BRANCH, OR AN INDIVIDUAL
+6 lobbying, as defined in section 24-6-301 (3.5)(a)(I) or (3.5)(a)(III), on
+7 behalf of an institution or governing board of higher education OR ON
+8 BEHALF OF THE OFFICES OF THE GOVERNOR OR LIEUTENANT GOVERNOR AS
+9 A MEMBER OF THE GOVERNOR'S CABINET OR AS A PERSONAL STAFF
+10 EMPLOYEE IN THE OFFICES OF THE GOVERNOR OR THE LIEUTENANT
+11 GOVERNOR shall register with the secretary of state by filing a written
+12 statement on or before January 15 of each year. Such THE registration
+13 statement shall MUST be on a form prescribed by the secretary of state and
+14 shall MUST include the following:
+15 (I) The designated person's INDIVIDUAL'S full legal name, principal
+16 department BUSINESS address, and business telephone number;
+17 (II) The name of any state official or employee who is lobbying
+18 on behalf of the principal department, JUDICIAL BRANCH, OFFICES OF THE
+19 GOVERNOR OR LIEUTENANT GOVERNOR, OR AN INSTITUTION OR
+20 GOVERNING BOARD OF HIGHER EDUCATION;
+21 (III) The name of such person's THE INDIVIDUAL'S division or unit
+22 within the principal department, his JUDICIAL BRANCH, OFFICES OF THE
+23 GOVERNOR OR LIEUTENANT GOVERNOR, OR AN INSTITUTION OR
+24 GOVERNING BOARD OF HIGHER EDUCATION;
+25 (IV) The individual's classification or job title; and
+26 (V) The address and telephone number of his THE INDIVIDUAL'S
+27 division or unit.
+-9- SB26-147
+
+1 (2) (a) In addition to the registration statement filed pursuant to
+2 subsection (1) of this section, the designated person, and any person
+3 INDIVIDUAL, AN INDIVIDUAL lobbying on behalf of an institution or
+4 governing board of higher education, AN INDIVIDUAL LOBBYING ON
+5 BEHALF OF THE JUDICIAL BRANCH, OR AN INDIVIDUAL LOBBYING ON
+6 BEHALF OF THE OFFICES OF THE GOVERNOR OR LIEUTENANT GOVERNOR AS
+7 A MEMBER OF THE GOVERNOR'S CABINET OR AS A PERSONAL STAFF
+8 EMPLOYEE IN THE OFFICES OF THE GOVERNOR OR THE LIEUTENANT
+9 GOVERNOR shall file, monthly, a disclosure statement with the secretary
+10 of state in accordance with this subsection (2). The secretary of state shall
+11 prescribe the form for such disclosure statement, which shall MUST
+12 include:
+13 (III) An estimate of the time spent on lobbying or preparation
+14 thereof PREPARING TO ENGAGE IN LOBBYING by any state official or
+15 employee THE INDIVIDUAL named in the registration statement or BY any
+16 other employee of the principal department, or JUDICIAL BRANCH, offices
+17 of the governor or lieutenant governor, OR AN INSTITUTION OR GOVERNING
+18 BOARD OF HIGHER EDUCATION; and
+19 (IV) THE BILL OR RESOLUTION NUMBER OF THE LEGISLATION AT
+20 ISSUE AND THE POSITION THAT THE INDIVIDUAL IS TAKING REGARDING THE
+21 LEGISLATION. THE POSITION MUST BE INDICATED ON THE DISCLOSURE
+22 STATEMENT AS IN SUPPORT OF THE LEGISLATION, IN OPPOSITION TO THE
+23 LEGISLATION, OR IN SUPPORT OF AMENDING THE LEGISLATION. IF THE
+24 POSITION CHANGES, THE INDIVIDUAL SHALL UPDATE THE POSITION
+25 INDICATED ON THE DISCLOSURE STATEMENT WITHIN SEVENTY-TWO HOURS
+26 OF THE CHANGE.
+27 (4) This section shall DOES not apply to the following persons
+-10- SB26-147
+
+1 INDIVIDUALS:
+2 (c) Members of the governor's cabinet and personal staff
+3 employees in the offices of the governor and the lieutenant governor
+4 whose functions are confined to such offices and who report directly to
+5 the governor or lieutenant governor;
+6 (g) Members, officers, and employees of the judicial branch;
+7 specifically, Municipal, state, and federal judges, and the state court
+8 administrator, and his THEIR designee; and
+9 (5) Any person AN INDIVIDUAL who engages in lobbying for a
+10 principal department, THE JUDICIAL BRANCH, THE OFFICES OF THE
+11 GOVERNOR OR LIEUTENANT GOVERNOR, OR AN INSTITUTION OR
+12 GOVERNING BOARD OF HIGHER EDUCATION but who is not a state official
+13 or employee shall comply with the requirements of sections 24-6-302 and
+14 24-6-303.
+15 SECTION 7. Act subject to petition - effective date. This act
+16 takes effect at 12:01 a.m. on the day following the expiration of the
+17 ninety-day period after final adjournment of the general assembly (August
+18 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+19 referendum petition is filed pursuant to section 1 (3) of article V of the
+20 state constitution against this act or an item, section, or part of this act
+21 within such period, then the act, item, section, or part will not take effect
+22 unless approved by the people at the general election to be held in
+23 November 2026 and, in such case, will take effect on the date of the
+24 official declaration of the vote thereon by the governor.
+-11- SB26-147

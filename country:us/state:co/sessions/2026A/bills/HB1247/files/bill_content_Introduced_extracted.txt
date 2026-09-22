@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0777.01 Brita Darling x2241 HOUSE BILL 26-1247
+HOUSE SPONSORSHIP
+Keltie,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Business Affairs & Labor
+A BILL FOR AN ACT
+101 CONCERNING PROCEDURES REQUIRED FOR THE RESOLUTION OF
+102 DISPUTED HOMEOWNER'S INSURANCE CLAIMS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires each policy or contract of homeowner's insurance
+(policy) issued or renewed in the state on or after January 1, 2027, to
+include a mandatory and binding appraisal process, if requested by either
+the insured or the insurer, for determination of disputed claims for
+damage to property, including a determination of the amount of loss,
+causation, and necessary scope of repair or replacement of the property.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The appraisal process does not determine coverage under the terms of the
+policy.
+The bill specifies the appraisal process requirements, including
+who can serve as a fair and competent appraiser and umpire, the selection
+of an appraiser by each party, and the joint selection of an umpire by the
+parties' appraisers, prior to commencing negotiations, in the event the
+insured and insurer cannot resolve the dispute. The affirmative vote of the
+appraisers or of an appraiser and the umpire determines the loss amount.
+The insured and insurer each pay their own expenses for their appraiser
+and share the expenses of the umpire. The bill includes a timeline for
+completing the appraisal process, including completion within 4 months
+after the umpire is selected. The bill tolls the timelines for certain contract
+provisions while the appraisal process is pending.
+The bill also specifies information that must be provided to an
+insured with respect to an insurer's initial review of a claim. An insurer
+shall provide written evidence supporting an initial coverage
+determination. If the amount of loss is disputed, the insured may submit
+third-party damage assessments and the insurer shall reprocess the claim,
+taking into account the third-party damage assessments.
+The bill declares that it is an unfair method of competition and
+unfair or deceptive act or practice in the business of insurance to willfully
+or repeatedly violate the provisions of the bill concerning the appraisal
+clause process for policies.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-3-1104, add
+3 (1)(uu) as follows:
+4 10-3-1104. Unfair methods of competition - unfair or deceptive
+5 practices - rules - definitions.
+6 (1) The following are defined as unfair methods of competition
+7 and unfair or deceptive acts or practices in the business of insurance:
+8 (uu) A WILLFUL OR REPEATED VIOLATION OF SECTION 10-4-125
+9 CONCERNING THE APPRAISAL CLAUSE PROCESS FOR HOMEOWNER'S
+10 INSURANCE POLICIES OR CONTRACTS.
+11 SECTION 2. In Colorado Revised Statutes, add 10-4-125 as
+12 follows:
+-2- HB26-1247
+
+1 10-4-125. Homeowner's insurance - dispute of claims - damage
+2 validation through third-party assessment - appraisal process in
+3 policies and contracts - definitions.
+4 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+5 REQUIRES:
+6 (a) "APPRAISER" MEANS AN INDIVIDUAL WHO IS:
+7 (I) LICENSED IN THE STATE AS:
+8 (A) A CONTRACTOR IN THE BUILDING AND CONSTRUCTION TRADES;
+9 (B) AN INSPECTOR;
+10 (C) A PUBLIC ADJUSTER; OR
+11 (D) AN ATTORNEY;
+12 (II) AN IN-HOUSE INSURANCE COMPANY ADJUSTER; OR
+13 (III) AN INDEPENDENT INSURANCE ADJUSTER.
+14 (b) "COVERED PROPERTY" MEANS A NAMED PROPERTY UNDER A
+15 POLICY OR CONTRACT OF HOMEOWNER'S INSURANCE.
+16 (c) "FAIR AND COMPETENT" MEANS AN APPRAISER OR UMPIRE:
+17 (I) IS NOT A PARTY TO THE INSURANCE POLICY OR CONTRACT;
+18 (II) DOES NOT HAVE A FINANCIAL INTEREST THAT IS CONDITIONED
+19 UPON THE OUTCOME OF THE APPRAISAL;
+20 (III) IS NOT A CURRENT EMPLOYEE OF THE INSURED OR INSURER;
+21 AND
+22 (IV) IS NOT A FAMILY MEMBER OR AN INDIVIDUAL WITH WHOM THE
+23 INSURED HAS A PERSONAL RELATIONSHIP THAT COULD REASONABLY
+24 SUGGEST BIAS.
+25 (d) "HOMEOWNER'S INSURANCE" HAS THE MEANING SET FORTH IN
+26 SECTION 10-4-101.5 AND INCLUDES A POLICY OR CONTRACT THAT COVERS
+27 A SINGLE-FAMILY HOME THAT IS USED AS A PRIMARY RESIDENCE, A
+-3- HB26-1247
+
+1 SECONDARY RESIDENCE, OR A RENTAL PROPERTY.
+2 (e) "INSURED" MEANS A HOMEOWNER'S INSURANCE POLICYHOLDER
+3 OR THEIR DESIGNATED REPRESENTATIVE.
+4 (f) "INSURER" MEANS AN INSURER OF A POLICY OR CONTRACT OF
+5 HOMEOWNER'S INSURANCE ON THE COVERED PROPERTY AND INCLUDES
+6 THE FAIR PLAN ASSOCIATION CREATED IN SECTION 10-4-1804.
+7 (g) "THIRD-PARTY DAMAGE ASSESSMENT" MEANS A WRITTEN
+8 DAMAGE ASSESSMENT OR REPAIR ESTIMATE FROM A QUALIFIED,
+9 INDEPENDENT COMPANY OF AN INSURED'S CHOICE.
+10 (h) "UMPIRE" MEANS AN APPRAISER OR RETIRED JUDGE SELECTED
+11 JOINTLY BY AN INSURED'S APPRAISER AND AN INSURER'S APPRAISER, OR BY
+12 A COURT OF COMPETENT JURISDICTION, AFTER AN APPRAISAL CLAUSE IS
+13 INVOKED.
+14 (2) (a) WITHIN FOURTEEN DAYS AFTER AN INSURER HAS
+15 INVESTIGATED A CLAIM AND MADE AN INITIAL COVERAGE
+16 DETERMINATION, THE INSURER SHALL PROVIDE TO THE INSURED, IN
+17 WRITING, EVIDENCE SUPPORTING THE INITIAL COVERAGE DETERMINATION,
+18 INCLUDING POLICY OR CONTRACT PROVISIONS RELIED UPON BY THE
+19 INSURER, AND ADJUSTER OR CONSULTANT REPORTS PROCURED DURING
+20 THE INVESTIGATION.
+21 (b) IF AN INSURED DISPUTES THE INSURER'S INITIAL COVERAGE
+22 DETERMINATION, THE INSURED MAY SUBMIT THIRD-PARTY DAMAGE
+23 ASSESSMENTS. UPON RECEIPT OF AN INSURED'S THIRD-PARTY DAMAGE
+24 ASSESSMENT, THE INSURER SHALL CONSIDER THE INFORMATION PROVIDED
+25 IN THE DAMAGE ASSESSMENT IN GOOD FAITH AND CONDUCT AN ON-SITE
+26 REINSPECTION OF THE PROPERTY WITHIN FORTY-FIVE DAYS AFTER RECEIPT
+27 OF THE THIRD-PARTY DAMAGE ASSESSMENT.
+-4- HB26-1247
+
+1 (c) WITHIN TWENTY-EIGHT DAYS AFTER A REINSPECTION OF THE
+2 PROPERTY REQUIRED PURSUANT TO SUBSECTION (2)(b) OF THIS SECTION
+3 IS COMPLETED, THE INSURER SHALL EITHER APPROVE THE CLAIM OR
+4 PROVIDE VALID AND SPECIFIC REASONS FOR DENIAL OF THE CLAIM IN
+5 REFERENCE TO THE POLICY OR CONTRACT.
+6 (3) IF THERE IS A DISPUTE OVER THE AMOUNT OF LOSS, EITHER THE
+7 INSURED OR THE INSURER MAY MAKE A WRITTEN REQUEST TO INVOKE THE
+8 APPRAISAL CLAUSE OF THE POLICY OR CONTRACT, AS DESCRIBED IN
+9 SUBSECTION (4) OF THIS SECTION.
+10 (4) (a) EACH POLICY OR CONTRACT OF HOMEOWNER'S INSURANCE
+11 ISSUED OR RENEWED IN THE STATE ON OR AFTER JANUARY 1, 2027, MUST
+12 INCLUDE A CLAUSE AUTHORIZING AN INSURER OR INSURED TO INVOKE A
+13 MANDATORY AND BINDING APPRAISAL PROCESS IN COMPLIANCE WITH THIS
+14 SECTION TO SETTLE A DISPUTE OVER THE AMOUNT OF LOSS, CAUSATION,
+15 OR NECESSARY SCOPE OF REPAIR OR REPLACEMENT OF PROPERTY. THE
+16 APPRAISAL PROCESS DOES NOT DETERMINE COVERAGE UNDER THE TERMS
+17 OF THE POLICY OR CONTRACT.
+18 (b) THE APPRAISAL CLAUSE MUST INCLUDE THE FOLLOWING
+19 PROVISIONS:
+20 (I) THE RIGHT OF THE INSURED AND INSURER TO CHOOSE THEIR
+21 OWN FAIR AND COMPETENT APPRAISER WITHIN TWENTY-ONE DAYS AFTER
+22 RECEIPT OF THE WRITTEN REQUEST TO INVOKE THE APPRAISAL CLAUSE;
+23 (II) THE JOINT SELECTION OF A FAIR AND COMPETENT UMPIRE BY
+24 THE INSURED'S APPRAISER AND THE INSURER'S APPRAISER PRIOR TO THE
+25 PARTIES' APPRAISERS COMMENCING DISCUSSION OR NEGOTIATIONS UNDER
+26 THE APPRAISAL CLAUSE. IF THE INSURED'S APPRAISER AND THE INSURER'S
+27 APPRAISER CANNOT AGREE TO THE SELECTION OF AN UMPIRE WITHIN
+-5- HB26-1247
+
+1 TWENTY-ONE DAYS, EITHER PARTY MAY PETITION A COURT OF COMPETENT
+2 JURISDICTION IN THE JURISDICTION IN WHICH THE PROPERTY IS LOCATED
+3 TO SELECT AN UMPIRE FROM AMONG THOSE PRESENTED BY THE INSURED'S
+4 APPRAISER AND THE INSURER'S APPRAISER OR OF THE COURT'S OWN
+5 CHOOSING.
+6 (III) THE AMOUNT AGREED UPON IS THE AMOUNT OF LOSS. IF THE
+7 APPRAISERS FAIL TO AGREE, THE DIFFERENCES BETWEEN THE APPRAISALS
+8 MUST BE SUBMITTED TO THE UMPIRE. THE AFFIRMATIVE VOTE OF ANY TWO
+9 OF THE THREE PARTICIPANTS IN THE APPRAISAL PROCESS WILL SET THE
+10 AMOUNT OF LOSS. THE APPRAISAL PROCESS MUST BE RESOLVED BY THE
+11 APPRAISERS, OR AN APPRAISER AND THE UMPIRE, WITHIN ONE HUNDRED
+12 TWENTY DAYS AFTER THE SELECTION OF THE UMPIRE.
+13 (IV) THE APPRAISAL PROCESS AND AUTHORITY GRANTED TO THE
+14 APPRAISERS OR UMPIRE MAY BE EXPANDED OR MODIFIED ONLY BY
+15 WRITTEN, MUTUAL CONSENT SIGNED BY BOTH THE INSURED AND INSURER;
+16 AND
+17 (V) WITH RESPECT TO PAYMENT FOR SERVICES AND EXPENSES
+18 RELATING TO THE APPRAISAL PROCESS, EACH PARTY SHALL:
+19 (A) PAY ITS OWN APPRAISER;
+20 (B) PAY THE EXPENSES FOR ATTORNEYS OR CONSULTANTS
+21 RETAINED BY THE PARTY; AND
+22 (C) SHARE EQUALLY THE EXPENSES OF THE UMPIRE.
+23 (5) UNTIL THE APPRAISAL PROCESS IS CONCLUDED, THE
+24 FOLLOWING POLICY OR CONTRACT TIMELINES ARE TOLLED:
+25 (a) THE RECOVERING OF APPLICABLE REPLACEMENT COST VALUE
+26 BENEFITS, CODE COVERAGES, AND ADDITIONAL COVERAGES;
+27 (b) THE TIME LIMIT WITHIN WHICH AN INSURED MAY BRING SUIT
+-6- HB26-1247
+
+1 AGAINST THE INSURER; AND
+2 (c) THE TIME LIMIT WITHIN WHICH AN INSURED MUST MAKE THE
+3 REPAIRS.
+4 (6) (a) A HOMEOWNER'S INSURANCE POLICY OR CONTRACT,
+5 INCLUDING ANY ENDORSEMENT, MUST NOT INCLUDE A PROVISION THAT
+6 PROHIBITS AN INSURED FROM CONTRACTING WITH A PUBLIC ADJUSTER OR
+7 ATTORNEY FOR SERVICES.
+8 (b) AN INSURED IS NOT REQUIRED TO ENTER INTO A CONTRACT
+9 DESCRIBED IN SUBSECTION (6)(a) OF THIS SECTION.
+10 (7) A VIOLATION OF THIS SECTION CONSTITUTES AN UNFAIR
+11 METHOD OF COMPETITION OR AN UNFAIR OR DECEPTIVE ACT OR PRACTICE
+12 IN THE BUSINESS OF INSURANCE PURSUANT TO SECTION 10-3-1104 (1)(uu).
+13 SECTION 3. Act subject to petition - effective date -
+14 applicability. (1) This act takes effect January 1, 2027; except that, if a
+15 referendum petition is filed pursuant to section 1 (3) of article V of the
+16 state constitution against this act or an item, section, or part of this act
+17 within the ninety-day period after final adjournment of the general
+18 assembly, then the act, item, section, or part will not take effect unless
+19 approved by the people at the general election to be held in November
+20 2026 and, in such case, will take effect January 1, 2027, or on the date of
+21 the official declaration of the vote thereon by the governor, whichever is
+22 later.
+23 (2) This act applies to policies or contracts of homeowner's
+24 insurance issued or renewed on or after the applicable effective date of
+25 this act.
+-7- HB26-1247

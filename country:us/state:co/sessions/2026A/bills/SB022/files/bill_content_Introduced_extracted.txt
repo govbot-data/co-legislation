@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0448.01 Sarah Lozano x3858 SENATE BILL 26-022
+SENATE SPONSORSHIP
+Snyder and Simpson, Liston, Zamora Wilson
+HOUSE SPONSORSHIP
+Caldwell and Paschal, Flanell, Keltie
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING AN ENTITY THAT ENCOUNTERS CHALLENGES IN
+102 ACHIEVING THE GREENHOUSE GAS EMISSIONS REDUCTION GOAL
+103 INCLUDED IN THE ENTITY'S CLEAN ENERGY PLAN.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires certain entities to file a clean energy plan
+(plan) to achieve an 80% decrease of greenhouse gas emissions caused by
+the entity's electricity sales in Colorado by 2030 relative to 2005 levels.
+Other entities may voluntarily choose to file a plan.
+Under current law, no later than March 31, 2026, an entity required
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+to submit a plan may inform the division of administration (division) in
+the department of public health and environment in writing of challenges
+the entity is encountering or expects to encounter in achieving the 80%
+reduction of greenhouse gas emissions by 2030. The bill clarifies that an
+entity that has voluntarily submitted a plan may also inform the division
+of challenges the entity is encountering or expects to encounter in
+achieving the 80% reduction of greenhouse gas emissions by 2030. The
+bill also extends the deadline by which an entity must inform the division
+of challenges from March 31, 2026, to May 31, 2026.
+A cooperative electric association (association) exempted from
+regulation by the public utilities commission or a municipal utility (utility)
+that informs the division of challenges the association or utility is
+encountering or expects to encounter has until December 31, 2026, to
+submit to the division an updated plan with the earliest year, not later than
+2040, that the association or utility expects to be able to achieve the 80%
+decrease of greenhouse gas emissions, relative to 2005 levels, without
+impairing the association's or utility's ability to maintain applicable
+electric reliability standards and without increasing the association's or
+utility's average annual electric rates greater than 1.5%.
+The bill prohibits the air quality control commission and the
+division from undertaking any action that impairs the association's or
+utility's ability to maintain applicable electric reliability standards or that
+increases the association's or utility's average annual electric rates greater
+than 1.5%.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Colorado energy prices are rising at an untenable pace for the
+5 state's most vulnerable populations, disproportionately impacting
+6 income-qualified residents and creating an energy affordability crisis that
+7 forces struggling families and small businesses to make difficult decisions
+8 regarding trade-offs for necessary expenses;
+9 (b) As a result, utility payment delinquencies are at an all-time
+10 high and utility bill payment assistance programs are struggling to support
+11 the expanding needs of community members;
+-2- SB26-022
+
+1 (c) Energy Outreach Colorado's 2024 annual report shows that
+2 nearly one in 5 Colorado families spend 7% or more of their income on
+3 energy bills, with 10.1% of families facing a severe energy burden of
+4 spending over 10% of their income on energy bills;
+5 (d) Further, utility data reported to the U.S. energy information
+6 administration shows a 22% increase in the cost of residential electricity
+7 in Colorado over the last 6 years, worsened by double-digit rate increases
+8 forecasted in upcoming years;
+9 (e) The Colorado department of human services, referred to in this
+10 section as "DHS", received over 136,000 applications for low-income
+11 home energy assistance in state fiscal year 2024-25;
+12 (f) DHS approved over 60% of these applications and provided
+13 over $49,800,000 at an average benefit of over $565 per applicant. The
+14 total number of applications with DHS for low-income home energy
+15 assistance has increased 44% since 2019 and total payouts have increased
+16 over 58%, demonstrating the severity of the affordability crisis.
+17 (g) In state fiscal year 2024-25, DHS received the greatest number
+18 of applications for assistance from El Paso county residents, with over
+19 18,000 applications. DHS approved over 11,000 of these applications and
+20 provided more than $5.69 million in assistance to El Paso county
+21 residents.
+22 (h) Requests with DHS for low-income energy assistance from El
+23 Paso county have increased 48% since 2019, and El Paso county has led
+24 the state each year in the total number of applications since 2019;
+25 (i) Because of the cost pressure already faced by many
+26 income-qualified Coloradans, certain safeguards must exist to protect
+27 already struggling ratepayers as Colorado undergoes a monumental clean
+-3- SB26-022
+
+1 energy transition to achieve a carbon-free state economy;
+2 (j) Electricity must be made available on demand to maintain the
+3 reliability of the grid, and electric utilities must maintain a certain level
+4 of firm electric generation resources that can be controlled or dispatched
+5 when needed;
+6 (k) The early retirement of these firm dispatchable electric
+7 generation resources before sufficient replacement generating capacity is
+8 made available causes resource adequacy challenges and significantly
+9 increases uncertainty as to when and how much energy is needed and
+10 available;
+11 (l) Insufficient electric resource adequacy can lead to power
+12 disruptions that directly impact the health and safety of Coloradans and
+13 the vital services offered by hospitals, schools, and first responders;
+14 (m) Because of the implications to national security, federal law
+15 requires that military installations have electric power available at least
+16 99.9% of the time;
+17 (n) Colorado is home to 6 major military installations that are
+18 critical components of our national defense infrastructure, with 5 of the
+19 installations in El Paso county and one installation in Aurora;
+20 (o) Ensuring continued reliable and affordable electric service to
+21 the military is crucial to ensuring installations in Colorado can achieve
+22 their critical missions and lessen the pressure to relocate these facilities
+23 to other parts of the country;
+24 (p) Electric utilities throughout Colorado vastly differ from one
+25 another based on the communities they serve, their business model, the
+26 size of their service territories, the technical capabilities of their systems,
+27 and many other factors; however, the state's clean energy planning
+-4- SB26-022
+
+1 framework requires all electric utilities to achieve the exact same
+2 greenhouse gas emission reductions by the exact same dates;
+3 (q) Access to electric transmission and interconnection facilities
+4 is the key factor in determining a utility's ability to access new renewable
+5 energy resources and quickly retire and replace its generation fleet in a
+6 reliable and affordable fashion;
+7 (r) However, not all utilities have the same access to the same
+8 transmission and interconnection assets, and more transmission must be
+9 built to give Colorado utilities a more equal footing in their ability to
+10 access a broader array of resources;
+11 (s) Several of Colorado's not-for-profit electric utilities are
+12 expected to join the Southwest Power Pool regional transmission
+13 organization in 2026, which will afford these utilities with new pathways
+14 to access the resources necessary to achieve their clean energy targets,
+15 especially the identification, funding, and construction of new
+16 transmission projects;
+17 (t) However, the process to identify new transmission projects in
+18 the regional transmission organization will not begin until 2027, and the
+19 construction of such projects will take several years to permit and
+20 construct;
+21 (u) In addition to barriers to transmission access, Colorado
+22 utilities have been challenged by market conditions that were
+23 unanticipated when the clean energy planning framework was established
+24 in 2019 and amended in 2023, including an ever-changing federal policy
+25 environment, unpredictable tariffs, supply chain disruptions, and the
+26 repeal of clean energy subsidies for electricity investment and production
+27 tax credits for wind and solar projects;
+-5- SB26-022
+
+1 (v) These federal changes have increased the cost, time, and
+2 regulatory risk and ratepayer burden of advancing clean energy goals;
+3 (w) The inflexibility in Colorado's clean energy planning
+4 framework does not recognize the material challenges utilities are facing
+5 and offers no relief for utilities that are willing but unable to meet the
+6 state's emission reduction targets within the next 4 years without
+7 significant cost increases and threats to reliability; and
+8 (x) Environmental sustainability remains a priority of the general
+9 assembly. However, state policy must not impose an undue financial
+10 burden on ratepayers, with particular attention to income-qualified
+11 households and the protection of community members and critical
+12 services requiring uninterrupted power.
+13 (2) Therefore, the general assembly determines and declares that
+14 Colorado's clean energy planning framework should include flexibility for
+15 utilities that are unable to achieve their clean energy targets and consider
+16 retail rate impacts and reliability standards to protect consumers and
+17 prevent statewide resource adequacy constraints.
+18 SECTION 2. In Colorado Revised Statutes, 25-7-105, amend (1)
+19 introductory portion and (1)(e)(VIII.5)(H); and add (1)(e)(VIII.5)(I) as
+20 follows:
+21 25-7-105. Duties of commission - technical secretary - rules -
+22 report - legislative declaration - definitions - repeal.
+23 (1) Except as provided in sections 25-7-130 and 25-7-131, the
+24 commission shall promulgate ADOPT rules that are consistent with the
+25 legislative declaration set forth in section 25-7-102 and necessary for the
+26 proper implementation and administration of this article 7, including:
+27 (e) (VIII.5) (H) No later than March 31, 2026, any MAY 31, 2026,
+-6- SB26-022
+
+1 AN entity required to submit THAT SUBMITS a clean energy plan or a plan
+2 pursuant to subsection (1)(e)(VIII)(I) SUBSECTION (1)(e)(VIII) of this
+3 section to the division may inform the division in writing of any
+4 challenges the entity is encountering or expects to encounter in achieving
+5 at least an eighty percent reduction of greenhouse gas emissions caused
+6 by the entity's Colorado electricity sales by 2030 relative to 2005 levels.
+7 If an entity informs the division of any challenges in achieving the
+8 greenhouse gas emissions reduction percentage, the division, in
+9 coordination with the Colorado energy office created in section
+10 24-38.5-101 (1), shall hold at least one public stakeholder meeting in
+11 2026 to discuss the challenges raised by the entity and strategies for the
+12 entity to achieve the greenhouse gas emissions reduction percentage. If,
+13 after the public stakeholder meeting, an THE entity informs the division
+14 in writing that the entity is still encountering or expects to encounter
+15 challenges in achieving the greenhouse gas emissions reduction
+16 percentage, no later than December 31, 2026, the division shall submit a
+17 concise report to the general assembly summarizing the challenges the
+18 entity is encountering or expects to encounter and describing any potential
+19 solutions to the challenges. This subsection (1)(e)(VIII.5)(H) is repealed,
+20 effective July 1, 2027.
+21 (I) NOTWITHSTANDING ANY OTHER REQUIREMENT OF THIS
+22 SUBSECTION (1)(e), AN ENTITY DESCRIBED IN SUBSECTION (1)(e)(VIII)(F)
+23 OF THIS SECTION THAT, ON OR BEFORE MAY 31, 2026, INFORMS THE
+24 DIVISION OF CHALLENGES IN ACHIEVING THE GREENHOUSE GAS EMISSIONS
+25 REDUCTION PERCENTAGE MAY SUBMIT AN UPDATED CLEAN ENERGY PLAN
+26 TO THE DIVISION, NO LATER THAN DECEMBER 31, 2026, WITH THE
+27 EARLIEST YEAR, NOT LATER THAN 2040, THAT THE ENTITY EXPECTS TO BE
+-7- SB26-022
+
+1 ABLE TO ACHIEVE AT LEAST AN EIGHTY PERCENT REDUCTION OF
+2 GREENHOUSE GAS EMISSIONS CAUSED BY THE ENTITY'S COLORADO
+3 ELECTRICITY SALES RELATIVE TO 2005 LEVELS WITHOUT IMPAIRING THE
+4 ENTITY'S ABILITY TO MAINTAIN THE ELECTRIC RELIABILITY STANDARDS
+5 ADOPTED BY THE NORTH AMERICAN ELECTRIC RELIABILITY
+6 CORPORATION OR A REGIONAL TRANSMISSION ORGANIZATION OF WHICH
+7 THE ENTITY IS A MEMBER AND WITHOUT RESULTING IN AN INCREASE IN THE
+8 ENTITY'S AVERAGE ANNUAL ELECTRICITY RATES GREATER THAN ONE AND
+9 ONE-HALF PERCENT. NOTWITHSTANDING ANY OTHER PROVISION OF THIS
+10 SECTION, NEITHER THE COMMISSION NOR THE DIVISION SHALL UNDERTAKE
+11 ANY ACTION THAT IMPAIRS THE ENTITY'S ABILITY TO MAINTAIN THE
+12 ELECTRIC RELIABILITY STANDARDS ADOPTED BY THE NORTH AMERICAN
+13 ELECTRIC RELIABILITY CORPORATION OR A REGIONAL TRANSMISSION
+14 ORGANIZATION OF WHICH THE ENTITY IS A MEMBER OR THAT RESULTS IN
+15 AN INCREASE IN THE ENTITY'S AVERAGE ANNUAL ELECTRICITY RATES
+16 GREATER THAN ONE AND ONE-HALF PERCENT.
+17 SECTION 3. Safety clause. The general assembly finds,
+18 determines, and declares that this act is necessary for the immediate
+19 preservation of the public peace, health, or safety or for appropriations for
+20 the support and maintenance of the departments of the state and state
+21 institutions.
+-8- SB26-022

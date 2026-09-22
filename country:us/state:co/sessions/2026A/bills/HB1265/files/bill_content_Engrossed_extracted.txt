@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0787.02 Owen Hatch x2698 HOUSE BILL 26-1265
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING A LAW ENFORCEMENT AGENCY'S USE OF THE UNITED
+102 STATES BUREAU OF ALCOHOL, TOBACCO, FIREARMS, AND
+103 EXPLOSIVES' NATIONAL ELECTRONIC TRACING SYSTEM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires each law enforcement agency to register for the
+United States bureau of alcohol, tobacco, firearms, and explosives
+national electronic tracing system and transmit to the electronic tracing
+system information about each firearm it recovers or confiscates.
+The law enforcement agency is required to share with the Colorado ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,6
+hcraM
+HOUSE SPONSORSHIP
+Rutinel and Clifford,
+SENATE SPONSORSHIP
+Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+bureau of investigation all information shared with and received from the
+electronic tracing system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Effective law enforcement often depends on the timely
+5 exchange of reliable information among agencies in different
+6 jurisdictions. This is especially true in gun crime investigations, where
+7 firearms regularly move across city and state lines before being recovered
+8 by police. Comprehensive tracing data enables investigators to track
+9 firearm movement, identify sources of illegal diversion, and respond to
+10 rising trafficking activity.
+11 (b) Strengthening investigative tools available to law enforcement
+12 by requiring agencies to utilize the United States bureau of alcohol,
+13 tobacco, firearms, and explosives' electronic tracing system, participate
+14 in its collective data-sharing features, and submit identifying information
+15 for firearms recovered or confiscated in connection with criminal activity
+16 is crucial as a means for law enforcement agencies to quickly share
+17 reliable information;
+18 (c) Standardizing the reporting and sharing of information about
+19 firearms connected with criminal activity will improve real-time
+20 collaboration among local, state, tribal, and federal partners, enabling
+21 investigators to detect crime patterns, link related cases, and identify
+22 trafficking networks and cross-jurisdictional offenders more efficiently;
+23 and
+24 (d) Public safety is enhanced by supporting evidence-based
+25 policing, improving coordination among law enforcement agencies, and
+-2- 1265
+
+1 ensuring that investigators have access to critical tracing and intelligence
+2 data needed to solve gun crimes and hold offenders accountable.
+3
+4 SECTION 2. In Colorado Revised Statutes, add 29-11.7-106 as
+5 follows:
+6 29-11.7-106. Law enforcement use of a national electronic
+7 tracing system for recovered firearms - definitions.
+8 (1) (a) ON OR BEFORE SEPTEMBER 1, 2026, EACH LAW
+9 ENFORCEMENT AGENCY IN THE STATE SHALL REGISTER FOR THE UNITED
+10 STATES BUREAU OF ALCOHOL, TOBACCO, FIREARMS, AND EXPLOSIVES
+11 NATIONAL ELECTRONIC TRACING SYSTEM AND SHALL OPT IN TO THE
+12 SYSTEM'S COLLECTIVE DATA-SHARING FEATURE.
+13 (b) THIS SECTION DOES NOT APPLY TO A LAW ENFORCEMENT
+14 AGENCY THAT HAS A PREEXISTING RELATIONSHIP WITH ANOTHER LAW
+15 ENFORCEMENT AGENCY THAT ALLOWS THE LAW ENFORCEMENT AGENCY
+16 TO SUBMIT A FIREARM TO THE ELECTRONIC TRACING SYSTEM, INCLUDING
+17 THE SYSTEM'S COLLECTIVE DATA-SHARING FEATURE, THE COLORADO
+18 STATE PATROL, OR THE COLORADO BUREAU OF INVESTIGATION.
+19 (2) (a) WHEN A LAW ENFORCEMENT AGENCY RECOVERS OR
+20 CONFISCATES A FIREARM, THE AGENCY SHALL, AS SOON AS PRACTICABLE,
+21 BUT NO LATER THAN NINETY DAYS AFTER THE AGENCY RECOVERS OR
+22 CONFISCATES THE FIREARM, TRANSMIT THE RELEVANT INFORMATION
+23 REGARDING THE FIREARM TO THE NATIONAL TRACING CENTER'S
+24 ELECTRONIC TRACING SYSTEM.
+25 (b) A LAW ENFORCEMENT AGENCY THAT RECEIVES A
+26 VOLUNTARILY RELINQUISHED FIREARM OR RECOVERS A FIREARM THAT THE
+27 AGENCY DETERMINES IS NOT CONNECTED WITH A CRIMINAL
+-3- 1265
+
+1 INVESTIGATION OR CRIMINAL ACTIVITY DOES NOT NEED TO TRANSMIT THE
+2 RELEVANT INFORMATION REGARDING THE FIREARM TO THE ELECTRONIC
+3 TRACING SYSTEM.
+4 (3) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+5 REQUIRES:
+6 (a) "LAW ENFORCEMENT AGENCY" MEANS A LAW ENFORCEMENT
+7 ENTITY HAVING ORIGINAL JURISDICTION OVER A FIREARMS-RELATED
+8 CRIME INVESTIGATION, INCLUDING:
+9 (I) A MUNICIPAL POLICE DEPARTMENT;
+10 (II) A SHERIFF'S OFFICE OF A COUNTY OR CITY AND COUNTY;
+11 (III) A CAMPUS POLICE DEPARTMENT;
+12 (IV) A TOWN MARSHAL'S OFFICE; AND
+13 (V) A POLICE OFFICER EMPLOYED PURSUANT TO ARTICLE 9 OF
+14 TITLE 32.
+15 (b) "RECOVER OR CONFISCATE" MEANS:
+16 (I) A LAW ENFORCEMENT AGENCY OBTAINING AN ITEM FROM A
+17 CRIME SCENE OR AN ITEM IN CONNECTION WITH A CRIMINAL
+18 INVESTIGATION;
+19 (II) A LAW ENFORCEMENT AGENCY SEIZING, OR A PERSON
+20 FORFEITING TO A LAW ENFORCEMENT AGENCY, AN ITEM IN CONNECTION
+21 WITH A CRIMINAL PROCEEDING, INVESTIGATION, OR CONVICTION;
+22 (III) A LAW ENFORCEMENT AGENCY SEIZING, OR A PERSON
+23 FORFEITING TO A LAW ENFORCEMENT AGENCY, AN ITEM IN CONNECTION
+24 WITH A CRIME THAT HAS AN UNDERLYING FACTUAL BASIS OF DOMESTIC
+25 VIOLENCE, AS DEFINED IN SECTION 18-6-800.3 (1);
+26 (IV) A LAW ENFORCEMENT AGENCY ACQUIRING AN ABANDONED
+27 OR DISCARDED FIREARM; OR
+-4- 1265
+
+1 (V) A LAW ENFORCEMENT AGENCY OTHERWISE OBTAINING AN
+2 ITEM BELIEVED TO BE CONNECTED WITH A CRIME.
+3 SECTION 3. Act subject to petition - effective date. This act
+4 takes effect at 12:01 a.m. on the day following the expiration of the
+5 ninety-day period after final adjournment of the general assembly (August
+6 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+7 referendum petition is filed pursuant to section 1 (3) of article V of the
+8 state constitution against this act or an item, section, or part of this act
+9 within such period, then the act, item, section, or part will not take effect
+10 unless approved by the people at the general election to be held in
+11 November 2026 and, in such case, will take effect on the date of the
+12 official declaration of the vote thereon by the governor.
+-5- 1265

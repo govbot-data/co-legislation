@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0124.02 Renee Leone x2695 SENATE BILL 26-017
+Senate Committees House Committees
+Health & Human Services Health & Human Services
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING CHANGES TO OUT-OF-NETWORK HEALTH-CARE SERVICES
+102 DISPUTE RESOLUTION PROCESSES FOR HEALTH INSURANCE
+103 CARRIERS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes changes to the dispute resolution process between
+health insurance carriers (carriers) and out-of-network health-care
+providers (providers) by:
+! Mandating that a carrier provide a remittance advice with
+each payment made to a provider;
+ESUOH
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dn2
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+6202
+,6
+yaM
+6202
+,03
+lirpA
+6202
+,82
+lirpA
+SENATE SPONSORSHIP
+Daugherty and Bright, Coleman, Cutter, Exum, Hinrichsen, Kipp, Marchman, Roberts,
+Snyder, Wallace
+HOUSE SPONSORSHIP
+Stewart R. and Gonzalez R.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Establishing penalties that the division of insurance
+(division) may assess against a carrier that fails to properly
+reimburse a provider for services provided to a patient;
+! Requiring a carrier to annually submit information to the
+division concerning patient use of out-of-network
+providers; and
+! Requiring the division to produce an annual report
+regarding patient use of out-of-network providers and
+relevant arbitration data and statistics.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-16-704, amend
+3 (13) as follows:
+4 10-16-704. Network adequacy - required disclosures - balance
+5 billing - rules - legislative declaration - definitions.
+6 (13) (a) (I) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+7 (A) UNDER CURRENT STATE LAW, PROVIDERS RESOLVE
+8 OUT-OF-NETWORK REIMBURSEMENT DISPUTES THROUGH AN INDIVIDUAL,
+9 CLAIM-BY-CLAIM ARBITRATION PROCESS THAT, FOR SOME PROVIDERS WITH
+10 SMALLER REIMBURSEMENT AMOUNTS BEING DISPUTED, IS PROHIBITIVELY
+11 EXPENSIVE AND ADMINISTRATIVELY BURDENSOME;
+12 (B) BECAUSE THE COST OF ARBITRATION EXCEEDS THE AMOUNT
+13 OF THE UNDERPAID CLAIM, THIS PROCESS PARTICULARLY IMPACTS
+14 SMALLER PROVIDER GROUPS;
+15 (C) THE DIVISION HAS AN ESTABLISHED COMPLAINT PROCESS THAT
+16 ALLOWS PROVIDERS TO SUBMIT COMPLAINTS TO ENSURE THAT PAYMENT
+17 REQUIREMENTS ARE MET BY CARRIERS. THIS ESTABLISHED COMPLAINT
+18 PROCESS REQUIRES THE RESOLUTION OF CLAIMS WITHIN THIRTY DAYS
+19 AFTER THE COMPLAINT CONTAINING THE CLAIMS HAS BEEN FILED IF THERE
+20 ARE ONE HUNDRED OR FEWER CLAIMS SUBMITTED ON THE COMPLAINT
+-2- 017
+
+1 FORM AND ALLOWS FOR ADDITIONAL TIME WHEN THERE ARE MORE THAN
+2 ONE HUNDRED CLAIMS SUBMITTED ON THE COMPLAINT FORM. HOWEVER,
+3 THE COMPLAINT PROCESS DOES NOT ENSURE PROMPT PAYMENT TO
+4 PROVIDERS OF MONEY OWED WHEN CARRIERS ARE DEEMED TO HAVE
+5 VIOLATED PAYMENT REQUIREMENTS.
+6 (D) TO IMPROVE FAIRNESS IN THE HEALTH-INSURANCE MARKET,
+7 THE DIVISION'S EXISTING OVERSIGHT AND ENFORCEMENT AUTHORITY OF
+8 CARRIER PAYMENTS TO PROVIDERS SHOULD BE AUGMENTED TO COMPEL
+9 PROMPT PAYMENT FROM CARRIERS WHEN UNDERPAYMENT IS IDENTIFIED
+10 IN THE COMPLAINT PROCESS, THEREBY PROVIDING A MORE EFFECTIVE
+11 PATHWAY FOR PROVIDERS TO CHALLENGE UNDERPAYMENT; AND
+12 (E) CARRIERS ARE NOT REQUIRED TO DISCLOSE WHEN A PATIENT'S
+13 HEALTH BENEFIT PLAN IS GOVERNED BY STATE LAW, SO THE PROVIDER IS
+14 UNABLE TO DETERMINE IN WHICH JURISDICTION THE PROVIDER MAY
+15 APPEAL.
+16 (II) THE GENERAL ASSEMBLY THEREFORE INTENDS FOR THIS
+17 SUBSECTION (13) TO:
+18 (A) STREAMLINE OUT-OF-NETWORK DISPUTE RESOLUTIONS BY
+19 GRANTING THE DIVISION ADDITIONAL ENFORCEMENT AUTHORITY WITHIN
+20 ITS OUT-OF-NETWORK COMPLAINT PROCESS, INCLUDING A REQUIREMENT
+21 TO COMPEL PROMPT PAYMENT FROM CARRIERS WHEN UNDERPAYMENT IS
+22 IDENTIFIED;
+23 (B) REQUIRE JURISDICTIONAL TRANSPARENCY BY MANDATING
+24 THAT CARRIERS CLEARLY STATE ON A REMITTANCE ADVICE WHEN A
+25 HEALTH BENEFIT PLAN IS REGULATED BY STATE LAW; AND
+26 (C) EMPOWER DATA-DRIVEN ENFORCEMENT BY REQUIRING
+27 CARRIERS TO DISCLOSE THE SPECIFIC METHODOLOGIES USED TO
+-3- 017
+
+1 DETERMINE OUT-OF-NETWORK REIMBURSEMENT AND BY GRANTING THE
+2 COMMISSIONER AUTHORITY TO ORDER CORRECTIVE PAYMENTS AND
+3 IMPOSE FINES FOR NONCOMPLIANCE.
+4
+5 (a) (b) When a carrier makes a payment to a provider or a
+6 health-care facility pursuant to subsection (3)(d) or (5.5)(b) of this
+7 section, the provider or the facility may request, and the commissioner
+8 shall collect, data from the carrier to evaluate the carrier's compliance in
+9 paying the highest rate required. The information requested may
+10 PROVIDED MUST include the methodology for determining the carrier's
+11 median in-network rate or AND reimbursement for each service in the
+12 same geographic area. DATA SUBMITTED BY A CARRIER PURSUANT TO THIS
+13 SUBSECTION (13)(b) IS PROPRIETARY, A TRADE SECRET, AND
+14 CONFIDENTIAL PURSUANT TO SECTION 24-72-204 (3)(a)(IV).
+15 (b) Repealed.
+16 (c) BEGINNING JANUARY 1, 2027, WHEN A CARRIER MAKES A
+17 PAYMENT TO A PROVIDER OR A HEALTH-CARE FACILITY PURSUANT TO
+18 SUBSECTION (3)(d) OR (5.5)(b) OF THIS SECTION, THE CARRIER SHALL
+19 PROVIDE A REMITTANCE ADVICE THAT IDENTIFIES WHEN THE HEALTH
+20 BENEFIT PLAN THE CARRIER IS MAKING THE PAYMENT PURSUANT TO IS
+21 REGULATED BY THE STATE AND THAT THE PAYMENT WAS MADE PURSUANT
+22 TO SUBSECTION (3)(d) OR (5.5)(b) OF THIS SECTION.
+23
+24 (d) A CARRIER SHALL PROVIDE THE CARRIER'S MEDIAN
+25 IN-NETWORK REIMBURSEMENT RATE FOR OUT-OF-NETWORK CLAIMS ON
+26 EACH REMITTANCE ADVICE.
+27
+-4- 017
+
+1 SECTION 2. Act subject to petition - effective date -
+2 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+3 the expiration of the ninety-day period after final adjournment of the
+4 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+5 2026); except that, if a referendum petition is filed pursuant to section 1
+6 (3) of article V of the state constitution against this act or an item, section,
+7 or part of this act within such period, then the act, item, section, or part
+8 will not take effect unless approved by the people at the general election
+9 to be held in November 2026 and, in such case, will take effect on the
+10 date of the official declaration of the vote thereon by the governor.
+11 (2) This act applies to payments owed by health insurance carriers
+12 on or after the applicable effective date of this act.
+-5- 017

@@ -1,0 +1,497 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0140.05 Pierce Lively x2059 SENATE BILL 26-135
+Senate Committees House Committees
+Finance Appropriations
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING STATE PUBLIC EDUCATION K-12 FUNDING, AND, IN
+102 CONNECTION THEREWITH, INCREASING APPROPRIATIONS FOR
+103 STATE PUBLIC EDUCATION K-12 FOR TEN YEARS,
+104 ALLOWING THE STATE TO RETAIN AN AMOUNT OF STATE
+105 REVENUE IN EXCESS OF THE LIMITATION ON STATE FISCAL YEAR
+106 SPENDING EQUAL TO STATE PUBLIC K-12 EDUCATION FUNDING,
+107 AND SUBMITTING A BALLOT QUESTION TO THE REGISTERED
+108 ELECTORS OF THE STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+ESUOH
+ESUOH
+ETANES
+ETANES
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,9
+yaM
+6202
+,8
+yaM
+6202
+,72
+lirpA
+6202
+,42
+lirpA
+SENATE SPONSORSHIP
+Bridges and Kipp, Amabile, Benavidez, Coleman, Cutter, Danielson, Daugherty, Exum,
+Gonzales J., Hinrichsen, Jodeh, Kolker, Lindstedt, Marchman, Mullica, Rodriguez, Snyder,
+Sullivan, Weissman, Wallace
+HOUSE SPONSORSHIP
+Bacon and Lukens, Boesenecker, Camacho, Carter, Duran, Goldstein, Hamrick, Joseph,
+Lieder, Lindsay, Martinez, McCormick, Nguyen, Paschal, Phillips, Rydin, Smith, Stewart R.,
+Titone, Velasco, Willford, Clifford, English, Espenoza, Froelich, Gilchrist, Jackson, Mauro,
+McCluskie, Ricks, Rutinel, Stewart K., Story
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+http://leg.colorado.gov.)
+The bill requires the secretary of state to refer a ballot issue at the
+November 2026 general election to seek voter approval for the state to
+retain and spend an amount of state revenue equal to the amount of state
+public K-12 education funding in excess of the limitation on state fiscal
+year spending and to increase state public K-12 education funding by up
+to 2% for 10 years.
+The bill directs legislative council staff to determine the amount
+of state public K-12 education funding and describes how legislative
+council staff will make that determination.
+The bill creates a positive factor to provide additional funding for
+each district. A positive factor is equal to the lesser of 2% of statewide
+total program funding for the 2026-27 budget year multiplied by a
+district's total program as a percentage of the statewide total program or
+the amount that the state is authorized to retain and spend that would
+otherwise have been in excess of the limitation on state fiscal year
+spending multiplied by a district's total program as a percentage of the
+statewide total program. A district may only use its positive factor
+funding for increasing teacher pay, improving teacher retention, lowering
+class sizes, and increasing access to career and technical courses.
+The bill creates the excess state revenues account (account) within
+the general fund. The account consists of an amount of money equal to
+the amount of state revenues in excess of the excess state revenues cap
+that the state retains for a given fiscal year pursuant to voter approval of
+the bill. Money in the account must first be spent for paying districts their
+positive factor and only after that may be spent for any other purpose.
+The bill directs the state auditor to conduct and publish, for each
+state fiscal year that the state retains and spends state revenues in excess
+of the limitation on state fiscal year spending, a legislative report. That
+report must include descriptions of:
+! The amount of state revenues that the state retained and
+spent that would otherwise have been in excess of the
+limitation on state fiscal year spending; and
+! How the state revenues that the state retained and spent that
+would otherwise have been in excess of the limitation on
+state fiscal year spending were expended.
+Lastly, the bill makes conforming amendments to ensure that voter
+approval of the bill does not impact the expanded earned income tax
+credit, the family affordability tax credit, or the affordable housing
+financing fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+-2- 135
+
+1 SECTION 1. Legislative declaration. (1) The general assembly
+2 finds and declares that:
+3 (a) Public education is the bedrock of Colorado's democracy,
+4 fundamental to individual opportunity, the underpinning of thriving
+5 communities, and the key to Colorado's economic prosperity and future;
+6 (b) Wise and adequate investment in Colorado's schools is
+7 essential to maintaining and improving the competitiveness of Colorado
+8 and its students;
+9 (c) The money invested in Colorado's public schools has a return
+10 on investment that has long been recognized as among the nation's
+11 highest;
+12 (d) An increase in the rates of K-12 graduation, the earning of
+13 industry certifications, and the earning of associates degrees demonstrate
+14 the effectiveness of Colorado's investment in public schools;
+15 (e) Research demonstrates that increasing school funding results
+16 in long-term increases in graduation rates and lifetime wages, prevents
+17 crime, and lowers incarceration rates;
+18 (f) Educators and support staff in every school district and charter
+19 school across Colorado make invaluable contributions to their schools,
+20 districts, and communities by dedicating their time, talents, and
+21 out-of-pocket money to their students, despite Colorado ranking near the
+22 bottom of starting teacher pay and having the largest teacher pay penalty
+23 in the nation;
+24 (g) Teachers, counselors, para professionals, bus drivers, and
+25 essential support staff are leaving their professions because salaries have
+26 not kept up with housing, healthcare, and cost of living;
+27 (h) Students are learning in overcrowded classrooms and in
+-3- 135
+
+1 schools with fewer mental health counselors, opportunities for special
+2 education support, and programs that support their ability to develop into
+3 healthy, productive adults;
+4 (i) Working class, multilingual, and rural communities are hit
+5 hardest by chronic school underfunding;
+6 (j) In January 2025, the legislature received the reports and
+7 recommendation of the two commissioned adequacy studies: "Equity and
+8 Adequacy of Colorado School Funding - A Cost-Modeling Approach",
+9 by the American institutes for research, and "Colorado Input-Based
+10 Financial Adequacy Study Report", by Augenblick, Palaich and
+11 Associates, Inc;
+12 (k) The adequacy studies found that, were Colorado schools
+13 funded fully and fairly, every student would have the individual attention
+14 they need from teachers, counselors, health professionals, tutors, and
+15 support staff to succeed and thrive; every teacher would have a
+16 reasonable workload, professional development and coaching, and a
+17 salary that would allow them to live where they work; and every
+18 community would enjoy the benefit of vibrant public schools, a
+19 high-quality workforce, and an engaged citizenry;
+20 (l) Colorado's fiscal constraints and potential of federal funding
+21 cuts to education, medicaid, nutrition, human services, and other critical
+22 programs threaten the sustainability and adequacy of school funding in
+23 Colorado and to deplete the state education fund;
+24 (m) Research demonstrates that high-quality early childhood
+25 education, including child care and preschool, produces significant
+26 long-term benefits, including improved school readiness, higher
+27 graduation rates, and greater lifetime earnings, and that every dollar
+-4- 135
+
+1 invested in high-quality childhood education yields substantial returns to
+2 the state and its communities;
+3 (n) Children who participate in high-quality, preschool and child
+4 care programs arrive in kindergarten better prepared to learn across
+5 language, math, and social-emotional domains, with the greatest benefits
+6 accruing to children from working families, rural communities, and
+7 multilingual households; and
+8 (o) Therefore, it is in the best interest of educators, students, and
+9 their families to allow voters to invest further in public education by
+10 modernizing the state's ability to retain and spend revenue to meet the
+11 needs of Colorado communities and to ensure that state investment in
+12 K-12 public education is increased by two percent for at least ten years
+13 through the funding of a positive factor.
+14
+15 SECTION 2. In Colorado Revised Statutes, add 22-54-103.7 as
+16 follows:
+17 22-54-103.7. Positive factor - definitions.
+18 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+19 REQUIRES:
+20
+21 (a) "NEW FORMULA DISTRICT TOTAL PROGRAM CALCULATION"
+22 MEANS A DISTRICT'S TOTAL PROGRAM FOR THE APPLICABLE BUDGET YEAR
+23 AS CALCULATED PURSUANT TO THE DISTRICT TOTAL PROGRAM FORMULA
+24 IN SECTION 22-54-103.5. THE TERM DOES NOT INCLUDE ANY ADJUSTMENTS
+25 REQUIRED PURSUANT TO SECTION 22-54-103.3 WHEN DETERMINING A
+26 DISTRICT'S TOTAL PROGRAM FOR THE 2027-28 BUDGET YEAR THROUGH
+27 THE 2030-31 BUDGET YEAR.
+-5- 135
+
+1 (b) "NEW FORMULA STATEWIDE TOTAL PROGRAM CALCULATION"
+2 MEANS THE DISTRICT TOTAL PROGRAM FOR ALL DISTRICTS FOR THE
+3 APPLICABLE BUDGET YEAR AS CALCULATED PURSUANT TO THE DISTRICT
+4 TOTAL PROGRAM FORMULA IN SECTION 22-54-103.5. THE TERM DOES NOT
+5 INCLUDE ANY ADJUSTMENTS REQUIRED PURSUANT TO SECTION
+6 22-54-103.3 WHEN DETERMINING A DISTRICT'S TOTAL PROGRAM FOR THE
+7 2027-28 BUDGET YEAR THROUGH THE 2030-31 BUDGET YEAR.
+8 (c) "POSITIVE FACTOR" MEANS:
+9 (I) FOR THE 2026-27 BUDGET YEAR, TWO PERCENT OF PROGRAM
+10 FOUNDATION CALCULATED FOR THE 2025-26 BUDGET YEAR;
+11 (II) FOR THE 2027-28 BUDGET YEAR THROUGH THE 2034-35
+12 BUDGET YEAR, THE SUM OF:
+13 (A) TWO PERCENT OF PROGRAM FOUNDATION FOR THE
+14 IMMEDIATELY PRECEDING BUDGET YEAR; AND
+15 (B) THE POSITIVE FACTOR FOR THE IMMEDIATELY PRECEDING
+16 BUDGET YEAR; AND
+17 (III) FOR THE 2035-36 BUDGET YEAR AND EACH BUDGET YEAR
+18 THEREAFTER:
+19 (A) TWO PERCENT OF PROGRAM FOUNDATION FOR THE 2034-35
+20 BUDGET YEAR; AND
+21 (B) THE POSITIVE FACTOR FOR THE 2034-35 BUDGET YEAR.
+22
+23 (d) "PROGRAM FOUNDATION" MEANS:
+24 (I) FOR BUDGET YEARS BEFORE TOTAL PROGRAM IS DETERMINED
+25 PURSUANT TO SECTION 22-54-103.5, AN AMOUNT EQUAL TO STATE SHARE
+26 OF TOTAL PROGRAM; AND
+27 (II) FOR BUDGET YEARS WHEN TOTAL PROGRAM IS DETERMINED
+-6- 135
+
+1 PURSUANT TO SECTION 22-54-103.5, AN AMOUNT EQUAL TO NEW FORMULA
+2 STATEWIDE TOTAL PROGRAM CALCULATION.
+3 (e) "STATE SHARE OF TOTAL PROGRAM" MEANS AN AMOUNT EQUAL
+4 TO THE TOTAL OF THE STATE'S SHARE OF EACH SCHOOL DISTRICT'S TOTAL
+5 PROGRAM, AS DEFINED IN SECTION 22-55-102 (18).
+6 (f) "TWO PERCENT K-12 PUBLIC EDUCATION INCREASE" MEANS AN
+7 AMOUNT EQUAL TO THE LESSER OF:
+8 (I) THE POSITIVE FACTOR FOR THE CURRENT BUDGET YEAR; OR
+9
+10 (II) THE AMOUNT THAT THE STATE IS AUTHORIZED TO RETAIN AND
+11 SPEND PURSUANT TO SECTION 24-77-302 (1) FOR THE BUDGET YEAR
+12 MINUS, FOR THE 2027-28 BUDGET YEAR AND EACH BUDGET YEAR
+13 THEREAFTER, AN AMOUNT EQUAL TO THE TOTAL DOLLAR AMOUNTS OF
+14 WARRANTS ISSUED BY THE STATE TREASURER PURSUANT TO SECTION
+15 39-3-207 (4) IN THE CURRENT BUDGET YEAR.
+16 (2) FOR THE 2026-27 BUDGET YEAR AND EACH BUDGET YEAR
+17 THEREAFTER, A DISTRICT'S SHARE OF POSITIVE FACTOR IS EQUAL TO:
+18 (NEW FORMULA DISTRICT TOTAL PROGRAM CALCULATION / NEW
+19 FORMULA STATEWIDE TOTAL PROGRAM CALCULATION) X (TWO PERCENT
+20 K-12 PUBLIC EDUCATION INCREASE).
+21 (3) FOR THE 2026-27 BUDGET YEAR AND EACH BUDGET YEAR
+22 THEREAFTER, THE DEPARTMENT OF EDUCATION SHALL ANNUALLY
+23 CALCULATE EACH DISTRICT'S NEW FORMULA DISTRICT TOTAL PROGRAM
+24 CALCULATION AND THE NEW FORMULA STATEWIDE TOTAL PROGRAM
+25 CALCULATION.
+26 (4) FOR THE 2026-27 BUDGET YEAR AND EACH BUDGET YEAR
+27 THEREAFTER, THE DEPARTMENT OF EDUCATION AND THE STAFF OF THE
+-7- 135
+
+1 LEGISLATIVE COUNCIL SHALL ANNUALLY DETERMINE EACH DISTRICT'S
+2 POSITIVE FACTOR BASED ON BUDGET PROJECTIONS; EXCEPT THAT THE
+3 DEPARTMENT OF EDUCATION AND THE STAFF OF THE LEGISLATIVE COUNCIL
+4 SHALL MAKE MID-YEAR REVISIONS TO REPLACE PROJECTIONS WITH
+5 ACTUAL FIGURES TO DETERMINE ANY NECESSARY CHANGES IN THE
+6 AMOUNT TO MAINTAIN THE POSITIVE FACTOR FOR THE APPLICABLE
+7 BUDGET YEAR.
+8 (5) A DISTRICT'S POSITIVE FACTOR IS IN ADDITION TO, BUT
+9 IS NOT INCLUDED IN, THE DISTRICT'S TOTAL PROGRAM DETERMINED
+10 PURSUANT TO THIS ARTICLE 54. THE POSITIVE FACTOR MUST BE
+11 DISTRIBUTED IN THE SAME FORM AND MANNER IN WHICH PAYMENTS OF
+12 TOTAL PROGRAM ARE DISTRIBUTED UNDER LAW TO ALL PUBLIC SCHOOLS.
+13
+14 (6) A DISTRICT SHALL ONLY EXPEND ITS POSITIVE FACTOR TO:
+15 (a) INCREASE TEACHER PAY;
+16 (b) IMPROVE TEACHER RETENTION;
+17 (c) LOWER CLASS SIZES; AND
+18 (d) INCREASE ACCESS TO CAREER AND TECHNICAL COURSES.
+19
+20
+21 SECTION 3. In Colorado Revised Statutes, add part 3 to article
+22 77 of title 24 as follows:
+23 PART 3
+24 SUBMISSION OF BALLOT ISSUE
+25 VOTER-APPROVED REVENUE CHANGE
+26 24-77-301. Definitions.
+27 AS USED IN THIS PART 3, UNLESS THE CONTEXT OTHERWISE
+-8- 135
+
+1 REQUIRES:
+2
+3 (1) "CHILDREN'S ACCOUNT" OR "ACCOUNT" MEANS THE
+4 CHILDREN'S ACCOUNT CREATED IN SECTION 24-77-302 (2).
+5
+6 (2) "STATE PUBLIC EDUCATION FUNDING" MEANS THE AMOUNT
+7 DETERMINED BY LEGISLATIVE COUNCIL STAFF PURSUANT TO SECTION
+8 24-77-303 (1).
+9 (3) "STATE REVENUES" MEANS STATE FISCAL YEAR SPENDING, AS
+10 DEFINED IN SECTION 24-77-102 (17).
+11 (4) "TWO PERCENT K-12 PUBLIC EDUCATION INCREASE" HAS THE
+12 MEANING SET FORTH IN SECTION 22-54-103.7 (1)(f).
+13 24-77-302. Retention of excess state revenues - children's
+14 account - definitions.
+15 (1) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+16 2026, THE STATE MAY RETAIN AND SPEND STATE REVENUES THAT THE
+17 STATE OTHERWISE WOULD HAVE BEEN REQUIRED TO REFUND UNDER
+18 SECTION 20 (7)(d) OF ARTICLE X OF THE STATE CONSTITUTION IN AN
+19 AMOUNT EQUAL TO THE STATE PUBLIC EDUCATION FUNDING FOR THE
+20 STATE FISCAL YEAR.
+21 (2) (a) THERE IS HEREBY CREATED IN THE GENERAL FUND THE
+22 CHILDREN'S ACCOUNT, WHICH CONSISTS OF:
+23 (I) FOR STATE FISCAL YEAR 2026-27, AN AMOUNT OF MONEY
+24 EQUAL TO THE AMOUNT THAT THE STATE RETAINS FOR STATE FISCAL YEAR
+25 2026-27 PURSUANT TO SUBSECTION (1) OF THIS SECTION; AND
+26 (II) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+27 2027, AN AMOUNT OF MONEY EQUAL TO THE AMOUNT THAT THE STATE
+-9- 135
+
+1 RETAINS FOR THE STATE FISCAL YEAR PURSUANT TO SUBSECTION (1) OF
+2 THIS SECTION MINUS AN AMOUNT EQUAL TO THE TOTAL DOLLAR AMOUNT
+3 OF WARRANTS ISSUED BY THE STATE TREASURER PURSUANT TO SECTION
+4 39-3-207 (4) IN THE SAME STATE FISCAL YEAR.
+5 (b) FOR EACH STATE FISCAL YEAR BEGINNING ON OR AFTER JULY
+6 1, 2026, BUT BEFORE JULY 1, 2036, THE GENERAL ASSEMBLY:
+7 (I) SHALL TRANSFER OR APPROPRIATE TO THE DEPARTMENT OF
+8 EDUCATION AN AMOUNT EQUAL TO THE TWO PERCENT K-12 PUBLIC
+9 EDUCATION INCREASE FOR THE STATE FISCAL YEAR AND THE
+10 DEPARTMENT OF EDUCATION SHALL DISTRIBUTE THAT AMOUNT IN
+11 ACCORDANCE WITH SECTION 22-54-103.7;
+12 (II) SHALL APPROPRIATE OR TRANSFER AN AMOUNT FOR
+13 INVESTMENT IN K-12 PUBLIC EDUCATION, TO BE USED FOR SCHOOL
+14 SERVICES, DISABILITY SERVICES TO STUDENTS WITH DISABILITIES, AND
+15 INCREASING ANNUAL CONTACT HOURS, EQUAL TO THE AMOUNT, IF ANY, BY
+16 WHICH ONE HALF OF THE AMOUNT CREDITED TO THE ACCOUNT FOR THE
+17 STATE FISCAL YEAR EXCEEDS THE AMOUNT APPROPRIATED OR
+18 TRANSFERRED PURSUANT TO SUBSECTION (2)(b)(I) OF THIS SECTION FOR
+19 THE STATE FISCAL YEAR; AND
+20 (III) AFTER MAKING THE APPROPRIATIONS OR TRANSFERS
+21 REQUIRED BY SUBSECTIONS (2)(b)(I) AND (2)(b)(II) OF THIS SECTION FOR
+22 THE STATE FISCAL YEAR, SHALL APPROPRIATE OR TRANSFER THE
+23 REMAINING MONEY IN THE ACCOUNT TO PROGRAMS THAT SUPPORT
+24 COLORADO'S CHILDREN, PRIORITIZING CHILD CARE, FULL-DAY PRESCHOOL,
+25 AND OTHER PROGRAMS THAT PREPARE CHILDREN TO BE SUCCESSFUL IN
+26 SCHOOL.
+27
+-10- 135
+
+1
+2 (3) THE APPROVAL OF THE BALLOT MEASURE INCLUDING THIS
+3 SECTION BY A MAJORITY OF THE ELECTORS VOTING ON THE BALLOT
+4 MEASURE CONSTITUTES A VOTER-APPROVED REVENUE CHANGE TO ALLOW
+5 THE RETENTION AND EXPENDITURE OF THE ADDITIONAL STATE REVENUES
+6 THAT THE STATE IS AUTHORIZED TO RETAIN AND SPEND PURSUANT TO
+7 SUBSECTION (1) OF THIS SECTION.
+8 (4) THIS SECTION DOES NOT AFFECT THE AMOUNT THAT THE STATE
+9 IS PERMITTED TO RETAIN AND SPEND UNDER THE EXCESS STATE REVENUES
+10 CAP, AS DEFINED IN SECTION 24-77-103.6 (6)(b)(I).
+11 (5) THE MONEY THAT THE GENERAL ASSEMBLY APPROPRIATES
+12 OR TRANSFERS PURSUANT TO SUBSECTION (2)(b)(I) OF THIS SECTION
+13 SHALL SUPPLEMENT AND NOT SUPPLANT TOTAL PROGRAM, AS DEFINED IN
+14 SECTION 22-55-102 (18).
+15 24-77-303. Determination of state public education funding.
+16 (1) ON OR BEFORE JANUARY 15, 2027, ON OR AFTER JULY 1, 2027,
+17 BUT BEFORE AUGUST 1, 2027, AND ON OR AFTER EACH JULY 1 AND BEFORE
+18 EACH AUGUST 1 THEREAFTER, LEGISLATIVE COUNCIL STAFF SHALL
+19 DETERMINE AND REPORT TO THE STATE CONTROLLER, THE OFFICE OF
+20 STATE PLANNING AND BUDGETING, AND THE JOINT BUDGET COMMITTEE,
+21 THE GREATEST TOTAL AMOUNT IN A PRECEDING STATE FISCAL YEAR THAT
+22 HAS BEEN COUNTED AS STATE FISCAL YEAR SPENDING AND APPROPRIATED
+23 BY THE GENERAL ASSEMBLY FOR A PRECEDING STATE FISCAL YEAR FOR
+24 CATEGORICAL PROGRAMS AND THE STATE SHARE OF TOTAL PROGRAM AND
+25 THE AMOUNT OF THE TWO PERCENT K-12 PUBLIC EDUCATION INCREASE
+26 FOR THE SAME PRECEDING STATE FISCAL YEAR. THE AMOUNT DETERMINED
+27 AND REPORTED BY LEGISLATIVE COUNCIL STAFF PURSUANT TO THIS
+-11- 135
+
+1 SUBSECTION (1) IS THE STATE PUBLIC EDUCATION FUNDING FOR THAT
+2 STATE FISCAL YEAR.
+3 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+4 REQUIRES:
+5 (a) "CATEGORICAL PROGRAMS" HAS THE MEANING SET
+6 FORTH IN SECTION 22-55-102 (4).
+7 (b) "STATE SHARE OF TOTAL PROGRAM" MEANS AN AMOUNT
+8 EQUAL TO THE TOTAL OF THE STATE'S SHARE OF EACH SCHOOL DISTRICT'S
+9 TOTAL PROGRAM, AS DEFINED IN SECTION 22-55-102 (18).
+10 24-77-304. Excess state revenues expenditure independent
+11 audit.
+12 (1) FOR EACH STATE FISCAL YEAR THAT THE STATE RETAINS
+13 AND SPENDS STATE REVENUES IN EXCESS OF THE LIMITATION ON STATE
+14 FISCAL YEAR SPENDING PURSUANT TO THIS PART 3, THE STATE AUDITOR
+15 SHALL REPORT ON EXCESS STATE REVENUES, INCLUDING THE FOLLOWING
+16 INFORMATION:
+17 (a) THE AMOUNT OF STATE REVENUES THAT THE STATE RETAINED
+18 AND SPENT IN EXCESS OF THE LIMITATION ON STATE FISCAL YEAR
+19 SPENDING PURSUANT TO THIS PART 3; AND
+20 (b) A DESCRIPTION OF HOW THE STATE EXPENDED FROM THE
+21 ACCOUNT THE STATE REVENUES THAT THE STATE RETAINED AND SPENT IN
+22 EXCESS OF THE LIMITATION ON STATE FISCAL YEAR SPENDING PURSUANT
+23 TO THIS PART 3.
+24 (2) THE STATE AUDITOR SHALL COMPLETE THE REPORTING
+25 REQUIRED BY SUBSECTION (1) OF THIS SECTION AT THE SAME TIME THAT
+26 THE STATE AUDITOR COMPLETES THE REPORT REQUIRED PURSUANT TO
+27 SECTION 2-3-103 (2) FOLLOWING A FISCAL YEAR IN WHICH THE STATE
+-12- 135
+
+1 RETAINS AND SPENDS STATE REVENUES IN EXCESS OF THE LIMITATION ON
+2 STATE FISCAL YEAR SPENDING PURSUANT TO THIS PART 3 AND MAY AMEND
+3 THE REPORT THEREAFTER AS NECESSARY.
+4
+5 SECTION 4. In Colorado Revised Statutes, 22-44-304, add
+6 (1)(g) as follows:
+7 22-44-304. Financial reporting - online access to information
+8 - definitions.
+9 (1) (g) (I) ADDITIONALLY, COMMENCING ON AUGUST 1, 2027,
+10 EACH LOCAL EDUCATION PROVIDER, AS DEFINED IN SECTION 22-54-202,
+11 SHALL POST IN A FORMAT THAT CAN BE DOWNLOADED AND SORTED, FOR
+12 FREE PUBLIC ACCESS, THE LOCAL EDUCATION PROVIDER'S ACTUAL
+13 EXPENDITURES OF ANY POSITIVE FACTOR RECEIVED PURSUANT TO
+14 SECTION 22-54-103.7.
+15 (II) AS USED IN THIS SUBSECTION (1)(g), UNLESS THE CONTEXT
+16 OTHERWISE REQUIRES, "POSITIVE FACTOR" HAS THE MEANING SET FORTH
+17 IN SECTION 22-54-103.7 (1)(c).
+18 SECTION 5. In Colorado Revised Statutes, 24-77-106.5, amend
+19 (1)(b) as follows:
+20 24-77-106.5. Annual financial report - certification of excess
+21 state revenues.
+22 (1) (b) Notwithstanding section 24-1-136 (11)(a)(I), based upon
+23 the financial report prepared in accordance with subsection (1)(a) of this
+24 section for any given fiscal year, the controller shall certify to the
+25 governor, the general assembly, and the executive director of the
+26 department of revenue no later than September 1 following the end of a
+27 fiscal year the amount of state revenues in excess of the limitation on
+-13- 135
+
+1 state fiscal year spending imposed by section 20 (7)(a) of article X of the
+2 state constitution, if any, for such fiscal year and the state revenues in
+3 excess of such limitation that the state is authorized to retain and spend
+4 pursuant to voter approval of section 24-77-103.6 AND PART 3 OF THIS
+5 ARTICLE 77.
+6 SECTION 6. In Colorado Revised Statutes, 29-32-104, amend
+7 (5) as follows:
+8 29-32-104. Permissible expenditures - affordable housing
+9 programs - report - definitions.
+10 (5) If the Legislative Council Staff's March Economic and
+11 Revenue Forecast in any given year projects revenue for the next state
+12 fiscal year will fall below the revenue limit imposed under section 20 of
+13 article X of the state constitution BY AN AMOUNT GREATER THAN THE
+14 AMOUNT OF STATE PUBLIC EDUCATION FUNDING AS DEFINED IN SECTION
+15 24-77-301 (2), the general assembly may reduce the funding allocated to
+16 the office required by this section for the next state fiscal year in order to
+17 balance the state budget for said state fiscal year.
+18 SECTION 7. In Colorado Revised Statutes, 39-22-123.5, amend
+19 (3.5)(a)(VIII) as follows:
+20 39-22-123.5. Earned income tax credit - legislative declaration
+21 - repeal.
+22 (3.5) (a) As used in this subsection (3.5), unless the context
+23 otherwise requires:
+24 (VIII) "Nonexempt revenue" means, for the applicable state fiscal
+25 year, the revenues that are identified as nonexempt revenues in the annual
+26 comprehensive financial report published by the office of the state
+27 controller; EXCEPT THAT, FOR STATE FISCAL YEARS COMMENCING ON OR
+-14- 135
+
+1 AFTER JULY 1, 2026, NONEXEMPT REVENUE INCLUDES STATE PUBLIC
+2 EDUCATION FUNDING AS DEFINED IN SECTION 24-77-301 (2).
+3 SECTION 8. In Colorado Revised Statutes, 39-22-130, amend
+4 (2)(b)(II)(G) as follows:
+5 39-22-130. Family affordability tax credit - tax preference
+6 performance statement - legislative declaration - definitions - repeal.
+7 (2) As used in this section, unless the context otherwise requires:
+8 (b) (II) As used in this subsection (2)(b):
+9 (G) "Nonexempt revenue" means, for the applicable state fiscal
+10 year, the revenue that is identified as nonexempt TABOR revenues in the
+11 annual comprehensive financial report published by the office of the state
+12 controller; EXCEPT THAT, FOR STATE FISCAL YEARS COMMENCING ON OR
+13 AFTER JULY 1, 2026, NONEXEMPT REVENUE INCLUDES STATE PUBLIC
+14 EDUCATION FUNDING AS DEFINED IN SECTION 24-77-301 (2).
+15 SECTION 9. Refer to people under referendum. At the
+16 election held on November 3, 2026, the secretary of state shall submit this
+17 act by its ballot title to the registered electors of the state for their
+18 approval or rejection. Each elector voting at the election may cast a vote
+19 either "Yes/For" or "No/Against" on the following ballot title: "Shall state
+20 investment in K-12 public education increase two percent each year for
+21 the next ten years, with investments used to increase teacher pay, improve
+22 teacher retention, lower class sizes, and increase access to career and
+23 technical courses, without raising taxes but instead funded by raising the
+24 annual limit on state fiscal year spending only by the amount spent on
+25 public K-12 education as a voter-approved revenue change, and requiring
+26 an annual publicly released, independent audit to show how the new
+27 investments are spent?" Except as otherwise provided in section
+-15- 135
+
+1 1-40-123, Colorado Revised Statutes, if a majority of the electors voting
+2 on the ballot title vote "Yes/For", then the act will become part of the
+3 Colorado Revised Statutes.
+-16- 135

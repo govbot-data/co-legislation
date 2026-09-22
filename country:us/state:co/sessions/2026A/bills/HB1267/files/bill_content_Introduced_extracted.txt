@@ -1,0 +1,693 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0023.01 Shelby Ross x4510 HOUSE BILL 26-1267
+HOUSE SPONSORSHIP
+Joseph and Mabrey,
+SENATE SPONSORSHIP
+Jodeh and Weissman,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING LIMITATIONS ON COLLECTION ACTIONS FOR MEDICAL
+102 DEBT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill adds to the list of impermissible collection actions that a
+medical creditor is prohibited from using when collecting on a medical
+debt. Current law requires a medical creditor to comply with certain
+conditions and notify a patient with medical debt 30 days before taking
+any permissible extraordinary collection actions. In addition to providing
+notice before taking any permissible extraordinary collection actions, the
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+bill requires a medical creditor to notify a patient 30 days before
+collecting, transferring, selling, or assigning a medical debt, and to verify
+the patient has been screened for public health insurance programs and
+discounted care. The bill requires a medical creditor to offer a reasonable
+payment plan to each patient with medical debt. If the medical creditor
+violates the requirements for selling, transferring, or assigning medical
+debt, or undertaking collection activities, the patient is entitled to
+damages in the amount of $3,000 or actual damages, whichever is greater.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 25.5-3-501, amend
+3 (6) as follows:
+4 25.5-3-501. Definitions.
+5 As used in this part 5, unless the context otherwise requires:
+6 (6) "Screen" or "screening" means a process identified in rule by
+7 the state department whereby health-care facilities assess a patient's
+8 circumstances related to eligibility criteria and determine whether the
+9 patient is likely to qualify for public health-care coverage HEALTH
+10 INSURANCE PROGRAMS or discounted care, inform the patient of the
+11 health-care facility's determination, and provide information to the patient
+12 about how the patient can enroll in A public health-care coverage HEALTH
+13 INSURANCE PROGRAM.
+14 SECTION 2. In Colorado Revised Statutes, amend 25.5-3-502
+15 as follows:
+16 25.5-3-502. Requirement to screen patients for eligibility for
+17 public health-care programs and discounted care - rules.
+18 (1) Beginning September 1, 2022, A health-care facility shall
+19 screen, unless a patient declines, each uninsured patient for eligibility for:
+20 (a) Public health insurance programs, including, but not limited
+21 to, medicare; the state medical assistance program, articles 4, 5, and 6 of
+-2- HB26-1267
+
+1 this title 25.5; emergency medicaid; and the children's basic health plan,
+2 article 8 of this title 25.5; and
+3 (b) Repealed.
+4 (c) Discounted care, as described in section 25.5-3-503.
+5 (1.5) IF REQUESTED BY AN INSURED PATIENT, A HEALTH-CARE
+6 FACILITY SHALL SCREEN THE PATIENT FOR DISCOUNTED CARE, AS
+7 DESCRIBED IN SECTION 25.5-3-503.
+8 (2) Health-care facilities shall use a single uniform application
+9 developed by the state department when screening a patient pursuant to
+10 subsection (1) SUBSECTIONS (1) AND (1.5) of this section.
+11 (3) If a health-care facility determines that a patient is ineligible
+12 for discounted care, the facility shall provide the patient notice of the
+13 determination and an opportunity for the patient to appeal the
+14 determination in accordance with state department rules.
+15 (4) If the patient declines the screening described in subsection (1)
+16 of this section, the health-care facility shall document the patient's
+17 decision in accordance with state department rules. A patient's decision
+18 to decline the screening that is documented and complies with state
+19 department rules is a complete defense to a claim brought by a patient
+20 under PURSUANT TO section 25.5-3-506 (2) for a violation of section
+21 25.5-3-506 (1)(a) or (1)(b) OR (1)(c).
+22 (5) If requested by the patient, a health-care facility shall screen
+23 an insured patient for discounted care pursuant to subsections (1)(b) and
+24 (1)(c) of this section.
+25 SECTION 3. In Colorado Revised Statutes, 25.5-3-503, amend
+26 (1) introductory portion and (1)(b) as follows:
+27 25.5-3-503. Discounted care for qualified patients - definition.
+-3- HB26-1267
+
+1 (1) Beginning September 1, 2022, If a patient is screened pursuant
+2 to section 25.5-3-502 and is determined to be a qualified patient, a
+3 health-care facility and a licensed health-care professional shall, for
+4 emergency hospital and other health-care services:
+5 (b) Collect amounts charged, not including amounts owed by
+6 third-party payers, in monthly installments such that the patient is not
+7 paying more than:
+8 (I) Four percent of the patient's monthly household income on a
+9 bill from a health-care facility; not paying more than
+10 (II) Two percent of the patient's monthly household income on a
+11 bill from each licensed health-care professional; and not paying more than
+12 (III) Six percent of the patient's household income on a
+13 comprehensive bill containing all health-care facility and licensed
+14 health-care professional charges; and
+15 SECTION 4. In Colorado Revised Statutes, 25.5-3-504, amend
+16 (1) introductory portion and (1)(a) as follows:
+17 25.5-3-504. Notification of patients' rights.
+18 (1) Beginning September 1, 2022, A health-care facility shall
+19 make information developed by the state department about patients' rights
+20 under this part 5 PURSUANT TO SECTION 25.5-3-505 (5)(a) and the uniform
+21 application developed by the state department pursuant to section
+22 25.5-3-505 (2)(i) available to the public and to each patient. At a
+23 minimum, the health-care facility shall:
+24 (a) Post the information in all required languages pursuant to this
+25 subsection (1) IN ALL REQUIRED LANGUAGES conspicuously on the
+26 health-care facility's website, including a link to the information on the
+27 health-care facility's main landing page;
+-4- HB26-1267
+
+1 SECTION 5. In Colorado Revised Statutes, 25.5-3-505, amend
+2 (1), (2) introductory portion, (2)(a), (2)(b), (2)(c) introductory portion,
+3 (2)(c)(I), (2)(e), (2)(g), (2)(h), (3), (4), (5) introductory portion, and (5)(a)
+4 as follows:
+5 25.5-3-505. Reporting requirements - rules.
+6 (1) Beginning September 1, 2023, and each September 1
+7 thereafter, each health-care facility and licensed health-care professional
+8 shall report to the state department data ACROSS RACE, ETHNICITY, AGE,
+9 AND PRIMARY-LANGUAGE-SPOKEN PATIENT GROUPS that the state
+10 department determines is necessary to evaluate compliance across race,
+11 ethnicity, age, and primary-language-spoken patient groups with the
+12 screening, discounted care, payment plan, and collections practices
+13 required pursuant to this part 5. If a health-care facility or licensed
+14 health-care professional is not capable of disaggregating the data required
+15 pursuant to this subsection (1) by race, ethnicity, age, and primary
+16 language spoken, the health-care facility or licensed health-care
+17 professional shall report to the state department the steps the
+18 HEALTH-CARE facility or licensed health-care professional is taking to
+19 improve race, ethnicity, age, and primary-language-spoken data collection
+20 and the date by which the HEALTH-CARE facility or licensed health-care
+21 professional will be able to disaggregate the reported data.
+22 (2) No later than April 1, 2022, The state board shall promulgate
+23 ADOPT rules necessary for the administration and implementation of this
+24 part 5. At a minimum, the rules must:
+25 (a) Outline a process for an insured patient to request a screening
+26 pursuant to section 25.5-3-502 (5) SECTION 25.5-3-502 (1.5);
+27 (b) Outline a process for documenting pursuant to section
+-5- HB26-1267
+
+1 25.5-3-502 (4), that a patient has made an informed decision to decline
+2 the screening PURSUANT TO SECTION 25.5-3-502 (4), including procedures
+3 for retaining such THE documentation;
+4 (c) Establish the A process for A HEALTH-CARE FACILITY TO, and
+5 ESTABLISH the maximum number of days that a health-care facility has to,
+6 DO THE FOLLOWING:
+7 (I) Initiate a screening after a patient receives HEALTH-CARE
+8 GOODS OR services;
+9 (e) Establish guidelines for A patient appeals regarding TO APPEAL
+10 THE DETERMINATION FOR eligibility for discounted care pursuant to
+11 section 25.5-3-503;
+12 (g) Identify the documents, USING THE MINIMUM AMOUNT OF
+13 INFORMATION NEEDED, that may be required to establish income
+14 eligibility for discounted care; using the minimum amount of information
+15 needed to determine eligibility;
+16 (h) Identify the steps a health-care facility and licensed health-care
+17 professional must take before sending patient A PATIENT'S MEDICAL debt
+18 to collections, INCLUDING COMPLYING WITH THE REQUIREMENTS
+19 DESCRIBED IN PART 2 OF ARTICLE 20 OF TITLE 6;
+20 (3) In promulgating ADOPTING rules pursuant to this section, the
+21 state department shall consider potential limitations relating to the federal
+22 "Emergency Medical Treatment and Labor Act", 42 U.S.C. sec. 1395dd.
+23 (4) Prior to promulgating ADOPTING rules pursuant to this section,
+24 the state department shall hold at least one stakeholder meeting with
+25 hospital representatives, health-care consumers, and health-care consumer
+26 advocates that is accessible to individuals whose primary language is not
+27 English, if requested.
+-6- HB26-1267
+
+1 (5) No later than April 1, 2022, The state department shall:
+2 (a) Using feedback from hospital health-care consumers and
+3 health-care consumer advocate stakeholders ADVOCATES, develop a
+4 written explanation of a patient's rights under PURSUANT TO this section
+5 that is written in plain language at a sixth-grade reading level and
+6 translated into all languages spoken by ten percent or more of the
+7 population in each county of the state and post the written explanation in
+8 all required languages on the state department's website. Each health-care
+9 facility shall make the explanation available to the public and each patient
+10 as provided in section 25.5-3-504.
+11 SECTION 6. In Colorado Revised Statutes, 25.5-3-506, amend
+12 (1) as follows:
+13 25.5-3-506. Limitations on collection actions - private
+14 enforcement.
+15 (1) Beginning September 1, 2022, before assigning, or selling
+16 patient debt, to a collection agency, as defined in section 5-16-103 (3)(a),
+17 or a debt buyer, as defined in section 5-16-103 (8.5) BEFORE ASSIGNING,
+18 SELLING, OR OTHERWISE TRANSFERRING MEDICAL DEBT, AS DEFINED IN
+19 SECTION 6-20-201, TO A MEDICAL CREDITOR, AS DEFINED IN SECTION
+20 6-20-201, or before pursuing, either directly or indirectly, any permissible
+21 extraordinary collection action, as defined in section 6-20-201 (7)
+22 SECTION 6-20-201:
+23 (a) A health-care facility shall meet the screening requirements in
+24 section 25.5-3-502;
+25 (b) A health-care facility and licensed health-care professional
+26 shall provide discounted care to THE PATIENT IF THE PATIENT IS a
+27 QUALIFIED patient pursuant to section 25.5-3-503, IF APPLICABLE;
+-7- HB26-1267
+
+1 (c) A health-care facility and licensed health-care professional
+2 shall provide a plain language explanation of the health-care services and
+3 fees being billed and notify the patient of potential collection actions
+4 COMPLY WITH THE REQUIREMENTS DESCRIBED IN PART 2 OF ARTICLE 20 OF
+5 TITLE 6, INCLUDING THE NOTICE REQUIREMENT AND REQUIREMENT TO
+6 OFFER THE PATIENT A REASONABLE PAYMENT PLAN, IN RELATION TO THE
+7 MEDICAL DEBT BEING SOLD, ASSIGNED, TRANSFERRED, OR COLLECTED; and
+8 (d) A health-care facility and LICENSED health-care professional
+9 shall bill any third-party payer that is responsible for providing
+10 health-care HEALTH INSURANCE coverage to the patient. If a health-care
+11 professional is an out-of-network provider OUT OF NETWORK under a
+12 qualified patient's health insurance plan, the health-care professional and
+13 health insurance carrier shall comply with the out-of-network billing
+14 requirements described in sections 10-16-704 (3) and 12-30-113.
+15 SECTION 7. In Colorado Revised Statutes, amend part 2 of
+16 article 20 of title 6 as follows:
+17 PART 2
+18 LIMITATIONS ON MEDICAL DEBT COLLECTION
+19 6-20-201. Definitions.
+20 For the purposes of AS USED IN this part 2, unless the context
+21 otherwise requires:
+22 (1) "Collection activity" means only those activities provided or
+23 performed by a licensed collection agency, using a business name other
+24 than the name of the health-care provider, MEDICAL CREDITOR for
+25 purposes of collecting a MEDICAL debt. The term does not include any
+26 standard billing procedures used by the health-care provider or its agent
+27 in the normal course of business on current, nondelinquent accounts.
+-8- HB26-1267
+
+1 (2) "Collection agency" shall have the same meaning as in section
+2 5-16-103 (3). "HEALTH-CARE GOODS OR SERVICES" MEANS HEALTH-CARE
+3 GOODS OR HEALTH-CARE SERVICES, AS DEFINED IN SECTION 10-16-102.
+4 (3) "Health-care provider" includes a health-care facility licensed
+5 pursuant to article 3 of title 25, C.R.S., and any other health-care provider
+6 MEANS A HEALTH-CARE PROFESSIONAL REGISTERED, CERTIFIED, OR
+7 LICENSED PURSUANT TO TITLE 12; A HEALTH-CARE FACILITY, AS DEFINED
+8 IN SECTION 25.5-3-501; OR ANY OTHER FACILITY THAT PROVIDES
+9 HEALTH-CARE GOODS OR SERVICES TO A PATIENT.
+10 (4) "Hospital services" means health-care services, as defined in
+11 section 10-16-102 (33) provided by a health-care facility, as defined in
+12 section 25.5-3-501 (1), or a licensed health-care professional, as defined
+13 in section 25.5-3-501 (3).
+14 (5) (4) "Impermissible extraordinary collection action" means:
+15 (a) Initiating OR THREATENING TO INITIATE foreclosure on, OR
+16 ASSERTING A LIEN ON, ATTACHING, OR SEIZING, OR THREATENING TO
+17 ATTACH OR SEIZE, an individual's primary residence or homestead,
+18 including a mobile home, as defined in section 38-12-201.5 (5) SECTION
+19 38-12-201.5;
+20 (b) INITIATING OR THREATENING TO INITIATE COLLECTION
+21 ACTIVITY AGAINST AN INDIVIDUAL WHO IS NOT A PATIENT;
+22 (c) INITIATING OR THREATENING TO INITIATE ATTACHMENT OR
+23 FORECLOSURE ON AN INDIVIDUAL'S TANGIBLE PERSONAL PROPERTY;
+24 (d) THREATENING AN INDIVIDUAL WITH DEPORTATION, OR
+25 CONTACTING AUTHORITIES, BASED ON PERCEIVED OR ACTUAL
+26 IMMIGRATION STATUS; WITHHOLDING DOCUMENTS REQUIRED FOR
+27 IMMIGRATION; OR THREATENING TO INTERFERE WITH AN ACTIVE
+-9- HB26-1267
+
+1 IMMIGRATION APPLICATION OR PROCESS;
+2 (e) SEEKING OR SUPPORTING A WARRANT FOR, OR OTHERWISE
+3 PROMOTING, THE ARREST OR DETAINMENT OF AN INDIVIDUAL IN ANY
+4 LEGAL ACTION AGAINST THE INDIVIDUAL IN CONNECTION WITH AN ACTION
+5 TO COLLECT OR ATTEMPT TO COLLECT MEDICAL DEBT, INCLUDING ON
+6 MOTIONS RELATED TO DISCOVERY OR CONTEMPT OF COURT;
+7 (f) GARNISHING OR THREATENING TO GARNISH AN INDIVIDUAL'S
+8 WAGES;
+9 (g) ASSERTING A LIEN ON, ATTACHING, OR SEIZING, OR
+10 THREATENING TO ATTACH OR SEIZE, ANY AMOUNTS IN OR INCOME FROM
+11 A RETIREMENT ACCOUNT; A PENSION FUND; AN EDUCATIONAL SAVINGS OR
+12 EXPENSE ACCOUNT; A STOCK BONUS; A PROFIT-SHARING PLAN; ANNUITY
+13 BENEFITS; OR AN ACHIEVING A BETTER LIFE EXPERIENCE SAVINGS
+14 ACCOUNT, CREATED IN ACCORDANCE WITH SECTION 23-3.1-311, OR A
+15 SIMILAR TYPE OF SAVINGS ACCOUNT FOR AN INDIVIDUAL WITH A
+16 DISABILITY; OR
+17 (h) IN ADDITION TO AMOUNTS EXEMPTED PURSUANT TO
+18 SUBSECTION (4)(g) OF THIS SECTION, ASSERTING A LIEN ON, ATTACHING,
+19 OR SEIZING, OR THREATENING TO ATTACH OR SEIZE, ANY AMOUNT IN AN
+20 INDIVIDUAL'S ACCOUNT AT A BANK OR OTHER FINANCIAL INSTITUTION,
+21 UNLESS:
+22 (I) THE ACCOUNT BELONGS TO THE PATIENT;
+23 (II) THE LIEN, ATTACHMENT, OR SEIZURE DOES NOT REDUCE THE
+24 OVERALL BALANCE IN THE PATIENT'S ACCOUNTS WITH THE BANK OR OTHER
+25 FINANCIAL INSTITUTION BELOW THIRTY THOUSAND DOLLARS; AND
+26 (III) A JUDGE ISSUES AN ORDER AGAINST A BANK OR OTHER
+27 FINANCIAL INSTITUTION THAT HOLDS A PATIENT'S ACCOUNT INSTRUCTING
+-10- HB26-1267
+
+1 THE BANK OR OTHER FINANCIAL INSTITUTION THAT THE LIEN,
+2 ATTACHMENT, OR SEIZURE APPLIES ONLY TO AN AMOUNT THAT THE
+3 PATIENT HOLDS IN ACCOUNTS WITH THE BANK OR OTHER FINANCIAL
+4 INSTITUTION THAT EXCEEDS THIRTY THOUSAND DOLLARS; EXCEPT THAT
+5 THIS SUBSECTION (4)(g)(III) DOES NOT APPLY IF THE JUDGMENT CREDITOR
+6 ESTABLISHES BY A PREPONDERANCE OF EVIDENCE THAT THE PATIENT HAS
+7 ALREADY CLAIMED THE EXEMPTION FOR ACCOUNTS WITH A DIFFERENT
+8 INSTITUTION FOR THE DEBT.
+9 (6) (5) "Medical creditor" means AN INDIVIDUAL OR ENTITY THAT
+10 CLAIMS ENTITLEMENT TO PAYMENTS ON A MEDICAL DEBT. an entity that
+11 attempts to collect on a medical debt, including:
+12 (a) A health-care provider or health-care provider's billing office;
+13 (b) A collection agency, as defined in section 5-16-103 (3);
+14 (c) A debt buyer, as defined in section 5-16-103 (8.5); and
+15 (d) A debt collector, as defined in 15 U.S.C. sec. 1692a (6).
+16 (6) "MEDICAL DEBT" HAS THE MEANING SET FORTH IN SECTION
+17 5-18-103.
+18 (7) "PATIENT" MEANS AN INDIVIDUAL WHO RECEIVES
+19 HEALTH-CARE GOODS OR SERVICES OR THE LEGAL GUARDIAN OF A MINOR
+20 WHO RECEIVES HEALTH-CARE GOODS OR SERVICES.
+21 (7) (8) "Permissible extraordinary collection action" means an
+22 action other than an impermissible extraordinary collection action that
+23 requires a legal or judicial process including but not limited to placing a
+24 lien on an individual's real property, attaching or seizing an individual's
+25 bank account or any other personal property, or garnishing an individual's
+26 wages TO COLLECT MEDICAL DEBT FROM A PATIENT. A permissible
+27 extraordinary collection action does not include the assertion of a hospital
+-11- HB26-1267
+
+1 lien pursuant to section 38-27-101.
+2 6-20-202. Notice to patient of debt.
+3 (1) (a) When a person has health benefit coverage to provide
+4 payment for care or treatment rendered by a health-care provider and the
+5 person has notified the health-care provider of coverage within thirty days
+6 after the date the care or treatment was rendered, and if the health
+7 coverage plan, as defined in section 10-16-102 (34), C.R.S., pays only a
+8 portion of the debt, prior to the assignment of the debt to a licensed
+9 collection agency, the health-care provider shall mail written notice to the
+10 last-known address of the person responsible for payment of the debt at
+11 least thirty days before any collection activity on any amount due and
+12 owing the health-care provider.
+13 (b) The notice required of health-care providers by paragraph (a)
+14 of this subsection (1) shall include the amount due and owing; the name,
+15 address, and telephone number of the health-care provider; where
+16 payment may be made; the date of service; and the last date or number of
+17 days after the date of the notice the health-care provider will accept
+18 payment prior to the debt being submitted to a collection agency or
+19 reporting adverse information to a consumer reporting agency for the debt
+20 for which notice was provided.
+21 (2) (a) If the health-care provider fails to provide the person with
+22 notice of such debt and all other information required by subsection (1)
+23 of this section, the health-care provider shall not pursue any rights to
+24 collect such outstanding amount either through a collection agency or by
+25 any further efforts of the health-care provider to collect the debt. In
+26 addition, the health-care provider may not report adverse information to
+27 a consumer reporting agency for the debt for which notice was provided
+-12- HB26-1267
+
+1 without providing notice to the person pursuant to subsection (1) of this
+2 section. The health-care provider shall assist the person in correcting any
+3 adverse credit information because of the health-care provider's failure to
+4 provide notice pursuant to subsection (1) of this section.
+5 (b) Notwithstanding any provision of this section to the contrary,
+6 a health-care provider may remedy a failure to give notice by providing
+7 a written report to the collection agency to withhold any collection
+8 activity and withholding any of the health-care provider's own collection
+9 efforts until the provider complies with the notice and time requirements
+10 pursuant to subsection (1) of this section.
+11 (c) Nothing in this subsection (2) shall be construed to require a
+12 health-care provider to perform additional attempts to notify a person of
+13 the person's portion of the debt other than mailing the notice required
+14 pursuant to subsection (1) of this section to the person's last-known
+15 address and maintaining a record of such mailing.
+16 (d) The failure of a health-care provider or its agent to provide the
+17 notice required by subsection (1) of this section shall not create a cause
+18 of action or remedy against a collection agency under the "Colorado Fair
+19 Debt Collection Practices Act", article 16 of title 5.
+20 6-20-203. Limitations on collection actions - notice
+21 requirement - definition.
+22 (1) Beginning June 1, 2022, A MEDICAL CREDITOR COLLECTING ON
+23 A MEDICAL DEBT FOR HEALTH-CARE GOODS OR SERVICES SHALL NOT
+24 ENGAGE IN impermissible extraordinary collection actions. may not be
+25 used by any medical creditor to collect debts owed for hospital services.
+26 (2) Beginning June 1, 2022, no medical creditor collecting on a
+27 debt for hospital services shall engage in any permissible extraordinary
+-13- HB26-1267
+
+1 collection actions until one hundred eighty-two days after the date the
+2 patient receives hospital services.
+3 (3) (a) (2) (a) Beginning September 1, 2022, At least thirty days
+4 before SELLING, ASSIGNING, OR OTHERWISE TRANSFERRING A MEDICAL
+5 DEBT, OR taking any permissible extraordinary collection action, a
+6 medical creditor as defined in section 6-20-201 (6)(a), collecting on a
+7 debt for hospital services shall notify VERIFY THE PATIENT HAS BEEN
+8 SCREENED IN ACCORDANCE WITH SECTION 25.5-3-502 (1) AND (1.5); IF THE
+9 PATIENT IS INSURED, INFORM THE PATIENT OF THE PATIENT'S RIGHT TO
+10 REQUEST A SCREENING PURSUANT TO SECTION 25.5-3-502 (1.5); PROVIDE
+11 the patient WITH A PLAIN LANGUAGE EXPLANATION OF THE MEDICAL DEBT;
+12 AND NOTIFY THE PATIENT of potential collection actions and shall include
+13 with the notice a statement developed by the department of health care
+14 policy and financing that explains the availability of discounted care for
+15 qualified individuals and how to apply for such care BY AT LEAST TWO
+16 MEANS OF COMMUNICATION, INCLUDING THE PATIENT'S PREFERRED
+17 METHOD OF COMMUNICATION, IF KNOWN.
+18 (b) THE NOTICE REQUIRED PURSUANT TO SUBSECTION (2)(a) OF
+19 THIS SECTION MUST INCLUDE THE FOLLOWING INFORMATION:
+20 (I) THE PATIENT'S NAME AND CONTACT INFORMATION;
+21 (II) INFORMATION ABOUT THE SCREENING REQUIREMENTS AND THE
+22 AVAILABILITY OF DISCOUNTED CARE, AS DESCRIBED IN SECTIONS
+23 25.5-3-502 AND 25.5-3-503;
+24 (III) A DESCRIPTION OF EACH HEALTH-CARE GOOD OR SERVICE
+25 PROVIDED TO THE PATIENT, INCLUDING THE DATE EACH HEALTH-CARE
+26 GOOD OR SERVICE WAS PROVIDED TO THE PATIENT AND THE AMOUNT
+27 CHARGED FOR EACH HEALTH-CARE GOOD OR SERVICE;
+-14- HB26-1267
+
+1 (IV) THE NAME, ADDRESS, AND CONTACT INFORMATION FOR THE
+2 HEALTH-CARE PROVIDER THAT PROVIDED EACH HEALTH-CARE GOOD OR
+3 SERVICE TO THE PATIENT;
+4 (V) A DETAILED DESCRIPTION OF ALL REDUCTIONS, ADJUSTMENTS,
+5 OFFSETS, AND PAYMENTS BY THIRD-PARTY PAYERS THAT ADJUST THE
+6 INITIAL CHARGES FOR THE HEALTH-CARE GOODS OR SERVICES, INCLUDING
+7 PAYMENTS RECEIVED FROM THE PATIENT;
+8 (VI) THE NAME OF THE THIRD-PARTY PAYERS TO WHOM THE
+9 INITIAL CHARGES FOR HEALTH-CARE GOODS OR SERVICES WERE
+10 SUBMITTED;
+11 (VII) INFORMATION ABOUT THE POTENTIAL AVAILABILITY OF
+12 RETROACTIVE COVERAGE IF THE PATIENT ENROLLED IN THE STATE
+13 MEDICAL ASSISTANCE PROGRAM, ARTICLES 4, 5, AND 6 OF TITLE 25.5,
+14 AFTER RECEIVING THE HEALTH-CARE GOODS OR SERVICES;
+15 (VIII) AN ITEMIZATION OF ANY INTEREST THAT HAS ACCRUED ON
+16 THE MEDICAL DEBT AND ANY OTHER ADDITIONAL FEES OR COSTS BEING
+17 CHARGED IN ASSOCIATION WITH THE MEDICAL DEBT, INCLUDING ANY
+18 ATTORNEY FEES;
+19 (IX) THE FINAL AMOUNT THE PATIENT IS LIABLE TO PAY, WHICH
+20 MUST BE PROMINENTLY DISPLAYED, AFTER TAKING INTO ACCOUNT ALL
+21 APPLICABLE REDUCTIONS;
+22 (X) A PLAIN LANGUAGE EXPLANATION OF THE POTENTIAL
+23 CONSEQUENCES OF DEFAULT; AND
+24 (XI) A CLEAR DESCRIPTION OF THE METHODS BY WHICH PAYMENT
+25 FOR THE MEDICAL DEBT CAN BE MADE, INCLUDING AN OFFER TO ENTER
+26 INTO A REASONABLE PAYMENT PLAN PURSUANT TO SECTION 6-20-204 AND
+27 HOW TO ACCEPT THE OFFER. AT LEAST ONE OF THE METHODS FOR
+-15- HB26-1267
+
+1 PAYMENT MUST NOT INCLUDE ANY SERVICE CHARGE OR ADDITIONAL FEES.
+2 (b) (I) A medical creditor as defined in section 6-20-201 (6)(b),
+3 (6)(c), or (6)(d), collecting on a debt for hospital services shall include the
+4 following statement in the notices the medical creditor provides to the
+5 patient pursuant to section 5-16-109 (1) and 15 U.S.C. sec. 1692g (a):
+6 "Pursuant to Colorado law, discounts for hospital services are available
+7 for qualified individuals." The statement must include a link to the written
+8 explanation of the patient's rights that is posted to the department of
+9 health care policy and financing's website pursuant to section 25.5-3-505
+10 (5)(a).
+11 (II) (c) A medical creditor as defined section 6-20-201 (6)(b),
+12 (6)(c), or (6)(d), shall not take any permissible extraordinary collection
+13 actions until the later of thirty days from the date of sending the notice
+14 required pursuant to subsection (3)(b)(I) of this section or the completion
+15 of the validation requirements described in section 5-16-109 (2) and 15
+16 U.S.C. sec. 1692g (b) UNLESS:
+17 (I) THE MEDICAL CREDITOR DEMONSTRATES COMPLIANCE WITH
+18 THE NOTICE REQUIREMENT IN SUBSECTION (2)(a) OF THIS SECTION,
+19 INCLUDING THE DATE AND MANNER BY WHICH THE NOTICE WAS SENT TO
+20 THE PATIENT;
+21 (II) LESS THAN THREE YEARS HAVE PASSED SINCE THE PATIENT
+22 INCURRED THE MEDICAL DEBT; AND
+23 (III) THE MEDICAL CREDITOR DID NOT KNOW AND SHOULD NOT
+24 HAVE KNOWN ABOUT AN INTERNAL REVIEW, EXTERNAL REVIEW, OR OTHER
+25 APPEAL OF A HEALTH INSURANCE DECISION THAT IS PENDING OR WAS
+26 PENDING WITHIN THE PREVIOUS SIXTY-THREE DAYS.
+27 (3) A MEDICAL CREDITOR MAY REQUEST PAYMENT OF MEDICAL
+-16- HB26-1267
+
+1 DEBT ONLY IF THE MEDICAL CREDITOR:
+2 (a) (I) VERIFIED THE PATIENT, IF THE PATIENT IS UNINSURED, HAS
+3 BEEN SCREENED FOR PUBLIC HEALTH INSURANCE PROGRAMS AND
+4 DISCOUNTED CARE IN ACCORDANCE WITH SECTION 25.5-3-502 AND IS NOT
+5 A QUALIFIED PATIENT, AS DEFINED IN SECTION 25.5-3-501; OR
+6 (II) VERIFIED THE PATIENT, IF THE PATIENT IS INSURED, HAS BEEN
+7 NOTIFIED OF THE PATIENT'S RIGHT TO BE SCREENED FOR DISCOUNTED CARE
+8 IN ACCORDANCE WITH SECTION 25.5-3-502 (1.5); AND
+9 (b) OFFERED THE PATIENT A REASONABLE PAYMENT PLAN
+10 PURSUANT TO SECTION 6-20-204; AND
+11 (c) GAVE THE PATIENT THIRTY DAYS TO RESPOND TO THE OFFER TO
+12 ENTER INTO A REASONABLE PAYMENT PLAN.
+13 (4) Beginning September 1, 2022, If a medical creditor collecting
+14 on a debt for hospital services bills or initiates collection activities and it
+15 is later determined that the patient should have been screened pursuant to
+16 section 25.5-3-503 SECTION 25.5-3-502 and is determined to be a
+17 qualified patient, as defined in section 25.5-3-501 (5) SECTION
+18 25.5-3-501, or it is determined that the patient's bill is eligible for
+19 reimbursement through a public health-care coverage HEALTH INSURANCE
+20 program, the medical creditor shall:
+21 (a) Delete any negative reports to consumer reporting agencies;
+22 (b) (I) Unless prohibited by law, if the court has entered a
+23 judgment on the medical debt:
+24 (A) Request the court vacate the judgment in any collection
+25 lawsuit over the medical debt and enter into a payment plan with the
+26 patient that meets the requirements of section 25.5-3-503 (1)(b); or
+27 (B) Request the court reduce the amount of the judgment,
+-17- HB26-1267
+
+1 including any fees and costs related to the collection lawsuit, to the total
+2 amount the patient owes pursuant to the public health-care coverage
+3 HEALTH INSURANCE program or discounted care policy that the patient
+4 qualifies for, enter into a payment plan with the patient that meets the
+5 requirements of section 25.5-3-503 (1)(b), and suspend all execution on
+6 the judgment while the patient is compliant with the terms of the payment
+7 plan; or
+8 (C) File a satisfaction of judgment such that the remaining unpaid
+9 balance of the judgment, including any fees and costs related to the
+10 collection lawsuit, is equal to the total amount the patient owes under the
+11 public health-care coverage HEALTH INSURANCE program or discounted
+12 care policy that the patient qualifies for, enter into a payment plan with
+13 the patient that meets the requirements of section 25.5-3-503 (1)(b), and
+14 suspend all execution on the judgment while the patient is compliant with
+15 the terms of the payment plan.
+16 (II) For the purposes of subsections (4)(b)(I)(B) and (4)(b)(I)(C)
+17 SUBSECTIONS (3)(b)(I)(B) AND (3)(b)(I)(C) of this section, the court shall
+18 refund to the parties any fees and costs paid to the court in connection
+19 with the litigation of the medical debt and the health-care provider shall
+20 indemnify the medical creditor for any fees awarded as part of the
+21 judgment in connection with the medical debt.
+22 (c) As the term "medical creditor" is defined in section 6-20-201
+23 (6)(a), Refund any excess amount to the patient if the patient has paid any
+24 part of the medical debt or if any of the patient's money has been seized
+25 or levied in excess of the amount that the patient owes after application
+26 of required discounts;
+27 (d) As the term "medical creditor" is defined in sections 6-20-201
+-18- HB26-1267
+
+1 (6)(b), (6)(c), and (6)(d), If the patient has paid any part of the medical
+2 debt or if any of the patient's money has been seized or levied in excess
+3 of the amount that the patient owes after application of required
+4 discounts, refund any excess amount to the patient to the extent the
+5 medical creditor has not already remitted such an THE amount to the
+6 health-care provider; and
+7 (e) Remedy any other permissible extraordinary collection action.
+8 (5) Beginning September 1, 2022, A medical creditor collecting
+9 on a debt for hospital services shall not sell, ASSIGN, OR TRANSFER a
+10 medical debt to another A THIRD party unless, prior to the sale,
+11 ASSIGNMENT, OR TRANSFER, the medical debt seller CREDITOR INITIATING
+12 THE SALE, ASSIGNMENT, OR TRANSFER has entered into a legally binding
+13 written agreement with the medical debt buyer of the debt pursuant to
+14 which:
+15 (a) The medical debt buyer agrees not to pursue impermissible
+16 extraordinary collection actions to obtain payment for the care;
+17 (b) The MEDICAL debt is returnable to or recallable by the medical
+18 debt seller CREDITOR INITIATING THE SALE, ASSIGNMENT, OR TRANSFER,
+19 upon a determination that the patient should have been screened pursuant
+20 to section 25.5-3-502 and is eligible for discounted care pursuant to
+21 section 25.5-3-503 or that the bill underlying the medical debt is eligible
+22 for reimbursement through a public health-care coverage HEALTH
+23 INSURANCE program; and
+24 (c) If it is determined that the patient should have been screened
+25 pursuant to section 25.5-3-502 and is eligible for discounted care pursuant
+26 to section 25.5-3-503 or that the bill underlying the medical debt is
+27 eligible for reimbursement through a public health-care coverage HEALTH
+-19- HB26-1267
+
+1 INSURANCE program and the MEDICAL debt is not returned to or recalled
+2 by the medical debt seller CREDITOR INITIATING THE SALE, ASSIGNMENT,
+3 OR TRANSFER, the medical debt buyer shall adhere to procedures that must
+4 be specified in the agreement that ensures the patient will not pay, and has
+5 no obligation to pay, the medical debt buyer and the medical creditor
+6 together more than the patient is personally responsible for paying.
+7 (6) The medical debt seller shall indemnify the medical debt buyer
+8 for any amount paid for a debt that is returned to or recalled by the
+9 medical debt seller.
+10 (7) Nothing in this section limits or affects THIS SECTION DOES
+11 NOT LIMIT OR AFFECT a health-care provider's right to pursue against any
+12 party other than the patient the collection of personal injury, liability,
+13 uninsured, underinsured, medical payment rehabilitation, disability,
+14 homeowner's, business owner's, workers' compensation, fault-based
+15 insurance, subrogated claims, or other claims not against the patient, AS
+16 LONG AS THE COLLECTION ACTIONS TAKEN ARE NOT IMPERMISSIBLE
+17 EXTRAORDINARY COLLECTION ACTIONS.
+18 (8) ANY SALE, ASSIGNMENT, TRANSFER, OR COLLECTION
+19 ACTIVITIES THAT DO NOT COMPLY WITH THIS PART 2 ARE VOID OR
+20 DISMISSED, AND THE MEDICAL CREDITOR INITIATING THE SALE,
+21 ASSIGNMENT, TRANSFER, OR COLLECTION ACTIVITIES IS LIABLE TO THE
+22 PATIENT FOR THREE THOUSAND DOLLARS OR ANY ACTUAL DAMAGES
+23 SUSTAINED AS A RESULT OF NONCOMPLIANCE, WHICHEVER IS GREATER,
+24 AND ANY ATTORNEY FEES OR COSTS INCURRED BY THE PATIENT.
+25 (9) A PATIENT'S FULL OR PARTIAL PAYMENT OF A MEDICAL DEBT
+26 OR ACCEPTANCE OF A REASONABLE PAYMENT PLAN PURSUANT TO SECTION
+27 6-20-204 DOES NOT CONSTITUTE ADMISSION THAT THE MEDICAL DEBT IS
+-20- HB26-1267
+
+1 VALID. A PATIENT WHO MAKES A PAYMENT ON A MEDICAL DEBT OR
+2 ACCEPTS A REASONABLE PAYMENT PLAN RETAINS ANY LEGAL DEFENSES
+3 THAT WOULD OTHERWISE BE AVAILABLE IN A COLLECTION ACTION.
+4 (10) THIS SECTION DOES NOT LIMIT ANY OTHER LEGAL OR
+5 EQUITABLE REMEDIES AVAILABLE TO THE PATIENT.
+6 6-20-204. Reasonable payment plan - conditions to require full
+7 payment of balance of medical debt.
+8 (1) (a) A MEDICAL CREDITOR SHALL OFFER A REASONABLE
+9 PAYMENT PLAN TO EACH PATIENT WITH MEDICAL DEBT. AT A MINIMUM,
+10 THE REASONABLE PAYMENT PLAN MUST:
+11 (I) BE PAYABLE IN INSTALLMENTS SUCH THAT THE PATIENT IS NOT
+12 PAYING MORE THAN FOUR PERCENT OF THE PATIENT'S WEEKLY NET
+13 INCOME TOWARD MEDICAL DEBT;
+14 (II) PROMINENTLY DISCLOSE THE DATE BY WHICH THE MEDICAL
+15 DEBT WILL BE PAID IN FULL IF PAYMENTS SET BY THE SCHEDULE IN THE
+16 PAYMENT PLAN ARE MADE WITHOUT DELAY OR INTERRUPTION;
+17 (III) INCLUDE A PROVISION FOR ADJUSTING THE INSTALLMENT
+18 AMOUNTS AND DURATION TO ACCOUNT FOR SIGNIFICANT CHANGES IN THE
+19 PATIENT'S FINANCIAL CIRCUMSTANCES; AND
+20 (IV) PROVIDE A SIXTY-DAY GRACE PERIOD FOR ANY LATE
+21 PAYMENT.
+22 (b) THE MEDICAL CREDITOR SHALL PROVIDE A WRITTEN COPY OF
+23 THE REASONABLE PAYMENT PLAN TO THE PATIENT NO LATER THAN SEVEN
+24 DAYS AFTER ENTERING INTO THE PAYMENT PLAN.
+25 (c) A REASONABLE PAYMENT PLAN MUST NOT INCLUDE A
+26 REQUIREMENT TO PAY PRE-JUDGMENT INTEREST.
+27 SECTION 8. In Colorado Revised Statutes, 5-16-103, amend
+-21- HB26-1267
+
+1 (3)(d) as follows:
+2 5-16-103. Definitions.
+3 As used in this article 16, unless the context otherwise requires:
+4 (3) (d) (I) For the purposes of section 5-16-108 (1)(f), "collection
+5 agency" includes any person engaged in any business the principal
+6 purpose of which is the enforcement of security interests. For purposes of
+7 sections 5-16-104, 5-16-105, 5-16-106, 5-16-107, 5-16-108, and 5-16-109
+8 only, "collection agency" includes a debt collector for the department of
+9 personnel.
+10 (II) FOR THE PURPOSES OF SECTIONS 5-16-108 (1)(l) AND 5-16-113,
+11 "COLLECTION AGENCY" INCLUDES A MEDICAL CREDITOR, AS DEFINED IN
+12 SECTION 6-20-201.
+13 SECTION 9. In Colorado Revised Statutes, 5-16-108, amend
+14 (1)(l) as follows:
+15 5-16-108. Unfair practices.
+16 (1) A debt collector or collection agency shall not use unfair or
+17 unconscionable means to collect or attempt to collect any debt, including,
+18 but not limited to, the following conduct:
+19 (l) An attempt to collect a debt that violates the provisions of
+20 section 6-20-203 (1), (2), (3)(b), (4)(a), (4)(b)(I), (4)(d), (4)(e), or (5)(a)
+21 to (5)(c) SECTION 6-20-203.
+22 SECTION 10. In Colorado Revised Statutes, 5-16-111, amend
+23 (1.5)(a) as follows:
+24 5-16-111. Legal actions by collection agencies.
+25 (1.5) A debt collector, or collection agency that is not a creditor
+26 or debt buyer, shall not be the named plaintiff in a legal action or take any
+27 legal action on a debt against a consumer unless the debt collector or
+-22- HB26-1267
+
+1 collection agency:
+2 (a) Ensures that the name of the original creditor or assignor and
+3 the name of the debt collector or collection agency are included in the
+4 case caption of the complaint, in that order. and IF THERE ARE MULTIPLE
+5 ORIGINAL CREDITORS OR ASSIGNORS, EACH ORIGINAL CREDITOR OR
+6 ASSIGNOR MUST BE LISTED IN THE CASE CAPTION AS A SEPARATE PLAINTIFF
+7 AND THEIR INCLUSION IN THE ACTION MUST COMPLY WITH THE RULES OF
+8 PERMISSIVE JOINDER PURSUANT TO COLORADO RULES OF CIVIL
+9 PROCEDURE. JOINDER OF ACTIONS SUA SPONTE BY A COURT DOES NOT
+10 VIOLATE THIS SUBSECTION (1.5).
+11 SECTION 11. In Colorado Revised Statutes, 13-80-101, add
+12 (1)(q) as follows:
+13 13-80-101. General limitation of actions - three years.
+14 (1) The following civil actions, regardless of the theory upon
+15 which suit is brought, or against whom suit is brought, shall be
+16 commenced within three years after the cause of action accrues, and not
+17 thereafter:
+18 (q) PERMISSIBLE EXTRAORDINARY COLLECTION ACTIONS FOR THE
+19 COLLECTION OF MEDICAL DEBT, AS DEFINED IN SECTION 6-20-201;
+20 SECTION 12. In Colorado Revised Statutes, 13-80-103.5,
+21 amend (1)(a) as follows:
+22 13-80-103.5. General limitation of actions - six years.
+23 (1) The following actions shall be commenced within six years
+24 after the cause of action accrues and not thereafter:
+25 (a) All actions to recover a liquidated debt or an unliquidated,
+26 determinable amount of money due to the person bringing the action, all
+27 actions for the enforcement of rights set forth in any instrument securing
+-23- HB26-1267
+
+1 the payment of or evidencing any debt, and all actions of replevin to
+2 recover the possession of personal property encumbered under any
+3 instrument securing any debt; except that:
+4 (I) Actions to recover MADE pursuant to section 38-35-124.5 (3)
+5 C.R.S., shall be commenced within one year; AND
+6 (II) PERMISSIBLE EXTRAORDINARY COLLECTION ACTIONS
+7 INVOLVING MEDICAL DEBT PURSUANT TO PART 2 OF ARTICLE 20 OF TITLE
+8 6 ARE GOVERNED BY THE LIMITATION DESCRIBED IN SECTION 13-80-101
+9 (1)(q).
+10 SECTION 13. Safety clause. The general assembly finds,
+11 determines, and declares that this act is necessary for the immediate
+12 preservation of the public peace, health, or safety or for appropriations for
+13 the support and maintenance of the departments of the state and state
+14 institutions.
+-24- HB26-1267
