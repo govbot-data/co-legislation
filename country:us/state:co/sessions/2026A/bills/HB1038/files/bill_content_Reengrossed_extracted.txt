@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0591.03 Pierce Lively x2059 HOUSE BILL 26-1038
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING COUNTY COMMISSIONER REDISTRICTING.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, certain boards of county commissioners must
+appoint county commissioner redistricting commissions to adopt plans to
+divide the relevant counties into as many county commissioner districts
+as there are county commissioners elected by voters of their district
+(plan). The bill requires these boards of county commissioners to appoint
+independent county commissioner redistricting commissions, modifies the
+criteria for who may serve on these commissions, and requires the boards
+of county commissioners to adopt a final plan that was one of the final
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,01
+yraurbeF
+6202
+,5
+yraurbeF
+HOUSE SPONSORSHIP
+Paschal and Clifford, Bacon, English, Froelich, Goldstein, Joseph, Lindsay, Marshall,
+McCluskie, Nguyen, Rutinel, Willford
+SENATE SPONSORSHIP
+Snyder,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+plans approved by an independent county commissioner redistricting
+commission. The bill also removes the role of advisory committees in the
+process of adopting a plan and divides that role among staff and the
+independent county commissioner redistricting commissions.
+Further, the bill requires an independent county commissioner
+redistricting commission to adopt a numerical measure of county
+commissioner district competitiveness and to use that measure in
+determining county commissioner districts.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "The
+3 County Commissioner Redistricting Integrity Act".
+4 SECTION 2. Legislative declaration.
+5 (1) The general assembly finds and declares that:
+6 (a) In order for our democratic republic to truly represent the
+7 voices of the people, if districts are required, they must be drawn such
+8 that the people have an opportunity to elect representatives who are
+9 reflective of and responsive and accountable to their constituents;
+10 (b) The people are best served when districts are not drawn to
+11 benefit particular parties or incumbents, but are instead drawn to ensure
+12 representation for the various communities of interest and to maximize
+13 the number of competitive districts;
+14 (c) The federal "Voting Rights Act of 1965" prohibits voting
+15 practices and procedures, including redistricting, that discriminate on the
+16 basis of race, color, or language;
+17 (d) Districts are redrawn after every decennial census for members
+18 of congress, members of the general assembly, county commissioners,
+19 school board members, city councillors, and special district
+20 representatives;
+21 (e) In the 2018 legislative session, the general assembly
+-2- 1038
+
+1 unanimously supported two referred measures, Amendments Y and Z,
+2 that reflected a bipartisan compromise to ensure fair redistricting of
+3 congressional districts, state house of representative districts, and state
+4 senate districts;
+5 (f) At the general election in November 2018, seventy-one percent
+6 of electors in the state approved Amendments Y and Z;
+7 (g) The only partisan offices elected by districts in Colorado not
+8 included in Amendments Y and Z were county commissioners; and
+9 (h) It is of statewide interest that voters in every Colorado county
+10 are empowered to elect commissioners who will reflect the communities
+11 within the county and who will be responsive and accountable to them.
+12 (2) The general assembly further finds and declares that most
+13 Colorado counties elect their commissioners by the voters of the whole
+14 county, but counties with populations over seventy thousand are allowed
+15 to increase from three to five commissioners and elect some or all of their
+16 commissioners by the voters of individual districts. By enacting this
+17 House Bill 26-1038, the general assembly intends to build upon
+18 HB21-1047 by further ensuring that county commissioner districts are
+19 drawn by independent commissions and not by a sitting board of
+20 commissioners, the members of which have a fundamental and inherent
+21 conflict of interest in drawing a district in which they or a desired
+22 successor may run for office in the future. The general assembly also
+23 intends to further clarify what constitutes a competitive county
+24 commissioner district.
+25 (3) The general assembly further finds and declares that, pursuant
+26 to the Colorado supreme court's holding in League of Women Voters of
+27 Greeley v. Bd. of Cnty. Comm'rs of the Cnty. of Weld 563 P.3d 1192
+-3- 1038
+
+1 (Colo. 2025), as with HB21-1047, this House Bill 26-1038 applies to
+2 counties whether or not they are home rule counties.
+3 SECTION 3. In Colorado Revised Statutes, 30-10-306, amend
+4 (6)(b); repeal (6)(a) and (6)(d); and add (6)(d.5) and (7) as follows:
+5 30-10-306. Commissioners' districts - vacancies - definitions.
+6 (6) As used in this section and sections 30-10-306.1 to
+7 30-10-306.4, unless the context otherwise requires:
+8 (a) "Advisory committee" means a group of persons who are not
+9 nonpartisan staff of the county who are assigned to assist the commission
+10 by the board of county commissioners. The board of county
+11 commissioners may delegate any functions but the final adoption of a
+12 plan to the advisory committee. The advisory committee must be
+13 composed of an equal number of members who are affiliated with the
+14 state's largest political party, affiliated with the state's second largest
+15 political party, and not affiliated with any political party. For purposes of
+16 this subsection (6)(a), the state's two largest political parties shall be
+17 determined by the number of registered electors affiliated with each
+18 political party in the state according to voter registration data published
+19 by the secretary of state for the earliest day in January of the redistricting
+20 year for which such data is published.
+21 (b) "Commission" means a county commissioner district
+22 redistricting commission, whether the commission is an independent
+23 county commissioner district redistricting commission or not. A county
+24 commissioner district redistricting commission can be made up solely of
+25 the members of a county's board of county commissioners CREATED IN
+26 ACCORDANCE WITH SECTION 30-10-306.1 (2).
+27 (d) "Independent commission" means an independent county
+-4- 1038
+
+1 commissioner district redistricting commission created in accordance with
+2 section 30-10-306.1 (2).
+3 (d.5) "INDEPENDENT COMMITTEE" MEANS A COMMITTEE
+4 COMPOSED OF AN EQUAL NUMBER OF MEMBERS WHO ARE AFFILIATED WITH
+5 THE STATE'S LARGEST POLITICAL PARTY, AFFILIATED WITH THE STATE'S
+6 SECOND-LARGEST POLITICAL PARTY, AND NOT AFFILIATED WITH ANY
+7 POLITICAL PARTY. FOR PURPOSES OF THIS SUBSECTION (6)(d.5), THE
+8 STATE'S TWO LARGEST POLITICAL PARTIES ARE DETERMINED BY THE
+9 NUMBER OF REGISTERED ELECTORS AFFILIATED WITH EACH POLITICAL
+10 PARTY IN THE STATE ACCORDING TO VOTER REGISTRATION DATA
+11 PUBLISHED BY THE SECRETARY OF STATE FOR THE EARLIEST DAY IN
+12 JANUARY OF THE REDISTRICTING YEAR FOR WHICH SUCH DATA IS
+13 PUBLISHED. AN INDEPENDENT COMMITTEE SHALL NOT INCLUDE
+14 NONPARTISAN STAFF OF THE COUNTY.
+15 (7) ANY QUALIFIED ELECTOR OF THE COUNTY MAY CHALLENGE
+16 THE ADOPTION OF A PLAN TO DIVIDE THE COUNTY INTO AS MANY
+17 DISTRICTS AS THERE ARE COUNTY COMMISSIONERS ELECTED BY VOTERS
+18 OF THEIR DISTRICT BY AN ACTION IN THE DISTRICT COURT FOR THE
+19 COUNTY.
+20 SECTION 4. In Colorado Revised Statutes, 30-10-306.1, amend
+21 (1) introductory portion, (2) introductory portion, and (2)(c); repeal (2)(a)
+22 and (2)(b); and add (2)(d), (2)(e), (2)(f), (2)(g), and (2.5) as follows:
+23 30-10-306.1. Commission created - commission composition
+24 and appointment.
+25 (1) The board of county commissioners in each of the following
+26 counties must designate CONVENE a county commissioner district
+27 redistricting commission and are encouraged to convene an independent
+-5- 1038
+
+1 county commissioner district redistricting commission, in order to adopt
+2 a plan APPROVE ONE OR MORE PLANS to divide the relevant county into as
+3 many districts as there are county commissioners elected by voters of
+4 their district:
+5 (2) In appointing members to an independent A commission, a
+6 board of county commissioners: is encouraged to:
+7 (a) Appoint persons who accurately reflect the political affiliations
+8 of the residents of the county, including unaffiliated residents;
+9 (b) Appoint persons who accurately reflect the county's racial,
+10 ethnic, gender, and geographic diversity; and
+11 (c) SHALL avoid conflicts of interest based on partisan alignments;
+12 (d) SHALL ENSURE THAT THE COMMISSION IS AN INDEPENDENT
+13 COMMITTEE;
+14 (e) SHALL EITHER DIRECT THE COMMISSION TO APPROVE ONE FINAL
+15 PLAN TO DIVIDE THE RELEVANT COUNTY INTO AS MANY DISTRICTS AS
+16 THERE ARE COUNTY COMMISSIONERS ELECTED BY VOTERS OF THEIR
+17 DISTRICT, WHICH PLAN THE BOARD OF COUNTY COMMISSIONERS SHALL
+18 ADOPT AS THE FINAL PLAN, OR DIRECT THE COMMISSION TO APPROVE AT
+19 LEAST THREE FINAL PLANS TO DIVIDE THE RELEVANT COUNTY INTO AS
+20 MANY DISTRICTS AS THERE ARE COUNTY COMMISSIONERS ELECTED BY
+21 VOTERS OF THEIR DISTRICT, WHICH PLANS THE BOARD OF COUNTY
+22 COMMISSIONERS SHALL SELECT FROM IN DECIDING WHICH PLAN TO ADOPT
+23 AS THE FINAL PLAN;
+24 (f) SHALL NOT APPOINT ANY MEMBER TO A COMMISSION WHO IS A
+25 CURRENTLY ELECTED COUNTY COMMISSIONER; AND
+26 (g) IS ENCOURAGED TO APPOINT PERSONS WHO ACCURATELY
+27 REFLECT THE COUNTY'S RACIAL, ETHNIC, GENDER, AND GEOGRAPHIC
+-6- 1038
+
+1 DIVERSITY.
+2 (2.5) THE BOARD OF COUNTY COMMISSIONERS MAY REMOVE ANY
+3 MEMBER OF THE COMMISSION FOR MALFEASANCE IN OFFICE, FOR FAILURE
+4 TO REGULARLY ATTEND MEETINGS, OR FOR PREVENTING THE COMMISSION
+5 FROM DISCHARGING ITS DUTIES.
+6 SECTION 5. In Colorado Revised Statutes, 30-10-306.2, amend
+7 (1), (2), (3)(c), (3)(d), (4)(b)(I)(B), (4)(b)(I)(C), (4)(b)(I)(D), (4)(b)(I)(F),
+8 (4)(b)(II), (4)(b)(III) as follows:
+9 30-10-306.2. Commission organization - procedures -
+10 transparency - voting requirements.
+11 (1) The board of county commissioners shall appoint staff as
+12 needed to assist the commission. Staff or the advisory committee shall
+13 acquire and prepare all necessary resources, including computer
+14 hardware, software, and demographic, geographic, and political
+15 databases, as far in advance as necessary to enable the commission to
+16 begin its work immediately upon convening.
+17 (2) The commission shall not vote upon THE APPROVAL OF a final
+18 plan OR SET OF FINAL PLANS until at least seventy-two hours after it has
+19 been proposed to the commission in a public meeting or at least
+20 seventy-two hours after it has been amended by the commission in a
+21 public meeting, whichever occurs later.
+22 (3) (c) The commission shall maintain a website through which
+23 any county resident may submit proposed plans or written comments, or
+24 both, without attending a hearing of the commission. The commission
+25 shall ensure that the website is easily accessible and contains a record of
+26 the commission's activities and proceedings, including the commission's
+27 directions to staff or an advisory committee on proposed changes to any
+-7- 1038
+
+1 plan and the commission's rationale for such changes.
+2 (d) The commission shall publish all written comments pertaining
+3 to redistricting on its website or comparable means of communicating
+4 with the public as well as the name of the county resident submitting such
+5 comments. If the commission advisory committee, or staff have a
+6 substantial basis to believe that a person submitting such comments has
+7 not truthfully or accurately identified himself or herself, the commission
+8 need not consider and need not publish such comments but must notify
+9 the commenter in writing of this fact. The commission may withhold
+10 comments, in whole or in part, from the website or comparable means of
+11 communicating with the public that do not relate to redistricting plans,
+12 policies, or communities of interest.
+13 (4) (b) To ensure transparency in the redistricting process:
+14 (I) (B) Except as provided in subsections (4)(b)(I)(D) and
+15 (4)(b)(I)(F) of this section, a member of the commission shall not
+16 communicate with staff or any members of the advisory committee
+17 BOARD OF COUNTY COMMISSIONERS, AND A MEMBER OF THE BOARD OF
+18 COUNTY COMMISSIONERS SHALL NOT COMMUNICATE WITH A MEMBER OF
+19 THE COMMISSION OR STAFF, on the mapping of county commissioner
+20 districts unless the communication is during a public meeting or hearing
+21 of the commission.
+22 (C) Except for public input and comment, staff shall not have any
+23 communications about the content or development of any plan outside of
+24 public hearings with anyone, including any members of the advisory
+25 committee, except other staff members. Likewise, except for public input
+26 and comment, members of the advisory committee shall not have any
+27 communications about the content or development of any plan outside of
+-8- 1038
+
+1 public hearings with anyone, including staff, except other members of the
+2 advisory committee. Communications about the content or development
+3 of any plan include communications about how plans will be drawn to
+4 satisfy the criteria in section 30-10-306.3, specific parameters related to
+5 the interpretation of the criteria in section 30-10-306.3, and requests for
+6 the drawing of additional plans. Staff or members of the advisory
+7 committee shall report to the commission any attempt by anyone to exert
+8 influence over the staff's or advisory committee's role in the drafting of
+9 plans.
+10 (D) One or more staff may be designated to communicate with
+11 members of the commission or advisory committee and, in the case of a
+12 commission that is composed of the board of county commissioners,
+13 administrative staff of the county, regarding administrative matters, the
+14 definition and scope of which shall be determined by the commission.
+15 Likewise, one or more members of the advisory committee may be
+16 designated to communicate with members of the commission or staff
+17 regarding administrative matters, the definition and scope of which shall
+18 be determined by the commission. Any communication that occurs
+19 outside of a public meeting or hearing of the commission between staff,
+20 SERVING IN THEIR ROLE AS STAFF TO THE COMMISSION, and a member of
+21 the advisory committee COMMISSION OR BOARD OF COUNTY
+22 COMMISSIONERS, beyond those allowed by this subsection (4)(b)(I)(D),
+23 must be documented and made a part of the public record.
+24 (F) Staff may make a completed proposed plan that staff prepared
+25 as a result of a request made in a public hearing available to the public on
+26 the commission's website. In addition, staff may communicate with a
+27 member of the commission or the advisory committee to clarify directions
+-9- 1038
+
+1 that were given to staff during a public meeting regarding the creation of
+2 a proposed plan, so long as staff makes a record of the content of the
+3 communication available to the public on the commission's website.
+4 (II) The commission, each member of the commission, the
+5 advisory committee, each member of the advisory committee, and staff
+6 are subject to open records requirements as provided in part 2 of article
+7 72 of title 24, as amended, or any successor statute; except that plans in
+8 draft form and not submitted to the commission are not public records
+9 subject to disclosure. Work product and communications among staff
+10 members of the advisory committee, and between staff SERVING IN THEIR
+11 ROLE AS STAFF TO THE COMMISSION and the advisory committee A
+12 MEMBER OF THE COMMISSION OR THE BOARD OF COUNTY COMMISSIONERS
+13 are subject to disclosure once a plan is adopted by the board of county
+14 commissioners.
+15 (III) Persons who contract for or receive compensation for
+16 advocating to the commission, to one or more members of the
+17 commission, to the advisory committee, to one or more members of the
+18 advisory committee, or to staff for the adoption or rejection of any plan,
+19 amendment to a plan, mapping approach, or manner of compliance with
+20 any of the mapping criteria specified in section 30-10-306.3 are lobbyists
+21 who must disclose to the secretary of state any compensation contracted
+22 for, compensation received, and the person or entity contracting or paying
+23 for their lobbying services. Such disclosure must be made no later than
+24 seventy-two hours after the earlier of each instance of such lobbying or
+25 any payment of such compensation. The secretary of state shall publish
+26 on the secretary of state's website or comparable means of communicating
+27 with the public the names of such lobbyists, as well as the compensation
+-10- 1038
+
+1 received and the persons or entities for whom they work within
+2 twenty-four hours of receiving such information. The secretary of state
+3 shall adopt rules to facilitate the complete and prompt reporting required
+4 by this subsection (4)(b)(III) as well as a complaint process to address any
+5 lobbyist's failure to report a full and accurate disclosure. which complaint
+6 must be heard by an administrative law judge, whose decision may be
+7 appealed to the court of appeals
+8 SECTION 6. In Colorado Revised Statutes, 30-10-306.3, amend
+9 (1) introductory portion, (3)(a), (3)(c), (3)(d), (4) introductory portion,
+10 and (5); and add (6) as follows:
+11 30-10-306.3. Criteria for determination of county
+12 commissioner districts - definitions.
+13 (1) In adopting APPROVING a county commissioner district
+14 redistricting plan, the commission shall:
+15 (3) (a) (I) Thereafter AFTER COMPLYING WITH SUBSECTIONS (1)
+16 AND (2) OF THIS SECTION, the commission shall, to the extent reasonably
+17 possible, maximize the number of politically competitive districts.
+18 (II) (A) TO COMPLY WITH THE REQUIREMENTS OF THIS SUBSECTION
+19 (3)(a), THE COMMISSION SHALL ADOPT A COMPOSITE FORMULA THAT
+20 GENERATES A COMPETITIVENESS MEASURE EXPRESSED AS A PERCENTAGE
+21 TO MEASURE DISTRICT COMPETITIVENESS AND MAY ALSO ADOPT OTHER
+22 MEASURES OF DISTRICT COMPETITIVENESS.
+23 (B) AT LEAST SEVENTY-TWO HOURS BEFORE ADOPTING A
+24 COMPOSITE FORMULA OR OTHER MEASURE OF COMPETITIVENESS, THE
+25 COMMISSION SHALL MAKE THE COMPOSITE FORMULA OR OTHER MEASURE
+26 OF COMPETITIVENESS AVAILABLE TO THE PUBLIC AND SHALL PROVIDE THE
+27 PUBLIC SUFFICIENT TIME TO REVIEW AND COMMENT ON THE COMPOSITE
+-11- 1038
+
+1 FORMULA.
+2 (C) USING THE RESULTS OF THE COMPOSITE FORMULA OR OTHER
+3 MEASURE OF COMPETITIVENESS IT ADOPTED, THE COMMISSION SHALL
+4 FIRST ATTEMPT TO MAXIMIZE THE NUMBER OF HIGHLY COMPETITIVE
+5 DISTRICTS AND THEN ATTEMPT TO MAXIMIZE THE NUMBER OF
+6 MODERATELY COMPETITIVE DISTRICTS.
+7 (3) (c) When the commission approves a plan, the staff or
+8 advisory committee shall, within seventy-two hours of such action, make
+9 publicly available, and include in the commission's record, a report to
+10 demonstrate how the plan reflects the evidence presented to, and the
+11 findings concerning, the extent to which competitiveness in district
+12 elections is fostered consistent with the other criteria set forth in this
+13 section.
+14 (d) For purposes of this subsection (3), AS USED IN THIS
+15 SUBSECTION (3), UNLESS THE CONTEXT OTHERWISE REQUIRES:
+16 (I) "Competitive" means having a reasonable potential for the
+17 party affiliation of the district's county commissioner to change at least
+18 once between federal decennial censuses. Competitiveness may be
+19 measured by factors such as a proposed district's past election results, a
+20 proposed district's political party registration data, and evidence-based
+21 analyses of proposed districts.
+22 (II) "COMPOSITE FORMULA" MEANS A FORMULA THAT AVERAGES
+23 THE MARGIN OF VICTORY ACROSS THE MOST REPRESENTATIVE
+24 COMBINATION OF NATIONAL, STATEWIDE, OR LOCAL ELECTIONS, AS
+25 DETERMINED BY THE COMMISSION, TO DETERMINE A DISTRICT'S
+26 COMPETITIVENESS MEASURE EXPRESSED AS A PERCENTAGE.
+27 (III) "HIGHLY COMPETITIVE DISTRICT" MEANS A DISTRICT WITH A
+-12- 1038
+
+1 COMPETITIVENESS MEASURE GREATER THAN OR EQUAL TO NEGATIVE FIVE
+2 PERCENT AND LESS THAN OR EQUAL TO FIVE PERCENT.
+3 (IV) "MARGIN OF VICTORY" MEANS, FOR AN ELECTION, THE
+4 DIFFERENCE BETWEEN THE PERCENTAGE OF VOTES CAST FOR THE
+5 CANDIDATE OF THE STATE'S LARGEST POLITICAL PARTY AND THE
+6 PERCENTAGE OF VOTES CAST FOR THE CANDIDATE OF THE STATE'S SECOND
+7 LARGEST POLITICAL PARTY.
+8 (V) "MODERATELY COMPETITIVE DISTRICT" MEANS A DISTRICT
+9 WITH A COMPETITIVENESS MEASURE EITHER GREATER THAN FIVE PERCENT
+10 AND LESS THAN OR EQUAL TO TEN PERCENT, OR LESS THAN NEGATIVE FIVE
+11 PERCENT AND GREATER THAN OR EQUAL TO NEGATIVE TEN PERCENT.
+12 (4) No plan may be approved by the board of county
+13 commissioners or the commission if the plan:
+14 (5) So long as the commission has complied with the requirements
+15 of subsections (1) through (4) of this section, in adopting APPROVING a
+16 county commissioner redistricting plan, the commission may consider
+17 congressional districts, state house of representative districts, and state
+18 senate districts in order to minimize the number of necessary voting
+19 precincts in a county.
+20 (6) THE BOARD OF COUNTY COMMISSIONERS MAY DIRECT THE
+21 COMMISSION TO MODIFY A PROPOSED PLAN IF THE BOARD OF COUNTY
+22 COMMISSIONERS IDENTIFIES ELEMENTS OF THE PLAN THAT DO NOT COMPLY
+23 WITH THE REQUIREMENTS OF THIS SECTION AND WHY THOSE ELEMENTS OF
+24 THE PLAN DO NOT COMPLY WITH THE REQUIREMENTS OF THIS SECTION.
+25 SECTION 7. In Colorado Revised Statutes, 30-10-306.4, amend
+26 (1)(b), (1)(d), (1)(e), (1)(g), and (2) as follows:
+27 30-10-306.4. Deadlines for preparation, amendment, and
+-13- 1038
+
+1 approval of plans.
+2 (1) The board of county commissioners shall establish deadlines
+3 to ensure that the board of county commissioners shall adopt a plan for
+4 the redrawing of county commissioner districts no later than September
+5 30 of the redistricting year. These deadlines must include dates by which
+6 the following must be accomplished:
+7 (b) The appointment of staff and an advisory committee as needed
+8 to assist the commission and the acquisition of all necessary resources to
+9 enable the commission to begin its work, in accordance with section
+10 30-10-306.2 (1);
+11 (d) The submission of written comments to staff or an advisory
+12 committee by any member of the public and any member of the
+13 commission on the creation of not less than three plans for county
+14 commissioner districts, created by staff or an advisory committee alone,
+15 and on communities of interest that require representation in one or more
+16 specific areas of the county. Staff or an advisory committee shall consider
+17 such comments in creating the plans, and such comments shall be part of
+18 the record of the commission's activities and proceedings. Staff and the
+19 advisory committee shall keep each plan confidential until it is published
+20 online or by a comparable means of communicating with the public using
+21 generally available technologies. The commission may provide direction
+22 for the development of these plans through the adoption of standards,
+23 guidelines, or methodologies to which staff and the advisory committee
+24 shall adhere; including standards, guidelines, or methodologies to be used
+25 to evaluate a plan's competitiveness, consistent with section 30-10-306.3
+26 (3)(d) SECTION 30-10-306.3 (3).
+27 (e) The creation, presentation to the commission, and publishing
+-14- 1038
+
+1 online of the plans. At public hearings at which the plans are presented,
+2 staff or an advisory committee shall explain how the plans were created,
+3 how the plans address the categories of public comments received, and
+4 how the plans comply with the criteria prescribed in section 30-10-306.3.
+5 (g) The request by any member of the commission or group of
+6 members of the commission for staff or an advisory committee to prepare
+7 additional plans or amendments to plans. Any such request must be made
+8 in a public hearing of the commission but does not require commission
+9 approval.
+10 (2) The commission may adjust the deadlines specified in
+11 subsection (1) of this section, if conditions outside of the commission's
+12 control require such an adjustment to ensure that the board of county
+13 commissioners can approve a plan for the redrawing of county
+14 commissioner districts no later than September 30 of the redistricting year
+15 OR IF THE BOARD OF COMMISSIONERS DIRECTED THE COMMISSION TO
+16 ADJUST A PLAN PURSUANT TO SECTION 30-10-306.3 (6).
+17 SECTION 8. Act subject to petition - effective date -
+18 applicability.
+19 (1) This act takes effect at 12:01 a.m. on the day following the
+20 expiration of the ninety-day period after final adjournment of the general
+21 assembly (August 12, 2026, if adjournment sine die is on May 13, 2026);
+22 except that, if a referendum petition is filed pursuant to section 1 (3) of
+23 article V of the state constitution against this act or an item, section, or
+24 part of this act within such period, then the act, item, section, or part will
+25 not take effect unless approved by the people at the general election to be
+26 held in November 2026 and, in such case, will take effect on the date of
+27 the official declaration of the vote thereon by the governor.
+-15- 1038
+
+1 (2) This act applies to the adoption of a county commissioner
+2 district redistricting plan that occurs after the effective date of this act and
+3 does not require the adjustment or readoption of a county commissioner
+4 district redistricting plan that has been adopted as of the effective date of
+5 this act.
+-16- 1038

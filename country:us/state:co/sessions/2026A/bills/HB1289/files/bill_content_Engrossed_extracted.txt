@@ -1,0 +1,2274 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0465.03 Jed Franklin x5484 HOUSE BILL 26-1289
+House Committees Senate Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATION OF CERTAIN TAX EXPENDITURES, AND, IN
+102 CONNECTION THEREWITH, MAKING AND REDUCING AN
+103 APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill adjusts several state tax expenditures as follows:
+! Section 2 of the bill prohibits certain local use tax
+ordinances, resolutions, or proposals from applying to
+construction and building materials used by a common rail
+carrier pursuant to a contract with the state, a political ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,1
+yaM
+HOUSE SPONSORSHIP
+Garcia and Brown,
+SENATE SPONSORSHIP
+Weissman,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+subdivision of the state, or a special district allows the
+contracting government to use the carrier's property or
+tracks for the provision of public passenger rail service;
+! Section 3, for income tax years commencing on and after
+January 1, 2027, requires a taxpayer to add to the taxpayer's
+federal taxable income the excess of any gain excluded
+from federal gross income pursuant to section 1400Z-2
+(a)(1)(A) of the internal revenue code over the gain
+invested by the taxpayer in a Colorado-qualified
+opportunity fund in a manner that qualifies for exclusion
+from federal gross income pursuant to the same section of
+the internal revenue code;
+! Section 4, for income tax years commencing on and after
+January 1, 2027, creates an income tax credit for certain
+individuals who are 65 years old or older in the income tax
+year, or who are a surviving spouse of that individual, and
+who were previously eligible to receive a grant for real
+property tax assistance and heat or fuel expenses
+assistance;
+! Section 5, for income tax years commencing on or after
+January 1, 2027, allows a combined group to elect to make
+a water's-edge filing election and describes what should be
+taken into account in such a filing;
+! Section 6, for income tax years commencing on or after
+January 1, 2027, repeals the state corporate income tax
+deduction for wages or salaries paid that are not allowed to
+be deducted at the federal level pursuant to section 280C of
+the internal revenue code;
+! Section 6, for income tax years commencing on or after
+January 1, 2027, also eliminates the ability of corporations
+to deduct from their income tax liability any amount
+included in federal taxable income pursuant to sections 951
+(a) or 951A (a) of the internal revenue code with respect to
+a controlled foreign corporation incorporated in a foreign
+jurisdiction for the purpose of tax avoidance;
+! Sections 7, 12, and 13 eliminate a potential reduction in the
+amount available for the innovative motor vehicle tax
+credit, the heat pump technology and thermal energy
+network tax credit, and the electric bicycle tax credit,
+respectively, based on an economic forecast by the office
+of state planning and budgeting or legislative council staff;
+! Section 7 also increases the innovative motor vehicle tax
+credit from $1,000 to $2,000 for certain vehicles sold or
+leased during the 2027 income tax year, and from $500 to
+$1,000 for certain vehicles sold or leased during the 2028
+-2- 1289
+
+income tax year. Currently, an additional $2,500 in tax
+credit is allowed for certain vehicles sold or leased on or
+after January 1, 2024, but prior to January 1, 2029, that
+have a manufacturer's suggested retail price (MSRP) below
+$35,000. Section 7 provides that certain vehicles with an
+MSRP below $40,000 that are sold or leased on or after
+January 1, 2027, but before January 1, 2029, are eligible for
+the additional tax credit.
+! Section 8, for income tax years commencing on or after
+January 1, 2027, modifies the income tax credit for wildfire
+hazard mitigation expenses by adding the thinning of
+woody vegetation that is at risk of mountain pine beetle or
+spruce beetle infestation or that has been killed by
+mountain pine beetles or spruce beetles to the definition of
+"wildfire mitigation measures", modifying the amount of
+the credit available, and allowing the credit to be carried
+forward for 5 years;
+! Section 9, for income tax years commencing on or after
+January 1, 2027, expands the income tax credit for the
+purchase of small food business recovery grant program
+equipment to be available for additional food distributors
+and producers, adjusts the amount of the tax credit that may
+be offered and claimed for the purchase of small food
+business recovery grant program equipment or participation
+in the supplemental food assistance benefit program, and
+dictates the order in which the department of agriculture
+shall award these tax credits;
+! Sections 10 and 16 extend the electric powered lawn
+equipment tax credit until January 1, 2030, and allow a
+retailer to receive quarterly advance payments of the credit;
+! Section 11, for income tax years commencing on or after
+January 1, 2027, allows an entity not subject to income tax
+to be eligible for an income tax credit for developing a
+qualified industrial facility, allows a taxpayer to claim the
+credit for installing equipment used for utilization of
+biomethane, and requires the Colorado energy office
+(CEO) to review applications for the credit within 120,
+rather than 90, days;
+! Section 11 also creates a new tax credit for geothermal
+energy projects for income tax years commencing on or
+after January 1, 2027. The amount of the credit cannot
+exceed $5 million per taxpayer aggregated across all
+income tax years for which the credit may be claimed. The
+total amount of credits cannot exceed $35 million across all
+income tax years commencing on or after January 1, 2027,
+-3- 1289
+
+but before January 1, 2033.
+! Section 14 repeals the sustainable aviation fuel (SAF)
+production facility tax credit, effective January 1, 2027;
+! Section 15 establishes the sustainable aviation fuel
+purchase income tax credit for income tax years beginning
+on or after January 1, 2027, and before December 31, 2032.
+The amount of the credit is initially $1.50, increased by
+$.01 for each whole percentage of carbon intensity
+reduction in excess of 50%, per gallon of SAF purchased
+in the state by the taxpayer, and the CEO may adjust that
+amount annually. The total amount of credits issued cannot
+exceed $3 million per tax year. Taxpayers must apply to the
+CEO for a tax credit certificate and CEO verifies eligibility
+and reports approved credits to the department of revenue.
+The credit is refundable but may not be carried forward.
+! Section 17 repeals the precious metal and bullion coins
+sales and use tax exemption, effective January 1, 2027;
+! Section 18, for tax periods commencing on or after July 1,
+2027, exempts from tax the storage, use, or consumption of
+construction and building materials by or on behalf of a
+common carrier by rail operating in interstate or foreign
+commerce when the storage, use, or consumption of the
+construction and building materials is pursuant to a contract
+with the state, a political subdivision of the state, or a
+special district that allows the contracting government to
+use the railroad's property or tracks for public passenger
+rail service;
+! Section 19 reinstates the sales and use tax exemption for
+wood from salvaged trees killed or infested in Colorado by
+mountain pine beetles or spruce beetles, which would
+otherwise expire on June 30, 2026, for a period beginning
+on July 1, 2027, and ending June 30, 2032;
+! Section 20 repeals the sales and use tax exemption for
+property used in space flight, effective January 1, 2027;
+! Sections 21 and 22 change from 2% to 1% the allowance
+to cover losses in transit and in unloading gasoline or
+special fuel and repeals the 0.5% allowance for the costs of
+collecting the gasoline or special fuel excise tax and for
+uncollectible bad debts for tax periods beginning on or
+after January 1, 2027;
+! Section 23 repeals the 3% deduction for collecting and
+remitting the tax on the inventory of cigarette wholesalers
+for tax periods beginning on or after January 1, 2027;
+! Section 24 repeals the 0.4% discount on the face value of
+tax stamps affixed to packages containing cigarettes for tax
+-4- 1289
+
+periods beginning on or after January 1, 2027;
+! Section 26 repeals the 1.6% discount for expenses in the
+collection and remittance of the tax on the sale, use,
+consumption, handling, and distribution of tobacco for tax
+periods beginning on or after January 1, 2027;
+! Section 27 repeals the 1.1% discount for expenses in the
+collection and remittance of the nicotine product
+distributors tax for tax periods beginning on or after
+January 1, 2027;
+! Section 28 allows an income tax credit to a taxpayer who
+places a new renewable energy investment in service on or
+after January 1, 2027, and provides a 14-year carryover of
+any amount of the credit not used to offset the income taxes
+otherwise due;
+! Section 28 also eliminates the enterprise zone commercial
+vehicle tax credit for tax periods beginning on or after
+January 1, 2027;
+! Section 29 provides that on or after January 1, 2027, a
+taxpayer with more than 50 employees during an income
+tax year is ineligible for the new enterprise zone business
+employee tax credit in that same income tax year;
+! Section 30 requires, beginning January 1, 2027, a taxpayer
+to make at least $150,000 in expenditures in research and
+experimental activities to be eligible for the enterprise zone
+research and experimental activities tax credit;
+! Section 31 modifies the enterprise zone vacant building
+rehabilitation income tax credit so that the credit only
+applies to buildings that have been unoccupied for 183 days
+preceding when the rehabilitation is placed in service and
+is available in an amount equal to 25% of the aggregate
+qualified expenditures per building or $200,000 per
+building, whichever is less;
+! Section 32, beginning January 1, 2027, ends the
+availability of grants for real property tax assistance and
+heat or fuel expenses assistance; and
+! Sections 33 through 39 make conforming amendments for
+the changes made in sections 4 and 32.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. The general assembly
+3 finds and declares that:
+4 (1) (a) Regular evaluation and maintenance of the tax code is
+-5- 1289
+
+1 critical to a high-quality tax system;
+2 (b) The office of the state auditor and the general assembly
+3 regularly review tax credits, deductions, and exemptions, along with other
+4 tax expenditures, and recommend streamlining implementation, assessing
+5 ongoing fit with the original purpose, and eliminating outdated or
+6 ineffective tax expenditures;
+7 (c) This act is a single tax policy change that makes changes to
+8 existing tax expenditures and eliminates others to improve the
+9 administrative efficiency of the tax code, reduce administrative burden,
+10 better align certain tax expenditures with the general assembly's intent in
+11 enacting the tax expenditures, and conform Colorado's tax code with
+12 provisions commonly used in other states so that Colorado is less of an
+13 outlier compared to the rest of the country in how taxpayers compute their
+14 taxes owed;
+15 (d) Any net district revenue gain resulting from the tax policy
+16 change in this act is incidental and de minimis; and
+17 (e) Therefore, consistent with the Colorado Supreme Court's
+18 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that a tax
+19 policy change that causes either no net district tax revenue gain or a net
+20 district tax revenue gain that is only incidental and de minimis does not
+21 require voter approval under section 20 (4)(a) of article X of the state
+22 constitution, this act is not a tax policy change that requires voter
+23 approval.
+24
+25 (2) (a) Eliminating the administrative and bad debt allowance for
+26 fuel tax distributors serves the purposes of:
+27 (I) Reducing a duplicative benefit; and
+-6- 1289
+
+1 (II) Better aligning Colorado's tax code with those of other states.
+2 (b) According to the office of the state auditor's 2019 evaluation
+3 of the tax expenditure, the internal revenue service already provides a tax
+4 offset for bad debt, and most surrounding states don't have a similar tax
+5 expenditure.
+6 (c) Any revenue gain realized as a result of eliminating the
+7 administrative and bad debt allowance for fuel tax distributors is
+8 incidental and de minimis.
+9 (3) (a) Eliminating the vendor allowances for the cigarette tax,
+10 cigarette inventory tax, tobacco products tax, and nicotine products tax
+11 serves the purpose of:
+12 (I) Better aligning Colorado's tax code with most other tax codes,
+13 which don't have similar allowances to reimburse the cost of tax
+14 collection; and
+15 (II) Removes a redundancy in Colorado's tax code, since
+16 businesses are already able to deduct these costs from their taxable
+17 income.
+18 (b) Any revenue gain realized as a result of eliminating the vendor
+19 allowances for the cigarette tax, cigarette inventory tax, tobacco products
+20 tax, and nicotine products tax is incidental and de minimis.
+21 (4) (a) Eliminating the sales tax exemption for property used in
+22 space flight better serves the purposes of:
+23 (I) Aligning the Colorado tax code with those of the vast majority
+24 of states that don't have a similar tax expenditure; and
+25 (II) Modernizes Colorado's tax code, since the department of
+26 revenue's biannual Tax Profile and Expenditure Report shows that
+27 virtually no taxpayers claim the tax expenditure.
+-7- 1289
+
+1 (b) Any revenue gain realized as a result of eliminating the sales
+2 tax exemption for property used in space flight is incidental and de
+3 minimis.
+4 (5) (a) Eliminating the income tax deduction for wages and
+5 salaries because of section 280C of the internal revenue code serves the
+6 purpose of making Colorado's tax code more neutral between taxpayers.
+7 According to the office of the state auditor's 2019 and 2024 evaluations
+8 of the tax expenditure, only certain types of expenses and businesses
+9 qualify for the tax expenditure, which results in Colorado's tax code
+10 favoring certain types of business activity over others.
+11 (b) Any revenue gain realized as a result of eliminating the
+12 income tax deduction for wages and salaries because of section 280C of
+13 the internal revenue code is incidental and de minimis.
+14 (6) (a) Reducing the fuel loss deduction tax expenditure from 2%
+15 to 1% serves the purposes of:
+16 (I) Better aligning the tax expenditure with how much fuel
+17 distributors lose in transit; and
+18 (II) Removes a redundancy in Colorado's tax code, since
+19 distributors are already able to deduct these losses from their taxable
+20 income.
+21 (b) Any revenue gain realized as a result of reducing the fuel loss
+22 deduction tax expenditure is incidental and de minimis.
+23 (7) (a) Restricting the enterprise zone new employee health
+24 insurance tax expenditure so that it is only available to those businesses
+25 with fewer than fifty employees serves the purposes of eliminating
+26 redundancy and better aligning the tax expenditure with the 56th general
+27 assembly's intent in creating the tax expenditure. The 56th general
+-8- 1289
+
+1 assembly created the tax expenditure to incentivize businesses in
+2 enterprise zones to offer health insurance to their employees, but, as a
+3 result of the 2010 passage of the federal "Affordable Care Act", these
+4 businesses are already required to offer their employees insurance. Any
+5 revenue gain realized as a result of restricting this tax expenditure is
+6 incidental and de minimis.
+7 (8) Restricting the enterprise zone research and experimental
+8 income tax credit serves the purpose of better aligning the tax expenditure
+9 with the 56th general assembly's intent in creating the tax expenditure by
+10 limiting the tax expenditure to businesses that make the largest and most
+11 impactful increases in their research and developing spending. Any
+12 revenue gain realized as a result of restricting this tax expenditure is
+13 incidental and de minimis.
+14 (9) (a) The purpose of updating the method for water's-edge
+15 combined reporting for future tax years is to better reflect the original
+16 intent for water's-edge combined reporting, close loopholes, and better
+17 align Colorado's system of unitary apportionment with federal reporting
+18 requirements, while fairly apportioning to Colorado its share of
+19 corporations' income attributable to operations in the state.
+20 (b) The updates to the method for water's-edge combined
+21 reporting reflect and strengthens the state's tax policy of water's-edge
+22 combined reporting. The updates do not change the state's tax policy, is
+23 not a new tax, and any revenue gain realized as a result of the updates is
+24 incidental and de minimis.
+25 (10) The purpose of eliminating the enterprise zone commercial
+26 vehicle investment tax expenditure is to promote efficiency by removing
+27 a tax credit that the office of the state auditor's 2020 evaluation of the tax
+-9- 1289
+
+1 expenditure and the department of revenue's biannual review show very
+2 few taxpayers claim. Any revenue gain realized as a result of eliminating
+3 this tax expenditure is incidental and de minimis.
+4 SECTION 2. In Colorado Revised Statutes, 29-2-109, amend
+5 (1)(j); and add (1)(k) as follows:
+6 29-2-109. Contents of use tax ordinances and proposals -
+7 repeal.
+8 (1) The use tax ordinance, resolution, or proposal of any town,
+9 city, or county adopted pursuant to this article 2 shall be imposed only for
+10 the privilege of using or consuming in the town, city, or county any
+11 construction and building materials purchased at retail or for the privilege
+12 of storing, using, or consuming in the town, city, or county any motor and
+13 other vehicles, purchased at retail on which registration is required, or
+14 both. For the purposes of this subsection (1), the term "construction and
+15 building materials" shall not include parts or materials utilized in the
+16 fabrication, construction, assembly, or installation of passenger tramways,
+17 as defined in section 12-150-103 (5), by any ski area operator, as defined
+18 in section 33-44-103 (7), or any person fabricating, constructing,
+19 assembling, or installing a passenger tramway for a ski area operator. The
+20 ordinance, resolution, or proposal may recite that the use tax shall not
+21 apply to the storage and use of wood from salvaged trees killed or
+22 infested in Colorado by mountain pine beetles or spruce beetles as
+23 exempted from the state use tax pursuant to section 39-26-723. The
+24 ordinance, resolution, or proposal may recite that the use tax shall not
+25 apply to the storage and use of components used in the production of
+26 energy, including but not limited to alternating current electricity, from
+27 a renewable energy source, as exempted from the state use tax pursuant
+-10- 1289
+
+1 to section 39-26-724. The ordinance, resolution, or proposal may recite
+2 that the use tax shall not apply to the storage and use of eligible
+3 decarbonizing building materials, as exempted from the state use tax
+4 pursuant to section 39-26-731. The ordinance, resolution, or proposal
+5 shall recite that the use tax shall not apply:
+6 (j) To the storage, use, or consumption of any construction and
+7 building materials required or made necessary in the performance of any
+8 construction contract bid, let, or entered into at any time prior to the
+9 effective date of such use tax ordinance, resolution, or proposal; AND
+10 (k) TO THE STORAGE, USE, OR CONSUMPTION OF CONSTRUCTION
+11 AND BUILDING MATERIALS BY OR ON BEHALF OF A COMMON CARRIER BY
+12 RAIL OPERATING IN INTERSTATE OR FOREIGN COMMERCE WHEN THE
+13 STORAGE, USE, OR CONSUMPTION OF THE CONSTRUCTION AND BUILDING
+14 MATERIALS IS PURSUANT TO A CONTRACT WITH THE STATE, A DEPARTMENT
+15 OR INSTITUTION OF THE STATE, A POLITICAL SUBDIVISION OF THE STATE,
+16 OR A SPECIAL DISTRICT THAT ALLOWS THE STATE, A DEPARTMENT OR
+17 INSTITUTION OF THE STATE, A POLITICAL SUBDIVISION OF THE STATE, OR
+18 A SPECIAL DISTRICT TO USE THE RAILROAD'S PROPERTY OR TRACKS FOR
+19 THE PROVISION OF PUBLIC PASSENGER RAIL SERVICE.
+20 SECTION 3. In Colorado Revised Statutes, 39-22-104, amend
+21 (3)(t) and (3)(u); and add (3)(v) and (4)(ff) as follows:
+22 39-22-104. Income tax imposed on individuals, estates, and
+23 trusts - single rate - report - tax preference performance statement
+24 - legislative declaration - definitions - repeal.
+25 (3) There shall be added to the federal taxable income:
+26 (t) For income tax years commencing on or after January 1, 2025,
+27 an amount equal to the amount of employer contribution that an employee
+-11- 1289
+
+1 forfeits pursuant to section 39-22-558 (3)(c) and that the taxpayer had
+2 previously subtracted from the taxpayer's federal taxable income pursuant
+3 to subsection (4)(bb) of this section; and
+4 (u) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY 1,
+5 2026, the amount of any overtime compensation excluded or deducted
+6 from federal gross income INCOME; AND
+7 (v) (I) (A) FOR INCOME TAX YEARS BEGINNING ON AND AFTER
+8 JANUARY 1, 2027, THE EXCESS OF ANY GAIN EXCLUDED FROM FEDERAL
+9 GROSS INCOME PURSUANT TO SECTION 1400Z-2 (a)(1)(A) OF THE
+10 INTERNAL REVENUE CODE OVER THE AMOUNT OF THAT GAIN INVESTED BY
+11 THE TAXPAYER IN A COLORADO QUALIFIED OPPORTUNITY FUND IN A
+12 MANNER THAT QUALIFIES FOR EXCLUSION FROM FEDERAL GROSS INCOME
+13 PURSUANT TO SECTION 1400Z-2 (a)(I)(A) OF THE INTERNAL REVENUE
+14 CODE.
+15 (B) FOR AMOUNTS INVESTED IN A QUALIFIED OPPORTUNITY FUND
+16 AFTER DECEMBER 31, 2026, OTHER THAN A COLORADO QUALIFIED
+17 OPPORTUNITY FUND, THE AMOUNT OF GAIN EXCLUDED FROM FEDERAL
+18 GROSS INCOME AS A RESULT OF AN ELECTION MADE BY THE TAXPAYER
+19 PURSUANT TO SECTION 1400Z-2(c) OF THE INTERNAL REVENUE CODE.
+20 (II) FOR PURPOSES OF THIS SUBSECTION (3)(v), "COLORADO
+21 QUALIFIED OPPORTUNITY FUND" MEANS A QUALIFIED OPPORTUNITY FUND
+22 THAT HOLDS AT LEAST NINETY PERCENT OF ITS ASSETS IN COLORADO
+23 QUALIFIED OPPORTUNITY ZONE PROPERTY. COLORADO QUALIFIED
+24 OPPORTUNITY ZONE PROPERTY IS:
+25 (A) QUALIFIED OPPORTUNITY ZONE BUSINESS PROPERTY
+26 SUBSTANTIALLY ALL OF THE USE OF WHICH, DURING SUBSTANTIALLY ALL
+27 OF THE FUND'S HOLDING PERIOD FOR THE PROPERTY, WAS IN A QUALIFIED
+-12- 1289
+
+1 OPPORTUNITY ZONE WITHIN COLORADO; OR
+2 (B) QUALIFIED OPPORTUNITY ZONE STOCK, OR A QUALIFIED
+3 OPPORTUNITY ZONE PARTNERSHIP INTEREST, IN A QUALIFIED OPPORTUNITY
+4 ZONE BUSINESS IN WHICH SUBSTANTIALLY ALL OF THE TANGIBLE
+5 PROPERTY OWNED OR LEASED IS QUALIFIED OPPORTUNITY ZONE BUSINESS
+6 PROPERTY AS DESCRIBED IN SECTION 1400Z-2 (d)(3)(A)(i) OF THE
+7 INTERNAL REVENUE CODE AND SUBSTANTIALLY ALL THE USE OF WHICH IS
+8 IN A QUALIFIED OPPORTUNITY ZONE WITHIN COLORADO.
+9 (III) FOR PURPOSES OF SUBSECTION (3)(v)(II) OF THIS SECTION:
+10 (A) PROPERTY HELD IN THE FUND SHALL BE MEASURED UNDER
+11 RULES SIMILAR TO THE RULES OF SECTION 1400Z-2 (d)(1) OF THE
+12 INTERNAL REVENUE CODE; AND
+13 (B) THE TERMS USED HAVE THE SAME MEANING AS SET FORTH IN
+14 SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
+15 (4) There shall be subtracted from federal taxable income:
+16 (ff) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+17 1, 2027, THE AMOUNT OF ANY GAIN INCLUDED IN FEDERAL GROSS INCOME
+18 PURSUANT TO SECTION 1400Z-2 (b) OF THE INTERNAL REVENUE CODE TO
+19 THE EXTENT THAT SUCH GAIN WAS ADDED TO FEDERAL TAXABLE INCOME
+20 PURSUANT TO SECTION 39-22-104 (3)(v) FOR A PRIOR TAX YEAR.
+21
+22 SECTION 4. In Colorado Revised Statutes, 39-22-303, amend
+23 (8)(a), (8)(b)(I), (11.5)(b)(I), and (11.5)(b)(II); and add (8)(c), (8.5),
+24 (12)(c.3), and (12)(c.5) as follows:
+25 39-22-303. Dividends in a combined report - foreign source
+26 income - affiliated groups - definitions - rules - repeal.
+27 (8) (a) Except as provided in subsection (8)(b) of this section, FOR
+-13- 1289
+
+1 TAX YEARS BEGINNING BEFORE JANUARY 1, 2027, neither the taxpayer nor
+2 the executive director shall include in a combined report any C
+3 corporation that conducts business outside the United States if eighty
+4 percent or more of the C corporation's property and payroll, as determined
+5 by factoring pursuant to section 24-60-1301, is assigned to locations
+6 outside the United States. For the purpose of this subsection (8), "United
+7 States" is restricted to the fifty states and the District of Columbia.
+8 (b) (I) For tax years beginning on or after January 1, 2022, BUT
+9 BEFORE JANUARY 1, 2027, a taxpayer shall include in the combined group
+10 any member of an affiliated group of C corporations that is incorporated
+11 in a foreign jurisdiction for the purpose of tax avoidance.
+12 (c) THIS SUBSECTION (8) IS REPEALED, EFFECTIVE DECEMBER 31,
+13 2031.
+14 (8.5) (a) FOR INCOME TAX YEARS BEGINNING ON OR AFTER
+15 JANUARY 1, 2027, THE MEMBERS OF AN AFFILIATED GROUP OF C
+16 CORPORATIONS REQUIRED TO FILE A COMBINED REPORT PURSUANT TO
+17 SUBSECTION (11.5)(b)(I) OF THIS SECTION MAY MAKE A WATER'S-EDGE
+18 ELECTION AS SET FORTH IN SUBSECTION (8.5)(c) OF THIS SECTION.
+19 PURSUANT TO A WATER'S-EDGE ELECTION, THE COMBINED GROUP SHALL
+20 TAKE INTO ACCOUNT THE NET INCOME AND APPORTIONMENT FACTORS OF
+21 THE MEMBERS OF THE AFFILIATED GROUP PURSUANT TO SUBSECTION (11.5)
+22 OF THIS SECTION TO THE EXTENT SET FORTH IN SUBSECTION (8.5)(b) OF
+23 THIS SECTION.
+24 (b) (I) THE COMBINED GROUP SHALL TAKE INTO ACCOUNT THE
+25 ENTIRE NET INCOME AND APPORTIONMENT FACTORS OF:
+26 (A) EVERY MEMBER OF THE AFFILIATED GROUP THAT IS
+27 INCORPORATED IN THE UNITED STATES OR FORMED UNDER THE LAWS OF
+-14- 1289
+
+1 ANY STATE, THE DISTRICT OF COLUMBIA, OR ANY TERRITORY OR
+2 POSSESSION OF THE UNITED STATES;
+3 (B) EVERY MEMBER OF THE AFFILIATED GROUP, REGARDLESS OF
+4 THE PLACE WHERE THE MEMBER WAS INCORPORATED OR FORMED, IF
+5 TWENTY PERCENT OR MORE OF THE MEMBER'S PROPERTY AND PAYROLL,
+6 AS DETERMINED BY FACTORING PURSUANT TO SECTION 24-60-1301, IS
+7 ASSIGNED TO LOCATIONS WITHIN THE UNITED STATES. FOR THE PURPOSE
+8 OF THIS SUBSECTION (8.5)(b)(I)(B), "UNITED STATES" IS RESTRICTED TO
+9 THE FIFTY STATES AND THE DISTRICT OF COLUMBIA.
+10 (C) EVERY MEMBER OF THE AFFILIATED GROUP THAT IS A
+11 DOMESTIC INTERNATIONAL SALES CORPORATION AS DESCRIBED IN
+12 SECTIONS 991 TO 994 OF THE INTERNAL REVENUE CODE OR AN EXPORT
+13 TRADE CORPORATION AS DESCRIBED IN SECTIONS 970 AND 971 OF THE
+14 INTERNAL REVENUE CODE; AND
+15 (D) EVERY MEMBER OF THE AFFILIATED GROUP THAT IS
+16 INCORPORATED IN A FOREIGN JURISDICTION FOR THE PURPOSE OF TAX
+17 AVOIDANCE.
+18 (II) TO THE EXTENT SUCH AMOUNTS ARE NOT ALREADY TAKEN
+19 INTO ACCOUNT PURSUANT TO SUBSECTION (8.5)(b)(I) OF THIS SECTION,
+20 THE COMBINED GROUP SHALL ALSO TAKE INTO ACCOUNT:
+21
+22 (A) THE APPORTIONABLE INCOME OF A MEMBER OF THE
+23 AFFILIATED GROUP THAT IS EFFECTIVELY CONNECTED OR TREATED AS
+24 EFFECTIVELY CONNECTED PURSUANT TO THE INTERNAL REVENUE CODE
+25 WITH THE CONDUCT OF A TRADE OR BUSINESS WITHIN THE UNITED STATES
+26 AND, FOR THAT REASON, SUBJECT TO FEDERAL INCOME TAX AND THE
+27 RELATED APPORTIONMENT FACTORS; AND
+-15- 1289
+
+1 (B) IN THE CASE OF A MEMBER OF THE AFFILIATED GROUP THAT IS
+2 A RESIDENT OF A COUNTRY THAT DOES NOT HAVE A COMPREHENSIVE
+3 INCOME TAX TREATY WITH THE UNITED STATES AND EARNS MORE THAN
+4 TWENTY PERCENT OF ITS NET INCOME, DIRECTLY OR INDIRECTLY, FROM
+5 INTANGIBLE PROPERTY OR SERVICE-RELATED ACTIVITIES THAT ARE
+6 DEDUCTIBLE FROM THE APPORTIONABLE INCOME OF ONE OR MORE
+7 MEMBERS OF THE COMBINED GROUP, THE RELATED NET INCOME AND THE
+8 APPORTIONMENT FACTORS.
+9 (III) FOR PURPOSES OF THIS SUBSECTION (8.5)(b), A MEMBER OF
+10 THE AFFILIATED GROUP IS PRESUMPTIVELY INCORPORATED IN A FOREIGN
+11 JURISDICTION FOR THE PURPOSE OF TAX AVOIDANCE IF THE MEMBER IS
+12 INCORPORATED IN A LISTED JURISDICTION. A MEMBER IS NOT
+13 INCORPORATED IN A FOREIGN JURISDICTION FOR THE PURPOSE OF TAX
+14 AVOIDANCE IF THE COMBINED GROUP PROVES TO THE SATISFACTION OF
+15 THE EXECUTIVE DIRECTOR, OR IF THE EXECUTIVE DIRECTOR DETERMINES,
+16 THAT THE MEMBER IS INCORPORATED IN A LISTED JURISDICTION FOR
+17 REASONS THAT MEET THE ECONOMIC SUBSTANCE DOCTRINE DESCRIBED IN
+18 SECTION 7701 (o) OF THE INTERNAL REVENUE CODE.
+19 (c) (I) THE COMBINED GROUP MUST MAKE A WATER'S-EDGE
+20 ELECTION ON A TIMELY FILED, ORIGINAL RETURN FOR AN INCOME TAX
+21 YEAR.
+22 (II) (A) EXCEPT AS PROVIDED IN SUBSECTION (8.5)(c)(II)(C) OF
+23 THIS SECTION, A COMBINED GROUP'S WATER'S-EDGE ELECTION IS BINDING
+24 FOR AND APPLICABLE TO THE INCOME TAX YEAR WHEN THE COMBINED
+25 GROUP MAKES THE ELECTION AND EACH OF THE NINE INCOME TAX YEARS
+26 THEREAFTER.
+27 (B) UPON THE EXPIRATION OF THE PERIOD DESCRIBED IN
+-16- 1289
+
+1 SUBSECTION (8.5)(c)(II)(A) OF THIS SECTION, A COMBINED GROUP MAY
+2 WITHDRAW THE WATER'S-EDGE ELECTION. THE COMBINED GROUP MUST
+3 WITHDRAW THE ELECTION ON A TIMELY FILED, ORIGINAL TAX RETURN FOR
+4 THE FIRST INCOME TAX YEAR AFTER THE PERIOD DESCRIBED IN
+5 SUBSECTION (8.5)(c)(II)(A) OF THIS SECTION, OR BY OTHER WRITTEN
+6 WITHDRAWAL MADE IN THE TIME AND MANNER PRESCRIBED BY RULES
+7 PROMULGATED BY THE EXECUTIVE DIRECTOR. EXCEPT AS PROVIDED IN
+8 SUBSECTION (8.5)(c)(II)(C) OF THIS SECTION, A COMBINED GROUP'S
+9 WITHDRAWAL OF AN ELECTION IS BINDING FOR AND APPLICABLE TO THE
+10 INCOME TAX YEAR WHEN THE COMBINED GROUP WITHDRAWS THE
+11 ELECTION AND EACH OF THE NINE INCOME TAX YEARS THEREAFTER. IF THE
+12 COMBINED GROUP DOES NOT WITHDRAW THE ELECTION AS DESCRIBED IN
+13 THIS SUBSECTION (8.5)(c)(II)(B), THE ELECTION IS DEEMED RENEWED FOR
+14 AN ADDITIONAL TEN-YEAR PERIOD, SUBJECT TO THE SAME CONDITIONS AS
+15 APPLIED TO THE ORIGINAL ELECTION.
+16 (C) A COMBINED GROUP MAY PETITION THE EXECUTIVE DIRECTOR
+17 TO WITHDRAW A WATER'S-EDGE ELECTION PRIOR TO THE EXPIRATION OF
+18 THE PERIOD SET FORTH IN SUBSECTION (8.5)(c)(II)(A) OF THIS SECTION, OR
+19 TO REINSTATE A WITHDRAWN ELECTION, UPON A SHOWING OF
+20 REASONABLE CAUSE BASED UPON EXTRAORDINARY HARDSHIP DUE TO
+21 UNFORESEEN CHANGES IN STATE TAX STATUTES, LAW, OR POLICY. IF THE
+22 EXECUTIVE DIRECTOR GRANTS A WITHDRAWAL OF AN ELECTION, THE
+23 EXECUTIVE DIRECTOR MAY IMPOSE REASONABLE CONDITIONS AS
+24 NECESSARY TO PREVENT THE EVASION OF TAX OR TO CLEARLY REFLECT
+25 NET INCOME FOR THE ELECTION PERIOD PRIOR TO OR AFTER THE
+26 WITHDRAWAL.
+27 (III) THE EXECUTIVE DIRECTOR MAY PROMULGATE RULES
+-17- 1289
+
+1 GOVERNING THE EFFECT, IF ANY, ON THE SCOPE OR APPLICATION OF A
+2 WATER'S-EDGE ELECTION, INCLUDING THE PROCEDURES FOR ELECTION AND
+3 TERMINATION OR DEEMED ELECTION, RESULTING FROM A CHANGE IN THE
+4 COMPOSITION OF THE UNITARY GROUP, THE COMBINED GROUP, THE
+5 MEMBERS, AND ANY OTHER SIMILAR CHANGE.
+6 (d) THE EXECUTIVE DIRECTOR MAY DISREGARD A WATER'S-EDGE
+7 ELECTION IN PART OR IN WHOLE, AND THE NET INCOME AND
+8 APPORTIONMENT FACTORS OF ANY MEMBER OF THE UNITARY GROUP MAY
+9 BE INCLUDED IN THE COMBINED REPORT, WITHOUT REGARD TO
+10 SUBSECTIONS (8.5)(a) TO (8.5)(c) OF THIS SECTION, IF:
+11 (I) ANY MEMBER OF THE UNITARY GROUP KNOWINGLY FAILS TO
+12 COMPLY WITH OR RECKLESSLY DISREGARDS ANY PROVISION OF THIS
+13 ARTICLE 22 OR ANY PROVISION OF ARTICLE 21 OF THIS TITLE 39; OR
+14 (II) A PERSON OTHERWISE NOT INCLUDED IN THE WATER'S-EDGE
+15 COMBINED GROUP IS USED FOR A SUBSTANTIAL STATE INCOME TAX
+16 AVOIDANCE PURPOSE.
+17 (e) A COMBINED GROUP'S WATER'S-EDGE ELECTION PURSUANT TO
+18 THIS SUBSECTION (8.5) HAS NO EFFECT ON WHETHER A PERSON EXCLUDED
+19 FROM THE WATER'S-EDGE COMBINED GROUP MAY BE SEPARATELY LIABLE
+20 FOR THE TAX IMPOSED BY THIS ARTICLE 22. A PERSON EXCLUDED FROM A
+21 WATER'S-EDGE COMBINED GROUP AND SUBJECT TO THE TAX IMPOSED BY
+22 THIS ARTICLE 22 SHALL SEPARATELY FILE AND PAY SUCH TAX AS
+23 PROVIDED IN THIS ARTICLE 22.
+24 (11.5) (b) For tax years beginning on and after January 1, 2026:
+25 (I) Except as provided in subsection SUBSECTION (8) OR (8.5) of
+26 this section, all of the members of an affiliated group of C corporations,
+27 wherever incorporated or domiciled, that are members of a unitary
+-18- 1289
+
+1 business shall file a combined report as a combined group.
+2 (II) (A) The net income of each member of the combined group,
+3 as determined under section 39-22-304, is combined, eliminating items
+4 of income, expense, gain, and loss from transactions between members
+5 of the combined group, applying the consolidated filing rules under the
+6 internal revenue code, and the regulations thereunder, as if the combined
+7 group was a consolidated filing group. Dividends are eliminated to the
+8 extent permitted under subsection (9) of this section.
+9 (B) A COMBINED GROUP SHALL ELIMINATE DIVIDENDS FROM A
+10 COMBINED REPORT TO THE EXTENT PERMITTED UNDER SUBSECTION (9) OF
+11 THIS SECTION.
+12 (C) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY 1,
+13 2027, TO THE EXTENT THE NET INCOME OF A MEMBER OF A COMBINED
+14 GROUP INCLUDES SUBPART F INCOME OR NET CFC TESTED INCOME WITH
+15 RESPECT TO ANOTHER MEMBER OF THE COMBINED GROUP OF WHICH THE
+16 MEMBER IS A UNITED STATES SHAREHOLDER, THE COMBINED GROUP
+17 SHALL ELIMINATE SUCH SUBPART F OR NET CFC TESTED INCOME FROM A
+18 COMBINED REPORT.
+19 (12) As used in this section, unless the context otherwise requires:
+20 (c.3) "NET CFC TESTED INCOME" MEANS INCOME INCLUDED AS
+21 FEDERAL GROSS INCOME PURSUANT TO SECTION 951A (a) OF THE
+22 INTERNAL REVENUE CODE.
+23 (c.5) "SUBPART F INCOME" MEANS INCOME INCLUDED AS FEDERAL
+24 GROSS INCOME PURSUANT TO SECTION 951 (a) OF THE INTERNAL REVENUE
+25 CODE.
+26 SECTION 5. In Colorado Revised Statutes, 39-22-304, amend
+27 (1)(b)(I), (3)(i), and (3)(q); and add (2)(l) and (3)(u) as follows:
+-19- 1289
+
+1 39-22-304. Net income of corporation - legislative declaration
+2 - definitions - repeal.
+3 (1) (b) (I) (A) For income tax years commencing on or after
+4 January 1, 2022, BUT BEFORE JANUARY 1, 2027, in the case of a C
+5 corporation that is not incorporated in the United States, or included in a
+6 consolidated federal corporate income tax return, "federal taxable
+7 income" means the C corporation's income or loss as determined from a
+8 profit and loss statement prepared for that C corporation on a separate
+9 entity basis in the currency in which its books of account are regularly
+10 maintained, provided this profit and loss statement is subject to an
+11 independent audit, adjusted to conform to the accounting principles
+12 generally accepted in the United States for the preparation of such
+13 statements and further modified to take into account any book-tax
+14 adjustments necessary to reflect federal and state tax law. Income or loss
+15 so computed includes all income wherever derived and is not limited to
+16 items of income from sources within the United States or effectively
+17 connected income within the meaning of the internal revenue code. Items
+18 of income, expense, gain or loss, and related apportionment factors that
+19 are denominated in a foreign currency must also be translated into United
+20 States dollars on a reasonable basis consistently applied year-to-year and
+21 entity-by-entity. Unrealized foreign currency gains and losses are not
+22 recognized. Income apportioned to this state is to be expressed in United
+23 States dollars.
+24 (B) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+25 1, 2027, IN THE CASE OF A C CORPORATION THAT IS INCLUDED IN A
+26 COMBINED GROUP PURSUANT TO SECTION 39-22-303, AND THAT IS NOT
+27 INCORPORATED IN THE UNITED STATES, OR INCLUDED IN A CONSOLIDATED
+-20- 1289
+
+1 FEDERAL CORPORATE INCOME TAX RETURN, "FEDERAL TAXABLE INCOME"
+2 MEANS THE C CORPORATION'S INCOME OR LOSS AS DETERMINED FROM A
+3 PROFIT AND LOSS STATEMENT PREPARED FOR THAT C CORPORATION ON A
+4 SEPARATE ENTITY BASIS IN THE CURRENCY IN WHICH ITS BOOKS OF
+5 ACCOUNT ARE REGULARLY MAINTAINED, PROVIDED THIS PROFIT AND LOSS
+6 STATEMENT IS SUBJECT TO AN INDEPENDENT AUDIT, ADJUSTED TO
+7 CONFORM TO THE ACCOUNTING PRINCIPLES GENERALLY ACCEPTED IN THE
+8 UNITED STATES FOR THE PREPARATION OF SUCH STATEMENTS, AND
+9 FURTHER MODIFIED TO TAKE INTO ACCOUNT ANY BOOK-TAX ADJUSTMENTS
+10 NECESSARY TO REFLECT FEDERAL AND STATE TAX LAW. INCOME OR LOSS
+11 SO COMPUTED INCLUDES ALL INCOME WHEREVER DERIVED AND IS NOT
+12 LIMITED TO ITEMS OF INCOME FROM SOURCES WITHIN THE UNITED STATES
+13 OR EFFECTIVELY CONNECTED INCOME WITHIN THE MEANING OF THE
+14 INTERNAL REVENUE CODE. ITEMS OF INCOME, EXPENSE, GAIN OR LOSS,
+15 AND RELATED APPORTIONMENT FACTORS THAT ARE DENOMINATED IN A
+16 FOREIGN CURRENCY MUST ALSO BE TRANSLATED INTO UNITED STATES
+17 DOLLARS ON A REASONABLE BASIS CONSISTENTLY APPLIED YEAR-TO-YEAR
+18 AND ENTITY-BY-ENTITY. UNREALIZED FOREIGN CURRENCY GAINS AND
+19 LOSSES ARE NOT RECOGNIZED. INCOME APPORTIONED TO THE STATE IS TO
+20 BE EXPRESSED IN UNITED STATES DOLLARS.
+21 (C) SUBSECTION (1)(b)(I)(A) OF THIS SECTION AND THIS
+22 SUBSECTION (1)(b)(I)(C) ARE REPEALED, EFFECTIVE DECEMBER 31, 2031.
+23 (2) There shall be added to federal taxable income:
+24 (l) (I) (A) FOR INCOME TAX YEARS BEGINNING ON AND AFTER
+25 JANUARY 1, 2027, THE EXCESS OF ANY GAIN EXCLUDED FROM FEDERAL
+26 GROSS INCOME PURSUANT TO SECTION 1400Z-2 (a)(I)(A) OF THE INTERNAL
+27 REVENUE CODE OVER THE AMOUNT OF THAT GAIN INVESTED BY THE
+-21- 1289
+
+1 TAXPAYER IN A COLORADO QUALIFIED OPPORTUNITY FUND IN A MANNER
+2 THAT QUALIFIES FOR EXCLUSION FROM FEDERAL GROSS INCOME PURSUANT
+3 TO SECTION 1400Z-2 (a)(I)(A) OF THE INTERNAL REVENUE CODE.
+4 (B) FOR AMOUNTS INVESTED IN A QUALIFIED OPPORTUNITY FUND
+5 AFTER DECEMBER 31, 2026, OTHER THAN A COLORADO QUALIFIED
+6 OPPORTUNITY FUND, THE AMOUNT OF GAIN EXCLUDED FROM FEDERAL
+7 GROSS INCOME AS A RESULT OF AN ELECTION MADE BY THE TAXPAYER
+8 PURSUANT TO SECTION 1400Z-2(c) OF THE INTERNAL REVENUE CODE.
+9 (II) FOR PURPOSES OF THIS SUBSECTION (2)(l), "COLORADO
+10 QUALIFIED OPPORTUNITY FUND" MEANS A QUALIFIED OPPORTUNITY FUND
+11 THAT HOLDS AT LEAST NINETY PERCENT OF ITS ASSETS IN COLORADO
+12 QUALIFIED OPPORTUNITY ZONE PROPERTY. COLORADO QUALIFIED
+13 OPPORTUNITY ZONE PROPERTY IS:
+14 (A) QUALIFIED OPPORTUNITY ZONE BUSINESS PROPERTY,
+15 SUBSTANTIALLY ALL OF THE USE OF WHICH, DURING SUBSTANTIALLY ALL
+16 OF THE FUND'S HOLDING PERIOD FOR THE PROPERTY, WAS IN A QUALIFIED
+17 OPPORTUNITY ZONE WITHIN COLORADO; OR
+18 (B) QUALIFIED OPPORTUNITY ZONE STOCK OR A QUALIFIED
+19 OPPORTUNITY ZONE PARTNERSHIP INTEREST IN A QUALIFIED OPPORTUNITY
+20 ZONE BUSINESS, IN WHICH SUBSTANTIALLY ALL OF THE TANGIBLE
+21 PROPERTY OWNED OR LEASED IS QUALIFIED OPPORTUNITY ZONE BUSINESS
+22 PROPERTY AS DESCRIBED IN SECTION 1400Z-2 (d)(3)(A)(i) OF THE
+23 INTERNAL REVENUE CODE AND SUBSTANTIALLY ALL OF THE USE OF WHICH
+24 IS IN A QUALIFIED OPPORTUNITY ZONE WITHIN COLORADO.
+25 (III) FOR PURPOSES OF SUBSECTION (2)(l)(II) OF THIS SECTION:
+26 (A) PROPERTY HELD IN THE FUND SHALL BE MEASURED UNDER
+27 RULES SIMILAR TO THE RULES OF SECTION 1400Z-2 (d)(I) OF THE
+-22- 1289
+
+1 INTERNAL REVENUE CODE; AND
+2 (B) THE TERMS USED HAVE THE SAME MEANING AS SET FORTH IN
+3 SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
+4 (3) There shall be subtracted from federal taxable income:
+5 (i) (I) FOR INCOME TAX YEARS BEGINNING BEFORE JANUARY 1,
+6 2027, that portion of wages or salaries paid or incurred for the taxable
+7 year, the deduction for which is disallowed by section 280C of the
+8 internal revenue code.
+9 (II) THIS SUBSECTION (3)(i) IS REPEALED, EFFECTIVE DECEMBER
+10 31, 2031.
+11 (q) (I) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY
+12 1, 2022, BUT BEFORE JANUARY 1, 2027:
+13 (I) (A) Any amount included in federal taxable income pursuant
+14 to section 951 (a) of the internal revenue code with respect to a controlled
+15 foreign corporation that is a C corporation incorporated in a foreign
+16 jurisdiction for the purpose of tax avoidance pursuant to section
+17 39-22-303 (8)(b)(II); and
+18 (II) (B) The amount of any income included in federal taxable
+19 income pursuant to section 951A (a) of the internal revenue code with
+20 respect to a controlled foreign corporation that is a C corporation
+21 incorporated in a foreign jurisdiction for the purpose of tax avoidance
+22 pursuant to section 39-22-303 (8)(b)(II), less any amount deducted under
+23 section 250 (a)(1)(B) of the internal revenue code with respect to such
+24 income.
+25 (II) THIS SUBSECTION (3)(q) IS REPEALED, EFFECTIVE DECEMBER
+26 31, 2031.
+27 (u) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+-23- 1289
+
+1 1, 2027, THE AMOUNT OF GAIN INCLUDED IN FEDERAL GROSS INCOME
+2 PURSUANT TO SECTION 1400Z-2 (b) OF THE INTERNAL REVENUE CODE TO
+3 THE EXTENT THAT SUCH GAIN WAS ADDED TO FEDERAL TAXABLE INCOME
+4 PURSUANT TO SECTION 39-22-304 (2)(l) FOR A PRIOR TAX YEAR.
+5 SECTION 6. In Colorado Revised Statutes, 39-22-516.7, amend
+6 (4)(a)(IX), (4)(a)(X), (4)(a.3), (4)(a.5), and (4)(a.7) as follows:
+7 39-22-516.7. Tax credit for innovative motor vehicles - tax
+8 preference performance statement - legislative declaration -
+9 definitions - repeal.
+10 (4) The amount of the credit allowed pursuant to this section is
+11 calculated as follows:
+12 (a) Category 1.
+13 (IX) Except as otherwise provided in subsection (4)(a.7) of this
+14 section, with respect to the purchase or lease of a category 1 vehicle sold
+15 or leased in tax years commencing on or after January 1, 2027, but before
+16 January 1, 2028, one TWO thousand dollars;
+17 (X) Except as otherwise provided in subsection (4)(a.7) of this
+18 section, with respect to the purchase or lease of a category 1 vehicle sold
+19 or leased in tax years commencing on or after January 1, 2028, but before
+20 January 1, 2029, five hundred ONE THOUSAND dollars; and
+21 (a.3) Limitation on credit.
+22 (I) No credit is allowed for a purchase or lease made on or after
+23 July 1, 2023, but before January 1, 2029 JANUARY 1, 2027, of a Category
+24 1 vehicle that exceeds a manufacturer's suggested retail price of
+25 eighty-thousand dollars.
+26 (II) NO CREDIT IS ALLOWED FOR A PURCHASE OR LEASE MADE ON
+27 OR AFTER JANUARY 1, 2027, BUT BEFORE JANUARY 1, 2029, OF A
+-24- 1289
+
+1 CATEGORY 1 VEHICLE THAT EXCEEDS A MANUFACTURER'S SUGGESTED
+2 RETAIL PRICE OF FIFTY THOUSAND DOLLARS.
+3 (a.5) (I) Category 1 for vehicles under $35,000 threshold. With
+4 respect to the purchase or lease of a category 1 vehicle sold or leased in
+5 tax years commencing on or after January 1, 2024, but prior to January 1,
+6 2029 JANUARY 1, 2027, with a manufacturer's suggested retail price
+7 below thirty-five thousand dollars there is allowed an additional two
+8 thousand five hundred dollars of credit in addition to the amount of credit
+9 allowed pursuant to subsection (4)(a) of this section.
+10 (II) CATEGORY 1 FOR VEHICLES UNDER $40,000 THRESHOLD.
+11 WITH RESPECT TO THE PURCHASE OR LEASE OF A CATEGORY 1 VEHICLE
+12 SOLD OR LEASED IN TAX YEARS COMMENCING ON OR AFTER JANUARY 1,
+13 2027, BUT PRIOR TO JANUARY 1, 2029, WITH A MANUFACTURER'S
+14 SUGGESTED RETAIL PRICE BELOW FORTY THOUSAND DOLLARS THERE IS
+15 ALLOWED AN ADDITIONAL TWO THOUSAND FIVE HUNDRED DOLLARS OF
+16 CREDIT IN ADDITION TO THE AMOUNT OF CREDIT ALLOWED PURSUANT TO
+17 SUBSECTION (4)(a) OF THIS SECTION.
+18 (a.7) (I) If the June 2025 revenue forecast, and each June revenue
+19 forecast through the June 2027 revenue forecast as prepared by either
+20 legislative council staff or the office of state planning and budgeting,
+21 projects that state revenues, as defined in section 24-77-103.6 (6)(c), will
+22 not increase by at least four percent for the next fiscal year, the amount
+23 of the credit allowed pursuant to subsection (4)(a)(VIII), (4)(a)(IX), or
+24 (4)(a)(X) of this section for any THE INCOME tax year commencing in the
+25 calendar year that begins during said next fiscal year is reduced by fifty
+26 percent; except that if the amount of reduced credit is equal to or less than
+27 five hundred dollars, then no credit is available for such a THAT INCOME
+-25- 1289
+
+1 tax year.
+2 (II) THIS SUBSECTION (4)(a.7) IS REPEALED, EFFECTIVE DECEMBER
+3 31, 2031.
+4 SECTION 7. In Colorado Revised Statutes, 39-22-516.8, amend
+5 (8.7)(d) as follows:
+6 39-22-516.8. Tax credit for innovative trucks - tax preference
+7 performance statement - legislative declaration - definitions - repeal.
+8 (8.7) (d) If the June 2025 revenue forecast, and each June revenue
+9 forecast through the June 2027 revenue forecast as prepared by either
+10 legislative council staff or the office of state planning and budgeting,
+11 projects that state revenues, as defined in section 24-77-103.6 (6)(c), will
+12 not increase by at least four percent for the next fiscal year, the amount
+13 of the credit allowed pursuant to subsection (8.7)(a)(III), (8.7)(a)(IV), or
+14 (8.7)(a)(V) of this section for any THE INCOME tax year commencing in
+15 the calendar year that begins during said next fiscal year is reduced by
+16 fifty percent; except that if the amount of reduced credit is equal to or less
+17 than five hundred dollars, then no credit is available for such a THE
+18 INCOME tax year.
+19 SECTION 8. In Colorado Revised Statutes, 39-22-543, amend
+20 (2)(c), (2)(d), (3)(a), (4)(b), (5), and (6); and add (2)(a.5) and (4)(c) as
+21 follows:
+22 39-22-543. Credit for wildfire hazard mitigation expenses -
+23 legislative declaration - definitions - repeal.
+24 (2) As used in this section, unless the context otherwise requires:
+25 (a.5) "INFESTATION MITIGATION MEASURERS" MEANS THE
+26 THINNING OF WOODY VEGETATION THAT IS AT RISK OF MOUNTAIN PINE
+27 BEETLE OR SPRUCE BEETLE INFESTATION OR THAT HAS BEEN KILLED BY
+-26- 1289
+
+1 MOUNTAIN PINE BEETLES OR SPRUCE BEETLES, IF SUCH ACTIVITIES MEET
+2 OR EXCEED ANY COLORADO STATE FOREST SERVICE STANDARDS OR ANY
+3 OTHER APPLICABLE STATE RULES.
+4 (c) "Landowner" means any INDIVIDUAL owner of record of
+5 private land located within the state, including any easement,
+6 right-of-way, or estate in the land, and includes the heirs, successors, and
+7 assigns of such land. "Landowner" shall not include any partnership, S
+8 corporation, or other similar entity that owns private land as an entity.
+9 unless there is a dwelling on that land that is designed for residential
+10 occupancy
+11 (d) "Wildfire mitigation measures" means the creation of a
+12 defensible space around structures; the establishment of fuel breaks; the
+13 thinning of woody vegetation for the primary purpose of reducing risk to
+14 structures from wildland fire; or the secondary treatment of woody fuels
+15 by lopping and scattering, piling, chipping, removing from the site, or
+16 prescribed burning; so long as such activities meet or exceed any
+17 Colorado state forest service standards or any other applicable state rules.
+18
+19 (3) (a) In the case of two taxpayers filing a joint return, the
+20 amount of the credit shall not exceed six hundred twenty-five dollars in
+21 any taxable year. THE AMOUNT OF THE CREDIT ALLOWED BY THIS SECTION
+22 IS THE SAME WHETHER IT IS CLAIMED BY A SINGLE TAXPAYER OR TWO
+23 TAXPAYERS WHO FILE A JOINT RETURN. In the case of two taxpayers who
+24 may legally file a joint return but actually file separate returns, only one
+25 of the taxpayers may claim the credit specified in this section.
+26 (4) (b) For income tax years commencing on or after January 1,
+27 2025, but prior to January 1, 2028 JANUARY 1, 2026, a landowner with a
+-27- 1289
+
+1 federal taxable income at or below one hundred twenty thousand dollars
+2 for the income tax year commencing on or after January 1, 2023, as
+3 adjusted for inflation and rounded to the nearest hundred dollars for each
+4 income tax year thereafter, is allowed a credit against the income taxes
+5 imposed by this article 22 in an amount equal to the landowner's costs
+6 incurred for wildfire mitigation measures in an amount up to one
+7 thousand dollars. The maximum total credit in a taxable year FOR A
+8 LANDOWNER is one thousand dollars.
+9 (c) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY 1,
+10 2026, BUT BEFORE JANUARY 1, 2031, A LANDOWNER WITH AN ADJUSTED
+11 GROSS INCOME AT OR BELOW THREE HUNDRED THOUSAND DOLLARS FOR
+12 THE INCOME TAX YEAR BEGINNING ON OR AFTER JANUARY 1, 2026, AS
+13 ADJUSTED FOR INFLATION AND ROUNDED TO THE NEAREST HUNDRED
+14 DOLLARS FOR EACH INCOME TAX YEAR THEREAFTER, IS ALLOWED A CREDIT
+15 AGAINST THE INCOME TAXES IMPOSED BY THIS ARTICLE 22 IN AN AMOUNT
+16 EQUAL TO THE LANDOWNER'S COSTS INCURRED FOR WILDFIRE MITIGATION
+17 MEASURES, INFESTATION MITIGATION MEASURES, OR BOTH IN AN AMOUNT
+18 UP TO TWO THOUSAND DOLLARS. THE MAXIMUM TOTAL CREDIT IN A
+19 TAXABLE YEAR FOR A LANDOWNER IS TWO THOUSAND DOLLARS.
+20 (5) (a) If the amount of a credit under this section exceeds a
+21 taxpayer's actual tax liability for an income tax year BEGINNING BEFORE
+22 JANUARY 1, 2026, the amount of the credit not used to offset the
+23 taxpayer's income tax liability is not refunded to the taxpayer and shall
+24 not be carried forward as a tax credit against the taxpayer's income tax
+25 liability in any subsequent tax year.
+26
+27 (b) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY 1,
+-28- 1289
+
+1 2026, IF THE AMOUNT OF A CREDIT ALLOWED BY THIS SECTION EXCEEDS
+2 THE TAXPAYER'S INCOME TAXES DUE, THE EXCESS MAY NOT BE CARRIED
+3 FORWARD AND IS REFUNDED TO THE TAXPAYER.
+4 (6) This section is repealed, effective January 1, 2030 JANUARY
+5 1, 2040.
+6 SECTION 9. In Colorado Revised Statutes, 39-22-549, amend
+7 (2)(e), (2)(f), (2)(h), (3)(a)(I)(B), (3)(a)(II)(B), (4)(a) introductory portion,
+8 (5)(a)(I)(A), (5)(b), (5)(c), and (6); and add (2)(e.5), (2)(e.7), and
+9 (3)(a)(III) as follows:
+10 39-22-549. Credit against tax - small food business recovery
+11 and resilience grant program equipment - community food
+12 consortium duties and responsibilities - tax preference performance
+13 statement - legislative declaration - definitions - repeal.
+14 (2) As used in this section, unless the context otherwise requires:
+15 (e) "Purchaser" means:
+16 (I) FOR INCOME TAX YEARS COMMENCING BEFORE JANUARY 1,
+17 2027, a small food retailer or small family farm that purchases small food
+18 business recovery and resilience grant program equipment.
+19 (II) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+20 1, 2027, A QUALIFIED DISTRIBUTOR, SMALL FOOD RETAILER, OR SMALL
+21 FAMILY FARM THAT PURCHASES SMALL FOOD BUSINESS RECOVERY AND
+22 RESILIENCE GRANT PROGRAM EQUIPMENT.
+23 (e.5) "QUALIFIED DISTRIBUTOR" MEANS A COLORADO-OWNED AND
+24 OPERATED BUSINESS OR NONPROFIT ORGANIZATION THAT:
+25 (I) IS SUBJECT TO TAX PURSUANT TO THIS ARTICLE 22 OR THAT IS
+26 EXEMPT FROM TAX PURSUANT TO SECTION 39-22-112 (1);
+27 (II) ACTIVELY MANAGES THE AGGREGATION, DISTRIBUTION, AND
+-29- 1289
+
+1 MARKETING OF SOURCE-IDENTIFIED RAW COLORADO AGRICULTURAL
+2 PRODUCTS;
+3 (III) PRIORITIZES THE AGGREGATION, DISTRIBUTION, AND
+4 MARKETING OF SOURCE-IDENTIFIED RAW COLORADO AGRICULTURAL
+5 PRODUCTS FROM COLORADO PRODUCERS TO SATISFY WHOLESALE, RETAIL,
+6 AND INSTITUTIONAL DEMAND; AND
+7 (IV) HAS MANAGED THE AGGREGATION, DISTRIBUTION, AND
+8 MARKETING OF SOURCE-IDENTIFIED RAW COLORADO AGRICULTURAL
+9 PRODUCTS TO A MEMBER OF THE CONSORTIUM IN THE INCOME TAX YEAR
+10 FOR WHICH THE BUSINESS OR ORGANIZATION IS CLAIMING A TAX CREDIT
+11 PURSUANT TO THIS SECTION.
+12 (f) "Small family farm" has the same meaning as set forth in
+13 section 35-1-117 (8)(d) FOR INCOME TAX YEARS COMMENCING BEFORE
+14 JANUARY 1, 2027. FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+15 JANUARY 1, 2027, "SMALL FAMILY FARM" MEANS A FARM THAT IS
+16 COLORADO-OWNED AND COLORADO-OPERATED, FILES A SCHEDULE F WITH
+17 THE INTERNAL REVENUE SERVICE, AND ACTS AS A WHOLESALER OR
+18 VENDOR TO A CHARITABLE FOOD PROGRAM, SMALL FOOD RETAILER,
+19 SCHOOL, CHILD CARE CENTER, OR OLDER ADULT FACILITY THAT IS
+20 LOCATED IN OR PROVIDES FOOD TO A LOCAL, STATE, OR FEDERALLY
+21 DEFINED "LOW INCOME, LOW ACCESS NEIGHBORHOOD".
+22 (h) "Small food retailers" has the same meaning as set forth in
+23 section 35-1-117 (8)(e) FOR INCOME TAX YEARS COMMENCING BEFORE
+24 JANUARY 1, 2027. FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+25 JANUARY 1, 2027, "SMALL FOOD RETAILERS" MEANS:
+26 (I) AN INDEPENDENT, COLORADO-OWNED, AND
+27 COLORADO-OPERATED SMALL FOOD RETAIL BUSINESS, DEFINED AS A FOOD
+-30- 1289
+
+1 RETAILER THAT:
+2 (A) IS SUBJECT TO TAX PURSUANT TO THIS ARTICLE 22 OR IS
+3 EXEMPT FROM TAX PURSUANT TO SECTION 39-22-112 (1);
+4 (B) HAS FIVE OR FEWER SEPARATE COLORADO RETAIL LOCATIONS
+5 WITH LESS THAN TWENTY-TWO THOUSAND SQUARE FEET OF RETAIL SPACE
+6 PER LOCATION;
+7 (C) CARRIES AT LEAST THREE CATEGORIES OF FEDERALLY DEFINED
+8 STAPLE FOODS, AS DESCRIBED IN THE FEDERAL "FOOD AND NUTRITION
+9 ACT OF 2008", SECS. 3 AND 9; THE FEDERAL "CONSOLIDATED
+10 APPROPRIATIONS ACT OF 2017", SEC. 76; AND THE FEDERAL "ENHANCING
+11 RETAILER STANDARDS IN THE SUPPLEMENTAL NUTRITION ASSISTANCE
+12 PROGRAM", 81 FED. REG. 90675; AND
+13 (D) IS LOCATED IN OR PROVIDES FOOD TO LOCAL, STATE, OR
+14 FEDERALLY DEFINED LOW-INCOME, LOW-ACCESS NEIGHBORHOODS; OR
+15 (II) IS A FARMER'S MARKET OR FARM-DIRECT OPERATION THAT IS
+16 ALREADY OR DEMONSTRATES AN INTENT TO BECOME SNAP AND WIC
+17 AUTHORIZED WHERE ALLOWED.
+18 (3) (a) Subject to the provisions of subsection (4) of this section:
+19 (I) (B) For income tax years commencing on or after January 1,
+20 2025, but before January 1, 2031, any member of the food consortium is
+21 allowed a credit against the tax imposed by this article 22 in an amount
+22 equal to seventy-five percent of the amount certain spent by the member
+23 of the consortium on completing its duties and responsibilities minus any
+24 amount awarded to the member of the consortium pursuant to section
+25 35-1-117 (2) for the completion of its duties and responsibilities; and
+26 (II) (B) For income tax years commencing on or after January 1,
+27 2025, but before January 1, 2031, any purchaser of small food business
+-31- 1289
+
+1 recovery and resilience grant program equipment is allowed a credit
+2 against the tax imposed by this article 22 in an amount equal to
+3 seventy-five percent of the purchase price of the relevant small food
+4 business recovery and resilience grant program equipment minus the
+5 amount of any grant awarded under the small food business recovery and
+6 resilience grant program for the purchase of the same small food business
+7 recovery and resilience grant program equipment; AND
+8 (III) NOTWITHSTANDING SUBSECTION (3)(a)(I) AND (3)(a)(II) OF
+9 THIS SECTION, FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+10 JANUARY 1, 2027, A TAXPAYER IS ONLY ALLOWED A CREDIT AGAINST THE
+11 TAX IMPOSED BY THIS ARTICLE 22 PURSUANT TO THIS SECTION IF THE
+12 CREDIT WOULD BE IN AN AMOUNT EQUAL TO OR GREATER THAN THREE
+13 HUNDRED SEVENTY-FIVE DOLLARS.
+14 (4) (a) FOR INCOME TAX YEARS COMMENCING PRIOR TO JANUARY
+15 1, 2027, a member of the consortium or a purchaser of small food
+16 business recovery grant program equipment may submit an application to
+17 the department of agriculture for the issuance of a letter of eligibility for
+18 a tax credit certificate allowed in this section by the deadlines established
+19 in the rules promulgated by the department of agriculture. The application
+20 must include:
+21 (5) (a) A member of the consortium or a purchaser of small food
+22 business recovery grant program equipment shall submit an application
+23 to the department of agriculture for the issuance of a tax credit certificate
+24 allowed in this section by the deadlines established in the rules
+25 promulgated by the department of agriculture. The application must
+26 include:
+27 (I) A certification that the applicant is either:
+-32- 1289
+
+1 (A) A purchaser who is a QUALIFIED DISTRIBUTOR, small food
+2 retailer, or small family farm that purchased small food business recovery
+3 and resilience grant program equipment; or
+4 (b) If the department of agriculture determines that the application
+5 filed pursuant to subsection (5)(a) of this section is complete, the
+6 department of agriculture shall determine whether the applicant qualifies
+7 for the credit allowed pursuant to this section. If the department of
+8 agriculture approves the application, the department of agriculture shall
+9 issue a tax credit certificate to the applicant that indicates the amount of
+10 the tax credit that the purchaser or member of the consortium may claim
+11 for the specified income tax year; except that:
+12 (I) The total amount of tax credit certificates issued by the
+13 department of agriculture in a given income tax CALENDAR year must not
+14 exceed a total of ten million dollars FOR CALENDAR YEARS COMMENCING
+15 BEFORE JANUARY 1, 2027, A TOTAL OF FIVE MILLION DOLLARS FOR THE
+16 CALENDAR YEAR COMMENCING ON JANUARY 1, 2027, AND, FOR CALENDAR
+17 YEARS COMMENCING ON OR AFTER JANUARY 1, 2028, A TOTAL OF FIVE
+18 MILLION DOLLARS.
+19 (II) FOR AN INCOME TAX YEAR COMMENCING ON OR AFTER
+20 JANUARY 1, 2027, THE MAXIMUM ALLOWABLE CREDIT AMOUNT FOR A
+21 SMALL FAMILY FARM THAT CLAIMS A CREDIT PURSUANT TO THIS SECTION
+22 IS THREE HUNDRED THOUSAND DOLLARS AND IS ONE MILLION DOLLARS
+23 FOR ANY OTHER TAXPAYER THAT CLAIMS A CREDIT PURSUANT TO THIS
+24 SECTION.
+25 (c) (I) FOR INCOME TAX YEARS COMMENCING BEFORE JANUARY 1,
+26 2027, the department of agriculture shall issue tax credit certificates
+27 allowed in this section in an order that accords with the rules promulgated
+-33- 1289
+
+1 by the department of agriculture. The department of agriculture shall
+2 review and approve or disapprove an application filed pursuant to
+3 subsection (5)(a) of this section within a reasonable time, not to exceed
+4 ninety days after the filing of a completed application.
+5 (II) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+6 1, 2027, THE DEPARTMENT OF AGRICULTURE SHALL REVIEW AND APPROVE
+7 OR DISAPPROVE AN APPLICATION FILED PURSUANT TO SUBSECTION (5)(a)
+8 OF THIS SECTION WITHIN A REASONABLE TIME, NOT TO EXCEED ONE
+9 HUNDRED FIFTY DAYS AFTER THE FILING OF A COMPLETED APPLICATION.
+10 (6) To claim the income tax credit allowed pursuant to this
+11 section, the purchaser or member of the consortium shall attach a copy of
+12 the tax credit certificate to its state income tax return. No tax credit is
+13 allowed pursuant to this section unless the purchaser or member of the
+14 consortium provides a copy of the tax credit certificate with its filed state
+15 income tax return. The amount of the credit that the purchaser or member
+16 of the consortium may claim pursuant to this section is the amount stated
+17 on the tax credit certificate. IF THE PURCHASER IS EXEMPT FROM TAX
+18 PURSUANT TO SECTION 39-22-112 (1), THE PURCHASER SHALL FILE A
+19 RETURN PURSUANT TO SECTION 39-22-601 (7)(b).
+20 SECTION 10. In Colorado Revised Statutes, 39-22-550, amend
+21 (1)(b) introductory portion, (1)(b)(I), (2)(c)(III), (2)(c)(IV), (3)(a),
+22 (3)(e)(II), (5), and (6); and add (2)(c)(V), (3)(e)(III), and (3)(f) as
+23 follows:
+24 39-22-550. Tax credit for reducing emissions from certain
+25 lawn equipment - tax preference performance statement - legislative
+26 declaration - definitions - report - repeal.
+27 (1) (b) In accordance with section 39-21-304 (1), which requires
+-34- 1289
+
+1 each bill that creates a new tax expenditure, OR EXTENDS AN EXPIRING
+2 TAX EXPENDITURE, to include a tax preference performance statement as
+3 part of a statutory legislative declaration, the general assembly further
+4 finds and declares that:
+5 (I) The general legislative purpose of the tax credit allowed by
+6 subsection (3) of this section, AND THE GENERAL LEGISLATIVE PURPOSE OF
+7 ITS EXTENSION, is to induce certain designated behaviors by taxpayers,
+8 specifically the purchase of electric-powered lawn equipment; and
+9 (2) As used in this section, unless the context otherwise requires:
+10 (c) "Qualified retailer" means a retailer that sells lawn equipment
+11 and:
+12 (III) Has paid the taxes due on the monthly sales tax return; and
+13 (IV) Has registered with the department of revenue pursuant to
+14 subsection (3)(e)(II) of this section; AND
+15 (V) HAS NOT BEEN DISQUALIFIED BY THE DEPARTMENT PURSUANT
+16 TO SUBSECTION (3)(f) OF THIS SECTION.
+17 (3) (a) For income tax years commencing on or after January 1,
+18 2024, but before January 1, 2027 JANUARY 1, 2030, a retailer qualified
+19 QUALIFIED RETAILER. pursuant to subsection (3)(e)(II) of this section is
+20 allowed a tax credit against the tax imposed pursuant to this article 22 in
+21 an amount equal to thirty-three percent of the aggregate purchase price
+22 for all retail sales of new, electric-powered lawn equipment that the
+23 qualified retailer sold in the state during the tax year.
+24 (e) (II) Before selling a piece of new, electric-powered lawn
+25 equipment for which a retailer intends to claim a credit pursuant to this
+26 section, the retailer shall register as a qualified retailer by filing with the
+27 department of revenue a registration statement in the form and manner
+-35- 1289
+
+1 that the department prescribes AND RECEIVE APPROVAL OF THEIR
+2 REGISTRATION FROM THE DEPARTMENT.
+3 (III) FOR INCOME TAX YEARS BEGINNING ON OR AFTER
+4 JANUARY 1, 2027, THE QUALIFIED RETAILER MAY ELECT ADVANCE
+5 PAYMENTS OF THE CREDIT ALLOWED PURSUANT TO THIS SECTION AS
+6 SPECIFIED IN SECTION 39-22-629.
+7 (f) (I) AFTER THE NOTICE AND HEARING HELD IN ACCORDANCE
+8 WITH SECTIONS 24-4-104 AND 24-4-105, THE DEPARTMENT MAY
+9 DISQUALIFY A QUALIFIED RETAILER IF THE DEPARTMENT DETERMINES:
+10 (A) THE QUALIFIED RETAILER REQUESTED ADVANCE PAYMENT OR
+11 CLAIMED A CREDIT WITH RESPECT TO A TRANSACTION THAT DOES NOT
+12 QUALIFY FOR THE CREDIT ALLOWED BY THIS SECTION;
+13 (B) THE QUALIFIED RETAILER PROVIDED FALSE OR MISLEADING
+14 INFORMATION TO THE DEPARTMENT; OR
+15 (C) THE QUALIFIED RETAILER NO LONGER HOLDS A SALES TAX
+16 LICENSE.
+17 (II) A RETAILER THAT HAS BEEN DISQUALIFIED PURSUANT TO THIS
+18 SUBSECTION (3)(f) MAY NOT REAPPLY TO BE A QUALIFIED RETAILER. THE
+19 DEPARTMENT SHALL NOT APPROVE A REGISTRATION SUBMITTED BY A
+20 DISQUALIFIED RETAILER.
+21 (5) Pursuant to section 39-21-304 (3), notwithstanding section
+22 24-1-136 (11)(a)(I), and for the purpose of providing data that allows the
+23 general assembly and the state auditor to measure the effectiveness of the
+24 tax credit created in subsection (3) of this section, the department of
+25 revenue, on or before January 1, 2025, and on or before January 1 of each
+26 year thereafter through January 1, 2028 JANUARY 1, 2031, shall submit to
+27 the general assembly and the state auditor a report detailing the sales of
+-36- 1289
+
+1 new, electric-powered lawn equipment, as reported by a qualified retailer
+2 claiming the tax credit authorized under subsection (3) of this section.
+3 The tax credit established in this section meets its purpose if sales of new,
+4 gasoline-powered lawn equipment are significantly reduced within five
+5 years after the tax credit becomes effective, as determined by the general
+6 assembly and the state auditor pursuant to section 39-21-304 (3).
+7 (6) This section is repealed, effective December 31, 2033
+8 DECEMBER 31, 2036.
+9 SECTION 11. In Colorado Revised Statutes, 39-22-551, amend
+10 (2)(e)(XI), (2)(j), and (6)(a)(I); and add (8)(d) as follows:
+11 39-22-551. Industrial clean energy tax credit - tax preference
+12 performance statement - definitions - report - repeal.
+13
+14 (2) Definitions. As used in this section, unless the context
+15 otherwise requires:
+16 (e) "Greenhouse gas emissions reduction improvements" means
+17 improvements that help to measurably reduce greenhouse gas emissions.
+18 "Greenhouse gas emissions reduction improvements" may include one or
+19 more of the following equipment purchases, improvements, retrofits, or
+20 investments:
+21 (XI) Installing equipment used for collection of biomethane, AND,
+22 FOR INCOME TAX YEARS COMMENCING ON AND AFTER JANUARY 1, 2027,
+23 INSTALLING EQUIPMENT USED FOR UTILIZATION OF BIOMETHANE;
+24 (j) "Owner" means a person or developer of a project to be
+25 implemented at a qualified industrial facility subject to tax under this
+26 article 22 who applies for and claims the credit allowed by this section.
+27 FOR INCOME TAX YEARS COMMENCING ON AND AFTER JANUARY 1, 2027,
+-37- 1289
+
+1 "OWNER" ALSO INCLUDES A PERSON OR POLITICAL SUBDIVISION OF THE
+2 STATE THAT IS A DEVELOPER OF A PROJECT TO BE IMPLEMENTED AT A
+3 QUALIFIED INDUSTRIAL FACILITY AND THAT IS EXEMPT FROM TAXATION
+4 UNDER SECTION 39-22-112 (1).
+5 (6) Merit-based review and reservation of credits.
+6 (a) (I) For each application period, the office shall conduct a
+7 merit-based evaluation of the applications that have been placed in the
+8 evaluation pool pursuant to subsection (5)(c)(II)(B) of this section.
+9 BEFORE TAX YEARS BEGINNING JANUARY 1, 2027, the office shall
+10 complete its review, and award reservations, within ninety days after the
+11 end of the application period. FOR INCOME TAX YEARS COMMENCING ON
+12 OR AFTER JANUARY 1, 2027, THE OFFICE SHALL COMPLETE ITS REVIEW,
+13 AND AWARD RESERVATIONS, WITHIN ONE HUNDRED TWENTY DAYS AFTER
+14 THE END OF THE APPLICATION PERIOD.
+15
+16 (8) Limit on aggregate amount of tax credits available to be
+17 reserved.
+18 (d) NOTWITHSTANDING THE PROVISIONS OF SUBSECTION (8)(a) OF
+19 THIS SECTION, FOR ANY SEMI-ANNUAL APPLICATION PERIOD COMMENCING
+20 ON OR AFTER JULY 1, 2026, THE OFFICE MAY ADJUST THE LIMITS IN
+21 SUBSECTION (8)(a) OF THIS SECTION AS SET FORTH IN SECTION 39-22-522
+22 (4)(f).
+23 SECTION 12. In Colorado Revised Statutes, 39-22-552, amend
+24 (4)(c)(I)(B) and (4)(e); and add (4)(f) as follows:
+25 39-22-552. Tax credit for expenditures made in connection
+26 with a geothermal energy project - tax preference performance
+27 statement - legislative declaration - definitions - repeal.
+-38- 1289
+
+1 (4) (c) (I) (B) Based upon the totality of the factors set forth in
+2 subsection (4)(d) of this section and based on considerations required for
+3 geothermal energy projects as set forth in subsection (5) of this section,
+4 which the office may weigh equally or differently, the office shall
+5 determine an applicable amount of credit that may be reserved for the
+6 benefit of the eligible taxpayer which may be all, part, or none of the
+7 credit amount requested in the eligible taxpayer's application; except that
+8 the office shall not reserve an amount in excess of the limitations set forth
+9 in subsection (3)(b) of this section, and, EXCEPT AS PROVIDED IN
+10 SUBSECTION (4)(f) OF THIS SECTION, the aggregate amount of credits
+11 reserved for all owners must not exceed thirty-five million dollars for all
+12 taxpayers in all years the credit is allowed.
+13 (e) (I) The reservation of tax credits does not entitle an eligible
+14 taxpayer to an issuance of any credits until the eligible taxpayer provides
+15 the office with any documentation required by the office and a cost
+16 certification of the expenditure made in connection with an approved
+17 geothermal energy project during the tax year in which the reservation is
+18 approved. The cost certification must be audited by a licensed public
+19 accountant that is not affiliated with the eligible taxpayer. The office shall
+20 review the cost certification to verify that it satisfies the information
+21 provided in the eligible taxpayer's application. If the office determines
+22 that the eligible taxpayer made a qualified expenditure, the office shall
+23 issue a tax credit certificate in the applicable amount.
+24 (II) IF THE APPLICABLE AMOUNT OF QUALIFIED EXPENDITURES
+25 MADE BY THE ELIGIBLE TAXPAYER IS LESS THAN THE AMOUNT RESERVED
+26 PURSUANT TO SUBSECTION (4)(c) OF THIS SECTION, THE OFFICE MAY
+27 RESERVE THE EXCESS CREDIT FOR THE BENEFIT OF THE ELIGIBLE TAXPAYER
+-39- 1289
+
+1 FOR A FUTURE TAX YEAR OR RESERVE THE EXCESS FOR THE BENEFIT OF
+2 ANOTHER APPLICANT AS SET FORTH IN SUBSECTION (4)(c) OF THIS
+3 SECTION; EXCEPT THAT THE OFFICE SHALL NOT RESERVE CREDITS FOR ANY
+4 TAX YEAR BEGINNING ON OR AFTER JANUARY 1, 2033.
+5 (f) (I) BEGINNING JULY 1, 2026, THE OFFICE MAY INCREASE THE
+6 LIMIT ON THE AGGREGATE AMOUNT OF CREDITS RESERVED FOR ALL
+7 OWNERS SET FORTH IN SUBSECTION (4)(c)(I)(B) OF THIS SECTION TO THE
+8 EXTENT OF THE EXCESS OF THE AGGREGATE AMOUNT OF CREDIT
+9 AVAILABLE PURSUANT TO SECTION 39-22-551 (8)(b) OVER THE AMOUNT
+10 OF CREDITS RESERVED OR AWARDED BY THE OFFICE PURSUANT TO SECTION
+11 39-22-551 (6)(a) OR (7)(c), RESPECTIVELY. THE OFFICE SHALL DECREASE
+12 ACCORDINGLY THE AGGREGATE AMOUNT OF CREDIT AVAILABLE PURSUANT
+13 TO SECTION 39-22-551 (8)(b).
+14 (II) BEGINNING JULY 1, 2026, THE OFFICE MAY INCREASE THE
+15 AGGREGATE AMOUNT OF CREDIT AVAILABLE PURSUANT TO SECTION
+16 39-22-551 (8)(b) BY ANY AMOUNT NOT RESERVED OR ALLOWED PURSUANT
+17 TO SUBSECTION (4) OF THIS SECTION. THE OFFICE SHALL DECREASE
+18 ACCORDINGLY THE LIMIT ON THE AGGREGATE AMOUNT OF CREDITS
+19 RESERVED FOR ALL OWNERS SET FORTH IN SUBSECTION (4)(c)(I)(B) OF
+20 THIS SECTION.
+21 SECTION 13. In Colorado Revised Statutes, 39-22-554, amend
+22 (3)(f) as follows:
+23 39-22-554. Heat pump technology and thermal energy
+24 network tax credit - tax preference performance statement -
+25 legislative declaration - definitions - repeal.
+26 (3) (f) (I) If the June 2025 revenue forecast, and each June
+27 revenue forecast through the June 2031 revenue forecast as prepared by
+-40- 1289
+
+1 either legislative council staff or the office of state planning and
+2 budgeting, projects that state revenues, as defined in section 24-77-103.6
+3 (6)(c), will not increase by at least four percent for the next fiscal year,
+4 the amount of the credit allowed pursuant to subsection (3)(c)(I)(B),
+5 (3)(c)(I)(C), (3)(c)(II)(B), (3)(c)(II)(C), or (3)(c)(III)(B) of this section,
+6 as may be modified by subsections (3)(d) and (3)(e) of this section, for
+7 any tax year commencing in the calendar year that begins during said next
+8 fiscal year is reduced by fifty percent if the heat pump technology is
+9 installed at an existing residential or nonresidential building; except that
+10 if the amount of the reduced credit is equal to or less than two hundred
+11 fifty dollars, then no credit is available for such a THAT INCOME tax year.
+12 (II) THIS SUBSECTION (3)(f) IS REPEALED, EFFECTIVE DECEMBER
+13 31, 2031.
+14 SECTION 14. In Colorado Revised Statutes, 39-22-555, amend
+15 (2)(g)(III), (2)(g)(IV), (3)(e)(III), and (6); and add (2)(g)(V), (3)(e)(IV),
+16 and (4)(c) as follows:
+17 39-22-555. Electric bicycle tax credit - tax preference
+18 performance statement - legislative declaration - definitions - repeal.
+19 (2) Definitions. As used in this section, unless the context
+20 otherwise requires:
+21 (g) "Qualified retailer" means a retailer that sells qualified electric
+22 bicycles and:
+23 (III) Has paid the taxes due on the monthly sales tax return; and
+24 (IV) Has registered with the department pursuant to subsection
+25 (3)(e)(III) of this section; AND
+26 (V) HAS NOT BEEN DISQUALIFIED BY THE DEPARTMENT PURSUANT
+27 TO SUBSECTION (4)(c) OF THIS SECTION.
+-41- 1289
+
+1 (3) (e) (III) Prior to selling a qualified electric bicycle for which
+2 a retailer intends to claim a credit pursuant to this section, the retailer
+3 shall:
+4 (A) Register as a qualified retailer by filing with the department
+5 a registration statement in the form and manner prescribed by the
+6 department AND RECEIVE APPROVAL OF THEIR REGISTRATION FROM THE
+7 DEPARTMENT; AND
+8 (B) PROVIDE THE OFFICE DETAILED INFORMATION AS THE OFFICE
+9 MAY REQUIRE REGARDING EACH MODEL OF QUALIFIED ELECTRIC BICYCLE
+10 THE RETAILER INTENDS TO SELL FOR THE CREDIT ALLOWED BY THIS
+11 SECTION. THE OFFICE MAY REQUIRE A QUALIFIED RETAILER TO
+12 PERIODICALLY UPDATE THE INFORMATION REQUIRED BY THIS SUBSECTION
+13 (3)(e)(III)(B).
+14 (IV) A QUALIFIED RETAILER MAY AUTHORIZE THE OFFICE TO
+15 PUBLICIZE THE QUALIFIED RETAILER'S INTENTION TO SELL QUALIFIED
+16 ELECTRIC BICYCLES PURSUANT TO THIS SECTION ON THE OFFICE'S WEBSITE.
+17 (4) (c) (I) AFTER THE NOTICE AND HEARING HELD IN ACCORDANCE
+18 WITH SECTIONS 24-4-104 AND 24-4-105, THE DEPARTMENT MAY
+19 DISQUALIFY A QUALIFIED RETAILER IF THE DEPARTMENT DETERMINES:
+20 (A) THE QUALIFIED RETAILER REQUESTED ADVANCE PAYMENT OR
+21 CLAIMED A CREDIT WITH RESPECT TO A TRANSACTION THAT DOES NOT
+22 QUALIFY FOR THE CREDIT ALLOWED BY THIS SECTION;
+23 (B) THE QUALIFIED RETAILER PROVIDED FALSE OR MISLEADING
+24 INFORMATION TO THE DEPARTMENT OR THE OFFICE;
+25 (C) THE QUALIFIED RETAILER FAILED TO COMPLY WITH THE
+26 REQUIREMENTS SET FORTH IN SUBSECTION (3)(e)(III)(B) OF THIS SECTION;
+27 OR
+-42- 1289
+
+1 (D) THE QUALIFIED RETAILER NO LONGER HOLDS A SALES TAX
+2 LICENSE.
+3 (II) THE DEPARTMENT MAY CONSULT WITH THE OFFICE FOR THE
+4 PURPOSE OF MAKING A DETERMINATION PURSUANT TO THIS SUBSECTION
+5 (4)(c).
+6 (III) A RETAILER THAT HAS BEEN DISQUALIFIED PURSUANT TO THIS
+7 SUBSECTION (4)(c) MAY NOT REAPPLY TO BE A QUALIFIED RETAILER. THE
+8 DEPARTMENT SHALL NOT APPROVE A REGISTRATION SUBMITTED BY A
+9 DISQUALIFIED RETAILER.
+10 (IV) UPON NOTIFICATION BY THE DEPARTMENT OF A RETAILER'S
+11 DISQUALIFICATION, THE OFFICE SHALL REMOVE THE DISQUALIFIED
+12 RETAILER FROM THE LIST PUBLISHED PURSUANT TO SUBSECTION (3)(e)(IV)
+13 OF THIS SECTION.
+14 (6) (a) If the June 2025 revenue forecast, and each June revenue
+15 forecast through the June 2031 revenue forecast as prepared by either
+16 legislative council staff or the office of state planning and budgeting,
+17 projects that state revenues, as defined in section 24-77-103.6 (6)(c), will
+18 not increase by at least four percent for the next fiscal year, the amount
+19 of the credit allowed pursuant to this section, the discount required
+20 pursuant to subsection (3)(b) of this section, and the administrative fee
+21 allowed pursuant to subsection (3)(d) of this section for any tax year
+22 commencing in the calendar year that begins during said next fiscal year,
+23 is reduced by fifty percent.
+24 (b) THIS SUBSECTION (6) IS REPEALED, EFFECTIVE DECEMBER 31,
+25 2031.
+26 SECTION 15. In Colorado Revised Statutes, 39-21-113, add (40)
+27 as follows:
+-43- 1289
+
+1 39-21-113. Reports and returns - rule - repeal.
+2 (40) NOTWITHSTANDING THE PROVISIONS OF THIS SECTION, THE
+3 EXECUTIVE DIRECTOR MAY PROVIDE TO THE COLORADO ENERGY OFFICE
+4 DETAILED TAXPAYER INFORMATION PERTINENT TO A CLAIM FOR AN
+5 INCOME TAX CREDIT FOR THE RETAIL SALE OF A QUALIFIED ELECTRIC
+6 BICYCLE PURSUANT TO SECTION 39-22-555. ANY INFORMATION PROVIDED
+7 PURSUANT TO THIS SUBSECTION (40) MUST REMAIN CONFIDENTIAL, AND
+8 ALL PERSONS WHO RECEIVE THIS INFORMATION ARE SUBJECT TO THE
+9 LIMITATIONS SPECIFIED IN SUBSECTION (4) OF THIS SECTION AND THE
+10 PENALTIES SPECIFIED IN SUBSECTION (6) OF THIS SECTION.
+11 SECTION 16. In Colorado Revised Statutes, 39-22-556, amend
+12 (3)(a), (4)(b), (7), and (9) as follows:
+13 39-22-556. Tax credit for sustainable aviation fuel production
+14 facility - tax preference performance statement - legislative
+15 declaration - definitions - repeal.
+16 (3) (a) For tax years commencing on or after January 1, 2024, but
+17 before January 1, 2033 JANUARY 1, 2027, a qualified taxpayer is allowed
+18 a credit against the income tax imposed under this article 22 for an
+19 amount of the actual cost paid to construct, reconstruct, or erect a
+20 sustainable aviation fuel production facility in the state equal to:
+21 (I) Thirty percent for a facility for which construction begins on
+22 or after January 1, 2024, but before January 1, 2027;
+23 (II) Twenty-four percent for a facility for which construction
+24 begins on or after January 1, 2027, but before January 1, 2028;
+25 (III) Eighteen percent for a facility for which construction begins
+26 on or after January 1, 2028, but before January 1, 2029; and
+27 (IV) Twelve percent for a facility for which construction begins
+-44- 1289
+
+1 on or after January 1, 2029, but before January 1, 2033.
+2 (4) (b) The aggregate amount of all tax credit certificates issued
+3 by the office pursuant to this subsection (4) must not exceed one million
+4 dollars for the 2024 income tax year, two million dollars per year for the
+5 2025 and 2026 income tax years, and three million dollars per year for
+6 income tax years 2027 through 2032 YEAR.
+7 (7) Notwithstanding the requirement in section 24-1-136
+8 (11)(a)(I), for the purpose of providing data that allows the general
+9 assembly and the state auditor to measure the effectiveness of the credit
+10 created in subsection (3) of this section pursuant to section 39-21-304 (3),
+11 the office on or before January 1, 2026, and on or before January 1 of
+12 each year thereafter until January 1, 2034 JANUARY 1, 2027, shall submit
+13 to the general assembly and the state auditor a report detailing the
+14 construction, reconstruction, and erection of sustainable aviation fuel
+15 production facilities as reported by qualified taxpayers claiming the credit
+16 in this section. The tax credit meets its purpose if the construction,
+17 reconstruction, and erection of sustainable aviation fuel production
+18 facilities in the state increase significantly in tax years for which the
+19 credit is allowed.
+20 (9) This section is repealed, effective December 31, 2038
+21 DECEMBER 31, 2033.
+22 SECTION 17. In Colorado Revised Statutes, add 39-22-556.5 as
+23 follows:
+24 39-22-556.5. Tax credit for the purchase of sustainable
+25 aviation fuel - tax preference performance statement - legislative
+26 declaration - definitions - repeal.
+27 (1) (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+-45- 1289
+
+1 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+2 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+3 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY FINDS AND
+4 DECLARES THAT THE PURPOSE OF THIS TAX EXPENDITURE IS TO INDUCE
+5 CERTAIN DESIGNATED BEHAVIOR BY TAXPAYERS, SPECIFICALLY THE
+6 PURCHASE OF SUSTAINABLE AVIATION FUEL FOR USE IN THE STATE, BY
+7 PROVIDING TAX RELIEF FOR CERTAIN BUSINESSES AND INDIVIDUALS THAT
+8 PURCHASE SUSTAINABLE AVIATION FUEL FOR USE IN THE STATE.
+9 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR SHALL
+10 MEASURE THE EFFECTIVENESS OF THE CREDIT IN ACHIEVING THE PURPOSES
+11 SPECIFIED IN SUBSECTION (1)(a) OF THIS SECTION BASED ON THE
+12 INFORMATION REQUIRED BY AND REPORTED TO THE OFFICE PURSUANT TO
+13 SUBSECTION (5) OF THIS SECTION.
+14 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+15 REQUIRES:
+16 (a) "CARBON INTENSITY" MEANS THE AMOUNT OF GREENHOUSE
+17 GASES GENERATED PER GALLON OF SUSTAINABLE AVIATION FUEL
+18 PRODUCED.
+19 (b) "COLORADO ENERGY OFFICE" OR "OFFICE" MEANS THE
+20 COLORADO ENERGY OFFICE CREATED IN SECTION 24-38.5-101.
+21 (c) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+22 (d) "QUALIFIED TAXPAYER" MEANS A PERSON WHO PURCHASES
+23 SUSTAINABLE AVIATION FUEL FOR UPLIFT AND USE IN THE STATE IF THAT
+24 PERSON IS SUBJECT TO TAX PURSUANT TO THIS ARTICLE 22 OR IS A PERSON
+25 OR POLITICAL SUBDIVISION OF THE STATE THAT IS EXEMPT FROM TAXATION
+26 PURSUANT TO SECTION 39-22-112 (1); EXCEPT THAT "QUALIFIED
+27 PURCHASER" DOES NOT INCLUDE A SUSTAINABLE AVIATION FUEL
+-46- 1289
+
+1 PRODUCER OR BLENDER.
+2 (e) "SUSTAINABLE AVIATION FUEL" HAS THE SAME MEANING AS
+3 SET FORTH IN SECTION 40B (d) OF THE INTERNAL REVENUE CODE.
+4 (3) (a) (I) FOR TAX YEARS COMMENCING ON OR AFTER JANUARY 1,
+5 2027, BUT BEFORE JANUARY 1, 2033, A QUALIFIED TAXPAYER IS ALLOWED
+6 A CREDIT AGAINST THE INCOME TAX IMPOSED UNDER THIS ARTICLE 22 IN
+7 AN AMOUNT NOT LESS THAN ONE DOLLAR AND FIFTY CENTS, INCREASED BY
+8 ONE CENT FOR EACH WHOLE PERCENTAGE OF CARBON INTENSITY
+9 REDUCTION IN EXCESS OF FIFTY PERCENT, FOR EACH GALLON OF
+10 SUSTAINABLE AVIATION FUEL THAT THE QUALIFIED TAXPAYER PURCHASED
+11 FOR USE IN THE STATE DURING THE INCOME TAX YEAR, EXCEPT AS
+12 OTHERWISE PROVIDED IN SUBSECTION (3)(b) OF THIS SECTION.
+13 (II) FOR TAX YEARS BEGINNING ON OR AFTER JANUARY 1, 2028,
+14 THE OFFICE MAY ALLOW AN ADDITIONAL CREDIT OF FIFTY CENTS FOR EACH
+15 GALLON OF SUSTAINABLE AVIATION FUEL PRODUCED IN THE STATE THAT
+16 THE QUALIFIED TAXPAYER PURCHASED FOR USE IN THE STATE DURING THE
+17 INCOME TAX YEAR, EXCEPT AS OTHERWISE PROVIDED IN SUBSECTION
+18 (3)(b) OF THIS SECTION.
+19 (b) THE OFFICE SHALL ANNUALLY REVIEW AND EVALUATE THE
+20 EFFECTIVENESS OF THE TAX CREDIT ALLOWED PURSUANT TO THIS SECTION
+21 AND MAY, NOTWITHSTANDING SUBSECTION (3)(a) OF THIS SECTION, FOR
+22 THE SUBSEQUENT TAX YEAR, MODIFY THE AMOUNT PER GALLON,
+23 INCLUDING THE INCREASE AS A RESULT OF CARBON INTENSITY REDUCTION,
+24 THAT A QUALIFIED TAXPAYER IS ALLOWED AS A CREDIT AGAINST THE
+25 INCOME TAX IMPOSED UNDER THIS ARTICLE 22 PURSUANT TO THIS
+26 SECTION. THE OFFICE SHALL POST THE MODIFIED AMOUNT ON ITS WEBSITE.
+27 (c) FOR PURPOSES OF THIS SECTION, SUSTAINABLE AVIATION FUEL
+-47- 1289
+
+1 IS DEEMED TO BE PURCHASED FOR USE IN THE STATE IF IT IS DELIVERED TO
+2 AND USED FOR FUELING AIRCRAFT AT A COLORADO AIRPORT, AIRFIELD, OR
+3 AIRPARK NOTWITHSTANDING THE SUBSEQUENT OPERATION OF SUCH
+4 AIRCRAFT OUTSIDE THE STATE. EXCEPT AS PROVIDED IN THIS SUBSECTION
+5 (3)(c), FUEL LOADED INTO A CARGO TANK OR OTHERWISE EXPORTED FROM
+6 THE STATE IS NOT DEEMED TO BE PURCHASED FOR USE IN THE STATE.
+7 (d) IF A CREDIT IS ALLOWED PURSUANT TO THIS SECTION TO A
+8 QUALIFIED PURCHASER THAT IS AN AIRPORT, AIRFIELD, OR AIRPARK, NO
+9 ADDITIONAL CREDIT IS ALLOWED TO A QUALIFIED PURCHASER THAT
+10 PURCHASES THE SUSTAINABLE AVIATION FUEL, DIRECTLY OR INDIRECTLY,
+11 FROM THE QUALIFIED PURCHASER TO WHICH THE CREDIT WAS ALLOWED.
+12 THE QUALIFIED PURCHASER FOR WHICH A CREDIT WAS RESERVED SHALL
+13 DISCLOSE TO ANY PURCHASER THAT IT HAS RESERVED A CREDIT WITH
+14 RESPECT TO THE SUSTAINABLE AVIATION FUEL SOLD.
+15 (4) (a) PRIOR TO PURCHASING SUSTAINABLE AVIATION FUEL FOR
+16 USE IN THE STATE, A QUALIFIED TAXPAYER SHALL SUBMIT AN APPLICATION
+17 TO THE OFFICE FOR A TAX CREDIT CERTIFICATE TO RESERVE THE CREDIT
+18 ALLOWED BY THIS SECTION ON A FORM AND IN A MANNER PRESCRIBED BY
+19 THE OFFICE. THE APPLICATION MUST INCLUDE INFORMATION TO ALLOW
+20 THE OFFICE TO MAKE A DETERMINATION THAT THE APPLICANT IS A
+21 QUALIFIED TAXPAYER, DOCUMENTATION REGARDING THE CARBON
+22 INTENSITY OF THE SUSTAINABLE AVIATION FUEL THAT WILL BE
+23 PURCHASED, AND AN ESTIMATE OF THE AMOUNT OF SUSTAINABLE
+24 AVIATION FUEL THE QUALIFIED TAXPAYER PLANS TO PURCHASE FOR USE
+25 IN THE STATE DURING THE INCOME TAX YEAR.
+26 (b) AFTER REVIEWING THE APPLICATION, THE OFFICE SHALL
+27 DETERMINE WHETHER THE APPLICANT QUALIFIES FOR THE CREDIT AND THE
+-48- 1289
+
+1 AMOUNT OF CREDIT TO BE RESERVED FOR THE BENEFIT OF THE QUALIFIED
+2 TAXPAYER, WHICH MAY BE ALL, PART, OR NONE OF THE AMOUNT
+3 REQUESTED IN THE APPLICATION. THE OFFICE SHALL NOTIFY THE
+4 APPLICANT IN WRITING OF ITS DECISION AND THE AMOUNT RESERVED, IF
+5 ANY. THE AGGREGATE AMOUNT OF CREDIT THE OFFICE MAY RESERVE
+6 PURSUANT TO THIS SUBSECTION (4) MUST NOT EXCEED THREE MILLION
+7 DOLLARS PER CALENDAR YEAR. IN THE CASE OF A QUALIFIED TAXPAYER
+8 WITH AN INCOME TAX YEAR OTHER THAN A CALENDAR YEAR, CREDIT
+9 RESERVED PURSUANT TO THIS SUBSECTION (4) MAY BE CLAIMED FOR THE
+10 TAX YEAR THAT BEGINS DURING THE CALENDAR YEAR.
+11 (c) FOLLOWING THE CLOSE OF THE TAX YEAR, IN ACCORDANCE
+12 WITH THE STANDARDS DEVELOPED BY THE OFFICE PURSUANT TO
+13 SUBSECTION (4)(e) OF THIS SECTION, THE QUALIFIED TAXPAYER SHALL
+14 SUBMIT DOCUMENTATION SUBSTANTIATING THE QUALIFIED TAXPAYER'S
+15 PURCHASES OF SUSTAINABLE AVIATION FUEL FOR USE IN THE STATE
+16 DURING THE TAX YEAR. UPON A DETERMINATION BY THE OFFICE THAT THE
+17 PURCHASES QUALIFY FOR THE CREDIT ALLOWED BY THIS SECTION, THE
+18 OFFICE SHALL ISSUE THE TAXPAYER A TAX CREDIT CERTIFICATE FOR THE
+19 LESSER OF THE CREDIT ALLOWED PURSUANT TO SUBSECTION (3)(a) OF THIS
+20 SECTION WITH RESPECT TO THE AMOUNT OF SUSTAINABLE AVIATION FUEL
+21 ACTUALLY PURCHASED FOR USE IN THE STATE OR THE AMOUNT OF CREDIT
+22 RESERVED FOR THE BENEFIT OF THE QUALIFIED TAXPAYER PURSUANT TO
+23 THIS SUBSECTION (4).
+24 (d) THE OFFICE SHALL, IN A SUFFICIENTLY TIMELY MANNER TO
+25 ALLOW THE DEPARTMENT TO PROCESS RETURNS CLAIMING THE INCOME
+26 TAX CREDIT ALLOWED IN THIS SECTION, PROVIDE THE DEPARTMENT WITH
+27 AN ELECTRONIC REPORT OF EACH QUALIFIED TAXPAYER THAT THE OFFICE
+-49- 1289
+
+1 APPROVED FOR THE INCOME TAX CREDIT ALLOWED IN THIS SECTION FOR
+2 THE PRECEDING CALENDAR YEAR THAT INCLUDES THE FOLLOWING
+3 INFORMATION:
+4 (I) THE TAXPAYER'S NAME;
+5 (II) THE TAXPAYER'S SOCIAL SECURITY NUMBER OR THE
+6 TAXPAYER'S COLORADO ACCOUNT NUMBER AND FEDERAL EMPLOYER
+7 IDENTIFICATION NUMBER; AND
+8 (III) THE AMOUNT OF THE TAX CREDIT CERTIFICATE.
+9 (e) THE OFFICE SHALL DEVELOP STANDARDS FOR THE APPROVAL
+10 OF QUALIFIED TAXPAYERS FOR WHOM A TAX CREDIT UNDER THIS SECTION
+11 IS ALLOWED AND THE AWARDING OF TAX CREDIT CERTIFICATES PURSUANT
+12 TO THIS SUBSECTION (4) AND SHALL POST THOSE STANDARDS ON ITS
+13 WEBSITE.
+14 (5) NOTWITHSTANDING THE REQUIREMENT IN SECTION 24-1-136
+15 (11)(a)(I), FOR THE PURPOSE OF PROVIDING DATA THAT ALLOWS THE
+16 GENERAL ASSEMBLY AND THE STATE AUDITOR TO MEASURE THE
+17 EFFECTIVENESS OF THE CREDIT CREATED IN SUBSECTION (3) OF THIS
+18 SECTION PURSUANT TO SECTION 39-21-304 (3), THE OFFICE, ON OR BEFORE
+19 JANUARY 1, 2028, AND ON OR BEFORE JANUARY 1 OF EACH YEAR
+20 THEREAFTER UNTIL JANUARY 1, 2034, SHALL SUBMIT TO THE GENERAL
+21 ASSEMBLY AND THE STATE AUDITOR A REPORT DETAILING THE PURCHASE
+22 OF SUSTAINABLE AVIATION FUEL BY TAXPAYERS CLAIMING THE CREDIT IN
+23 THIS SECTION. THE TAX CREDIT MEETS ITS PURPOSE IF THE PURCHASE OF
+24 SUSTAINABLE AVIATION FUEL IN THE STATE INCREASES SIGNIFICANTLY
+25 IN TAX YEARS FOR WHICH THE CREDIT IS ALLOWED.
+26 (6) IF THE CREDIT AUTHORIZED BY THIS SECTION EXCEEDS THE
+27 INCOME TAX DUE ON THE INCOME OF THE QUALIFIED TAXPAYER FOR THE
+-50- 1289
+
+1 TAXABLE YEAR, THE EXCESS CREDIT MAY NOT BE CARRIED FORWARD AND
+2 MUST BE REFUNDED TO THE QUALIFIED TAXPAYER.
+3 (7) THIS SECTION IS REPEALED, EFFECTIVE DECEMBER 31, 2038.
+4 SECTION 18. In Colorado Revised Statutes, 39-22-629, amend
+5 (1)(a) as follows:
+6 39-22-629. Advance payments of income tax credits -
+7 definitions.
+8 (1) As used in this section, unless the context otherwise requires:
+9 (a) "Applicable credit" means:
+10 (I) FOR INCOME TAX YEARS COMMENCING BEFORE JANUARY 1,
+11 2027, the credits allowed in sections 39-22-516.7, 39-22-516.8, and
+12 39-22-555; AND
+13 (II) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+14 1, 2027, THE CREDITS ALLOWED IN SECTIONS 39-22-516.7, 39-22-516.8,
+15 39-22-550, AND 39-22-555.
+16
+17 SECTION 19. In Colorado Revised Statutes, 39-26-710, amend
+18 (1)(a) and (2); and add (2.5) as follows:
+19 39-26-710. Railroads - construction and building materials -
+20 tangible personal property - work equipment - rolling stock - tax
+21 preference performance statement - legislative declaration.
+22 (1) The following shall be exempt from taxation under the
+23 provisions of part 1 of this article:
+24 (a) The sale of construction and building materials to a common
+25 carrier by rail operating in interstate or foreign commerce for use by the
+26 common carrier in construction and maintenance of its railroad tracks;
+27 however, any actual use of such construction and building materials shall,
+-51- 1289
+
+1 at the time of the actual use, be subject to the tax imposed by part 2 of this
+2 article ARTICLE 26 and any use tax imposed pursuant to article 2 of title
+3 29, C.R.S. EXCEPT AS PROVIDED IN SUBSECTION (2)(c) OF THIS
+4 SECTION;
+5 (2) The following shall be exempt from taxation under the
+6 provisions of part 2 of this article ARTICLE 26:
+7 (a) The storage, use, or consumption of any tangible personal
+8 property that is to be affixed or attached as a component part of a
+9 locomotive, a freight car, railroad work equipment, or other railroad
+10 rolling stock; and
+11 (b) The storage, use, or consumption of locomotives, freight cars,
+12 railroad work equipment, and other railroad rolling stock used or
+13 purchased for use in interstate commerce by a railroad company; AND
+14 (c) FOR TAX PERIODS BEGINNING ON OR AFTER JULY 1, 2027, THE
+15 STORAGE, USE, OR CONSUMPTION OF CONSTRUCTION AND BUILDING
+16 MATERIALS BY OR ON BEHALF OF A COMMON CARRIER BY RAIL OPERATING
+17 IN INTERSTATE OR FOREIGN COMMERCE WHEN THE STORAGE, USE, OR
+18 CONSUMPTION OF THE CONSTRUCTION AND BUILDING MATERIALS IS
+19 PURSUANT TO A CONTRACT WITH THE STATE, A DEPARTMENT OR
+20 INSTITUTION OF THE STATE, A POLITICAL SUBDIVISION OF THE STATE, OR
+21 A SPECIAL DISTRICT THAT ALLOWS THE STATE, A DEPARTMENT OR
+22 INSTITUTION OF THE STATE, A POLITICAL SUBDIVISION OF THE STATE, OR
+23 A SPECIAL DISTRICT TO USE THE RAILROAD'S PROPERTY OR TRACKS FOR
+24 THE PROVISION OF PUBLIC PASSENGER RAIL SERVICE. THE DEPARTMENT OF
+25 TRANSPORTATION SHALL NOTIFY THE DEPARTMENT OF REVENUE OF THE
+26 IDENTITY OF ANY COMMON CARRIER ELIGIBLE FOR THE EXEMPTION
+27 ALLOWED BY THIS SUBSECTION (2)(c).
+-52- 1289
+
+1
+2 SECTION 20. In Colorado Revised Statutes, 39-26-723, amend
+3 (1) and (3); and add (2.5) as follows:
+4 39-26-723. Colorado wood products - repeal - tax preference
+5 performance statement - legislative declaration.
+6 (1) For STATE fiscal years commencing on or after July 1, 2008,
+7 but prior to the STATE fiscal year commencing on July 1, 2020, and for
+8 STATE fiscal years commencing on or after July 1, 2021, but prior to the
+9 fiscal year commencing on July 1, 2026, CALENDAR YEAR COMMENCING
+10 ON JANUARY 1, 2031, all sales, storage, and use of wood from salvaged
+11 trees killed or infested in Colorado by mountain pine beetles or spruce
+12 beetles, including but not limited to products such as lumber, furniture
+13 built from the salvaged trees, and wood chips or wood pellets generated
+14 from the salvaged trees, are exempt from taxation under the provisions of
+15 parts 1 and 2 of this article 26.
+16 (2.5) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+17 REQUIRES ANY BILL THAT EXTENDS AN EXPIRING TAX EXPENDITURE TO
+18 INCLUDE A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A
+19 STATUTORY LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY FINDS
+20 AND DECLARES THAT THE PURPOSE OF THE TAX CREDIT PROVIDED IN
+21 SUBSECTION (1)(a) OF THIS SECTION IS TO INDUCE CERTAIN DESIGNATED
+22 BEHAVIOR BY TAXPAYERS BY CONTINUING TO ENCOURAGE THE SALE,
+23 STORAGE, AND USE OF WOOD FROM SALVAGED TREES KILLED OR INFESTED
+24 IN COLORADO BY MOUNTAIN PINE BEETLES OR SPRUCE BEETLES. THE
+25 GENERAL ASSEMBLY AND THE STATE AUDITOR SHALL MEASURE THE
+26 EFFECTIVENESS OF THE CREDIT IN ACHIEVING THIS PURPOSE BASED ON THE
+27 VALUE OF EXEMPT SALES.
+-53- 1289
+
+1 (3) This section is repealed, effective July 1, 2027 JULY 1, 2034.
+2 SECTION 21. In Colorado Revised Statutes, 39-26-728, amend
+3 (1) as follows:
+4 39-26-728. Property for use in space flight - definitions -
+5 repeal.
+6 (1) (a) For the state fiscal years commencing on or after July 1,
+7 2014, EXCEPT AS OTHERWISE PROVIDED IN SUBSECTION (1)(b) OF THIS
+8 SECTION, all sales, storage, and use of qualified property, ON OR AFTER
+9 JULY 1, 2024, BUT BEFORE JANUARY 1, 2027, for use in space flight is
+10 exempt from taxation under parts 1 and 2 of this article ARTICLE 26.
+11 (b) ON OR AFTER JANUARY 1, 2030, ALL SALES, STORAGE, AND USE
+12 OF QUALIFIED PROPERTY FOR USE IN SPACE FLIGHT IS EXEMPT FROM
+13 TAXATION UNDER PARTS 1 AND 2 OF THIS ARTICLE 26.
+14 (c) SUBSECTION (1)(a) OF THIS SECTION AND THIS SUBSECTION
+15 (1)(c) ARE REPEALED, EFFECTIVE DECEMBER 31, 2029.
+16 SECTION 22. In Colorado Revised Statutes, 39-27-102, amend
+17 (1)(b)(I) as follows:
+18 39-27-102. Tax imposed on gasoline and special fuel - deposits
+19 - penalties.
+20 (1) (b) (I) In the case of gasoline or special fuel removed from a
+21 terminal, the tax is imposed upon the person first receiving the gasoline
+22 or special fuel at the terminal even if such person is also the supplier. In
+23 the case of gasoline or special fuel removed from a terminal by a common
+24 carrier, the consignor who owns the gasoline or special fuel removed by
+25 the common carrier is deemed to be the remover and first recipient
+26 thereof. The amount of gasoline or special fuel removed is deemed to be
+27 the amount shipped from the terminal, measured in gallons, as shown by
+-54- 1289
+
+1 the terminal manifest; except that, FOR TAX PERIODS BEGINNING BEFORE
+2 JANUARY 1, 2027, THE LICENSED DISTRIBUTOR SHALL DEDUCT an
+3 allowance of two percent of the total amount of gasoline or special fuel
+4 acquired during any calendar month, as shown by terminal manifests, is
+5 deducted by the licensed distributor to cover losses in transit and in
+6 unloading the gasoline or special fuel but there is no allowance for
+7 liquefied petroleum gas or removal by bulk transfer, AND, FOR TAX
+8 PERIODS BEGINNING ON OR AFTER JANUARY 1, 2027, THE LICENSED
+9 DISTRIBUTOR SHALL DEDUCT AN ALLOWANCE OF ONE PERCENT OF THE
+10 TOTAL AMOUNT OF GASOLINE OR SPECIAL FUEL ACQUIRED DURING ANY
+11 CALENDAR MONTH, AS SHOWN BY TERMINAL MANIFESTS, TO COVER
+12 LOSSES IN TRANSIT AND IN UNLOADING THE GASOLINE OR SPECIAL FUEL,
+13 BUT THERE IS NO ALLOWANCE FOR LIQUEFIED PETROLEUM GAS OR
+14 REMOVAL BY BULK TRANSFER. The two percent allowance provided under
+15 this subsection (1)(b)(I) is allowed whether the terminal is within or
+16 without this OUTSIDE OF THE state.
+17 SECTION 23. In Colorado Revised Statutes, 39-27-105, amend
+18 (2)(a)(I) and (2)(b) as follows:
+19 39-27-105. Collection of tax on gasoline and special fuel - rules
+20 - repeal.
+21 (2) (a) (I) It is the duty of every distributor of gasoline or special
+22 fuel other than liquefied petroleum gas to compute the amount of tax
+23 payable on all gasoline or special fuel imported, removed from a terminal,
+24 or otherwise acquired during the preceding calendar month at the rate of
+25 tax per gallon imposed thereon in section 39-27-102 (1). and In
+26 computing the amount of tax FOR TAX PERIODS BEGINNING BEFORE
+27 JANUARY 1, 2027, the allowance of two percent provided for in section
+-55- 1289
+
+1 39-27-102 (1)(b)(I)(A) shall SECTION 39-27-102 (1)(b)(I) MUST be taken
+2 into account. IN COMPUTING THE AMOUNT OF TAX FOR TAX PERIODS
+3 BEGINNING ON OR AFTER JANUARY 1, 2027, THE DISTRIBUTOR SHALL TAKE
+4 INTO ACCOUNT THE ALLOWANCE OF ONE PERCENT PROVIDED FOR IN
+5 SECTION 39-27-102 (1)(b)(I).
+6 (b) (I) FOR TAX PERIODS BEGINNING BEFORE JANUARY 1, 2027,
+7 from the amount of tax computed under subsection (2)(a) of this section,
+8 the distributor shall deduct one-half of one percent to cover expenses of
+9 payment of the tax and bad debt losses and shall pay the remaining
+10 balance to the department of revenue and file the statement required by
+11 subsection (1) of this section on or before the twenty-sixth day of each
+12 calendar month. FOR TAX PERIODS BEGINNING BEFORE JANUARY 1, 2027,
+13 if any distributor is delinquent in remitting the tax, except in unusual
+14 circumstances shown to the satisfaction of the executive director of the
+15 department of revenue, the retailer shall not be allowed to deduct any
+16 amount under this subsection (2)(b).
+17 (II) FOR TAX PERIODS BEGINNING ON OR AFTER JANUARY 1, 2027,
+18 THE DISTRIBUTOR SHALL FILE THE STATEMENT REQUIRED BY SUBSECTION
+19 (1) OF THIS SECTION AND SHALL PAY THE AMOUNT OF TAX COMPUTED
+20 UNDER SUBSECTION (2)(a) OF THIS SECTION ON OR BEFORE THE
+21 TWENTY-SIXTH DAY OF EACH CALENDAR MONTH.
+22 (III) SUBSECTION (2)(b)(I) OF THIS SECTION AND THIS SUBSECTION
+23 (2)(b)(III) ARE REPEALED, EFFECTIVE DECEMBER 31, 2029.
+24 SECTION 24. In Colorado Revised Statutes, 39-28-103.3,
+25 amend (4) as follows:
+26 39-28-103.3. Inventory tax - definition.
+27 (4) Every wholesaler and wholesale subcontractor shall file a
+-56- 1289
+
+1 report, on a form created by the department, of the inventory identified in
+2 accordance with subsection (3) of this section and pay the tax imposed
+3 under this section for the inventory. A wholesaler shall separately identify
+4 the number of packages with a Colorado tax stamp and the unaffixed
+5 Colorado tax stamps. The wholesaler or wholesale subcontractor shall
+6 remit the tax payment on or before the tenth day of the month following
+7 the required inventory. FOR TAX PERIODS BEGINNING BEFORE JANUARY 1,
+8 2027, if payment is made on or before the due date, the wholesaler or
+9 wholesale subcontractor may deduct three percent of the tax imposed
+10 under this section, but, if any wholesaler or wholesale subcontractor is
+11 delinquent in remitting such payment, other than in unusual circumstances
+12 shown to the satisfaction of the executive director of the department, the
+13 wholesaler or wholesale subcontractor shall not be allowed to retain any
+14 amounts to cover the expense in collecting and remitting the tax and the
+15 TAX, AND, IN ADDITION, FOR ANY TAX PERIOD, THE penalty imposed under
+16 section 39-28-108 (2) applies.
+17 SECTION 25. In Colorado Revised Statutes, 39-28-104, amend
+18 (1)(a)(I) as follows:
+19 39-28-104. Evidence of payment of tax - credits - redemptions
+20 - repeal.
+21 (1) (a) (I) Payment of the taxes imposed by sections 39-28-103
+22 and 39-28-103.5 and section 21 of article X of the state constitution shall
+23 be evidenced by the affixing of stamps to, or by an imprint or impression
+24 by suitable metering machines approved by the department on, packages
+25 containing cigarettes. The department shall procure stamps of such design
+26 and legend as it deems necessary and suitable for the purpose. Except as
+27 provided in THIS subsection (1), (b) of this section the department shall
+-57- 1289
+
+1 sell such stamps for cash to licensed wholesalers at a discount of four
+2 percent of their face value for sales occurring after July 1, 2005, but
+3 before January 1, 2021, and four-tenths percent of their face value for
+4 sales occurring on and after January 1, 2021, BUT BEFORE JANUARY 1,
+5 2027, if payment is made on or before the tenth day of the month
+6 following the month in which the purchase is made to cover the licensed
+7 wholesaler's expense in the collection and remittance of such tax; but, if
+8 any licensed wholesaler is delinquent in remitting such payment, other
+9 than in unusual circumstances shown to the satisfaction of the executive
+10 director of the department, the licensed wholesaler shall not be allowed
+11 to retain any amounts THAT MAY BE AVAILABLE FOR TAX PERIODS BEFORE
+12 JANUARY 1, 2027, to cover his or her THE WHOLESALER'S expense in
+13 collecting and remitting said tax, and, in addition, FOR ANY TAX PERIOD,
+14 the penalty imposed under section 39-28-108 (2) shall apply. The
+15 department shall keep accurate records of all stamps sold to each
+16 wholesaler. No wholesaler shall sell or transfer any stamps purchased
+17 pursuant to this article 28.
+18 SECTION 26. In Colorado Revised Statutes, 39-28-108, amend
+19 (2)(b) as follows:
+20 39-28-108. Penalty.
+21 (2) (b) If a person fails to pay the tax in the time allowed for the
+22 discount in REQUIRED PURSUANT TO section 39-28-104 (1) or
+23 39-28-103.3, a penalty equal to ten percent thereof plus one-half of one
+24 percent per month from the date when due, not to exceed eighteen percent
+25 in the aggregate, together with interest on such delinquent taxes at the rate
+26 computed under section 39-21-110.5, shall apply.
+27 SECTION 27. In Colorado Revised Statutes, 39-28.5-106,
+-58- 1289
+
+1 amend (2) as follows:
+2 39-28.5-106. Returns and remittance of tax - civil penalty.
+3 (2) Every distributor and remote retail seller shall file a return
+4 with the department by the twentieth day of the month following the
+5 month reported and shall therewith remit the amount of tax due, less three
+6 and one-third percent of any sum so remitted that consists of tax collected
+7 after July 1, 2005, but before January 1, 2021, and less one and six-tenths
+8 percent of any sum so remitted that consists of tax collected on or after
+9 January 1, 2021, BUT BEFORE JANUARY 1, 2027, to cover the distributor's
+10 or remote retail seller's expense in the collection and remittance of said
+11 tax; except that no part of the tax imposed pursuant to section
+12 39-28.5-102.5 and section 21 of article X of the state constitution shall be
+13 subject to the discount provided for in this subsection (2). If any
+14 distributor or remote retail seller is delinquent in remitting said tax, other
+15 than in unusual circumstances shown to the satisfaction of the executive
+16 director of the department, the distributor or remote retail seller shall not
+17 be allowed to retain any amounts ALLOWED FOR TAX PERIODS BEFORE
+18 JANUARY 1, 2027, to cover his or her THE DISTRIBUTOR'S expense in
+19 collecting and remitting said tax, and in addition, FOR ANY TAX PERIOD,
+20 the penalty imposed under section 39-28.5-110 (2)(b) shall apply.
+21 SECTION 28. In Colorado Revised Statutes, 39-28.6-107,
+22 amend (2) as follows:
+23 39-28.6-107. Returns and remittance of tax - civil penalty -
+24 rules.
+25 (2) Every distributor shall file a return with the department by the
+26 twentieth day of the month following the month reported and shall
+27 therewith remit the amount of tax due. less FOR TAX PERIODS BEGINNING
+-59- 1289
+
+1 BEFORE JANUARY 1, 2027, A DISTRIBUTOR IS ENTITLED TO CLAIM A
+2 DISCOUNT OF one and one-tenth percent of any amount remitted to cover
+3 the distributor's expense in the collection and remittance of the tax. For
+4 tax periods beginning before January 1, 2027, If any distributor is
+5 delinquent in remitting the tax, other than in unusual circumstances
+6 shown to the satisfaction of the executive director of the department, the
+7 distributor is not allowed to retain any amounts ALLOWED FOR TAX
+8 PERIODS BEFORE JANUARY 1, 2027, to cover his or her THE DISTRIBUTOR'S
+9 expense in collecting and remitting the tax and, in addition, FOR ANY TAX
+10 PERIOD, the penalty imposed under section 39-28.6-111 (2)(b) applies.
+11 SECTION 29. In Colorado Revised Statutes, 39-30-104, amend
+12 (2)(c)(I) introductory portion and (2.6)(a) introductory portion; and add
+13 (1)(a)(III), (1)(b)(VIII), (4)(c), and (8) as follows:
+14 39-30-104. Credit against tax - investment in certain property
+15 - definitions - repeal - tax preference performance statement -
+16 legislative declaration.
+17 (1) (a) (III) NOTWITHSTANDING SUBSECTION (1)(a)(I) OF THIS
+18 SECTION, FOR CREDITS ALLOWED BEGINNING IN INCOME TAX YEARS
+19 COMMENCING ON OR AFTER JANUARY 1, 2027, A TAXPAYER IS NOT
+20 ALLOWED A CREDIT WITH RESPECT TO A QUALIFIED INVESTMENT IN A
+21 COMMERCIAL TRUCK, TRUCK TRACTOR, TRACTOR, OR SEMITRAILER WITH
+22 A GROSS VEHICLE WEIGHT RATING OF FIFTY-FOUR THOUSAND POUNDS OR
+23 GREATER THAT IS DESIGNATED AS CLASS A PERSONAL PROPERTY AS
+24 SPECIFIED IN SECTION 42-3-106 (2)(a).
+25 (b) (VIII) THIS SUBSECTION (1)(b) IS REPEALED, EFFECTIVE
+26 DECEMBER 31, 2026.
+27 (2) (c) (I) For income tax years commencing on or after January
+-60- 1289
+
+1 1, 2014, except as provided in sections 24-46-104.3 and 24-46-108 and
+2 subsection (2)(c)(II) of this section, the amount OF THE CREDIT SET FORTH
+3 IN SUBSECTION (1) OF THIS SECTION that may be claimed by a taxpayer for
+4 an income tax year and that is not applied or refunded under section
+5 24-46-108 is limited to the lesser of:
+6 (2.6) (a) Except as provided in section 24-46-104.3 and subsection
+7 (2.6)(b) of this section and notwithstanding any other provision in this
+8 section, in each income tax year commencing on or after January 1, 2015,
+9 but before January 1, 2021, AND IN EACH INCOME TAX YEAR COMMENCING
+10 ON OR AFTER JANUARY 1, 2027, a taxpayer who places a new renewable
+11 energy investment in service on or after January 1, 2015, but before
+12 January 1, 2021, OR WHO PLACES A NEW RENEWABLE ENERGY
+13 INVESTMENT IN SERVICE ON OR AFTER JANUARY 1, 2027, that results in a
+14 credit pursuant to subsection (1) of this section may elect to receive a
+15 refund of eighty percent of the amount of such credit as specified in this
+16 subsection (2.6)(a) and forego the remaining twenty percent as a cost of
+17 such election. If eighty percent of the amount of the credit in subsection
+18 (1) of this section is:
+19 (4) (c) IF THE AMOUNT OF THE CREDIT ALLOWED PURSUANT TO
+20 SUBSECTION (1) OF THIS SECTION EXCEEDS THE AMOUNT OF INCOME TAXES
+21 OTHERWISE DUE ON THE INCOME OF THE TAXPAYER IN THE INCOME TAX
+22 YEAR FOR WHICH THE CREDIT IS CLAIMED, THE AMOUNT OF THE CREDIT
+23 NOT USED AS AN OFFSET AGAINST INCOME TAXES IN THE CURRENT INCOME
+24 TAX YEAR MAY BE CARRIED FORWARD AND USED AS A CREDIT AGAINST
+25 INCOME TAX LIABILITY IN SUBSEQUENT YEARS FOR A PERIOD NOT TO
+26 EXCEED FOURTEEN YEARS AND MUST BE APPLIED FIRST TO THE EARLIEST
+27 POSSIBLE INCOME TAX YEAR. ANY CREDIT REMAINING AFTER THAT PERIOD
+-61- 1289
+
+1 IS NOT REFUNDED OR CREDITED TO THE TAXPAYER.
+2 (8) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+3 REQUIRES ANY BILL THAT EXTENDS AN EXPIRING TAX EXPENDITURE TO
+4 INCLUDE A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A
+5 STATUTORY LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY FINDS
+6 AND DECLARES THAT THE PURPOSE OF THE TAX CREDIT PROVIDED IN
+7 SUBSECTION (1) OF THIS SECTION IS TO INDUCE CERTAIN DESIGNATED
+8 BEHAVIOR BY TAXPAYERS BY CONTINUING TO SUPPORT THE DEVELOPMENT
+9 OF NEW RENEWABLE ENERGY INVESTMENTS IN ENTERPRISE ZONES. THE
+10 GENERAL ASSEMBLY AND THE STATE AUDITOR SHALL MEASURE THE
+11 EFFECTIVENESS OF THE CREDIT IN ACHIEVING THIS PURPOSE BASED ON THE
+12 NUMBER AND VALUE OF CREDITS ISSUED AND NEW RENEWABLE ENERGY
+13 INVESTMENTS IN ENTERPRISE ZONES.
+14 SECTION 30. In Colorado Revised Statutes, 39-30-105.1,
+15 amend (1)(b) as follows:
+16 39-30-105.1. Credit for new enterprise zone business
+17 employees - definitions.
+18
+19 (b) (I) EXCEPT AS PROVIDED IN SUBSECTION (1)(b)(II) OF THIS
+20 SECTION, in addition to the credit available under paragraph (a) of this
+21 subsection SUBSECTION (1)(a) OF THIS SECTION, for any income tax year
+22 commencing on or after January 1, 2014, a taxpayer qualified under said
+23 paragraph (a) SUBSECTION (1)(a) OF THIS SECTION is allowed for the first
+24 two ANY TWO OF THE FIRST TEN full income tax years while located in an
+25 enterprise zone a credit in an amount equal to one thousand dollars for
+26 each business facility employee who is insured under a health insurance
+27 plan or program provided through his or her THE EMPLOYEE'S employer.
+-62- 1289
+
+1 To be eligible for the credit, the employer must contribute fifty percent or
+2 more of the total cost of a health insurance plan or program, and such
+3 plan or program must be in accordance with the provisions of article 8 of
+4 title 10 or part 1, 2, 3, or 4 of article 16 of title 10, C.R.S., or be a
+5 self-insurance program and include partial or complete coverage for
+6 hospital and physician services.
+7 (II) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY 1,
+8 2027, A TAXPAYER THAT HAS FIFTY OR MORE BUSINESS FACILITY
+9 EMPLOYEES AT ANY TIME DURING AN INCOME TAX YEAR SHALL NOT CLAIM
+10 THE CREDIT PROVIDED FOR IN THIS SUBSECTION (1)(b) FOR THAT TAX
+11 YEAR.
+12
+13 SECTION 31. In Colorado Revised Statutes, 39-30-105.5,
+14 amend (1) introductory portion; and add (1)(c) and (1.5) as follows:
+15 39-30-105.5. Credit against Colorado income taxes based on
+16 expenditures for research and experimental activities - repeal.
+17 (1) FOR INCOME TAX YEARS BEGINNING BEFORE JANUARY 1, 2027,
+18 any taxpayer who makes expenditures in research and experimental
+19 activities, as defined in section 174 of the federal "Internal Revenue Code
+20 of 1986", as amended, which activities are conducted in an enterprise
+21 zone for the purpose of carrying out a trade or business, shall be allowed
+22 a credit against the income tax imposed by article 22 of this title TITLE 39
+23 as follows:
+24 (c) THIS SUBSECTION (1) IS REPEALED, EFFECTIVE DECEMBER 31,
+25 2033.
+26 (1.5) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY
+27 1, 2027, ANY TAXPAYER WHO MAKES AT LEAST ONE HUNDRED FIFTY
+-63- 1289
+
+1 THOUSAND DOLLARS IN EXPENDITURES IN RESEARCH AND EXPERIMENTAL
+2 ACTIVITIES, AS DEFINED IN SECTION 174A OF THE FEDERAL "INTERNAL
+3 REVENUE CODE OF 1986", AS AMENDED, WHICH ACTIVITIES ARE
+4 CONDUCTED IN AN ENTERPRISE ZONE FOR THE PURPOSE OF CARRYING OUT
+5 A TRADE OR BUSINESS, SHALL BE ALLOWED A CREDIT AGAINST THE INCOME
+6 TAX IMPOSED BY ARTICLE 22 OF THIS TITLE 39 IN AN AMOUNT EQUAL TO
+7 THREE PERCENT OF THE AMOUNT BY WHICH THE AMOUNT THAT THE
+8 TAXPAYER EXPENDED FOR RESEARCH AND EXPERIMENTAL ACTIVITIES IN
+9 THE ENTERPRISE ZONE IN THE INCOME TAX YEAR EXCEEDS THE AVERAGE
+10 OF THE TAXPAYER'S TOTAL EXPENDITURES FOR RESEARCH AND
+11 EXPERIMENTAL ACTIVITIES IN THE IMMEDIATELY PRECEDING TWO INCOME
+12 TAX YEARS IN THE AREA THAT COMPROMISED THE RELEVANT ENTERPRISE
+13 ZONE.
+14 SECTION 32. In Colorado Revised Statutes, 39-30-105.6,
+15 amend (1) as follows:
+16 39-30-105.6. Credit against tax - rehabilitation of vacant
+17 buildings - repeal.
+18 (1) (a) (I) For income tax years commencing on or after January
+19 1, 1989, BUT BEFORE JANUARY 1, 2027, any taxpayer who is the owner or
+20 tenant of a building which THAT is located in an enterprise zone, which
+21 is at least twenty years old, and which has been unoccupied for at least
+22 two years and who makes qualified expenditures for the purpose of
+23 rehabilitating said building shall be allowed a credit against the income
+24 tax imposed by article 22 of this title TITLE 39 in an amount equal to
+25 twenty-five percent of the aggregate qualified expenditures per building
+26 or fifty thousand dollars per building, whichever is less.
+27 (II) THIS SUBSECTION (1)(a) IS REPEALED, EFFECTIVE DECEMBER
+-64- 1289
+
+1 31, 2033.
+2 (b) FOR INCOME TAX YEARS BEGINNING ON OR AFTER JANUARY
+3 1,2027, ANY TAXPAYER WHO IS THE OWNER OR TENANT OF A BUILDING
+4 THAT IS LOCATED IN AN ENTERPRISE ZONE, IS AT LEAST TWENTY YEARS
+5 OLD, AND HAS BEEN UNOCCUPIED FOR ANY ONE HUNDRED THIRTY-FIVE
+6 CALENDAR DAYS WITHIN THE ONE HUNDRED EIGHTY CALENDAR DAYS
+7 PRECEDING THE DATE THAT THE TAXPAYER PLACES A REHABILITATION IN
+8 SERVICE AND WHO MAKES QUALIFIED EXPENDITURES FOR THE PURPOSE OF
+9 REHABILITATING SAID BUILDING SHALL BE ALLOWED A CREDIT AGAINST
+10 THE INCOME TAX IMPOSED BY ARTICLE 22 OF THIS TITLE 39 IN AN AMOUNT
+11 EQUAL TO TWENTY-FIVE PERCENT OF THE AGGREGATE QUALIFIED
+12 EXPENDITURES PER BUILDING OR TWO HUNDRED THOUSAND DOLLARS PER
+13 BUILDING, WHICHEVER IS LESS.
+14
+15 SECTION 33. In Colorado Revised Statutes, 39-22-123.5,
+16 amend (3.5)(b)(I) and (3.5)(c) introductory portion; and add (2.7)(d) as
+17 follows:
+18 39-22-123.5. Earned income tax credit - legislative declaration
+19 - repeal.
+20 (2.7) (d) (I) FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+21 JANUARY 1, 2028, A RESIDENT INDIVIDUAL IS ALLOWED AN EARNED
+22 INCOME TAX CREDIT AGAINST THE TAXES DUE UNDER THIS ARTICLE 22
+23 THAT IS EQUAL TO THE APPLICABLE PERCENTAGE, SET FORTH IN
+24 SUBSECTION (2.7)(d)(II) OF THIS SECTION, OF THE FEDERAL CREDIT THAT
+25 THE RESIDENT INDIVIDUAL WOULD HAVE BEEN ALLOWED UNDER SECTION
+26 32 (n)(2) OF THE INTERNAL REVENUE CODE, NOTWITHSTANDING THE DATE
+27 LIMITATION SET FORTH IN SECTION 32(n) OF THE INTERNAL REVENUE CODE
+-65- 1289
+
+1 AS SPECIFIED IN SECTION 9621 (a) OF THE "AMERICAN RESCUE PLAN ACT
+2 OF 2021", PUB.L. 117-2.
+3 (II) EXCEPT AS OTHERWISE PROVIDED IN SUBSECTION (3.5) OF THIS
+4 SECTION, THE PERCENTAGE USED TO CALCULATE THE AMOUNT OF CREDIT
+5 THAT CAN BE CLAIMED PURSUANT TO SUBSECTION (2.7)(d)(I) OF THIS
+6 SECTION IS TWENTY-FIVE PERCENT.
+7 (3.5) (b) (I) For the income tax year commencing on January 1,
+8 2025, the percentage of the federal earned income tax credit that the
+9 resident individual claimed or could have claimed that is used to calculate
+10 the amount of earned income tax credit allowed pursuant to subsections
+11 (2)(d), (2.5)(e), and (2.7)(c), AND (2.7)(d) of this section is increased by
+12 fifteen percentage points if the estimated adjustment factor is equal to or
+13 greater than two percent.
+14 (c) For income tax years commencing on or after January 1, 2026,
+15 the percentage of the federal earned income tax credit that the resident
+16 individual claimed or could have claimed that is used to calculate the
+17 amount of earned income tax credit allowed pursuant to subsections
+18 (2)(d), (2.5)(e), and (2.7)(c), AND (2.7)(d) of this section is increased as
+19 follows if the estimated adjustment factor is as follows:
+20 SECTION 34. In Colorado Revised Statutes, 39-22-303, amend
+21 (12)(b)(I) and (12)(b)(II); and add (12)(b)(III) and (16) as follows:
+22 39-22-303. Dividends in a combined report - foreign source
+23 income - affiliated groups - definitions - rules - repeal.
+24 (12) As used in this section, unless the context otherwise requires:
+25 (b) "Listed jurisdiction" means:
+26 (I) For income tax years commencing before January 1, 2026,
+27 Andorra, Anguilla, Antigua and Barbuda, Aruba, the Bahamas, Bahrain,
+-66- 1289
+
+1 Barbados, Belize, Bermuda, Bonaire, British Virgin Islands, Cayman
+2 Islands, Cook Islands, Curacºao, Cyprus, Dominica, Gibraltar, Grenada,
+3 Guernsey-Sark-Alderney, Isle of Man, Jersey, Liberia, Luxembourg,
+4 Malta, Marshall Islands, Mauritius, Monaco, Montserrat, Nauru, Niue,
+5 Panama, Saba, Samoa, San Marino, Seychelles, Sint Eustatius, Sint
+6 Maarten, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines,
+7 Turks and Caicos Islands, U.S. Virgin Islands, and Vanuatu; and
+8 (II) For income tax years commencing on or after January 1, 2026,
+9 BUT BEFORE JANUARY 1, 2027, the jurisdictions listed in subsection
+10 (12)(b)(I) of this section and Hong Kong, Republic of Ireland,
+11 Liechtenstein, Netherlands, and Singapore; AND
+12 (III) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+13 1, 2027, THE JURISDICTIONS LISTED IN SUBSECTION (12)(b)(I) OF THIS
+14 SECTION AND HONG KONG, REPUBLIC OF IRELAND, NETHERLANDS, AND
+15 SINGAPORE.
+16 (16) (a) DURING THE STATE FISCAL YEAR BEGINNING JULY 1, 2027,
+17 AND EVERY FOURTH STATE FISCAL YEAR THEREAFTER, THE DEPARTMENT
+18 SHALL ENGAGE A CONTRACTOR TO EXAMINE WHETHER A COUNTRY THAT
+19 IS IDENTIFIED AS A LISTED JURISDICTION SHOULD REMAIN A LISTED
+20 JURISDICTION.
+21 (b) THE DEPARTMENT SHALL REQUIRE THE CONTRACTOR TO
+22 EXAMINE EACH LISTED JURISDICTION AND TO MAKE RECOMMENDATIONS
+23 ABOUT THE STATUS OF A LISTED JURISDICTION IN A WRITTEN REPORT
+24 SUBMITTED TO THE EXECUTIVE COMMITTEE OF THE LEGISLATIVE COUNCIL
+25 AND THE GOVERNOR NO LATER THAN ONE HUNDRED EIGHTY CALENDAR
+26 DAYS AFTER THE EFFECTIVE DATE OF THE CONTRACT ENGAGING THE
+27 CONTRACTOR TO CONDUCT THE STUDY.
+-67- 1289
+
+1 (c) WHEN EXAMINING A LISTED JURISDICTION, THE DEPARTMENT
+2 SHALL REQUIRE THE CONTRACTOR TO RECOMMEND WHETHER A LISTED
+3 JURISDICTION SHOULD CONTINUE TO BE A LISTED JURISDICTION BASED ON
+4 WHETHER THE LISTED JURISDICTION:
+5 (I) ASSESSES A CORPORATE TAX RATE OF LESS THAN FIFTEEN
+6 PERCENT;
+7 (II) ALLOWS TAX DEDUCTIONS, INCENTIVES, OR CREDITS THAT
+8 LOWER EFFECTIVE TAX RATES ARTIFICIALLY, WITH SPECIAL
+9 CONSIDERATION GIVEN TO INTELLECTUAL PROPERTY AND
+10 FOREIGN-SOURCE ROYALTIES;
+11 (III) TARGETS PROFIT-SHIFTING OF FOREIGN-CONTROLLED
+12 CORPORATIONS;
+13 (IV) LACKS TRANSPARENCY AND DOES NOT ENGAGE IN DATA
+14 SHARING OR COOPERATE WITH OTHER COUNTRIES' REVENUE AGENCIES
+15 DURING AUDITS AND INVESTIGATIONS OR DOES NOT PARTICIPATE IN
+16 COUNTRY-BY-COUNTRY REPORTING;
+17 (V) DOES NOT REQUIRE A CORPORATION TO ENGAGE IN
+18 SUBSTANTIAL ACTIVITY OR DELIVER ECONOMIC SUBSTANCE IN THE LISTED
+19 JURISDICTION IN ORDER TO BE INCORPORATED IN THAT JURISDICTION;
+20 (VI) DOES NOT MAINTAIN A BENEFICIAL OWNERSHIP REGISTRY OR
+21 DOES NOT PROVIDE THE PUBLIC WITH ACCESS TO COMPANY INFORMATION;
+22 (VII) ALLOWS HYBRID-MISMATCH RELATIONSHIPS;
+23 (VIII) ALLOWS OVERLY LENIENT TRANSFER PRICING;
+24 (IX) ALLOWS INCOME-SHIFTING BETWEEN CORPORATE AFFILIATES
+25 OR OTHER INDICATORS OF PROFIT-SHIFTING;
+26 (X) HAS NOT UNDERTAKEN REFORMS TO ADDRESS ALLEGATIONS
+27 THAT IT IS A TAX HAVEN AND THAT IT SHOULD NOT BE A LISTED
+-68- 1289
+
+1 JURISDICTION;
+2 (XI) PROVIDES CERTAIN TAX OR OTHER BENEFITS EXCLUSIVELY
+3 FOR FOREIGN FIRMS AND NOT TO DOMESTIC ENTITIES;
+4 (XII) ENGAGES IN OTHER TAX EVASION INDICATORS; OR
+5 (XIII) ISSUES CORPORATE PROFIT OR FOREIGN DIRECT INVESTMENT
+6 STATISTICS THAT ARE SIGNIFICANTLY OUT OF PROPORTION TO LOCAL
+7 ECONOMIC DEVELOPMENT OR THE LOCAL WORKFORCE.
+8 (d) A COUNTRY MAY SUBMIT TO THE CONTRACTOR OR THE
+9 DEPARTMENT INFORMATION ABOUT INTERNATIONAL TAX REFORM AND
+10 EVOLVING BEST PRACTICES.
+11 (e) THE CONTRACTOR MAY RECOMMEND THAT A COUNTRY BE
+12 DEEMED A LISTED JURISDICTION OR RECOMMEND THAT A COUNTRY NO
+13 LONGER BE A LISTED JURISDICTION.
+14 SECTION 35. In Colorado Revised Statutes, 42-1-225, amend
+15 (1)(c) and (2)(c); and add (3) and (4) as follows:
+16 42-1-225. Commercial vehicle enterprise tax fund - creation
+17 - repeal.
+18 (1) (c) On or after July 1, 2025, BUT BEFORE JULY 1, 2027, the
+19 fund consists of money collected and transmitted to the fund pursuant to
+20 section 42-4-1701 (4)(a)(II). The general assembly shall annually
+21 appropriate the money in the fund to cover the actual cost of
+22 administering section 39-30-104 (1)(b). After receiving the statement
+23 pursuant to section 39-30-104 (1)(b)(VI), the state treasurer shall credit
+24 the total cost of the amount of the tax credits stated therein to the general
+25 fund. Any money remaining in the commercial vehicle enterprise tax fund
+26 at the end of the STATE fiscal year shall not revert to the general fund,
+27 EXCEPT AS PROVIDED IN SUBSECTION (3) OF THIS SECTION.
+-69- 1289
+
+1 (2) (c) On July 1, 2025, and each July 1 thereafter ON JULY 1,
+2 2026, the department shall allocate the fund balance, not including the
+3 amount appropriated to cover the actual cost of administering section
+4 39-30-104 (1)(b), to offset the income tax credit granted in section
+5 39-30-104 (1)(b).
+6 (3) ON JULY 1, 2027, THE STATE TREASURER SHALL TRANSFER ALL
+7 OF THE MONEY IN THE FUND TO THE COLORADO ECONOMIC DEVELOPMENT
+8 FUND, CREATED IN SECTION 24-46-105 (1)(a).
+9 (4) THIS SECTION 42-1-225 IS REPEALED, EFFECTIVE JULY 1, 2031.
+10 SECTION 36. In Colorado Revised Statutes, 42-4-1701, amend
+11 (4)(a)(II)(B) as follows:
+12 42-4-1701. Traffic offenses and infractions classified -
+13 penalties - penalty and surcharge schedule - repeal.
+14 (4) (a) (II) (B) The state, county, city, or city and county issuing
+15 a citation that results in the assessment of the penalties in
+16 sub-subparagraph (A) of this subparagraph (II) SUBSECTION (4)(a)(II)(A)
+17 OF THIS SECTION may retain and distribute the following amount of the
+18 penalty according to the law of the jurisdiction that assesses the penalty,
+19 but BEFORE JULY 1, 2027, the remainder of the penalty shall be transmitted
+20 to the state treasurer, who shall credit the moneys MONEY to the
+21 commercial vehicle enterprise tax fund created in section 42-1-225, AND
+22 ON OR AFTER JULY 1, 2027, TO THE GENERAL FUND:
+23 SECTION 37. In Colorado Revised Statutes, add 39-22-572 as
+24 follows:
+25 39-22-572. Intellectual and developmental disability home
+26 caregiver tax credit - tax preference performance statement - review
+27 - legislative declaration - definitions - policies and procedures -
+-70- 1289
+
+1 repeal.
+2 (1) Tax preference performance statement.
+3 (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+4 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+5 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+6 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY FINDS AND
+7 DECLARES THAT THE PURPOSE OF THE CREDIT PROVIDED FOR IN THIS
+8 SECTION IS TO PROVIDE A REDUCTION IN INCOME TAX LIABILITY FOR
+9 INDIVIDUALS WHO PROVIDE HOME CARE TO PEOPLE WITH INTELLECTUAL
+10 AND DEVELOPMENTAL DISABILITIES BY ALLOWING A CAREGIVER WHO
+11 WORKS THE MAXIMUM AMOUNT OF HOURS ALLOWED BY THE OFFICE TO
+12 RECEIVE A CREDIT AGAINST INCOME TAX. SPECIFICALLY, THIS TAX
+13 EXPENDITURE IS INTENDED TO PROVIDE TAX RELIEF TO FAMILIES WITH
+14 FAMILY MEMBERS WITH INTELLECTUAL AND DEVELOPMENTAL
+15 DISABILITIES WHO REQUIRE MAXIMUM CARE.
+16 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR SHALL
+17 MEASURE THE EFFECTIVENESS OF THE CREDIT IN ACHIEVING THE PURPOSES
+18 SPECIFIED IN SUBSECTION (1)(a) OF THIS SECTION BASED ON THE NUMBER
+19 AND VALUE OF THE CREDITS CLAIMED.
+20 (2) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+21 OTHERWISE REQUIRES:
+22 (a) "CREDIT" MEANS THE CREDIT AGAINST INCOME TAX CREATED
+23 IN THIS SECTION.
+24 (b) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+25 (c) "OFFICE" MEANS THE OFFICE OF COMMUNITY LIVING WITHIN
+26 THE BENEFITS AND SERVICES DIVISION OF THE DEPARTMENT OF HEALTH
+27 CARE POLICY AND FINANCING.
+-71- 1289
+
+1 (d) "QUALIFIED INCOME" MEANS INCOME EARNED BY A QUALIFIED
+2 INDIVIDUAL FROM WORKING AS A HOME CAREGIVER OF AN INDIVIDUAL
+3 WITH AN INTELLECTUAL OR DEVELOPMENTAL DISABILITY.
+4 (e) "QUALIFIED INDIVIDUAL" MEANS AN INDIVIDUAL WHO WORKS
+5 AS A HOME CAREGIVER OF AN INDIVIDUAL WITH AN INTELLECTUAL OR
+6 DEVELOPMENTAL DISABILITY FOR THE MAXIMUM AMOUNT OF HOURS
+7 ALLOWED BY THE OFFICE.
+8 (3) Credit allowed. FOR INCOME TAX YEARS COMMENCING ON OR
+9 AFTER JANUARY 1, 2026, BUT BEFORE JANUARY 1, 2029, A CREDIT WITH
+10 RESPECT TO INCOME TAXES IMPOSED PURSUANT TO THIS ARTICLE 22 TO
+11 ANY QUALIFIED INDIVIDUAL IN THE AMOUNT EQUAL TO THIRTY PERCENT
+12 OF THE QUALIFIED INDIVIDUAL'S QUALIFIED INCOME IS ALLOWED.
+13 (4) Refundability. IF THE AMOUNT OF THE CREDIT ALLOWED
+14 UNDER THIS SECTION EXCEEDS THE AMOUNT OF INCOME TAXES OTHERWISE
+15 DUE ON THE QUALIFIED INDIVIDUAL'S INCOME IN THE INCOME TAX YEAR
+16 FOR WHICH THE CREDIT IS CLAIMED, THE AMOUNT OF THE CREDIT NOT
+17 USED AS AN OFFSET AGAINST INCOME TAXES IN THE CURRENT INCOME TAX
+18 YEAR IS NOT CARRIED FORWARD AND MUST BE REFUNDED TO THE
+19 QUALIFIED INDIVIDUAL.
+20 (5) Verification. ON OR BEFORE JANUARY 15, 2026, AND ON OR
+21 BEFORE EVERY JANUARY 15 THEREAFTER, THE OFFICE SHALL DELIVER TO
+22 THE DEPARTMENT A LIST OF ALL QUALIFIED INDIVIDUALS FROM THE
+23 PREVIOUS TAX YEAR.
+24 (6) Policies and procedures. THE OFFICE MAY CREATE AND
+25 MODIFY POLICIES AND PROCEDURES AS NECESSARY TO FURTHER
+26 IMPLEMENT THIS SECTION AND SHALL SOLICIT ADVICE FROM THE
+27 DEPARTMENT IN CREATING AND MODIFYING THE POLICIES AND
+-72- 1289
+
+1 PROCEDURES.
+2 (7) Repeal. THIS SECTION IS REPEALED, EFFECTIVE DECEMBER 31,
+3 2034.
+4 SECTION 38. Appropriation - adjustments to 2026 long bill.
+5 (1) Except as provided in subsection (3) of this section, to implement this
+6 act, appropriations made in the annual general appropriation act for the
+7 2026-27 state fiscal year to the department of health care policy and
+8 financing are adjusted as follows:
+9 (a) The general fund appropriation for medical and long-term care
+10 services for Medicaid eligible individuals is decreased by $52,560, which
+11 is subject to the "(M)" notation as defined in the annual general
+12 appropriation act for the same fiscal year;
+13 (b) The appropriation for medical and long-term care services for
+14 Medicaid eligible individuals is increased by $52,560 cash funds, which
+15 consists of $50,900 from the health care expansion fund created in section
+16 24-22-117 (2)(a)(I), C.R.S., and $1,660 from the tobacco tax cash fund
+17 created in section 24-22-117 (1)(a), C.R.S.;
+18 (c) The appropriation for the primary care fund program is
+19 increased by $21,024, which is from the primary care fund created in
+20 section 24-22-117 (2)(b)(I), C.R.S.;
+21 (d) The general fund appropriation for the children's basic health
+22 plan medical and dental costs is decreased by $332.; and
+23 (e) The appropriation for the children's basic health medical and
+24 dental costs is increased by $332, which is from the children's basic
+25 health plan trust fund created in section 25.5-8-105 (1), C.R.S.
+26 (2) For the 2026-27 state fiscal year, the general assembly
+27 anticipates that the department of health care policy and financing will
+-73- 1289
+
+1 receive $20,710 in federal funds for the primary care fund program to
+2 implement this act, which amount is subject to the "(I)" notation as
+3 defined in the annual general appropriation act for the same fiscal year.
+4 The appropriation in subsection (1)(c) of this section is based on the
+5 assumption that the department will receive this amount of federal funds.
+6 (3) Subsection (1) of this section does not require a reduction of
+7 an appropriation in the annual general appropriation act for the 2026-27
+8 state fiscal year for the department of health care policy and financing if:
+9 (a) The amount of the general fund appropriation for medical and
+10 long-term care services for Medicaid eligible individuals is less than the
+11 amount of the adjustment required in subsection (1)(a) of this section;
+12 (b) The amount of the general fund appropriation for the children's
+13 basic health plan medical and dental costs is less than the amount of the
+14 adjustment required in subsection (1)(c) of this section; or
+15 (c) The annual general appropriation act for the 2026-27 state
+16 fiscal year does not include an appropriation to the department of health
+17 care policy and financing.
+18 SECTION 39. Appropriation. (1) For the 2026-27 state fiscal
+19 year, $48,482 is appropriated to the department of revenue. This
+20 appropriation is from the general fund. To implement this act, the
+21 department may use this appropriation as follows:
+22 (a) $20,024 for for tax administration IT system (GenTax) support;
+23 (b) $15,338 to the taxation business group for personal services
+24 related to taxation serivces; and
+25 (c) $13,120 to the executive director's office for personal services
+26 related to administration and support.
+27 (2) For the 2026-27 state fiscal year, $25,000 is appropriated to the
+-74- 1289
+
+1 office of the governor for use by economic development programs. This
+2 appropriation is from the general fund. To implement this act, the office
+3 may use this appropriation for administration.
+4 (3) For the 2026-27 state fiscal year, $996,276 is appropriated to
+5 the department of early childhood. This appropriation is from the
+6 preschool programs cash fund created in section 26.5-4-209 (1)(a), C.R.S.
+7 To implement this act, the department may use this appropriation for
+8 universal preschool program.
+9 (4) For the 2026-27 state fiscal year, $35,741 is appropriated to the
+10 department of public health and environment. This appropriation consists
+11 of $17,704 from the tobacco education programs fund created in section
+12 24-22-117 (2)(c)(I), C.R.S., $17,704 from the prevention, early detection,
+13 and treatment fund created in section 24-22-117 (2)(d)(I), C.R.S., and
+14 $333 from the tobacco tax cash fund created in section 24-22-117 (1)(a),
+15 C.R.S. To implement this act, the department may use this appropriation
+16 as follows:
+17 (a) $17,704 from the tobacco education programs fund for tobacco
+18 education, prevention, and cessation program administration;
+19 (b) $17,704 from the prevention, early detection, and treatment
+20 fund for cancer, cardiovascular disease, and chronic pulmonary disease
+21 grants; and
+22 (c) $333 from the tobacco tax cash fund for appropriation from the
+23 tobacco tax cash fund to the general fund.
+24 (5) For the 2026-27 state fiscal year, $333 is appropriated to the
+25 department of public health and environment. This appropriation is from
+26 the general fund exempt account created in section 24-77-103.6 (2),
+27 C.R.S. To implement this act, the department may use this appropriation
+-75- 1289
+
+1 for immunization operating expenses.
+2 SECTION 40. Effective date. This act takes effect upon passage;
+3 except that section 40 of this act takes effect only if the annual general
+4 appropriation act for the 2026-27 state fiscal year becomes law, in which
+5 case section 40 takes effect upon the effective date of this act or of the
+6 annual general appropriation act for state fiscal year 2026-27, whichever
+7 is later.
+8 SECTION 41. Safety clause. The general assembly finds,
+9 determines, and declares that this act is necessary for the immediate
+10 preservation of the public peace, health, or safety or for appropriations for
+11 the support and maintenance of the departments of the state and state
+12 institutions.
+-76- 1289

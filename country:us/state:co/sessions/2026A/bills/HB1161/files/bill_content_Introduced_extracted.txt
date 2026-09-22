@@ -1,0 +1,636 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0638.01 Craig Harper x3481 HOUSE BILL 26-1161
+HOUSE SPONSORSHIP
+Sirota, Brown, Taggart
+SENATE SPONSORSHIP
+Bridges, Amabile, Kirkmeyer
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT
+102 OF LOCAL AFFAIRS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Supplemental appropriations are made to the department of local
+affairs.
+1 Be it enacted by the General Assembly of the State of Colorado:
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 SECTION 1. Appropriation to the department of local affairs
+2 for the fiscal year beginning July 1, 2025. In Session Laws of Colorado
+3 2025, section 2 of chapter 476, (SB 25-206), amend Part XIII as follows:
+4 Section 2. Appropriation.
+-2- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 PART XIII
+2 DEPARTMENT OF LOCAL AFFAIRS
+3
+4 (1) EXECUTIVE DIRECTOR'S OFFICE
+5 (A) Administration
+6 Personal Services 2,287,742 2,287,742a
+7 (20.2 FTE)
+8 Health, Life, and Dental 3,524,736 1,111,506 584,209b 1,176,399a 652,622(I)
+9 3,449,472 1,039,983 535,001b 1,217,687a 656,801(I)
+10 Short-term Disability 13,492 4,269 2,240b 4,493a 2,490(I)
+11 Paid Family Medical Leave
+12 Insurance 86,732 27,446 14,403b 28,879a 16,004(I)
+13 Unfunded Liability
+14 Amortization Equalization
+15 Disbursement Payments 1,927,383 609,920 320,061b 641,761a 355,641(I)
+-3- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Salary Survey 528,895 167,369 87,828b 176,106a 97,592(I)
+2 Step Pay 106,256 33,625 17,645b 35,380a 19,606(I)
+3 PERA Direct Distribution 494,910 156,613 82,185b 164,791a 91,321(I)
+4 Workers' Compensation 140,812 44,709 61,109b 34,994a
+5 Operating Expenses 148,529 148,529a
+6 Legal Services 1,385,051 1,045,466 338,288b 1,297a
+7 Administrative Law Judge
+8 Services 6,764 6,764b
+9 Payment to Risk
+10 Management and Property
+11 Funds 157,407 49,978 68,311b 39,118a
+12 Vehicle Lease Payments 158,338 70,101 67,125b 21,112a
+13 127,248 56,336 53,945b 16,967a
+14 Information Technology
+15 Asset Maintenance 102,656 36,158 13,909b 52,589a
+-4- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Leased Space 8,000 5,675 2,325a
+2 Capitol Complex Leased
+3 Space 993,730 290,716 397,356b 183,395a 122,263(I)
+4 Payments to OIT 4,062,128 1,252,188 1,465,200b 813,323a 531,417(I)
+5 3,557,476 1,096,625 1,283,173b 712,281a 465,397(I)
+6 CORE Operations 100,668 28,197 38,541b 22,071a 11,859(I)
+7 Moffat Tunnel Improvement
+8 District69 5,000 5,000c
+9 16,239,229
+10 15,628,223
+11
+-5- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a Of these amounts, $3,328,684 $3,270,978 shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation in the Division of Local
+2 Government in this department, $1,930,606 $1,923,799 shall be from departmental indirect cost recoveries or the Indirect Costs Excess Recovery Fund created in Section 24-75-1401
+3 (2), C.R.S., $560,455 shall be from statewide indirect cost recoveries, and $14,559 $15,173 shall be transferred from the Department of Health Care Policy and Financing from the
+4 Transfer to the Department of Local Affairs for Home Modifications Benefit Administration line item appropriation. Of the amount from the Local Government Mineral and Energy
+5 Impact Grants and Disbursements line item, an estimated $1,830,776 $1,798,890 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S.,
+6 and an estimated $1,497,908 $1,472,088 shall be from the Local Government Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+7 b Of these amounts, $719,445(I) $659,378(I) shall be from the Affordable Housing Support Fund created in Section 29-32-103 (1), C.R.S., $283,547(I) $256,769(I) shall be from the
+8 Housing Development Grant Fund created in Section 24-32-721 (1), C.R.S.,$164,266 $154,066 shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S.,
+9 $147,766(I) $135,405(I) shall be from the Transformational Affordable Housing Revolving Loan Fund created in Section 24-32-731 (9)(a), C.R.S., $45,391 $45,116 shall be from the
+10 Mobile Home Park Act Dispute Resolution and Enforcement Program Fund created in Section 38-12-1110 (1), C.R.S., $19,382(I) $17,640(I) shall be from the Mobile Home Park
+11 Resident Empowerment Loan and Grant Program Fund created in Section 24-32-728 (10)(a), C.R.S., and $2,185,377 $2,052,385 shall be from various sources of cash funds.
+12 Appropriations from the Affordable Housing Support Fund are shown for informational purposes only as the fund is continuously appropriated to the Department pursuant to Section
+13 29-32-103 (1), C.R.S., appropriations from the Housing Development Grant Fund are shown for informational purposes only as the fund is continuously appropriated to the Department
+14 pursuant to Section 24-32-721 (1), C.R.S., appropriations from the Transformational Affordable Housing Revolving Loan Fund are shown for informational purposes only as the fund
+15 is continuously appropriated to the Department pursuant to Section 24-32-731 (9)(c), C.R.S., and appropriations from the Mobile Home Park Resident Empowerment Loan and Grant
+16 Program Fund are shown for informational purposes only as the fund is continuously appropriated to the Department pursuant to Section 24-32-728 (10)(c), C.R.S.
+-6- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 c This amount shall be from the Moffat Tunnel Cash Fund created in Section 32-8-126 (1), C.R.S.
+2
+3 (B) State Demography Office
+4 Program Costs 685,392 545,663 117,479(I)a 22,250(I)
+5 (6.0 FTE)
+6 Indirect Cost Assessment 14,284 11,997(I)a 2,287(I)
+7 699,676
+8
+9 a These amounts are from the Conservation Trust Fund created in Section 29-21-101 (2)(a)(I), C.R.S., pursuant to Section 3 (1)(b)(I) of Article XXVII of the State Constitution. These
+10 funds are from net lottery proceeds and are included for informational purposes, as net lottery proceeds are continuously appropriated to the Department. Further, pursuant to Section
+11 24-77-102 (17)(b)(IX), C.R.S., net lottery proceeds are not subject to the limitation on state fiscal year spending set forth in Article X, Section 20, of the State Constitution.
+12
+13 16,938,905
+14 16,327,899
+15
+-7- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (2) PROPERTY TAXATION
+2 Division of Property
+3 Taxation 3,850,464 2,416,722 1,180,620a 253,122b
+4 (39.0 FTE)
+5 State Board of Equalization 12,856 12,856
+6 Board of Assessment
+7 Appeals 865,719 626,965 238,754c
+8 (14.2 FTE)
+9 Indirect Cost Assessment 114,999 97,007d 17,992b
+10 4,844,038
+11
+12 a This amount shall be from the Property Tax Exemption Fund created in Section 39-2-117 (8), C.R.S.
+13 b These amounts shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation in the Division of Local Government in this
+14 department. Of the total, an estimated $149,113 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $122,001
+15 shall be from the Local Government Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+-8- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 c Of this amount, $213,754 shall be from the Board of Assessment Appeals Cash Fund created in Section 39-2-125 (1)(h), C.R.S., and $25,000 shall be from the Accelerated Appeal
+2 Cash Fund created in Section 39-2-125 (2.5)(b)(II), C.R.S.
+3 d Of this amount, an estimated $79,053 shall be from the Property Tax Exemption Fund created in Section 39-2-117 (8), C.R.S., and an estimated $17,954 shall be from the Board of
+4 Assessment Appeals Cash Fund created in Section 39-2-125 (1)(h), C.R.S.
+5
+6 (3) DIVISION OF HOUSING70
+7 (A) Community and Non-Profit Services
+8 (1) Administration
+9 Personal Services 3,975,596 1,233,545 84,842a 260,660b 2,396,549(I)
+10 (36.9 FTE)
+11 Operating Expenses 469,181 59,230 4,938c 64,918b 340,095(I)
+12
+13 (2) Community Services
+14 Low Income Rental
+15 Subsidies71 105,997,404 21,167,475 939,649d 83,890,280(I)
+-9- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Homeless Prevention
+2 Programs 2,306,506 170,000e 2,136,506(I)
+3 Appropriation to the Child
+4 Care Facility Development
+5 Cash Fund 500,000 250,000 250,000f
+6 (0.9 FTE)
+7 (3) Fort Lyon Supportive
+8 Housing Program 5,762,544 5,762,544
+9 (1.0 FTE)
+10 (4) Ridge View Campus 5,306,832 5,306,832(I)g
+11 (3.7 FTE)
+12 124,318,063
+13
+14 a Of this amount, $66,098 shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S., $12,500 shall be from the Homeless Prevention Activities Program
+15 Fund created in Section 39-22-1302 (1), C.R.S., and $6,244 shall be from the Private Activity Bond Allocations Fund created in Section 24-32-1709.5 (2)(a), C.R.S.
+-10- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b These amounts shall be transferred from the Department of Health Care Policy and Financing from the Transfer to the Department of Local Affairs for Host Home Regulation line
+2 item appropriation.
+3 c Of this amount, $2,500 shall be from the Homeless Prevention Activities Program Fund created in Section 39-22-1302 (1), C.R.S., and $2,438 shall be from the Marijuana Tax Cash
+4 Fund created in Section 39-28.8-501 (1), C.R.S.
+5 d This amount shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S.
+6 e This amount shall be from the Homeless Prevention Activities Program Fund created in Section 39-22-1302 (1), C.R.S.
+7 f This amount shall be from the Child Care Facility Development Cash Fund created in Section 24-32-3805 (1)(a), C.R.S. This fund consists of General Fund that is appropriated in this
+8 line item to the Fund.
+9 g This amount shall be transferred from the Proposition 123 Programs for Affordable Home Ownership and Persons Experiencing Homelessness line item appropriation within this
+10 division.
+11
+12 (B) Field Services
+13 Affordable Housing
+14 Program Costs72 3,513,601 250,606 97,047a 2,429,547b 736,401(I)
+15 (30.8 FTE)
+-11- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Affordable Housing
+2 Construction Grants and
+3 Loans pursuant to Section
+4 24-32-721, C.R.S.71, 72 75,199,716 18,000,000 40,500,000(I)c 16,699,716(I)
+5 Housing Assistance for
+6 Persons Transitioning
+7 from the Criminal or
+8 Juvenile Justice
+9 System71 500,000 500,000
+10 Manufactured Buildings
+11 Program 1,691,562 1,691,562d
+12 (15.3 FTE)
+13 Mobile Home Park Act
+14 Oversight 1,536,137 1,536,137e
+15 (10.5 FTE)
+-12- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Appropriation to the Mobile
+2 Home Park Act Dispute
+3 Resolution and Enforcement
+4 Program Fund 119,905 119,905
+5 (1.0 FTE)
+6 Proposition 123 Programs
+7 for Affordable Home
+8 Ownership and Persons
+9 Experiencing Homelessness 133,532,000 133,532,000(I)f
+10 216,092,921
+11
+12 a This amount shall be from the Private Activity Bond Allocations Fund created in Section 24-32-1709.5 (2)(a), C.R.S.
+-13- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b Of this amount, $1,755,000 shall be from the Affordable Housing Construction Grants and Loans pursuant to Section 24-32-721, C.R.S., line item appropriation within this division,
+2 which amount includes $1,215,000 originating as money credited in accordance with Section 39-26-123 (3)(b), C.R.S., and $540,000 originating as General Fund, $375,225 shall be
+3 from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation in the Division of Local Government in this department, and $299,322 shall
+4 be transferred from the Department of Health Care Policy and Financing from the Transfer to the Department of Local Affairs for Home Modifications Benefit Administration line item
+5 appropriation. Of the amount from the Local Government Mineral and Energy Impact Grants and Disbursements line item, an estimated $206,374 shall be from the Local Government
+6 Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $168,851 shall be from the Local Government Mineral Impact Fund created in Section 34-63-102
+7 (5)(a)(I), C.R.S.
+8 c This amount shall be from the Housing Development Grant Fund created in Section 24-32-721 (1), C.R.S., from money credited to the Fund in accordance with Section 39-26-123
+9 (3)(b), C.R.S. This money is continuously appropriated pursuant to Section 24-32-721 (1), C.R.S., and is shown for informational purposes only.
+10 d This amount shall be from the Building Regulation Fund created in Section 24-32-3309 (1)(a)(III), C.R.S.
+11 e This amount shall be from the Mobile Home Park Act Dispute Resolution and Enforcement Program Fund created in Section 38-12-1110 (1), C.R.S.
+12 f This amount shall be from Affordable Housing Support Fund created in Section 29-32-103 (1), C.R.S. This money is continuously appropriated pursuant to Section 29-32-103 (1),
+13 C.R.S., and is shown for informational purposes only.
+14
+-14- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (C) Indirect Cost
+2 Assessment 1,673,984 1,070,563a 163,062b 440,359(I)
+3
+4 a Of this amount, an estimated $413,350(I) shall be from the Affordable Housing Support Fund created in Section 29-32-103 (1), C.R.S., an estimated $228,404 shall be from the Mobile
+5 Home Park Act Dispute Resolution and Enforcement Program Fund created in Section 38-12-1110 (1), C.R.S., an estimated $183,847 shall be from the Building Regulation Fund created
+6 in Section 24-32-3309 (1)(a)(III), C.R.S., an estimated $150,867(I) shall be from the Housing Development Grant Fund created in Section 24-32-721 (1), C.R.S., an estimated $58,350(I)
+7 shall be from the Transformational Affordable Housing Revolving Loan Fund created in Section 24-32-731 (9)(a), C.R.S., an estimated $14,376 shall be from the Private Activity Bond
+8 Allocations Fund created in Section 24-32-1709.5 (2)(a), C.R.S., an estimated $11,406(I) shall be from the Mobile Home Park Resident Empowerment Loan and Grant Program Fund
+9 created in Section 24-32-728 (10)(a), C.R.S., and an estimated $9,963 shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S. Appropriations from the
+10 Affordable Housing Support Fund are shown for informational purposes only as the fund is continuously appropriated to the Department pursuant to Section 29-32-103 (1), C.R.S.,
+11 appropriations from the Housing Development Grant Fund are shown for informational purposes only as the fund is continuously appropriated to the Department pursuant to Section
+12 24-32-721 (1), C.R.S., appropriations from the Transformational Affordable Housing Revolving Loan Fund are shown for informational purposes only as the fund is continuously
+13 appropriated to the Department pursuant to Section 24-32-731 (9), C.R.S., and appropriations from the Mobile Home Park Resident Empowerment Loan and Grant Program Fund are
+14 shown for informational purposes only as the fund is continuously appropriated to the Department pursuant to Section 24-32-728 (10)(c), C.R.S.
+-15- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b Of this amount, $152,267 shall be from the Affordable Housing Construction Grants and Loans pursuant to Section 24-32-721, C.R.S., line item appropriation within this division and
+2 $10,795 shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation in the Division of Local Government in this department.
+3 Of the amount from the Local Government Mineral and Energy Impact Grants and Disbursements line item, an estimated $5,937 shall be from the Local Government Severance Tax
+4 Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $4,858 shall be from the Local Government Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+5
+6 342,084,968
+7
+8 (4) DIVISION OF LOCAL GOVERNMENT
+9 (A) Local Government and Community Services
+10 (1) Administration
+11 Personal Services 1,794,727 809,256 778,867a 206,604(I)
+12 (7.6 FTE) (8.1 FTE) (2.5 FTE)
+13 Operating Expenses 137,713 48,540 25,146a 64,027(I)
+14 1,932,440
+15
+-16- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a These amounts shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation within this division. Of the total, an estimated
+2 $442,207 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $361,806 shall be from the Local Government Mineral
+3 Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+4
+5
+6 (2) Local Government Services
+7 Conservation Trust Fund
+8 Disbursements 58,016,257 58,016,257(I)a
+9 (1.0 FTE)
+10 Volunteer Firefighter
+11 Retirement Plans 4,295,000 4,295,000(I)b
+12 Volunteer Firefighter Death
+13 and Disability Insurance 30,000 30,000(I)c
+-17- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Firefighter Heart and
+2 Circulatory Malfunction
+3 Benefits 2,714,866 1,375,813 1,339,053d
+4 (0.5 FTE)
+5 Local Utility Management
+6 Assistance 217,196 217,196e
+7 (2.0 FTE)
+8 Environmental Protection
+9 Agency Water/Sewer File
+10 Project 267,248 267,248(I)
+11 (0.5 FTE)
+12 65,540,567
+13
+-18- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a This amount is from the Conservation Trust Fund created in Section 29-21-101 (2)(a)(I), C.R.S., pursuant to Section 3 (1)(b)(I) of Article XXVII of the State Constitution. These funds
+2 are from net lottery proceeds and are included for informational purposes, as net lottery proceeds are continuously appropriated to the Department. Further, pursuant to Section 24-77-102
+3 (17)(b)(IX), C.R.S., net lottery proceeds are not subject to the limitation on state fiscal year spending set forth in Article X, Section 20, of the State Constitution.
+4 b This amount shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S. This amount is transferred from the proceeds of insurance premium taxes
+5 pursuant to Section 31-30-1112 (2)(g), C.R.S., and shall be deemed not to be an appropriation subject to the limitation on General Fund appropriations set forth in Section 24-75-201.1,
+6 C.R.S. Pursuant to Section 31-30-1112 (2)(i), C.R.S., this amount is included for informational purposes to comply with the limitation on state fiscal year spending imposed by Article
+7 X, Section 20, of the State Constitution and Section 24-77-103, C.R.S.
+8 c This amount is transferred from the proceeds of insurance premium taxes pursuant to Section 31-30-1112 (2)(i), C.R.S., and shall be deemed not to be an appropriation subject to the
+9 limitation on General Fund appropriations set forth in Section 24-75-201.1, C.R.S.
+10 d This amount shall be from the Firefighter Benefits Cash Fund created in Section 29-5-302 (11)(a), C.R.S. This fund consists of General Fund that is appropriated in this line item to
+11 the Fund for the purpose of reimbursing employers for the direct costs of maintaining authorized benefits.
+12 e This amount shall be from the Colorado Water Resources and Power Development Authority from money in the Water Pollution Control Revolving Fund created in Section 37-95-107.6
+13 (1), C.R.S., and the Drinking Water Revolving Fund created in Section 37-95-107.8 (1), C.R.S.
+14
+15
+-19- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (3) Community Services
+2 Community Services Block
+3 Grant 6,475,029 6,475,029(I)
+4 Disaster Resilience
+5 Rebuilding Program 249,938 249,938
+6 (3.1 FTE)
+7 Accessory Dwelling Unit
+8 Fee Reduction and
+9 Encouragement Grant
+10 Program 2,275,397 2,275,397a
+11 (4.7 FTE)
+12 9,000,364
+13
+14 a This amount shall be from the Accessory Dwelling Unit Fee Reduction and Encouragement Grant Program Fund created in Section 29-35-405 (7)(a), C.R.S.
+15
+-20- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 (B) Field Services
+3 Program Costs73 3,884,591 389,743 132,385a 2,924,387b 438,076(I)
+4 (3.1 FTE) (1.0 FTE) (24.2 FTE) (4.3 FTE)
+5 Community Development
+6 Block Grant 8,820,748 8,820,748(I)
+7 Local Government Mineral
+8 and Energy Impact Grants
+9 and Disbursements 90,000,000 90,000,000(I)c
+10 Local Government Limited
+11 Gaming Impact Grants 6,050,111 6,050,111(I)d
+12 Local Government
+13 Geothermal Energy Impact
+14 Grants 50,000 50,000e
+-21- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Rural Economic
+2 Development
+3 Initiative Grants 780,000 780,000
+4 Gray and Black Market
+5 Marijuana Enforcement
+6 Grant Program 175,100 175,100f
+7 (1.5 FTE)
+8 Appropriation to the
+9 Targeted Crime Reduction
+10 Grant Program Cash Fund 6,000,000 3,000,000 3,000,000g
+11 Appropriation to the Peace
+12 Officers Behavioral Health
+13 Support and Community
+14 Partnership Fund 2,000,000 2,000,000
+-22- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Peace Officers Behavioral
+2 Health Support and
+3 Community Partnership
+4 Grant Program 2,005,836 2,005,836h
+5 (1.0 FTE)
+6 Defense Counsel on First
+7 Appearance Grant Program 108,454 108,454
+8 (0.5 FTE)
+9 Law Enforcement
+10 Community Services Grant
+11 Program 1,169,412 1,169,412i
+12 (1.0 FTE)
+13 Microgrids for Community
+14 Resilience Grant Program 152,124 152,124
+15 (2.0 FTE)
+-23- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Appropriation to the Public
+2 Defender and Prosecutor
+3 Behavioral Health Support
+4 Fund 500,000 500,000
+5 Public Defender and
+6 Prosecutor Behavioral
+7 Health Support Grant
+8 Program 500,000 500,000j
+9 Proposition 123 Local
+10 Planning Capacity Support 7,028,000 7,028,000(I)k
+11 129,224,376
+12
+13 a This amount shall be from the Limited Gaming Impact Account within the Local Government Limited Gaming Impact Fund created in Section 44-30-1301 (1)(a), C.R.S.
+-24- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b This amount shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation within this division. Of the total, an estimated
+2 $1,801,559 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $1,122,828 shall be from the Local Government
+3 Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+4 c Of this amount, an estimated $49,500,000 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S., and an estimated $40,500,000 shall
+5 be from federal mineral leasing revenues transferred to the Local Government Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S., pursuant to Section 34-63-102 (5),
+6 C.R.S. These amounts are included for informational purposes only as the Department is statutorily authorized to distribute money from these funds. As the Local Government Mineral
+7 Impact Fund consists solely of federal mineral leasing revenues, money in this fund is not subject to the limitation on state fiscal year spending set forth in Section 20 of Article X of
+8 the State Constitution.
+9 d This amount shall be from the fund balance in the Local Government Limited Gaming Impact Fund created in Section 44-30-1301 (1)(a), C.R.S. This amount consists of funds
+10 transferred from the Limited Gaming Fund in the Department of Revenue during the prior fiscal year pursuant to Section 44-30-701 (2)(a)(III), C.R.S., and is included for informational
+11 purposes as the Department is statutorily authorized to distribute money from this fund.
+12 e This amount shall be from the Geothermal Resource Leasing Fund created in Section 34-63-105 (1), C.R.S.
+13 f This amount shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S.
+14 g This amount shall be from the Targeted Crime Reduction Cash Fund created in Section 24-32-120 (2)(i)(I), C.R.S.
+15 h This amount shall be from the Peace Officers Behavioral Health Support and Community Partnership Fund created in Section 24-32-3501 (7)(a), C.R.S.
+-25- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 i This amount shall be from the Law Enforcement Community Services Grant Program Fund created in Section 24-32-124 (5)(b), C.R.S.
+2 j This amount shall be from the Public Defender and Prosecutor Behavioral Health Support Fund created in Section 24-32-3502 (5)(a), C.R.S.
+3 k This amount shall be from the Affordable Housing Support Fund created in Section 29-32-103 (1), C.R.S. This money is continuously appropriated pursuant to Section 29-32-103
+4 (1), C.R.S., and is shown for informational purposes only.
+5
+6 (C) Indirect Cost
+7 Assessments 658,465 112,349a 439,271b 106,845(I)
+8
+-26- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a Of this amount, $36,465(I) shall be from the Affordable Housing Support Fund created in Section 29-32-103 (1), C.R.S., $27,553 shall be from the Colorado Water Resources and
+2 Power Development Authority from money in the Water Pollution Control Revolving Fund created in Section 37-95-107.6 (1), C.R.S., and the Drinking Water Revolving Fund created
+3 in Section 37-95-107.8 (1), C.R.S., $20,938(I) shall be from the Conservation Trust Fund created in Section 29-21-101 (2)(a)(I), C.R.S., pursuant to Section 3 (1)(b)(I) of Article XXVII
+4 of the State Constitution, $15,690 shall be from the Local Government Limited Gaming Impact Fund created in Section 44-30-1301 (1)(a), C.R.S., and $11,703 shall be from the Law
+5 Enforcement Community Services Grant Program Fund created in Section 24-32-124 (5)(b), C.R.S. Appropriations from the Affordable Housing Support Fund are shown for
+6 informational purposes only as the fund is continuously appropriated to the Department pursuant to Section 29-32-103 (1), C.R.S. Appropriations from the Conservation Trust Fund
+7 are from net lottery proceeds and are included for informational purposes, as net lottery proceeds are continuously appropriated to the Department. Further, pursuant to Section 24-77-102
+8 (17)(b)(IX), C.R.S., net lottery proceeds are not subject to the limitation on state fiscal year spending set forth in Article X, Section 20, of the State Constitution.
+9 b Of this amount, $424,648 shall be from the Local Government Mineral and Energy Impact Grants and Disbursements line item appropriation within this division and $14,623 shall
+10 be from the Peace Officers Behavioral Health Support and Community Partnership Fund created in Section 24-32-3501 (7)(a), C.R.S. Of the amount from the Local Government Mineral
+11 and Energy Impact Grants and Disbursements line item, an estimated $233,556 shall be from the Local Government Severance Tax Fund created in Section 39-29-110 (1)(a)(I), C.R.S.,
+12 and an estimated $191,092 shall be from the Local Government Mineral Impact Fund created in Section 34-63-102 (5)(a)(I), C.R.S.
+13
+14 206,356,212
+15
+-27- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 TOTALS PART XIII
+3 (LOCAL AFFAIRS) $570,224,123 $65,323,315a $4,295,000b $350,068,976c $25,592,997 $124,943,835d
+4 $569,613,117 $65,082,464a $349,824,561c $25,529,098 $124,881,994d
+5
+6 a Of this amount, $30,000 contains an (I) notation. This amount is included for purposes of complying with the limitation on state fiscal year spending imposed by Article X, Section
+7 20, of the State Constitution. As this amount is continuously appropriated by a permanent statute or constitutional provision, it is not subject to the limitation on General Fund
+8 appropriations as set forth in Section 24-75-201.1, C.R.S.
+9 b This amount shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S., and contains an (I) notation. This amount is included for purposes of complying
+10 with the limitation on state fiscal year spending imposed by Article X, Section 20, of the State Constitution. As this amount is continuously appropriated by a permanent statute or
+11 constitutional provision, it is not subject to the limitation on General Fund appropriations as set forth in Section 24-75-201.1, C.R.S.
+12 c Of this amount, $337,117,360 $337,016,412 contains an (I) notation.
+13 d This amount contains an (I) notation.
+14
+15
+-28- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 FOOTNOTES -- The following statements are referenced to the numbered footnotes throughout section 2.
+2
+3 69 Department of Local Affairs, Executive Director's Office, Administration, Moffat Tunnel Improvement District -- It is the General Assembly's intent that the
+4 Department continue its current practice of retaining lease payment revenues in the Moffat Tunnel Cash Fund and suspending distribution payments to
+5 Improvement District counties because this practice ensures that funds remain available to cover any potential Improvement District Liabilities related to the
+6 Tunnel and any costs related to renegotiation of the lease with Union Pacific Railroad in 2025 in order to protect the interests of the Improvement District and
+7 the State.
+8
+9 70 Department of Local Affairs, Division of Housing -- It is the General Assembly's intent that the Department target state General Fund appropriations for
+10 affordable housing to projects and clients that can be reasonably expected to reduce other State costs. It is the General Assembly's further intent that the
+11 Department prioritize State-funded rental assistance for the following populations: Medicaid clients who are transitioning from a nursing home or long-term
+12 care facility; clients transitioning from a State Mental Health Institute or a State-funded behavioral healthcare facility; and clients transitioning from the
+13 Department of Corrections, the Division of Youth Services in the Department of Human Services, or a county jail.
+14
+15 71 Department of Local Affairs, Division of Housing, Community and Non-Profit Services, Community Services, Low Income Rental Subsidies; Field Services,
+16 Affordable Housing Construction Grants and Loans pursuant to Section 24-32-721, C.R.S.; Housing Assistance for Persons Transitioning from the Criminal
+-29- HB26-1161
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 or Juvenile Justice Systems -- It is the General Assembly's intent that the Department record expenditures for rental vouchers issued by the Division of Housing
+2 within the Low Income Rental Subsidies line item.
+3
+4 72 Department of Local Affairs, Division of Housing, Field Services, Affordable Housing Program Costs; Affordable Housing Construction Grants and Loans
+5 pursuant to Section 24-32-721, C.R.S. -- It is the General Assembly's intent that appropriations for State administration of affordable housing construction grants
+6 and loans, including administration funding authorized pursuant to Section 24-32-721(3)(b), C.R.S., be expended in the Affordable Housing Program Costs
+7 line item.
+8
+9 73 Department of Local Affairs, Division of Local Government, Field Services, Program Costs -- It is the General Assembly's intent that $462,500 of the
+10 reappropriated funds in this line item appropriation be used for the Colorado Main Street Program.
+-30- HB26-1161
+
+1 SECTION 2. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-31- HB26-1161

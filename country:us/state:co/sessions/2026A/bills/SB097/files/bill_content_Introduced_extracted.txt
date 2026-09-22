@@ -1,0 +1,460 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0432.02 Anna Petrini x5497 SENATE BILL 26-097
+SENATE SPONSORSHIP
+Hinrichsen and Cutter,
+HOUSE SPONSORSHIP
+Garcia and Stewart R.,
+Senate Committees House Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING DECRIMINALIZING COMMERCIAL SEXUAL ACTIVITY
+102 AMONG CONSENTING ADULTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the statewide decriminalization of commercial
+sexual activity among consenting adults. It declares that decriminalizing
+commercial sexual activity among consenting adults is a matter of
+statewide concern and expressly preempts statutory or home rule city,
+town, city and county, or county ordinances, resolutions, regulations, or
+codes criminalizing commercial sexual activity.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill repeals the state criminal offenses of prostitution,
+soliciting for prostitution, keeping a place of prostitution, patronizing a
+prostitute, and prostitute making display. It also repeals the offense of
+pandering when it involves knowingly arranging or offering to arrange a
+situation that permits a person to practice prostitution. The bill maintains
+current state criminal penalties for pandering that involves menacing or
+criminal intimidation and for pimping, but it changes terminology in those
+offenses by replacing "prostitution" with "commercial sexual activity".
+The bill makes various conforming amendments, including those
+related to: Reporting requirements, immunity, affirmative defenses, and
+criminal conviction records in human trafficking cases; public nuisances;
+certification by the peace officers standards and training board; and the
+regulation of escort bureaus and massage parlors. The bill eliminates a
+court program for persons charged with certain prostitution-related
+offenses.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, repeal and reenact,
+3 with amendments, 18-7-201 as follows:
+4 18-7-201. Commercial sexual activity - legislative declaration.
+5 (1) AN ADULT WHO ENGAGES IN CONSENSUAL COMMERCIAL
+6 SEXUAL ACTIVITY WITH ANOTHER ADULT DOES NOT VIOLATE STATE LAW
+7 OR AN ORDINANCE, RESOLUTION, REGULATION, OR CODE ADOPTED BY A
+8 STATUTORY OR HOME RULE CITY, TOWN, CITY AND COUNTY, OR COUNTY.
+9 (2) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+10 (a) CRIMINALIZING PROSTITUTION ENDANGERS ADULTS WHO
+11 ENGAGE IN CONSENSUAL SEXUAL ACTIVITY. FEAR OF CRIMINAL
+12 PUNISHMENT AMONG CONSENTING ADULTS ENGAGED IN COMMERCIAL
+13 SEXUAL ACTIVITY ENCOURAGES PHYSICAL, EMOTIONAL, AND STRUCTURAL
+14 VIOLENCE AGAINST SEX WORKERS, SUBJECTS THEM TO ECONOMIC CRIMES,
+15 AND INCREASES RESISTANCE TO HARM-REDUCTION PRACTICES. SEX
+16 WORKERS ARE LESS LIKELY TO REPORT THESE CRIMES OR SEEK MEDICAL
+17 HELP FOLLOWING AN ASSAULT.
+-2- SB26-097
+
+1 (b) LIKE WORKERS IN OTHER FIELDS, SEX WORKERS DESERVE THE
+2 OPPORTUNITY TO SCREEN THEIR CLIENTS TO ENSURE A SAFE TRANSACTION.
+3 CRIMINALIZING CLIENT CONDUCT CREATES A DISINCENTIVE FOR
+4 PROSPECTIVE CLIENTS TO SHARE PERSONAL INFORMATION, WHICH INHIBITS
+5 SEX WORKERS' ABILITY TO MAINTAIN THEIR SAFETY.
+6 (c) CONSENSUAL COMMERCIAL SEXUAL ACTIVITY IS DISTINCT
+7 FROM HUMAN TRAFFICKING, WHICH REMOVES THE AGENCY OF TRAFFICKED
+8 INDIVIDUALS AND COERCES THEM INTO OFTEN HARMFUL SEXUAL
+9 EXCHANGES. DECRIMINALIZING CONSENSUAL SEX WORK FOR ADULTS
+10 ENABLES LAW ENFORCEMENT TO FOCUS RESOURCES ON PERPETRATORS
+11 WHO INDUCE OTHERS TO PERFORM SEX ACTS BY FORCE, FRAUD, OR
+12 COERCION.
+13 (d) DECRIMINALIZING COMMERCIAL SEXUAL ACTIVITY AMONG
+14 CONSENTING ADULTS IS A MATTER OF STATEWIDE CONCERN. SEX WORK
+15 TRANSACTIONS OFTEN OCCUR ONLINE, SPANNING MULTIPLE LOCAL
+16 GOVERNMENT JURISDICTIONS. SEX WORKERS DESERVE CLARITY AND
+17 CERTAINTY THAT THEY CAN SAFELY CONDUCT BUSINESS WITHIN THE
+18 STATE, REGARDLESS OF THE LOCAL GOVERNING AUTHORITY.
+19 (e) THEREFORE, THIS SECTION PREEMPTS ANY ORDINANCE,
+20 RESOLUTION, REGULATION, OR CODE ADOPTED BY A STATUTORY OR HOME
+21 RULE CITY, TOWN, CITY AND COUNTY, OR COUNTY CRIMINALIZING
+22 CONSENSUAL COMMERCIAL SEXUAL ACTIVITY AMONG ADULTS.
+23 SECTION 2. In Colorado Revised Statutes, add 18-7-200.3 as
+24 follows:
+25 18-7-200.3. Definitions.
+26 (1) AS USED IN THIS PART 2, UNLESS THE CONTEXT OTHERWISE
+27 REQUIRES:
+-3- SB26-097
+
+1 (a) "ADULT" MEANS A PERSON WHO IS EIGHTEEN YEARS OLD OR
+2 OLDER.
+3 (b) "ANAL INTERCOURSE" MEANS CONTACT BETWEEN HUMAN
+4 BEINGS OF THE GENITAL ORGANS OF ONE AND THE ANUS OF ANOTHER.
+5 (c) "COMMERCIAL SEXUAL ACTIVITY" MEANS PERFORMING OR
+6 OFFERING OR AGREEING TO PERFORM ANY ACT OF SEXUAL INTERCOURSE,
+7 FELLATIO, CUNNILINGUS, MASTURBATION, OR ANAL INTERCOURSE WITH
+8 ANOTHER WHO IS NOT THE PERSON'S SPOUSE FOR WHICH THE PERSON
+9 GIVES, PROMISES, OR RECEIVES ANYTHING OF VALUE.
+10 (d) "CUNNILINGUS" MEANS ANY ACT OF ORAL STIMULATION OF THE
+11 VULVA OR CLITORIS.
+12 (e) "FELLATIO" MEANS ANY ACT OF ORAL STIMULATION OF THE
+13 PENIS.
+14 (f) "MASTURBATION" MEANS STIMULATION OF THE GENITAL
+15 ORGANS BY MANUAL OR OTHER BODILY CONTACT EXCLUSIVE OF SEXUAL
+16 INTERCOURSE.
+17 SECTION 3. In Colorado Revised Statutes, repeal 18-7-201.3 as
+18 follows:
+19 18-7-201.3. Affirmative defense - human trafficking -
+20 expungement of record protective order - definitions.
+21 (1) A person charged with prostitution, as described in section
+22 18-7-201 or any corresponding municipal code or ordinance, for an
+23 offense committed on or after July 1, 2015, which offense was committed
+24 as a direct result of being a victim of human trafficking, may assert as an
+25 affirmative defense that he or she is a victim of human trafficking as
+26 defined in subsection (4) of this section. To assert the affirmative defense
+27 pursuant to this subsection (1), the person charged with the offense must
+-4- SB26-097
+
+1 demonstrate by a preponderance of the evidence that he or she was a
+2 victim of human trafficking at the time of the offense. An official
+3 determination or documentation is not required to assert an affirmative
+4 defense pursuant to this subsection (1), but official documentation from
+5 a federal, state, local, or tribal government agency indicating that the
+6 defendant was a victim at the time of the offense creates a presumption
+7 that his or her participation in the offense was a direct result of being a
+8 victim.
+9 (2) Repealed.
+10 (3) At the request of a person who asserted the affirmative defense
+11 pursuant to subsection (1) of this section, the court may at any time issue
+12 a protective order concerning protecting the confidentiality of the person
+13 asserting the affirmative defense.
+14 (4) As used in this section, unless the context otherwise requires:
+15 (a) "Human trafficking" means an offense described in part 5 of
+16 article 3 of this title or any conduct that, if it occurred prior to the
+17 enactment of such part 5, would constitute an offense of human
+18 trafficking pursuant to part 5 of article 3 of this title.
+19 (b) "Victim of human trafficking" means a "victim" as defined in
+20 section 18-3-502 (12).
+21 SECTION 4. In Colorado Revised Statutes, amend 18-7-201.4
+22 as follows:
+23 18-7-201.4. Victim of human trafficking of a minor for sexual
+24 servitude - provision of services - reporting.
+25 If a law enforcement officer encounters a person who is under
+26 eighteen years of age OLD and who is engaging in any conduct that would
+27 be a violation of section 18-7-201, 18-7-202, 18-7-204, or 18-7-207, AS
+-5- SB26-097
+
+1 THE SECTIONS EXISTED PRIOR TO JULY 1, 2026, or a prostitution-related
+2 offense CORRESPONDING COMMERCIAL-SEXUAL-ACTIVITY-RELATED
+3 VIOLATION pursuant to a county or municipal ordinance, AS THE
+4 ORDINANCE EXISTED PRIOR TO JULY 1, 2026, and there is probable cause
+5 to believe that the minor is a victim of human trafficking of a minor for
+6 sexual servitude pursuant to section 18-3-504, the law enforcement
+7 officer or agency shall immediately report a suspected violation of human
+8 trafficking of a minor for sexual servitude to the appropriate county
+9 department of human or social services or the child abuse reporting
+10 hotline system created pursuant to section 26-5-111. The county
+11 department of human or social services shall subsequently follow the
+12 reporting requirements set forth in section 19-3-308 (4)(c).
+13 SECTION 5. In Colorado Revised Statutes, repeal 18-7-202 as
+14 follows:
+15 18-7-202. Soliciting for prostitution.
+16 (1) A person commits soliciting for prostitution if he:
+17 (a) Solicits another for the purpose of prostitution; or
+18 (b) Arranges or offers to arrange a meeting of persons for the
+19 purpose of prostitution; or
+20 (c) Directs another to a place knowing such direction is for the
+21 purpose of prostitution.
+22 (2) Soliciting for prostitution is a petty offense. A person who is
+23 convicted of soliciting for prostitution may be required to pay a fine of
+24 not more than five thousand dollars in addition to any penalty imposed by
+25 the court pursuant to section 18-1.3-501, which additional fine shall be
+26 transferred to the state treasurer, who shall transfer the same to the
+27 prostitution enforcement cash fund created in section 24-33.5-513.
+-6- SB26-097
+
+1 SECTION 6. In Colorado Revised Statutes, amend 18-7-203 as
+2 follows:
+3 18-7-203. Pandering.
+4 (1) Any A person who does any of the following for money or
+5 other thing of value commits pandering:
+6 (a) Inducing a person by menacing or criminal intimidation to
+7 commit prostitution; or ENGAGE IN COMMERCIAL SEXUAL ACTIVITY.
+8 (b) Knowingly arranging or offering to arrange a situation in
+9 which a person may practice prostitution.
+10 (2) (a) Pandering under paragraph (a) of subsection (1) PURSUANT
+11 TO SUBSECTION (1)(a) of this section is a class 5 felony. A person who is
+12 convicted of pandering under paragraph (a) of subsection (1) PURSUANT
+13 TO SUBSECTION (1)(a) of this section shall be required to pay a fine of not
+14 less than five thousand dollars and not more than ten thousand dollars in
+15 addition to any penalty imposed by the court pursuant to section
+16 18-1.3-401. which additional fine shall be transferred to the state
+17 treasurer, who shall transfer the same to the prostitution enforcement cash
+18 fund created in section 24-33.5-513, C.R.S.
+19 (b) Pandering pursuant to subsection (1)(b) of this section is a
+20 class 2 misdemeanor. A person who is convicted of pandering shall be
+21 required to pay a fine of not less than five thousand dollars and not more
+22 than ten thousand dollars in addition to any penalty imposed by the court
+23 pursuant to section 18-1.3-501, which additional fine shall be transferred
+24 to the state treasurer, who shall transfer the same to the prostitution
+25 enforcement cash fund created in section 24-33.5-513.
+26 SECTION 7. In Colorado Revised Statutes, repeal 18-7-204 as
+27 follows:
+-7- SB26-097
+
+1 18-7-204. Keeping a place of prostitution.
+2 (1) Any person who has or exercises control over the use of any
+3 place which offers seclusion or shelter for the practice of prostitution and
+4 who performs any one or more of the following commits keeping a place
+5 of prostitution if he:
+6 (a) Knowingly grants or permits the use of such place for the
+7 purpose of prostitution; or
+8 (b) Permits the continued use of such place for the purpose of
+9 prostitution after becoming aware of facts or circumstances from which
+10 he should reasonably know that the place is being used for purposes of
+11 prostitution.
+12 (2) Keeping a place of prostitution is a class 2 misdemeanor.
+13 SECTION 8. In Colorado Revised Statutes, repeal 18-7-205 as
+14 follows:
+15 18-7-205. Patronizing a prostitute.
+16 (1) Any person who performs any of the following with a person
+17 not his spouse commits patronizing a prostitute:
+18 (a) Engages in an act of sexual intercourse or of deviate sexual
+19 conduct with a prostitute; or
+20 (b) Enters or remains in a place of prostitution with intent to
+21 engage in an act of sexual intercourse or deviate sexual conduct.
+22 (2) Patronizing a prostitute is a petty offense. A person who is
+23 convicted of patronizing a prostitute may be required to pay a fine of not
+24 more than five thousand dollars in addition to any penalty imposed by the
+25 court pursuant to section 18-1.3-401 or 18-1.3-503, which additional fine
+26 shall be transferred to the state treasurer, who shall transfer the same to
+27 the prostitution enforcement cash fund created in section 24-33.5-513.
+-8- SB26-097
+
+1 SECTION 9. In Colorado Revised Statutes, amend 18-7-206 as
+2 follows:
+3 18-7-206. Pimping.
+4 Any A person who knowingly lives on or is supported or
+5 maintained in whole or in part by money or other thing of value earned,
+6 received, procured, or realized by any other ANOTHER person through
+7 prostitution COMMERCIAL SEXUAL ACTIVITY commits pimping, which is
+8 a class 3 felony.
+9 SECTION 10. In Colorado Revised Statutes, repeal 18-7-207 as
+10 follows:
+11 18-7-207. Prostitute making display.
+12 Any person who by word, gesture, or action endeavors to further
+13 the practice of prostitution in any public place or within public view
+14 commits a petty offense.
+15 SECTION 11. In Colorado Revised Statutes, amend 18-7-209 as
+16 follows:
+17 18-7-209. Immunity from prostitution-related offenses -
+18 victims - human trafficking of a minor for involuntary servitude -
+19 human trafficking of a minor for sexual servitude.
+20 If probable cause exists to believe that a minor charged with a
+21 prostitution-related activity pursuant to section 18-7-201, 18-7-202,
+22 18-7-204, or 18-7-207, AS THE SECTIONS EXISTED PRIOR TO JULY 1, 2026,
+23 or a prostitution-related CORRESPONDING COMMERCIAL-SEXUAL-
+24 ACTIVITY-RELATED offense pursuant to a county or municipal ordinance,
+25 AS THE ORDINANCE EXISTED PRIOR TO JULY 1, 2026, was a victim of
+26 human trafficking of a minor for involuntary servitude, pursuant to
+27 section 18-3-503 (2), or human trafficking of a minor for sexual
+-9- SB26-097
+
+1 servitude, pursuant to section 18-3-504 (2), at the time of the offense
+2 being charged, the minor is immune from criminal liability or juvenile
+3 delinquency proceedings for such charges.
+4 SECTION 12. In Colorado Revised Statutes, 12-235-108, amend
+5 (5) as follows:
+6 12-235-108. License - requirements - denial of license
+7 application.
+8 (5) Notwithstanding any provision of this section, the director may
+9 deny a license if the applicant has committed any act that would be
+10 grounds for disciplinary action under section 12-235-111 or if the director
+11 determines, subsequent to the criminal history record check, that the
+12 applicant was convicted of, pled guilty or nolo contendere to, or received
+13 a deferred sentence for a charge of unlawful sexual behavior as defined
+14 in section 16-22-102, any prostitution-related offense, or a
+15 human-trafficking-related offense as described in sections 18-3-503 and
+16 18-3-504, whether or not the act was committed in Colorado.
+17 SECTION 13. In Colorado Revised Statutes, 12-235-111, amend
+18 (1)(m) as follows:
+19 12-235-111. Grounds for discipline - definitions.
+20 (1) The director is authorized to take disciplinary action pursuant
+21 to section 12-235-112 against any person who has:
+22 (m) Been convicted of, pled guilty or nolo contendere to, or
+23 received a deferred sentence for a charge of unlawful sexual behavior as
+24 defined in section 16-22-102, any prostitution-related offense, or any
+25 human-trafficking-related offense as described in sections 18-3-503 and
+26 18-3-504, whether or not the act was committed in Colorado;
+27 SECTION 14. In Colorado Revised Statutes, repeal 13-10-126.
+-10- SB26-097
+
+1 SECTION 15. In Colorado Revised Statutes, 16-13-303, amend
+2 (1) introductory portion and (1)(a) as follows:
+3 16-13-303. Class 1 public nuisance.
+4 (1) Every building or part of a building including the ground upon
+5 which it is situate and all fixtures and contents thereof, every vehicle, and
+6 any real property shall be IS deemed a class 1 public nuisance when:
+7 (a) Used as a public or private place of prostitution or used as a
+8 place where the commission of soliciting for prostitution, as defined in
+9 section 18-7-202, C.R.S.; pandering, as defined in section 18-7-203;
+10 C.R.S.; keeping a place of prostitution, as defined in section 18-7-204,
+11 C.R.S.; pimping, as defined in section 18-7-206; C.R.S.; or human
+12 trafficking, as described in section 18-3-503 or 18-3-504, C.R.S., occurs;
+13 SECTION 16. In Colorado Revised Statutes, 16-13-304, amend
+14 (1)(b) as follows:
+15 16-13-304. Class 2 public nuisance.
+16 (1) The following are deemed to be a class 2 public nuisance:
+17 (b) Any public or private place or premises which THAT
+18 encourages professional gambling, unlawful use, sale, or distribution of
+19 imitation controlled substances, as defined in section 18-18-420 (3),
+20 C.R.S., drugs, controlled substances, as defined in section 18-18-102 (5),
+21 C.R.S., or other drugs the possession of which is an offense under the
+22 laws of this state, furnishing or selling intoxicating liquor to minors,
+23 furnishing or selling fermented malt beverages to persons under the age
+24 of twenty-one, solicitation for prostitution, or traffic in stolen property;
+25 or
+26 SECTION 17. In Colorado Revised Statutes, 18-1-410.7, amend
+27 (1)(c) as follows:
+-11- SB26-097
+
+1 18-1-410.7. Vacating certain criminal convictions for victims
+2 of human trafficking.
+3 (1) (c) This section does not apply to a conviction if the individual
+4 raised an affirmative defense described in section 18-7-201.3 or 18-3-504
+5 (2.5) at trial and was still convicted after raising the defense.
+6 SECTION 18. In Colorado Revised Statutes, 18-1-712.5, amend
+7 (2) and (4) as follows:
+8 18-1-712.5. Immunity for sex workers and persons who are
+9 victims of human trafficking for sexual servitude and who suffer or
+10 report an assault - definition.
+11 (2) A person is immune from arrest and prosecution for
+12 prostitution as described in section 18-7-201, AS IT EXISTED PRIOR TO
+13 JULY 1, 2026, soliciting for prostitution as described in section 18-7-202,
+14 AS IT EXISTED PRIOR TO JULY 1, 2026, and a prostitute making display as
+15 described in section 18-7-207, AS IT EXISTED PRIOR TO JULY 1, 2026, if the
+16 person seeks assistance from a law enforcement officer, the 911 system,
+17 or a medical provider and if the evidence for the charge of prostitution,
+18 soliciting prostitution, or a prostitute making display was obtained as a
+19 result of the person seeking assistance, as a result of the need for
+20 assistance, or as a result of the reporting of assistance. This subsection (2)
+21 also applies to equivalent municipal charges and arrests, PURSUANT TO
+22 MUNICIPAL CODES OR ORDINANCES, AS THEY EXISTED PRIOR TO JULY 1,
+23 2026.
+24 (4) The immunity described in subsection (2) of this section for
+25 the offense of prostitution is not grounds for suppression of evidence in
+26 other criminal charges. Nothing in this section prohibits the prosecution
+27 of a person for offenses OR MUNICIPAL CODE OR ORDINANCE VIOLATIONS
+-12- SB26-097
+
+1 other than those listed in subsection (2) of this section, or to limit the
+2 ability of a district attorney or law enforcement officer to obtain or use
+3 evidence from a report, recording, or any other statement provided
+4 pursuant to subsection (2) of this section to prosecute an offense other
+5 than those listed in subsection (2) of this section. Nothing in this section
+6 prohibits the provision of immunity pursuant to other sections of law, as
+7 applicable, including section 18-1-711.
+8 SECTION 19. In Colorado Revised Statutes, 24-31-305, amend
+9 (1.5)(a)(III) as follows:
+10 24-31-305. Certification - issuance - renewal - revocation -
+11 rules - definition.
+12 (1.5) (a) The P.O.S.T. board shall deny certification to any person
+13 who has been convicted of:
+14 (III) Any A misdemeanor in violation of sections 18-7-201,
+15 18-7-202, 18-7-203, 18-7-204, 18-7-302 and 18-7-601; C.R.S.;
+16 SECTION 20. In Colorado Revised Statutes, 24-72-707, amend
+17 (1.5) as follows:
+18 24-72-707. Sealing of criminal conviction records information
+19 for offenses committed by victims of human trafficking.
+20 (1.5) A person charged with or convicted of prostitution, as
+21 described in section 18-7-201, AS IT EXISTED PRIOR TO JULY 1, 2026, or
+22 any corresponding municipal code or ordinance, which offense AS IT
+23 EXISTED PRIOR TO JULY 1, 2026, THAT was committed as a direct result of
+24 being a victim of human trafficking, as defined in section 18-7-201.3 (4),
+25 may file a motion with the court for a sealing of the person's records.
+26 SECTION 21. In Colorado Revised Statutes, 29-11.8-109,
+27 amend (2) as follows:
+-13- SB26-097
+
+1 29-11.8-109. Persons prohibited as licensees.
+2 (2) For purposes of determining good moral character, the local
+3 licensing authority may consider the criminal record of all applicants,
+4 including, but not limited to, any conviction or guilty plea to a charge
+5 based on acts of dishonesty, fraud, deceit, OR sexual misconduct, or
+6 prostitution-related misconduct of any kind, whether or not the acts were
+7 committed in this state.
+8 SECTION 22. In Colorado Revised Statutes, 29-11.8-112,
+9 amend (2) as follows:
+10 29-11.8-112. Duties of escort bureau.
+11 (2) The escort bureau shall provide to each escort patron a written
+12 contract for services. The contract shall MUST clearly state the name and
+13 address of the escort and customer, the type of services to be performed,
+14 the length of time such THE services shall ARE TO be performed, the total
+15 amount of money such THE services will cost the escort patron, and any
+16 special terms or conditions relating to the services to be performed. The
+17 contract shall include a statement in clear and concise language that
+18 prostitution is illegal in this state and that both parties to an act of
+19 prostitution may be punished by both fine and imprisonment and that no
+20 act of prostitution shall be performed in relation to the services for which
+21 contracted. Each contract shall MUST be numbered and utilized in
+22 numerical sequence by the escort bureau. The contract shall MUST be
+23 signed by the escort patron and a copy furnished to him or her THE
+24 PATRON. The escort bureau shall also retain copies of all such contracts,
+25 and THE ESCORT BUREAU SHALL TRANSMIT one copy of each such contract
+26 executed in any A calendar month shall be transmitted by the escort
+27 bureau to the local licensing authority no later than ten days after the last
+-14- SB26-097
+
+1 day of such THE month. The local licensing authority shall treat such THE
+2 contracts transmitted to them as open public records.
+3 SECTION 23. In Colorado Revised Statutes, 30-15-401.4,
+4 amend (4)(a)(IV)(C), (5)(b), and (5)(j) as follows:
+5 30-15-401.4. Statewide policy to prevent the operation of illicit
+6 massage businesses - local regulation authorized - background checks
+7 required - legislative declaration - definitions.
+8 (4) (a) If a local government adopts a resolution or ordinance to
+9 establish business licensure requirements for massage facilities as set
+10 forth in subsection (3)(a) of this section, the business licensure
+11 requirements may only include:
+12 (IV) Allowing a licensing authority or a licensing authority's
+13 designee to deny an application if:
+14 (C) The applicant or an owner, prospective owner, or employee
+15 has been convicted of or entered a plea of guilty or nolo contendere that
+16 is accepted by the court for a felony or misdemeanor for solicitation of a
+17 prostitute, as described in section 18-7-202; a human-trafficking-related
+18 offense, as described in section 18-3-503 or 18-3-504; money laundering,
+19 as described in section 18-5-309;
+20 (5) A local government may adopt a resolution or ordinance to
+21 prohibit activities to prevent the operation of illicit massage businesses
+22 that engage in human trafficking-related offenses as described in sections
+23 18-3-503 and 18-3-504. Prohibited activities include:
+24 (b) Advertising to a prospective client that services, including
+25 prostitution, sexual acts, escort services, sexual services, or services
+26 related to human trafficking disguised as legitimate services are available;
+27 (j) Permitting a person in a massage facility to make an agreement
+-15- SB26-097
+
+1 with an employee or contractor to engage in any prostitution-related
+2 COMMERCIAL-SEXUAL-ACTIVITY-RELATED offense in the massage facility;
+3 or any other location;
+4 SECTION 24. Effective date - applicability. This act takes
+5 effect July 1, 2026, and applies to conduct occurring on or after said date.
+6 SECTION 25. Safety clause. The general assembly finds,
+7 determines, and declares that this act is necessary for the immediate
+8 preservation of the public peace, health, or safety or for appropriations for
+9 the support and maintenance of the departments of the state and state
+10 institutions.
+-16- SB26-097

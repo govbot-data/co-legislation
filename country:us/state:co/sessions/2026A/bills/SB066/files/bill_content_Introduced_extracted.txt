@@ -1,0 +1,310 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0540.01 Christopher McMichael x4775 SENATE BILL 26-066
+SENATE SPONSORSHIP
+Jodeh and Carson,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THE REGULATION OF COMPOUNDED WEIGHT-LOSS
+102 MEDICATIONS THAT HAVE NOT BEEN APPROVED BY THE UNITED
+103 STATES FOOD AND DRUG ADMINISTRATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill establishes regulations for the sale, transfer, or distribution
+of compounded weight-loss medications, which are custom-made
+medications that, unlike mass-produced medications, are not subject to
+approval by the federal food and drug administration (FDA). A person
+may not sell, transfer, or distribute a compounded weight-loss medication
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+unless the person confirms that the medication:
+! Is made from bulk drug substances and drugs that are
+approved by the FDA when such approval is required;
+! Was manufactured in compliance with FDA processes;
+! Contains bulk drug substances that are pharmaceutical
+grade and are accompanied by a certificate of analysis
+containing information that is material to the safety and
+efficacy of the bulk drug substances;
+! Was manufactured at a facility that is registered with the
+FDA and passed an FDA inspection within the previous 2
+years; and
+! Is verified for purity and accurate dosage.
+Labels for compounded weight-loss medications must list all
+active and inactive ingredients, the quantity of those ingredients, and the
+ingredients' country of origin. There must also be a warning on the label
+stating that the compounded weight-loss medication has not been
+FDA-approved, has inadequate evidence of safety or efficacy, and has
+known and unknown side effects. A person must also provide certain
+disclosures to a patient when prescribing compounded weight-loss
+medications.
+The bill prohibits the use of false or misleading claims, including
+unsubstantiated claims, when advertising or promoting compounded
+weight-loss medications.
+A person that sells, transfers, or distributes compounded
+weight-lost medication must keep records related to the compounded
+weight-loss medication for at least 2 years after the date of expiration of
+the compounded weight-loss medication and make those records available
+for inspection by the state board of pharmacy.
+The state board of pharmacy may issue fines of up to $1,000 per
+dose of compounded weight-loss medications that are sold or distributed
+in violation of the bill and may revoke a pharmacy or business license for
+violations.
+The attorney general has authority to enforce this bill as a
+deceptive trade practice under the "Colorado Consumer Protection Act".
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The United States food and drug administration, referred to in
+5 this section as the "FDA", provides regulatory oversight and sets
+-2- SB26-066
+
+1 internationally recognized standards for drug approval; however, there
+2 have been increasing attempts to circumvent these regulations by
+3 companies that develop, dispense, and market non-FDA-approved
+4 compounded medications, notably weight-loss drugs, which undermines
+5 public trust and patient safety;
+6 (b) Compounded medications should only be prescribed and
+7 dispensed when a patient's medical needs cannot be met by drugs that
+8 have been approved by the FDA;
+9 (c) Compounded weight-loss medications are not approved by the
+10 FDA and therefore do not carry the same assurances of safety and
+11 efficacy as FDA-approved products, resulting in increased risks to
+12 patients;
+13 (d) Compounded weight-loss medications, such as compounded
+14 GLP-1 medications, have demonstrated that a high demand can lead to
+15 the proliferation of illicit, substandard, and potentially harmful
+16 pharmaceutical substances in weight-loss ingredients and medications,
+17 which jeopardizes patient health and safety;
+18 (e) Patients in Colorado are at risk of receiving compounded
+19 weight-loss medications that are not approved by the FDA or are not
+20 manufactured in compliance with FDA good manufacturing practice
+21 requirements, including compounded weight-loss medications made with
+22 ingredients that are imported into the United States from foreign countries
+23 with less stringent regulations;
+24 (f) The safety and integrity of compounded weight-loss
+25 ingredients and medications are paramount for the health and well-being
+26 of patients in Colorado;
+27 (g) Patients in Colorado deserve to have clear information
+-3- SB26-066
+
+1 regarding the origin and preparation of compounded weight-loss
+2 ingredients and medications;
+3 (h) Even though FDA-approved GLP-1 medications are widely
+4 available, certain actors continue to violate federal and state laws by mass
+5 compounding products under the guise of personalization; and
+6 (i) Therefore, the general assembly should take action to protect
+7 Coloradans by ensuring that compounded weight-loss medications are
+8 sourced from reputable, licensed, and inspected establishments and that
+9 those medications contain safe and pharmaceutical-grade ingredients.
+10 SECTION 2. In Colorado Revised Statutes, add 12-280-120.5 as
+11 follows:
+12 12-280-120.5. Regulation of compounded weight-loss
+13 medication - prohibited conduct - labeling requirements - deceptive
+14 advertising - enforcement - rules - definitions.
+15 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+16 OTHERWISE REQUIRES:
+17 (a) (I) "BULK DRUG SUBSTANCE", ALSO REFERRED TO AS AN
+18 "ACTIVE PHARMACEUTICAL INGREDIENT", MEANS A SUBSTANCE THAT IS
+19 INTENDED FOR INCORPORATION INTO A FINISHED DRUG PRODUCT AND IS
+20 INTENDED TO FURNISH PHARMACOLOGICAL ACTIVITY OR OTHER DIRECT
+21 EFFECTS IN THE DIAGNOSIS, CURE, MITIGATION, TREATMENT, OR
+22 PREVENTION OF DISEASE OR TO AFFECT THE STRUCTURE OR FUNCTION OF
+23 THE BODY.
+24 (II) "BULK DRUG SUBSTANCE" DOES NOT INCLUDE INTERMEDIATES
+25 USED IN THE SYNTHESIS OF THE SUBSTANCE.
+26 (b) "COMPOUNDED WEIGHT-LOSS MEDICATION" MEANS A DRUG
+27 THAT IS:
+-4- SB26-066
+
+1 (I) CREATED BY THE COMBINING, MIXING, OR ALTERING OF OTHER
+2 DRUGS OR BULK DRUG SUBSTANCES; AND
+3 (II) INTENDED TO BE USED BY HUMANS FOR WEIGHT LOSS.
+4 (2) Prohibited conduct. A PERSON SHALL NOT ENGAGE IN THE
+5 SALE, TRANSFER, OR DISTRIBUTION OF A COMPOUNDED WEIGHT-LOSS
+6 MEDICATION UNDER SECTION 503A OF THE "FEDERAL FOOD, DRUG, AND
+7 COSMETIC ACT", 21 U.S.C. SEC. 353a, UNLESS THE PERSON THAT IS
+8 SELLING, TRANSFERRING, OR DISTRIBUTING THE COMPOUNDED
+9 WEIGHT-LOSS MEDICATION:
+10 (a) USES BULK DRUG SUBSTANCES THAT:
+11 (I) COMPLY WITH THE STANDARDS OF AN APPLICABLE UNITED
+12 STATES PHARMACOPOEIA OR NATIONAL FORMULARY MONOGRAPH, IF A
+13 MONOGRAPH EXISTS, AND THE UNITED STATES PHARMACOPOEIA CHAPTER
+14 ON PHARMACY COMPOUNDING;
+15 (II) IF A MONOGRAPH FOR ANY OF THE BULK DRUG SUBSTANCES
+16 DOES NOT EXIST, ARE COMPONENTS OF A DRUG APPROVED BY THE FDA;
+17 OR
+18 (III) IF A MONOGRAPH FOR ANY OF THE BULK DRUG SUBSTANCES
+19 DOES NOT EXIST AND THE BULK DRUG SUBSTANCE IS NOT A COMPONENT
+20 OF A DRUG APPROVED BY THE FDA, ARE ON THE LIST DEVELOPED BY THE
+21 FDA PURSUANT TO 21 U.S.C. SEC. 353a (b)(1)(A)(i)(III);
+22 (b) CONFIRMS THAT, IF A BULK DRUG SUBSTANCE IS USED IN
+23 ACCORDANCE WITH SUBSECTION (2)(a)(II) OF THIS SECTION, THE BULK
+24 DRUG SUBSTANCE WAS REVIEWED AS PART OF A NEW DRUG APPLICATION
+25 APPROVED BY THE FDA PURSUANT TO SECTION 505 OF THE "FEDERAL
+26 FOOD, DRUG, AND COSMETIC ACT", 21 U.S.C. SEC. 355;
+27 (c) CONFIRMS THAT THE BULK DRUG SUBSTANCES IN THE
+-5- SB26-066
+
+1 COMPOUNDED WEIGHT-LOSS MEDICATION ARE HUMAN
+2 PHARMACEUTICAL-GRADE PRODUCTS;
+3 (d) VERIFIES THAT THE BULK DRUG SUBSTANCES IN THE
+4 COMPOUNDED WEIGHT- LOSS MEDICATION HAVE A VALID CERTIFICATE OF
+5 ANALYSIS CONTAINING INFORMATION MATERIAL TO THE SAFETY AND
+6 EFFECTIVENESS OF THE DRUGS MADE FROM THE BULK DRUG SUBSTANCES
+7 THAT ARE USED IN THE COMPOUNDED WEIGHT-LOSS MEDICATION,
+8 INCLUDING THE IDENTIFICATION AND PURITY OF THOSE BULK DRUG
+9 SUBSTANCES;
+10 (e) OBTAINS PROOF THAT THE BULK DRUG SUBSTANCES USED IN
+11 THE COMPOUNDED WEIGHT-LOSS MEDICATION WERE MANUFACTURED BY
+12 A MANUFACTURER THAT:
+13 (I) IS REGISTERED WITH THE FDA IN ACCORDANCE WITH 21 U.S.C.
+14 SEC. 360; AND
+15 (II) HAS BEEN INSPECTED BY THE FDA AS A HUMAN DRUG
+16 ESTABLISHMENT WITHIN THE PREVIOUS TWO YEARS FROM THE DATE ON
+17 WHICH THE COMPOUNDED WEIGHT-LOSS MEDICATION WAS COMPOUNDED
+18 AND THE INSPECTION:
+19 (A) INCLUDED CURRENT GOOD MANUFACTURING PRACTICE
+20 REQUIREMENTS COMPLIANCE RELEVANT TO THE BULK DRUG SUBSTANCES;
+21 AND
+22 (B) WAS CLASSIFIED AS "VOLUNTARY ACTION INDICATED" OR "NO
+23 ACTION INDICATED" BY THE FDA; AND
+24 (f) CONDUCTS AND DOCUMENTS QUALITY CONTROL TESTING OF A
+25 BULK DRUG SUBSTANCE PRIOR TO USING THE BULK DRUG SUBSTANCE IN A
+26 COMPOUNDED WEIGHT- LOSS MEDICATION, WHICH TESTING CONFIRMS:
+27 (I) THE IDENTITY AND CONTENT OF THE BULK DRUG SUBSTANCE;
+-6- SB26-066
+
+1 AND
+2 (II) THAT ANY IMPURITIES PRESENT IN THE BULK DRUG SUBSTANCE
+3 ARE IDENTIFIED, CHARACTERIZED, QUANTIFIED, AND JUSTIFIED GIVEN THE
+4 PRODUCT AND ITS INTENDED USE.
+5 (3) Labeling requirements.
+6 (a) THE LABEL OF A COMPOUNDED WEIGHT-LOSS MEDICATION
+7 MUST:
+8 (I) LIST EACH OF THE ACTIVE INGREDIENTS AND INACTIVE
+9 INGREDIENTS IN THE MEDICATION AND THE FOLLOWING INFORMATION
+10 ABOUT EACH INGREDIENT:
+11 (A) THE ESTABLISHED NAME OF THE INGREDIENT;
+12 (B) THE QUANTITY OR PROPORTION OF THE INGREDIENT; AND
+13 (C) THE COUNTRY OF ORIGIN OF THE INGREDIENT; AND
+14 (II) CONTAIN THE FOLLOWING STATEMENTS, PRINTED IN A CLEAR
+15 AND CONSPICUOUS MANNER ON THE LABEL:
+16 (A) "THIS IS A COMPOUNDED DRUG. COMPOUNDED DRUGS ARE NOT
+17 APPROVED BY THE UNITED STATES FOOD AND DRUG ADMINISTRATION,
+18 HAVE NO EVIDENCE OF SAFETY OR EFFICACY, AND HAVE KNOWN AND
+19 UNKNOWN POTENTIAL SIDE EFFECTS."
+20 (B) "THIS ITEM IS NOT FOR RESALE."
+21 (b) A PERSON THAT SELLS, TRANSFERS, OR DISTRIBUTES A
+22 COMPOUNDED WEIGHT-LOSS MEDICATION TO A PATIENT SHALL PROVIDE
+23 THE PATIENT WITH THE FOLLOWING INFORMATION:
+24 (I) ANY SIDE EFFECTS, ADVERSE REACTIONS, CONTRAINDICATIONS,
+25 PRECAUTIONS, AND WARNINGS ASSOCIATED WITH THE COMPOUNDED
+26 WEIGHT-LOSS MEDICATION, INCLUDING ANY SIDE EFFECTS, REACTIONS,
+27 CONTRAINDICATIONS, PRECAUTIONS, OR WARNINGS NOTED FROM CLINICAL
+-7- SB26-066
+
+1 TRIALS, RESEARCH, OR OTHER APPROPRIATE INFORMATION SOURCES; AND
+2 (II) IF A COMPOUNDED WEIGHT-LOSS MEDICATION CONTAINS AN
+3 ACTIVE INGREDIENT THAT IS LISTED AS AN ACTIVE INGREDIENT IN A DRUG
+4 THAT IS APPROVED BY THE FDA, A SUMMARY OF THE RISK INFORMATION
+5 DESCRIBED IN SUBSECTION (3)(b)(I) OF THIS SECTION THAT IS CONTAINED
+6 IN THE LABELING INFORMATION FOR THE FDA-APPROVED DRUG.
+7 (4) Deceptive advertising.
+8 (a) A PERSON SHALL NOT MAKE A FALSE OR MISLEADING CLAIM,
+9 INCLUDING AN UNSUBSTANTIATED CLAIM, ABOUT A COMPOUNDED
+10 WEIGHT-LOSS MEDICATION WHEN THE PERSON IS ADVERTISING OR
+11 OTHERWISE PROMOTING THE COMPOUNDED WEIGHT-LOSS MEDICATION.
+12 (b) A CLAIM ABOUT A COMPOUNDED WEIGHT-LOSS MEDICATION IS
+13 CONSIDERED MISLEADING IF THE CLAIM DOES NOT INCLUDE:
+14 (I) A DISCLOSURE OF THE POTENTIAL SIDE EFFECTS, ADVERSE
+15 REACTIONS, CONTRAINDICATIONS, PRECAUTIONS, AND WARNINGS
+16 ASSOCIATED WITH ACTIVE INGREDIENTS IN THE COMPOUNDED
+17 WEIGHT-LOSS MEDICATION, INCLUDING ANY SIDE EFFECTS, ADVERSE
+18 REACTIONS, CONTRAINDICATIONS, PRECAUTIONS, AND WARNINGS NOTED
+19 IN CLINICAL TRIALS, RESEARCH, OR OTHER APPROPRIATE INFORMATION
+20 SOURCES;
+21 (II) A SUMMARY OF THE SPECIFIED RISK INFORMATION FOR AN
+22 ACTIVE INGREDIENT OF THE COMPOUNDED WEIGHT-LOSS MEDICATION
+23 THAT IS NAMED AS AN ACTIVE INGREDIENT IN AN FDA-APPROVED DRUG,
+24 WHICH RISK INFORMATION IS CONTAINED IN THE LABELING OF THE
+25 FDA-APPROVED DRUG;
+26 (III) A CLEAR, CONSPICUOUS STATEMENT THAT THE PRODUCT IS A
+27 COMPOUNDED MEDICATION, HAS NOT BEEN APPROVED BY THE FDA, HAS
+-8- SB26-066
+
+1 INADEQUATE EVIDENCE OF SAFETY AND EFFICACY, AND HAS POTENTIAL
+2 UNKNOWN SIDE EFFECTS; AND
+3 (IV) A DISCLOSURE OF THE ENTITIES, SUCH AS SPECIFIC
+4 PHARMACIES AND OUTSOURCING FACILITIES, THAT ARE USED TO
+5 COMPOUND THE COMPOUNDED WEIGHT-LOSS MEDICATION.
+6 (5) Records and inspections.
+7 (a) (I) A PERSON THAT SELLS, TRANSFERS, OR DISTRIBUTES
+8 COMPOUNDED WEIGHT-LOSS MEDICATION SHALL MAINTAIN ALL RECORDS
+9 RELATED TO THE ACQUISITION, EXAMINATION, AND TESTING OF THE BULK
+10 DRUG SUBSTANCES USED IN THE COMPOUNDED WEIGHT-LOSS MEDICATION
+11 FOR AT LEAST TWO YEARS AFTER THE EXPIRATION DATE OF THE LAST LOT
+12 OF COMPOUNDED WEIGHT-LOSS MEDICATION CONTAINING BULK DRUG
+13 SUBSTANCES.
+14 (II) IF THE BOARD REQUESTS RECORDS FROM A PERSON THAT
+15 SELLS, TRANSFERS, OR DISTRIBUTES COMPOUNDED WEIGHT-LOSS
+16 MEDICATION, THE PERSON SHALL PROVIDE SUCH RECORDS TO THE BOARD
+17 WITHIN ONE BUSINESS DAY AFTER RECEIVING THE REQUEST, OR WITHIN
+18 ANOTHER REASONABLE TIME AS DETERMINED BY THE BOARD BASED ON
+19 THE CIRCUMSTANCES OF THE REQUEST.
+20 (b) (I) TO DETERMINE COMPLIANCE WITH THIS SECTION, THE
+21 BOARD MAY INSPECT THE BUSINESS RECORDS AND PREMISES OF ANY
+22 PERSON THAT ENGAGES IN THE COMPOUNDING OF COMPOUNDED
+23 WEIGHT-LOSS MEDICATION, INCLUDING ANY DOMESTIC SUPPLIER,
+24 WHOLESALER, REPACKAGER, OR OTHER PROVIDER OF BULK DRUG
+25 SUBSTANCES USED FOR COMPOUNDED WEIGHT-LOSS MEDICATION.
+26 (II) A PERSON THAT REFUSES TO COMPLY WITH AN INSPECTION BY
+27 THE BOARD VIOLATES THIS SECTION.
+-9- SB26-066
+
+1 (6) Enforcement.
+2 (a) IF THE BOARD DETERMINES THAT A PERSON VIOLATES THIS
+3 SECTION, THE BOARD MAY:
+4 (I) ASSESS A FINE IN THE AMOUNT OF UP TO ONE THOUSAND
+5 DOLLARS PER DOSE OF A COMPOUNDED WEIGHT-LOSS MEDICATION THAT
+6 IS SOLD, DISPENSED, TRANSFERRED, DISTRIBUTED, ADVERTISED, OR
+7 PROMOTED IN VIOLATION OF THIS SECTION; OR
+8 (II) REVOKE THE PERSON'S PHARMACY OR BUSINESS LICENSE
+9 ISSUED IN ACCORDANCE WITH THIS ARTICLE 280.
+10 (b) NOTWITHSTANDING SECTION 6-1-103, THE ATTORNEY GENERAL
+11 MAY ENFORCE THIS SECTION AS A DECEPTIVE TRADE PRACTICE PURSUANT
+12 TO SECTIONS 6-1-105 (1)(e) AND 6-1-105 (1)(qqqq).
+13 (7) Rules. THE BOARD MAY ADOPT RULES NECESSARY TO
+14 IMPLEMENT THIS SECTION.
+15 SECTION 3. In Colorado Revised Statutes, 6-1-105, add
+16 (1)(qqqq) as follows:
+17 6-1-105. Unfair or deceptive trade practices - definitions.
+18 (1) A person engages in a deceptive trade practice when, in the
+19 course of the person's business, vocation, or occupation, the person:
+20 (qqqq) VIOLATES SECTION 12-280-120.5.
+21 SECTION 4. Applicability. This act applies to conduct occurring
+22 on or after the effective date of this act.
+23 SECTION 5. Safety clause. The general assembly finds,
+24 determines, and declares that this act is necessary for the immediate
+25 preservation of the public peace, health, or safety or for appropriations for
+26 the support and maintenance of the departments of the state and state
+27 institutions.
+-10- SB26-066

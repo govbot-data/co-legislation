@@ -1,0 +1,216 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0906.01 Richard Sweetman x4333 HOUSE BILL 26-1391
+HOUSE SPONSORSHIP
+Brown and Sirota, Taggart
+SENATE SPONSORSHIP
+Amabile and Kirkmeyer, Bridges
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING CLEAN DRINKING WATER IN PLACES WHERE CHILDREN
+102 ARE PRESENT, AND, IN CONNECTION THEREWITH, EXTENDING
+103 THE SCHOOL AND CHILD CARE CLEAN DRINKING WATER FUND
+104 THROUGH THE 2028-29 STATE FISCAL YEAR, ADDING HIGH
+105 SCHOOLS TO THE SCOPE OF POTENTIAL RECIPIENTS OF GRANTS
+106 FROM THE SCHOOL AND CHILD CARE CLEAN DRINKING WATER
+107 FUND, PROHIBITING THE DEPARTMENT OF PUBLIC HEALTH AND
+108 ENVIRONMENT FROM ISSUING A LICENSE TO A CHILD CARE
+109 CENTER UNLESS THE CHILD CARE CENTER IS IN COMPLIANCE
+110 WITH LAWS CONCERNING THE TESTING OF DRINKING WATER,
+111 AND MAKING AN APPROPRIATION.
+Bill Summary
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. In 2022, the general assembly enacted,
+and the governor subsequently signed into law, House Bill 22-1358,
+which required child care centers, family child care homes, and each
+public school that serves any of grades preschool through eighth grade to:
+! Test its drinking water sources by having a state-certified
+laboratory measure the lead content of water drawn from
+each drinking water source; and
+! Satisfy other requirements concerning the provision of safe
+drinking water.
+House Bill 22-1358 also created the school and child care clean
+drinking water fund (fund) to help schools, child care centers, and family
+child care homes comply with House Bill 22-1358.
+House Bill 22-1358 included a repeal date of June 30, 2026, for its
+provisions. The bill extends the provisions, with amendments, until June
+30, 2029. The bill also adds high schools (i.e., schools that serve grades
+9 to 12) to the scope of House Bill 22-1358, which means that high
+schools may receive grants from the fund and must satisfy certain
+requirements on or before dates specified in the bill.
+The bill prohibits the department of public health and environment
+from issuing or renewing a license for a child care center unless the child
+care center is in compliance with the requirements of House Bill 22-1358
+concerning testing for the presence of lead in drinking water.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 25-8-901, amend (4)
+3 as follows:
+4 25-8-901. Definitions.
+5 As used in this part 9, unless the context otherwise requires:
+6 (4) "Eligible school" means a school that serves any of grades
+7 preschool through eighth TWELFTH grade.
+8 SECTION 2. In Colorado Revised Statutes, 25-8-902, amend (3)
+9 and (5)(b)(IV) as follows:
+-2- HB26-1391
+
+1 25-8-902. School and child care clean drinking water fund -
+2 creation.
+3 (3) Money in the fund at the end of each state fiscal year remains
+4 in the fund and does not revert to the general fund; except that any money
+5 remaining in the fund on June 29, 2026 JUNE 29, 2029, reverts to the
+6 general fund.
+7 (5) The department shall expend money from the fund only:
+8 (b) To reimburse eligible schools, child care centers, and family
+9 child care homes as needed for costs associated with complying with this
+10 part 9, in the following order of priority:
+11 (IV) On and after June 1, 2023, subject to available
+12 appropriations, eligible schools that serve students in sixth, seventh, or
+13 eighth grade GRADES SIX THROUGH TWELVE.
+14 SECTION 3. In Colorado Revised Statutes, 25-8-903, amend
+15 (1)(a) and (4); and repeal (7)(b) as follows:
+16 25-8-903. Testing for the presence of lead in drinking water in
+17 child care centers, family child care homes, and eligible schools -
+18 remediation - maintenance of records - training - inspections -
+19 enforcement - reimbursement - technical assistance - exemptions - opt
+20 out by family child care home - reports.
+21 (1) Testing.
+22 (a) (I) Except as described in subsection (1)(a)(II) SUBSECTIONS
+23 (1)(a)(II) AND (1)(a)(III) of this section, on or before May 31, 2023, each
+24 child care center, family child care home, and eligible school shall test its
+25 drinking water sources by having a state-certified laboratory measure the
+26 lead content of water drawn from each drinking water source. The testing
+27 must be done in accordance with the latest federal guidance on proper
+-3- HB26-1391
+
+1 sampling for testing for the presence of lead in drinking water, including
+2 the "Lead and Copper Rule" of the federal environmental protection
+3 agency, 40 CFR 141 et seq., as amended.
+4 (II) Subject to available appropriations, as described in section
+5 25-8-904 (2), an eligible school that serves students in sixth, seventh, or
+6 eighth grade shall satisfy the requirement described in subsection (1)(a)(I)
+7 of this section on or before November 30, 2024.
+8 (III) SUBJECT TO AVAILABLE APPROPRIATIONS, AN ELIGIBLE
+9 SCHOOL THAT SERVES STUDENTS IN NINTH, TENTH, ELEVENTH, OR
+10 TWELFTH GRADE SHALL SATISFY THE REQUIREMENT DESCRIBED IN
+11 SUBSECTION (1)(a)(I) OF THIS SECTION ON OR BEFORE MAY 31, 2027.
+12 (4) Training.
+13 (a) EXCEPT AS DESCRIBED IN SUBSECTION (4)(b) OF THIS SECTION,
+14 not later than one hundred eighty days after August 10, 2022, the
+15 department shall provide training to each child care center, family child
+16 care home, and eligible school regarding water filter maintenance,
+17 flushing protocols, testing for lead, reporting processes for sampling
+18 reports, and other activities relevant to compliance with this part 9.
+19 Training may take place in person or virtually and must include the
+20 individuals who will take water samples at the child care center, family
+21 child care home, or eligible school for the purposes of this part 9. The
+22 department shall provide the training in relevant languages.
+23 (b) NOT LATER THAN ONE HUNDRED EIGHTY DAYS AFTER THE
+24 EFFECTIVE DATE OF THIS SUBSECTION (4)(b), THE DEPARTMENT SHALL
+25 PROVIDE THE TRAINING DESCRIBED IN SUBSECTION (4)(a) OF THIS SECTION
+26 TO EACH ELIGIBLE SCHOOL THAT SERVES STUDENTS IN NINTH, TENTH,
+27 ELEVENTH, OR TWELFTH GRADE.
+-4- HB26-1391
+
+1 (7) Reimbursement.
+2 (b) Notwithstanding subsection (7)(a) of this section, the
+3 department shall not reimburse an eligible school that serves students in
+4 sixth, seventh, or eighth grade until June 1, 2023, for costs incurred for
+5 the purpose of complying with this section.
+6 SECTION 4. In Colorado Revised Statutes, repeal 25-8-904 as
+7 follows:
+8 25-8-904. Report and recommendation regarding expansion
+9 required - legislative declaration.
+10 (1) It is the general assembly's intent that, subject to the
+11 availability of future appropriations, the requirements described in this
+12 part 9 concerning the testing and remediation of drinking water sources
+13 in eligible schools should be expanded to apply to schools other than
+14 those schools that are eligible schools, and such schools should also be
+15 made eligible to receive reimbursement for costs incurred in complying
+16 with such requirements. To this end, the department is required to advise
+17 the general assembly in the form of the report described in subsection (2)
+18 of this section.
+19 (2) On or before February 28, 2024, the department shall report
+20 to the public and behavioral health and human services committee of the
+21 house of representatives and the health and human services committee of
+22 the senate, or to any successor committees, concerning the department's
+23 activities under this part 9. Specifically, the department shall include in
+24 the report the amount of money, if any, that remains in the fund on the
+25 date of the report. If the department determines that sufficient money
+26 remains in the fund, then eligible schools that serve any of grades six
+27 through eight shall comply with the testing requirement described in
+-5- HB26-1391
+
+1 section 25-8-903 (1)(a)(I) on or before November 30, 2024. The
+2 department shall post notice of its determination on its public website as
+3 soon as practicable.
+4 SECTION 5. In Colorado Revised Statutes, amend 25-8-905 as
+5 follows:
+6 25-8-905. Repeal of part.
+7 This part 9 is repealed, effective June 30, 2026 JUNE 30, 2029.
+8 SECTION 6. In Colorado Revised Statutes, 22-30.5-530, amend
+9 (2) as follows:
+10 22-30.5-530. Testing for the presence of lead in drinking water
+11 in eligible schools - compliance with public health requirements -
+12 repeal.
+13 (2) This section is repealed, effective June 30, 2026 JUNE 30,
+14 2029.
+15 SECTION 7. In Colorado Revised Statutes, 22-32-151, amend
+16 (2) as follows:
+17 22-32-151. Testing for the presence of lead in drinking water
+18 in eligible schools - compliance with public health requirements -
+19 repeal.
+20 (2) This section is repealed, effective June 30, 2026 JUNE 30,
+21 2029.
+22 SECTION 8. In Colorado Revised Statutes, 26.5-5-329, amend
+23 (2) as follows:
+24 26.5-5-329. Testing for the presence of lead in drinking water
+25 in child care centers and family child care homes - compliance with
+26 public health requirements - repeal.
+27 (2) This section is repealed, effective June 30, 2026 JUNE 30,
+-6- HB26-1391
+
+1 2029.
+2 SECTION 9. In Colorado Revised Statutes, 26.5-5-309, add (8)
+3 as follows:
+4 26.5-5-309. Licenses - rules - definition - appropriation -
+5 repeal.
+6 (8) ON AND AFTER THE EFFECTIVE DATE OF THIS SUBSECTION (8),
+7 THE DEPARTMENT SHALL NOT ISSUE OR RENEW A LICENSE FOR A CHILD
+8 CARE CENTER UNLESS THE CHILD CARE CENTER IS IN COMPLIANCE WITH
+9 THE REQUIREMENTS OF PART 9 OF ARTICLE 8 OF TITLE 25 CONCERNING
+10 TESTING FOR THE PRESENCE OF LEAD IN DRINKING WATER.
+11 SECTION 10. Appropriation. For the 2026-27 state fiscal year,
+12 $8,700,000 is appropriated to the department of public health and
+13 environment for use by the water quality control division. This
+14 appropriation is from the school and child care clean drinking water fund
+15 created in section 25-8-902 (1), C.R.S., and is based on an assumption
+16 that the division will require an additional 7.0 FTE. To implement this
+17 act, the division may use this appropriation for school and child care clean
+18 drinking water program costs. Any money appropriated in this section not
+19 expended prior to July 1, 2027, is further appropriated to the department
+20 through the 2028-29 state fiscal year for the same purpose.
+21 SECTION 11. Safety clause. The general assembly finds,
+22 determines, and declares that this act is necessary for the immediate
+23 preservation of the public peace, health, or safety or for appropriations for
+24 the support and maintenance of the departments of the state and state
+25 institutions.
+-7- HB26-1391

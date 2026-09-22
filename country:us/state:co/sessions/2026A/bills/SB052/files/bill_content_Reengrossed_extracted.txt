@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0331.01 Jed Franklin x5484 SENATE BILL 26-052
+Senate Committees House Committees
+Agriculture & Natural Resources
+A BILL FOR AN ACT
+101 CONCERNING COAL TRANSITION COMMUNITIES, AND, IN CONNECTION
+102 THEREWITH, PROVIDING A HIRING PREFERENCE FOR COAL
+103 TRANSITION WORKERS IN COAL TRANSITION COMMUNITIES AND
+104 EXPANDING THE ALLOWABLE WAYS IN WHICH A PUBLIC ENTITY
+105 MAY DEPOSIT OR INVEST JUST TRANSITION MONEY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yraurbeF
+6202
+,01
+yraurbeF
+SENATE SPONSORSHIP
+Roberts and Catlin, Amabile, Bridges, Coleman, Exum, Gonzales J., Hinrichsen, Jodeh,
+Kipp, Marchman, Michaelson Jenet, Mullica, Pelton R., Simpson, Snyder, Wallace
+HOUSE SPONSORSHIP
+Lukens and Mauro,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill establishes a first and preferred opportunity for available
+employment for coal transition workers (hiring preference). A business
+entity located in a coal transition community that is engaged in the
+business of constructing or operating railroads, utilities, energy generation
+facilities, or advanced manufacturing facilities (covered business) is
+required to comply with the hiring preference. A covered business does
+not include the state government or a local government.
+A covered business is required to make good faith efforts to
+provide a hiring preference to a coal transition worker who meets the
+minimum qualifications for an employment position (qualified coal
+transition worker). A covered business may hire an individual who is not
+a qualified coal transition worker only if either a qualified coal transition
+worker did not apply for employment with the covered business or each
+qualified coal transition worker declined a job offer from a covered
+business.
+A covered business is required to report annually to the executive
+director of the department of labor and employment or their designee
+(executive director). The executive director is required to adopt policies
+and procedures to implement the bill.
+Currently, a public entity is not allowed to invest public funds in
+certain types of investments, such as equity instruments, instruments
+convertible to equity, or equity interests, or to deposit public funds with
+any person except certain depository institutions, which are primarily
+banks. The bill authorizes a public entity to deposit or invest, either
+directly or through an investment firm or other third party authorized by
+the public entity, public funds from a payment or settlement that the
+public entity has received to offset the socioeconomic impacts to a
+community or government from the closure of a coal mine or coal power
+generating station in any investment permitted by an investment policy
+approved by the public entity.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Coal transition workers have powered the state for decades,
+5 and the loss of coal-related employment has profound economic and
+6 personal impacts on workers, their families, and the communities that
+7 depend on them. These impacts are concentrated in specific regions of the
+8 state and result directly from the planned and regulated decline of
+-2- 052
+
+1 coal-fueled generation and extraction.
+2 (b) Coal transition workers possess specialized, high-value skills
+3 that are directly transferable and critical to the state's transportation,
+4 infrastructure, clean-energy, manufacturing, and industrial future,
+5 including skills developed through years of work in highly regulated,
+6 safety-sensitive, and technical environments;
+7 (c) As coal facilities wind down and close pursuant to state policy,
+8 regulatory approvals, and statutory clean-energy requirements, the state
+9 has a legitimate and compelling interest in mitigating the foreseeable
+10 economic harm to workers and communities that results from those
+11 state-directed actions;
+12 (d) Displaced coal transition workers should have clear, reliable,
+13 and timely pathways into new careers of equal quality, including
+14 comparable wages, benefits, and job security, within or near the
+15 communities in which they live;
+16 (e) The state's clean-energy economy already employs nearly
+17 70,000 workers, which is more than twice as many as the fossil-fuel
+18 sector, and state and regional climate workforce analyses identify
+19 significant shortages across at least twenty climate-critical occupations,
+20 requiring thousands of additional skilled workers, including electricians,
+21 construction laborers and managers, HVAC and building technicians,
+22 wind and solar technicians, power-line workers, electric-vehicle
+23 technicians, and other skilled trades, to meet the state's statutory climate
+24 goals, including the goal of net-zero greenhouse gas emissions by 2050;
+25 (f) The state is simultaneously experiencing a substantial shortage
+26 of construction workers, with construction trades projected to grow
+27 significantly through 2030 and employers needing to fill tens of
+-3- 052
+
+1 thousands of high-demand positions. These workforce gaps make it
+2 imperative that just-transition policy deliberately and efficiently align
+3 displaced coal transition workers with existing and projected labor needs
+4 in clean energy, construction, transportation, and related sectors.
+5 (g) Economic development, transportation, energy, and
+6 infrastructure projects in coal transition communities must prioritize
+7 reemployment opportunities for qualified coal transition workers so that
+8 the economic transition does not come at the expense of the individuals
+9 and communities that built and sustained these regions; and
+10 (h) A targeted, qualification-based, and narrowly tailored hiring
+11 preference, implemented through good faith efforts and tied to state
+12 interests in economic recovery and workforce development, is a lawful
+13 and necessary tool to ensure that coal transition workers directly benefit
+14 from ongoing and future development in their communities and are not
+15 left behind.
+16 SECTION 2. In Colorado Revised Statutes, add 8-83-507 as
+17 follows:
+18 8-83-507. Hiring preference - coal transition workers -
+19 definitions.
+20 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+21 REQUIRES:
+22 (a) "COAL TRANSITION COMMUNITY" MEANS A COLORADO
+23 MUNICIPALITY, COUNTY, OR REGION WHERE A COAL TRANSITION FACILITY
+24 OR A CENTER FOR THE MANUFACTURING OR TRANSPORTATION SUPPLY
+25 CHAIN OF A COAL TRANSITION FACILITY WAS OR IS LOCATED.
+26 (b) "COAL TRANSITION WORKER" MEANS A COLORADO RESIDENT
+27 WHO WORKS OR WORKED IN A COAL TRANSITION FACILITY OR IN THE
+-4- 052
+
+1 MANUFACTURING OR TRANSPORTATION SUPPLY CHAIN OF A COAL
+2 TRANSITION FACILITY.
+3 (c) "COVERED BUSINESS" MEANS A BUSINESS ENTITY OPERATING
+4 IN A COAL TRANSITION COMMUNITY THAT IS ENGAGED IN THE BUSINESS OF
+5 CONSTRUCTING OR OPERATING RAILROADS, UTILITIES, ENERGY
+6 GENERATION FACILITIES, OR ADVANCED MANUFACTURING FACILITIES. A
+7 "COVERED BUSINESS" DOES NOT INCLUDE THE STATE GOVERNMENT OR A
+8 LOCAL GOVERNMENT.
+9 (d) "HIRING PREFERENCE" MEANS A FIRST AND PREFERRED
+10 OPPORTUNITY FOR AVAILABLE EMPLOYMENT.
+11 (e) "QUALIFIED COAL TRANSITION WORKER" MEANS A COAL
+12 TRANSITION WORKER WHO MEETS THE QUALIFICATIONS FOR AN
+13 EMPLOYMENT POSITION WITH A COVERED BUSINESS.
+14 (2) (a) ON AND AFTER JANUARY 1, 2027, A COVERED BUSINESS
+15 SHALL PROVIDE A HIRING PREFERENCE FOR A QUALIFIED COAL TRANSITION
+16 WORKER TO A PROSPECTIVE NEW EMPLOYEE.
+17 (b) A COVERED BUSINESS MAY HIRE AN INDIVIDUAL WHO IS NOT A
+18 QUALIFIED COAL TRANSITION WORKER ONLY IF:
+19 (I) A QUALIFIED COAL TRANSITION WORKER DID NOT APPLY TO BE
+20 EMPLOYED BY A COVERED BUSINESS; OR
+21 (II) EACH QUALIFIED COAL TRANSITION WORKER TO WHOM THE
+22 COVERED BUSINESS EXTENDS AN OFFER OF EMPLOYMENT DECLINES THE
+23 OFFER.
+24 (3) A COVERED BUSINESS SHALL CONSULT WITH THE JUST
+25 TRANSITION OFFICE, OPERATORS OF EXISTING COAL-FUELED GENERATION
+26 FACILITIES SCHEDULED FOR RETIREMENT, AND ORGANIZATIONS
+27 REPRESENTING QUALIFIED COAL TRANSITION WORKERS TO IDENTIFY
+-5- 052
+
+1 QUALIFIED COAL TRANSITION WORKERS.
+2 (4) IF A QUALIFIED COAL TRANSITION WORKER APPLIES FOR
+3 EMPLOYMENT WITH A COVERED BUSINESS, THEN A COVERED BUSINESS
+4 SHALL REPORT ANNUALLY TO THE JUST TRANSITION OFFICE THE
+5 FOLLOWING INFORMATION REGARDING THE PRIOR YEAR:
+6 (a) THE TITLE OF ANY POSITION FILLED BY A QUALIFIED COAL
+7 TRANSITION WORKER;
+8 (b) THE NUMBER OF QUALIFIED COAL TRANSITION WORKERS WHO
+9 FILLED POSITIONS AT THE COVERED BUSINESS;
+10 (c) THE NUMBER OF INDIVIDUALS WHO ARE NOT QUALIFIED COAL
+11 TRANSITION WORKERS WHO FILLED POSITIONS AT THE COVERED BUSINESS;
+12 AND
+13 (d) EFFORTS UNDERTAKEN BY THE COVERED BUSINESS TO RECRUIT
+14 QUALIFIED COAL TRANSITION WORKERS.
+15 (5) A COVERED BUSINESS SHALL MAKE GOOD FAITH EFFORTS TO
+16 COMPLY WITH THIS SECTION.
+17 (6) THE EXECUTIVE DIRECTOR OR THEIR DESIGNEE SHALL DEVELOP
+18 POLICIES AND PROCEDURES FOR THE IMPLEMENTATION OF THIS SECTION.
+19 (7) A HIRING PREFERENCE DOES NOT APPLY IF A COVERED
+20 BUSINESS PLACES AN EXISTING EMPLOYEE IN ANOTHER EMPLOYMENT
+21 POSITION WITH THE COVERED BUSINESS OR TO THE EXTENT THAT A HIRING
+22 PREFERENCE CONFLICTS WITH THE TERMS OF A COLLECTIVE BARGAINING
+23 AGREEMENT THAT APPLIES TO THE RELATIONSHIP BETWEEN A COVERED
+24 BUSINESS AND ITS EMPLOYEES.
+25 SECTION 3. In Colorado Revised Statutes, 24-75-601.1, amend
+26 (5) as follows:
+27 24-75-601.1. Legal investments of public funds - definition.
+-6- 052
+
+1 (5) Nothing in this section applies to public funds held or invested
+2 as part of any payment or settlement to offset the socioeconomic impacts
+3 to a community or government from the closure of a coal mine or coal
+4 power generating station. NOTWITHSTANDING ANY LAW TO THE
+5 CONTRARY, IN ADDITION TO ANY OTHER DEPOSIT OR INVESTMENT OF
+6 PUBLIC FUNDS ALLOWED BY LAW, A PUBLIC ENTITY IS AUTHORIZED TO
+7 DEPOSIT OR INVEST, EITHER DIRECTLY OR THROUGH AN INVESTMENT FIRM
+8 OR OTHER THIRD PARTY AUTHORIZED BY THE PUBLIC ENTITY, ANY
+9 PAYMENT OR SETTLEMENT FUNDS THAT THE PUBLIC ENTITY HAS RECEIVED
+10 TO OFFSET THE SOCIOECONOMIC IMPACTS TO A COMMUNITY OR
+11 GOVERNMENT FROM THE CLOSURE OF A COAL MINE OR COAL POWER
+12 GENERATING STATION AND THE INTEREST, INVESTMENT INCOME, OR GAIN
+13 EARNED THEREON IN ANY INVESTMENT PERMITTED UNDER AN INVESTMENT
+14 POLICY ADOPTED BY THE PUBLIC ENTITY. FOR PURPOSES OF THIS
+15 SUBSECTION (5), UNLESS THE CONTEXT OTHERWISE REQUIRES,
+16 "INVESTMENT FIRM" MEANS A BANK, BROKERAGE FIRM, OR OTHER
+17 FINANCIAL SERVICES FIRM CONDUCTING BUSINESS IN THE STATE, OR ANY
+18 AGENT THEREOF.
+19 SECTION 4. Safety clause. The general assembly finds,
+20 determines, and declares that this act is necessary for the immediate
+21 preservation of the public peace, health, or safety or for appropriations for
+22 the support and maintenance of the departments of the state and state
+23 institutions.
+-7- 052

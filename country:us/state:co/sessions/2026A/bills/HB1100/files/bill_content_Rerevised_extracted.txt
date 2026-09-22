@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0573.01 Chelsea Princell x4335 HOUSE BILL 26-1100
+House Committees Senate Committees
+Judiciary Finance
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO GUARDIANSHIP FOR INCAPACITATED
+102 ADULTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill repeals provisions related to the guardianship of an
+incapacitated person and enacts provisions related to the guardianship of
+an incapacitated person drafted by the uniform law commission as part of
+the "Uniform Guardianship and Protective Proceedings Act".
+The bill provides guidance for guardians and clarifies how
+appointees must make decisions on behalf of a person under
+ETANES
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+6202
+,8
+yaM
+6202
+,6
+yaM
+6202
+,5
+yaM
+HOUSE SPONSORSHIP
+Stewart R. and Espenoza, Bacon, Boesenecker, Brown, Clifford, Duran, English,
+Froelich, Lieder, Lindsay, McCluskie, Nguyen, Ricks, Rutinel, Stewart K., Zokaie
+SENATE SPONSORSHIP
+Snyder, Ball, Exum, Gonzales J., Jodeh, Kipp, Marchman, Wallace
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+guardianship.
+The bill encourages the use of protective arrangements and less
+restrictive alternatives instead of guardianship if a person's needs can be
+met with support services and technology.
+The bill establishes a bill of rights for adults subject to
+guardianship and expands the procedural rights for respondents in
+guardianship proceedings.
+The bill provides for visitation and communication rights for
+individuals subject to guardianship or conservatorship. This includes a
+limitation on a guardian's ability to prevent communication, visitation, or
+interactions between a person subject to guardianship and a third party.
+The bill prohibits courts from establishing full guardianship if a
+limited guardianship would meet the respondent's needs, requires a
+petitioner seeking full guardianship to provide support to justify full
+guardianship, and requires courts to provide findings to support the
+imposition of full guardianship.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 15-14-103 as
+3 follows:
+4 15-14-103. Guardianship bill of rights.
+5 (1) A WARD HAS THE RIGHT TO:
+6 (a) BE TREATED WITH DIGNITY AND RESPECT;
+7 (b) BE FREE FROM ABUSE, NEGLECT, EXPLOITATION, AND
+8 DISCRIMINATION;
+9 (c) REMAIN AS INDEPENDENT AS POSSIBLE;
+10 (d) EXPRESS AND PRACTICE THEIR OWN RELIGIOUS PREFERENCES;
+11 (e) PERSONAL PRIVACY;
+12 (f) HUMANE, SAFE, AND SANITARY LIVING, LEARNING, AND
+13 WORKING ENVIRONMENTS;
+14 (g) SEXUAL EXPRESSION AND RESPECT FOR THEIR GENDER
+15 IDENTITY;
+16 (h) A COMPETENT GUARDIAN WHO ADVOCATES FOR THEIR GOALS,
+-2- 1100
+
+1 NEEDS, AND PREFERENCES AND PRIORITIZES THEIR DESIRES, INCLUDING
+2 MEDICAL TREATMENT PREFERENCES, CULTURAL PRACTICES, AND
+3 RELIGIOUS BELIEFS;
+4 (i) PARTICIPATE, TO THE EXTENT POSSIBLE, IN ALL DECISIONS,
+5 ESPECIALLY THOSE AFFECTING THEIR CARE, WHERE THEY LIVE, THEIR
+6 ACTIVITIES, AND THEIR SOCIAL INTERACTIONS, TO THE EXTENT THEY WISH
+7 TO BE INVOLVED AND ARE ABLE TO BE INVOLVED;
+8 (j) RECEIVE NECESSARY SERVICES AND REHABILITATION, WITHIN
+9 AVAILABLE RESOURCES, THAT PROTECT THEIR PERSONAL LIBERTY AND
+10 ARE PROVIDED WITH THE LEAST RESTRICTIVE CONDITIONS;
+11 (k) PRUDENT MANAGEMENT OF THEIR RESOURCES BY THEIR
+12 GUARDIAN;
+13 (l) PARTICIPATE, TO THE EXTENT POSSIBLE, IN DECISIONS ABOUT
+14 HOW THEIR PROPERTY IS MANAGED, TO THE EXTENT THEY WISH TO BE
+15 INVOLVED AND ARE ABLE TO BE INVOLVED;
+16 (m) CONFIDENTIALITY FOR THOSE MATTERS THAT THEY WISH TO
+17 KEEP CONFIDENTIAL, UNLESS THE INFORMATION IS NECESSARY TO OBTAIN
+18 SERVICES; TO PREVENT ABUSE, NEGLECT, OR EXPLOITATION; OR TO MODIFY
+19 THE GUARDIANSHIP ORDER OR OTHER ORDERS ENTERED PURSUANT TO THIS
+20 ARTICLE 14 OR ARTICLE 14.5 OF THIS TITLE 15;
+21 (n) MAINTAIN ALL RIGHTS THAT THE COURT HAS NOT GRANTED TO
+22 THEIR GUARDIAN;
+23 (o) A LAWYER WHO ADVOCATES FOR THE OUTCOME THE WARD
+24 WANTS;
+25 (p) BE PRESENT AND PARTICIPATE IN ALL COURT HEARINGS;
+26 (q) SHARE CONCERNS OR COMPLAINTS ABOUT THEIR
+27 GUARDIANSHIP WITH THE COURT;
+-3- 1100
+
+1 (r) ASK THE COURT TO REVIEW THE NEED FOR THEIR
+2 GUARDIANSHIP TO CHANGE, CONTINUE, OR END AND WHETHER THEIR
+3 GUARDIAN IS AN APPROPRIATE FIT FOR THEM;
+4 (s) IF A QUESTION ARISES ABOUT THEIR CAPACITY TO EXERCISE A
+5 SPECIFIC RIGHT, HAVE A COURT REVIEW AND DETERMINE IF AN
+6 EVALUATION IS NECESSARY IN ORDER TO DETERMINE THEIR CAPACITY TO
+7 EXERCISE THE RIGHT;
+8 (t) THE SUPPORT AND ACCOMMODATIONS THEY NEED TO BE ABLE
+9 TO EFFECTIVELY COMMUNICATE WITH THE COURT AND TO UNDERSTAND
+10 THE COURT PROCEEDINGS; AND
+11 (u) HAVE THEIR RIGHTS EXPLAINED TO THEM IN THEIR PREFERRED
+12 METHOD OF COMMUNICATION AND IN THE LANGUAGE THEY CHOOSE.
+13 (2) THE COURT MAY AUTHORIZE A GUARDIAN TO MAKE
+14 DECISIONS FOR THE FOLLOWING RIGHTS ON BEHALF OF THE WARD:
+15 (a) TO DETERMINE THE WARD'S SOCIAL ENVIRONMENT AND THE
+16 SOCIAL ASPECTS OF THEIR PERSONAL LIFE;
+17 (b) TO FILE AND DEFEND LAWSUITS;
+18 (c) TO MAKE CONTRACTS;
+19 (d) TO MAKE GIFTS OF THE WARD'S MONEY; AND
+20 (e) TO MANAGE THE WARD'S MONEY AND PROPERTY.
+21 (3) THE WARD RETAINS THE RIGHT TO VOTE, TO MAINTAIN THEIR
+22 REPRODUCTIVE HEALTH AND ABILITY TO PROCREATE, AND TO CHANGE
+23 THEIR MARITAL STATUS, UNLESS THE COURT RESTRICTS THOSE RIGHTS BY
+24 STATING THE RESTRICTIONS AND THE RELEVANT FINDINGS TO SUPPORT THE
+25 RESTRICTIONS IN THE ORDER APPOINTING THE GUARDIAN.
+26 (4) NOTHING IN THIS SECTION ALTERS, LIMITS, OR AFFECTS THE
+27 COURT'S AUTHORITY OR THE STANDARDS AND PROCEDURES FOR
+-4- 1100
+
+1 APPOINTING A GUARDIAN, DETERMINING THE SCOPE OF GUARDIANSHIP, OR
+2 MODIFYING OR TERMINATING A GUARDIANSHIP PURSUANT TO THIS ARTICLE
+3 14 OR ARTICLE 14.5 OF THIS TITLE 15. THE RIGHTS SET FORTH IN THIS
+4 SECTION ARE SUBJECT TO ANY LIMITATIONS IMPOSED BY COURT ORDER.
+5 (5) THIS SECTION DOES NOT CREATE A NEW CAUSE OF ACTION OR
+6 AFFECT ANY EXISTING CAUSE OF ACTION OR REMEDY AVAILABLE TO A
+7 WARD.
+8 SECTION 2. In Colorado Revised Statutes, 13-3-101, add (19)
+9 as follows:
+10 13-3-101. State court administrator - duties - report -
+11 definitions - repeal.
+12 (19) (a) ON NOVEMBER 1, 2027, AND NOVEMBER 1, 2028, THE
+13 STATE COURT ADMINISTRATOR'S OFFICE SHALL SUBMIT A REPORT TO THE
+14 JOINT BUDGET COMMITTEE, THE SENATE JUDICIARY COMMITTEE, AND THE
+15 HOUSE OF REPRESENTATIVES JUDICIARY COMMITTEE, OR THEIR SUCCESSOR
+16 COMMITTEES, DETAILING THE FISCAL IMPACT OF HOUSE BILL 26-1100 ON
+17 THE JUDICIAL DEPARTMENT. THE STATE COURT ADMINISTRATOR'S OFFICE
+18 SHALL USE EXISTING DATA SOURCES TO CREATE THE REPORT REQUIRED BY
+19 THIS SECTION.
+20 (b) THIS SUBSECTION (19) IS REPEALED, EFFECTIVE JANUARY 1,
+21 2029.
+22 SECTION 3. In Colorado Revised Statutes, 15-14-314, amend
+23 (2)(f) and (2)(g); and add (2)(h) as follows:
+24 15-14-314. Duties of guardian.
+25 (2) A guardian shall:
+26 (f) Inform the court of any A change in the ward's custodial
+27 dwelling or address; and
+-5- 1100
+
+1 (g) Immediately notify the court in writing of the ward's death;
+2 AND
+3 (h) NOTIFY, TO THE EXTENT REASONABLY FEASIBLE, THE WARD,
+4 AT LEAST THIRTY DAYS BEFORE A CHANGE, IF POSSIBLE, AT THE WARD'S
+5 PRIMARY DWELLING, OF A FORTHCOMING PERMANENT MOVE TO A NURSING
+6 HOME, MENTAL HEALTH INSTITUTION, OR OTHER FACILITY THAT PLACES
+7 RESTRICTIONS ON THE WARD'S ABILITY TO LEAVE THE FACILITY OR HAVE
+8 VISITORS, UNLESS THE CHANGE OR MOVE IS PROPOSED IN THE GUARDIAN'S
+9 PLAN OR AUTHORIZED BY THE COURT BY SPECIFIC ORDER.
+10 SECTION 4. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-6- 1100

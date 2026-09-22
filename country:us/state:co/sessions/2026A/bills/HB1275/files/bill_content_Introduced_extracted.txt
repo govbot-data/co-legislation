@@ -1,0 +1,248 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0087.03 Owen Hatch x2698 HOUSE BILL 26-1275
+HOUSE SPONSORSHIP
+Froelich and Zokaie, Lieder, Bacon, Carter, Clifford, Garcia, Gilchrist, Goldstein,
+Hamrick, Jackson, Mabrey, Martinez, McCormick, Nguyen, Paschal, Rydin, Smith, Story,
+Titone, Velasco, Willford, Woodrow
+SENATE SPONSORSHIP
+Weissman and Jodeh, Cutter, Danielson, Hinrichsen, Kipp, Sullivan, Wallace
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING THE CONDUCT OF LAW ENFORCEMENT, AND, IN
+102 CONNECTION THEREWITH, PROHIBITING PEACE OFFICERS FROM
+103 CONCEALING THEIR IDENTITIES, CLARIFYING STATE CRIMINAL
+104 LAW JURISDICTION OVER FEDERAL OFFICERS, REQUIRING
+105 TRAINING ON IMMIGRATION LAWS, AND EXPANDING THE
+106 CONDUCT BY WHICH A PERSON COMMITS IMPERSONATING A
+107 PEACE OFFICER.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill prohibits local and state law enforcement officers from
+concealing their identity while interacting with the public, with certain
+exceptions.
+The bill clarifies state criminal jurisdiction to cover criminal
+conduct committed by a federal law enforcement officer in the state, even
+if the officer was acting under color of federal authority. Federal criminal
+immunity or defense from prosecution does not prohibit state criminal
+prosecution of a federal law enforcement officer.
+The bill requires the peace officer standards and training board
+(P.O.S.T. board) to deny certification to an individual who has previously
+been employed or who is currently employed by the United States
+immigration and customs enforcement agency or the United States
+customs and border protection agency.
+The bill requires the P.O.S.T. board to prescribe a training for all
+current and future peace officers regarding immigration law, a peace
+officer's duty to intervene, excessive force policies, and a peace officer's
+jurisdictional limit.
+A peace officer is required to intervene to prevent a federal law
+enforcement officer from using excessive force.
+The bill expands the conduct that can constitute the crime of
+impersonating a peace officer to include a person performing a law
+enforcement act while concealing the person's identity.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "Visible
+3 and Accountable Policing Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Colorado law enforcement operates with fidelity to Colorado
+7 law. Local law enforcement have authority over their jurisdictions. It is
+8 detrimental to the trust established between law enforcement and
+9 community when federal agents act unlawfully and when there is
+10 excessive use of force, constitutional violations, and absence of due
+11 process.
+12 (b) Colorado law must put visibility and public trust at the center
+-2- HB26-1275
+
+1 of law enforcement in Colorado, which includes requiring clear
+2 identification and accountability for actions that impact community safety
+3 and civil rights. Colorado law already prohibits law enforcement officers
+4 from using crowd control methods such as tear gas, among other
+5 physically harmful methods.
+6 (c) Our nation has been shocked by the escalation of unlawful
+7 actions by federal agents, which violate the first, fourth, and fifth
+8 amendments to the United States constitution and have resulted in illegal
+9 detentions, sudden and unprovoked use of force, the deaths of people with
+10 no criminal record, and, in the case of at least two people, United States
+11 citizens exercising their right to assemble and protest;
+12 (d) Keith Porter was killed by an off-duty United States
+13 immigration and customs enforcement (ICE) agent on New Year's Eve
+14 2025 in Northridge, California;
+15 (e) Silverio Villagas González, a man with no criminal record,
+16 was shot by ICE agents in Franklin Park, Illinois, shortly after dropping
+17 off his 2 children at school and daycare. Initially, he was accused of
+18 driving his car at agents, but police footage subsequently proved
+19 otherwise.
+20 (f) Renee Nicole Good was killed by an ICE agent in
+21 Minneapolis, Minnesota, on January 6, 2026. Not only was she shot 3
+22 times at point blank range, including shots to the head, but agents refused
+23 to allow aid to be rendered. Additionally, the shooter left the scene.
+24 (g) Thirty-seven-year-old Alex Jeffrey Pretti, an intensive care
+25 nurse described by the Minneapolis police chief as a United States citizen
+26 and a federal worker, as well as a member of the American Federation of
+27 Government Employees local 3669, with no criminal record, was shot
+-3- HB26-1275
+
+1 multiple times and killed by United States customs and border protection
+2 agents in Minneapolis on January 24, 2026;
+3 (h) Civil rights violations and clear law enforcement identification
+4 violations were evident long before these shootings, including throughout
+5 2025 during raids targeted at communities of color and with ICE regularly
+6 concealing agency insignias and using unmarked vehicles to detain people
+7 in their cars and at courthouses, schools, workplaces, homes, on the street,
+8 and using public transport; and
+9 (i) It is imperative that we protect all Coloradans and preserve
+10 their civil rights. We all have a right to life, liberty, and the pursuit of
+11 happiness. We all have a right to due process.
+12 SECTION 3. In Colorado Revised Statutes, add 24-31-908 as
+13 follows:
+14 24-31-908. Prohibition on peace officers concealing their
+15 identity - required publishing of policy - exceptions - penalty.
+16 (1) A PEACE OFFICER SHALL NOT CONCEAL THE PEACE OFFICER'S
+17 IDENTITY, EXCEPT WHEN SPECIFICALLY NECESSARY TO DO SO DURING
+18 UNDERCOVER OPERATIONS OR SITUATIONS NECESSITATING A PEACE
+19 OFFICER TO WEAR A HAZARDOUS MATERIALS SUIT TO PROTECT AGAINST
+20 EXPOSURE TO KNOWN TOXINS, IDENTIFIED AIRBORNE HAZARDS, OR
+21 IMMINENT RISK OF PHYSICAL HARM FROM PROJECTILES, FIRE, SMOKE, OR
+22 CHEMICAL IRRITANTS IN A SPECIFIC, ONGOING INCIDENT.
+23 (2) A PEACE OFFICER SHALL NOT PARTICIPATE IN A
+24 MULTIJURISDICTIONAL LAW ENFORCEMENT TASK FORCE WITH A LAW
+25 ENFORCEMENT AGENCY FROM ANOTHER STATE OR A FEDERAL AGENCY IF
+26 OFFICERS OF THE LAW ENFORCEMENT AGENCY FROM ANOTHER STATE OR
+27 FEDERAL AGENCY KNOWINGLY CONCEAL THEIR IDENTITY.
+-4- HB26-1275
+
+1 (3) AN INDIVIDUAL WHO BELIEVES A PEACE OFFICER HAS VIOLATED
+2 A PROVISION OF THIS SECTION MAY REPORT THE VIOLATION TO THE
+3 ATTORNEY GENERAL'S OFFICE. THE ATTORNEY GENERAL SHALL INFORM
+4 THE P.O.S.T. BOARD OF A REPORTED VIOLATION.
+5 (4) NOTWITHSTANDING ANY PROVISION OF LAW, THE P.O.S.T.
+6 BOARD SHALL REVOKE THE CERTIFICATION OF A PEACE OFFICER IF, AFTER
+7 AN INVESTIGATION AND HEARING PURSUANT TO THE RULES IN SECTION
+8 24-31-303, THE BOARD DETERMINES THE PEACE OFFICER VIOLATED THIS
+9 SECTION. IF A LAW ENFORCEMENT OFFICER FROM ANOTHER STATE
+10 VIOLATES THIS SECTION, THE P.O.S.T. BOARD SHALL DRAFT A DETAILED
+11 REPORT DESCRIBING THE OFFICER'S CONDUCT AND SEND THE REPORT TO
+12 THE OFFICER'S STATE POLICE OVERSIGHT BOARD OR AN EQUIVALENT
+13 AGENCY.
+14 SECTION 4. In Colorado Revised Statutes, add 18-1-201.5 as
+15 follows:
+16 18-1-201.5. Jurisdiction over federal law enforcement officers
+17 - immunity unavailable.
+18 (1) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, A FEDERAL
+19 LAW ENFORCEMENT OFFICER WHO COMMITS AN ACT IN THE STATE THAT
+20 CONSTITUTES A VIOLATION OF STATE CRIMINAL LAW IS SUBJECT TO
+21 ARREST, PROSECUTION, AND PUNISHMENT UNDER THE CRIMINAL LAWS OF
+22 THE STATE TO THE SAME EXTENT AS ANY OTHER PERSON.
+23 (2) TO THE MAXIMUM EXTENT ALLOWED PURSUANT TO THE
+24 UNITED STATES CONSTITUTION, NO CRIMINAL IMMUNITY OR DEFENSE IS
+25 AVAILABLE TO A CRIMINAL DEFENDANT DESCRIBED IN SUBSECTION (1) OF
+26 THIS SECTION.
+27 (3) NOTHING IN THIS SECTION LIMITS AN INDIVIDUAL'S RIGHT TO
+-5- HB26-1275
+
+1 PURSUE CIVIL REMEDIES FOR THE WRONGFUL ACT OF A FEDERAL LAW
+2 ENFORCEMENT AGENCY OR OFFICER UNDER STATE OR FEDERAL LAW.
+3 (4) PURSUANT TO THE AUTHORITY GRANTED IN SECTION 16-3-102,
+4 A PEACE OFFICER MAY IMMEDIATELY ARREST A FEDERAL LAW
+5 ENFORCEMENT OFFICER WHEN THE PEACE OFFICER HAS PROBABLE CAUSE
+6 TO BELIEVE THAT THE FEDERAL OFFICER HAS COMMITTED A VIOLATION OF
+7 STATE CRIMINAL LAW, REGARDLESS OF WHETHER THE ALLEGED CONDUCT
+8 OCCURRED WHILE THE FEDERAL OFFICER WAS ACTING UNDER COLOR OF
+9 FEDERAL AUTHORITY.
+10 (5) THIS SECTION APPLIES TO ANY FEDERAL LAW ENFORCEMENT
+11 OFFICER, INCLUDING, BUT NOT LIMITED TO, AN OFFICER OR AGENT OF THE
+12 UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT AGENCY AND
+13 THE UNITED STATES CUSTOMS AND BORDER PROTECTION AGENCY, WHILE
+14 PRESENT IN THE STATE.
+15 SECTION 5. In Colorado Revised Statutes, 18-8-802, add (1.7)
+16 as follows:
+17 18-8-802. Duty to report use of force by peace officers or law
+18 enforcement animals - duty to intervene.
+19 (1.7) A PEACE OFFICER, AS DEFINED IN SECTION 24-31-901 (3),
+20 WHO IS ON DUTY SHALL INTERVENE TO PREVENT OR STOP A FEDERAL LAW
+21 ENFORCEMENT OFFICER, INCLUDING A FEDERAL LAW ENFORCEMENT
+22 OFFICER WHO IS THE HANDLER OF A LAW ENFORCEMENT ANIMAL, FROM
+23 USING MORE THAN THE COMMENSURATE AMOUNT OF PHYSICAL FORCE A
+24 PEACE OFFICER IS PERMITTED TO USE PURSUANT TO SECTION 18-1-707 IN
+25 PURSUANCE OF THE FEDERAL LAW ENFORCEMENT OFFICER'S DUTIES IN
+26 CARRYING OUT AN ARREST OF A PERSON, PLACING A PERSON UNDER
+27 DETENTION, TAKING A PERSON INTO CUSTODY, BOOKING A PERSON, OR IN
+-6- HB26-1275
+
+1 THE PROCESS OF CROWD OR RIOT CONTROL, WITHOUT REGARD FOR CHAIN
+2 OF COMMAND.
+3 SECTION 6. In Colorado Revised Statutes, 24-31-305, add
+4 (1.5)(c) as follows:
+5 24-31-305. Certification - issuance - renewal - revocation -
+6 rules - definition.
+7 (1.5) (c) THE P.O.S.T. BOARD SHALL DENY CERTIFICATION TO A
+8 PERSON WHO HAS PREVIOUSLY BEEN EMPLOYED OR WHO IS CURRENTLY
+9 EMPLOYED BY THE UNITED STATES IMMIGRATION AND CUSTOMS
+10 ENFORCEMENT AGENCY OR UNITED STATES CUSTOMS AND BORDER
+11 PROTECTION AGENCY.
+12 SECTION 7. In Colorado Revised Statutes, add 24-31-311.5 as
+13 follows:
+14 24-31-311.5. Basic training - certain required subjects - repeal.
+15 (1) IN ADDITION TO ANY OTHER BASIC TRAINING REQUIRED BY THE
+16 P.O.S.T. BOARD, THE BOARD SHALL PRESCRIBE A UNIFORM TRAINING
+17 REGARDING:
+18 (a) CURRENT IMMIGRATION LAWS AND REQUIREMENTS;
+19 (b) A LAW ENFORCEMENT OFFICER'S LIMITATIONS ON WORKING
+20 WITH THE UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT
+21 AGENCY AND THE UNITED STATES CUSTOMS AND BORDER PROTECTION
+22 AGENCY;
+23 (c) A PEACE OFFICER'S DUTY TO INTERVENE PURSUANT TO SECTION
+24 18-8-802 (1.7);
+25 (d) EXCESSIVE FORCE POLICIES; AND
+26 (e) A PEACE OFFICER'S JURISDICTIONAL LIMIT TO ENFORCE THE
+27 LAW.
+-7- HB26-1275
+
+1 (2) A PEACE OFFICER SEEKING CERTIFICATION PURSUANT TO THIS
+2 PART 3 MUST COMPLETE THE TRAINING REQUIRED BY THIS SECTION PRIOR
+3 TO BEING CERTIFIED.
+4 (3) (a) A CERTIFIED PEACE OFFICER ON THE EFFECTIVE DATE OF
+5 THIS SECTION SHALL COMPLETE THE TRAINING REQUIRED BY THIS SECTION
+6 NO LATER THAN JULY 1, 2027.
+7 (b) THIS SUBSECTION (3) IS REPEALED, EFFECTIVE JUNE 30, 2028.
+8 SECTION 8. In Colorado Revised Statutes, 18-8-112, add (1.5)
+9 as follows:
+10 18-8-112. Impersonating a peace officer.
+11 (1.5) A PERSON COMMITS IMPERSONATING A PEACE OFFICER IF THE
+12 PERSON KNOWINGLY PERFORMS AN ACT OF A LAW ENFORCEMENT OFFICER
+13 WHILE KNOWINGLY CONCEALING THE PERSON'S IDENTITY, EXCEPT, IF THE
+14 PERSON IS A PEACE OFFICER, WHEN CONCEALING THE PEACE OFFICER'S
+15 IDENTITY IS SPECIFICALLY NECESSARY DURING UNDERCOVER OPERATIONS
+16 OR SITUATIONS NECESSITATING A PEACE OFFICER TO WEAR A HAZARDOUS
+17 MATERIALS SUIT TO PROTECT AGAINST EXPOSURE TO KNOWN TOXINS,
+18 IDENTIFIED AIRBORNE HAZARDS, OR IMMINENT RISK OF PHYSICAL HARM
+19 FROM PROJECTILES, FIRE, SMOKE, OR CHEMICAL IRRITANTS IN A SPECIFIC,
+20 ONGOING INCIDENT.
+21 SECTION 9. Applicability. This act applies to offenses and
+22 violations committed on or after the effective date of this act.
+23 SECTION 10. Safety clause. The general assembly finds,
+24 determines, and declares that this act is necessary for the immediate
+25 preservation of the public peace, health, or safety or for appropriations for
+26 the support and maintenance of the departments of the state and state
+27 institutions.
+-8- HB26-1275
