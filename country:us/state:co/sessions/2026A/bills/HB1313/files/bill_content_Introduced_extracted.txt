@@ -1,0 +1,446 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0409.01 Caroline Martin x5902 HOUSE BILL 26-1313
+HOUSE SPONSORSHIP
+Boesenecker and Stewart R.,
+SENATE SPONSORSHIP
+Ball,
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING THE ADJUSTMENT OF REQUIREMENTS FOR
+102 GOVERNMENTS TO RECEIVE FUNDING FROM THE STATEWIDE
+103 AFFORDABLE HOUSING FUND.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires a local government or a tribal government
+(government) desiring to receive funding from the statewide affordable
+housing fund to have filed with the division of housing of the department
+of local affairs (division) a commitment specifying how, within a 3-year
+cycle, affordable housing units within the government's territorial
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+boundaries will be increased by 3% each year over the baseline number
+of affordable housing units (baseline number). The baseline number
+resets every 3 years for the next cycle. To be eligible for funding from the
+statewide affordable housing fund, a government is required to file a
+commitment with the division and achieve the 3% increase over the
+baseline number each year during the 3-year cycle.
+The bill changes the requirements for the 3-year cycle beginning
+on January 1, 2027, and each 3-year cycle thereafter, so that a government
+desiring to receive funding from the statewide affordable housing fund is
+no longer required to increase affordable housing units by 3% above the
+baseline each year, but is instead required to meet the target increase
+number of affordable housing units (target increase number). The target
+increase number equals the average annual number of permits for new
+housing units or functional equivalents of permits for new housing units
+that have been issued over the past 3 years within the jurisdiction of the
+government, multiplied by the number of years of the upcoming 3-year
+cycle to which the government is committing, multiplied by:
+! 0.10 if the average annual job growth rate in the county in
+which the government is located is significantly lower than
+the statewide median annual job growth rate over the past
+3 years, as determined by the division;
+! 0.15 if the average annual job growth rate in the county in
+which the government is located is close to the statewide
+median annual job growth rate over the past 3 years, as
+determined by the division; or
+! 0.20 if the average annual job growth rate in the county in
+which the government is located is significantly higher than
+the statewide median annual job growth rate over the past
+3 years, as determined by the division.
+The bill permits a government that desires to be eligible for
+funding from the statewide affordable housing fund but is unable to
+achieve the 3% annual increase in affordable housing units for the 3-year
+cycle beginning on January 1, 2024 to file a good faith effort waiver with
+the division. The division may, in its discretion, grant a good faith effort
+waiver to a government that filed for a waiver on or after June 15, 2026
+but before November 1, 2026 and complied with other requirements of
+the bill.
+The bill permits a government that desires to be eligible for
+funding from the statewide affordable housing fund but is unable to meet
+the target increase number in affordable housing units for the 3-year cycle
+beginning on January 1, 2027 to file an adjustment waiver with the
+division. The division may, in its discretion, grant an adjustment waiver
+to a government that filed for a waiver and complied with other
+requirements of the bill.
+For the purposes of determining whether a government has
+-2- HB26-1313
+
+achieved the target increase number for the 3-year cycle beginning on
+January 1, 2027, and for each 3-year cycle thereafter, an affordable
+housing unit that satisfies the following criteria counts for one affordable
+housing unit plus the following corresponding additional unit amount:
+! A unit that is developed on land donated by the local
+government or tribal government qualifies for an additional
+0.10 of a unit;
+! A unit that is developed to be sold qualifies for an
+additional 0.20 of a unit; and
+! A unit that is restricted to be rented or sold to a household
+with an annual income of at or below 30% of the area
+median income qualifies for an additional 0.20 of a unit.
+If affordable housing is developed and qualifies for a property tax
+exemption, thereby reducing property tax revenue to the county in which
+the affordable housing is located, and the county did not provide any
+money to develop the affordable housing, the division may, in its
+discretion, allow each such affordable housing unit to count as up to 1.15
+affordable housing units for the county at the time of vertical
+construction. If a county's property tax revenue will be reduced due to the
+development of affordable housing, the county shall submit, at the time
+of the project underwriting for the affordable housing, documentation to
+the division of anticipated reduced property tax revenue.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 29-32-105, amend
+3 (1)(c) introductory portion, (1)(c)(I), (1)(d), (3)(a), (3)(b)(II), (3)(b)(IV),
+4 (3)(b)(VI), (3)(b)(VII), and (3)(d); and add (1)(d.5), (4), (5), (6), (7), (8),
+5 (9), and (10) as follows:
+6 29-32-105. Affordable housing commitments - local
+7 governments - tribal governments - three-year commitment cycle -
+8 expedited development approval process - eligibility for assistance
+9 from the fund - waivers.
+10 (1) (c) FOR THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1,
+11 2024, the baseline number of affordable housing units within the
+12 territorial boundaries of a local government or tribal government, as
+13 referenced in this subsection (1), shall be determined by the local
+-3- HB26-1313
+
+1 government or tribal government by reference to:
+2 (I) The 2017-2021 American Community Survey 5-year
+3 FIVE-YEAR estimates published by the United States census bureau; The
+4 baseline number shall reset for 2027, based on the 2020-2024 American
+5 Community Survey 5-year estimates, expected to be published in the
+6 spring of 2026 and every third year thereafter with the publication of the
+7 corresponding American Community Survey 5-year estimates; or
+8 (d) By November 1, 2026 and by November 1st of each
+9 subsequent year in which the baseline resets PRECEDING THE FIRST YEAR
+10 OF A THREE-YEAR CYCLE, the governing body of each local government,
+11 other than local housing authorities, or tribal government desiring to
+12 receive funding under this article ARTICLE 32 or desiring to make
+13 affordable housing projects within its territorial boundaries eligible for
+14 funding under this article ARTICLE 32 shall make and file with the division
+15 a commitment specifying how, by December 31 of the third year
+16 thereafter, the combined number of newly constructed affordable housing
+17 units and existing units converted to affordable housing, within its
+18 territorial boundaries shall be increased by three percent each year over
+19 the baseline number of affordable housing units within its territorial
+20 boundaries determined as provided in subsection (1)(c) of this section THE
+21 TARGET INCREASE NUMBER. THE TARGET INCREASE NUMBER EQUALS THE
+22 AVERAGE ANNUAL NUMBER OF PERMITS FOR NEW HOUSING UNITS OR
+23 FUNCTIONAL EQUIVALENTS OF PERMITS FOR NEW HOUSING UNITS THAT
+24 HAVE BEEN ISSUED OVER THE PAST THREE YEARS WITHIN THE
+25 JURISDICTION OF THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT,
+26 MULTIPLIED BY THE NUMBER OF YEARS OF THE UPCOMING THREE-YEAR
+27 CYCLE TO WHICH A LOCAL GOVERNMENT OR TRIBAL GOVERNMENT IS
+-4- HB26-1313
+
+1 COMMITTING, MULTIPLIED BY:
+2 (I) TEN ONE-HUNDREDTHS IF THE AVERAGE ANNUAL JOB GROWTH
+3 RATE OVER THE PAST THREE YEARS, AS RECORDED BY THE STATE
+4 DEMOGRAPHY OFFICE FOR THE COUNTY IN WHICH THE LOCAL
+5 GOVERNMENT OR TRIBAL GOVERNMENT IS LOCATED, IS SIGNIFICANTLY
+6 LOWER THAN THE STATEWIDE MEDIAN ANNUAL JOB GROWTH RATE OVER
+7 THE PAST THREE YEARS, AS DETERMINED BY THE DIVISION;
+8 (II) FIFTEEN ONE-HUNDREDTHS IF THE AVERAGE ANNUAL JOB
+9 GROWTH RATE OVER THE PAST THREE YEARS, AS RECORDED BY THE STATE
+10 DEMOGRAPHY OFFICE FOR THE COUNTY IN WHICH THE LOCAL
+11 GOVERNMENT OR TRIBAL GOVERNMENT IS LOCATED, IS CLOSE TO THE
+12 STATEWIDE MEDIAN ANNUAL JOB GROWTH RATE OVER THE PAST THREE
+13 YEARS, AS DETERMINED BY THE DIVISION; OR
+14 (III) TWENTY ONE-HUNDREDTHS IF THE AVERAGE ANNUAL JOB
+15 GROWTH RATE OVER THE PAST THREE YEARS, AS RECORDED BY THE STATE
+16 DEMOGRAPHY OFFICE FOR THE COUNTY IN WHICH THE LOCAL
+17 GOVERNMENT OR TRIBAL GOVERNMENT IS LOCATED, IS SIGNIFICANTLY
+18 HIGHER THAN THE STATEWIDE MEDIAN ANNUAL JOB GROWTH RATE OVER
+19 THE PAST THREE YEARS, AS DETERMINED BY THE DIVISION.
+20 (d.5) FOR THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1,
+21 2027, AND FOR EACH THREE-YEAR CYCLE THEREAFTER, THE DIVISION
+22 SHALL ESTABLISH THRESHOLDS FOR JOB GROWTH RATES THAT THE
+23 DIVISION CONSIDERS TO BE SIGNIFICANTLY LOWER THAN, CLOSE TO, OR
+24 SIGNIFICANTLY HIGHER THAN THE STATEWIDE MEDIAN ANNUAL JOB
+25 GROWTH RATE OVER THE PAST THREE YEARS, TO BE USED PURSUANT TO
+26 SUBSECTION (1)(d) OF THIS SECTION TO DETERMINE THE TARGET INCREASE
+27 NUMBER. IN ESTABLISHING THE THRESHOLDS FOR JOB GROWTH RATES, THE
+-5- HB26-1313
+
+1 DIVISION SHALL DEFINE EACH THRESHOLD AS A SPECIFIC NUMERICAL
+2 RANGE BASED ON THE STATEWIDE MEDIAN ANNUAL JOB GROWTH RATE FOR
+3 THE PAST THREE YEARS.
+4 (3) (a) Beginning in 2027, to be eligible under this article ARTICLE
+5 32 for direct funding, or for affordable housing projects within a local
+6 government's or tribal government's territorial boundaries to be eligible
+7 for funding, local governments, other than local housing authorities, or
+8 tribal governments, must SHALL:
+9 (I) Satisfy both the requirements of subsection (1) of this section
+10 to commit to and achieve annual increases in the number of affordable
+11 housing units within their territorial boundaries, and the requirements of
+12 subsection (2) of this section to implement a system to expedite the
+13 development approval process for affordable housing projects; OR
+14 (II) SATISFY THE REQUIREMENTS OF SUBSECTION (1) OF THIS
+15 SECTION TO COMMIT TO INCREASES IN THE NUMBER OF AFFORDABLE
+16 HOUSING UNITS WITHIN THEIR TERRITORIAL BOUNDARIES, SATISFY THE
+17 REQUIREMENTS OF SUBSECTION (2) OF THIS SECTION TO IMPLEMENT A
+18 SYSTEM TO EXPEDITE THE DEVELOPMENT APPROVAL PROCESS FOR
+19 AFFORDABLE HOUSING PROJECTS, AND HAVE RECEIVED APPROVAL FROM
+20 THE DIVISION OF A GOOD FAITH EFFORT WAIVER SUBMITTED IN
+21 ACCORDANCE WITH SUBSECTION (6) OF THIS SECTION.
+22 (b) (II) If a local government or tribal government makes and files
+23 with the division the commitment required by subsection (1) of this
+24 section by November 1, 2026, or by November 1st of a subsequent year
+25 in which the baseline resets, PRECEDING THE FIRST YEAR OF A THREE-YEAR
+26 CYCLE, and it met its commitment to increase affordable housing made
+27 under subsection (1) of this section for the previous three-year cycle OR
+-6- HB26-1313
+
+1 RECEIVED A WAIVER PURSUANT TO THIS SECTION, it shall be deemed to
+2 have HAS satisfied the requirements of subsection (1) of this section
+3 through the end of the current three-year cycle.
+4 (IV) If a local government or tribal government fails to meet its
+5 commitment to increase affordable housing made and filed pursuant to
+6 subsection (1) of this section for any three-year cycle AND DOES NOT
+7 RECEIVE A WAIVER PURSUANT TO THIS SECTION, it shall be IS ineligible to
+8 receive financial assistance from the division or administrator during the
+9 first calendar year of the next three-year cycle.
+10 (VI) A developer, whether for-profit or nonprofit, or a local
+11 government or tribal government developing an affordable housing
+12 project within the territorial boundaries of a local government or tribal
+13 government that fails to meet the requirements of subsection (1) or (2) of
+14 this section shall be AND THAT HAS NOT RECEIVED A WAIVER PURSUANT
+15 TO THIS SECTION IS ineligible to receive financial assistance from the
+16 division or administrator. Notwithstanding this restriction, a project
+17 within the territorial boundaries of an eligible municipality shall be IS
+18 eligible for funding even if the county in which the project is located is
+19 ineligible.
+20 (VII) Ineligible local governments and tribal governments and
+21 developers of projects in ineligible local government and tribal
+22 government jurisdictions shall ARE not be required to pay back to the
+23 division or the administrator money paid to them under this article
+24 ARTICLE 32 prior to ineligibility.
+25 (d) (I) The division shall be IS responsible for determining
+26 compliance with this section. For the purpose of calculating whether a
+27 local government or tribal government has met the requirements of
+-7- HB26-1313
+
+1 subsection (1) of this section:
+2 (A) A new residential housing unit is to be counted at the time it
+3 is permitted rather than the time it is constructed;
+4 (B) An existing housing unit newly qualifying as affordable
+5 housing is to be counted at the time it is permitted and fully funded rather
+6 than at the time the conversion is completed; For the purpose of
+7 calculating whether a local government or tribal government has met the
+8 requirements of subsection (1) of this section,
+9 (C) In addition to affordable housing growth achieved through the
+10 programs in this article ARTICLE 32, any new deed restricted affordable
+11 housing THAT IS newly constructed or converted to affordable HOUSING
+12 within a local government's or tribal government's territorial boundaries
+13 shall be IS counted toward the local government's or tribal government's
+14 growth requirement; For the purpose of calculating whether a local
+15 government or tribal government has met the requirements of subsection
+16 (1) of this section,
+17 (D) All units funded through the programs created in section
+18 29-32-104 (1)(b), (1)(c)(I), (1)(c)(II), and (1)(c)(III) are counted towards
+19 TOWARD the local government's or tribal government's growth
+20 requirement; AND
+21 (E) EACH HOUSING UNIT THAT IS DEVELOPED AS PART OF A LARGER
+22 DEVELOPMENT PROJECT IN WHICH THE AVERAGE RENTAL PRICE OF ALL
+23 UNITS IN THE PROJECT IS AFFORDABLE TO A HOUSEHOLD WITH AN ANNUAL
+24 INCOME OF AT OR BELOW SIXTY PERCENT OF THE AREA MEDIAN INCOME
+25 COUNTS AS ONE AFFORDABLE HOUSING UNIT.
+26 (II) Regional collaboration and partnership is encouraged. Local
+27 governments and tribal governments may enter into written agreements
+-8- HB26-1313
+
+1 with other local governments and tribal governments that allow each
+2 jurisdiction to receive partial credit towards TOWARD the local
+3 government's or tribal government's growth requirement for the purpose
+4 of calculating whether a local government or tribal government has met
+5 the requirements of subsection (1) of this section. FOR THE PURPOSE OF
+6 CALCULATING WHETHER A LOCAL GOVERNMENT OR TRIBAL GOVERNMENT
+7 HAS MET THE REQUIREMENTS OF SUBSECTION (1) OF THIS SECTION FOR THE
+8 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2027, AND FOR EACH
+9 THREE-YEAR CYCLE THEREAFTER, A LOCAL GOVERNMENT OR TRIBAL
+10 GOVERNMENT MAY COUNT AN AFFORDABLE HOUSING UNIT THAT IS
+11 DEVELOPED WITH MONEY PROVIDED BY MULTIPLE LOCAL OR TRIBAL
+12 GOVERNMENTS AS A PERCENTAGE OF ONE UNIT THAT IS PROPORTIONAL TO
+13 THE PERCENTAGE OF TOTAL LOCAL OR TRIBAL GOVERNMENT FUNDING
+14 THAT THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT PROVIDED.
+15 EXCEPT FOR ANY CREDITS AWARDED PURSUANT TO SUBSECTION (9) OR
+16 (10) OF THIS SECTION THAT ARE IN EXCESS OF THE TOTAL AMOUNT OF
+17 UNITS PRODUCED, the sum of the total units credited to the local
+18 governments and tribal governments shall MUST not exceed the total
+19 number of units produced through the collaboration.
+20 (4) IF A LOCAL GOVERNMENT, OTHER THAN A LOCAL HOUSING
+21 AUTHORITY, OR A TRIBAL GOVERNMENT DESIRES TO RECEIVE FUNDING
+22 UNDER THIS ARTICLE 32 OR DESIRES TO MAKE AFFORDABLE HOUSING
+23 PROJECTS WITHIN ITS TERRITORIAL BOUNDARIES ELIGIBLE FOR FUNDING
+24 UNDER THIS ARTICLE 32, AND IS UNABLE TO ACHIEVE, FOR THE
+25 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2024, THE ANNUAL
+26 INCREASES IN THE NUMBER OF AFFORDABLE HOUSING UNITS WITHIN ITS
+27 TERRITORIAL BOUNDARIES SET FORTH IN SUBSECTION (1) OF THIS SECTION,
+-9- HB26-1313
+
+1 THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT MAY FILE A GOOD
+2 FAITH EFFORT WAIVER WITH THE DIVISION. THE LOCAL GOVERNMENT OR
+3 TRIBAL GOVERNMENT IS ELIGIBLE TO FILE A GOOD FAITH EFFORT WAIVER
+4 AND BE APPROVED BY THE DIVISION IF THE LOCAL GOVERNMENT OR
+5 TRIBAL GOVERNMENT COMPLIES WITH SUBSECTION (5) OF THIS SECTION
+6 AND:
+7 (a) HAS RECEIVED APPROVAL FROM THE DIVISION THAT THE LOCAL
+8 GOVERNMENT OR TRIBAL GOVERNMENT HAS COMPLIED WITH SUBSECTION
+9 (2) OF THIS SECTION;
+10 (b) HAS RECEIVED TECHNICAL GUIDANCE FROM THE DIVISION'S
+11 PROPOSITION 123 COMMUNITY SUPPORT TEAM;
+12 (c) HAS ACHIEVED AT LEAST SIXTY-FIVE PERCENT OF THE ANNUAL
+13 INCREASES IN THE NUMBER OF AFFORDABLE HOUSING UNITS WITHIN ITS
+14 TERRITORIAL BOUNDARIES AS REQUIRED BY SUBSECTION (1) OF THIS
+15 SECTION FOR THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2024;
+16 AND
+17 (d) IS ABLE TO SATISFY THE REQUIREMENT OF SUBSECTION (1) OF
+18 THIS SECTION TO ACHIEVE ANNUAL INCREASES IN THE NUMBER OF
+19 AFFORDABLE HOUSING UNITS WITHIN ITS TERRITORIAL BOUNDARIES FOR
+20 THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2024 IF THE
+21 REQUIREMENT HAD BEEN BASED ON THE TARGET INCREASE NUMBER
+22 SPECIFIED IN SUBSECTION (1)(d) OF THIS SECTION.
+23 (5) TO BE ELIGIBLE TO FILE A GOOD FAITH EFFORT WAIVER AND BE
+24 APPROVED BY THE DIVISION, IN ADDITION TO MEETING THE REQUIREMENTS
+25 OF SUBSECTION (4) OF THIS SECTION, THE LOCAL GOVERNMENT OR TRIBAL
+26 GOVERNMENT SHALL:
+27 (a) SUBMIT A NARRATIVE DESCRIPTION OF ITS ACHIEVEMENTS IN
+-10- HB26-1313
+
+1 ADVANCING AFFORDABLE HOUSING DEVELOPMENTS WITHIN THE
+2 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2024;
+3 (b) SUBMIT DOCUMENTATION OF ITS ADOPTION OF LOCAL LAND
+4 USE, ZONING, OR REGULATORY REFORMS THAT INCREASE THE FEASIBILITY
+5 OF DEVELOPING AFFORDABLE HOUSING;
+6 (c) SUBMIT DOCUMENTATION OF ADDITIONAL LOCAL
+7 COMMITMENTS TO FUND AFFORDABLE HOUSING OR ESTABLISHED METHODS
+8 FOR REDUCING THE COST OF DEVELOPING AFFORDABLE HOUSING;
+9 (d) IMPLEMENT PROCESS OR CAPACITY IMPROVEMENTS THAT
+10 REDUCE BARRIERS TO DEVELOPING AFFORDABLE HOUSING, SUCH AS A
+11 HOUSING ACTION PLAN; OR
+12 (e) PARTICIPATE IN REGIONAL COLLABORATION TO DEVELOP MORE
+13 AFFORDABLE HOUSING THROUGH A FORMAL REGIONAL AGREEMENT.
+14 (6) A LOCAL GOVERNMENT OR TRIBAL GOVERNMENT SEEKING A
+15 GOOD FAITH EFFORT WAIVER FOR THE THREE-YEAR CYCLE BEGINNING ON
+16 JANUARY 1, 2024 SHALL, ON OR AFTER JUNE 15, 2026 BUT BEFORE
+17 NOVEMBER 1, 2026, SUBMIT TO THE DIVISION DOCUMENTATION OF
+18 COMPLIANCE WITH SUBSECTIONS (4) AND (5) OF THIS SECTION. THE
+19 DIVISION SHALL DETERMINE, IN ITS DISCRETION, WHETHER TO GRANT A
+20 GOOD FAITH EFFORT WAIVER TO A LOCAL GOVERNMENT OR TRIBAL
+21 GOVERNMENT.
+22 (7) IF A LOCAL GOVERNMENT, OTHER THAN A LOCAL HOUSING
+23 AUTHORITY, OR A TRIBAL GOVERNMENT DESIRES TO RECEIVE FUNDING
+24 UNDER THIS ARTICLE 32 OR DESIRES TO MAKE AFFORDABLE HOUSING
+25 PROJECTS WITHIN ITS TERRITORIAL BOUNDARIES ELIGIBLE FOR FUNDING
+26 UNDER THIS ARTICLE 32, BUT IS UNABLE TO ACHIEVE, FOR THE
+27 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2027, THE ANNUAL
+-11- HB26-1313
+
+1 INCREASES IN THE NUMBER OF AFFORDABLE HOUSING UNITS WITHIN ITS
+2 TERRITORIAL BOUNDARIES SET FORTH IN SUBSECTION (1) OF THIS SECTION,
+3 THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT MAY FILE AN
+4 ADJUSTMENT WAIVER WITH THE DIVISION. TO BE ELIGIBLE TO FILE AN
+5 ADJUSTMENT WAIVER FOR THE THREE-YEAR CYCLE BEGINNING ON
+6 JANUARY 1, 2027, AND BE APPROVED BY THE DIVISION, THE LOCAL
+7 GOVERNMENT OR TRIBAL GOVERNMENT SHALL:
+8 (a) RECEIVE APPROVAL FROM THE DIVISION THAT THE LOCAL
+9 GOVERNMENT OR TRIBAL GOVERNMENT HAS COMPLIED WITH SUBSECTION
+10 (2) OF THIS SECTION;
+11 (b) SUBMIT TO THE DIVISION A DETAILED NARRATIVE EXPLAINING
+12 WHY THE ANNUAL INCREASE IN THE NUMBER OF AFFORDABLE HOUSING
+13 UNITS IS UNATTAINABLE WITHIN ITS TERRITORIAL BOUNDARIES FOR THE
+14 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2027. THE DETAILED
+15 NARRATIVE MUST BE SUPPORTED BY RELIABLE AND VERIFIABLE DATA,
+16 SUCH AS:
+17 (I) A LOCAL HOUSING NEEDS ASSESSMENT COMPLETED NO EARLIER
+18 THAN THREE YEARS BEFORE SUBMITTAL;
+19 (II) AN INVENTORY OF DEED-RESTRICTED UNITS RECORDED WITH
+20 THE LOCAL GOVERNMENT, TRIBAL GOVERNMENT, OR COUNTY CLERK FOR
+21 THE COUNTY IN WHICH THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT
+22 IS LOCATED;
+23 (III) A COMPREHENSIVE PLAN OR AREA PLAN GROWTH
+24 PROJECTIONS DEMONSTRATING THAT THE ANNUAL INCREASE
+25 REQUIREMENT IN THE NUMBER OF AFFORDABLE HOUSING UNITS EXCEEDS
+26 THE TOTAL PROJECTED GROWTH OF THE JURISDICTION BY A SIGNIFICANT
+27 MARGIN;
+-12- HB26-1313
+
+1 (IV) UTILITY OR SERVICE PROVIDER DOCUMENTATION;
+2 (V) INFRASTRUCTURE CAPACITY LIMITATIONS; OR
+3 (VI) ENVIRONMENTAL OR GEOGRAPHIC CONSTRAINT MAPS;
+4 (c) PROPOSE A REVISED ANNUAL INCREASE IN THE NUMBER OF
+5 AFFORDABLE HOUSING UNITS BASED ON THE VERIFIABLE DATA SUBMITTED
+6 PURSUANT TO SUBSECTION (7)(b) OF THIS SECTION THAT IS NOT LESS THAN
+7 ONE UNIT PER YEAR; AND
+8 (d) FILE DOCUMENTATION WITH THE DIVISION DEMONSTRATING
+9 THAT THE LOCAL GOVERNMENT'S OR TRIBAL GOVERNMENT'S COMMITMENT
+10 FOR THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2027,
+11 REPRESENTED A SIGNIFICANT INCREASE ABOVE ITS COMMITMENT FOR THE
+12 THREE-YEAR CYCLE BEGINNING ON JANUARY 1, 2027.
+13 (8) IN ADDITION TO THE CRITERIA LISTED IN SUBSECTION (7) OF
+14 THIS SECTION, WHEN DECIDING WHETHER TO GRANT AN ADJUSTMENT
+15 WAIVER, THE DIVISION MAY ALSO CONSIDER WHETHER AND THE EXTENT
+16 TO WHICH A LOCAL GOVERNMENT OR TRIBAL GOVERNMENT EXCEEDED THE
+17 ANNUAL INCREASE IN THE NUMBER OF AFFORDABLE HOUSING UNITS
+18 WITHIN ITS TERRITORIAL BOUNDARIES SET FORTH IN SUBSECTION (1) OF
+19 THIS SECTION FOR THE THREE-YEAR CYCLE BEGINNING ON JANUARY 1,
+20 2024.
+21 (9) FOR THE PURPOSES OF DETERMINING WHETHER A LOCAL
+22 GOVERNMENT, OTHER THAN A LOCAL HOUSING AUTHORITY, OR A TRIBAL
+23 GOVERNMENT HAS ACHIEVED THE ANNUAL INCREASES IN THE NUMBER OF
+24 AFFORDABLE HOUSING UNITS WITHIN ITS TERRITORIAL BOUNDARIES SET
+25 FORTH IN SUBSECTION (1) OF THIS SECTION FOR THE THREE-YEAR CYCLE
+26 BEGINNING ON JANUARY 1, 2027, AND FOR EACH THREE-YEAR CYCLE
+27 THEREAFTER, AN AFFORDABLE HOUSING UNIT THAT SATISFIES THE
+-13- HB26-1313
+
+1 FOLLOWING CRITERIA COUNTS FOR ONE AFFORDABLE HOUSING UNIT PLUS
+2 THE FOLLOWING CORRESPONDING ADDITIONAL UNIT AMOUNT:
+3 (a) AN AFFORDABLE HOUSING UNIT THAT IS DEVELOPED ON LAND
+4 DONATED BY THE LOCAL GOVERNMENT OR TRIBAL GOVERNMENT
+5 QUALIFIES FOR AN ADDITIONAL ONE-TENTH OF A UNIT;
+6 (b) AN AFFORDABLE HOUSING UNIT THAT IS DEVELOPED TO BE
+7 SOLD QUALIFIES FOR AN ADDITIONAL TWO-TENTHS OF A UNIT; AND
+8 (c) AN AFFORDABLE HOUSING UNIT THAT IS RESTRICTED TO BE
+9 RENTED OR SOLD TO A HOUSEHOLD WITH AN ANNUAL INCOME OF AT OR
+10 BELOW THIRTY PERCENT OF THE AREA MEDIAN INCOME QUALIFIES FOR AN
+11 ADDITIONAL TWO-TENTHS OF A UNIT.
+12 (10) IF AFFORDABLE HOUSING THAT COUNTS TOWARD A
+13 COMMITMENT MADE BY A LOCAL GOVERNMENT OR TRIBAL GOVERNMENT
+14 PURSUANT TO SUBSECTION (1) OF THIS SECTION IS DEVELOPED AND
+15 QUALIFIES FOR A PROPERTY TAX EXEMPTION, THEREBY REDUCING
+16 PROPERTY TAX REVENUE TO THE COUNTY IN WHICH THE AFFORDABLE
+17 HOUSING IS LOCATED, AND THE COUNTY DID NOT PROVIDE ANY MONEY TO
+18 DEVELOP THE AFFORDABLE HOUSING, THE DIVISION MAY, IN ITS
+19 DISCRETION, ALLOW EACH SUCH AFFORDABLE HOUSING UNIT TO COUNT AS
+20 UP TO ONE AND FIFTEEN-HUNDREDTHS AFFORDABLE HOUSING UNITS FOR
+21 THE COUNTY AT THE TIME OF VERTICAL CONSTRUCTION. IF A COUNTY'S
+22 PROPERTY TAX REVENUE WILL BE REDUCED DUE TO THE DEVELOPMENT OF
+23 AFFORDABLE HOUSING, THE COUNTY SHALL SUBMIT, AT THE TIME OF THE
+24 PROJECT UNDERWRITING FOR THE AFFORDABLE HOUSING,
+25 DOCUMENTATION TO THE DIVISION OF ANTICIPATED REDUCED PROPERTY
+26 TAX REVENUE.
+27 SECTION 2. Safety clause. The general assembly finds,
+-14- HB26-1313
+
+1 determines, and declares that this act is necessary for the immediate
+2 preservation of the public peace, health, or safety or for appropriations for
+3 the support and maintenance of the departments of the state and state
+4 institutions.
+-15- HB26-1313

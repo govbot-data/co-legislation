@@ -1,0 +1,497 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0088.03 Jacob Baus x2173 HOUSE BILL 26-1309
+HOUSE SPONSORSHIP
+Froelich and Story,
+SENATE SPONSORSHIP
+Wallace,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MEASURES RELATED TO FORMS OF ABUSE IN CASES
+102 REGARDING A SEPARATION OF A RELATIONSHIP.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the court is required to determine the allocation
+of parental responsibilities, including parenting time and decision-making
+responsibilities, based on the best interests of the child.
+The bill requires that prior to allocating parental responsibilities
+and prior to considering the best interests of the child factors, the court
+shall determine whether a party has committed domestic violence. If the
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+court determines by a preponderance of the evidence that a party has
+committed domestic violence, there is a presumption that it is not in the
+best interests of the child to allocate parental responsibilities to that
+parent.
+The bill requires the court to make specific written findings and
+require conditions if the court awards parental responsibilities to a party
+found to have committed domestic violence.
+Under current law, prior to a court ordering a party accused of
+domestic violence or child abuse to take steps to improve a relationship
+with a protected party, a mental health professional who is approved by
+the domestic violence offender management board must verify the
+accused party's behavior. Instead, the bill requires that the accused party
+participate in individual therapeutic treatment with a mental health
+professional who holds a master's or doctoral degree and a certain mental
+health license type, has specialized training and expertise in treating
+survivors of domestic violence and its effects, and has completed a
+52-week domestic violence abuser intervention program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Colorado has led the United States in enacting family court
+5 reforms;
+6 (b) In recent years, a series of bills have been enacted that seek to
+7 protect parents and children from domestic violence and child abuse when
+8 a family court is determining custody. These bills have required training
+9 in domestic violence and child abuse, created protections for coercive
+10 control and its insidious permutations, and brought many survivors to the
+11 Colorado capitol to share their stories.
+12 (c) Despite efforts to protect victims and survivors, family courts
+13 still award unsupervised custody, order court-ordered reunification,
+14 remove protection orders, and dismiss the realities of various forms of
+15 abuse;
+16 (d) In 2025, the domestic violence fatality review board reported
+-2- HB26-1309
+
+1 a record number of domestic violence fatalities. At least 7 domestic
+2 violence fatalities directly involved domestic relations cases between the
+3 victim and the perpetrator, 2 of which closed prior to the fatality and 5 of
+4 which were still open. The 5 open cases involved child custody litigation,
+5 and 4 of the 5 open cases involved multiple victims, resulting in 9
+6 homicides and one attempted homicide.
+7 (e) Over 62% of Colorado's child domestic violence fatality
+8 victims were killed during child custody litigation. Of the 8 child
+9 domestic violence fatality victims in 2024, 5 children were involved in
+10 their parents' custody disputes.
+11 (f) Studies suggest that one parent using repeated court actions
+12 against the other parent is a pervasive, multifaceted, and effective tactic
+13 to further coercive control. Parents who are abusive may misuse the legal
+14 system by repeatedly bringing groundless motions for modification and
+15 enforcement, and even false reports of child abuse.
+16 (g) Seventy-three percent of domestic relations litigants appear in
+17 family court without a lawyer;
+18 (h) Seventy-two percent of all murder-suicides involve an intimate
+19 partner, and 94% of the murder victims in murder-suicides are female;
+20 (i) Lethality often escalates following separation;
+21 (j) Parents who are abused face an increased risk of serious and
+22 lethal violence when separating from the parent who is abusive;
+23 (k) As of 2018, all states and the District of Columbia required
+24 domestic violence to be considered in the best interests of the child
+25 analysis, with 26 states and D.C. giving domestic violence extra weight.
+26 Twenty-eight states and D.C. provide a statutory presumption against
+27 awarding custody to a perpetrator of domestic violence.
+-3- HB26-1309
+
+1 (l) An extensive body of research suggests that exposure to
+2 domestic violence places children at risk of adverse developmental,
+3 behavioral, physical, and mental health consequences, including
+4 depression, anxiety, poor coping mechanisms, suicidal ideations,
+5 self-harm, substance abuse, and chronic pain.
+6 (2) Therefore, the general assembly declares that:
+7 (a) In order to protect parents and children from domestic
+8 violence, Colorado must prioritize safety during family court proceedings;
+9 (b) Safety must be prioritized before contact;
+10 (c) Courts need clear guidance and standards to address domestic
+11 violence in determinations concerning the allocation of parental
+12 responsibilities to ensure consistent application and protection of victims
+13 and children; and
+14 (d) It is necessary to presume that, if a parent has committed
+15 domestic violence, it is not in the best interests of the child to allocate
+16 parental responsibilities to that parent. This presumption is necessary to
+17 allow courts the ability to consider individual circumstances while
+18 maintaining a strong and protective stance against allocating parental
+19 responsibilities to an abusive parent.
+20 SECTION 2. In Colorado Revised Statutes, 14-10-103, amend
+21 (1.5)(a) and (1.5)(b); and add (1.5)(c.2), (1.5)(c.4), (1.5)(c.6), and
+22 (1.5)(c.8) as follows:
+23 14-10-103. Definitions and interpretations of terms.
+24 (1.5) As used in this article 10, unless the context otherwise
+25 requires:
+26 (a) "Coercive control" has the same meaning as set forth in
+27 section 14-10-124 (1.3) MEANS A PATTERN OF THREATENING,
+-4- HB26-1309
+
+1 HUMILIATING, OR INTIMIDATING ACTIONS, INCLUDING ASSAULTS OR OTHER
+2 ABUSE, THAT IS USED TO HARM, PUNISH, OR FRIGHTEN AN INDIVIDUAL.
+3 "COERCIVE CONTROL" INCLUDES A PATTERN OF BEHAVIOR THAT TAKES
+4 AWAY THE INDIVIDUAL'S LIBERTY OR FREEDOM AND STRIPS AWAY THE
+5 INDIVIDUAL'S SENSE OF SELF, INCLUDING THE INDIVIDUAL'S BODILY
+6 INTEGRITY AND HUMAN RIGHTS. "COERCIVE CONTROL" INCLUDES
+7 ISOLATING THE INDIVIDUAL FROM SUPPORT, EXPLOITING THE INDIVIDUAL,
+8 DEPRIVING THE INDIVIDUAL OF INDEPENDENCE, AND REGULATING THE
+9 INDIVIDUAL'S EVERYDAY BEHAVIOR. "COERCIVE CONTROL" INCLUDES,
+10 BUT IS NOT LIMITED TO, ANY OF THE FOLLOWING:
+11 (I) ISOLATING THE INDIVIDUAL FROM FRIENDS AND FAMILY;
+12 (II) MONITORING, SURVEILLING, REGULATING, OR CONTROLLING
+13 THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S OR RELATIVE'S,
+14 FINANCES, ECONOMIC RESOURCES, OR ACCESS TO SERVICES;
+15 (III) MONITORING, SURVEILLING, REGULATING, OR CONTROLLING
+16 THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S OR RELATIVE'S,
+17 ACTIVITIES, COMMUNICATIONS, OR MOVEMENTS, INCLUDING THROUGH
+18 TECHNOLOGY;
+19 (IV) NAME-CALLING, DEGRADING, OR DEMEANING THE
+20 INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR RELATIVE, ON A FREQUENT
+21 BASIS;
+22 (V) THREATENING TO HARM OR KILL THE INDIVIDUAL, OR THE
+23 INDIVIDUAL'S CHILD OR RELATIVE, INCLUDING WEARING, ACCESSING,
+24 DISPLAYING, USING, OR CLEANING A WEAPON IN AN INTIMIDATING OR
+25 THREATENING MANNER;
+26 (VI) THREATENING TO COMMIT SUICIDE OR OTHERWISE HARM
+27 ONE'S OWN PERSON WHEN USED AS A METHOD OF COERCION, CONTROL,
+-5- HB26-1309
+
+1 PUNISHMENT, INTIMIDATION, OR RETALIATION AGAINST THE PERSON;
+2 (VII) THREATENING TO HARM OR KILL AN ANIMAL WITH WHICH
+3 THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR RELATIVE, HAS AN
+4 EMOTIONAL BOND;
+5 (VIII) THREATENING TO PUBLISH THE INDIVIDUAL'S, OR THE
+6 INDIVIDUAL'S CHILD'S OR RELATIVE'S, SENSITIVE PERSONAL INFORMATION,
+7 INCLUDING SEXUALLY EXPLICIT MATERIAL, OR MAKE REPORTS TO THE
+8 POLICE OR AUTHORITIES;
+9 (IX) DAMAGING THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S
+10 OR RELATIVE'S, PROPERTY OR HOUSEHOLD GOODS;
+11 (X) THREATENING THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD
+12 OR RELATIVE, WITH DEPORTATION OR CONTACTING AUTHORITIES BASED
+13 ON PERCEIVED OR ACTUAL IMMIGRATION STATUS, WITHHOLDING
+14 ESSENTIAL DOCUMENTS REQUIRED FOR IMMIGRATION, OR THREATENING
+15 TO WITHDRAW OR INTERFERE WITH AN ACTIVE IMMIGRATION APPLICATION
+16 OR PROCESS; OR
+17 (XI) FORCING THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR
+18 RELATIVE, TO TAKE PART IN CRIMINAL ACTIVITIES OR CHILD ABUSE.
+19 (b) (I) "Domestic violence" has the same meaning as set forth in
+20 section 14-10-124 (1.3) MEANS ONE OF THE FOLLOWING COMMITTED BY
+21 A PARTY, WHETHER OR NOT THE CONDUCT CONSTITUTES A CRIMINAL
+22 OFFENSE:
+23 (A) AN ACT OR THREATENED ACT OF PHYSICAL ASSAULT OR
+24 BODILY HARM AGAINST THE OTHER PARENT OR A FAMILY OR HOUSEHOLD
+25 MEMBER, INCLUDING A CHILD;
+26 (B) AN ACT OR THREATENED ACT OF DAMAGE TO PROPERTY
+27 BELONGING TO THE OTHER PARENT OR A FAMILY OR HOUSEHOLD MEMBER,
+-6- HB26-1309
+
+1 INCLUDING A CHILD;
+2 (C) AN ACT OR THREATENED ACT OF PHYSICAL ASSAULT OR
+3 BODILY HARM AGAINST AN ANIMAL BELONGING TO THE OTHER PARENT OR
+4 A FAMILY OR HOUSEHOLD MEMBER, INCLUDING A CHILD;
+5 (D) STALKING;
+6 (E) SEXUAL ASSAULT;
+7 (F) HEALTH-RELATED ABUSE;
+8 (G) COERCIVE CONTROL;
+9 (H) TECHNOLOGICAL ABUSE;
+10 (I) ECONOMIC ABUSE; OR
+11 (J) HUMAN TRAFFICKING.
+12 (II) "DOMESTIC VIOLENCE" DOES NOT MEAN BEHAVIORS THAT ARE
+13 USED BY A PARENT TO PROTECT THEMSELF; A FAMILY OR HOUSEHOLD
+14 MEMBER, INCLUDING A CHILD; OR PROPERTY, INCLUDING AN ANIMAL,
+15 FROM THE HARM OR RISK OF HARM PRESENTED BY THE OTHER PARENT.
+16 (c.2) "HEALTH-RELATED ABUSE" MEANS THE COMMISSION OF ONE
+17 OF THE FOLLOWING BY A PARENT AGAINST THE OTHER PARENT OR
+18 ANOTHER PERSON, INCLUDING A CHILD, THROUGH AN ACT OR THREATENED
+19 ACT OF PHYSICAL HARM, INTIMIDATION, OR COERCIVE CONTROL:
+20 (I) INTERFERENCE WITH OR CONTROLLING OR PREVENTING ACCESS
+21 TO MEDICAL CARE, MEDICINE, MEDICAL DEVICES, HEALTH-RELATED
+22 SERVICES, OR PUBLIC OR PRIVATE HEALTH-CARE COVERAGE;
+23 (II) INTERFERENCE WITH OR CONTROLLING OR PREVENTING
+24 ACCESS TO MENTAL OR BEHAVIORAL HEALTH CARE OR MEDICINE; OR
+25 (III) INTERFERENCE WITH OR CONTROLLING OR PREVENTING
+26 ACCESS TO REPRODUCTIVE HEALTH CARE, INCLUDING CONTRACEPTIVE USE
+27 OR REPRODUCTIVE HEALTH-CARE INFORMATION, OR CONTROLLING OR
+-7- HB26-1309
+
+1 ATTEMPTING TO CONTROL PREGNANCY OUTCOMES.
+2 (c.4) "INTIMATE RELATIONSHIP" MEANS A RELATIONSHIP BETWEEN
+3 SPOUSES, FORMER SPOUSES, PAST OR PRESENT UNMARRIED COUPLES, OR
+4 PERSONS WHO ARE BOTH PARENTS OF THE SAME CHILD, REGARDLESS OF
+5 WHETHER THE PERSONS HAVE BEEN MARRIED OR HAVE LIVED TOGETHER
+6 AT ANY TIME.
+7 (c.6) "SEXUAL ASSAULT" HAS THE MEANING SET FORTH IN SECTION
+8 19-1-103.
+9 (c.8) "TECHNOLOGICAL ABUSE" MEANS AN ACT OR PATTERN OF
+10 BEHAVIOR BY A PARENT AGAINST THE OTHER PARENT OR ANOTHER
+11 PERSON THAT IS INTENDED TO HARM, THREATEN, INTIMIDATE, STALK,
+12 IMPERSONATE, EXPLOIT, OR EXTORT THROUGH THE USE OF TECHNOLOGY.
+13 "TECHNOLOGICAL ABUSE" INCLUDES, BUT IS NOT LIMITED TO, THE
+14 FOLLOWING:
+15 (I) ELECTRONIC MONITORING OR SURVEILLANCE;
+16 (II) DISCLOSURE OF INTIMATE OR SEXUALLY EXPLICIT MATERIAL
+17 THROUGH THE USE OF TECHNOLOGY; OR
+18 (III) IMPERSONATION THROUGH THE USE OF TECHNOLOGY.
+19 SECTION 3. In Colorado Revised Statutes, 14-10-124, repeal
+20 (1.3); and add (1.4) as follows:
+21 14-10-124. Best interests of the child.
+22 (1.3) Definitions. For purposes of this section and section
+23 14-10-129 (2)(c), unless the context otherwise requires:
+24 (a) "Coercive control" means a pattern of threatening,
+25 humiliating, or intimidating actions, including assaults or other abuse,
+26 that is used to harm, punish, or frighten an individual. "Coercive control"
+27 includes a pattern of behavior that takes away the individual's liberty or
+-8- HB26-1309
+
+1 freedom and strips away the individual's sense of self, including the
+2 individual's bodily integrity and human rights. "Coercive control"
+3 includes isolating the individual from support, exploiting the individual,
+4 depriving the individual of independence, and regulating the individual's
+5 everyday behavior. "Coercive control" includes, but is not limited to, any
+6 of the following:
+7 (I) Isolating the individual from friends and family;
+8 (II) Monitoring, surveilling, regulating, or controlling the
+9 individual's, or the individual's child's or relative's, finances, economic
+10 resources, or access to services;
+11 (III) Monitoring, surveilling, regulating, or controlling the
+12 individual's, or the individual's child's or relative's, activities,
+13 communications, or movements, including through technology;
+14 (IV) Name-calling, degrading, or demeaning the individual, or the
+15 individual's child or relative, on a frequent basis;
+16 (V) Threatening to harm or kill the individual or the individual's
+17 child or relative, including wearing, accessing, displaying, using, or
+18 cleaning a weapon in an intimidating or threatening manner;
+19 (VI) Threatening to commit suicide or otherwise harm one's own
+20 person, when used as a method of coercion, control, punishment,
+21 intimidation, or retaliation against the person;
+22 (VII) Threatening to harm or kill an animal with which the
+23 individual or the individual's child or relative has an emotional bond;
+24 (VIII) Threatening to publish the individual's, or the individual's
+25 child's or relative's, sensitive personal information, including sexually
+26 explicit material, or make reports to the police or authorities;
+27 (IX) Damaging the individual's, or the individual's child's or
+-9- HB26-1309
+
+1 relative's, property or household goods;
+2 (X) Threatening the individual, or the individual's child or
+3 relative, with deportation or contacting authorities based on perceived or
+4 actual immigration status, withholding essential documents required for
+5 immigration, or threatening to withdraw or interfere with an active
+6 immigration application or process; or
+7 (XI) Forcing the individual, or the individual's child or relative,
+8 to take part in criminal activities or child abuse.
+9 (b) "Domestic violence" means an act of violence or a threatened
+10 act of violence upon a person with whom the actor is or has been
+11 involved in an intimate relationship, and may include any act or
+12 threatened act against a person or against property, including an animal,
+13 when used as a method of coercion, control, punishment, intimidation, or
+14 revenge directed against a person with whom the actor is or has been
+15 involved in an intimate relationship.
+16 (c) "Intimate relationship" means a relationship between spouses,
+17 former spouses, past or present unmarried couples, or persons who are
+18 both parents of the same child regardless of whether the persons have
+19 been married or have lived together at any time.
+20 (d) "Sexual assault" has the same meaning as set forth in section
+21 19-1-103.
+22 (1.4) (a) (I) PRIOR TO CONSIDERING THE BEST INTERESTS OF THE
+23 CHILD PURSUANT TO SUBSECTION (1.5) OF THIS SECTION AND ALLOCATING
+24 PARENTING TIME OR SOLE OR JOINT DECISION-MAKING RESPONSIBILITY,
+25 THE COURT SHALL DETERMINE WHETHER, BY A PREPONDERANCE OF THE
+26 EVIDENCE, A PARTY HAS COMMITTED DOMESTIC VIOLENCE AND MAKE
+27 WRITTEN FINDINGS THAT STATE THE EVIDENCE THAT WAS RELIED ON IN
+-10- HB26-1309
+
+1 THE COURT'S DETERMINATION. THE FOLLOWING IS INSUFFICIENT FOR A
+2 COURT TO DETERMINE THAT DOMESTIC VIOLENCE HAS NOT OCCURRED:
+3 (A) THE ABSENCE OF A CONVICTION;
+4 (B) THE ABSENCE OF A PLEA OF GUILTY OR NOLO CONTENDERE
+5 RESULTING IN A DEFERRED SENTENCE;
+6 (C) A DISMISSAL OF THE UNDERLYING CHARGE;
+7 (D) A DISMISSAL OF A PREVIOUS PROTECTION ORDER; OR
+8 (E) A FINDING OF INCONCLUSIVE OR UNFOUNDED REGARDING
+9 BEHAVIOR INVESTIGATED BY THE STATE DEPARTMENT OF HUMAN
+10 SERVICES, A COUNTY DEPARTMENT OF HUMAN OR SOCIAL SERVICES, OR A
+11 CITY AND COUNTY.
+12 (II) WHEN DETERMINING WHETHER DOMESTIC VIOLENCE HAS
+13 OCCURRED, THE COURT SHALL CONSIDER ANY RELEVANT AND ADMISSIBLE
+14 EVIDENCE OF DOMESTIC VIOLENCE. THE EVIDENCE MAY INCLUDE, BUT IS
+15 NOT LIMITED TO, THE FOLLOWING:
+16 (A) A COURT RECORD DOCUMENTING THE CONVICTION FOR
+17 DOMESTIC VIOLENCE OR CONVICTION OF AN ACT IN WHICH THE
+18 UNDERLYING FACTUAL BASIS WAS DOMESTIC VIOLENCE;
+19 (B) A POLICE REPORT OR ARREST RECORD CONCERNING THE
+20 DOMESTIC VIOLENCE;
+21 (C) A MEDICAL RECORD;
+22 (D) A RECORD FROM A LICENSED MENTAL HEALTH PROFESSIONAL
+23 OR VICTIM'S ADVOCATE;
+24 (E) AN ACTIVE OR EXPIRED PROTECTION ORDER;
+25 (F) A RECORD OF COMMUNICATION;
+26 (G) WITNESS TESTIMONY;
+27 (H) A PRIOR COURT'S OR ADMINISTRATIVE AGENCY'S RECORD OR
+-11- HB26-1309
+
+1 FINDINGS CONCERNING DOMESTIC VIOLENCE;
+2 (I) A RECORD OR FINDING RELATED TO A PARTY'S PETITION OR
+3 STATUS PURSUANT TO THE FEDERAL "VIOLENCE AGAINST WOMEN ACT OF
+4 1994", 18 U.S.C. SEC. 2265;
+5 (J) A RECORD OR FINDING RELATED TO A PARTY'S PETITION OR
+6 STATUS FOR A U VISA PURSUANT TO THE FEDERAL "VICTIMS OF
+7 TRAFFICKING AND VIOLENCE PROTECTION ACT OF 2000", 22 U.S.C. SEC.
+8 7101 ET SEQ.; OR
+9 (K) A RECORD OR FINDING RELATED TO A PARTY'S APPLICATION
+10 OR STATUS FOR A BENEFIT OR ASSISTANCE PROGRAM WITH ELIGIBILITY
+11 FOR VICTIMS OF DOMESTIC VIOLENCE.
+12 (b) IF A COURT DETERMINES BY A PREPONDERANCE OF THE
+13 EVIDENCE THAT A PARTY HAS COMMITTED DOMESTIC VIOLENCE, THERE IS
+14 A REBUTTABLE PRESUMPTION THAT IT IS NOT IN THE BEST INTERESTS OF
+15 THE CHILD TO ALLOCATE PARENTING TIME OR SOLE OR MUTUAL
+16 DECISION-MAKING AUTHORITY TO THE PARTY FOUND TO HAVE
+17 COMMITTED DOMESTIC VIOLENCE.
+18 (c) IN EVERY CASE, THE COURT SHALL MAKE SPECIFIC WRITTEN
+19 FINDINGS IN AN ORDER CONCERNING WHETHER OR NOT THE COURT
+20 DETERMINED BY A PREPONDERANCE OF EVIDENCE THAT A PARTY HAS
+21 COMMITTED DOMESTIC VIOLENCE. IF A COURT ALLOCATES PARENTING
+22 TIME OR SOLE OR MUTUAL DECISION-MAKING AUTHORITY TO A PARTY
+23 WHO THE COURT DETERMINED BY A PREPONDERANCE OF THE EVIDENCE
+24 HAS COMMITTED DOMESTIC VIOLENCE, THE COURT SHALL:
+25 (I) MAKE SPECIFIC, WRITTEN FINDINGS IN ITS ORDER THAT:
+26 (A) STATE THE EVIDENCE THAT WAS RELIED ON IN THE COURT'S
+27 DETERMINATION TO ALLOCATE PARENTING TIME OR SOLE OR MUTUAL
+-12- HB26-1309
+
+1 DECISION-MAKING AUTHORITY TO A PARTY WHO THE COURT DETERMINED
+2 BY A PREPONDERANCE OF THE EVIDENCE HAS COMMITTED DOMESTIC
+3 VIOLENCE;
+4 (B) EXPLAIN HOW THE ORDER PROMOTES THE CHILD'S SAFETY AND
+5 PHYSICAL, MENTAL, AND EMOTIONAL WELL-BEING, WITH SPECIFIC
+6 REFERENCE TO NECESSARY PROTECTIVE MEASURES;
+7 (C) EXPLAIN HOW THE ORDER PROTECTS THE ABUSED PARTY AND
+8 THE CHILD FROM FURTHER HARM, WITH SPECIFIC REFERENCE TO
+9 NECESSARY PROTECTIVE MEASURES; AND
+10 (D) DEMONSTRATE THAT THE COURT CONDUCTED THE BEST
+11 INTEREST OF THE CHILD ANALYSIS REQUIRED PURSUANT TO SUBSECTION
+12 (1.5) OF THIS SECTION, WITH CONSIDERATION OF DOMESTIC VIOLENCE TO
+13 EACH FACTOR; AND
+14 (II) PLACE CONDITIONS ON PARENTING TIME THAT ENSURE THE
+15 SAFETY OF THE CHILD AND ABUSED PARTY, GIVING PARAMOUNT
+16 CONSIDERATION TO THE SAFETY AND THE PHYSICAL, MENTAL, AND
+17 EMOTIONAL WELL-BEING AND NEEDS OF THE CHILD. THE REQUIRED
+18 CONDITIONS MAY INCLUDE AN ORDER THAT IMPOSES ANY OTHER
+19 CONDITION ON ONE OR MORE PARTIES THAT THE COURT DETERMINES IS
+20 NECESSARY TO PROTECT THE CHILD, ABUSED PARTY, OR ANY OTHER
+21 FAMILY OR HOUSEHOLD MEMBER OF THE ABUSED PARTY.
+22 SECTION 4. In Colorado Revised Statutes, 14-10-127.5, amend
+23 (3)(c) as follows:
+24 14-10-127.5. Domestic violence training for court personnel
+25 - expert testimony - child placement decisions - legislative declaration
+26 - definitions.
+27 (3) (c) If a court issues an order to remediate the resistance of a
+-13- HB26-1309
+
+1 child to have contact with an accused A party FOUND BY THE COURT TO
+2 HAVE COMMITTED DOMESTIC VIOLENCE OR CHILD ABUSE, the order must
+3 primarily address the behavior of the accused party, who shall accept
+4 responsibility for the accused party's actions that negatively affected the
+5 accused party's relationship with the child, and a mental health
+6 professional approved by the domestic violence offender management
+7 board shall verify the accused party's behavior before the court orders a
+8 protective party to take steps to improve the relationship with the accused
+9 party ADDRESS THE PARTY'S BEHAVIOR. IN ORDER FOR A COURT TO ISSUE
+10 AN ORDER PURSUANT TO THIS SUBSECTION (3)(c), THE PARTY FOUND BY
+11 THE COURT TO HAVE COMMITTED DOMESTIC VIOLENCE OR CHILD ABUSE
+12 MUST:
+13 (I) DEMONSTRATE GENUINE ACCOUNTABILITY FOR COMMISSION
+14 OF DOMESTIC VIOLENCE AND ITS EFFECT ON THE OTHER PARENT OR
+15 ANOTHER PERSON, INCLUDING A CHILD;
+16 (II) DEMONSTRATE SUSTAINED BEHAVIORAL CHANGES THAT
+17 ADDRESS UNDERLYING PATTERNS OF POWER AND CONTROL;
+18 (III) COMPLY WITH THE COURT'S ORDER REGARDING INDIVIDUAL
+19 THERAPY IN ORDER TO EXERCISE PARENTING TIME, INCLUDING PROVIDING
+20 PERIODIC PROOF OF COMPLIANCE OF THE TREATMENT IF PROOF OF
+21 COMPLIANCE IS ORDERED BY THE COURT. INDIVIDUAL THERAPEUTIC
+22 TREATMENT MUST BE WITH A MENTAL HEALTH PROFESSIONAL WHO HAS:
+23 (A) A MASTER'S OR DOCTORAL DEGREE AND IS LICENSED
+24 PURSUANT TO ARTICLE 245 OF TITLE 12; AND
+25 (B) SPECIALIZED TRAINING AND EXPERTISE IN TREATING
+26 SURVIVORS AND PERPETRATORS OF DOMESTIC VIOLENCE AND CHILD
+27 ABUSE, AND THE EFFECTS OF DOMESTIC VIOLENCE AND CHILD ABUSE ON
+-14- HB26-1309
+
+1 ADULTS AND CHILDREN; AND
+2 (IV) COMPLETE A FIFTY-TWO-WEEK DOMESTIC VIOLENCE ABUSER
+3 INTERVENTION PROGRAM THAT MEETS EITHER IN-PERSON OR IN REAL-TIME
+4 IF REMOTELY. A PROGRAM DOES NOT MEET THE REQUIREMENTS OF THIS
+5 SUBSECTION (3)(c) IF IT IS NOT IN REAL-TIME, IS SELF-DIRECTED, OR IS AN
+6 ANGER MANAGEMENT COURSE.
+7 SECTION 5. In Colorado Revised Statutes, 14-10-128.1, amend
+8 (2)(b) as follows:
+9 14-10-128.1. Appointment of parenting coordinator -
+10 disclosure.
+11 (2) (b) In addition to making the findings required pursuant to
+12 subsection (2)(a) of this section, prior to appointing a parenting
+13 coordinator, the court may consider the effect of any claim or
+14 documented evidence of domestic violence as defined in section
+15 14-10-124, by the other party on the parties' ability to engage in parent
+16 coordination.
+17 SECTION 6. In Colorado Revised Statutes, 14-10-129, amend
+18 (2) introductory portion and (2)(c) introductory portion as follows:
+19 14-10-129. Modification of parenting time.
+20 (2) The court shall not modify a prior order concerning parenting
+21 time that substantially changes the parenting time, as well as changes the
+22 party with whom the child resides a majority of the time, unless it finds,
+23 upon the basis of facts that have arisen since the prior decree or that were
+24 unknown to the court at the time of the prior decree, that a change has
+25 occurred in the circumstances of the child or the party with whom the
+26 child resides the majority of the time and that the modification is
+27 necessary to serve the best interests of the child. In applying these
+-15- HB26-1309
+
+1 standards, the court shall retain the parenting time schedule established
+2 in the prior decree unless:
+3 (c) The party with whom the child resides a majority of the time
+4 is intending to relocate with the child to a residence that substantially
+5 changes the geographical ties between the child and the other party. A
+6 court hearing on any modification of parenting time due to an intent to
+7 relocate shall be given a priority on the court's docket. In determining
+8 whether the modification of parenting time is in the best interests of the
+9 child, the court shall take into account all relevant factors, including
+10 whether a party has committed an act of domestic violence, has engaged
+11 in a pattern of domestic violence, or has a history of domestic violence,
+12 as that term is defined in section 14-10-124 (1.3), which factor shall
+13 MUST be supported by a preponderance of the evidence, and shall
+14 consider such THE domestic violence whether it occurred before or after
+15 the prior decree, and all other factors enumerated in section 14-10-124
+16 (1.5)(a) and:
+17 SECTION 7. In Colorado Revised Statutes, 8-13.3-503, amend
+18 (6) as follows:
+19 8-13.3-503. Definitions.
+20 As used in this part 5, unless the context otherwise requires:
+21 (6) "Domestic violence" means any conduct that constitutes
+22 "domestic violence" as set forth in section 18-6-800.3 (1) or section
+23 14-10-124 14-10-103 or "domestic abuse" as set forth in section
+24 13-14-101 (2).
+25 SECTION 8. In Colorado Revised Statutes, 13-80-103.6, amend
+26 (1) as follows:
+27 13-80-103.6. General limitation of actions - domestic violence
+-16- HB26-1309
+
+1 - six years - definition.
+2 (1) Notwithstanding any other statute of limitations specified in
+3 this article 80, or any other provision of law that can be construed to
+4 reduce the statutory period set forth in this section, any civil action to
+5 recover damages caused by an act of domestic violence, as defined in
+6 section 14-10-124 SECTION 14-10-103, must be commenced within six
+7 years after a disability has been removed for a person under disability, as
+8 such THE term is defined in subsection (2) of this section, or within six
+9 years after a cause of action accrues, whichever occurs later, and not
+10 thereafter; except that in no event may any such civil action be
+11 commenced COMMENCE more than twenty years after the cause of action
+12 accrues.
+13 SECTION 9. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations
+16 for the support and maintenance of the departments of the state and state
+17 institutions.
+-17- HB26-1309

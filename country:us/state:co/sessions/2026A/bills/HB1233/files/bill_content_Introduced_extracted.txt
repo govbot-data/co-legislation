@@ -1,0 +1,327 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0387.02 Nicole Myers x4326 HOUSE BILL 26-1233
+HOUSE SPONSORSHIP
+Lukens and Zokaie,
+SENATE SPONSORSHIP
+Roberts,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING PROPERTY TAX PROCEDURES FOR NONRESIDENTIAL
+102 PROPERTIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Penalties for providing false information for tax purposes. A
+county may require a nonresidential property owner to provide certain
+information to the assessor, the county board of equalization, or the board
+of county commissioners in connection with property valuation.
+Currently, there is no penalty for a property owner's failure to provide this
+information or for misreporting information that is provided. For property
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+tax years commencing on or after January 1, 2026, the bill imposes civil
+penalties for a nonresidential property owner's failure to provide
+information and for willfully providing false information.
+Option to move an appeal to district court. Currently, an appeal
+from a board of county commissioners' decision on an abatement petition
+may only be filed with the board of assessment appeals. In addition,
+currently an appeal from a county board of equalization's decision on a
+petition for appeal may be filed in either the district court or with the
+board of assessment appeals at the election of the taxpayer. For property
+tax years commencing on or after January 1, 2026, the bill allows a
+county or the board of assessment appeals to request to move or transfer
+a nonresidential property case that was filed with the board of assessment
+appeals to the district court when certain criteria are satisfied. The bill
+does not alter the de novo nature of a nonresidential appeal, but specifies
+that when weighing evidence and assessing credibility, the board of
+assessment appeals or district court shall consider changes in the
+valuation information submitted by a petitioner to the county assessor,
+county board of equalization, or board of county commissioners regarding
+the property at issue.
+Waiver of the right to interest during the tax appeal process.
+Currently, a county is required to pay penalty interest at the rate of 1% per
+month for a total of 12% per year, on any refund of taxes. For property
+tax years commencing on or after January 1, 2026, if the district court or
+board of assessment appeals finds that a nonresidential property owner
+changed certain disclosed information, intentionally delayed the
+resolution process, or intentionally provided false information, the
+property owner waives the right to interest earned on the tax refunded.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 39-5-115, add (3) as
+3 follows:
+4 39-5-115. Taxpayer to furnish information - affidavit on
+5 mineral leases.
+6 (3) (a) FOR PROPERTY TAX YEARS COMMENCING ON OR AFTER
+7 JANUARY 1, 2026, ANY PERSON WHO, IN CONNECTION WITH
+8 NONRESIDENTIAL PROPERTY, WILLFULLY FAILS TO PROVIDE INFORMATION
+9 REQUIRED BY THIS SECTION OR WHO WILLFULLY MAKES AND SUBSCRIBES
+10 ANY INFORMATION REQUIRED BY THIS SECTION, WHICH IS VERIFIED BY A
+-2- HB26-1233
+
+1 WRITTEN DECLARATION CERTIFYING THE TRUTH AND ACCURACY OF THE
+2 INFORMATION BUT WHICH IS NOT TRUE AND CORRECT AS TO EVERY
+3 MATERIAL MATTER, IS SUBJECT TO A CIVIL PENALTY AS FOLLOWS:
+4 (I) FOR A FIRST VIOLATION, A PENALTY OF NOT MORE THAN ONE
+5 THOUSAND DOLLARS;
+6 (II) FOR A SECOND VIOLATION, A PENALTY OF NOT MORE THAN
+7 FIVE THOUSAND DOLLARS; AND
+8 (III) FOR A THIRD OR SUBSEQUENT VIOLATION, A PENALTY OF NOT
+9 MORE THAN TEN THOUSAND DOLLARS.
+10 (b) FOR PROPERTY TAX YEARS COMMENCING ON OR AFTER
+11 JANUARY 1, 2026, ANY PERSON WHO, IN CONNECTION WITH
+12 NONRESIDENTIAL PROPERTY, WILLFULLY AIDS OR ASSISTS IN, OR
+13 PROCURES, COUNSELS, OR ADVISES THE PREPARATION OR PRESENTATION
+14 OF ANY INFORMATION REQUIRED BY THIS SECTION, WHICH IS FRAUDULENT
+15 OR FALSE AS TO ANY MATERIAL MATTER, IS SUBJECT TO THE CIVIL
+16 PENALTIES SET FORTH IN SUBSECTION (3)(a) OF THIS SECTION.
+17 (c) A TAXPAYER IS NOT SUBJECT TO THE CIVIL PENALTIES SET
+18 FORTH IN THIS SECTION (3) IF, WITHIN THIRTY DAYS AFTER RECEIVING
+19 WRITTEN NOTICE FROM THE ASSESSOR OF AN ERROR, OMISSION, OR
+20 DEFICIENCY IN THE INFORMATION PROVIDED, THE TAXPAYER PROVIDES
+21 THE REQUIRED INFORMATION OR CORRECTS THE MATERIAL MATTER IN
+22 QUESTION. THIS CURE PERIOD DOES NOT APPLY IF THE ASSESSOR
+23 DETERMINES THE INITIAL FILING WAS MADE WITH THE SPECIFIC INTENT TO
+24 DEFRAUD THE COUNTY.
+25 SECTION 2. In Colorado Revised Statutes, 39-8-107, amend (1),
+26 (5)(a), and (5)(b)(I) introductory portion; and add (5)(g) as follows:
+27 39-8-107. Hearings on appeal.
+-3- HB26-1233
+
+1 (1) At the hearing upon a petition, the assessor or the assessor's
+2 authorized representative shall be present and shall produce information
+3 to support the basis and amount of the assessor's valuation of the
+4 property. The board shall hear and consider all testimony and examine all
+5 exhibits produced or introduced by either the petitioner or the assessor,
+6 with no presumption in favor of any pending valuation, and may
+7 subpoena witnesses to testify. The costs of producing the petitioner's
+8 witnesses shall be ARE paid by the petitioner, and the costs of producing
+9 the assessor's witnesses shall be ARE paid by the county. On the basis of
+10 the testimony produced and the exhibits introduced, the board shall grant
+11 or deny the petition, in whole or in part, and shall notify the petitioner and
+12 the assessor in writing. If the board denies the petition, in whole or in
+13 part, such THE written notice shall inform the petitioner of the right to
+14 appeal within the thirty-day period following the denial to the district
+15 court or the board of assessment appeals pursuant to the provisions of
+16 section 39-8-108 (1) or within the thirty-day period following the denial
+17 to submit the case to arbitration pursuant to the provisions of section
+18 39-8-108.5. Such THE notice shall state that, if the appeal is to the board
+19 of assessment appeals, the hearing before the board of assessment appeals
+20 shall be IS the last hearing at which testimony, exhibits, or any other type
+21 of evidence may be introduced by either party, UNLESS THE CASE IS
+22 REGARDING NONRESIDENTIAL PROPERTY AND THE BOARD OF ASSESSMENT
+23 APPEALS OR GOVERNING BODY OF THE COUNTY HAS REMOVED THE CASE
+24 TO A DISTRICT COURT PURSUANT TO SECTION 39-8-108 (1)(b), and that, if
+25 there is an appeal to the court of appeals pursuant to section 39-8-108 (2),
+26 the record from the hearing before the board of assessment appeals and
+27 no new evidence shall be the basis for the court's decision. The phone
+-4- HB26-1233
+
+1 number and address of the board of assessment appeals shall also be
+2 included on the notice. The notice shall also state, in general terms, how
+3 to pursue arbitration and that, if a taxpayer submits the case to arbitration,
+4 the decision reached under such process shall be IS final and not subject
+5 to review. If a referee heard the case, the board shall, at the written
+6 request of any taxpayer or any agent of such taxpayer within seven
+7 working days after receipt of said request, make available to the taxpayer
+8 or agent the referee's findings and recommendations. At the board's
+9 election, the board may either mail, fax, or send by electronic
+10 transmission such THE findings and recommendations OF THE REFEREE to
+11 the address, phone number, or electronic address supplied by said
+12 taxpayer or agent. Upon receipt of such request, the board shall notify the
+13 taxpayer or agent of the estimated cost of providing such THE findings
+14 and recommendations OF THE REFEREE, payment of which shall be made
+15 prior to providing such findings and recommendations. Upon providing
+16 such THE findings and recommendations OF THE REFEREE, the board may
+17 include a bill for the reasonable cost above the estimated cost and up to
+18 the statutory maximum which shall be due and payable upon receipt by
+19 the taxpayer or agent.
+20 (5) (a) (I) On and after August 10, 2011, in addition to any other
+21 requirements under law, any petitioner appealing either a valuation of
+22 rent-producing commercial real property to the board of assessment
+23 appeals pursuant to section 39-8-108 (1) or a denial of an abatement of
+24 taxes pursuant to section 39-10-114 shall provide to the county board of
+25 equalization or to the board of county commissioners of the county in the
+26 case of an abatement, and not to the board of assessment appeals, the
+27 following information, if applicable:
+-5- HB26-1233
+
+1 (A) PROPERTY-SPECIFIC actual annual rental income for two full
+2 years including the base year for the relevant property tax year;
+3 (B) PROPERTY-SPECIFIC tenant reimbursements for two full years
+4 including the base year for the relevant property tax year;
+5 (C) PROPERTY-SPECIFIC itemized expenses for two full years
+6 including the base year for the relevant property tax year; and
+7 (D) PROPERTY-SPECIFIC rent roll data as of the valuation date,
+8 including the name of any tenants, the address, unit, or suite number of
+9 the subject property, lease start and end dates, option terms, base rent,
+10 square footage leased, and vacant space for two years including the year
+11 of the valuation date and the prior year.
+12 (II) The petitioner shall provide the information required by
+13 subsection (5)(a)(I) of this section within ninety days after the appeal has
+14 been filed with the board of assessment appeals, UNLESS THE CASE IS
+15 REGARDING NONRESIDENTIAL PROPERTY AND THE BOARD OF ASSESSMENT
+16 APPEALS OR GOVERNING BODY OF THE COUNTY HAS REMOVED THE CASE
+17 TO A DISTRICT COURT PURSUANT TO SECTION 39-8-108 (1)(b); except that
+18 a petitioner who has already provided information to an assessor in
+19 accordance with section 39-5-122 (2.5) is not required to provide any
+20 additional information under this subsection (5)(a).
+21 (b) (I) The assessor, the county board of equalization, or the board
+22 of county commissioners of the county, as applicable, shall, upon request
+23 made by the petitioner, provide to a petitioner who has filed an appeal
+24 with the board of assessment appeals, UNLESS THE CASE IS REGARDING
+25 NONRESIDENTIAL PROPERTY AND THE BOARD OF ASSESSMENT APPEALS OR
+26 GOVERNING BODY OF THE COUNTY HAS REMOVED THE CASE TO A DISTRICT
+27 COURT PURSUANT TO SECTION 39-8-108 (1)(b), not more than ninety days
+-6- HB26-1233
+
+1 after receipt of the petitioner's request, the following information:
+2 (g) (I) FOR PROPERTY TAX YEARS COMMENCING ON OR AFTER
+3 JANUARY 1, 2026, ANY PERSON WHO, IN CONNECTION WITH
+4 NONRESIDENTIAL PROPERTY, WILLFULLY FAILS TO PROVIDE INFORMATION
+5 REQUIRED BY THIS SECTION OR WHO WILLFULLY MAKES AND SUBSCRIBES
+6 ANY INFORMATION REQUIRED BY THIS SECTION, WHICH IS VERIFIED BY A
+7 WRITTEN DECLARATION CERTIFYING THE TRUTH AND ACCURACY OF THE
+8 INFORMATION BUT WHICH IS NOT TRUE AND CORRECT AS TO EVERY
+9 MATERIAL MATTER, IS SUBJECT TO A CIVIL PENALTY AS FOLLOWS:
+10 (A) FOR A FIRST VIOLATION, A PENALTY OF NOT MORE THAN ONE
+11 THOUSAND DOLLARS;
+12 (B) FOR A SECOND VIOLATION, A PENALTY OF NOT MORE THAN
+13 FIVE THOUSAND DOLLARS; AND
+14 (C) FOR A THIRD OR SUBSEQUENT VIOLATION, A PENALTY OF NOT
+15 MORE THAN TEN THOUSAND DOLLARS.
+16 (II) FOR PROPERTY TAX YEARS COMMENCING ON OR AFTER
+17 JANUARY 1, 2026, ANY PERSON WHO, IN CONNECTION WITH
+18 NONRESIDENTIAL PROPERTY, WILLFULLY AIDS OR ASSISTS IN, OR
+19 PROCURES, COUNSELS, OR ADVISES THE PREPARATION OR PRESENTATION
+20 OF ANY INFORMATION REQUIRED BY THIS SECTION, WHICH IS FRAUDULENT
+21 OR FALSE AS TO ANY MATERIAL MATTER, IS SUBJECT TO THE CIVIL
+22 PENALTIES SET FORTH IN SUBSECTION (5)(g)(I) OF THIS SECTION.
+23 (III) A TAXPAYER IS NOT SUBJECT TO THE CIVIL PENALTIES SET
+24 FORTH IN SUBSECTION (5)(g)(I) OF THIS SECTION IF, WITHIN THIRTY DAYS
+25 AFTER RECEIVING WRITTEN NOTICE FROM THE COUNTY BOARD OF
+26 EQUALIZATION OR BOARD OF COUNTY COMMISSIONERS OF AN ERROR,
+27 OMISSION, OR DEFICIENCY IN THE INFORMATION PROVIDED, THE TAXPAYER
+-7- HB26-1233
+
+1 PROVIDES THE REQUIRED INFORMATION OR CORRECTS THE MATERIAL
+2 MATTER IN QUESTION. THIS CURE PERIOD DOES NOT APPLY IF THE COUNTY
+3 BOARD OF EQUALIZATION OR BOARD OF COUNTY COMMISSIONERS
+4 DETERMINES THE INITIAL FILING WAS MADE WITH THE SPECIFIC INTENT TO
+5 DEFRAUD THE COUNTY.
+6 SECTION 3. In Colorado Revised Statutes, 39-8-108, amend (1),
+7 (5)(d), and (5)(e); and add (5)(f) as follows:
+8 39-8-108. Decision - review - opportunity to submit case to
+9 arbitration.
+10 (1) (a) If the county board of equalization grants a petition, in
+11 whole or in part, the assessor shall adjust the valuation accordingly; but,
+12 if the petition is denied, in whole or in part, the petitioner may appeal the
+13 valuation set by the assessor or, if the valuation is adjusted as a result of
+14 a decision of the county board of equalization, the adjusted valuation to
+15 the board of assessment appeals or to the district court of the county
+16 wherein the petitioner's property is located for a trial de novo, or the
+17 petitioner may submit the case to arbitration pursuant to the provisions of
+18 section 39-8-108.5. Such appeal or submission to arbitration shall be
+19 taken no later than thirty days after the date such denial was mailed
+20 pursuant to section 39-8-107 (2). Any decision rendered by the county
+21 board of equalization shall state that the petitioner has the right to appeal
+22 the decision of the county board to the board of assessment appeals or to
+23 the district court of the county wherein the petitioner's property is located
+24 or to submit the case to arbitration and, to preserve such right, the time by
+25 which such appeal or submission to arbitration must be made. Any
+26 request by a taxpayer for a hearing before the board of assessment appeals
+27 shall be accompanied by a nonrefundable filing fee in an amount
+-8- HB26-1233
+
+1 specified in section 39-2-125 (1)(h). In addition, any request by a
+2 taxpayer for a hearing before the board of assessment appeals shall be
+3 stamped with the date on which such request was received by the board.
+4 All such requests shall be presumed to be on time unless the board can
+5 present evidence to show otherwise.
+6 (b) FOR PROPERTY TAX YEARS COMMENCING ON OR AFTER
+7 JANUARY 1, 2026, IF, PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION,
+8 A NONRESIDENTIAL PROPERTY OWNER APPEALS THE DECISION OF THE
+9 COUNTY BOARD OF EQUALIZATION PURSUANT TO SECTION 39-8-108 OR
+10 THE DECISION OF THE BOARD OF COUNTY COMMISSIONERS PURSUANT TO
+11 SECTION 39-10-114.5 TO THE BOARD OF ASSESSMENT APPEALS, THEN THE
+12 BOARD OF ASSESSMENT APPEALS OR THE GOVERNING BOARD OF THE
+13 COUNTY MAY REMOVE THE APPEAL TO THE APPROPRIATE DISTRICT COURT
+14 IF THE BOARD OF ASSESSMENT APPEALS OR THE GOVERNING BODY
+15 DETERMINES THAT ANY NUMBER OF THE FOLLOWING CRITERIA ARE MET:
+16 (I) THE VALUATION SET BY THE ASSESSOR OR, IF THE VALUATION
+17 IS ADJUSTED AS A RESULT OF A DECISION OF THE COUNTY BOARD OF
+18 EQUALIZATION, THE ADJUSTED VALUATION, IS GREATER THAN OR EQUAL
+19 TO TEN MILLION DOLLARS;
+20 (II) THE APPEAL INVOLVES LEGAL DISPUTES OR QUESTIONS THAT
+21 REQUIRE THE INTERPRETATION OF LAW UNDER THE COLORADO REVISED
+22 STATUTES OR THE COLORADO CONSTITUTION;
+23 (III) RESOLUTION OF THE ISSUES ON APPEAL WILL REQUIRE
+24 EXTENSIVE DISCOVERY; OR
+25 (IV) THE APPEAL IS BASED IN PART ON A VALUATION
+26 METHODOLOGY OR CLASSIFICATION DISPUTE.
+27 (5) In any appeal authorized by this section or by section
+-9- HB26-1233
+
+1 39-5-122, 39-5-122.7, or 39-10-114:
+2 (d) Upon request, the respondent shall make available to the
+3 taxpayer two working days prior to any appeal hearing data supporting the
+4 assessor's valuation. Such request shall be accompanied by data
+5 supporting the taxpayer's valuation. Nothing in this paragraph (d)
+6 SUBSECTION (5)(d) shall be construed to prohibit the introduction at such
+7 appeal hearing of any data discovered as a result of the exchange of data
+8 required by this paragraph (d); and SUBSECTION (5)(d);
+9 (e) In using the market approach to determine the value of
+10 residential real property, if the assessor has knowledge of the conversion
+11 from one residential use to a different residential use, such conversion
+12 shall create a rebuttable presumption that the sale of such property is not
+13 a comparable sale for purposes of establishing the value of a property
+14 having a similar prior residential use; AND
+15 (f) WITHOUT ALTERING THE DE NOVO NATURE OF A
+16 NONRESIDENTIAL APPEAL, IN WEIGHING EVIDENCE AND ASSESSING
+17 CREDIBILITY, THE BOARD OF ASSESSMENT APPEALS OR DISTRICT COURT
+18 SHALL CONSIDER AS RELEVANT EVIDENCE IN REACHING ITS HOLDING ANY
+19 CHANGES IN THE VALUATION INFORMATION SUBMITTED BY A PETITIONER
+20 TO THE COUNTY ASSESSOR, COUNTY BOARD OF EQUALIZATION, OR BOARD
+21 OF COUNTY COMMISSIONERS REGARDING THE PROPERTY AT ISSUE.
+22 SECTION 4. In Colorado Revised Statutes, 39-10-104.5, add
+23 (3)(d) as follows:
+24 39-10-104.5. Payment dates - optional payment dates - failure
+25 to pay - delinquency.
+26 (3) (d) NOTWITHSTANDING ANY PROVISION TO THE CONTRARY,
+27 FOR NONRESIDENTIAL PROPERTY AND FOR PROPERTY TAX YEARS
+-10- HB26-1233
+
+1 COMMENCING ON OR AFTER JANUARY 1, 2026:
+2 (I) IF THE BOARD OF ASSESSMENT APPEALS OR THE DISTRICT
+3 COURT FINDS THAT THE TAXPAYER'S PROPERTY-SPECIFIC INCOME,
+4 EXPENSES, OR OTHER DISCLOSURES TO THE ASSESSOR, THE COUNTY BOARD
+5 OF EQUALIZATION, OR THE BOARD OF COUNTY COMMISSIONERS HAS
+6 CHANGED DURING THE APPEAL PROCESS, THE TAXPAYER IS NOT ENTITLED
+7 TO PENALTY INTEREST PURSUANT TO THIS SUBSECTION (3).
+8 (II) IF THE BOARD OF ASSESSMENT APPEALS OR THE DISTRICT
+9 COURT FINDS THAT A PROPERTY OWNER INTENTIONALLY DELAYED
+10 RESOLUTION OF AN APPEAL OR PROVIDED FALSE INFORMATION TO THE
+11 BOARD OR THE COURT, THE TAXPAYER IS NOT ENTITLED TO PENALTY
+12 INTEREST PURSUANT TO THIS SUBSECTION (3).
+13 SECTION 5. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations for
+16 the support and maintenance of the departments of the state and state
+17 institutions.
+-11- HB26-1233

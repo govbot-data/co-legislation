@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0585.01 Eden Rolland x2373 SENATE BILL 26-030
+SENATE SPONSORSHIP
+Baisley,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING A GRANT PROGRAM FOR LOCAL GOVERNMENTS TO
+102 IMPROVE ACCESS TO STATE PARKS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+In accordance with the "Keep Colorado Wild Pass Act", a person
+registering their motor vehicle in Colorado may, at the time of
+registration, elect to purchase a keep Colorado wild pass as an annual
+state parks and public lands pass for their motor vehicle. The keep
+Colorado wild pass provides the person access by car, bike, or foot to any
+Colorado state park or other participating public land for the duration of
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+the vehicle's registration period. The option to purchase a keep Colorado
+wild pass is offered at the time of registration of any passenger motor
+vehicle, light-weight truck, motorcycle, or recreational vehicle. Currently,
+the cost for a keep Colorado wild pass is $29.
+All money collected from the purchase and sale of the keep
+Colorado wild pass is remitted to the department of revenue, which in
+turn transmits the money, minus administrative costs, to the state
+treasurer.
+By statute, the first $36 million collected from the keep Colorado
+wild pass is allocated to the following 3 funds:
+! $32.5 million to the parks and outdoor recreation cash fund
+for state parks maintenance, staffing, and resources;
+! $2.5 million to the backcountry search and rescue fund, in
+furtherance of the goal of supporting Colorado's search and
+rescue volunteers who respond to backcountry emergencies
+and who develop educational programs and campaigns to
+promote backcountry safety; and
+! $1 million to the Colorado avalanche information center
+fund, in furtherance of the goal of protecting winter
+recreationists by supporting backcountry avalanche safety
+and awareness.
+The amounts allocated to these 3 funds are adjusted annually based
+on changes to the United States department of labor's bureau of labor
+statistics consumer price index for Denver-Aurora-Lakewood for all items
+and all urban consumers.
+After allocating the first $36 million to the 3 funds, as specified
+above, statute currently directs the state treasurer to credit any remaining
+money collected from the purchase and sale of the keep Colorado wild
+pass as follows:
+! One-half of any remaining money is credited to the wildlife
+cash fund; and
+! One-half of any remaining money is credited to the parks
+and outdoor recreation cash fund, in furtherance of the
+goals of:
+! Building and maintaining new state parks on a
+regular basis in partnership with local governments,
+conservationists, recreationists, and other land
+management agencies; and
+! Funding Colorado regional outdoor partnerships to
+support community-driven conservation and
+recreation planning and projects.
+The bill modifies how, after the allocation of the first $36 million,
+any remaining money collected from the purchase and sale of the keep
+Colorado wild pass is allocated. The bill creates the state park and state
+wildlife area access cash fund (fund) for the purpose of supporting local
+-2- SB26-030
+
+governments in efforts to improve roads and other infrastructure that
+provide local access to state parks and state wildlife areas accessed from
+within a local government's boundary (local access). The bill directs the
+entirety of any remaining money to the fund, instead of dividing and
+allocating the remaining money between the wildlife cash fund and the
+parks and outdoor recreation cash fund.
+The bill also creates the state park and state wildlife area access
+grant program (grant program). The bill requires the division of local
+government (division) in the department of local affairs to administer the
+grant program and to award grants to local governments that apply for a
+grant to improve local access. Money in the fund is used to pay the grant
+awards.
+The bill preserves the current allocation of the first $36 million,
+adjusted annually, to the parks and outdoor recreation cash fund, the
+backcountry search and rescue fund, and the Colorado avalanche
+information center fund. The bill also specifies that, if no applications for
+local access grants are received by the division by December 31, 2029,
+and by December 31 for each year thereafter, half of the remaining money
+collected from the purchase and sale of the keep Colorado wild pass is
+transferred to the wildlife cash fund and half is transferred to the parks
+and outdoor recreation cash fund in furtherance of specific goals.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "State
+3 Park and State Wildlife Area Access Funding Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Colorado's great outdoors and wildlife are among the state's
+7 treasured resources, enriching Coloradans' quality of life;
+8 (b) All people should have unhindered access to the unparalleled
+9 outdoor recreation opportunities offered by Colorado's state parks and
+10 state wildlife areas, regardless of the mode of transportation used to
+11 access a state park or state wildlife area;
+12 (c) Despite growth in outdoor recreation, many Colorado families
+13 lack access to the experience, equipment, off-road vehicles, and resources
+-3- SB26-030
+
+1 necessary to visit our state parks and state wildlife areas;
+2 (d) While outdoor recreation brings prosperity to the state and its
+3 residents through tourism and the collection of sales tax, it also places an
+4 unfunded mandate on the counties in which state parks and state wildlife
+5 areas are located;
+6 (e) To provide equitable infrastructure access and to reduce
+7 barriers for those families with limited resources to access outdoor
+8 recreation, counties need support for constructing and maintaining roads
+9 that access state parks and state wildlife areas;
+10 (f) Numerous factors contribute to the need for the construction
+11 and maintenance of roads that provide local access to state parks and state
+12 wildlife areas from within a county's boundaries, including:
+13 (I) The current surfaces of roads that provide access to state parks
+14 and state wildlife areas were not designed or constructed to withstand the
+15 high volume of traffic using these roads or the heavy weight of trucks,
+16 campers, towed trailers, and boats;
+17 (II) State sales tax is not a source of revenue for counties;
+18 (III) Funding for county roads is based on the amount of money
+19 in the highway users tax fund, established pursuant to section 43-4-201,
+20 Colorado Revised Statutes;
+21 (IV) For many counties in which state parks and state wildlife
+22 areas are located, the county population is significantly lower than the
+23 number of visitors who access the state parks and state wildlife areas
+24 located in the county's boundaries each year; and
+25 (V) The remote location of state parks and state wildlife areas
+26 compounds the challenges and costs associated with constructing and
+27 maintaining roads and other infrastructure needed for accessing those
+-4- SB26-030
+
+1 state parks and state wildlife areas;
+2 (g) The rapid increase in demand for outdoor recreation is
+3 challenging the ability of local governments to maintain the roads and
+4 other infrastructure needed to provide access to all individuals and
+5 families who want to visit a state park or state wildlife area, regardless of
+6 the type of vehicle the family can afford;
+7 (h) Despite tremendous growth in outdoor recreation, existing
+8 funding to support the variety of ways Colorado families access our state
+9 parks and state wildlife areas is insufficient. This leads to increased
+10 barriers for families and can deter visitors from accessing state parks and
+11 state wildlife areas.
+12 (i) Local governments share the access goals of the state and rely
+13 on a financial partnership with the state and other partners to help meet
+14 the demand and ensure that Colorado's state parks and state wildlife areas
+15 are accessible to all; and
+16 (j) A key objective of this "State Park and State Wildlife Area
+17 Access Funding Act" is to ensure that all state parks and state wildlife
+18 areas provide welcoming and equitable access to all park pass purchasers
+19 and to all visitors of state parks and state wildlife areas.
+20 SECTION 3. In Colorado Revised Statutes, add 24-32-136 as
+21 follows:
+22 24-32-136. State park and state wildlife area access grant
+23 program - creation - fund - reporting - definitions - rules - repeal.
+24 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+25 OTHERWISE REQUIRES:
+26 (a) "ELIGIBLE APPLICANT" MEANS A LOCAL GOVERNMENT THAT
+27 APPLIES TO THE GRANT PROGRAM.
+-5- SB26-030
+
+1 (b) "FUND" MEANS THE STATE PARK AND STATE WILDLIFE AREA
+2 ACCESS CASH FUND CREATED IN SUBSECTION (5) OF THIS SECTION.
+3 (c) "GRANT RECIPIENT" MEANS AN ELIGIBLE APPLICANT THAT THE
+4 DIVISION SELECTS TO RECEIVE MONEY THROUGH THE GRANT PROGRAM.
+5 (d) "LOCAL GOVERNMENT" MEANS A HOME RULE OR STATUTORY
+6 CITY, TOWN, CITY AND COUNTY, OR COUNTY.
+7 (e) "STATE PARK AND STATE WILDLIFE AREA ACCESS GRANT
+8 PROGRAM" OR "GRANT PROGRAM" MEANS THE STATE PARK AND STATE
+9 WILDLIFE AREA ACCESS GRANT PROGRAM CREATED IN SUBSECTION (2) OF
+10 THIS SECTION.
+11 (2) State park and state wildlife area access grant program -
+12 created - rules.
+13 (a) THE STATE PARK AND STATE WILDLIFE AREA ACCESS GRANT
+14 PROGRAM IS CREATED IN THE DIVISION FOR THE PURPOSE OF AWARDING
+15 GRANTS TO ELIGIBLE APPLICANTS TO ENABLE LOCAL GOVERNMENTS TO:
+16 (I) CONSTRUCT AND MAINTAIN ROADS OR OTHER INFRASTRUCTURE
+17 THAT PROVIDE ACCESS TO A STATE PARK OR STATE WILDLIFE AREA
+18 ACCESSED FROM WITHIN THE LOCAL GOVERNMENT'S BOUNDARY;
+19 (II) IMPROVE ROADS OR OTHER INFRASTRUCTURE THAT PROVIDE
+20 ACCESS TO A STATE PARK OR STATE WILDLIFE AREA ACCESSED FROM
+21 WITHIN THE LOCAL GOVERNMENT'S BOUNDARY TO SPECIFICALLY
+22 WITHSTAND THE CURRENT AND PROJECTED VOLUME AND WEIGHT OF
+23 TRAFFIC ENTERING AND EXITING THE STATE PARK OR STATE WILDLIFE
+24 AREA; AND
+25 (III) PROVIDE EQUITABLE ACCESS FOR ALL VISITORS TO A STATE
+26 PARK OR STATE WILDLIFE AREA ACCESSED FROM WITHIN THE LOCAL
+27 GOVERNMENT'S BOUNDARY, REGARDLESS OF THE TYPE OF VEHICLE OR
+-6- SB26-030
+
+1 METHOD OF TRANSPORTATION THE VISITOR MAY BE USING TO ACCESS THE
+2 STATE PARK OR STATE WILDLIFE AREA.
+3 (b) THE DIVISION SHALL ADMINISTER THE GRANT PROGRAM AND
+4 SHALL AWARD GRANTS AS PROVIDED IN THIS SECTION. GRANTS SHALL BE
+5 PAID OUT OF THE STATE PARK AND STATE WILDLIFE AREA ACCESS CASH
+6 FUND CREATED IN SUBSECTION (5) OF THIS SECTION.
+7 (c) THE DIVISION SHALL IMPLEMENT THE GRANT PROGRAM IN
+8 ACCORDANCE WITH THIS SECTION. THE DIVISION MAY ADOPT RULES TO
+9 IMPLEMENT THE GRANT PROGRAM AND CARRY OUT THE PURPOSES OF THIS
+10 SECTION.
+11 (3) State park and state wildlife area access grant program -
+12 application - criteria - awards.
+13 (a) TO RECEIVE A GRANT, AN ELIGIBLE APPLICANT MUST SUBMIT
+14 AN APPLICATION TO THE DIVISION. THE DIVISION MAY DETERMINE THE
+15 FORM AND MANNER OF AN APPLICATION.
+16 (b) THE DIVISION SHALL REVIEW THE APPLICATIONS RECEIVED
+17 PURSUANT TO THIS SECTION.
+18 (c) SUBJECT TO THE MONEY AVAILABLE IN THE STATE PARK AND
+19 STATE WILDLIFE AREA ACCESS CASH FUND, THE DIVISION SHALL AWARD
+20 GRANTS AS PROVIDED IN THIS SECTION. THE DIVISION SHALL DISTRIBUTE
+21 THE GRANT MONEY WITHIN SIXTY DAYS AFTER THE DIVISION AWARDS A
+22 GRANT.
+23 (4) Reporting requirements.
+24 (a) ON OR BEFORE AUGUST 1, 2027, AND ON OR BEFORE EACH
+25 AUGUST 1 THEREAFTER, A LOCAL GOVERNMENT THAT RECEIVES A GRANT
+26 THROUGH THE GRANT PROGRAM SHALL SUBMIT A REPORT TO THE DIVISION
+27 REGARDING THE INFORMATION LISTED IN SUBSECTION (4)(b) OF THIS
+-7- SB26-030
+
+1 SECTION.
+2 (b) ON OR BEFORE OCTOBER 1, 2027, AND ON OR BEFORE EACH
+3 OCTOBER 1 THEREAFTER, THE DIVISION SHALL SUBMIT A REPORT TO THE
+4 HOUSE OF REPRESENTATIVES TRANSPORTATION, HOUSING, AND LOCAL
+5 GOVERNMENT COMMITTEE AND THE SENATE LOCAL GOVERNMENT AND
+6 HOUSING COMMITTEE, OR THEIR SUCCESSOR COMMITTEES, AND THE JOINT
+7 BUDGET COMMITTEE. AT A MINIMUM, THE DIVISION'S REPORT MUST
+8 INCLUDE THE FOLLOWING INFORMATION REGARDING EACH GRANT
+9 AWARDED IN THE PREVIOUS TWELVE MONTHS:
+10 (I) THE AMOUNT OF THE GRANT AWARDED;
+11 (II) HOW THE GRANT MONEY WAS OR IS INTENDED TO BE USED,
+12 INCLUDING A DESCRIPTION OF THE PROJECT FUNDED BY THE GRANT AND
+13 THE PROJECT'S COMPLETION STATUS; AND
+14 (III) THE ESTIMATED IMPACT OF THE PROJECT ON:
+15 (A) EQUITABLE ACCESS TO THE STATE PARK OR STATE WILDLIFE
+16 AREA ACCESSED FROM WITHIN THE LOCAL GOVERNMENT'S BOUNDARY;
+17 (B) THE CONDITION OF THE ROADS OR OTHER INFRASTRUCTURE
+18 THAT PROVIDE ACCESS TO THE STATE PARK OR STATE WILDLIFE AREA
+19 ACCESSED FROM WITHIN THE LOCAL GOVERNMENT'S BOUNDARY;
+20 (C) THE VOLUME AND WEIGHT OF TRAFFIC ENTERING AND EXITING
+21 THE STATE PARK OR STATE WILDLIFE AREA, INCLUDING ANY IMPACT ON OR
+22 CHANGE TO THE TYPE OF VEHICLES OR WATERCRAFT ACCESSING THE
+23 STATE PARK OR STATE WILDLIFE AREA; AND
+24 (D) ANY OTHER INFORMATION THAT THE DIVISION DEEMS
+25 NECESSARY AND APPROPRIATE TO REPORT ABOUT THE GRANTS AWARDED.
+26 (c) NOTWITHSTANDING SECTION 24-1-136 (11)(a)(I), THE
+27 REPORTING REQUIREMENTS SET FORTH IN SUBSECTION (4)(b) OF THIS
+-8- SB26-030
+
+1 SECTION CONTINUE INDEFINITELY.
+2 (5) State park and state wildlife area access cash fund.
+3 (a) THE STATE PARK AND STATE WILDLIFE AREA ACCESS CASH
+4 FUND IS CREATED IN THE STATE TREASURY. THE FUND CONSISTS OF MONEY
+5 CREDITED TO THE FUND PURSUANT TO SECTION 33-12-108 (4)(e)(II);
+6 GIFTS, GRANTS, AND DONATIONS; AND ANY OTHER MONEY THAT THE
+7 GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER TO THE FUND.
+8 (b) THE STATE TREASURER SHALL CREDIT ALL INTEREST AND
+9 INCOME DERIVED FROM THE DEPOSIT AND INVESTMENT OF MONEY IN THE
+10 FUND TO THE FUND.
+11 (c) MONEY IN THE FUND IS CONTINUOUSLY APPROPRIATED TO THE
+12 DIVISION FOR THE PURPOSE OF AWARDING STATE PARK AND STATE
+13 WILDLIFE AREA ACCESS GRANTS PURSUANT TO THIS SECTION.
+14 SECTION 4. In Colorado Revised Statutes, 33-10-111, amend
+15 (1) as follows:
+16 33-10-111. Parks and outdoor recreation cash fund - parks for
+17 future generations trust fund - creation - fees - accounting
+18 expenditures for roads and highways - definition.
+19 (1) Except as provided in subsection (6) of this section and
+20 sections 33-10.5-104.5, 33-10.5-105, 33-12-108 (4)(e)(II), 33-14-106,
+21 33-14.5-106, and 33-15-103, all money derived pursuant to articles 10 to
+22 15 of this title 33 from division facilities and fees, and all interest earned
+23 on the money, shall be credited to the parks and outdoor recreation cash
+24 fund, which is hereby created, together with all money donated,
+25 transferred, or appropriated from whatever source for the use of the
+26 division in administering, managing, and supervising the state parks and
+27 outdoor recreation system and in the financing of impact assistance grants
+-9- SB26-030
+
+1 pursuant to part 3 of article 25 of title 30. All cash receipts from
+2 state-owned desert, saline, and internal improvement lands shall be
+3 credited to the parks and outdoor recreation cash fund.
+4 SECTION 5. In Colorado Revised Statutes, 33-12-108, amend
+5 (4)(e)(I)(C) and (4)(e)(II); and add (4)(e)(III) and (4)(e.5) as follows:
+6 33-12-108. Keep Colorado wild pass - assess with vehicle
+7 registration - option to decline to pay - rules - short title - legislative
+8 declaration - definitions.
+9 (4) (e) The state treasurer shall credit the pass fees that the
+10 executive director of the department of revenue transmits pursuant to
+11 subsection (4)(d) of this section in each state fiscal year as follows:
+12 (I) The first thirty-six million dollars shall be allocated as follows:
+13 (C) One million dollars to the Colorado avalanche information
+14 center fund created in section 24-33-116 (2)(c) in furtherance of the goal
+15 set forth in subsection (2)(a)(IV)(D) of this section; and
+16 (II) After making the allocations under subsection (4)(e)(I) of this
+17 section, the state treasurer shall credit one-half of any remaining money
+18 to the wildlife cash fund and one-half of any remaining money to the
+19 parks and outdoor recreation cash fund in furtherance of the goals set
+20 forth in subsections (2)(a)(IV)(E) to (2)(a)(IV)(J) of this section ANY
+21 REMAINING MONEY TO THE STATE PARK AND STATE WILDLIFE AREA
+22 ACCESS CASH FUND CREATED IN SECTION 24-32-136 (5); AND
+23 (III) AFTER MAKING THE ALLOCATIONS UNDER SUBSECTION
+24 (4)(e)(II) OF THIS SECTION, THE STATE TREASURER SHALL CREDIT ANY
+25 MONEY REMAINING IN THE STATE PARK AND STATE WILDLIFE AREA ACCESS
+26 CASH FUND IN ACCORDANCE WITH SUBSECTION (4)(e.5) OF THIS SECTION.
+27 (e.5) (I) IF NO APPLICATIONS FOR GRANTS FROM THE STATE PARK
+-10- SB26-030
+
+1 AND STATE WILDLIFE AREA ACCESS GRANT PROGRAM CREATED IN SECTION
+2 24-32-136 ARE RECEIVED BY DECEMBER 31, 2029, THE DIVISION OF LOCAL
+3 GOVERNMENT IN THE DEPARTMENT OF LOCAL AFFAIRS THAT ADMINISTERS
+4 THE GRANT PROGRAM SHALL NOTIFY THE STATE TREASURER WITHIN SIXTY
+5 DAYS AFTER DECEMBER 31, 2029, THAT NO APPLICATIONS WERE
+6 RECEIVED.
+7 (II) ON DECEMBER 31, 2030, AND ON EACH DECEMBER 31
+8 THEREAFTER, IF NO APPLICATIONS FOR GRANTS FROM THE GRANT
+9 PROGRAM ARE RECEIVED WITHIN THAT YEAR, THE DIVISION OF LOCAL
+10 GOVERNMENT SHALL NOTIFY THE STATE TREASURER WITHIN SIXTY DAYS
+11 AFTER DECEMBER 31 OF THAT YEAR THAT NO APPLICATIONS WERE
+12 RECEIVED.
+13 (III) IF THE STATE TREASURER RECEIVES THE NOTICE PROVIDED
+14 PURSUANT TO SUBSECTION (4)(e.5)(I) OR (4)(e.5)(II) OF THIS SECTION, THE
+15 STATE TREASURER SHALL, ON MARCH 15 OF THE YEAR AFTER THE NOTICE
+16 IS PROVIDED, TRANSFER:
+17 (A) ONE-HALF OF THE MONEY REMAINING IN THE STATE PARK AND
+18 STATE WILDLIFE AREA ACCESS CASH FUND TO THE WILDLIFE CASH FUND;
+19 AND
+20 (B) ONE-HALF OF THE MONEY REMAINING IN THE STATE PARK AND
+21 STATE WILDLIFE AREA ACCESS CASH FUND TO THE PARKS AND OUTDOOR
+22 RECREATION CASH FUND, IN FURTHERANCE OF THE GOALS SET FORTH IN
+23 SUBSECTIONS (2)(a)(IV)(E) TO (2)(a)(IV)(J) OF THIS SECTION.
+24 SECTION 6. Act subject to petition - effective date. This act
+25 takes effect at 12:01 a.m. on the day following the expiration of the
+26 ninety-day period after final adjournment of the general assembly (August
+27 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+-11- SB26-030
+
+1 referendum petition is filed pursuant to section 1 (3) of article V of the
+2 state constitution against this act or an item, section, or part of this act
+3 within such period, then the act, item, section, or part will not take effect
+4 unless approved by the people at the general election to be held in
+5 November 2026 and, in such case, will take effect on the date of the
+6 official declaration of the vote thereon by the governor.
+-12- SB26-030

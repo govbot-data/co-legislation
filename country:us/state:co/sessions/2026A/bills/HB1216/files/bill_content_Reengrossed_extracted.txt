@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0255.01 Jacob Bennington x2371 HOUSE BILL 26-1216
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING THE CORRECTION OF TECHNICAL DEFECTS IN CERTAIN
+102 STATUTES ADMINISTERED BY THE DEPARTMENT OF REVENUE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Statutory Revision Committee. Current law in certain statutes
+administered by the department of revenue contains several technical
+defects and incorrect statutory cross-references. The bill corrects these
+technical defects and incorrect cross-references as follows:
+! Section 1 of the bill amends the list of conditions a
+taxpayer must meet to claim a refundable income tax credit
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+6202
+,9
+hcraM
+6202
+,6
+hcraM
+HOUSE SPONSORSHIP
+Luck and Carter, Bradley, Espenoza,
+SENATE SPONSORSHIP
+Exum and Rich,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+for certain businesses located in the state so that the list of
+conditions terminates correctly and conforms with standard
+drafting practices;
+! Sections 2 and 4 correct outdated cross-references in the
+statute governing the collection of gas and special fuels tax
+and the statute governing the road usage fee and bridge and
+tunnel impact fee;
+! Section 3 clarifies the amount that can be claimed for a
+property tax or rent assistance grant and a heat or fuel
+expenses assistance grant based on the year the claim was
+made; and
+! Section 5 removes the definitions for "battery electric
+motor vehicle" and "plug-in hybrid electric motor vehicle"
+from the statute that creates the high-performance
+transportation enterprise, as those defined terms do not
+otherwise appear in the statute.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-46-108, amend
+3 (7)(d)(IV) and (7)(e) as follows:
+4 24-46-108. Refundable income tax credits for certain
+5 businesses located in the state - definitions - repeal.
+6 (7) To claim a refund in connection with an approved refund
+7 certificate, a taxpayer must:
+8 (d) Submit all required records and information to the department
+9 on or before the due date, including extensions, for filing the taxpayer's
+10 state income tax return for the income tax year in which an income tax
+11 credit in excess of the amount applied for pursuant to subsection (7)(c) of
+12 this section will be refunded, including:
+13 (IV) Any additional documentation required by section 39-36-106
+14 (1)(b) or otherwise required by law; AND
+15 (e) Subject to the limitation in subsection (8) of this section, agree
+16 to receive a refund of the eighty percent of the amount of the credit
+-2- 1216
+
+1 remaining after applying the credit under subsection (7)(c) of this section
+2 and forgo the remaining twenty percent of the amount claimed as a
+3 refund; and REFUND.
+4 SECTION 2. In Colorado Revised Statutes, 39-27-105, amend
+5 (2)(a)(I) as follows:
+6 39-27-105. Collection of tax on gasoline and special fuel - rules
+7 - repeal.
+8 (2) (a) (I) It is the duty of every distributor of gasoline or special
+9 fuel other than liquefied petroleum gas to compute the amount of tax
+10 payable on all gasoline or special fuel imported, removed from a terminal,
+11 or otherwise acquired during the preceding calendar month at the rate of
+12 tax per gallon imposed thereon in section 39-27-102 (1), and, in
+13 computing the amount of tax, the allowance of two percent provided for
+14 in section 39-27-102 (1)(b)(I)(A) shall SECTION 39-27-102 (1)(b)(I) MUST
+15 be taken into account.
+16 SECTION 3. In Colorado Revised Statutes, 39-31-101, amend
+17 (2)(d) and (2.1) as follows:
+18 39-31-101. Real property tax - tax equivalent - assistance -
+19 heat or fuel expenses assistance - eligibility - applicability - definitions
+20 - repeal.
+21 (2) A grant is the amount of the general property taxes actually
+22 paid on the residence or the amount of taxes actually paid on a mobile
+23 home, plus any tax-equivalent payments computed pursuant to subsection
+24 (4) of this section, with respect to the rent of a trailer space during the
+25 year for which the grant is claimed, the amount of the specific ownership
+26 tax actually paid on a trailer coach, or the amount of the tax-equivalent
+27 payments, computed pursuant to subsection (4) of this section, actually
+-3- 1216
+
+1 made during the year for which such grant is claimed, but in no event may
+2 it exceed:
+3 (d) (I) For a grant claimed for the 2023 calendar year, either eight
+4 hundred seventy-two dollars reduced by ten percent of the claimant's
+5 income over the phase-out amount or the property tax flat grant amount,
+6 whichever amount is greater; OR
+7 (II) For a grant claimed for years commencing on or after January
+8 1, 2024, either the maximum grant amount allowed under this subsection
+9 (2)(d) for the prior year, adjusted for inflation and reduced by ten percent
+10 of the claimant's income over the phase-out amount, or the property tax
+11 flat grant amount, whichever amount is greater.
+12 (2.1) THE AMOUNT OF A HEAT OR FUEL EXPENSES GRANT IS:
+13 (a) For a grant claimed for the 2023 calendar year, either two
+14 hundred forty dollars reduced by ten percent of the claimant's income
+15 over the phase-out amount or the heat or fuel expenses flat grant amount,
+16 whichever amount is greater; OR
+17 (b) For a grant claimed for years commencing on or after January
+18 1, 2024, either the maximum grant amount allowed under this subsection
+19 (2.1) for the prior year, adjusted for inflation and reduced by ten percent
+20 of the claimant's income over the phase-out amount, or the heat or fuel
+21 expenses flat grant amount, whichever amount is greater.
+22 SECTION 4. In Colorado Revised Statutes, 43-4-217, amend
+23 (6)(a) as follows:
+24 43-4-217. Additional funding - road usage fees - rules -
+25 legislative declaration - definitions.
+26 (6) (a) A distributor is not required to pay the road usage fee
+27 imposed by subsection (3) or (4) of this section or the bridge and tunnel
+-4- 1216
+
+1 impact fee imposed as authorized by section 43-4-805 (5)(g.5), if the
+2 distributor would otherwise be liable for the excise tax on the gasoline or
+3 special fuel subject to the fee but is allowed to sell the gasoline or special
+4 fuel without payment of the applicable excise tax pursuant to section
+5 39-27-102 (1)(b)(II) or section 39-27-102.5 (2)(b).
+6 SECTION 5. In Colorado Revised Statutes, 43-4-806, repeal
+7 (7.6)(a)(II)(A) and (7.6)(a)(II)(C) as follows:
+8 43-4-806. High-performance transportation enterprise -
+9 creation - enterprise status - board - funds - powers and duties - user
+10 fees - limitations - reporting requirements - violations on the peak
+11 period shoulder lanes - legislative declaration - definitions.
+12 (7.6) (a) (II) As used in this subsection (7.6), unless the context
+13 otherwise requires:
+14 (A) "Battery electric motor vehicle" has the same meaning as set
+15 forth in section 43-4-1202 (1).
+16 (C) "Plug-in hybrid electric motor vehicle" has the same meaning
+17 as set forth in section 43-4-1202 (14).
+18 SECTION 6. Act subject to petition - effective date. This act
+19 takes effect at 12:01 a.m. on the day following the expiration of the
+20 ninety-day period after final adjournment of the general assembly (August
+21 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+22 referendum petition is filed pursuant to section 1 (3) of article V of the
+23 state constitution against this act or an item, section, or part of this act
+24 within such period, then the act, item, section, or part will not take effect
+25 unless approved by the people at the general election to be held in
+26 November 2026 and, in such case, will take effect on the date of the
+27 official declaration of the vote thereon by the governor.
+-5- 1216

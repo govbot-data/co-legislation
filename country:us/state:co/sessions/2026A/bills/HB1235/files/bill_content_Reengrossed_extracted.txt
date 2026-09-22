@@ -1,0 +1,429 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0390.01 Chelsea Princell x4335 HOUSE BILL 26-1235
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO THE MEDICAL ASSISTANCE PROGRAM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Beginning December 1, 2026, the bill requires each transportation
+broker that administers nonemergency medical transportation to medicaid
+members to submit certain information to the state department regarding
+transportation providers that the transportation broker contracts with. The
+department of health care policy and financing (state department) is
+required to include this information in its annual "SMART Act"
+presentation.
+The bill requires the medical services board to adopt rules to
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,61
+lirpA
+6202
+,31
+lirpA
+HOUSE SPONSORSHIP
+Feret, Carter, Clifford, Jackson, Nguyen, Story, Velasco
+SENATE SPONSORSHIP
+Daugherty,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+implement the federal community engagement requirements.
+Under current law, the state department is required to reimburse
+an opioid treatment program for administering medication-assisted
+treatment in a jail setting. The bill amends this requirement to require the
+state department to reimburse a licensed provider who is licensed and
+authorized to prescribe, dispense, compound, or administer
+medication-assisted treatment in a jail setting.
+The bill prohibits the state department from implementing a
+multiple procedure payment reduction, compound billing methodology,
+or substantially similar reimbursement policy for outpatient therapy
+services.
+Beginning January 1, 2027, the bill requires home- and
+community-based service agencies to submit their medical loss ratio to
+the state department. The state department is required to publish this
+medical loss ratio data on the state department's website on an annual
+basis.
+The bill repeals the state medical assistance and services advisory
+council.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 25.5-1-803 as
+3 follows:
+4 25.5-1-803. Transportation provider data reporting
+5 requirements.
+6 (1) ON OR BEFORE DECEMBER 1, 2026, AND ON OR BEFORE EACH
+7 DECEMBER 1 THEREAFTER, EACH TRANSPORTATION BROKER SHALL
+8 REPORT THE FOLLOWING INFORMATION TO THE STATE DEPARTMENT:
+9 (a) REGARDING EACH TRANSPORTATION PROVIDER THAT THE
+10 TRANSPORTATION BROKER CONTRACTS WITH:
+11 (I) THE TOTAL NUMBER OF RIDES REQUESTED;
+12 (II) THE TOTAL NUMBER OF RIDES COMPLETED;
+13 (III) THE TOTAL NUMBER OF RIDES CANCELED BY MEMBERS AND
+14 THE TRANSPORTATION PROVIDER;
+15 (IV) THE TOTAL COST OF RIDES COMPLETED CATEGORIZED BY
+-2- 1235
+
+1 PROCEDURE CODE; AND
+2 (V) THE TOTAL NUMBER OF CALLS RECEIVED FROM MEMBERS
+3 REQUESTING NONEMERGENCY MEDICAL TRANSPORTATION AND THE
+4 AVERAGE TIME A MEMBER SPENT ON HOLD;
+5 (b) THE NUMBER OF GRIEVANCES SUBMITTED BY MEMBERS
+6 REGARDING A TRANSPORTATION PROVIDER THAT WERE SUBSTANTIATED,
+7 AND THE TRANSPORTATION PROVIDER THAT THE GRIEVANCE CONCERNS;
+8 AND
+9 (c) THE TOTAL NUMBER OF TRANSPORTATION PROVIDERS
+10 TERMINATED FROM THE TRANSPORTATION BROKER'S NETWORK, ON A
+11 CORRECTIVE ACTION PLAN, OR ON A PERFORMANCE IMPROVEMENT PLAN.
+12 (2) BEGINNING JANUARY 1, 2027, THE STATE DEPARTMENT SHALL
+13 INCLUDE AS PART OF THE STATE DEPARTMENT'S "SMART ACT"
+14 PRESENTATION REQUIRED BY SECTION 2-7-203 THE INFORMATION
+15 SUBMITTED TO THE STATE DEPARTMENT BY THE TRANSPORTATION
+16 BROKERS AS REQUIRED BY SUBSECTION (1) OF THIS SECTION.
+17 SECTION 2. In Colorado Revised Statutes, 25.5-4-103, amend
+18 (20) as follows:
+19 25.5-4-103. Definitions.
+20 As used in this article 4 and articles 5 and 6 of this title 25.5,
+21 unless the context otherwise requires:
+22 (20) "Qualified alien"shall have "QUALIFIED NONCITIZEN" HAS the
+23 meaning ascribed to that term in section 431 (b) of the federal "Personal
+24 Responsibility and Work Opportunity Reconciliation Act of 1996", Public
+25 Law 104-193, as amended.
+26 SECTION 3. In Colorado Revised Statutes, add 25.5-4-217 as
+27 follows:
+-3- 1235
+
+1 25.5-4-217. Multiple procedure payment reductions for
+2 outpatient therapy - prohibition - definitions.
+3 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+4 REQUIRES:
+5
+6 (a) "MULTIPLE PROCEDURE PAYMENT REDUCTION" MEANS A
+7 REIMBURSEMENT METHODOLOGY THAT REDUCES PAYMENT FOR ONE OR
+8 MORE DIFFERENT SERVICES FURNISHED TO A MEMBER DURING THE SAME
+9 DATE OF SERVICE, ENCOUNTER, OR EPISODE OF CARE BASED SOLELY ON
+10 THE NUMBER, SEQUENCING, OR COMBINATION OF DIFFERENT SERVICES
+11 PERFORMED.
+12 (b) "OUTPATIENT THERAPY SERVICES" MEANS PROFESSIONAL
+13 SERVICES PROVIDED BY AN OCCUPATIONAL THERAPIST, PHYSICAL
+14 THERAPIST, OR SPEECH LANGUAGE PATHOLOGIST IN A SETTING OTHER
+15 THAN A HOSPITAL.
+16 (2) IF THE STATE DEPARTMENT PLANS TO IMPLEMENT, APPLY, OR
+17 ENFORCE A NEW MULTIPLE PROCEDURE PAYMENT REDUCTION FOR
+18 OUTPATIENT THERAPY SERVICES PROVIDED UNDER THE MEDICAL
+19 ASSISTANCE PROGRAM, THE STATE DEPARTMENT MUST PROVIDE NOTICE TO
+20 THE IMPACTED PROVIDERS OF THE FORTHCOMING CHANGE AT LEAST SIX
+21 MONTHS PRIOR TO IMPLEMENTING THE CHANGE TO ENSURE ADEQUATE
+22 TIME FOR PROVIDERS TO PREPARE AND HOLD AT LEAST ONE STAKEHOLDER
+23 MEETING TO DISCUSS THE IMPLEMENTATION, APPLICATION, AND
+24 ENFORCEMENT OF THE NEW MULTIPLE PROCEDURE PAYMENT REDUCTION
+25 FOR OUTPATIENT THERAPY SERVICES. THE STAKEHOLDER PROCESS MUST
+26 INCLUDE A DISCUSSION REGARDING THE METRICS THE STATE DEPARTMENT
+27 PLANS TO USE IN IMPLEMENTING THE CHANGES.
+-4- 1235
+
+1 SECTION 4. In Colorado Revised Statutes, add 25.5-4-218 as
+2 follows:
+3 25.5-4-218. Community engagement requirements for
+4 medicaid eligibility - notice to revisor of statutes - rules - reporting -
+5 repeal.
+6 (1) ON OR BEFORE JANUARY 1, 2027, THE STATE BOARD SHALL
+7 ADOPT RULES THAT ARE NECESSARY TO IMPLEMENT THE COMMUNITY
+8 ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE FEDERAL "SOCIAL
+9 SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a(xx), AS AMENDED OR
+10 RELOCATED, IN A MANNER THAT ENSURES ALL APPLICANTS AND MEMBERS
+11 CAN OBTAIN OR MAINTAIN COVERAGE WITH THE LEAST AMOUNT OF
+12 ADMINISTRATIVE BURDENS.
+13 (2) THE STATE BOARD'S AUTHORITY TO ADOPT RULES PURSUANT
+14 TO SUBSECTION (1) OF THIS SECTION IS REPEALED IF THE COMMUNITY
+15 ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE FEDERAL "SOCIAL
+16 SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a(xx), AS AMENDED OR
+17 RELOCATED, ARE REPEALED.
+18 (3) THE STATE BOARD SHALL NOTIFY THE REVISOR OF STATUTES
+19 IN WRITING OF THE DATE WHEN THE CONDITION SPECIFIED IN SUBSECTION
+20 (2) OF THIS SECTION HAS OCCURRED BY EMAILING THE NOTICE TO
+21 REVISOROFSTATUTES.GA@COLEG.GOV. THIS SECTION IS REPEALED,
+22 EFFECTIVE UPON THE DATE IDENTIFIED IN THE NOTICE, OR IF THE NOTICE
+23 DOES NOT SPECIFY THAT DATE, UPON THE DATE OF THE NOTICE TO THE
+24 REVISOR OF STATUTES.
+25 (4) (a) BEGINNING MARCH 1, 2027, AND EACH MONTH
+26 THEREAFTER, THE STATE DEPARTMENT SHALL MAKE THE FOLLOWING DATA
+27 CONCERNING ENROLLMENT IN THE MEDICAL ASSISTANCE PROGRAM
+-5- 1235
+
+1 AVAILABLE ON THE STATE DEPARTMENT'S WEBSITE:
+2 (I) THE NUMBER OF APPLICATIONS FOR MEDICAL ASSISTANCE THAT
+3 WERE APPROVED AND DENIED;
+4 (II) THE NUMBER OF RENEWAL APPLICATIONS FOR MEDICAL
+5 ASSISTANCE THAT WERE APPROVED AND DENIED;
+6 (III) THE NUMBER OF MEMBERS WHOSE MEDICAL ASSISTANCE
+7 ELIGIBILITY WAS RENEWED USING EXISTING DATA AND RECORDS WITHOUT
+8 REQUIRING THE MEMBER TO SUBMIT ADDITIONAL INFORMATION;
+9 (IV) THE RATE OF REENROLLMENT IN THE MEDICAL ASSISTANCE
+10 PROGRAM WITHIN NINETY DAYS AFTER A MEMBER'S RENEWAL
+11 APPLICATION FOR MEDICAL ASSISTANCE WAS DENIED; AND
+12 (V) OTHER DATA THE STATE DEPARTMENT DETERMINES IS
+13 NECESSARY TO SHARE WITH THE PUBLIC AND ANY OTHER DATA THAT MAY
+14 BE FEDERALLY REQUIRED TO COMPLY WITH THE COMMUNITY
+15 ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE FEDERAL "SOCIAL
+16 SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a (xx), AS AMENDED OR
+17 RELOCATED.
+18 (b) THE PURPOSE OF THE REPORTING REQUIREMENT SET FORTH IN
+19 THIS SUBSECTION (4) IS TO DEMONSTRATE THE IMPACTS OF THE
+20 COMMUNITY ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE FEDERAL
+21 "SOCIAL SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a (xx), AS
+22 AMENDED OR RELOCATED, ON ELIGIBILITY AND ENROLLMENT IN THE
+23 MEDICAL ASSISTANCE PROGRAM.
+24 (c) THE STATE DEPARTMENT'S DUTY TO POST DATA ON THE STATE
+25 DEPARTMENT'S WEBSITE PURSUANT TO THIS SUBSECTION (4) IS REPEALED
+26 IF THE COMMUNITY ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE
+27 FEDERAL "SOCIAL SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a (xx), AS
+-6- 1235
+
+1 AMENDED OR RELOCATED, ARE REPEALED.
+2 (d) THE EXECUTIVE DIRECTOR OF THE STATE DEPARTMENT SHALL
+3 NOTIFY THE REVISOR OF STATUTES IN WRITING OF THE DATE WHEN THE
+4 CONDITION SPECIFIED IN SUBSECTION (4)(c) OF THIS SECTION HAS
+5 O C C U R R E D B Y E M A I L I N G T H E N O T I C E T O
+6 REVISOROFSTATUTES.GA@COLEG.GOV. THIS SECTION (4) IS REPEALED
+7 EFFECTIVE UPON THE DATE IDENTIFIED IN THE NOTICE, OR IF THE NOTICE
+8 DOES NOT SPECIFY THAT DATE, UPON THE DATE OF THE NOTICE TO THE
+9 REVISOR OF STATUTES.
+10 SECTION 5. In Colorado Revised Statutes, 25.5-4-401.5, amend
+11 (1)(c)(I) as follows:
+12 25.5-4-401.5. Review of provider rates - advisory committee
+13 - recommendations - repeal.
+14 (1) (c) (I) The state department may propose to exclude rates from
+15 the schedule established pursuant to subsection (1)(a) of this section if
+16 those rates are adjusted OR REVIEWED on a periodic basis as a result of
+17 other state statute or federal law or regulation. The state department shall
+18 include the proposed list of exclusions with the schedule established
+19 pursuant to subsection (1)(a) of this section.
+20 SECTION 6. In Colorado Revised Statutes, 25.5-4-505.5, amend
+21 (5) as follows:
+22 25.5-4-505.5. Federal authorization related to persons involved
+23 in the criminal justice system - report - rules - legislative declaration.
+24 (5) (a) The state department shall only reimburse an opioid
+25 treatment program, as defined in section 27-80-203, for administering
+26 medication-assisted treatment REIMBURSE A PROVIDER WHO IS LICENSED
+27 AND AUTHORIZED TO PRESCRIBE, DISPENSE, COMPOUND, OR ADMINISTER
+-7- 1235
+
+1 MEDICATION-ASSISTED TREATMENT in a jail setting. At a minimum, an
+2 opioid treatment program that administers medication-assisted treatment
+3 shall:
+4 (I) Employ a physician medical director;
+5 (II) Ensure the individual receiving medication-assisted treatment
+6 undergoes a minimum observation period after receiving
+7 medication-assisted treatment as determined by behavioral health
+8 administration rule pursuant to section 27-80-204; and
+9 (III) Meet all critical incident reporting requirements as
+10 determined by behavioral health administration rule pursuant to section
+11 27-80-204.
+12 (b) The state department shall ensure as part of the state
+13 department's quality oversight that opioid treatment programs that
+14 LICENSED PROVIDERS WHO administer medication-assisted treatment in a
+15 jail setting maintain emergency policies and procedures that address
+16 adverse outcomes.
+17 SECTION 7. In Colorado Revised Statutes, 25.5-5-101, repeal
+18 (2); and add (1)(n) and (1)(o) as follows:
+19 25.5-5-101. Mandatory provisions - eligible groups - rules.
+20 (1) In order to participate in the medicaid program, the federal
+21 government requires the state to provide medical assistance to certain
+22 eligible groups. Pursuant to federal law and except as provided in
+23 subsection (2) of this section, any person who is eligible for medical
+24 assistance under the mandated groups specified in this section must
+25 receive both the mandatory services that are specified in sections
+26 25.5-5-102 and 25.5-5-103 and the optional services that are specified in
+27 sections 25.5-5-202 and 25.5-5-203. Subject to the availability of federal
+-8- 1235
+
+1 financial participation, the following are the individuals or groups that are
+2 mandated under federal law to receive benefits under this article 5 and
+3 articles 4 and 6 of this title 25.5:
+4 (n) A QUALIFIED NONCITIZEN WHO ENTERED THE UNITED STATES
+5 BEFORE AUGUST 22, 1996, SHALL RECEIVE BENEFITS UNDER THIS ARTICLE
+6 5 AND ARTICLES 4 AND 6 OF THIS TITLE 25.5;
+7 (o) A QUALIFIED NONCITIZEN WHO ENTERED THE UNITED STATES
+8 ON OR AFTER AUGUST 22,1996, IS NOT ELIGIBLE FOR BENEFITS UNDER THIS
+9 ARTICLE 5 OR ARTICLE 4 OR 6 OF THIS TITLE 25.5 FOR FIVE YEARS AFTER
+10 THE DATE OF ENTRY IN THE UNITED STATES; EXCEPT THAT THE STATE
+11 DEPARTMENT MAY PROVIDE BENEFITS UNDER THIS ARTICLE 5 AND
+12 ARTICLES 4 AND 6 OF THIS TITLE 25.5 TO A PREGNANT PERSON WHO IS A
+13 QUALIFIED ALIEN NONCITIZEN AND A CHILD UNDER NINETEEN YEARS OLD
+14 WHO IS A QUALIFIED NONCITIZEN, SO LONG AS THE PREGNANT PERSON OR
+15 CHILD MEETS ELIGIBILITY CRITERIA OTHER THAN CITIZENSHIP. COVERAGE
+16 OF INDIVIDUALS IN THIS GROUP IS SUBJECT TO THE RECEIPT OF FEDERAL
+17 FINANCIAL PARTICIPATION, UNLESS STATE FUNDS ARE SPECIFICALLY
+18 APPROPRIATED FOR COVERAGE OF GROUPS FOR WHOM FEDERAL FINANCIAL
+19 PARTICIPATION IS UNAVAILABLE.
+20 (2) (a) A qualified alien who entered the United States before
+21 August 22, 1996, who meets the exceptions described in the federal
+22 "Personal Responsibility and Work Opportunity Reconciliation Act of
+23 1996", Public Law 104-193, as amended, shall receive benefits under this
+24 article and articles 4 and 6 of this title.
+25 (b) (I) A qualified alien who entered the United States on or after
+26 August 22, 1996, shall not be eligible for benefits under this article or
+27 article 4 or 6 of this title, except as provided in section 25.5-5-103 (3), for
+-9- 1235
+
+1 five years after the date of entry into the United States unless he or she
+2 meets the exceptions described in the federal "Personal Responsibility
+3 and Work Opportunity Reconciliation Act of 1996", Public Law 104-193,
+4 as amended.
+5 (II) Notwithstanding the five-year waiting period established in
+6 subparagraph (I) of this paragraph (b), but subject to the availability of
+7 sufficient appropriations and the receipt of federal financial participation,
+8 the state department may provide benefits under this article and articles
+9 4 and 6 of this title to a pregnant woman who is a qualified alien and a
+10 child under nineteen years of age who is a qualified alien so long as such
+11 woman or child meets eligibility criteria other than citizenship.
+12 SECTION 8. In Colorado Revised Statutes, 25.5-5-201, amend
+13 (1)(j) and (1)(k); and repeal (2) as follows:
+14 25.5-5-201. Optional provisions - optional groups - rules.
+15 (1) The federal government allows the state to select optional
+16 groups to receive medical assistance. Pursuant to federal law, any person
+17 who is eligible for medical assistance under the optional groups specified
+18 in this section must receive both the mandatory services specified in
+19 sections 25.5-5-102 and 25.5-5-103 and the optional services specified in
+20 sections 25.5-5-202 and 25.5-5-203. Subject to the availability of federal
+21 financial aid funds, the following are the individuals or groups that
+22 Colorado has selected as optional groups to receive medical assistance
+23 pursuant to this article 5 and articles 4 and 6 of this title 25.5:
+24 (j) Individuals who are qualified aliens NONCITIZENS and were or
+25 would have been eligible for supplemental security income as a result of
+26 a disability but are not eligible for such supplemental security income as
+27 a result of the passage of the federal "Personal Responsibility and Work
+-10- 1235
+
+1 Opportunity Reconciliation Act of 1996", Public Law 104-193;
+2 (k) Other qualified aliens NONCITIZENS who entered or were
+3 present in the United States before August 22, 1996;
+4 (2) (a) A qualified alien, who entered the United States on or after
+5 August 22, 1996, shall not be eligible for benefits under this article and
+6 articles 4 and 6 of this title, except as provided in section 25.5-5-103 (3),
+7 for five years after the date of entry into the United States unless he or she
+8 meets the exceptions described in the federal "Personal Responsibility
+9 and Work Opportunity Reconciliation Act of 1996", Public Law 104-193,
+10 as amended. After five years, such qualified alien shall be eligible for
+11 benefits under this article and articles 4 and 6 of this title but shall have
+12 sponsor income and resources deemed to the individual or family under
+13 rules established by the state board of human services pursuant to section
+14 26-2-137, C.R.S.
+15 (b) Notwithstanding the five-year waiting period established in
+16 paragraph (a) of this subsection (2), but subject to the availability of
+17 sufficient appropriations and the receipt of federal financial participation,
+18 the state department may provide benefits under this article and articles
+19 4 and 6 of this title to a pregnant woman who is a qualified alien and a
+20 child under nineteen years of age who is a qualified alien so long as such
+21 woman or child meets eligibility criteria other than citizenship.
+22 SECTION 9. In Colorado Revised Statutes, add 25.5-6-120 as
+23 follows:
+24 25.5-6-120. Home- and community-based service provider
+25 agencies - disclosure of direct care service cost ratio to administrative
+26 cost ratio - definition.
+27 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+-11- 1235
+
+1 REQUIRES, "DIRECT CARE SERVICE COST TO ADMINISTRATIVE COST RATIO"
+2 MEANS THE PERCENTAGE OF MEDICAID SERVICES REVENUE THAT A HOME-
+3 AND COMMUNITY-BASED SERVICE PROVIDER AGENCY THAT RENDERS BASE
+4 WAGE QUALIFYING SERVICES SPENDS ON DIRECT CARE WORKFORCE
+5 COMPENSATION AND DIRECT CARE SERVICE RELATED TRAINING AND
+6 SUPPORTS AS COMPARED TO ADMINISTRATIVE AND GENERAL EXPENSES.
+7 (2) (a) THE STATE DEPARTMENT SHALL COLLECT THE FOLLOWING
+8 INFORMATION FROM EACH HOME- AND COMMUNITY-BASED SERVICE
+9 PROVIDER AGENCY THAT SERVES MORE THAN THIRTY MEMBERS AND IS
+10 SUBJECT TO THE BASE WAGE REQUIREMENTS SET BY THE STATE
+11 DEPARTMENT IN RULE, AND MAY COLLECT THE FOLLOWING INFORMATION
+12 FROM A HOME- AND COMMUNITY-BASED SERVICE PROVIDER AGENCY THAT
+13 SERVES THIRTY OR FEWER MEMBERS:
+14 (I) THE TOTAL MEDICAL ASSISTANCE PROGRAM REIMBURSEMENT
+15 AND VOLUME DATA FOR HOME- AND COMMUNITY-BASED SERVICES THAT
+16 ARE SUBJECT TO THE BASE WAGE REQUIREMENTS, SORTED BY SERVICE
+17 CODES AND SUBMITTED SEPARATELY FOR EMPLOYEES AND INDEPENDENT
+18 CONTRACTORS;
+19 (II) DIRECT WAGES AND CASH COMPENSATION, WHICH ARE LIMITED
+20 TO WAGES, OVERTIME PAY, BONUSES, AND OTHER DIRECT MONETARY
+21 COMPENSATION PAID TO DIRECT CARE WORKERS;
+22 (III) PAID LEAVE AND EMPLOYEE BENEFITS, WHICH ARE LIMITED TO
+23 PAID LEAVE, HEALTH INSURANCE, RETIREMENT CONTRIBUTIONS, AND
+24 OTHER INSURANCE BENEFITS, WELLNESS SUPPORT, TRANSPORTATION
+25 BENEFITS, AND OTHER MONETARY OR NON-MONETARY EMPLOYMENT
+26 BENEFITS;
+27 (IV) EMPLOYER PAYROLL TAXES AND STATUTORY EMPLOYMENT
+-12- 1235
+
+1 COSTS, WHICH ARE LIMITED TO EMPLOYER PAYROLL TAXES, STATE
+2 UNEMPLOYMENT INSURANCE CONTRIBUTIONS, AND FEDERAL
+3 UNEMPLOYMENT INSURANCE CONTRIBUTIONS;
+4 (V) WORKFORCE RECRUITMENT, RETENTION, AND INCENTIVE
+5 SUPPORTS, WHICH ARE LIMITED TO STIPENDS, REIMBURSEMENTS,
+6 ALLOWANCES, INCENTIVE PROGRAMS, AND OTHER BENEFITS DESIGNED TO
+7 RECRUIT, RETAIN AND SUPPORT THE WELL-BEING OF DIRECT CARE
+8 WORKERS;
+9 (VI) WORKFORCE SUPERVISION, TRAINING AND OPERATIONAL
+10 SUPPORT, WHICH ARE LIMITED TO COSTS RELATED TO SUPERVISING DIRECT
+11 CARE WORKERS, PROVIDING TRAINING, AND MAINTAINING WORKFORCE
+12 SUPPORT SERVICES NECESSARY FOR SAFE SERVICE DELIVERY AND
+13 REGULATORY COMPLIANCE;
+14 (VII) OPERATIONAL AND COMPLIANCE COSTS TIED TO
+15 EMPLOYMENT OF DIRECT CARE WORKERS, WHICH ARE LIMITED TO
+16 EMPLOYER EXPENSES NECESSARY TO RECRUIT, EMPLOY, SUPERVISE,
+17 SUPPORT, AND RETAIN DIRECT CARE WORKERS, INCLUDING OPERATIONAL
+18 COSTS REQUIRED TO SAFELY DELIVER MEDICAL ASSISTANCE SERVICES AND
+19 COMPLY WITH MEDICAL ASSISTANCE PROGRAM REQUIREMENTS; AND
+20 (VIII) EXISTING BASE WAGE REPORTING AND ATTESTATION
+21 DOCUMENTATION VERIFYING THAT DIRECT CARE WORKER WAGES MEET
+22 THE STATE BASE WAGE REQUIREMENTS.
+23 (b) A HOME- AND COMMUNITY-BASED SERVICE PROVIDER AGENCY
+24 SHALL SUBMIT TO THE STATE DEPARTMENT ITS DIRECT CARE SERVICE COST
+25 TO ADMINISTRATIVE COST RATIO AND THE INFORMATION REQUIRED
+26 PURSUANT TO THIS SUBSECTION (2) NO LATER THAN SEPTEMBER 30, 2027.
+27 (3) THE STATE DEPARTMENT SHALL SUBMIT A REPORT DETAILING
+-13- 1235
+
+1 THE INFORMATION COLLECTED PURSUANT TO SUBSECTION (2) OF THIS
+2 SECTION TO THE HOUSE OF REPRESENTATIVES AND SENATE HEALTH AND
+3 HUMAN SERVICES COMMITTEES AND THE JOINT BUDGET COMMITTEE, OR
+4 ANY SUCCESSOR COMMITTEES, NO LATER THAN DECEMBER 31, 2027.
+5 (4) THE DATA COLLECTED AND PUBLISHED PURSUANT TO THIS
+6 SECTION MUST BE USED SOLELY FOR LEGISLATIVE INFORMATIONAL
+7 PURPOSES AND IS NOT SUBJECT TO DISCLOSURE UNDER THE "COLORADO
+8 OPEN RECORDS ACT," PART 2 OF ARTICLE 72 OF TITLE 24.
+9 SECTION 10. In Colorado Revised Statutes, repeal 25.5-4-203.
+10 SECTION 11. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-14- 1235

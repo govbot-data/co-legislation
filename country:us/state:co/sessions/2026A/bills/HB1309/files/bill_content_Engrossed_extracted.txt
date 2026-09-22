@@ -1,0 +1,681 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0088.03 Jacob Baus x2173 HOUSE BILL 26-1309
+House Committees Senate Committees
+Judiciary
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MEASURES RELATED TO FORMS OF ABUSE IN CASES
+102 REGARDING A SEPARATION OF A RELATIONSHIP.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the court is required to determine the allocation
+of parental responsibilities, including parenting time and decision-making
+responsibilities, based on the best interests of the child.
+The bill requires that prior to allocating parental responsibilities
+and prior to considering the best interests of the child factors, the court
+shall determine whether a party has committed domestic violence. If the
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,5
+yaM
+HOUSE SPONSORSHIP
+Froelich and Story,
+SENATE SPONSORSHIP
+Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+court determines by a preponderance of the evidence that a party has
+committed domestic violence, there is a presumption that it is not in the
+best interests of the child to allocate parental responsibilities to that
+parent.
+The bill requires the court to make specific written findings and
+require conditions if the court awards parental responsibilities to a party
+found to have committed domestic violence.
+Under current law, prior to a court ordering a party accused of
+domestic violence or child abuse to take steps to improve a relationship
+with a protected party, a mental health professional who is approved by
+the domestic violence offender management board must verify the
+accused party's behavior. Instead, the bill requires that the accused party
+participate in individual therapeutic treatment with a mental health
+professional who holds a master's or doctoral degree and a certain mental
+health license type, has specialized training and expertise in treating
+survivors of domestic violence and its effects, and has completed a
+52-week domestic violence abuser intervention program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Colorado has led the United States in enacting family court
+5 reforms;
+6 (b) In recent years, a series of bills have been enacted that seek to
+7 protect parents and children from domestic violence and child abuse when
+8 a family court is determining custody. These bills have required training
+9 in domestic violence and child abuse, created protections for coercive
+10 control and its insidious permutations, and brought many survivors to the
+11 Colorado capitol to share their stories.
+12 (c) Despite efforts to protect victims and survivors, family courts
+13 still award unsupervised custody, order court-ordered reunification,
+14 remove protection orders, and dismiss the realities of various forms of
+15 abuse;
+16 (d) In 2025, the domestic violence fatality review board reported
+-2- 1309
+
+1 a record number of domestic violence fatalities. At least 7 domestic
+2 violence fatalities directly involved domestic relations cases between the
+3 victim and the perpetrator, 2 of which closed prior to the fatality and 5 of
+4 which were still open. The 5 open cases involved child custody litigation,
+5 and 4 of the 5 open cases involved multiple victims, resulting in 9
+6 homicides and one attempted homicide.
+7 (e) Over 62% of Colorado's child domestic violence fatality
+8 victims were killed during child custody litigation. Of the 8 child
+9 domestic violence fatality victims in 2024, 5 children were involved in
+10 their parents' custody disputes.
+11 (f) Studies suggest that one parent using repeated court actions
+12 against the other parent is a pervasive, multifaceted, and effective tactic
+13 to further coercive control. Parents who are abusive may misuse the legal
+14 system by repeatedly bringing groundless motions for modification and
+15 enforcement, and even false reports of child abuse.
+16 (g) Seventy-three percent of domestic relations litigants appear in
+17 family court without a lawyer;
+18 (h) Seventy-two percent of all murder-suicides involve an intimate
+19 partner, and 94% of the murder victims in murder-suicides are female;
+20 (i) Lethality often escalates following separation;
+21 (j) Parents who are abused face an increased risk of serious and
+22 lethal violence when separating from the parent who is abusive;
+23 (k) As of 2018, all states and the District of Columbia required
+24 domestic violence to be considered in the best interests of the child
+25 analysis, with 26 states and D.C. giving domestic violence extra weight.
+26 Twenty-eight states and D.C. provide a statutory presumption against
+27 awarding custody to a perpetrator of domestic violence.
+-3- 1309
+
+1 (l) An extensive body of research suggests that exposure to
+2 domestic violence places children at risk of adverse developmental,
+3 behavioral, physical, and mental health consequences, including
+4 depression, anxiety, poor coping mechanisms, suicidal ideations,
+5 self-harm, substance abuse, and chronic pain;
+6 (m) The National Council of Juvenile and Family Court Judges
+7 has drafted a model code on domestic and family violence. That model
+8 code provides courts with clear guidance and standards to address
+9 domestic violence in determinations concerning the allocation of parental
+10 responsibilities to ensure consistent application and protection of victims
+11 and children.
+12 (2) Therefore, the general assembly declares that:
+13 (a) In order to protect parents and children from domestic
+14 violence, Colorado must prioritize safety during family court proceedings;
+15 (b) Safety must be prioritized before contact;
+16 (c) Courts need clear guidance and standards to address domestic
+17 violence in determinations concerning the allocation of parental
+18 responsibilities to ensure consistent application and protection of victims
+19 and children; and
+20 (d) It is necessary to presume that, if a parent has committed
+21 domestic violence, it is not in the best interests of the child to allocate
+22 parental responsibilities to that parent. This presumption is necessary to
+23 allow courts the ability to consider individual circumstances while
+24 maintaining a strong and protective stance against allocating parental
+25 responsibilities to an abusive parent.
+26 SECTION 2. In Colorado Revised Statutes, 14-10-103, amend
+27 (1.5)(a) and (1.5)(b); and add (1.5)(c.4) and (1.5)(c.6) as follows:
+-4- 1309
+
+1 14-10-103. Definitions and interpretations of terms.
+2 (1.5) As used in this article 10, unless the context otherwise
+3 requires:
+4 (a) "Coercive control" has the same meaning as set forth in
+5 section 14-10-124 (1.3) MEANS A PATTERN OF THREATENING,
+6 HUMILIATING, OR INTIMIDATING ACTIONS, INCLUDING ASSAULTS OR OTHER
+7 ABUSE, THAT IS USED TO HARM, PUNISH, OR FRIGHTEN AN INDIVIDUAL.
+8 "COERCIVE CONTROL" INCLUDES A PATTERN OF BEHAVIOR THAT TAKES
+9 AWAY THE INDIVIDUAL'S LIBERTY OR FREEDOM AND STRIPS AWAY THE
+10 INDIVIDUAL'S SENSE OF SELF, INCLUDING THE INDIVIDUAL'S BODILY
+11 INTEGRITY AND HUMAN RIGHTS. "COERCIVE CONTROL" INCLUDES
+12 ISOLATING THE INDIVIDUAL FROM SUPPORT, EXPLOITING THE INDIVIDUAL,
+13 DEPRIVING THE INDIVIDUAL OF INDEPENDENCE, AND REGULATING THE
+14 INDIVIDUAL'S EVERYDAY BEHAVIOR. "COERCIVE CONTROL" INCLUDES,
+15 BUT IS NOT LIMITED TO, ANY OF THE FOLLOWING:
+16 (I) ISOLATING THE INDIVIDUAL FROM FRIENDS AND FAMILY;
+17 (II) MONITORING, SURVEILLING, REGULATING, OR CONTROLLING
+18 THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S OR RELATIVE'S,
+19 FINANCES, ECONOMIC RESOURCES, OR ACCESS TO SERVICES;
+20 (III) MONITORING, SURVEILLING, REGULATING, OR CONTROLLING
+21 THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S OR RELATIVE'S,
+22 ACTIVITIES, COMMUNICATIONS, OR MOVEMENTS, INCLUDING THROUGH
+23 TECHNOLOGY;
+24 (IV) NAME-CALLING, DEGRADING, OR DEMEANING THE
+25 INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR RELATIVE, ON A FREQUENT
+26 BASIS;
+27 (V) THREATENING TO HARM OR KILL THE INDIVIDUAL, OR THE
+-5- 1309
+
+1 INDIVIDUAL'S CHILD OR RELATIVE, INCLUDING WEARING, ACCESSING,
+2 DISPLAYING, USING, OR CLEANING A WEAPON IN AN INTIMIDATING OR
+3 THREATENING MANNER;
+4 (VI) THREATENING TO COMMIT SUICIDE OR OTHERWISE HARM
+5 ONE'S OWN PERSON WHEN USED AS A METHOD OF COERCION, CONTROL,
+6 PUNISHMENT, INTIMIDATION, OR RETALIATION AGAINST THE PERSON;
+7 (VII) THREATENING TO HARM OR KILL AN ANIMAL WITH WHICH
+8 THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR RELATIVE, HAS AN
+9 EMOTIONAL BOND;
+10 (VIII) THREATENING TO PUBLISH THE INDIVIDUAL'S, OR THE
+11 INDIVIDUAL'S CHILD'S OR RELATIVE'S, SENSITIVE PERSONAL INFORMATION,
+12 INCLUDING SEXUALLY EXPLICIT MATERIAL, OR MAKE REPORTS TO THE
+13 POLICE OR AUTHORITIES;
+14 (IX) DAMAGING THE INDIVIDUAL'S, OR THE INDIVIDUAL'S CHILD'S
+15 OR RELATIVE'S, PROPERTY OR HOUSEHOLD GOODS;
+16 (X) THREATENING THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD
+17 OR RELATIVE, WITH DEPORTATION OR CONTACTING AUTHORITIES BASED
+18 ON PERCEIVED OR ACTUAL IMMIGRATION STATUS, WITHHOLDING
+19 ESSENTIAL DOCUMENTS REQUIRED FOR IMMIGRATION, OR THREATENING
+20 TO WITHDRAW OR INTERFERE WITH AN ACTIVE IMMIGRATION APPLICATION
+21 OR PROCESS; OR
+22 (XI) FORCING THE INDIVIDUAL, OR THE INDIVIDUAL'S CHILD OR
+23 RELATIVE, TO TAKE PART IN CRIMINAL ACTIVITIES OR CHILD ABUSE.
+24 (b) (I) "Domestic violence" has the same meaning as set forth in
+25 section 14-10-124 (1.3) MEANS ONE OF THE FOLLOWING COMMITTED BY
+26 A PARTY, WHETHER OR NOT THE CONDUCT CONSTITUTES A CRIMINAL
+27 OFFENSE:
+-6- 1309
+
+1 (A) AN ACT OR THREATENED ACT OF PHYSICAL ASSAULT OR
+2 BODILY HARM AGAINST THE OTHER PARENT OR A FAMILY OR HOUSEHOLD
+3 MEMBER, INCLUDING A CHILD;
+4 (B) AN ACT OR THREATENED ACT OF DAMAGE TO PROPERTY
+5 BELONGING TO THE OTHER PARENT OR A FAMILY OR HOUSEHOLD MEMBER,
+6 INCLUDING A CHILD;
+7 (C) AN ACT OR THREATENED ACT OF PHYSICAL ASSAULT OR
+8 BODILY HARM AGAINST AN ANIMAL BELONGING TO THE OTHER PARENT OR
+9 A FAMILY OR HOUSEHOLD MEMBER, INCLUDING A CHILD;
+10 (D) STALKING;
+11 (E) SEXUAL ASSAULT;
+12
+13 (F) COERCIVE CONTROL;
+14
+15 (G) ECONOMIC ABUSE; OR
+16 (H) HUMAN TRAFFICKING.
+17 (II) "DOMESTIC VIOLENCE" DOES NOT MEAN BEHAVIORS THAT ARE
+18 USED BY A PARENT TO PROTECT THEMSELF; A FAMILY OR HOUSEHOLD
+19 MEMBER, INCLUDING A CHILD; OR PROPERTY, INCLUDING AN ANIMAL,
+20 FROM THE HARM OR RISK OF HARM PRESENTED BY THE OTHER PARENT.
+21
+22 (c.4) "INTIMATE RELATIONSHIP" MEANS A RELATIONSHIP BETWEEN
+23 SPOUSES, FORMER SPOUSES, PAST OR PRESENT UNMARRIED COUPLES, OR
+24 PERSONS WHO ARE BOTH PARENTS OF THE SAME CHILD, REGARDLESS OF
+25 WHETHER THE PERSONS HAVE BEEN MARRIED OR HAVE LIVED TOGETHER
+26 AT ANY TIME.
+27 (c.6) "SEXUAL ASSAULT" HAS THE MEANING SET FORTH IN SECTION
+-7- 1309
+
+1 19-1-103.
+2
+3 SECTION 3. In Colorado Revised Statutes, 14-10-124, amend
+4 (1.5)(a) introductory portion, (1.5)(a)(III.5), and (1.5)(b) introductory
+5 portion; repeal (1.3) and (4); and add (1.5)(c) and (1.6) as follows:
+6 14-10-124. Best interests of the child.
+7 (1.3) Definitions. For purposes of this section and section
+8 14-10-129 (2)(c), unless the context otherwise requires:
+9 (a) "Coercive control" means a pattern of threatening,
+10 humiliating, or intimidating actions, including assaults or other abuse,
+11 that is used to harm, punish, or frighten an individual. "Coercive control"
+12 includes a pattern of behavior that takes away the individual's liberty or
+13 freedom and strips away the individual's sense of self, including the
+14 individual's bodily integrity and human rights. "Coercive control"
+15 includes isolating the individual from support, exploiting the individual,
+16 depriving the individual of independence, and regulating the individual's
+17 everyday behavior. "Coercive control" includes, but is not limited to, any
+18 of the following:
+19 (I) Isolating the individual from friends and family;
+20 (II) Monitoring, surveilling, regulating, or controlling the
+21 individual's, or the individual's child's or relative's, finances, economic
+22 resources, or access to services;
+23 (III) Monitoring, surveilling, regulating, or controlling the
+24 individual's, or the individual's child's or relative's, activities,
+25 communications, or movements, including through technology;
+26 (IV) Name-calling, degrading, or demeaning the individual, or the
+27 individual's child or relative, on a frequent basis;
+-8- 1309
+
+1 (V) Threatening to harm or kill the individual or the individual's
+2 child or relative, including wearing, accessing, displaying, using, or
+3 cleaning a weapon in an intimidating or threatening manner;
+4 (VI) Threatening to commit suicide or otherwise harm one's own
+5 person, when used as a method of coercion, control, punishment,
+6 intimidation, or retaliation against the person;
+7 (VII) Threatening to harm or kill an animal with which the
+8 individual or the individual's child or relative has an emotional bond;
+9 (VIII) Threatening to publish the individual's, or the individual's
+10 child's or relative's, sensitive personal information, including sexually
+11 explicit material, or make reports to the police or authorities;
+12 (IX) Damaging the individual's, or the individual's child's or
+13 relative's, property or household goods;
+14 (X) Threatening the individual, or the individual's child or
+15 relative, with deportation or contacting authorities based on perceived or
+16 actual immigration status, withholding essential documents required for
+17 immigration, or threatening to withdraw or interfere with an active
+18 immigration application or process; or
+19 (XI) Forcing the individual, or the individual's child or relative,
+20 to take part in criminal activities or child abuse.
+21 (b) "Domestic violence" means an act of violence or a threatened
+22 act of violence upon a person with whom the actor is or has been
+23 involved in an intimate relationship, and may include any act or
+24 threatened act against a person or against property, including an animal,
+25 when used as a method of coercion, control, punishment, intimidation, or
+26 revenge directed against a person with whom the actor is or has been
+27 involved in an intimate relationship.
+-9- 1309
+
+1 (c) "Intimate relationship" means a relationship between spouses,
+2 former spouses, past or present unmarried couples, or persons who are
+3 both parents of the same child regardless of whether the persons have
+4 been married or have lived together at any time.
+5 (d) "Sexual assault" has the same meaning as set forth in section
+6 19-1-103.
+7
+8 (1.5) Allocation of parental responsibilities. The court shall
+9 determine the allocation of parental responsibilities, including parenting
+10 time and decision-making responsibilities, in accordance with the best
+11 interests of the child, giving paramount consideration to the child's safety
+12 and the physical, mental, and emotional conditions and needs of the child
+13 as follows:
+14 (a) Determination of parenting time. The court, upon the
+15 motion of either party or upon its own motion, may make provisions for
+16 parenting time that the court finds are in the best interests of the child,
+17 with the child's safety always paramount, unless the court finds, after a
+18 hearing, that parenting time by the party would endanger the child's
+19 physical health or significantly impair the child's emotional development.
+20 In addition to a finding that parenting time would endanger the child's
+21 physical health or significantly impair the child's emotional development,
+22 in any order imposing or continuing a parenting time restriction, the court
+23 shall enumerate the specific factual MAKE findings supporting IMPOSING
+24 the restriction, including findings related to domestic violence, child
+25 abuse OR NEGLECT, SEXUAL ASSAULT THAT RESULTED IN THE CONCEPTION
+26 OF A CHILD, and OR child sexual abuse, and may enumerate the conditions
+27 that the restricted party could fulfill in order to seek modification in the
+-10- 1309
+
+1 parenting plan. When a claim of child abuse or neglect, domestic
+2 violence, or sexual assault where there is also a claim that the child was
+3 conceived as a result of the sexual assault has been made to the court, or
+4 the court has reason to believe that a party has committed child abuse or
+5 neglect, domestic violence, or sexual assault where there is also a claim
+6 that the child was conceived as a result of the sexual assault, prior to
+7 determining parenting time, the court shall follow the provisions of
+8 subsection (4) of this section. In determining the best interests of the
+9 child for purposes of parenting time, the court shall consider all relevant
+10 factors, including:
+11 (III.5) Any report related to domestic violence that is submitted
+12 to the court by a child and family investigator, if one is appointed
+13 pursuant to section 14-10-116.5; a professional parental responsibilities
+14 evaluator, if one is appointed pursuant to section 14-10-127; or a legal
+15 representative of the child, if one is appointed pursuant to section
+16 14-10-116. The court may consider other testimony regarding domestic
+17 violence from the parties, experts, therapists for any parent or child, the
+18 department of human services, parenting time supervisors, school
+19 personnel, or other lay witnesses. FOR ANY EVIDENCE SUBMITTED TO THE
+20 COURT BY A PARTY, A CHILD AND FAMILY INVESTIGATOR APPOINTED
+21 PURSUANT TO SECTION 14-10-116.5, A PARENTAL RESPONSIBILITIES
+22 EVALUATOR APPOINTED PURSUANT TO SECTION 14-10-127, OR A LEGAL
+23 REPRESENTATIVE OF THE CHILD APPOINTED PURSUANT TO SECTION
+24 14-10-116 THAT A PARTY HAS COMMITTED DOMESTIC VIOLENCE, CHILD
+25 ABUSE OR NEGLECT, OR SEXUAL ASSAULT THAT RESULTED IN THE
+26 CONCEPTION OF A CHILD, THE COURT MAY CONSIDER ANY RELEVANT AND
+27 ADMISSIBLE EVIDENCE, INCLUDING TESTIMONY FROM THE PARTIES,
+-11- 1309
+
+1 EXPERTS, THERAPISTS FOR ANY PARENT OR CHILD, THE DEPARTMENT OF
+2 HUMAN SERVICES, PARENTING TIME SUPERVISORS, SCHOOL PERSONNEL, OR
+3 OTHER LAY WITNESSES. THE COURT SHALL MAKE FINDINGS ON THE
+4 RECORD BY A PREPONDERANCE OF THE EVIDENCE WHETHER A PARTY HAS
+5 COMMITTED DOMESTIC VIOLENCE, CHILD ABUSE OR NEGLECT, OR SEXUAL
+6 ASSAULT THAT RESULTED IN THE CONCEPTION OF A CHILD.
+7 (b) Allocation of decision-making responsibility. The court,
+8 upon the motion of either party or its own motion, shall allocate the
+9 decision-making responsibilities between the parties based upon the best
+10 interests of the child. In determining decision-making responsibility, the
+11 court may allocate the decision-making responsibility with respect to
+12 each issue affecting the child mutually between both parties or
+13 individually to one or the other party or any combination thereof. When
+14 a claim of child abuse or neglect or domestic violence has been made to
+15 the court, or the court has reason to believe that a party has committed
+16 child abuse or neglect, domestic violence, or sexual assault where there
+17 is also a claim that the child in question was conceived as a result of the
+18 sexual assault, prior to allocating decision-making responsibility, the
+19 court shall follow the provisions of subsection (4) of this section. In
+20 determining the best interests of the child for purposes of allocating
+21 decision-making responsibilities, the court shall consider, in addition to
+22 the factors set forth in paragraph (a) of this subsection (1.5) SUBSECTION
+23 (1.5) OF THIS SECTION, all relevant factors, including:
+24 (c) (I) IF A COURT DETERMINES BY A PREPONDERANCE OF THE
+25 EVIDENCE THAT A PARTY HAS COMMITTED DOMESTIC VIOLENCE, CHILD
+26 ABUSE OR NEGLECT, OR SEXUAL ASSAULT THAT RESULTED IN THE
+27 CONCEPTION OF A CHILD, IT IS NOT IN THE BEST INTERESTS OF THE CHILD
+-12- 1309
+
+1 TO ALLOCATE MUTUAL DECISION-MAKING RESPONSIBILITY OVER THE
+2 OBJECTION OF THE OTHER PARTY OR THE LEGAL REPRESENTATIVE OF THE
+3 CHILD UNLESS THE COURT MAKES SPECIFIC FINDINGS THAT MUTUAL
+4 DECISION-MAKING CAN OCCUR WITHOUT COERCION, INTIMIDATION,
+5 RETALIATION, OR RISK OF HARM TO THE ABUSED PARTY OR THE CHILD;
+6 AND
+7 (II) THE COURT SHALL NOT APPOINT A PARENTING COORDINATOR
+8 SOLELY TO ENSURE THAT MUTUAL DECISION-MAKING CAN BE
+9 ACCOMPLISHED.
+10 (1.6) (a) IF A COURT DETERMINES BY A PREPONDERANCE OF THE
+11 EVIDENCE THAT A PARTY HAS COMMITTED DOMESTIC VIOLENCE, CHILD
+12 ABUSE OR NEGLECT, OR SEXUAL ASSAULT THAT RESULTED IN THE
+13 CONCEPTION OF A CHILD, THE COURT SHALL CONSIDER AS THE PRIMARY
+14 CONCERN THE SAFETY AND WELL-BEING OF THE CHILD AND THE ABUSED
+15 PARTY. THE COURT SHALL IMPOSE CONDITIONS ON PARENTING TIME THAT
+16 ENSURE THE SAFETY OF THE CHILD AND ABUSED PARTY, GIVING
+17 PARAMOUNT CONSIDERATION TO THE SAFETY AND NEEDS OF THE CHILD
+18 AND ABUSED PARTY. THE PARENTING PLAN FOR A CASE DESCRIBED IN THIS
+19 SUBSECTION (1.6) MAY INCLUDE, BUT IS NOT LIMITED TO, THE FOLLOWING:
+20 (I) AN ORDER LIMITING CONTACT BETWEEN THE PARTIES TO
+21 CONTACT THAT THE COURT DEEMS IS SAFE AND THAT MINIMIZES
+22 UNNECESSARY COMMUNICATION BETWEEN THE PARTIES;
+23 (II) AN ORDER THAT REQUIRES THE EXCHANGE OF THE CHILD FOR
+24 PARENTING TIME TO OCCUR IN A PROTECTED SETTING DETERMINED BY THE
+25 COURT;
+26 (III) AN ORDER FOR SUPERVISED PARENTING TIME;
+27 (IV) AN ORDER RESTRICTING OVERNIGHT PARENTING TIME;
+-13- 1309
+
+1 (V) AN ORDER THAT RESTRICTS THE PARTY WHO HAS COMMITTED
+2 DOMESTIC VIOLENCE, CHILD ABUSE OR NEGLECT, OR SEXUAL ASSAULT
+3 THAT RESULTED IN THE CONCEPTION OF A CHILD FROM POSSESSING OR
+4 CONSUMING ALCOHOL, INTOXICATING SUBSTANCES, OR CONTROLLED
+5 SUBSTANCES DURING PARENTING TIME OR FOR TWENTY-FOUR HOURS
+6 PRIOR TO THE COMMENCEMENT OF PARENTING TIME;
+7 (VI) AN ORDER DIRECTING THAT THE ADDRESS OF THE CHILD OR
+8 OF ANY PARTY REMAIN CONFIDENTIAL;
+9 (VII) AN ORDER THAT IMPOSES ANY OTHER CONDITION ON ONE OR
+10 MORE PARTIES THAT THE COURT DETERMINES IS NECESSARY TO PROTECT
+11 THE SAFETY OF THE CHILD, ANOTHER PARTY, OR ANY OTHER FAMILY OR
+12 HOUSEHOLD MEMBER OF A PARTY; AND
+13 (VIII) AN ORDER THAT REQUIRES CHILD SUPPORT PAYMENTS TO
+14 BE MADE THROUGH THE CHILD SUPPORT REGISTRY TO AVOID THE NEED
+15 FOR ANY RELATED CONTACT BETWEEN THE PARTIES AND AN ORDER THAT
+16 THE PAYMENTS BE TREATED AS A NONDISCLOSURE OF INFORMATION CASE.
+17 (b) WHEN THE COURT FINDS BY A PREPONDERANCE OF THE
+18 EVIDENCE THAT ONE OF THE PARTIES HAS COMMITTED DOMESTIC
+19 VIOLENCE, CHILD ABUSE OR NEGLECT, OR SEXUAL ASSAULT THAT
+20 RESULTED IN THE CONCEPTION OF A CHILD, THE COURT MAY ORDER THE
+21 PARTY TO SUBMIT TO A DOMESTIC VIOLENCE EVALUATION AND ANY
+22 RECOMMENDED TREATMENT, AT THE SOLE EXPENSE OF THE PARTY. IF THE
+23 COURT DETERMINES, BASED UPON THE RESULTS OF THE EVALUATION,
+24 THAT TREATMENT IS APPROPRIATE, THE COURT MAY ORDER THE PARTY TO
+25 PARTICIPATE IN DOMESTIC VIOLENCE TREATMENT. AT ANY TIME, THE
+26 COURT MAY REQUIRE A SUBSEQUENT EVALUATION TO DETERMINE
+27 WHETHER ADDITIONAL TREATMENT IS NECESSARY. IF THE COURT AWARDS
+-14- 1309
+
+1 PARENTING TIME TO A PARTY WHO HAS BEEN ORDERED TO PARTICIPATE IN
+2 DOMESTIC VIOLENCE TREATMENT, THE COURT MAY ORDER THE PARTY TO
+3 OBTAIN A REPORT FROM THE TREATMENT PROVIDER CONCERNING THE
+4 PARTY'S PROGRESS IN TREATMENT AND ADDRESSING ANY ONGOING
+5 SAFETY CONCERNS REGARDING THE PARTY'S PARENTING TIME.
+6 (c) IF THE COURT FINDS BY A PREPONDERANCE OF THE EVIDENCE
+7 THAT A PARTY HAS COMMITTED DOMESTIC VIOLENCE, CHILD ABUSE OR
+8 NEGLECT, OR SEXUAL ASSAULT THAT RESULTED IN THE CONCEPTION OF A
+9 CHILD, THE COURT SHALL CONSIDER WHETHER IT IS IN THE BEST INTERESTS
+10 OF THE CHILD TO PROHIBIT OR RESTRICT THE PARENTING TIME OF THAT
+11 PARTY WITH THE CHILD.
+12 (d) IF A PARTY IS ABSENT OR LEAVES HOME BECAUSE OF DOMESTIC
+13 VIOLENCE, CHILD ABUSE OR NEGLECT, OR SEXUAL ASSAULT THAT
+14 RESULTED IN THE CONCEPTION OF A CHILD COMMITTED BY THE OTHER
+15 PARTY, THE ABSENCE OR LEAVING IS NOT A FACTOR IN DETERMINING THE
+16 BEST INTERESTS OF THE CHILD.
+17 (4) (a) When a claim of child abuse or neglect, domestic violence,
+18 or sexual assault where there is also a claim that the child was conceived
+19 as a result of the sexual assault has been made to the court, or the court
+20 has reason to believe that a party has committed child abuse or neglect,
+21 domestic violence, or sexual assault that resulted in the conception of the
+22 child, prior to allocating parental responsibilities, including parenting
+23 time and decision-making responsibility, and prior to considering the
+24 factors set forth in paragraphs (a) and (b) of subsection (1.5) of this
+25 section, the court shall consider the following factors:
+26 (I) Whether one of the parties has committed an act of child abuse
+27 or neglect as defined in section 18-6-401, C.R.S., or as defined under the
+-15- 1309
+
+1 law of any state, which factor must be supported by a preponderance of
+2 the evidence. If the court finds that one of the parties has committed child
+3 abuse or neglect, then it shall not be in the best interests of the child to
+4 allocate mutual decision-making with respect to any issue over the
+5 objection of the other party or the legal representative of the child.
+6 (II) Whether one of the parties has committed an act of domestic
+7 violence, has engaged in a pattern of domestic violence, or has a history
+8 of domestic violence, which factor must be supported by a preponderance
+9 of the evidence. If the court finds by a preponderance of the evidence that
+10 one of the parties has committed domestic violence:
+11 (A) It shall not be in the best interests of the child to allocate
+12 mutual decision-making responsibility over the objection of the other
+13 party or the legal representative of the child, unless the court finds that
+14 there is credible evidence of the ability of the parties to make decisions
+15 cooperatively in the best interest of the child in a manner that is safe for
+16 the abused party and the child; and
+17 (B) The court shall not appoint a parenting coordinator solely to
+18 ensure that mutual decision-making can be accomplished.
+19 (III) Whether one of the parties has committed an act of sexual
+20 assault resulting in the conception of the child, which factor must be
+21 supported by a preponderance of the evidence. If the court finds by a
+22 preponderance of the evidence that one of the parties has committed
+23 sexual assault and the child was conceived as a result of the sexual
+24 assault, there is a rebuttable presumption that it is not in the best interests
+25 of the child to allocate sole or split decision-making authority to the party
+26 found to have committed sexual assault or to allocate mutual
+27 decision-making between a party found to have committed sexual assault
+-16- 1309
+
+1 and the party who was sexually assaulted with respect to any issue.
+2 (IV) If one of the parties is found by a preponderance of the
+3 evidence to have committed sexual assault resulting in the conception of
+4 the child, whether it is in the best interests of the child to prohibit or limit
+5 the parenting time of that party with the child.
+6 (b) The court shall consider the additional factors set forth in
+7 paragraphs (a) and (b) of subsection (1.5) of this section in light of any
+8 finding of child abuse or neglect, domestic violence, or sexual assault
+9 resulting in the conception of a child pursuant to this subsection (4).
+10 (c) If a party is absent or leaves home because of an act or
+11 threatened act of domestic violence committed by the other party, such
+12 absence or leaving shall not be a factor in determining the best interests
+13 of the child.
+14 (d) When the court finds by a preponderance of the evidence that
+15 one of the parties has committed child abuse or neglect, domestic
+16 violence, or sexual assault resulting in the conception of the child, the
+17 court shall consider, as the primary concern, the safety and well-being of
+18 the child and the abused party.
+19 (e) When the court finds by a preponderance of the evidence that
+20 one of the parties has committed child abuse or neglect, domestic
+21 violence, or sexual assault resulting in the conception of the child, in
+22 formulating or approving a parenting plan, the court shall consider
+23 conditions on parenting time that ensure the safety of the child and
+24 abused party, giving paramount consideration to the safety and the
+25 physical, mental, and emotional conditions and needs of the child and
+26 abused party. In addition to any provisions set forth in subsection (7) of
+27 this section that are appropriate, the parenting plan in these cases may
+-17- 1309
+
+1 include, but is not limited to, the following provisions:
+2 (I) An order limiting contact between the parties to contact that
+3 the court deems is safe and that minimizes unnecessary communication
+4 between the parties;
+5 (II) An order that requires the exchange of the child for parenting
+6 time to occur in a protected setting determined by the court;
+7 (III) An order for supervised parenting time;
+8 (IV) An order restricting overnight parenting time;
+9 (V) An order that restricts the party who has committed domestic
+10 violence, sexual assault resulting in the conception of the child, or child
+11 abuse or neglect from possessing or consuming alcohol or controlled
+12 substances during parenting time or for twenty-four hours prior to the
+13 commencement of parenting time;
+14 (VI) An order directing that the address of the child or of any
+15 party remain confidential;
+16 (VII) An order that imposes any other condition on one or more
+17 parties that the court determines is necessary to protect the child, another
+18 party, or any other family or household member of a party; and
+19 (VIII) An order that requires child support payments to be made
+20 through the child support registry to avoid the need for any related
+21 contact between the parties and an order that the payments be treated as
+22 a nondisclosure of information case.
+23 (f) When the court finds by a preponderance of the evidence that
+24 one of the parties has committed domestic violence, the court may order
+25 the party to submit to a domestic violence evaluation. If the court
+26 determines, based upon the results of the evaluation, that treatment is
+27 appropriate, the court may order the party to participate in domestic
+-18- 1309
+
+1 violence treatment. At any time, the court may require a subsequent
+2 evaluation to determine whether additional treatment is necessary. If the
+3 court awards parenting time to a party who has been ordered to
+4 participate in domestic violence treatment, the court may order the party
+5 to obtain a report from the treatment provider concerning the party's
+6 progress in treatment and addressing any ongoing safety concerns
+7 regarding the party's parenting time. The court may order the party who
+8 has committed domestic violence to pay the costs of the domestic
+9 violence evaluations and treatment.
+10 SECTION 4. In Colorado Revised Statutes, 14-10-127.5, amend
+11 (3)(c) as follows:
+12 14-10-127.5. Domestic violence training for court personnel
+13 - expert testimony - child placement decisions - legislative declaration
+14 - definitions.
+15 (3) (c) If a court issues an order to remediate the resistance of a
+16 child to have contact with an accused A party FOUND BY THE COURT TO
+17 HAVE COMMITTED DOMESTIC VIOLENCE OR CHILD ABUSE, the order must
+18 primarily address the behavior of the accused party, who shall accept
+19 responsibility for the accused party's actions that negatively affected the
+20 accused party's relationship with the child, and a mental health
+21 professional approved by the domestic violence offender management
+22 board shall verify the accused party's behavior before the court orders a
+23 protective party to take steps to improve the relationship with the accused
+24 party ADDRESS THE PARTY'S BEHAVIOR. IN ORDER FOR A COURT TO ISSUE
+25 AN ORDER PURSUANT TO THIS SUBSECTION (3)(c), THE PARTY FOUND BY
+26 THE COURT TO HAVE COMMITTED DOMESTIC VIOLENCE OR CHILD ABUSE
+27 MUST:
+-19- 1309
+
+1 (I) DEMONSTRATE GENUINE ACCOUNTABILITY FOR COMMISSION
+2 OF DOMESTIC VIOLENCE AND ITS EFFECT ON THE OTHER PARENT OR
+3 ANOTHER PERSON, INCLUDING A CHILD;
+4 (II) DEMONSTRATE SUSTAINED BEHAVIORAL CHANGES THAT
+5 ADDRESS UNDERLYING PATTERNS OF POWER AND CONTROL;
+6 (III) COMPLY WITH THE COURT'S ORDER REGARDING INDIVIDUAL
+7 THERAPY IN ORDER TO EXERCISE PARENTING TIME, INCLUDING PROVIDING
+8 PERIODIC PROOF OF COMPLIANCE OF THE TREATMENT IF PROOF OF
+9 COMPLIANCE IS ORDERED BY THE COURT. INDIVIDUAL THERAPEUTIC
+10 TREATMENT MUST BE WITH A MENTAL HEALTH PROFESSIONAL WHO HAS:
+11 (A) A MASTER'S OR DOCTORAL DEGREE AND IS LICENSED
+12 PURSUANT TO ARTICLE 245 OF TITLE 12; AND
+13 (B) SPECIALIZED TRAINING AND EXPERTISE IN TREATING
+14 SURVIVORS AND PERPETRATORS OF DOMESTIC VIOLENCE AND CHILD
+15 ABUSE, AND THE EFFECTS OF DOMESTIC VIOLENCE AND CHILD ABUSE ON
+16 ADULTS AND CHILDREN; AND
+17 (IV) A PROGRAM DOES NOT MEET THE REQUIREMENTS OF THIS
+18 SUBSECTION (3)(c) IF IT IS NOT IN REAL-TIME, IS SELF-DIRECTED, OR IS AN
+19 ANGER MANAGEMENT COURSE.
+20 SECTION 5. In Colorado Revised Statutes, 14-10-128.1, amend
+21 (2)(b) as follows:
+22 14-10-128.1. Appointment of parenting coordinator -
+23 disclosure.
+24 (2) (b) In addition to making the findings required pursuant to
+25 subsection (2)(a) of this section, prior to appointing a parenting
+26 coordinator, the court may consider the effect of any claim FINDING or
+27 documented evidence of domestic violence as defined in section
+-20- 1309
+
+1 14-10-124, by the other party on the parties' ability to engage in parent
+2 coordination.
+3 SECTION 6. In Colorado Revised Statutes, 14-10-129, amend
+4 (2) introductory portion, (2)(c) introductory portion, and (2.5)(a)
+5 introductory portion as follows:
+6 14-10-129. Modification of parenting time.
+7 (2) The court shall not modify a prior order concerning parenting
+8 time that substantially changes the parenting time, as well as changes the
+9 party with whom the child resides a majority of the time, unless it finds,
+10 upon the basis of facts that have arisen since the prior decree or that were
+11 unknown to the court at the time of the prior decree, that a change has
+12 occurred in the circumstances of the child or the party with whom the
+13 child resides the majority of the time and that the modification is
+14 necessary to serve the best interests of the child. In applying these
+15 standards, the court shall retain the parenting time schedule established
+16 in the prior decree unless:
+17 (c) The party with whom the child resides a majority of the time
+18 is intending to relocate with the child to a residence that substantially
+19 changes the geographical ties between the child and the other party. A
+20 court hearing on any modification of parenting time due to an intent to
+21 relocate shall be given a priority on the court's docket. In determining
+22 whether the modification of parenting time is in the best interests of the
+23 child, the court shall take into account all relevant factors, including
+24 whether a party has committed an act of domestic violence, has engaged
+25 in a pattern of domestic violence, or has a history of domestic violence,
+26 as that term is defined in section 14-10-124 (1.3), which factor shall
+27 MUST be supported by a preponderance of the evidence, and shall
+-21- 1309
+
+1 consider such THE domestic violence whether it occurred before or after
+2 the prior decree, and all other factors enumerated in section 14-10-124
+3 (1.5)(a) and:
+4 (2.5) (a) When the court restricts a party's parenting time pursuant
+5 to section 19-5-105.5, C.R.S., or section 19-5-105.7, C.R.S., or section
+6 14-10-124 (4)(a)(IV) OR SECTION 14-10-124 (1.6), the court may make or
+7 modify an order granting or denying parenting time rights whenever such
+8 order or modification would serve the best interests of the child. Within
+9 thirty-five days after the filing of a verified motion by the restricted party
+10 seeking a modification of parenting time, the court shall determine from
+11 the verified motion, and response to the motion, if any, whether there has
+12 been a substantial and continuing change of circumstances such that the
+13 current parenting time orders are no longer in the child's best interests,
+14 including consideration of whether the restricted parent has satisfactorily
+15 complied with any conditions set forth by the court when the court
+16 imposed the restrictions on parenting time, and either:
+17 SECTION 7. In Colorado Revised Statutes, 8-13.3-503, amend
+18 (6) as follows:
+19 8-13.3-503. Definitions.
+20 As used in this part 5, unless the context otherwise requires:
+21 (6) "Domestic violence" means any conduct that constitutes
+22 "domestic violence" as set forth in section 18-6-800.3 (1) or section
+23 14-10-124 14-10-103 or "domestic abuse" as set forth in section
+24 13-14-101 (2).
+25 SECTION 8. In Colorado Revised Statutes, 13-80-103.6, amend
+26 (1) as follows:
+27 13-80-103.6. General limitation of actions - domestic violence
+-22- 1309
+
+1 - six years - definition.
+2 (1) Notwithstanding any other statute of limitations specified in
+3 this article 80, or any other provision of law that can be construed to
+4 reduce the statutory period set forth in this section, any civil action to
+5 recover damages caused by an act of domestic violence, as defined in
+6 section 14-10-124 SECTION 14-10-103, must be commenced within six
+7 years after a disability has been removed for a person under disability, as
+8 such THE term is defined in subsection (2) of this section, or within six
+9 years after a cause of action accrues, whichever occurs later, and not
+10 thereafter; except that in no event may any such civil action be
+11 commenced COMMENCE more than twenty years after the cause of action
+12 accrues.
+13 SECTION 9. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations
+16 for the support and maintenance of the departments of the state and state
+17 institutions.
+-23- 1309

@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0385.01 Jennifer Berman x3286 HOUSE BILL 26-1043
+House Committees Senate Committees
+Business Affairs & Labor Finance
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ADDRESS DISCRIMINATORY CONDUCT
+102 ENGAGED IN BY TRANSPORTATION NETWORK COMPANY DRIVERS
+103 IN PROVIDING SERVICES TO RIDERS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the public utilities commission (commission)
+may assess a civil penalty in an amount up to $550 against a
+transportation network company (TNC) if the TNC had written notice of
+a TNC driver's violation of certain prohibitions against discriminating
+against riders and the TNC failed to reasonably address the violation.
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,8
+yaM
+6202
+,6
+yaM
+6202
+,5
+yaM
+HOUSE SPONSORSHIP
+Rydin and Paschal, Bacon, Boesenecker, Brown, Clifford, Duran, English, Froelich,
+Jackson, Marshall, McCluskie, Nguyen, Ricks, Rutinel, Sirota, Story, Willford, Zokaie
+SENATE SPONSORSHIP
+Kipp,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Additionally, a driver is required to report to the TNC any refusal by the
+driver to provide services to a rider, and the TNC is required to annually
+report all such refusals to the commission.
+The bill removes the condition that a TNC first have written notice
+of a driver's violation of the discriminatory prohibitions before a civil
+penalty may be assessed against the TNC and increases the maximum
+civil penalty to $5,000. The bill also requires:
+! A TNC to provide monthly, rather than annual, reporting to
+the commission regarding drivers' refusal to provide
+services;
+! A TNC to provide a mechanism to allow a consumer to
+report a driver's refusal to provide transport to the
+consumer directly on the TNC's digital platform, which
+information must be included in the TNC's monthly report;
+and
+! The commission to anonymize the TNCs' monthly reports
+and make the anonymized reports available to the public.
+The commission may assess a civil penalty in an amount up to
+$5,000 for a TNC's failure to comply with the reporting requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 40-10.1-605, amend
+3 (7) and (9); and add (6)(e) and (11) as follows:
+4 40-10.1-605. Operational requirements - rules.
+5 (6) (e) EXCEPT FOR TRANSPORTATION NETWORK COMPANIES THAT
+6 PROVIDE A MAJORITY OF SERVICES FOR SCHOOL DISTRICTS OR SCHOOLS
+7 PURSUANT TO A CONTRACT REQUIRED BY SUBSECTION (1)(p) OF THIS
+8 SECTION:
+9 (I) A TRANSPORTATION NETWORK COMPANY SHALL MANDATE AND
+10 PROVIDE EDUCATION TO DRIVERS CONCERNING THE TRANSPORTATION OF
+11 RIDERS WITH SERVICE ANIMALS, INCLUDING EDUCATION ON THE
+12 PROHIBITION AGAINST DENYING A SERVICE ANIMAL FROM ACCOMPANYING
+13 A RIDER PURSUANT TO SUBSECTION (6)(c) OF THIS SECTION;
+14 (II) A DRIVER SHALL COMPLETE THE MANDATORY SERVICE ANIMAL
+-2- 1043
+
+1 EDUCATION NO LATER THAN SIX MONTHS AFTER THE DRIVER IS FIRST
+2 ONBOARDED ON THE TRANSPORTATION NETWORK COMPANY'S DIGITAL
+3 PLATFORM OR SIX MONTHS AFTER THE EFFECTIVE DATE OF THIS
+4 SUBSECTION (6)(e), WHICHEVER IS LATER;
+5 (III) A TRANSPORTATION NETWORK COMPANY MAY RESTRICT OR
+6 SUSPEND A DRIVER'S ACCESS TO ITS DIGITAL PLATFORM IF THE DRIVER
+7 FAILS TO COMPLETE THE MANDATORY SERVICE ANIMAL EDUCATION
+8 WITHIN THE SIX-MONTH PERIOD DESCRIBED IN SUBSECTION (6)(e)(II) OF
+9 THIS SECTION; AND
+10 (IV) AS SOON AS PRACTICABLE, A TRANSPORTATION NETWORK
+11 COMPANY SHALL ADOPT A POLICY THAT PROHIBITS UNLAWFUL
+12 DISCRIMINATION, AS DESCRIBED IN THIS SUBSECTION (6), AND SHALL:
+13 (A) PROVIDE THE POLICY TO EACH DRIVER ON THE
+14 TRANSPORTATION NETWORK COMPANY'S DIGITAL NETWORK; AND
+15 (B) POST THE POLICY ON THE TRANSPORTATION NETWORK
+16 COMPANY'S WEBSITE.
+17 (7) (a) A transportation network company is not liable for a
+18 driver's violation of subsection (6) of this section unless the driver's
+19 violation has been previously reported to the transportation network
+20 company in writing, and the transportation network company has failed
+21 to reasonably address the alleged violation. The commission shall afford
+22 a transportation network company the same due process rights afforded
+23 transportation providers in defending against THE COMMISSION SHALL
+24 TAKE INTO CONSIDERATION A TRANSPORTATION NETWORK COMPANY'S
+25 GOOD FAITH EFFORTS, INCLUDING EFFORTS DESCRIBED IN SUBSECTION (6),
+26 (9)(b), OR (9)(c) OF THIS SECTION, TO REMEDIATE A DRIVER'S FIRST
+27 VIOLATION OF SUBSECTION (6) OF THIS SECTION AND THE TOTAL NUMBER
+-3- 1043
+
+1 OF VIOLATIONS BY A TRANSPORTATION NETWORK COMPANY THAT HAVE
+2 OCCURRED IN THE PRECEDING TWELVE MONTHS IN DETERMINING WHETHER
+3 TO ASSESS CIVIL PENALTIES AND THE AMOUNT OF THE civil penalties
+4 assessed by the commission PURSUANT TO SUBSECTION (7)(b) OF THIS
+5 SECTION.
+6 (b) The commission may assess a civil penalty IN AN AMOUNT up
+7 to five hundred fifty ONE THOUSAND THREE HUNDRED dollars under this
+8 subsection (7) FOR A TRANSPORTATION NETWORK COMPANY'S VIOLATION
+9 OF SUBSECTION (6), (9)(b), OR (9)(c) OF THIS SECTION.
+10 (9) (a) A driver shall immediately report to the transportation
+11 network company any refusal to transport a passenger pursuant to
+12 paragraph (a) of subsection (6) SUBSECTION (6) of this section. and
+13 (b) The transportation network company shall annually report all
+14 such refusals ANY REFUSALS TO TRANSPORT IN VIOLATION OF SUBSECTION
+15 (6) OF THIS SECTION to the commission ON A MONTHLY BASIS in a form
+16 and manner determined by the commission; EXCEPT THAT A
+17 TRANSPORTATION NETWORK COMPANY THAT PROVIDES A MAJORITY OF
+18 SERVICES FOR SCHOOL DISTRICTS OR SCHOOLS PURSUANT TO A CONTRACT
+19 REQUIRED BY SUBSECTION (1)(p) OF THIS SECTION SHALL SUBMIT THE
+20 REPORTS ON A QUARTERLY BASIS.
+21 (c) EXCEPT FOR TRANSPORTATION NETWORK COMPANIES THAT
+22 PROVIDE A MAJORITY OF SERVICES FOR SCHOOL DISTRICTS OR SCHOOLS
+23 PURSUANT TO A CONTRACT REQUIRED BY SUBSECTION (1)(p) OF THIS
+24 SECTION, A TRANSPORTATION NETWORK COMPANY SHALL PROVIDE A
+25 MECHANISM TO ALLOW A CONSUMER TO REPORT DIRECTLY ON THE
+26 TRANSPORTATION NETWORK COMPANY'S DIGITAL PLATFORM A DRIVER'S
+27 REFUSAL TO TRANSPORT THE CONSUMER IN VIOLATION OF SUBSECTION (6)
+-4- 1043
+
+1 OF THIS SECTION. THE REPORTING MECHANISM MUST BE ACCESSIBLE AND
+2 EASILY NAVIGABLE ON THE DIGITAL PLATFORM. THE TRANSPORTATION
+3 NETWORK COMPANY SHALL INCLUDE ANY CONSUMER REPORTS RECEIVED
+4 PURSUANT TO THIS SUBSECTION (9)(c) IN THE TRANSPORTATION NETWORK
+5 COMPANY'S MONTHLY REPORTS SUBMITTED PURSUANT TO SUBSECTION
+6 (9)(b) OF THIS SECTION.
+7 (d) THE COMMISSION SHALL AGGREGATE AND ANONYMIZE THE
+8 DATA INCLUDED IN THE MONTHLY REPORTS SUBMITTED PURSUANT TO
+9 SUBSECTIONS (9)(b) AND (9)(c) OF THIS SECTION; INCLUDE IN THE
+10 AGGREGATED, ANONYMIZED MONTHLY REPORTS INFORMATION ON THE
+11 ANNUAL NUMBER OF REFUSALS TO TRANSPORT IN VIOLATION OF
+12 SUBSECTION (6) OF THIS SECTION AND THIS SUBSECTION (9), INCLUDING
+13 THE NUMBER OF INVESTIGATIONS AND REMEDIATIONS MADE; AND MAKE
+14 THE AGGREGATED, ANONYMIZED MONTHLY REPORTS AVAILABLE TO THE
+15 PUBLIC.
+16 (11) (a) EXCEPT AS PROVIDED IN SUBSECTIONS (11)(b) AND (11)(c)
+17 OF THIS SECTION, A TRANSPORTATION NETWORK COMPANY THAT PROVIDES
+18 SERVICES PURSUANT TO SUBSECTION (1)(p) OF THIS SECTION IS GOVERNED
+19 EXCLUSIVELY BY THE TERMS OF THE CONTRACT; THIS PART 6, EXCEPT
+20 WHEREIN A TRANSPORTATION NETWORK COMPANY THAT PROVIDES
+21 SERVICES PURSUANT TO SUBSECTION (1)(p) OF THIS SECTION IS EXPLICITLY
+22 EXEMPTED FROM A PROVISION OF THIS PART 6; AND RULES THAT THE
+23 COMMISSION ADOPTS PURSUANT TO THIS PART 6.
+24 (b) SUBSECTION (7) OF THIS SECTION DOES NOT APPLY TO
+25 TRANSPORTATION NETWORK COMPANY SERVICES PROVIDED PURSUANT TO
+26 SUBSECTION (1)(p) OF THIS SECTION, BUT APPLIES TO ALL OTHER
+27 TRANSPORTATION NETWORK COMPANY SERVICES.
+-5- 1043
+
+1 (c) THIS SUBSECTION (11) DOES NOT LIMIT A TRANSPORTATION
+2 NETWORK COMPANY'S OR A DRIVER'S OBLIGATIONS UNDER APPLICABLE
+3 STATE OR FEDERAL NONDISCRIMINATION OR PUBLIC ACCOMMODATION
+4 LAWS, INCLUDING PUBLIC ACCOMMODATION LIABILITY LAWS UNDER PART
+5 6 OF ARTICLE 34 OF TITLE 24, FOR DENIAL OF SERVICES OR OTHER
+6 PROHIBITED DISCRIMINATORY BEHAVIOR.
+7 SECTION 2. Act subject to petition - effective date -
+8 applicability. (1) This act takes effect January 1, 2027; except that, if a
+9 referendum petition is filed pursuant to section 1 (3) of article V of the
+10 state constitution against this act or an item, section, or part of this act
+11 within the ninety-day period after final adjournment of the general
+12 assembly, then the act, item, section, or part will not take effect unless
+13 approved by the people at the general election to be held in November
+14 2026 and, in such case, will take effect January 1, 2027, or on the date of
+15 the official declaration of the vote thereon by the governor, whichever is
+16 later.
+17 (2) This act applies to conduct occurring on or after the applicable
+18 effective date of this act.
+-6- 1043

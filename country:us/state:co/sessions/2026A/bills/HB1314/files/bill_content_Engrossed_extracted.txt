@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0703.01 Anna Petrini x5497 HOUSE BILL 26-1314
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING INCREASING FAMILY STABILITY, AND, IN CONNECTION
+102 THEREWITH, PRIORITIZING KINSHIP PLACEMENTS IN CERTAIN
+103 CIRCUMSTANCES AND FACILITATING GRANDPARENT CONTACT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+In disputes concerning parenting time, the bill adds payment of a
+monetary penalty to the aggrieved party, community service, and the use
+of court-approved parenting time tracking or communication tools to the
+list of orders a court may issue to address noncompliance with an existing
+parenting time order. The bill clarifies that orders in these disputes must ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,02
+lirpA
+HOUSE SPONSORSHIP
+English,
+SENATE SPONSORSHIP
+(None),
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+be proportionate to the frequency and severity of intentional
+noncompliance.
+The bill requires the state department of human services, in
+coordination with the county departments of human or social services
+(county departments) and their delegate child support enforcement units,
+to develop protocols for referring a noncustodial parent who is in
+compliance with a child support obligation to supervised or facilitated
+family-time services.
+When a child or youth is removed from the home, the bill requires
+the court to prioritize the child's or youth's temporary placement with a
+relative or kin, unless the court finds by a preponderance of the evidence
+that temporary placement with the relative or kin is not in the best
+interests of the child. The bill authorizes modified safety and suitability
+assessments and a one-time placement stipend for approved emergency
+placement kinship caregivers under certain circumstances.
+The bill requires a court, before entering a final adoption decree,
+to make written findings regarding any existing grandparent-grandchild
+relationship. The court may order a post-adoption contact agreement
+(agreement) granting reasonable contact or family time to the
+grandparent. The bill specifies procedures for the denial, modification,
+enforcement, or termination of the agreement.
+The bill creates the foster care prevention services pilot program,
+which allows participating county departments to implement expedited
+kinship placement approval pathways, kinship navigator programs,
+one-time placement stipends for approved emergency placement kinship
+caregivers, and tools for tracking family time.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Placing a child or youth who has been removed from their
+5 home in safe kinship care settings promotes family stability, speeds
+6 permanency, and yields better long-term outcomes, which may include
+7 safe and timely reunification of a child or youth with their parent; and
+8 (b) Kinship care providers play a critical role in securing child and
+9 youth well-being, contributing to a sense of continuity and normalcy.
+10 Similarly, post-adoption contact between a child and a grandparent can
+-2- 1314
+
+1 be an ongoing source of support, stability, and affection.
+2 (2) The general assembly finds, therefore, that targeted legislative
+3 reforms to prioritize kinship placements and preserve
+4 grandparent-grandchild relationships will promote the stability, safety,
+5 and well-being of children, youth, and families throughout the state.
+6 SECTION 2. In Colorado Revised Statutes, 14-10-124.4, amend
+7 (2)(a) and (2)(b) as follows:
+8 14-10-124.4. Family time for grandparents or
+9 great-grandparents - legislative declaration - definitions.
+10 (2) As used in this section, unless the context otherwise requires:
+11 (a) "Grandparent" means a person who is OR, IF THE CHILD'S
+12 FATHER OR MOTHER IS DECEASED, WAS the parent of a child's father or
+13 mother, who is related to the child by blood, in whole or by half,
+14 adoption, or marriage; except that "grandparent" does not include the
+15 parent of a child's legal father or mother whose parental rights have been
+16 terminated in accordance with sections 19-5-101 and 19-1-104 (1)(d).
+17 (b) "Great-grandparent" means a person who is OR, IF THE CHILD'S
+18 FATHER OR MOTHER OR GRANDPARENT IS DECEASED, WAS the grandparent
+19 of a child's father or mother, who is related to the child by blood, in whole
+20 or by half, adoption, or marriage; except that "great-grandparent" does not
+21 include the grandparent of a child's legal father or mother whose parental
+22 rights have been terminated in accordance with sections 19-5-101 and
+23 19-1-104 (1)(d).
+24 SECTION 3. In Colorado Revised Statutes, repeal 19-1-117.7.
+25 SECTION 4. In Colorado Revised Statutes, 19-3-403, amend
+26 (3.6)(a)(IV) introductory portion and (3.6)(a)(V) as follows:
+27 19-3-403. Temporary custody - hearing - time limits -
+-3- 1314
+
+1 restriction - rules.
+2 (3.6) (a) (IV) The court shall order a county department of human
+3 or social services to exercise due diligence AND DOCUMENT ITS DILIGENT
+4 EFFORTS to contact all grandparents and other adult relatives and
+5 identified kin within thirty days after the removal of the child or youth
+6 and to inform them about placement possibilities for the child or youth,
+7 unless the court determines there is good cause not to contact or good
+8 cause to delay contacting the child's or youth's relatives and kin,
+9 including, but not limited to, family or domestic violence.
+10 (V) (A) The court shall give preference to giving temporary
+11 placement to a child's or youth's relative or kin who is capable, willing,
+12 and available for care. giving primary consideration to the child's or
+13 youth's mental, physical, and emotional needs, including the child's or
+14 youth's preference regarding placement. PLACEMENT OF THE CHILD OR
+15 YOUTH WITH THE RELATIVE OR KIN IS PRESUMED TO BE IN THE BEST
+16 INTERESTS OF THE CHILD OR YOUTH. THE PRESUMPTION MAY BE REBUTTED
+17 BY A PREPONDERANCE OF THE EVIDENCE, GIVING PRIMARY
+18 CONSIDERATION TO THE CHILD'S OR YOUTH'S MENTAL, PHYSICAL, AND
+19 EMOTIONAL NEEDS, INCLUDING THE CHILD'S OR YOUTH'S PREFERENCE
+20 REGARDING PLACEMENT. The court shall also find that there is no suitable
+21 birth or adoptive parent available, with due diligence having been
+22 exercised in attempting to locate any such THE birth or adoptive parent.
+23 A parent's objection to placement with a particular relative or kin is not
+24 alone sufficient to show that the proposed placement would hinder
+25 reunification. The court may place or continue custody with the county
+26 department of human or social services if the court is satisfied from the
+27 information presented at the hearing that such THE custody is appropriate
+-4- 1314
+
+1 and in the child's or youth's best interests, or the court may enter such
+2 other orders as are appropriate.
+3 (B) The court may authorize the county department of human or
+4 social services with custody of a child or youth to place the child or youth
+5 with a relative or kin without the necessity for a hearing if a county
+6 department of human or social services locates a capable and willing
+7 relative or kin who is available to care for the child or youth and the
+8 guardian ad litem of the child or youth concurs that the placement is in
+9 the best interests of the child or youth. If the county department of human
+10 or social services places a child or youth with a relative or kin without a
+11 hearing pursuant to this subsection (3.6)(a)(V) SUBSECTION
+12 (3.6)(a)(V)(B), the county department of human or social services shall
+13 fully inform the court of the details concerning the child's or youth's
+14 placement on the record at the next hearing. If the court enters an order
+15 removing a child or youth from the home or continuing a child or youth
+16 in a placement out of the home, the court shall make the findings required
+17 pursuant to section 19-1-115 (6) if such THE findings are warranted by the
+18 evidence.
+19
+20 SECTION 5. Safety clause. The general assembly finds,
+21 determines, and declares that this act is necessary for the immediate
+22 preservation of the public peace, health, or safety or for appropriations for
+23 the support and maintenance of the departments of the state and state
+24 institutions.
+-5- 1314

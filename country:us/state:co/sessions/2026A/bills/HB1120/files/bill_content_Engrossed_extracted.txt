@@ -1,0 +1,385 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0440.01 Alison Killen x4350 HOUSE BILL 26-1120
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE IMPLEMENTATION OF THE RECOMMENDATIONS OF
+102 THE MOBILE HOME TAXATION TASK FORCE, AND, IN
+103 CONNECTION THEREWITH, MODIFYING THE PROCESS FOR THE
+104 COLLECTION OF DELINQUENT PROPERTY TAXES TO ALIGN WITH
+105 REAL PROPERTY TAX LIEN SALE AND PUBLIC AUCTION
+106 PROCEDURES, EXTENDING THE REDEMPTION PERIOD FOR
+107 MOBILE HOME OWNERS, AND CLARIFYING THAT A MOBILE HOME
+108 OWNER UNDER LEGAL DISABILITY IS ENTITLED TO AN EXTENDED
+109 REDEMPTION PERIOD OF UP TO NINE YEARS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,5
+hcraM
+HOUSE SPONSORSHIP
+Martinez and Velasco,
+SENATE SPONSORSHIP
+Simpson and Kipp,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The mobile home taxation task force (task force) was created in
+2024 to examine and make recommendations concerning constitutional
+defects in the process for collection of delinquent mobile home property
+taxes. The task force was also charged with studying existing laws for
+titling, tax valuation for assessment, and other mobile home tax-related
+issues and recommending changes to promote fair, equitable, efficient,
+and effective practices for valuation, titling, and taxation.
+Section 1 of the bill clarifies the definition of mobile home and
+increases, for property tax years commencing on or after January 1, 2027,
+the value threshold for the mobile home property tax exemption from
+$28,000 to $52,000, adjusted upward for inflation. For property tax years
+commencing on and after January 1, 2027, the property tax administrator
+is required to calculate and publish the inflation-adjusted actual value
+threshold for the exemption.
+Section 2 requires that notice of delinquent property taxes on a
+mobile home be written in English and at least the 5 additional languages
+most commonly spoken in the mobile home owner's community; except
+that, if the mobile home owner is known to speak a particular language
+other than English, notice must be provided in English and the particular
+language other than English spoken by the mobile home owner. This
+multilingual notice must be sent by certified mail and personally delivered
+to the mobile home.
+Section 3 modifies the process for collection of delinquent
+property taxes on a mobile home by eliminating the distraint sale of
+mobile homes and instead requiring a county treasurer to follow a tax lien
+sale and public auction procedure to obtain title to a mobile home similar
+to the procedures required to obtain a treasurer's deed to real property.
+Section 3 extends the redemption period for mobile home owners to a
+minimum of 3 years, plus any time prior to the issuance of a certificate of
+title to their mobile homes. Like a real property owner, an individual who
+both owns a mobile home and is a person with a disability is also allowed
+an extended redemption period of up to 9 years from the issuance of title
+to their mobile home if the owner is under a legal disability at the time the
+title is issued.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2
+3 SECTION 1. In Colorado Revised Statutes, 39-10-109, add (3)
+4 as follows:
+-2- 1120
+
+1 39-10-109. Delinquent tax list - notice.
+2 (3) (a) THE TREASURER SHALL PROVIDE NOTICE PURSUANT TO
+3 SUBSECTION (2) OF THIS SECTION AND ANY OTHER NOTICE OR STATEMENT
+4 REQUIRED BY LAW IN CONNECTION WITH THE COLLECTION OF DELINQUENT
+5 TAXES ON MOBILE HOMES, AS DESCRIBED IN SECTION 39-10-111.5 (1),
+6 WRITTEN IN ENGLISH AND AT LEAST FIVE ADDITIONAL LANGUAGES THAT
+7 ARE KNOWN TO BE MOST COMMONLY SPOKEN IN THE COUNTY; EXCEPT
+8 THAT, IF THE MOBILE HOME OWNER IS KNOWN TO SPEAK A PARTICULAR
+9 LANGUAGE OTHER THAN ENGLISH, NOTICE MUST BE PROVIDED PURSUANT
+10 TO SUBSECTION (2) OF THIS SECTION WRITTEN IN ENGLISH AND THE
+11 PARTICULAR LANGUAGE OTHER THAN ENGLISH SPOKEN BY THE MOBILE
+12 HOME OWNER.
+13 (b) THE TREASURER SHALL PROVIDE NOTICE WRITTEN IN
+14 ACCORDANCE WITH SUBSECTION (3)(a) OF THIS SECTION BY SENDING THE
+15 NOTICE BY CERTIFIED MAIL AND BY PERSONAL SERVICE TO THE MOBILE
+16 HOME OWNER AT THE MOBILE HOME, IN ACCORDANCE WITH SECTION
+17 39-10-111.5 (2)(a).
+18 SECTION 2. In Colorado Revised Statutes, 39-10-111.5, amend
+19 (2)(a), (3), (4), (5), and (6); add (6)(e) and (6)(f) and repeal (2)(b),
+20 (2)(c), and (7) as follows:
+21 39-10-111.5. Mobile homes - tax lien sale - redemption - public
+22 auction.
+23 (2) (a) Before May 31, 2024, COMMENCING ON AND AFTER JULY
+24 1, 2026, any time after the first day of October, the treasurer may enforce
+25 collection of delinquent taxes on mobile homes by commencing a court
+26 action for collection or employing a collection agency as provided in
+27 section 39-10-112 or by distraining, seizing, selling, OR STRIKING OFF TO
+-3- 1120
+
+1 THE COUNTY PURSUANT TO SUBSECTION (6)(e) A TAX LIEN ON THE MOBILE
+2 HOME.
+3 (b) When a mobile home upon which a distraint warrant has been
+4 issued or which is subject to such warrant by reason of delinquency has
+5 been removed to another county in the state, the treasurer of the county
+6 levying the tax shall issue a certificate to the treasurer of the county to
+7 which the mobile home has been removed, reciting the amount of taxes
+8 and delinquent interest unpaid and a description of the mobile home to be
+9 distrained.
+10 (c) The treasurer receiving such certificate shall proceed to
+11 distrain, seize, and sell OR STRIKE OFF TO THE COUNTY A TAX LIEN ON such
+12 mobile home in ACCORDANCE WITH THIS SECTION AND IN the same
+13 manner as if it were originally taxed in his or her THE TREASURER'S
+14 county. and if the treasurer proceeds, he or she THE TREASURER shall
+15 remit the net proceeds, after payment of any sheriff's fees and other costs
+16 of seizure and THE TAX LIEN sale, to the treasurer who certified the
+17 delinquency FOR DISTRIBUTION IN ACCORDANCE WITH THIS SECTION.
+18 (3) Whenever a mobile home is distrained and seized SUBJECT TO
+19 A TAX LIEN SALE, the treasurer, the treasurer's deputy, or an authorized
+20 agent of the treasurer shall deliver SEND to the owner of the mobile home,
+21 or to his or her agent, AT THE OWNER'S LAST-KNOWN ADDRESS, OR TO THE
+22 OCCUPANT OF THE MOBILE HOME, IF DIFFERENT FROM THE OWNER, and to
+23 any lienholder of record, a statement of the amount demanded and notice
+24 of the time and place fixed for the sale of the mobile home OF THE
+25 OWNER'S DELINQUENCY AND NOTICE THAT IF THE DELINQUENCY IS NOT
+26 PAID BY THE DATE SPECIFIED IN THE NOTICE, WHICH SHALL NOT BE LESS
+27 THAN SIXTY CALENDAR DAYS FROM THE DATE OF MAILING OF THE NOTICE,
+-4- 1120
+
+1 THE TREASURER WILL ADVERTISE AND SELL A TAX LIEN ON THE MOBILE
+2 HOME AT A PUBLIC AUCTION OR THE COUNTY'S ANNUAL TAX LIEN SALE OR
+3 WILL STRIKE OFF A TAX LIEN ON THE MOBILE HOME TO THE COUNTY ON
+4 THE DATE SPECIFIED IN THE NOTICE. A STATEMENT SENT TO THE OWNER OF
+5 THE MOBILE HOME PURSUANT TO THIS SUBSECTION (3) MUST COMPLY WITH
+6 THE REQUIREMENTS OF SECTION 39-11-102.
+7 (4) The treasurer in his or her discretion, may, AT THEIR
+8 DISCRETION, sell tax liens on mobile homes, or may strike off to the
+9 county the tax liens by declaring MAKING them county-held, OR MAY
+10 DETERMINE THE TAXES TO BE UNCOLLECTIBLE AND RECOMMEND
+11 CANCELLATION BY THE BOARD OF COUNTY COMMISSIONERS IN
+12 ACCORDANCE WITH SECTION 39-10-114 (2)(a). If a tax lien on a mobile
+13 home will be sold, the sale shall be in accordance with article 11 of this
+14 title 39. THE TREASURER SHALL ISSUE A CERTIFICATE OF PURCHASE AS
+15 PROVIDED IN SECTION 39-11-117 TO THE PURCHASER OF A TAX LIEN ON A
+16 MOBILE HOME OR TO THE COUNTY IF THE TAX LIEN ON A MOBILE HOME IS
+17 COUNTY-HELD.
+18 (5) Redemptions of mobile homes shall THAT ARE SUBJECT TO TAX
+19 LIENS PURSUANT TO SUBSECTION (4) OF THIS SECTION MUST be in
+20 accordance with article 12 SUBSECTION (6) OF THIS SECTION AND ARTICLES
+21 11.5 AND 12 of this title 39. except that, at the discretion of the treasurer,
+22 liens on mobile homes may be withheld from sales to investors.
+23 (6) (a) (I) A mobile home that is located on leased land or other
+24 land not owned by the owner of the mobile home, including, but not
+25 limited to, land that was previously owned by the owner of the mobile
+26 home and the ownership of which was subsequently acquired by
+27 foreclosure, and that is sold or stricken off to the county under the
+-5- 1120
+
+1 provisions of this section may be redeemed by the owner thereof within
+2 one year after the date of the sale EXCEPT AS PROVIDED IN SUBSECTION
+3 (6)(a)(II) OF THIS SECTION, A MOBILE HOME OWNER HAS THE EXCLUSIVE
+4 RIGHT TO REDEEM A MOBILE HOME THAT IS SUBJECT TO A TAX LIEN AT ANY
+5 TIME WITHIN THREE YEARS FROM THE DATE OF THE TAX LIEN SALE upon
+6 payment to the treasurer of the proceeds of the sale AMOUNT OF TAXES,
+7 DELINQUENT INTEREST, FEES, AND COSTS FOR WHICH THE TAX LIEN ON THE
+8 MOBILE HOME WAS SOLD, interest on such amount FROM THE DATE OF THE
+9 SALE at the rate that is determined pursuant to section 39-12-103 (3), and
+10 all taxes due and payable on the mobile home subsequent to the tax LIEN
+11 sale. except as provided in subsection (7) of this section AT ANY TIME
+12 WITHIN THREE YEARS FROM THE DATE OF THE TAX LIEN SALE, A MOBILE
+13 HOME OWNER MAY REDEEM A MOBILE HOME THAT IS SUBJECT TO THE TAX
+14 LIEN AT ANY TIME BEFORE THE EXECUTION OF A CERTIFICATE OF
+15 OWNERSHIP PURSUANT TO SUBSECTION (6)(c) OF THIS SECTION BY MAKING
+16 PAYMENT IN ACCORDANCE WITH THIS SUBSECTION (6)(a)(I). THE COUNTY
+17 MAY, IN ITS DISCRETION, REDUCE THE AMOUNT OF COSTS REQUIRED TO BE
+18 PAID BY THE MOBILE HOME OWNER FOR THE SALE OF A COUNTY-HELD TAX
+19 LIEN TO REDEEM THE MOBILE HOME PURSUANT TO THIS SUBSECTION
+20 (6)(a)(I).
+21 (II) A mobile home that is located on land owned by the owner of
+22 a mobile home and that is sold under the provisions of this section may
+23 be redeemed by the owner thereof within three years after the date of the
+24 sale upon payment to the treasurer of the proceeds of the sale, interest on
+25 such amount at the rate that is determined pursuant to section 39-12-103
+26 (3), and all taxes due and payable on the mobile home subsequent to the
+27 tax sale, except as provided in subsection (7) of this section.
+-6- 1120
+
+1 INDIVIDUAL WHO BOTH OWNS A MOBILE HOME AND IS A PERSON WITH A
+2 DISABILITY, AS DEFINED IN SECTION 39-3.7-101, AT THE TIME A
+3 CERTIFICATE OF OWNERSHIP TO THE OWNER'S MOBILE HOME IS ISSUED
+4 HAS THE RIGHT TO REDEEM THE MOBILE HOME AT ANY TIME WITHIN NINE
+5 YEARS FROM THE DATE OF ISSUANCE OF THE CERTIFICATE OF OWNERSHIP
+6 IN ACCORDANCE WITH SECTION 39-12-104.
+7 (b) UPON REDEMPTION PURSUANT TO SUBSECTION (6)(a) OF THIS
+8 SECTION, the treasurer shall return the proceeds of the sale, interest, and
+9 all taxes due and payable on the mobile home subsequent to the tax sale
+10 ISSUE A CERTIFICATE OF REDEMPTION AND DISBURSE THE REDEMPTION
+11 MONEY INCLUDING to the purchaser or lawful holder of the certificate of
+12 sale. On or before thirty days prior to the close of the redemption period,
+13 the treasurer shall notify the owner of the mobile home and any lienholder
+14 of record in the department of revenue and secretary of state, by personal
+15 delivery or by certified or registered mail to his or her last-known address,
+16 that a treasurer's certificate of ownership for the mobile home may be
+17 issued to the purchaser or lawful holder of the certificate of sale at the
+18 close of the redemption period unless such payment is made. Upon
+19 redemption, PURCHASE, IF APPLICABLE, IN ACCORDANCE WITH ARTICLE 12
+20 OF THIS TITLE 39. The treasurer shall notify the department of revenue that
+21 redemption has been made and thereafter release the tax sale lien filed
+22 against the mobile home.
+23 (c) If the owner has not exercised his or her THE right of
+24 redemption and after the close of the redemption period PURSUANT TO
+25 SUBSECTION (6)(a) OF THIS SECTION, AT ANY TIME AT LEAST THREE YEARS
+26 FROM THE DATE OF THE TAX LIEN SALE, the purchaser or lawful holder of
+27 the certificate of sale PURCHASE may apply to the treasurer for a
+-7- 1120
+
+1 treasurer's certificate of ownership for the mobile home. Upon receipt
+2 of such AN application, the treasurer shall issue NOTIFY THE OWNER OF
+3 THE MOBILE HOME AND ANY LIENHOLDER OF RECORD BY PERSONAL
+4 DELIVERY OR BY MAIL TO THE PERSON'S LAST-KNOWN ADDRESS, THAT
+5 AN APPLICATION FOR PUBLIC AUCTION OF A CERTIFICATE OF OPTION FOR
+6 TREASURER'S CERTIFICATE OF OWNERSHIP HAS BEEN RECEIVED AND THAT,
+7 FOLLOWING PUBLIC AUCTION, THE WINNING BIDDER MAY BE ISSUED A
+8 TREASURER'S CERTIFICATE OF OWNERSHIP FOR THE MOBILE HOME, UNLESS
+9 PAYMENT IS MADE FOR REDEMPTION. THE TREASURER SHALL CONDUCT A
+10 PUBLIC AUCTION OF a treasurer's certificate of ownership to such
+11 purchaser or holder, and such certificate of ownership shall transfer to
+12 him or her all right, title, and interest in and to the mobile home OPTION
+13 FOR TREASURER'S CERTIFICATE OF OWNERSHIP CONSISTENT WITH THE
+14 PROVISIONS FOR PUBLIC AUCTION, INCLUDING OVERBID, OF A CERTIFICATE
+15 OF OPTION FOR TREASURER'S DEED IN ARTICLE 11.5 OF THIS TITLE 39. Such
+16 certificate of ownership shall, upon application, entitle the purchaser or
+17 holder thereof to a certificate of title to be issued and filed pursuant to
+18 part 1 of article 6 of title 42.
+19 (d) THE TREASURER SHALL DISBURSE any surplus of the sale
+20 proceeds over and above the taxes, delinquent interest, and costs of
+21 making the seizure and advertising the sale of a mobile home shall be
+22 credited to the county general fund, and a written account of the sale shall
+23 be furnished to the owner RESULTING FROM THE PUBLIC AUCTION DEEMED
+24 OVERBID PROCEEDS, AS DEFINED IN SECTION 39-11.5-112, TO THE PERSONS
+25 ENTITLED TO RECEIVE THEM IN ACCORDANCE WITH STATUTE.
+26 (e) (I) (A) IF A MOBILE HOME THAT IS SUBJECT TO A TAX LIEN OR
+27 STRICKEN OFF TO THE COUNTY PURSUANT TO THIS SECTION IS LOCATED ON
+-8- 1120
+
+1 REAL PROPERTY THAT IS NOT OWNED BY THE OWNER OF THE MOBILE
+2 HOME, THE UNDERLYING LANDOWNER HAS A RIGHT OF FIRST REFUSAL TO
+3 PAY THE DELINQUENT TAXES OWED ON THE MOBILE HOME AND ALL
+4 STATUTORY FEES, COSTS, AND EXPENSES INCURRED BY THE TREASURER IN
+5 CONNECTION TO THE TAX LIEN SALE PROCESS.
+6 (B) FOR PURPOSES OF THIS SUBSECTION (6)(e), "UNDERLYING
+7 LANDOWNER" MEANS THE OWNER OF THE REAL PROPERTY UPON WHICH
+8 THE MOBILE HOME IS LOCATED.
+9 (II) NO MORE THAN THIRTY CALENDAR DAYS BUT NOT LESS THAN
+10 TEN CALENDAR DAYS PRIOR TO THE DATE OF THE TAX LIEN SALE PROVIDED
+11 FOR IN SUBSECTION (3) OF THIS SECTION, THE TREASURER SHALL SEND
+12 NOTICE BY MAIL TO THE UNDERLYING LANDOWNER AT THE ADDRESS
+13 SHOWN IN THE RECORDS OF THE COUNTY ASSESSOR OR TREASURER,
+14 INCLUDING, AT A MINIMUM:
+15 (A) THE AMOUNT OF DELINQUENT TAXES, FEES, COSTS, AND
+16 EXPENSES DUE IN CONNECTION WITH THE MOBILE HOME;
+17 (B) THE TIME, DATE, AND PLACE OF THE TAX LIEN SALE; AND
+18 (C) THE UNDERLYING LANDOWNER'S RIGHT OF FIRST REFUSAL
+19 UNDER SUBSECTION (6)(e)(I) OF THIS SECTION.
+20 (III) AN UNDERLYING LANDOWNER MAY EXERCISE THE
+21 LANDOWNER'S RIGHT OF FIRST REFUSAL BY PAYING TO THE TREASURER
+22 THE FULL AMOUNT DESCRIBED IN THE SUBSECTION (6)(e)(II)(A) OF THIS
+23 SECTION NO LATER THAN TWO BUSINESS DAYS PRIOR TO THE DATE OF THE
+24 TAX LIEN SALE.
+25 (IV) IF AN UNDERLYING LANDOWNER EXERCISES THEIR RIGHT OF
+26 FIRST REFUSAL PURSUANT TO SUBSECTION (6)(e)(III) OF THIS SECTION THE
+27 TREASURER SHALL:
+-9- 1120
+
+1 (A) CANCEL THE TAX LIEN SALE;
+2 (B) ISSUE TO THE UNDERLYING LANDOWNER EVIDENCE OF
+3 PAYMENT AND SATISFACTION OF THE DELINQUENT TAXES AND COSTS; AND
+4 (C) ISSUE A CERTIFICATE OF PURCHASE TO THE UNDERLYING
+5 LANDOWNER PURSUANT TO SECTION 39-11-117, EVIDENCING
+6 SATISFACTION OF THE DELINQUENT TAXES AND COSTS.
+7 (V) IF AN UNDERLYING LANDOWNER DOES NOT EXERCISE THEIR
+8 RIGHT OF FIRST REFUSAL, THE TREASURER SHALL PROCEED WITH THE TAX
+9 LIEN SALE OR COUNTY STRIKE OFF AS OTHERWISE PROVIDED IN THIS
+10 SECTION.
+11 (VI) THIS SUBSECTION (6)(e) DOES NOT CREATE A RIGHT OF FIRST
+12 REFUSAL FOR ANY PERSON OTHER THAN THE UNDERLYING LANDOWNER
+13 AND DOES NOT AFFECT THE RIGHTS OF SECURED PARTIES OR LIENHOLDERS,
+14 IF ANY, EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION.
+15 (f) (I) IF THE TREASURER DOES NOT ISSUE A CERTIFICATE OF
+16 PURCHASE FOR A TAX LIEN ON A MOBILE HOME PURSUANT TO SUBSECTION
+17 (4) OF THIS SECTION, OR IF THE PURCHASER OR LAWFUL HOLDER OF A
+18 CERTIFICATE OF PURCHASE OR THE OWNER OF THE MOBILE HOME IS
+19 UNABLE TO OBTAIN A CERTIFICATE OF TITLE PURSUANT TO SECTION
+20 42-6-117 DUE TO THE LACK OF PROOF OF OWNERSHIP OR FAILURE TO
+21 SATISFY BONDING REQUIREMENTS, THE TREASURER MAY DECLARE THE
+22 TAX LIEN STRICKEN OFF TO THE COUNTY.
+23 (II) EXCEPT AS PROVIDED IN SUBSECTION (6)(f)(IV) OF THIS
+24 SECTION, WHEN A TAX LIEN IS STRICKEN OFF TO THE COUNTY PURSUANT
+25 TO THIS SUBSECTION (6)(f), THE MOST RECENT MOBILE HOME OWNER MAY
+26 REDEEM THE MOBILE HOME AFTER ONE YEAR BUT NO LATER THAN THREE
+27 YEARS FROM THE DATE OF STRIKE OFF BY PAYING THE AMOUNT OF
+-10- 1120
+
+1 DELINQUENT TAXES, INTEREST, FEES, AND COSTS.
+2 (III) IF THE OWNER DOES NOT REDEEM THE MOBILE HOME WITHIN
+3 THE THREE-YEAR REDEMPTION PERIOD AND AFTER NOTICE TO THE
+4 LAST-KNOWN OWNER AND ANY LIENHOLDER OF RECORD IN ACCORDANCE
+5 WITH SECTION 39-10-109 AND PROVIDING AN OPPORTUNITY TO BE HEARD,
+6 THE TREASURER OR COUNTY ASSESSOR MAY DECLARE THE MOBILE HOME
+7 ABANDONED FOR PURPOSES OF THIS SECTION. UPON THIS DECLARATION,
+8 THE ASSESSOR MAY REMOVE THE MOBILE HOME FROM THE COUNTY TAX
+9 ROLL AND THE TREASURER MAY AUTHORIZE THE UNDERLYING
+10 LANDOWNER OR THE COUNTY TO REMOVE AND DISPOSE OF THE MOBILE
+11 HOME IN ACCORDANCE WITH COUNTY ABANDONED PROPERTY
+12 PROCEDURES.
+13 (IV) (A) IF AN OCCUPANT OF A MOBILE HOME ESTABLISHES PROOF
+14 OF OWNERSHIP, BUT THEIR OWNERSHIP IS NOT OF RECORD, THEN THE
+15 REDEMPTION PERIOD FOR THE MOST RECENT MOBILE HOME OWNER IS THE
+16 ONE-YEAR PERIOD PROVIDED BY LAW. IF THE MOBILE HOME HAS NOT BEEN
+17 REDEEMED, THE TREASURER MAY ISSUE THE OCCUPANT A CERTIFICATE OF
+18 OWNERSHIP FOR THE MOBILE HOME. THE CERTIFICATE OF OWNERSHIP
+19 CONSTITUTES SUFFICIENT EVIDENCE OF OWNERSHIP FOR PURPOSES OF
+20 OBTAINING A CERTIFICATE OF TITLE PURSUANT TO SECTION 42-6-117,
+21 WITHOUT A REQUIREMENT FOR ADDITIONAL PUBLIC NOTICE OR A PUBLIC
+22 AUCTION PROCESS. A CERTIFICATE OF OWNERSHIP ISSUED TO AN
+23 OCCUPANT HAS THE SAME LEGAL EFFECT AS A TITLE ISSUED PURSUANT TO
+24 SECTION 39-11.5.-115. THE TREASURER MAY COLLECT A FEE AS
+25 AUTHORIZED BY SECTION 42-4-510 (2)(a).
+26 (B) FOR PURPOSES OF THIS SUBSECTION (6)(f), "OCCUPANT" MEANS
+27 A PERSON RESIDING IN A MOBILE HOME AS THEIR PRIMARY RESIDENCE AS
+-11- 1120
+
+1 ESTABLISHED BY AT LEAST TWO DOCUMENTS, INCLUDING A CURRENT
+2 UTILITY BILL FOR SERVICE TO THE MOBILE HOME IN THE OCCUPANT'S
+3 NAME; A CURRENT GOVERNMENT-ISSUED IDENTIFICATION DOCUMENT
+4 LISTING THE MOBILE HOME AS PHYSICAL ADDRESS; A CURRENT LEASE, LOT
+5 RENTAL AGREEMENT, OR WRITTEN PERMISSION FROM THE UNDERLYING
+6 LANDOWNER; OFFICIAL MAIL TO THE OCCUPANT AT THE MOBILE HOME
+7 ADDRESS; OR, A SWORN AFFIDAVIT OF OCCUPANCY SIGNED UNDER
+8 PENALTY OF PERJURY.
+9 (C) A PERSON WHO FAILS TO ESTABLISH THAT THEY ARE THE
+10 OCCUPANT OF THE MOBILE HOME IN ACCORDANCE WITH THE
+11 REQUIREMENTS OF SUBSECTION (6)(f)(IV)(B) OF THIS SECTION MAY NOT
+12 ASSERT ANY RIGHT AS AN OCCUPANT PURSUANT TO THIS SUBSECTION
+13 (6)(f).
+14 (7) Where a mobile home has been declared to be purchased by
+15 or stricken off to the county at the tax sale and where the actual value of
+16 the mobile home as shown on the assessment roll has been determined by
+17 the assessor to be less than one thousand dollars, the redemption period
+18 for such mobile home shall be sixty days. The assessor's determination of
+19 value shall be deemed accurate absent a showing of negligence on the
+20 part of the assessor. On or before ten days prior to the close of the
+21 redemption period, the treasurer shall notify the owner of the mobile
+22 home and any lienholder of record in the department of revenue and
+23 secretary of state, by personal delivery or by certified or registered mail
+24 to the last-known address, that the mobile home may be declared
+25 condemned and may be disposed of at the end of the redemption period.
+26 The treasurer has the authority to so declare a mobile home condemned
+27 after the redemption period has terminated. After the titled mobile home
+-12- 1120
+
+1 is declared condemned, it may be disposed of as the treasurer deems
+2 appropriate.
+3 SECTION 3. Safety clause. The general assembly finds,
+4 determines, and declares that this act is necessary for the immediate
+5 preservation of the public peace, health, or safety or for appropriations for
+6 the support and maintenance of the departments of the state and state
+7 institutions.
+-13- 1120

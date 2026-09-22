@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0106.01 Christopher McMichael x4775 HOUSE BILL 26-1278
+HOUSE SPONSORSHIP
+Richardson, Brooks, Caldwell, Garcia, Goldstein, Hartsook, Johnson, Mauro, Paschal,
+Soper, Titone, Winter T., Woog
+SENATE SPONSORSHIP
+Pelton R. and Snyder, Cutter, Frizell, Hinrichsen, Marchman
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING THE PRESERVATION OF LOCAL LAND USE AUTHORITY BY
+102 REQUIRING LOCAL GOVERNMENT APPROVAL BEFORE AN
+103 INVESTOR-OWNED ELECTRIC UTILITY MAY COMMENCE A
+104 CONDEMNATION PROCEEDING FOR HIGH-VOLTAGE
+105 TRANSMISSION INFRASTRUCTURE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires that an investor-owned electric utility receive a
+certificate of public convenience and necessity (certificate) from the
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+public utilities commission and obtain all necessary local government
+land use approvals and permits prior to initiating any condemnation
+proceedings related to a high-voltage transmission infrastructure project
+requiring the certificate.
+The bill does not change existing application and review processes
+related to the development of transmission projects that have been
+established by the public utilities commission or a relevant local
+government.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Projects built by public utilities fulfill an essential public need,
+5 supporting the health, safety, economic prosperity, and welfare of
+6 Coloradans by ensuring access to electricity, gas, water, and
+7 telecommunications services;
+8 (b) Individual property rights are fundamental to our constitutional
+9 order, protected by the fifth amendment of the United States constitution
+10 and section 15 of article II of the state constitution, which states that
+11 "[p]rivate property shall not be taken or damaged, for public or private
+12 use, without just compensation";
+13 (c) These constitutional provisions prohibit the taking of private
+14 property for speculative or undefined public uses, ensuring that
+15 condemnations are necessary, justified, and executed with due process;
+16 (d) Under Colorado law, investor-owned electric utilities that hold
+17 a certificate of public convenience and necessity issued by the public
+18 utilities commission may initiate condemnation proceedings prior to
+19 obtaining all required local government land use permits and approvals,
+20 which creates circumstances in which private property is condemned
+21 without certainty that the property is necessary for a final, approved
+-2- HB26-1278
+
+1 project;
+2 (e) Speculative acquisitions of property via condemnation
+3 undermine constitutional protections, burden landowners, and erode
+4 public trust in both government and utility providers;
+5 (f) Local governments exercise their land use powers to regulate
+6 development in harmony with local needs, environmental stewardship,
+7 and community priorities. Preserving these powers ensures that
+8 investor-owned electric utility projects are implemented with full
+9 consideration of local impacts while serving statewide and regional public
+10 needs.
+11 (g) Therefore, it is the intent of the general assembly to protect
+12 private property rights, uphold constitutional takings standards, and
+13 reinforce local government land use authority by clarifying that no
+14 condemnation action taken by an investor-owned electric utility may
+15 occur until final approval of the project, including local government
+16 authorization, has been granted.
+17 SECTION 2. In Colorado Revised Statutes, add 40-5-101.3 as
+18 follows:
+19 40-5-101.3. Construction of electric transmission
+20 infrastructure - certificate of public convenience and necessity -
+21 eminent domain - approval by local government - definitions.
+22 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+23 REQUIRES:
+24 (a) "INVESTOR-OWNED ELECTRIC UTILITY" OR "UTILITY" MEANS AN
+25 INVESTOR-OWNED UTILITY THAT PROVIDES RETAIL ELECTRIC SERVICE AND
+26 IS REGULATED BY THE COMMISSION.
+27 (b) "LOCAL GOVERNMENT" MEANS A COUNTY, HOME RULE OR
+-3- HB26-1278
+
+1 STATUTORY CITY, TOWN, TERRITORIAL CHARTER CITY, OR CITY AND
+2 COUNTY.
+3 (c) "TRANSMISSION INFRASTRUCTURE" MEANS HIGH-VOLTAGE
+4 TRANSMISSION INFRASTRUCTURE THAT EXCEEDS ONE HUNDRED
+5 KILOVOLTS AND IS OWNED AND OPERATED BY AN INVESTOR-OWNED
+6 ELECTRIC UTILITY.
+7 (2) A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY
+8 ISSUED BY THE COMMISSION PURSUANT TO THIS ARTICLE 5 DOES NOT
+9 CONFER THE POWER OF EMINENT DOMAIN UPON AN INVESTOR-OWNED
+10 ELECTRIC UTILITY UNLESS AND UNTIL:
+11 (a) ALL LOCAL GOVERNMENT LAND USE PERMITS AND APPROVALS
+12 REQUIRED FOR THE TRANSMISSION INFRASTRUCTURE HAVE BEEN ISSUED
+13 BY THE RELEVANT ENTITIES OF THE LOCAL GOVERNMENT WHERE THE
+14 TRANSMISSION INFRASTRUCTURE WILL BE LOCATED; AND
+15 (b) ANY TAKING OR DAMAGING OF PRIVATE PROPERTY FOR THE
+16 TRANSMISSION INFRASTRUCTURE IS CONDUCTED CONSISTENT WITH
+17 SECTION 15 OF ARTICLE II OF THE STATE CONSTITUTION TO ENSURE JUST
+18 COMPENSATION AND PROHIBIT SPECULATIVE TAKING OF PRIVATE
+19 PROPERTY.
+20 (3) (a) AN INVESTOR-OWNED ELECTRIC UTILITY THAT HAS
+21 RECEIVED A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FROM
+22 THE COMMISSION FOR TRANSMISSION INFRASTRUCTURE SHALL NOT
+23 INITIATE CONDEMNATION PROCEEDINGS FOR ANY PROPERTY RELATED TO
+24 THE INFRASTRUCTURE UNLESS AND UNTIL THE INVESTOR-OWNED ELECTRIC
+25 UTILITY OBTAINS:
+26 (I) ALL LOCAL GOVERNMENT LAND USE PERMITS AND APPROVALS
+27 ISSUED BY THE LOCAL GOVERNMENT WHERE THE TRANSMISSION
+-4- HB26-1278
+
+1 INFRASTRUCTURE WILL BE LOCATED; AND
+2 (II) CONFIRMATION OF THE FINAL APPROVED PROJECT DESIGN
+3 FROM THE LOCAL GOVERNMENT SUCH THAT THE SPECIFIC PROPERTY
+4 REQUIRED FOR THE TRANSMISSION INFRASTRUCTURE IS IDENTIFIED AND
+5 ANY TAKING OR DAMAGING OF PRIVATE PROPERTY REQUIRED FOR THE
+6 TRANSMISSION INFRASTRUCTURE IS CONDUCTED CONSISTENT WITH
+7 SECTION 15 OF ARTICLE II OF THE STATE CONSTITUTION.
+8 (b) IF THE TRANSMISSION INFRASTRUCTURE WILL BE LOCATED
+9 WITHIN THE JURISDICTION OF MULTIPLE LOCAL GOVERNMENTS, THE
+10 INVESTOR-OWNED ELECTRIC UTILITY SHALL MEET THE REQUIREMENTS OF
+11 SUBSECTION (2) OF THIS SECTION AND THIS SUBSECTION (3) FOR EACH
+12 SPECIFIC LOCAL GOVERNMENT JURISDICTION WHERE THE TRANSMISSION
+13 INFRASTRUCTURE WILL BE LOCATED BEFORE INITIATING A CONDEMNATION
+14 PROCEEDING RELATED TO THE TRANSMISSION INFRASTRUCTURE WITHIN A
+15 SPECIFIC LOCAL GOVERNMENT JURISDICTION THAT HAS NOT YET APPROVED
+16 THE TRANSMISSION INFRASTRUCTURE.
+17 (4) THE ISSUANCE OF A CERTIFICATE OF PUBLIC CONVENIENCE AND
+18 NECESSITY BY THE COMMISSION PURSUANT TO THIS ARTICLE 5 DOES NOT
+19 RELIEVE AN INVESTOR-OWNED ELECTRIC UTILITY FROM THE UTILITY'S
+20 OBLIGATION TO OBTAIN ALL NECESSARY LOCAL GOVERNMENT LAND USE
+21 PERMITS AND APPROVALS PRIOR TO EXERCISING THE UTILITY'S EMINENT
+22 DOMAIN AUTHORITY.
+23 (5) THIS SECTION SHALL NOT IMPACT OR DELAY EXISTING
+24 APPLICATION REVIEW PROCESSES OR TIMELINES ESTABLISHED BY THE
+25 COMMISSION OR A RELEVANT LOCAL GOVERNMENT.
+26 SECTION 3. In Colorado Revised Statutes, 29-20-108, add (8)
+27 as follows:
+-5- HB26-1278
+
+1 29-20-108. Local government regulation - location,
+2 construction, or improvement of major electrical or natural gas
+3 facilities - powerline trail notification - expedited review for certain
+4 transmission line projects - transmission infrastructure exception -
+5 legislative declaration - definitions.
+6 (8) (a) THIS SECTION DOES NOT APPLY TO LOCAL GOVERNMENT
+7 LAND USE PERMITS AND APPROVALS REQUIRED FOR INVESTOR-OWNED
+8 ELECTRIC UTILITIES' TRANSMISSION INFRASTRUCTURE, AS GOVERNED BY
+9 SECTION 40-5-101.3.
+10 (b) AS USED IN THIS SUBSECTION (8):
+11 (I) "INVESTOR-OWNED ELECTRIC UTILITY" HAS THE MEANING SET
+12 FORTH IN SECTION 40-5-101.3 (1)(a).
+13 (II) "TRANSMISSION INFRASTRUCTURE" HAS THE MEANING SET
+14 FORTH IN SECTION 40-5-101.3 (1)(c).
+15 SECTION 4. Act subject to petition - effective date -
+16 applicability. (1) This act takes effect January 1, 2027; except that, if a
+17 referendum petition is filed pursuant to section 1 (3) of article V of the
+18 state constitution against this act or an item, section, or part of this act
+19 within the ninety-day period after final adjournment of the general
+20 assembly, then the act, item, section, or part will not take effect unless
+21 approved by the people at the general election to be held in November
+22 2026 and, in such case, will take effect January 1, 2027, or on the date of
+23 the official declaration of the vote thereon by the governor, whichever is
+24 later.
+25 (2) This act applies to condemnation proceedings initiated on or
+26 after the applicable effective date of this act.
+-6- HB26-1278

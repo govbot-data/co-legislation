@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0863.01 Brita Darling x2241 HOUSE BILL 26-1336
+HOUSE SPONSORSHIP
+Lindsay and Winter T.,
+SENATE SPONSORSHIP
+Pelton R.,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO INCREASE ACCESS TO PHARMACY
+102 SERVICES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, a pharmacist may receive reimbursement under
+a health benefit plan and under the medical assistance program (medicaid)
+for health-care services provided pursuant to a collaborative pharmacy
+practice agreement. If certain conditions are met, the bill requires health
+benefit plans that provide hospital, surgical, or medical expense insurance
+to provide coverage for health-care services provided by a pharmacist that
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+are within the pharmacist's scope of practice. Similarly, under medicaid,
+the bill authorizes reimbursement for services that are within a
+pharmacist's scope of practice and not duplicative of other pharmacist
+services or programs reimbursed by medicaid.
+Further, solely on the basis of the type of license or certification,
+a health benefit plan or health insurance carrier shall not discriminate
+against a pharmacist who is acting within the scope of the pharmacist's
+license or certification under state law, with respect to participation,
+referral, reimbursement of covered services, or indemnification, or
+prohibit a pharmacist from membership in a provider's network.
+The bill makes changes to the definitions in the pharmacy practice
+statutes to include a definition for "final product verification", which is
+defined as a physical verification process for drug, device, or product
+orders filled through a pharmacy's electronic system after initial fill by a
+technician or other automated technology. Final product verification may
+be delegated by a supervising pharmacist to a certified pharmacy
+technician or pharmacy intern. The process requires a pharmacy or other
+outlet to have a continuous quality assessment system in place to
+periodically verify the accuracy of the final drug, device, or product. A
+pharmacy intending to implement a final product verification program
+shall create a plan for final product verification, including how
+pharmacists' hours will be maintained to provide direct patient care. The
+state board of pharmacy is required to adopt rules relating to final product
+verification.
+Under current law, a pharmacist has independent prescriptive
+authority for drugs that are not controlled substances, drug categories, or
+devices that are prescribed to patients who are at least 12 years old, if
+certain conditions are met. The bill also adds to the definition of the
+"practice of pharmacy" to include independent prescriptive authority for
+drugs that are not controlled substances, drug categories, or devices that
+are prescribed to patients younger than 12 years old for conditions that do
+not require a new diagnosis, that are minor and self-limiting, or that have
+a test that guides diagnosis and are not medications that may only be
+prescribed pursuant to a certified education program and a limited
+distribution network.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-16-144, amend
+3 (1) introductory portion, (1)(a), and (2) as follows:
+4 10-16-144. Health-care services provided by pharmacists.
+5 (1) Any A health benefit plan, except supplemental policies
+-2- HB26-1336
+
+1 covering a specified disease or other limited benefit, that provides
+2 hospital, surgical, or medical expense insurance may MUST provide
+3 coverage for health-care services under a specific treatment protocol
+4 provided by a pharmacist if:
+5 (a) The pharmacist meets the requirements in part 6 of article 280
+6 of title 12 IS PROVIDING SERVICES THAT ARE WITHIN THE PHARMACIST'S
+7 SCOPE OF PRACTICE UNDER ARTICLE 280 OF TITLE 12;
+8 (2) (a) A health benefit plan described in subsection (1) of this
+9 section shall provide coverage for health-care services provided by a
+10 pharmacist within a health professional shortage area, as defined in 42
+11 U.S.C. sec. 254e, if the conditions specified in subsection (1) of this
+12 section are met.
+13 (b) (a) This subsection (2) does not require a carrier to contract
+14 with IF a pharmacy or pharmacist IS willing to abide by the terms and
+15 conditions for participation established by the health benefit plan or
+16 carrier, A HEALTH BENEFIT PLAN OR CARRIER SHALL NOT DISCRIMINATE,
+17 WITH RESPECT TO PARTICIPATION, REFERRAL, OR REIMBURSEMENT OF
+18 COVERED SERVICES OR INDEMNIFICATION AS TO PHARMACISTS WHO ARE
+19 ACTING WITHIN THE SCOPE OF THEIR LICENSE UNDER STATE LAW, SOLELY
+20 ON THE BASIS OF THE TYPE OF LICENSURE. IN SELECTING PROVIDERS OF
+21 HEALTH-CARE SERVICES FOR MEMBERSHIP IN A PROVIDER NETWORK, A
+22 HEALTH BENEFIT PLAN OR CARRIER SHALL NOT DISCRIMINATE AGAINST
+23 PHARMACISTS WHO PROVIDE SERVICES THAT ARE COVERED BY THE PLAN
+24 BY PROHIBITING PHARMACISTS FROM MEMBERSHIP IN A PROVIDER
+25 NETWORK.
+26 (b) SUBSECTION (2)(a) OF THIS SECTION SHALL NOT BE CONSTRUED
+27 AS:
+-3- HB26-1336
+
+1 (I) PROHIBITING A HEALTH BENEFIT PLAN OR CARRIER FROM
+2 INCLUDING PROVIDERS IN A PROVIDER NETWORK ONLY TO THE EXTENT
+3 NECESSARY TO MEET THE NEEDS OF THE HEALTH BENEFIT PLAN AND ITS
+4 ENROLLEES OR FROM LIMITING REFERRALS OR ESTABLISHING ANY OTHER
+5 MEASURE DESIGNED TO MAINTAIN QUALITY AND CONTROL COSTS
+6 CONSISTENT WITH THE PROVISIONS OF THE HEALTH BENEFIT PLAN; OR
+7 (II) REQUIRING COVERAGE FOR ANY SERVICE THAT IS NOT
+8 OTHERWISE COVERED UNDER THE TERMS OF A HEALTH BENEFIT PLAN.
+9 SECTION 2. In Colorado Revised Statutes, 12-280-103, amend
+10 (38.5)(a)(X), (38.5)(a)(XI), (39)(g)(IV) introductory portion,
+11 (39)(g)(IV)(C), and (39)(g)(V); and add (17.5), (38.5)(a)(XII), and
+12 (39)(g)(VI) as follows:
+13 12-280-103. Definitions - rules.
+14 As used in this article 280, unless the context otherwise requires
+15 or the term is otherwise defined in another part of this article 280:
+16 (17.5) "FINAL PRODUCT VERIFICATION" MEANS, AFTER
+17 PRESCRIPTION OR ORDER INFORMATION IS ENTERED INTO A PHARMACY'S
+18 ELECTRONIC SYSTEM AND REVIEWED BY A PHARMACIST FOR ACCURACY,
+19 THERAPEUTIC APPROPRIATENESS, AND OTHER ASPECTS OF DRUG REGIMEN
+20 REVIEW, A PHYSICAL VERIFICATION THAT THE DRUG, DEVICE, OR PRODUCT
+21 SELECTED FROM THE PHARMACY'S INVENTORY IS THE CORRECT DRUG,
+22 DRUG STRENGTH, DRUG FORMULATION, DEVICE, OR PRODUCT FOR THE
+23 PRESCRIPTION OR ORDER.
+24 (38.5) (a) "Practice as a pharmacy technician" means engaging in
+25 any of the following activities involved in the practice of pharmacy, under
+26 the supervision and delegation of a supervising pharmacist:
+27 (X) Redispensing a prescription drug pursuant to section
+-4- HB26-1336
+
+1 12-280-141 (9)(b) and (9)(c); and
+2 (XI) Requesting refill authorization from the prescriber or
+3 prescriber's agent and receiving clarifying prescription information from
+4 the prescriber or prescriber's agent; AND
+5 (XII) FINAL PRODUCT VERIFICATION FOR A DRUG, DEVICE, OR
+6 PRODUCT THAT IS NOT A CONTROLLED SUBSTANCE.
+7 (39) "Practice of pharmacy" means:
+8 (g) Exercising independent prescriptive authority:
+9 (IV) For drugs that are not controlled substances, drug categories,
+10 or devices that are prescribed in accordance with the product's
+11 FDA-approved labeling and to patients who are at least twelve years of
+12 age OLD and that are limited to conditions that:
+13 (C) Have a test that is used to guide diagnosis or clinical
+14 decision-making and is waived under the federal "Clinical Laboratory
+15 Improvement Amendments of 1988", Pub.L. 100-578, as amended; or
+16 (V) For any FDA-approved product indicated for opioid use
+17 disorder in accordance with federal law and regulations, including
+18 medications for opioid use disorder, if authorized pursuant to part 6 of
+19 this article 280; OR
+20 (VI) FOR DRUGS THAT ARE NOT CONTROLLED SUBSTANCES, DRUG
+21 CATEGORIES, OR DEVICES THAT ARE PRESCRIBED IN ACCORDANCE WITH
+22 THE PRODUCT'S FDA-APPROVED LABELING AND TO PATIENTS WHO ARE
+23 YOUNGER THAN TWELVE YEARS OLD AND THAT ARE LIMITED TO
+24 CONDITIONS THAT:
+25 (A) DO NOT REQUIRE A NEW DIAGNOSIS;
+26 (B) ARE MINOR AND GENERALLY SELF-LIMITING; OR
+27 (C) HAVE A TEST THAT IS USED TO GUIDE DIAGNOSIS OR CLINICAL
+-5- HB26-1336
+
+1 DECISION-MAKING AND IS WAIVED UNDER THE FEDERAL "CLINICAL
+2 LABORATORY IMPROVEMENT AMENDMENTS OF 1988", PUB.L. 100-578,
+3 AS AMENDED, AND DO NOT REQUIRE MEDICATIONS THAT ARE ONLY
+4 PRESCRIBED PURSUANT TO A CERTIFIED EDUCATION PROGRAM AND A
+5 LIMITED DISTRIBUTION NETWORK;
+6 SECTION 3. In Colorado Revised Statutes, 12-280-122, add (5)
+7 as follows:
+8 12-280-122. Limited authority to delegate activities
+9 constituting practice of pharmacy to pharmacy interns or pharmacy
+10 technicians - supervision ratio - final product verification - rules -
+11 definition.
+12 (5) (a) A SUPERVISING PHARMACIST MAY DELEGATE, AND A
+13 PHARMACY TECHNICIAN OR AN INTERN MAY PERFORM UNDER THE
+14 SUPERVISION OF THE SUPERVISING PHARMACIST, TASKS ASSOCIATED WITH
+15 THE PHYSICAL PREPARATION AND PROCESSING OF DRUG, DEVICE, OR
+16 PRODUCT ORDERS.
+17 (b) FINAL PRODUCT VERIFICATION TASKS THAT MAY BE
+18 DELEGATED BY THE SUPERVISING PHARMACIST INCLUDE:
+19 (I) VERIFICATION OF THE PRESCRIPTION OR DRUG, DEVICE, OR
+20 PRODUCT BY A SECOND PHARMACY TECHNICIAN OR INTERN CONCERNING
+21 THE WORK OF THE FIRST PHARMACY TECHNICIAN OR INTERN;
+22 (II) USE OF BARCODE OR OTHER TECHNOLOGY TO VERIFY EACH
+23 DRUG, DEVICE, OR PRODUCT PRIOR TO ADMINISTRATION TO AN INDIVIDUAL
+24 BY A HEALTH-CARE PROVIDER;
+25 (III) VERIFICATION BY A SECOND PHARMACY TECHNICIAN OR
+26 INTERN CONCERNING THE WORK OF THE FIRST PHARMACY TECHNICIAN OR
+27 INTERN IN THE REPACKAGING OF DRUGS FROM BULK TO UNIT DOSE; OR
+-6- HB26-1336
+
+1 (IV) OTHER ACTIVITIES AS AUTHORIZED BY THE BOARD BY RULE.
+2 (c) IN DELEGATING FINAL PRODUCT VERIFICATION TASKS, A
+3 SUPERVISING PHARMACIST SHALL USE THE PHARMACIST'S REASONABLE
+4 PROFESSIONAL JUDGMENT AND SHALL ENSURE THAT AUTHORIZED TASKS
+5 DO NOT REQUIRE THE EXERCISE OF DISCRETION OR CLINICAL JUDGMENT BY
+6 A PHARMACY TECHNICIAN.
+7 (d) A PHARMACY OR OTHER OUTLET SHALL HAVE A CONTINUOUS
+8 QUALITY ASSESSMENT SYSTEM IN PLACE TO PERIODICALLY VERIFY THE
+9 ACCURACY OF A FINAL DRUG, DEVICE, OR PRODUCT, WHICH INCLUDES A
+10 PROCESS FOR THE RECORDING AND EVALUATION OF ERRORS THAT OCCUR
+11 AND POTENTIAL ERRORS, EVEN IF THE ERRORS DO NOT REACH THE
+12 PATIENT.
+13 (e) A PHARMACY INTENDING TO IMPLEMENT A FINAL PRODUCT
+14 VERIFICATION PROGRAM SHALL CREATE AND MAINTAIN A PROGRAM PLAN,
+15 INCLUDING HOW PHARMACISTS' HOURS WILL BE MAINTAINED AND
+16 REDIRECTED FOR PROVIDING DIRECT PATIENT CARE ACTIVITIES.
+17 (f) THE BOARD SHALL ADOPT RULES CONCERNING FINAL PRODUCT
+18 VERIFICATION BY A PHARMACY TECHNICIAN OR INTERN. THE BOARD'S
+19 RULES MUST INCLUDE:
+20 (I) TRAINING REQUIREMENTS;
+21 (II) EXCLUDED MEDICATIONS;
+22 (III) LIABILITY ISSUES; AND
+23 (IV) ANY OTHER RULES THE BOARD DEEMS APPROPRIATE.
+24 SECTION 4. In Colorado Revised Statutes, 25.5-5-511, amend
+25 (2)(a) as follows:
+26 25.5-5-511. Reimbursement for pharmacists' services -
+27 legislative declaration.
+-7- HB26-1336
+
+1 (2) (a) A pharmacist is eligible to receive reimbursement under the
+2 medical assistance program for medically necessary services authorized
+3 in part 6 of THAT ARE WITHIN THE PHARMACIST'S SCOPE OF PRACTICE
+4 PURSUANT TO article 280 of title 12 AND that are not duplicative of other
+5 pharmacist services or programs reimbursed under the medical assistance
+6 program.
+7 SECTION 5. Act subject to petition - effective date. This act
+8 takes effect at 12:01 a.m. on the day following the expiration of the
+9 ninety-day period after final adjournment of the general assembly (August
+10 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+11 referendum petition is filed pursuant to section 1 (3) of article V of the
+12 state constitution against this act or an item, section, or part of this act
+13 within such period, then the act, item, section, or part will not take effect
+14 unless approved by the people at the general election to be held in
+15 November 2026 and, in such case, will take effect on the date of the
+16 official declaration of the vote thereon by the governor.
+-8- HB26-1336

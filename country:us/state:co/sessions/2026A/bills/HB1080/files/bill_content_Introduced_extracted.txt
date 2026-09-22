@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0323.01 Sam Anderson x4218 HOUSE BILL 26-1080
+HOUSE SPONSORSHIP
+Richardson and Paschal,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING A REQUIREMENT THAT A COUNTY CLERK AND RECORDER
+102 USE A TEAM OF BIPARTISAN ELECTION JUDGES TO VERIFY
+103 SIGNATURES IN A MAIL BALLOT ELECTION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Currently, in every mail ballot election coordinated with or
+conducted by a county clerk and recorder, a single election judge
+personally conducts the review of each mail ballot for purposes of
+signature verification, unless the county clerk and recorder allows the
+election judge to use a signature verification device. The bill requires the
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+county clerk and recorder to use a team of bipartisan election judges,
+rather than a single election judge, to review mail ballots for purposes of
+signature verification. The bill requires the secretary of state to adopt
+rules concerning the procedure for using a team of bipartisan election
+judges for such signature verification.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-7.5-107.3, amend
+3 (1)(a), (2)(a), (2)(c), (3), (4)(a), (5), and (6) as follows:
+4 1-7.5-107.3. Verification of signatures - rules.
+5 (1) (a) Except as provided in subsection (5) of this section, in
+6 every mail ballot election that is coordinated with or conducted by the
+7 county clerk and recorder, an election judge A TEAM OF BIPARTISAN
+8 ELECTION JUDGES shall compare the signature on the self-affirmation on
+9 each return envelope with the signature of the eligible elector stored in
+10 the statewide voter registration system in accordance with subsections (2),
+11 (3), and (4) of this section AND ANY RULES ADOPTED BY THE SECRETARY
+12 OF STATE PURSUANT TO SUBSECTION (6) OF THIS SECTION.
+13 (2) (a) (I) If, upon comparing the signature of an eligible elector
+14 on the self-affirmation on the return envelope with the signature of the
+15 eligible elector stored in the statewide voter registration system, the TEAM
+16 OF BIPARTISAN election judge JUDGES determines that the signatures do
+17 not match, or if a signature verification device used pursuant to
+18 subsection (5) of this section is unable to determine that the signatures
+19 match, two other election judges of different political party affiliations
+20 ONE OTHER ELECTION JUDGE OF ANY POLITICAL PARTY AFFILIATION shall
+21 simultaneously compare the signatures;
+22 (II) If, both AFTER COMPLETING THE REVIEW OF SIGNATURES
+23 PURSUANT TO SUBSECTION (2)(a)(I) OF THIS SECTION, THE other election
+-2- HB26-1080
+
+1 judges agree JUDGE AGREES that the signatures do not match, the county
+2 clerk and recorder shall, within three days after the signature deficiency
+3 has been confirmed, but in no event later than two days after election day,
+4 send to the eligible elector at the address indicated in the registration
+5 records and to the eligible elector's electronic mail address if available a
+6 letter explaining the discrepancy in signatures and a form for the eligible
+7 elector to confirm that the elector returned a ballot to the county clerk and
+8 recorder. If the county clerk and recorder receives the form within eight
+9 days after election day confirming that the elector returned a ballot to the
+10 county clerk and recorder and enclosing a copy of the elector's
+11 identification as defined in section 1-1-104 (19.5), and if the ballot is
+12 otherwise valid, the ballot shall be counted. If the eligible elector returns
+13 the form indicating that the elector did not return a ballot to the county
+14 clerk and recorder, or if the eligible elector does not return the form
+15 within eight days after election day, the self-affirmation on the return
+16 envelope shall be categorized as incorrect, the ballot shall not be counted,
+17 and the county clerk and recorder shall send copies of the eligible
+18 elector's signature on the return envelope and the signature stored in the
+19 statewide voter registration system to the district attorney for
+20 investigation.
+21 (c) In the case of a disagreement among the election judges as to
+22 whether the signature of an eligible elector on the self-affirmation on the
+23 return envelope matches the signature of the eligible elector stored in the
+24 statewide voter registration system pursuant to the procedures specified
+25 in paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF THIS
+26 SECTION, the signatures are deemed to match, and the election judge
+27 TEAM OF BIPARTISAN ELECTION JUDGES shall follow the procedures
+-3- HB26-1080
+
+1 specified in section 1-7.5-107 (6) concerning the qualification and
+2 counting of mail ballots.
+3 (3) If the election judge TEAM OF BIPARTISAN ELECTION JUDGES
+4 determines that the signature of an eligible elector on the self-affirmation
+5 matches the elector's signature stored in the statewide voter registration
+6 system, the election judge TEAM OF BIPARTISAN ELECTION JUDGES shall
+7 follow the procedures specified in section 1-7.5-107 (6) concerning the
+8 qualification and counting of mail ballots.
+9 (4) (a) An election judge A TEAM OF BIPARTISAN ELECTION JUDGES
+10 shall not determine that the signature of an eligible elector on the
+11 self-affirmation does not match the signature of that eligible elector
+12 stored in the statewide voter registration system solely on the basis of
+13 substitution of initials or use of a common nickname.
+14 (5) (a) A county clerk and recorder may allow an election judge
+15 A TEAM OF BIPARTISAN ELECTION JUDGES to use a signature verification
+16 device to compare the signature on the self-affirmation on a return
+17 envelope of an eligible elector's ballot with the signature of the elector
+18 stored in the statewide voter registration system in accordance with this
+19 subsection (5) and any rules promulgated by the secretary of state
+20 pursuant to subsection (6) of this section.
+21 (b) If a signature verification device determines that the signature
+22 on the self-affirmation on a return envelope of an eligible elector's ballot
+23 matches the signature of the elector stored in the statewide voter
+24 registration system, the signature on the self-affirmation is deemed
+25 verified, and the election judge TEAM OF BIPARTISAN ELECTION JUDGES
+26 shall follow the procedures specified in section 1-7.5-107 (6) concerning
+27 the qualification and counting of mail ballots. If a signature verification
+-4- HB26-1080
+
+1 device is unable to determine that the signature on the self-affirmation on
+2 a return envelope of an eligible elector's mail ballot matches the signature
+3 of the elector stored in the statewide voter registration system, an election
+4 judge A TEAM OF BIPARTISAN ELECTION JUDGES shall compare the
+5 signatures in accordance with subsections (2), (3), and (4) of this section.
+6 (6) The secretary of state shall adopt rules in accordance with
+7 article 4 of title 24 C.R.S., establishing procedures for using signature
+8 verification devices AND FOR USING A TEAM OF BIPARTISAN ELECTION
+9 JUDGES to process ballots used in mail ballot elections pursuant to this
+10 article ARTICLE 7.5.
+11 SECTION 2. Act subject to petition - effective date. This act
+12 takes effect at 12:01 a.m. on the day following the expiration of the
+13 ninety-day period after final adjournment of the general assembly (August
+14 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+15 referendum petition is filed pursuant to section 1 (3) of article V of the
+16 state constitution against this act or an item, section, or part of this act
+17 within such period, then the act, item, section, or part will not take effect
+18 unless approved by the people at the general election to be held in
+19 November 2026 and, in such case, will take effect on the date of the
+20 official declaration of the vote thereon by the governor.
+-5- HB26-1080

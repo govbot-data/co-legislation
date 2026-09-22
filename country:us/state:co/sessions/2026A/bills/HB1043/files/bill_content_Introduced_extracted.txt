@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0385.01 Jennifer Berman x3286 HOUSE BILL 26-1043
+HOUSE SPONSORSHIP
+Rydin,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Business Affairs & Labor
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ADDRESS DISCRIMINATORY CONDUCT
+102 ENGAGED IN BY TRANSPORTATION NETWORK COMPANY DRIVERS
+103 IN PROVIDING SERVICES TO RIDERS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the public utilities commission (commission)
+may assess a civil penalty in an amount up to $550 against a
+transportation network company (TNC) if the TNC had written notice of
+a TNC driver's violation of certain prohibitions against discriminating
+against riders and the TNC failed to reasonably address the violation.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Additionally, a driver is required to report to the TNC any refusal by the
+driver to provide services to a rider, and the TNC is required to annually
+report all such refusals to the commission.
+The bill removes the condition that a TNC first have written notice
+of a driver's violation of the discriminatory prohibitions before a civil
+penalty may be assessed against the TNC and increases the maximum
+civil penalty to $5,000. The bill also requires:
+! A TNC to provide monthly, rather than annual, reporting to
+the commission regarding drivers' refusal to provide
+services;
+! A TNC to provide a mechanism to allow a consumer to
+report a driver's refusal to provide transport to the
+consumer directly on the TNC's digital platform, which
+information must be included in the TNC's monthly report;
+and
+! The commission to anonymize the TNCs' monthly reports
+and make the anonymized reports available to the public.
+The commission may assess a civil penalty in an amount up to
+$5,000 for a TNC's failure to comply with the reporting requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 40-10.1-605, amend
+3 (7) and (9) as follows:
+4 40-10.1-605. Operational requirements - rules.
+5 (7) (a) A transportation network company is not liable for a
+6 driver's violation of subsection (6) of this section unless the driver's
+7 violation has been previously reported to the transportation network
+8 company in writing, and the transportation network company has failed
+9 to reasonably address the alleged violation. The commission shall afford
+10 a transportation network company the same due process rights afforded
+11 transportation providers in defending against civil penalties assessed by
+12 the commission.
+13 (b) The commission may assess a civil penalty IN AN AMOUNT up
+14 to five hundred fifty THOUSAND dollars under this subsection (7) FOR A
+-2- HB26-1043
+
+1 TRANSPORTATION NETWORK COMPANY'S VIOLATION OF SUBSECTION (6) OR
+2 (9) OF THIS SECTION.
+3 (9) (a) A driver shall immediately report to the transportation
+4 network company any refusal to transport a passenger pursuant to
+5 paragraph (a) of subsection (6) SUBSECTION (6)(a) of this section, and the
+6 transportation network company shall annually report all such refusals to
+7 the commission ON A MONTHLY BASIS in a form and manner determined
+8 by the commission.
+9 (b) A TRANSPORTATION NETWORK COMPANY SHALL PROVIDE A
+10 MECHANISM TO ALLOW A CONSUMER TO REPORT DIRECTLY ON THE
+11 TRANSPORTATION NETWORK COMPANY'S DIGITAL PLATFORM A DRIVER'S
+12 REFUSAL TO TRANSPORT THE CONSUMER IN VIOLATION OF SUBSECTION
+13 (6)(a) OF THIS SECTION. THE REPORTING MECHANISM MUST BE ACCESSIBLE
+14 AND CONSPICUOUSLY LOCATED ON THE DIGITAL PLATFORM. THE
+15 TRANSPORTATION NETWORK COMPANY SHALL INCLUDE ANY CONSUMER
+16 REPORTS RECEIVED PURSUANT TO THIS SUBSECTION (9)(b) IN THE
+17 TRANSPORTATION NETWORK COMPANY'S MONTHLY REPORTS SUBMITTED
+18 PURSUANT TO SUBSECTION (9)(a) OF THIS SECTION.
+19 (c) THE COMMISSION SHALL ANONYMIZE THE DATA INCLUDED IN
+20 THE MONTHLY REPORTS AND MAKE THE ANONYMIZED REPORTS AVAILABLE
+21 TO THE PUBLIC.
+22 SECTION 2. Act subject to petition - effective date -
+23 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+24 the expiration of the ninety-day period after final adjournment of the
+25 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+26 2026); except that, if a referendum petition is filed pursuant to section 1
+27 (3) of article V of the state constitution against this act or an item, section,
+-3- HB26-1043
+
+1 or part of this act within such period, then the act, item, section, or part
+2 will not take effect unless approved by the people at the general election
+3 to be held in November 2026 and, in such case, will take effect on the
+4 date of the official declaration of the vote thereon by the governor.
+5 (2) This act applies to conduct occurring on or after the applicable
+6 effective date of this act.
+-4- HB26-1043

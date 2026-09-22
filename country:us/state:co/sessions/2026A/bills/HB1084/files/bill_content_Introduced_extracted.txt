@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0466.01 Rebecca Bayetti x4348 HOUSE BILL 26-1084
+HOUSE SPONSORSHIP
+Espenoza and Camacho,
+SENATE SPONSORSHIP
+Weissman and Lindstedt,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING VOTER TRANSPARENCY REQUIREMENTS TO EXPAND
+102 INFORMATION ABOUT THE FUNDING OF INITIATED STATEWIDE
+103 BALLOT MEASURES, AND, IN CONNECTION THEREWITH,
+104 REQUIRING THE BALLOT TITLE AND ABSTRACT OF THE FISCAL
+105 IMPACT STATEMENT FOR CERTAIN INITIATED STATEWIDE
+106 BALLOT MEASURES TO IDENTIFY THE MAIN AREAS OF STATE
+107 EXPENDITURE THAT WOULD BE AFFECTED BY THE MEASURE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill requires that certain language appear in the ballot title for
+an initiated statewide measure that would increase state expenditures but
+does not identify and provide for a sufficient source of revenue or
+sufficient reductions in state spending for specific public services or
+program areas to account for the increased expenditures (measure that
+increases state expenditures). The ballot title for a measure that increases
+state expenditures must include language identifying the 3 largest
+program areas of state expenditures for which state expenditures will be
+reduced if the measure passes, which must be in a format substantially
+similar to the following language: "... will reduce state expenditures for
+program areas that include (the 3 largest areas of program expenditure)
+by an estimated (projected dollar figure of reduction to those areas in the
+first full fiscal year that the measure will cause the reduction) ...". If the
+ballot measure specifies the public services or programs that are to be
+reduced, those public services or programs must be stated in the ballot
+title.
+The bill also requires the ballot information booklet entry for a
+measure that increases state expenditures to include a description of the
+measure's projected effect on the 3 largest areas of program expenditure
+of the state and modifies existing statutory language to mirror this change.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-40-106, amend
+3 (3)(h); and add (3)(e.5) and (3)(i)(III) as follows:
+4 1-40-106. Title board - meetings - ballot title - initiative and
+5 referendum - definitions - rules.
+6 (3) (e.5) FOR A MEASURE THAT INCREASES STATE EXPENDITURES
+7 AS DEFINED IN SUBSECTION (3)(i)(III) OF THIS SECTION, THE BALLOT TITLE
+8 MUST INCLUDE LANGUAGE IDENTIFYING THE TOP THREE AREAS OF STATE
+9 EXPENDITURES FOR WHICH STATE EXPENDITURES WILL BE REDUCED IF THE
+10 MEASURE PASSES. THIS LANGUAGE MAY APPEAR ANYWHERE IN THE
+11 BALLOT TITLE AND MUST BE IN A FORMAT SUBSTANTIALLY SIMILAR TO THE
+12 FOLLOWING LANGUAGE: "... WILL REDUCE STATE EXPENDITURES FOR
+13 PROGRAM AREAS THAT INCLUDE (THE THREE LARGEST AREAS OF PROGRAM
+-2- HB26-1084
+
+1 EXPENDITURE) BY AN ESTIMATED (PROJECTED DOLLAR FIGURE OF
+2 REDUCTION TO THOSE AREAS IN THE FIRST FULL FISCAL YEAR THAT THE
+3 MEASURE WILL CAUSE THE REDUCTION) ...". IF THE BALLOT MEASURE
+4 SPECIFIES THE PUBLIC SERVICES OR PROGRAMS THAT ARE TO BE REDUCED,
+5 THOSE PUBLIC SERVICES OR PROGRAMS MUST BE STATED IN THE BALLOT
+6 TITLE. IF THE REDUCED PUBLIC SERVICES OR PROGRAMS IDENTIFIED IN THE
+7 MEASURE ARE INSUFFICIENT TO ACCOUNT FOR THE FULL DOLLAR VALUE OF
+8 THE PROJECTED REDUCTION IN THE FIRST FULL FISCAL YEAR THAT THE
+9 MEASURE REDUCES FUNDING, THEN THE THREE LARGEST AREAS OF
+10 PROGRAM EXPENDITURE MUST BE STATED IN THE BILL TITLE ALONG WITH
+11 THE PUBLIC SERVICES OR PROGRAMS IDENTIFIED IN THE MEASURE. THE
+12 ESTIMATES REFLECTED IN THE BALLOT TITLE MUST NOT BE INTERPRETED
+13 AS RESTRICTIONS OF THE STATE'S BUDGETING PROCESS.
+14 (h) In determining whether a ballot title qualifies as brief for
+15 purposes of section 1-40-102 (10) and subsection (3)(b) of this section,
+16 the language required by subsection (3)(e), (3)(e.5), (3)(f), (3)(g), or (3)(j)
+17 of this section may not be considered.
+18 (i) As used in this subsection (3), unless the context otherwise
+19 requires:
+20 (III) "MEASURE THAT INCREASES STATE EXPENDITURES" MEANS
+21 AN INITIATED BALLOT ISSUE THAT WILL RESULT IN INCREASED STATE
+22 EXPENDITURES, EXCEPT FOR DE MINIMIS AND ADMINISTRATIVE
+23 EXPENDITURES, AS SHOWN IN THE FISCAL SUMMARY PREPARED PURSUANT
+24 TO SECTION 1-40-105.5 (1.5), AND THAT DOES NOT IDENTIFY AND PROVIDE
+25 FOR A SUFFICIENT SOURCE OF REVENUE OR SUFFICIENT REDUCTIONS IN
+26 STATE SPENDING FOR SPECIFIC PUBLIC SERVICES OR PROGRAM AREAS TO
+27 ACCOUNT FOR THE INCREASED EXPENDITURES.
+-3- HB26-1084
+
+1 SECTION 2. In Colorado Revised Statutes, 1-40-124.5, amend
+2 (1)(b) introductory portion, (1)(b)(III)(L), and (1)(b)(IV); and add
+3 (1)(b)(V) as follows:
+4 1-40-124.5. Ballot information booklet.
+5 (1) (b) The director of research of the legislative council of the
+6 general assembly shall prepare a fiscal impact statement for every
+7 initiated or referred measure, taking into consideration fiscal impact
+8 information submitted by the office of state planning and budgeting, the
+9 department of local affairs or any other state agency, and any proponent
+10 or other interested person. The fiscal impact statement prepared for every
+11 measure shall MUST be substantially similar in form and content to the
+12 fiscal notes provided by the legislative council of the general assembly for
+13 legislative measures pursuant to section 2-2-322. A complete copy of the
+14 fiscal impact statement for such THE measure shall MUST be available
+15 through the legislative council of the general assembly. The ballot
+16 information booklet shall MUST indicate whether there is a fiscal impact
+17 for each initiated or referred measure and shall MUST abstract the fiscal
+18 impact statement for such THE measure. The abstract for every measure
+19 shall MUST appear after the arguments for and against such THE measure
+20 in the analysis section of the ballot information booklet and shall MUST
+21 include, but shall IS not be limited to:
+22 (III) For any initiated or referred measure that modifies the state
+23 tax laws, if the measure would either increase or decrease individual
+24 income tax revenue or state sales tax revenue, a table that shows the
+25 number of tax filers in each income category, the total change in the
+26 amount of tax owed for each income category, and the average change in
+27 the amount of tax owed for each filer within each income category. If the
+-4- HB26-1084
+
+1 change in the amount of tax owed shown in the table is an increase, the
+2 change must be expressed as a dollar amount preceded by a plus sign. If
+3 the change in the amount of tax owed shown in the table is a decrease, the
+4 change must be expressed as a dollar amount preceded by a negative sign.
+5 The table must use the following income categories:
+6 (L) Federal adjusted gross income greater than or equal to one
+7 million dollars; and
+8 (IV) If the measure contains a proposed tax change, as defined in
+9 section 1-40-106 (3)(i)(II), that reduces state tax revenue, a description of
+10 the MEASURE'S EFFECT ON THE three largest areas of program expenditure,
+11 as defined in section 1-40-106 (3)(i)(I); AND
+12 (V) FOR AN INITIATED MEASURE THAT IS A MEASURE THAT
+13 INCREASES STATE EXPENDITURES, AS DEFINED IN SECTION 1-40-106
+14 (3)(i)(III), A DESCRIPTION OF THE MEASURE'S EFFECT ON THE THREE
+15 LARGEST AREAS OF PROGRAM EXPENDITURE, AS DEFINED IN SECTION
+16 1-40-106 (3)(i)(I).
+17 SECTION 3. Act subject to petition - effective date -
+18 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+19 the expiration of the ninety-day period after final adjournment of the
+20 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+21 2026); except that, if a referendum petition is filed pursuant to section 1
+22 (3) of article V of the state constitution against this act or an item, section,
+23 or part of this act within such period, then the act, item, section, or part
+24 will not take effect unless approved by the people at the general election
+25 to be held in November 2026 and, in such case, will take effect on the
+26 date of the official declaration of the vote thereon by the governor.
+27 (2) This act applies to initiative petition drafts submitted to the
+-5- HB26-1084
+
+1 secretary of state for title setting on or after the applicable effective date
+2 of this act.
+-6- HB26-1084

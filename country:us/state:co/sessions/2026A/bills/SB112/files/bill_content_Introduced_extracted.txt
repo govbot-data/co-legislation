@@ -1,0 +1,248 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0799.01 Ken Fowler x2372 SENATE BILL 26-112
+SENATE SPONSORSHIP
+Zamora Wilson,
+HOUSE SPONSORSHIP
+Soper,
+Senate Committees House Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING DEFENDANTS WHO FAIL TO APPEAR IN COURT, AND, IN
+102 CONNECTION THEREWITH, PERMITTING CERTAIN CONDITIONS
+103 ON PRETRIAL RELEASE FOR DEFENDANTS WHO HAVE
+104 PREVIOUSLY FAILED TO APPEAR.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, a court is required to release a person on a
+personal recognizance bond if the person was charged with an offense for
+a violation with a maximum penalty that does not exceed 6 months'
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+imprisonment and the court cannot require the person to give security of
+any kind for their appearance for trial other than their personal
+recognizance, unless certain conditions exist. The bill clarifies that these
+provisions apply in both state and municipal courts. The bill adds to the
+conditions for which a person may be required to give security that the
+defendant previously failed to appear in court 2 or more times in the
+present case.
+Existing law prohibits a court from imposing a monetary condition
+of release for a defendant charged with a traffic offense, petty offense, or
+comparable municipal offense, or a municipal offense for which there is
+no comparable state misdemeanor offense, with specified exceptions. The
+bill adds exceptions for:
+! A petty offense for theft, criminal mischief, or arson, or a
+comparable municipal offense, or a municipal offense
+involving threats of violence, injury, or property damage,
+if the defendant has previously failed to appear in court 2
+or more times in the present case; and
+! Any other petty offense, traffic offense, or a comparable
+municipal offense, or a municipal offense for which there
+is no comparable state offense, if the defendant has
+previously failed to appear for a court proceeding 2 or more
+times in the present case and has another pending charge
+for the same offense in the same jurisdiction.
+The bill states that if a defendant's counsel is present at a court
+proceeding as required by a court and the defendant is not present, with
+the exceptions of trial, arraignment, contested hearings, and hearings in
+which a witness or victim is testifying before the court, the defendant's
+absence may not be considered a failure to appear. The bill applies the
+exceptions involving previous instances of a defendant's failure to appear
+for a municipal court proceeding only when, prior to issuing a warrant for
+the arrest of the defendant for the previous failure to appear, the court
+conducted a search to determine whether the defendant was being held in
+a correctional facility or county jail, and at the time of the previous failure
+to appear, the court had certain processes in place governing failures to
+appear.
+The bill requires municipal courts to not consider a person's
+absence from a place and time specified in a summons or summons and
+complaint as a failure to appear if the person's counsel is present on their
+behalf.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend 16-4-113 as
+-2- SB26-112
+
+1 follows:
+2 16-4-113. Type of bond in certain nonfelony cases.
+3 (1) (a) In exercising the discretion mentioned in section 16-4-104,
+4 the EXCEPT IN THE CIRCUMSTANCES DESCRIBED IN SUBSECTION (1)(b) OF
+5 THIS SECTION, IF AN ACCUSED PERSON IS CHARGED WITH COMMITTING AN
+6 OFFENSE FOR WHICH THE MAXIMUM PENALTY DOES NOT EXCEED SIX
+7 MONTHS' IMPRISONMENT, A judge shall release the accused person upon
+8 personal recognizance if the charge is any offense for a violation of which
+9 the maximum penalty does not exceed six months' imprisonment, and the
+10 AND, EXCEPT AS PROVIDED IN SUBSECTION (1)(b) OF THIS SECTION, SHALL
+11 NOT REQUIRE THE accused person shall not be required to supply a surety
+12 bond or give security of any kind for their appearance for trial other than
+13 their personal recognizance. unless one or more of the following facts are
+14 found to be present:
+15 (b) A JUDGE MAY REQUIRE THE ACCUSED PERSON TO SUPPLY A
+16 SURETY BOND OR GIVE SECURITY FOR THE ACCUSED PERSON'S
+17 APPEARANCE FOR TRIAL OTHER THAN THEIR PERSONAL RECOGNIZANCE IF:
+18 (a) (I) The arrested person fails to sufficiently identify himself or
+19 herself THEMSELF; or
+20 (b) (II) The arrested person refuses to sign a personal
+21 recognizance; or
+22 (c) (III) The continued detention or posting of a surety bond is
+23 necessary to prevent imminent bodily harm to the accused PERSON or to
+24 another; or
+25 (d) (IV) The arrested person has no ties to the jurisdiction of the
+26 court reasonably sufficient to assure his or her THEIR appearance, and
+27 there is substantial likelihood that he or she THE PERSON will fail to
+-3- SB26-112
+
+1 appear for trial if released upon his or her THEIR personal recognizance;
+2 or
+3 (e) (V) The arrested person has previously failed to appear for trial
+4 for an offense concerning which he or she THE PERSON had given his
+5 THEIR written promise to appear; or
+6 (f) (VI) There is outstanding a warrant for his or her THE PERSON'S
+7 arrest on any other charge or there are pending proceedings against him
+8 or her THEM for suspension or revocation of parole or probation; OR
+9 (VII) SUBJECT TO SUBSECTIONS (3) AND (4) OF THIS SECTION, THE
+10 PERSON HAS PREVIOUSLY FAILED TO APPEAR FOR A COURT PROCEEDING AS
+11 REQUIRED BY A COURT TWO OR MORE TIMES IN THE PRESENT CASE.
+12 (c) THIS SUBSECTION (1) APPLIES IN STATE AND MUNICIPAL
+13 COURTS.
+14 (2) (a) A COURT SHALL NOT IMPOSE A MONETARY CONDITION OF
+15 RELEASE for a defendant charged with:
+16 (I) A traffic offense, a petty offense, or a comparable municipal
+17 offense, a court shall not impose a monetary condition of release. If the
+18 INCLUDING A comparable municipal offense THAT is a property crime and
+19 the factual basis reflects a value of property loss or damage that would be
+20 a petty offense property crime if charged under state law; this subsection
+21 (2)(a) applies. OR
+22 (II) A MUNICIPAL OFFENSE FOR WHICH THERE IS NO COMPARABLE
+23 STATE MISDEMEANOR OFFENSE.
+24 (b) For a defendant charged with a municipal offense for which
+25 there is no comparable state misdemeanor offense, the court shall not
+26 impose a monetary condition of release.
+27 (c) (b) THIS SUBSECTION (2) DOES NOT PROHIBIT:
+-4- SB26-112
+
+1 (I) THE RELEASE OF A DEFENDANT, PURSUANT TO LOCAL PRETRIAL
+2 RELEASE POLICIES, after arrest but prior to an individual consideration of
+3 bond by a judge, bonding commissioner, judicial officer, or judicial
+4 designee with the power to set conditions of release, this subsection (2)
+5 does not prohibit the release of a defendant pursuant to local pretrial
+6 release policies, including those LOCAL PRETRIAL RELEASE POLICIES that
+7 require payment of a monetary condition of release, if the defendant is
+8 first informed that the defendant is entitled to release on a personal
+9 recognizance bond; OR
+10 (d) (II) Nothing in this subsection (2) prohibits the issuance of A
+11 COURT FROM ISSUING a warrant with monetary conditions of bond for a
+12 defendant who fails to appear in court as required or who violates a
+13 condition of release. If a defendant is unable to post the monetary
+14 condition of bond prior to the next individualized consideration of bond,
+15 the judge, bonding commissioner, judicial officer, or judicial designee
+16 with the power to set conditions of release shall release the person on
+17 personal recognizance.
+18 (e) (c) The provisions of This subsection (2) do DOES not apply to:
+19 (I) A traffic offense involving death or bodily injury or a
+20 municipal offense with substantially similar elements;
+21 (II) Eluding or attempting to elude a police officer as described in
+22 section 42-4-1413 or a municipal offense with substantially similar
+23 elements;
+24 (III) Operating a vehicle after circumventing an interlock device
+25 as described in section 42-2-132.5 (10) or a municipal offense with
+26 substantially similar elements; and
+27 (IV) A municipal offense that has substantially similar elements
+-5- SB26-112
+
+1 to a state misdemeanor offense;
+2 (V) SUBJECT TO SUBSECTIONS (3) AND (4) OF THIS SECTION, A
+3 PETTY OFFENSE FOR THEFT, CRIMINAL MISCHIEF, OR ARSON, OR A
+4 COMPARABLE MUNICIPAL OFFENSE, IF THE DEFENDANT HAS PREVIOUSLY
+5 FAILED TO APPEAR FOR A COURT PROCEEDING AS REQUIRED BY A COURT
+6 TWO OR MORE TIMES IN THE PRESENT CASE; AND
+7 (VI) SUBJECT TO SUBSECTIONS (3) AND (4) OF THIS SECTION, A
+8 PETTY OFFENSE, TRAFFIC OFFENSE, OR A COMPARABLE MUNICIPAL OFFENSE
+9 OR A MUNICIPAL OFFENSE FOR WHICH THERE IS NO COMPARABLE STATE
+10 OFFENSE, THAT IS NOT LISTED IN SUBSECTION (2)(c)(V) OF THIS SECTION
+11 IF THE DEFENDANT HAS PREVIOUSLY FAILED TO APPEAR FOR A COURT
+12 PROCEEDING AS REQUIRED BY A COURT TWO OR MORE TIMES IN THE
+13 PRESENT CASE AND HAS ANOTHER PENDING CASE FOR THE SAME OFFENSE
+14 IN THE SAME JURISDICTION.
+15 (3) A DEFENDANT'S FAILURE TO BE PRESENT FOR A COURT
+16 PROCEEDING AS REQUIRED BY A COURT IS NOT CONSIDERED A FAILURE TO
+17 APPEAR FOR PURPOSES OF THIS SECTION IF THE DEFENDANT'S COUNSEL IS
+18 PRESENT AND THE COURT PROCEEDING IS NOT THE DEFENDANT'S TRIAL OR
+19 ARRAIGNMENT, A CONTESTED HEARING, OR A HEARING IN WHICH A
+20 WITNESS OR VICTIM IS TESTIFYING BEFORE THE COURT. THE DEFENDANT
+21 MUST BE PRESENT FOR ALL COURT PROCEEDINGS AS REQUIRED BY THE
+22 COURT IF THE DEFENDANT IS SELF-REPRESENTED.
+23 (4) A FAILURE TO APPEAR THAT OCCURRED IN A MUNICIPAL COURT
+24 ON OR AFTER THE EFFECTIVE DATE OF THIS SUBSECTION (4) QUALIFIES AS
+25 A PREVIOUS FAILURE TO APPEAR FOR THE PURPOSES OF SUBSECTIONS
+26 (1)(b)(VII), (2)(c)(V), AND (2)(c)(VI) OF THIS SECTION ONLY IF THE
+27 MUNICIPAL COURT:
+-6- SB26-112
+
+1 (a) PRIOR TO ISSUING A WARRANT FOR THE ARREST OF THE
+2 DEFENDANT FOR THE PREVIOUS FAILURE TO APPEAR, CONDUCTED AN
+3 ELECTRONIC SEARCH OF AVAILABLE COURT DATABASES OR ONLINE
+4 RESOURCES TO DETERMINE WHETHER THE DEFENDANT WAS BEING HELD
+5 IN A CORRECTIONAL FACILITY, AS DEFINED IN SECTION 17-1-102, OR IN THE
+6 COUNTY JAIL FOR THE COUNTY IN WHICH THE COURT IS LOCATED; AND
+7 (b) AT THE TIME OF THE DEFENDANT'S PREVIOUS FAILURE TO
+8 APPEAR:
+9 (I) HAD A PROCESS THAT ALLOWS A DEFENDANT TO INFORMALLY
+10 CONTACT THE COURT BY REMOTE MEANS, INCLUDING, BUT NOT LIMITED
+11 TO, BY PHONE OR EMAIL, ON OR BEFORE THE DAY OF THE COURT
+12 APPEARANCE TO REQUEST A CONTINUANCE, AND THAT AFTER THE
+13 DEFENDANT ENGAGES THE PROCESS, ALLOWS THE COURT TO REQUIRE THE
+14 DEFENDANT TO MAKE THE REQUEST IN WRITING AND SEND THE REQUEST
+15 TO THE COURT BY ANY MEANS, INCLUDING EMAIL;
+16 (II) HAD A PROCESS TO QUASH A WARRANT FOR A FAILURE TO
+17 APPEAR THAT ALLOWS THE DEFENDANT TO CONTACT THE COURT FOR THE
+18 PURPOSE OF RESETTING THE DEFENDANT'S APPEARANCE AFTER THE
+19 DEFENDANT'S FAILURE TO APPEAR BUT PRIOR TO THE DEFENDANT'S NEXT
+20 COURT PROCEEDING, AND THAT AFTER THE DEFENDANT ENGAGES THE
+21 PROCESS, ALLOWS THE COURT TO REQUIRE THE DEFENDANT TO MAKE THE
+22 REQUEST IN WRITING AND SEND THE REQUEST TO THE COURT BY ANY
+23 MEANS, INCLUDING EMAIL, AND A PROCESS TO EXCUSE A FAILURE TO
+24 APPEAR IF THE DEFENDANT APPEARS AT THE NEXT COURT PROCEEDING;
+25 (III) HAD A PROCESS FOR THE COURT TO EXCUSE A DEFENDANT'S
+26 FAILURE TO APPEAR FOR A COURT PROCEEDING IF THE DEFENDANT
+27 PRODUCES EVIDENCE SHOWING THAT THEIR FAILURE TO APPEAR WAS NOT
+-7- SB26-112
+
+1 WILLFUL OR WAS CAUSED BY EXCUSABLE NEGLECT; AND
+2 (IV) POSTED THE PROCESSES DESCRIBED IN THIS SUBSECTION (4)
+3 ONLINE AND AT THE COURTHOUSE, IN BOTH ENGLISH AND SPANISH.
+4 SECTION 2. In Colorado Revised Statutes, 13-10-127, add (1.5)
+5 as follows:
+6 13-10-127. Failure to appear.
+7 (1.5) IF A PERSON IS NOT PRESENT AT THE PLACE AND TIME
+8 SPECIFIED IN THE SUMMONS OR SUMMONS AND COMPLAINT, BUT THE
+9 PERSON'S COUNSEL IS PRESENT, THE COURT SHALL NOT CONSIDER THE
+10 PERSON'S ABSENCE A FAILURE TO APPEAR.
+11 SECTION 3. Act subject to petition - effective date -
+12 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+13 the expiration of the ninety-day period after final adjournment of the
+14 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+15 2026); except that, if a referendum petition is filed pursuant to section 1
+16 (3) of article V of the state constitution against this act or an item, section,
+17 or part of this act within such period, then the act, item, section, or part
+18 will not take effect unless approved by the people at the general election
+19 to be held in November 2026 and, in such case, will take effect on the
+20 date of the official declaration of the vote thereon by the governor.
+21 (2) This act applies to offenses committed on or after the
+22 applicable effective date of this act.
+-8- SB26-112

@@ -1,0 +1,307 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0650.01 Craig Harper x3481 HOUSE BILL 26-1173
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING FUNDING FOR CAPITAL CONSTRUCTION INFORMATION
+102 TECHNOLOGY, AND MAKING SUPPLEMENTAL APPROPRIATIONS
+103 IN CONNECTION THEREWITH.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Supplemental appropriations are made for capital construction
+information technology projects.
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+6202
+,21
+yraurbeF
+6202
+,11
+yraurbeF
+HOUSE SPONSORSHIP
+Sirota, Brown, Taggart, Duran, McCluskie, Paschal, Weinberg
+SENATE SPONSORSHIP
+Bridges, Amabile, Kirkmeyer
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Capital construction information technology
+3 appropriations for the fiscal year beginning July 1, 2025. In Session
+4 Laws of Colorado 2025, amend section 4 of chapter 476, (SB 25- 206),
+5 as follows:
+6 Section 4. Capital Construction Information Technology
+7 Appropriation.
+-2- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1 PART I
+2 STATE AGENCIES
+3
+4 (1) DEPARTMENT OF CORRECTIONS
+5 Offender Records Management 3,023,613 3,023,613
+6 Pharmacy System Replacement 1,467,321 1,208,710 258,611a
+7 4,490,934
+8
+9 a This amount shall be from the Medications for Opioid Use Disorder (OUD) and Medicaid Care Coordination in DOC Facilities Grant.
+10
+11 (2) DEPARTMENT OF EARLY CHILDHOOD
+12 Child Care Assistance Program 1,781,556 194,190a 1,587,366b
+13
+14 a This amount shall be from local funds and reflects the local share of costs of administering the Child Care Assistance Program and the local share of child care subsidies. The (L)
+15 and the (I) notation apply to this amount.
+-3- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1 b This amount shall be from Child Care Development Funds.
+2
+3
+4 (3) DEPARTMENT OF EDUCATION
+5 School Finance System
+6 Modernization 3,000,000 3,000,000
+7 Statewide Facility Assessments 1,470,000 1,470,000a
+8 4,470,000
+9
+10 a This amount shall be from the Public School Capital Construction Assistance Fund created in Section 22-43.7-104 (1), C.R.S.
+11
+12
+13 (4) DEPARTMENT OF HEALTH CARE POLICY AND FINANCING
+14 Colorado Benefits Management
+15 System Reprocurement 4,784,276 897,817 3,886,459(I)
+-4- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1 Social Health Information
+2 Exchange Project 8,139,343 1,203,920 6,935,423(I)
+3 12,923,619
+4
+5 (5) JUDICIAL DEPARTMENT
+6 Courts & Probation Case
+7 Management System 4,728,771 4,728,771a
+8
+9 a This amount shall be from the Judicial Department Information Technology Cash Fund created in Section 13-32-114 (1), C.R.S.
+10
+11 (6) DEPARTMENT OF LABOR AND EMPLOYMENT
+12 CoCo Replacement System 12,140,213 12,140,213a
+13
+14 a This amount shall be from the Major Medical Insurance Fund created in Section 8-46-202 (1)(a), C.R.S., the Subsequent Injury Fund created in Section 8-46-101 (1)(b)(I), C.R.S.,
+15 or the Workers' Compensation Cash Fund created in Section 8-44-112 (7)(a), C.R.S.
+-5- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2 (7) DEPARTMENT OF NATURAL RESOURCES
+3 Colorado Oil and Gas Information
+4 System 2,000,535 2,000,535a
+5
+6 a This amount shall be from Energy and Carbon Management Cash Fund created in Section 24-60-122 (5)(a), C.R.S.
+7
+8 (8) DEPARTMENT OF PERSONNEL
+9 Payroll Modernization 13,731,158 13,731,158
+10 OAC Court Management System 3,375,426 3,375,426a
+11 Statewide Procurement System 1,420,957 1,420,957b
+12 18,527,541
+13
+14 a This amount shall be from the Administrative Courts Cash Fund created in Section 24-30-1001 (3), C.R.S.
+15 b This amount shall be from the Supplier Database Cash Fund created in Section 24-102-202.5 (2)(a), C.R.S.
+-6- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2 (9) DEPARTMENT OF PUBLIC HEALTH
+3 Stationary Sources Modernization 2,000,000 2,000,000
+4 Colorado WIC System Upgrade 1,933,648 581,657 1,351,991(I)
+5 3,933,648
+6
+7 (10) DEPARTMENT OF PUBLIC SAFETY
+8 Records Utilization Upgrade 1,635,581 1,635,581
+9 Colorado Gang Database 250,000 250,000
+10 COLORADO CRIME INFORMATION
+11 CENTER FBI SYSTEM COMPLIANCE 735,000 735,000a
+12 1,885,581
+13 2,620,581
+14
+15 a THIS AMOUNT SHALL BE FROM THE COLORADO BUREAU OF INVESTIGATION IDENTIFICATION UNIT FUND CREATED IN SECTION 24-33.5-426, C.R.S.
+-7- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2 (11) DEPARTMENT OF REVENUE
+3 MED Seed to Sale Tracking 2,980,000 2,980,000
+4
+5 (12) DEPARTMENT OF HUMAN SERVICES
+6 REIMAGINING COLORADO'S
+7 BENEFITS ELIGIBILITY SYSTEM 19,462,080 7,363,145 12,098,935(I)
+8
+9 69,862,398
+10 90,059,478
+11
+12
+13 TOTALS PART I
+14 (STATE AGENCIES) $69,862,398 $30,512,456 $21,954,666 $3,634,037 $13,761,239
+15 $90,059,478 $37,875,601 $22,689,666 $25,860,174
+-8- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2
+3 PART II
+4 INSTITUTIONS OF HIGHER EDUCATION
+5
+6 (1) DEPARTMENT OF HIGHER EDUCATION
+7 (A) Auraria Higher Education Center
+8 Network Infrastructure
+9 Modernization 3,457,666 3,457,666
+10
+11 (B) Northwestern Community College
+12 South Campus Redundancy
+13 Upgrade 571,163 571,163
+14
+15 4,028,829
+-9- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2
+3 TOTALS PART II
+4 (INSTITUTIONS OF HIGHER
+5 EDUCATION) $4,028,829 $4,028,829
+6
+7
+8 GRAND TOTALS
+9 (INFORMATION
+10 TECHNOLOGY PROJECTS) $73,891,227 $34,541,285 $21,954,666 $3,634,037 $13,761,239a
+11 $94,088,307 $41,904,430 $22,689,666 $25,860,174a
+12
+13 a This amount contains an (I) notation.
+14
+-10- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1 SECTION 2. Capital construction information technology appropriations for the fiscal year beginning July 1, 2024. In Session Laws of Colorado 2024, section 4 of
+2 chapter 519, (HB 24-1430), amend Part I (3), Part II (1)(B), and the affected totals, as Part I and the affected totals are amended by Session Laws of Colorado 2025, section 1 of chapter
+3 475, (SB 25-112), as follows:
+4 Section 4. Capital Construction Information Technology Appropriation.
+5 PART I
+6 STATE AGENCIES
+7
+8 (3) DEPARTMENT OF HUMAN SERVICES
+9 Leveraging Technology for
+10 Seamless Human Services 16,516,500 3,716,625 12,799,875(I)
+11 Office of Civil and Forensic Mental
+12 Health Information Management
+13 Systems & Data Reporting 2,205,218 2,205,218
+14 18,721,718
+15
+16
+-11- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1 TOTALS PART I
+2 (STATE AGENCIES) $140,817,018 $69,072,489 $13,186,812 $276,088 $58,281,629
+3 $124,300,518 $65,355,864 $45,481,754
+4
+5
+6 PART II
+7 INSTITUTIONS OF HIGHER EDUCATION
+8
+9 (1) DEPARTMENT OF HIGHER EDUCATION
+10 (B) Metropolitan State University
+11 Reimagining the Campus Digital
+12 Experience 9,256,163 8,406,163 850,000a
+13 11,706,163 3,300,000a
+14 a This amount shall be from unrestricted institutional reserves.
+15
+-12- 1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+1
+2 TOTALS PART II
+3 (INSTITUTIONS OF HIGHER
+4 EDUCATION) $18,833,302 $17,764,180 $1,069,122
+5 $21,283,302 $3,519,122
+6
+7
+8 GRAND TOTALS
+9 (INFORMATION
+10 TECHNOLOGY PROJECTS) $159,650,320 $86,836,669 $14,255,934 $276,088 $58,281,629a
+11 $145,583,820 $83,120,044 $16,705,934 $45,481,754a
+12
+13 a This amount contains an (I) notation.
+14
+-13- 1173
+
+1 SECTION 3. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-14- 1173

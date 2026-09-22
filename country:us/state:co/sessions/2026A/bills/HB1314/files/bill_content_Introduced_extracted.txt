@@ -1,0 +1,326 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0703.01 Anna Petrini x5497 HOUSE BILL 26-1314
+HOUSE SPONSORSHIP
+English,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING INCREASING FAMILY STABILITY, AND, IN CONNECTION
+102 THEREWITH, ADDING OPTIONS AND REQUIREMENTS FOR COURT
+103 ORDERS IN PARENTING TIME DISPUTES, PRIORITIZING KINSHIP
+104 PLACEMENTS IN CERTAIN CIRCUMSTANCES, FACILITATING
+105 POST-ADOPTION GRANDPARENT CONTACT, AND CREATING A
+106 FOSTER CARE PREVENTION SERVICES PILOT PROGRAM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+In disputes concerning parenting time, the bill adds payment of a
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+monetary penalty to the aggrieved party, community service, and the use
+of court-approved parenting time tracking or communication tools to the
+list of orders a court may issue to address noncompliance with an existing
+parenting time order. The bill clarifies that orders in these disputes must
+be proportionate to the frequency and severity of intentional
+noncompliance.
+The bill requires the state department of human services, in
+coordination with the county departments of human or social services
+(county departments) and their delegate child support enforcement units,
+to develop protocols for referring a noncustodial parent who is in
+compliance with a child support obligation to supervised or facilitated
+family-time services.
+When a child or youth is removed from the home, the bill requires
+the court to prioritize the child's or youth's temporary placement with a
+relative or kin, unless the court finds by a preponderance of the evidence
+that temporary placement with the relative or kin is not in the best
+interests of the child. The bill authorizes modified safety and suitability
+assessments and a one-time placement stipend for approved emergency
+placement kinship caregivers under certain circumstances.
+The bill requires a court, before entering a final adoption decree,
+to make written findings regarding any existing grandparent-grandchild
+relationship. The court may order a post-adoption contact agreement
+(agreement) granting reasonable contact or family time to the
+grandparent. The bill specifies procedures for the denial, modification,
+enforcement, or termination of the agreement.
+The bill creates the foster care prevention services pilot program,
+which allows participating county departments to implement expedited
+kinship placement approval pathways, kinship navigator programs,
+one-time placement stipends for approved emergency placement kinship
+caregivers, and tools for tracking family time.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Placing a child or youth who has been removed from their
+5 home in safe kinship care settings promotes family stability, speeds
+6 permanency, and yields better long-term outcomes, which may include
+7 safe and timely reunification of a child or youth with their parent;
+8 (b) Kinship care providers play a critical role in securing child and
+-2- HB26-1314
+
+1 youth well-being, contributing to a sense of continuity and normalcy.
+2 Similarly, post-adoption contact between a child and a grandparent can
+3 be an ongoing source of support, stability, and affection.
+4 (c) Practical, child-centered enforcement of court orders when a
+5 parent violates parenting time orders must be proportionate to the
+6 frequency and severity of the noncompliance; and
+7 (d) Creating pathways for parents who are in compliance with
+8 child support obligations to access safe, supervised or facilitated family
+9 time services helps maintain vital family connections.
+10 (2) The general assembly finds, therefore, that targeted legislative
+11 reforms to prioritize and direct resources toward kinship placements,
+12 preserve post-adoption grandparent-grandchild relationships, strengthen
+13 parenting time enforcement tools, and coordinate access to family time
+14 services will promote the stability, safety, and well-being of children,
+15 youth, and families throughout the state.
+16 SECTION 2. In Colorado Revised Statutes, 14-10-129.5, amend
+17 (2) introductory portion, (2)(a), and (2)(e); and add (2)(b.9), (2)(c.5), and
+18 (2)(c.7), as follows:
+19 14-10-129.5. Disputes concerning parenting time - definition.
+20 (2) After the hearing, if a court finds that a parent has not
+21 complied with the parenting time order or schedule and has
+22 INTENTIONALLY violated the court order, the court, in the best interests of
+23 the child AND IN PROPORTION TO THE FREQUENCY AND SEVERITY OF THE
+24 NONCOMPLIANCE, shall issue an order that may include, but not be limited
+25 to, one or more of the following orders:
+26 (a) An order imposing additional terms and conditions that are
+27 consistent with the court's previous order; except that the court shall
+-3- HB26-1314
+
+1 separate the issues of child support and parenting time and shall not
+2 condition child support upon parenting time, THOUGH THE COURT MAY,
+3 CONSISTENT WITH SECTION 14-14-104 (4), CONSIDER CHILD SUPPORT
+4 COMPLIANCE WHEN FASHIONING REMEDIES PURSUANT TO THIS SUBSECTION
+5 (2);
+6 (b.9) AN ORDER REQUIRING THE PARTIES TO USE A
+7 COURT-APPROVED TOOL FOR TRACKING PARENTING TIME OR FACILITATING
+8 ELECTRONIC COMMUNICATION BETWEEN THE PARTIES;
+9 (c.5) AN ORDER REQUIRING THE PARENT WHO HAS FAILED TO
+10 PROVIDE COURT-ORDERED PARENTING TIME TO PAY A MONETARY PENALTY
+11 TO THE AGGRIEVED PARTY;
+12 (c.7) AN ORDER REQUIRING THE PARENT WHO HAS FAILED TO
+13 PROVIDE COURT-ORDERED PARENTING TIME TO PERFORM COMMUNITY
+14 SERVICE;
+15 (e) An FOLLOWING CONSIDERATION OF LESS RESTRICTIVE
+16 REMEDIES, AN order SUPPORTED BY WRITTEN FINDINGS finding the parent
+17 who did not comply with the parenting time schedule in contempt of court
+18 and imposing a fine or jail sentence;
+19 SECTION 3. In Colorado Revised Statutes, add 14-14-114 as
+20 follows:
+21 14-14-114. Family time services and child support
+22 coordination - definition.
+23 (1) THE STATE DEPARTMENT OF HUMAN SERVICES, IN
+24 COORDINATION WITH THE COUNTY DEPARTMENTS OF HUMAN OR SOCIAL
+25 SERVICES AND THEIR DELEGATE CHILD SUPPORT ENFORCEMENT UNITS,
+26 SHALL DEVELOP PROTOCOLS FOR REFERRING A NONCUSTODIAL PARENT
+27 WHO IS IN COMPLIANCE WITH A CHILD SUPPORT OBLIGATION TO
+-4- HB26-1314
+
+1 SUPERVISED OR FACILITATED FAMILY-TIME SERVICES IN ACCORDANCE
+2 WITH THE REQUIREMENTS OF SECTIONS 14-10-124, 14-10-129, 14-14-104
+3 (4), AND 19-3-217.
+4 (2) AS USED IN THIS SECTION, "COMPLIANCE WITH A CHILD
+5 SUPPORT OBLIGATION" MEANS MAKING ORDERED PAYMENTS FOR THE
+6 APPLICABLE TAX YEAR.
+7 (3) NOTHING IN THIS SECTION CREATES A PARENTAL RIGHT TO
+8 FAMILY TIME THAT SUPERCEDES A COURT'S DETERMINATION OF THE BEST
+9 INTERESTS OF THE CHILD WITH RESPECT TO FAMILY TIME.
+10 SECTION 4. In Colorado Revised Statutes, 19-3-403, amend
+11 (3.6)(a)(IV) introductory portion, (3.6)(a)(V), and (9) as follows:
+12 19-3-403. Temporary custody - hearing - time limits -
+13 restriction - rules.
+14 (3.6) (a) (IV) The court shall order a county department of human
+15 or social services to exercise due diligence AND DOCUMENT ITS ACTIVE
+16 EFFORTS to contact all grandparents and other adult relatives and
+17 identified kin within thirty days after the removal of the child or youth
+18 and to inform them about placement possibilities for the child or youth,
+19 unless the court determines there is good cause not to contact or good
+20 cause to delay contacting the child's or youth's relatives and kin,
+21 including, but not limited to, family or domestic violence.
+22 (V) (A) The court shall give preference to giving temporary
+23 placement to a child's or youth's relative or kin who is capable, willing,
+24 and available for care, giving primary consideration to the child's or
+25 youth's mental, physical, and emotional needs, including the child's or
+26 youth's preference regarding placement, UNLESS THE COURT FINDS BY A
+27 PREPONDERANCE OF THE EVIDENCE THAT TEMPORARY PLACEMENT WITH
+-5- HB26-1314
+
+1 THE RELATIVE OR KIN IS NOT IN THE BEST INTERESTS OF THE CHILD OR
+2 YOUTH. The court shall also find that there is no suitable birth or adoptive
+3 parent available, with due diligence having been exercised in attempting
+4 to locate any such THE birth or adoptive parent. A parent's objection to
+5 placement with a particular relative or kin is not alone sufficient to show
+6 that the proposed placement would hinder reunification. The court may
+7 place or continue custody with the county department of human or social
+8 services if the court is satisfied from the information presented at the
+9 hearing that such THE custody is appropriate and in the child's or youth's
+10 best interests, or the court may enter such other orders as are appropriate.
+11 (B) The court may authorize the county department of human or
+12 social services with custody of a child or youth to place the child or youth
+13 with a relative or kin without the necessity for a hearing if a county
+14 department of human or social services locates a capable and willing
+15 relative or kin who is available to care for the child or youth and the
+16 guardian ad litem of the child or youth concurs that the placement is in
+17 the best interests of the child or youth. If the county department of human
+18 or social services places a child or youth with a relative or kin without a
+19 hearing pursuant to this subsection (3.6)(a)(V) SUBSECTION
+20 (3.6)(a)(V)(B), the county department of human or social services shall
+21 fully inform the court of the details concerning the child's or youth's
+22 placement on the record at the next hearing. If the court enters an order
+23 removing a child or youth from the home or continuing a child or youth
+24 in a placement out of the home, the court shall make the findings required
+25 pursuant to section 19-1-115 (6) if such THE findings are warranted by the
+26 evidence.
+27 (C) IF THE COUNTY DEPARTMENT OF HUMAN OR SOCIAL SERVICES
+-6- HB26-1314
+
+1 PLACES A CHILD OR YOUTH WITH A RELATIVE OR KIN WITHOUT A HEARING
+2 PURSUANT TO SUBSECTION (3.6)(a)(V)(B) OF THIS SECTION, THE COUNTY
+3 DEPARTMENT OF HUMAN OR SOCIAL SERVICES SHALL COMPLETE A
+4 MODIFIED SAFETY AND SUITABILITY ASSESSMENT FOR THE PLACEMENT
+5 WITHIN FOURTEEN DAYS AFTER THE COUNTY DEPARTMENT HAS IDENTIFIED
+6 A RELATIVE OR KIN WHO IS CAPABLE, WILLING, AND AVAILABLE FOR CARE,
+7 INCLUDING A FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECK
+8 PURSUANT TO SECTION 19-3-406. THE COUNTY DEPARTMENT OF HUMAN
+9 OR SOCIAL SERVICES MAY PERMIT CONTINUED TEMPORARY PLACEMENT
+10 WITH A RELATIVE OR KIN, PENDING CERTIFICATION AS A KINSHIP FOSTER
+11 HOME. IF NINETY DAYS HAVE ELAPSED SINCE REMOVAL AND THE RELATIVE
+12 OR KIN IS NOT PURSUING CERTIFICATION AS A KINSHIP FOSTER HOME, THE
+13 COUNTY DEPARTMENT OF HUMAN OR SOCIAL SERVICES SHALL EVALUATE
+14 ALTERNATIVE PLACEMENTS.
+15 (9) If the sole issue preventing an emergency placement of a child
+16 with a relative or kin is a lack of resources, the county department shall
+17 use reasonable efforts to assist the relative or kin with obtaining the
+18 necessary items within existing available resources. SUBJECT TO THE
+19 AVAILABILITY OF EXISTING RESOURCES AND IN PROPORTION TO THE NEEDS
+20 OF AN APPROVED EMERGENCY PLACEMENT KINSHIP CAREGIVER,
+21 REASONABLE EFFORTS MUST INCLUDE A ONE-TIME PLACEMENT STIPEND
+22 FOR THE APPROVED EMERGENCY PLACEMENT KINSHIP CAREGIVER.
+23 SECTION 5. In Colorado Revised Statutes, 19-5-208, add
+24 (4.5)(i) as follows:
+25 19-5-208. Petition for adoption - open adoption - post-adoption
+26 contact agreement.
+27 (4.5) (i) BEFORE ENTERING A FINAL ADOPTION DECREE, THE COURT
+-7- HB26-1314
+
+1 SHALL MAKE WRITTEN FINDINGS REGARDING ANY EXISTING RELATIONSHIP
+2 BETWEEN THE CHILD AND A GRANDPARENT OF THE CHILD.
+3 NOTWITHSTANDING ANY PROVISION OF THIS SUBSECTION (4.5) TO THE
+4 CONTRARY, UNLESS THE COURT FINDS BY CLEAR AND CONVINCING
+5 EVIDENCE THAT CONTINUED CONTACT WITH A GRANDPARENT IS
+6 DETRIMENTAL TO THE CHILD'S BEST INTERESTS, THE COURT MAY, WITHOUT
+7 A REQUEST FROM THE PETITIONER, ORDER A POST-ADOPTION CONTACT
+8 AGREEMENT GRANTING REASONABLE CONTACT OR FAMILY TIME TO THE
+9 GRANDPARENT. THE COURT MUST CONSIDER THE PETITIONER'S AND
+10 CHILD'S WISHES WITH RESPECT TO A GRANDPARENT'S POST-ADOPTION
+11 CONTACT AGREEMENT.
+12 SECTION 6. In Colorado Revised Statutes, 19-5-217, add (9) as
+13 follows:
+14 19-5-217. Enforcement or termination of post-adoption
+15 contact agreement.
+16 (9) THE COURT SHALL MAKE SPECIFIC FINDINGS IF THE COURT
+17 DENIES, LIMITS, OR TERMINATES A GRANDPARENT'S POST-ADOPTION
+18 CONTACT AGREEMENT ORDERED PURSUANT TO SECTION 19-5-208 (4.5)(i).
+19 SPECIFIC FINDINGS MUST ADDRESS HOW THE COURT'S DECISION ALIGNS
+20 WITH THE BEST INTERESTS OF THE ADOPTED CHILD, INCLUDING THE
+21 CHILD'S EMOTIONAL, PHYSICAL, AND DEVELOPMENTAL NEEDS AND
+22 WELL-BEING; RELEVANT CHANGES IN CIRCUMSTANCES; AND THE EXPRESS
+23 WISHES OF THE ADOPTED CHILD REGARDING CONTACT WITH THE
+24 GRANDPARENT.
+25 SECTION 7. In Colorado Revised Statutes, add 26-5.4-107 as
+26 follows:
+27 26-5.4-107. Foster care prevention services pilot program -
+-8- HB26-1314
+
+1 rules.
+2 (1) ON OR AFTER JULY 1, 2027, THE FOSTER CARE PREVENTION
+3 SERVICES PILOT PROGRAM, REFERRED TO IN THIS SECTION AS THE "PILOT",
+4 IS CREATED IN THE STATE DEPARTMENT. THE PILOT ALLOWS A COUNTY
+5 DEPARTMENT THAT IS PARTICIPATING IN THE PILOT PURSUANT TO THIS
+6 SECTION AND RULES ADOPTED BY THE STATE DEPARTMENT TO IMPLEMENT
+7 EXPEDITED KINSHIP ASSESSMENTS AND TEMPORARY KINSHIP PLACEMENT
+8 APPROVAL PATHWAYS PURSUANT TO SECTION 19-3-403 (3.6), KINSHIP
+9 NAVIGATOR PROGRAMS, ONE-TIME PLACEMENT STIPENDS FOR APPROVED
+10 EMERGENCY PLACEMENT KINSHIP CAREGIVERS PURSUANT TO SECTION
+11 19-3-403 (9), AND TOOLS FOR TRACKING FAMILY TIME PURSUANT TO
+12 SECTION 14-10-129 (2)(b.9).
+13 (2) THE STATE DEPARTMENT SHALL SELECT THREE COUNTY
+14 DEPARTMENTS TO PARTICIPATE IN THE PILOT. TWO OF THE PARTICIPATING
+15 COUNTY DEPARTMENTS MUST SERVE A COUNTY OR CITY AND COUNTY
+16 WITH A POPULATION OF MORE THAN SEVEN HUNDRED THOUSAND PERSONS
+17 ACCORDING TO THE LAST PRECEDING FEDERAL CENSUS. ONE OF THE
+18 PARTICIPATING COUNTY DEPARTMENTS MUST SERVE A COUNTY OR CITY
+19 AND COUNTY WITH A POPULATION OF MORE THAN ONE HUNDRED SIXTY
+20 THOUSAND PERSONS BUT FEWER THAN THREE HUNDRED THOUSAND
+21 PERSONS ACCORDING TO THE LAST PRECEDING FEDERAL CENSUS.
+22 (3) THE STATE DEPARTMENT MAY ADOPT RULES FOR THE
+23 IMPLEMENTATION OF THIS SECTION. THE RULES MUST INCLUDE A PROCESS
+24 AND DEADLINES FOR COUNTIES TO APPLY TO PARTICIPATE IN THE PILOT
+25 AND FOR THE STATE DEPARTMENT TO SELECT PARTICIPATING COUNTIES.
+26 (4) THE STATE DEPARTMENT IS AUTHORIZED TO SEEK, ACCEPT,
+27 AND EXPEND GIFTS, GRANTS, OR DONATIONS FROM PRIVATE OR PUBLIC
+-9- HB26-1314
+
+1 SOURCES FOR THE PURPOSES OF THIS SECTION.
+2 (5) (a) THE STATE DEPARTMENT SHALL EVALUATE THE PILOT'S
+3 SUCCESS OR FAILURE, INCLUDING A CONSIDERATION OF THE PILOT'S
+4 EFFECTIVENESS IN ACHIEVING OUTCOMES OVER A TWELVE-MONTH PERIOD.
+5 (b) AS NECESSARY TO CONDUCT THE EVALUATION AND COMPLETE
+6 THE REPORTS REQUIRED PURSUANT TO THIS SUBSECTION (5), EACH
+7 PARTICIPATING COUNTY DEPARTMENT SHALL SUBMIT TO THE STATE
+8 DEPARTMENT A REPORT CONCERNING THE PARTICIPATING COUNTY
+9 DEPARTMENT'S ADMINISTRATION AND UTILIZATION OF THE PILOT. THE
+10 REPORT MUST INCLUDE RELEVANT DATA FROM THE PARTICIPATING
+11 COUNTY AS REQUIRED BY THE STATE DEPARTMENT TO EVALUATE THE
+12 PILOT AND TO PREPARE ITS REPORT TO THE GENERAL ASSEMBLY PURSUANT
+13 TO SUBSECTION (5)(c) OF THIS SECTION. THE DATA MUST INCLUDE
+14 INFORMATION ON THE NUMBER, TYPE, AND COSTS OF KINSHIP CARE
+15 PLACEMENTS, THE LENGTH OF TIME BETWEEN REMOVAL AND KINSHIP CARE
+16 PLACEMENTS, THE NUMBER OF DAYS A CHILD OR YOUTH SPENDS IN
+17 OUT-OF-HOME PLACEMENT WITH NON-KIN PRIOR TO KINSHIP CARE
+18 PLACEMENT, FAMILY TIME COMPLIANCE RATES, AND PERMANENCY
+19 OUTCOMES FOR:
+20 (I) A CHILD OR YOUTH WHOSE INITIAL OUT-OF-HOME PLACEMENT
+21 IS WITH NON-KIN AND WHO IS LATER MOVED TO A KINSHIP CARE
+22 PLACEMENT; AND
+23 (II) A CHILD OR YOUTH WHO IS PLACED DIRECTLY IN KINSHIP CARE.
+24 (c) IN JANUARY 2029, THE STATE DEPARTMENT SHALL REPORT ON
+25 THE IMPLEMENTATION AND EFFECT OF THE PILOT TO THE HEALTH AND
+26 HUMAN SERVICES COMMITTEES OF THE SENATE AND THE HOUSE OF
+27 REPRESENTATIVES, OR ANY SUCCESSOR COMMITTEES, AS PART OF ITS
+-10- HB26-1314
+
+1 "SMART ACT" PRESENTATION REQUIRED PURSUANT TO SECTION 2-7-203.
+2 THE REPORT MUST INCLUDE, AT A MINIMUM:
+3 (I) A DESCRIPTION OF THE PILOT'S COSTS, OUTCOMES, AND ANY
+4 SPECIFIC PROBLEMS THAT THE STATE DEPARTMENT OR ANY PARTICIPATING
+5 COUNTY DEPARTMENT ENCOUNTERED DURING THE ADMINISTRATION OF
+6 THE PILOT, ALONG WITH RECOMMENDATIONS THAT THE STATE
+7 DEPARTMENT HAS FOR LEGISLATION TO ADDRESS THE PROBLEMS; AND
+8 (II) A RECOMMENDATION BY THE STATE DEPARTMENT REGARDING
+9 WHETHER THE GENERAL ASSEMBLY SHOULD REPEAL THE PILOT, CONTINUE
+10 THE PILOT FOR A SPECIFIED TIME PERIOD, OR ESTABLISH THE PILOT
+11 STATEWIDE ON A PERMANENT BASIS.
+12 SECTION 8. Safety clause. The general assembly finds,
+13 determines, and declares that this act is necessary for the immediate
+14 preservation of the public peace, health, or safety or for appropriations for
+15 the support and maintenance of the departments of the state and state
+16 institutions.
+-11- HB26-1314

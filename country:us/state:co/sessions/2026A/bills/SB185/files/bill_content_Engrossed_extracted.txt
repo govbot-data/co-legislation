@@ -1,0 +1,357 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0979.02 Nicole Myers x4326 SENATE BILL 26-185
+Senate Committees House Committees
+Business, Labor, & Technology
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ENHANCE THE OFFICE OF INFORMATION
+102 TECHNOLOGY'S SECURITY PROCEDURES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Technology Committee. The bill allows the joint
+technology committee (JTC), within 90 days after the day that the chief
+information security officer of the office of information technology
+(security officer) files a written information technology compliance report
+(compliance report) with the JTC as required by the bill, to vote to request
+that the legislative audit committee direct the state auditor to conduct a
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,7
+yaM
+SENATE SPONSORSHIP
+Marchman and Baisley,
+HOUSE SPONSORSHIP
+Titone and Keltie, Paschal
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+special information technology security audit (IT security audit) of the
+office of information technology (OIT) if the compliance report indicates
+that one or more audit recommendations made by the state auditor is
+unresolved 2 or more years past the implementation date for the audit
+recommendation or if a material discrepancy exists between a
+representation in the compliance report and a previous audit finding.
+If the JTC votes to request an IT security audit and if the
+legislative audit committee votes to direct the audit, the bill requires:
+! The state auditor to conduct the IT security audit;
+! The state auditor to obtain input from OIT when the state
+auditor determines the scope and boundaries of the audit;
+! The state auditor to submit the IT security audit report to
+the legislative audit committee, the JTC, the joint budget
+committee, and the governor; and
+! OIT to reimburse the state auditor for the auditor's costs
+incurred in completing the IT security audit.
+The bill requires OIT to establish, maintain, keep, update, and
+make available to state agency information technology leadership and the
+members of the JTC, a list of all active information technology vendor
+contracts for state agencies.
+The bill specifies that, except in the case of an information
+technology security emergency, OIT shall not publish or implement a
+technical information technology standard, and that the standard is void,
+unless the standard:
+! Was publicly posted; and
+! Received approval from the security officer if the standard
+relates to security, access controls, or the handling of data.
+The bill requires OIT to ensure that, if an information technology
+contract provides ongoing service and delivery to Coloradans, that the
+contract maintains current architecture diagrams that are updated at least
+annually.
+The bill prohibits the chief information officer from delegating a
+duty, responsibility, or power of the security officer.
+The bill requires the security officer to submit 2 annual reports to
+the JTC. The first report is a written compliance report that includes OIT's
+current compliance status with applicable security standards; all open
+audit recommendations regarding OIT made by the state auditor and the
+date on which each recommendation was made; and a timeline for
+remediation and a mitigation plan or compensation controls for each open
+audit recommendation made by the state auditor.
+The second report is a written statewide information technology
+security risk report (security risk report) that assesses the overall security
+risk posture of state agency information technology systems. To support
+the preparation of the security risk report, the security officer may
+conduct evaluations of state agency information technology systems,
+-2- 185
+
+including penetration testing, vulnerability scanning, configuration
+evaluations, and vendor and system reviews. Each state agency shall
+provide to the security officer, upon request, the access and information
+necessary to conduct evaluations of state agency technology systems,
+including system access, product information, and architecture
+information.
+The bill requires the security officer, or the chief information
+officer if the security officer is unavailable, to perform the duties and
+uphold the responsibilities assigned to the security officer pursuant to
+law.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 2-3-1704, add (13),
+3 (14), and (15) as follows:
+4 2-3-1704. Powers and duties of the joint technology committee.
+5 (13) THE COMMITTEE MAY CALL THE CHIEF INFORMATION
+6 SECURITY OFFICER TO TESTIFY BEFORE THE COMMITTEE REGARDING THE
+7 WRITTEN INFORMATION TECHNOLOGY SECURITY COMPLIANCE REPORT
+8 THAT THE CHIEF INFORMATION SECURITY OFFICER IS REQUIRED TO SUBMIT
+9 TO THE COMMITTEE PURSUANT TO SECTION 24-37.5-403 (2)(j).
+10 (14) WITHIN NINETY DAYS AFTER THE DAY THAT THE CHIEF
+11 INFORMATION SECURITY OFFICER OF THE OFFICE OF INFORMATION
+12 TECHNOLOGY FILES A WRITTEN INFORMATION TECHNOLOGY SECURITY
+13 COMPLIANCE REPORT AS REQUIRED BY SECTION 24-37.5-403 (2)(j), THE
+14 COMMITTEE MAY VOTE TO FORMALLY REQUEST THAT THE LEGISLATIVE
+15 AUDIT COMMITTEE, PURSUANT TO SECTION 2-3-108, VOTE TO DIRECT A
+16 SPECIAL INFORMATION TECHNOLOGY SECURITY AUDIT OF THE OFFICE IN
+17 ACCORDANCE WITH THE STATE AUDITOR'S AUTHORITY RELATED TO
+18 INFORMATION TECHNOLOGY SYSTEMS AS DESCRIBED IN SECTION 2-3-103
+19 (1.5), IF:
+20 (a) THE WRITTEN INFORMATION TECHNOLOGY SECURITY
+-3- 185
+
+1 COMPLIANCE REPORT REQUIRED BY SECTION 24-37.5-403 (2)(j) INDICATES
+2 THAT ONE OR MORE AUDIT RECOMMENDATIONS MADE BY THE STATE
+3 AUDITOR IS UNRESOLVED TWO OR MORE YEARS PAST THE
+4 IMPLEMENTATION DATE FOR THE AUDIT RECOMMENDATION TO WHICH THE
+5 OFFICE COMMITTED IN A PRIOR COMPLIANCE REPORT; OR
+6 (b) A MATERIAL DISCREPANCY EXISTS BETWEEN A
+7 REPRESENTATION MADE IN THE WRITTEN INFORMATION TECHNOLOGY
+8 SECURITY COMPLIANCE REPORT REQUIRED BY SECTION 24-37.5-403 (2)(j)
+9 AND A FINDING MADE IN A PREVIOUS AUDIT BY THE STATE AUDITOR.
+10 (15) (a) IF A MAJORITY OF THE COMMITTEE VOTES TO REQUEST
+11 THAT THE LEGISLATIVE AUDIT COMMITTEE DIRECT A SPECIAL
+12 INFORMATION TECHNOLOGY SECURITY AUDIT PURSUANT TO SUBSECTION
+13 (14) OF THIS SECTION AND IF A MAJORITY OF THE LEGISLATIVE AUDIT
+14 COMMITTEE VOTES TO APPROVE AN AUDIT PURSUANT TO SECTION 2-3-108,
+15 THE STATE AUDITOR SHALL CONDUCT THE INFORMATION TECHNOLOGY
+16 SECURITY AUDIT AND MAY CONTRACT WITH A QUALIFIED THIRD-PARTY
+17 INFORMATION TECHNOLOGY SECURITY FIRM TO CONDUCT THE AUDIT. THE
+18 STATE AUDITOR SHALL OBTAIN INPUT FROM THE OFFICE OF INFORMATION
+19 TECHNOLOGY WHEN THE STATE AUDITOR DETERMINES THE SCOPE AND
+20 BOUNDARIES OF THE AUDIT, TAKING INTO CONSIDERATION THE RESOURCES
+21 AVAILABLE TO THE OFFICE TO REIMBURSE THE AUDITOR FOR THE COST OF
+22 THE AUDIT PURSUANT TO SUBSECTION (15)(b) OF THIS SECTION.
+23 (b) THE STATE AUDITOR SHALL, WITHIN TWELVE MONTHS OF THE
+24 AFFIRMATIVE VOTE OF A MAJORITY OF THE LEGISLATIVE AUDIT
+25 COMMITTEE, PRODUCE AN INFORMATION TECHNOLOGY SECURITY AUDIT
+26 REPORT AND SUBMIT THE AUDIT REPORT TO THE LEGISLATIVE AUDIT
+27 COMMITTEE, AFTER WHICH THE STATE AUDITOR SHALL SUBMIT THE
+-4- 185
+
+1 REPORT TO THE COMMITTEE, THE JOINT BUDGET COMMITTEE, AND THE
+2 GOVERNOR. PURSUANT TO SECTION 2-3-110, THE OFFICE SHALL
+3 REIMBURSE THE STATE AUDITOR FOR AN AUDIT CONDUCTED PURSUANT TO
+4 SUBSECTION (14) OF THIS SECTION. THE REIMBURSEMENT MAY BE PAID
+5 FROM THE TECHNOLOGY RISK PREVENTION AND RESPONSE FUND CREATED
+6 IN SECTION 24-37.5-120.
+7 SECTION 2. In Colorado Revised Statutes, 24-37.5-105, amend
+8 (3)(c), (3)(d), (6)(c), and (6)(d); and add (3)(e), (4.5), and (6)(e) as
+9 follows:
+10 24-37.5-105. Office - roles - responsibilities - state search
+11 interface - rules - legislative declaration - definitions.
+12 (3) The office shall:
+13 (c) Assist the joint technology committee as necessary to facilitate
+14 the committee's oversight of the office; and
+15 (d) Establish, maintain, and keep an inventory of information
+16 technology owned by or held in trust for every state agency; AND
+17 (e) (I) ESTABLISH, MAINTAIN, KEEP, QUARTERLY UPDATE, AND
+18 MAKE AVAILABLE TO STATE AGENCY INFORMATION TECHNOLOGY
+19 LEADERSHIP AND THE MEMBERS OF THE JOINT TECHNOLOGY COMMITTEE,
+20 A LIST OF ALL ACTIVE INFORMATION TECHNOLOGY VENDOR CONTRACTS
+21 FOR STATE AGENCIES AS DESCRIBED IN SUBSECTION (6) OF THIS SECTION.
+22 FOR EACH INFORMATION TECHNOLOGY VENDOR CONTRACT, THE LIST MUST
+23 INCLUDE:
+24 (A) THE NAME OF THE VENDOR;
+25 (B) THE VALUE OF THE CONTRACT;
+26 (C) THE DATE ON WHICH THE CONTRACT EXPIRES; AND
+27 (D) THE DATA CLASSIFICATION - BUSINESS CRITICALITY TIER OF
+-5- 185
+
+1 THE CONTRACT.
+2 (II) IF A STATE AGENCY INITIATES SOLICITATIONS AND CONTRACTS
+3 FOR INFORMATION TECHNOLOGY RESOURCES WITH PRIOR APPROVAL OF THE
+4 PROCUREMENT OFFICIAL FOR THE OFFICE PURSUANT TO SUBSECTION (6) OF
+5 THIS SECTION, THE STATE AGENCY SHALL PROVIDE TO THE OFFICE THE
+6 INFORMATION SPECIFIED IN SUBSECTION (3)(e)(I) OF THIS SECTION FOR
+7 EACH INFORMATION TECHNOLOGY VENDOR CONTRACT, AND THE OFFICE
+8 SHALL INCLUDE THE INFORMATION IN THE LIST REQUIRED BY THIS
+9 SUBSECTION (3)(e).
+10 (III) THE OFFICE SHALL SUBMIT A ONE-TIME INFORMATION
+11 TECHNOLOGY BUDGET REQUEST TO THE JOINT TECHNOLOGY COMMITTEE
+12 FOR THE COST OF BUILDING AND IMPLEMENTING THE LIST REQUIRED BY
+13 THIS SUBSECTION (3)(e). IF, AFTER THE BUDGET REQUEST IS APPROVED,
+14 THE OFFICE DETERMINES THAT MORE MONEY IS NEEDED TO IMPLEMENT
+15 AND MAINTAIN THE LIST, THE OFFICE MAY REQUEST THAT THE GENERAL
+16 ASSEMBLY ALLOCATE ADDITIONAL MONEY FROM THE TECHNOLOGY RISK
+17 PREVENTION AND RESPONSE FUND CREATED IN SECTION 24-37.5-120.
+18 (4.5) Technical information technology standards. (a) EXCEPT
+19 AS OTHERWISE PROVIDED IN SUBSECTION (4.5)(b) OF THIS SECTION, THE
+20 OFFICE SHALL NOT PUBLISH OR IMPLEMENT A TECHNICAL INFORMATION
+21 TECHNOLOGY STANDARD THAT IS ESTABLISHED PURSUANT TO SUBSECTION
+22 (4) OF THIS SECTION, AND THE STANDARD IS VOID, UNLESS:
+23 (I) THE OFFICE HAS PUBLICLY POSTED THE STANDARD; AND
+24 (II) THE CHIEF INFORMATION SECURITY OFFICER HAS APPROVED
+25 THE STANDARD, IF THE STANDARD RELATES TO SECURITY, ACCESS
+26 CONTROLS, OR THE HANDLING OF DATA.
+27 (b) THE PROVISIONS OF SUBSECTION (4.5)(a) OF THIS SECTION DO
+-6- 185
+
+1 NOT APPLY WHEN THE CHIEF INFORMATION SECURITY OFFICER DETERMINES
+2 IN WRITING THAT AN INFORMATION TECHNOLOGY SECURITY EMERGENCY
+3 EXISTS. FOR PURPOSES OF THIS SUBSECTION (4.5), AN INFORMATION
+4 TECHNOLOGY SECURITY EMERGENCY MEANS A SITUATION IN WHICH AN
+5 IMMINENT OR ACTIVE THREAT TO STATE INFORMATION TECHNOLOGY
+6 SYSTEMS REQUIRES THE IMMEDIATE IMPLEMENTATION OF A SECURITY
+7 STANDARD TO PREVENT OR MITIGATE SIGNIFICANT HARM TO STATE DATA,
+8 SYSTEMS, OR OPERATIONS.
+9 (c) IF THE OFFICE IMPLEMENTS A SECURITY STANDARD IN RESPONSE
+10 TO AN INFORMATION TECHNOLOGY SECURITY EMERGENCY PURSUANT TO
+11 SUBSECTION (4.5)(b) OF THIS SECTION, THE OFFICE SHALL POST THE
+12 STANDARD ON THE OFFICE'S WEBSITE WITHIN SEVENTY-TWO HOURS OF THE
+13 IMPLEMENTATION OF THE SECURITY STANDARD. A SECURITY STANDARD
+14 IMPLEMENTED PURSUANT TO SUBSECTION (4.5)(b) OF THIS SECTION
+15 EXPIRES NINETY DAYS AFTER IMPLEMENTATION UNLESS, PRIOR TO
+16 EXPIRATION, THE OFFICE COMPLIES WITH THE REQUIREMENTS OF
+17 SUBSECTION (4.5)(a) OF THIS SECTION.
+18 (6) Technology purchasing. The office shall initiate the
+19 procurement of information technology resources for state agencies and
+20 enter into agreements or contracts on behalf of a state agency, multiple
+21 agencies, or the office, or be a party to procurement contracts that are
+22 initiated by state agencies. A state agency may initiate solicitations and
+23 contracts for information technology resources only with prior approval
+24 of the procurement official for the office, and must include provisions
+25 allowing the office to enforce technology and security standards or
+26 conduct due diligence or audits of the contractors. If the state agency does
+27 not receive written approval or disapproval from the procurement official
+-7- 185
+
+1 for the office within thirty business days after submitting the procurement
+2 request to the office for review, the state agency may assume that it has
+3 received the prior approval of the office, as required by this subsection (6),
+4 and is authorized to initiate the procurement or solicitation process. In
+5 connection with the procurement of information technology resources, the
+6 office shall:
+7 (c) Oversee information technology vendors on behalf of the state
+8 and state agencies except when delegated to a state agency pursuant to
+9 section 24-37.5-105.4; and
+10 (d) If the office does not have oversight of an information
+11 technology or services contract, ensure that the state agency with oversight
+12 of the contract operates pursuant to section 24-37.5-105.4 regarding the
+13 delegation of authority; AND
+14 (e) IF A CONTRACT PROVIDES ONGOING SERVICE AND DELIVERY TO
+15 COLORADANS, ENSURE THAT THE CONTRACT MAINTAINS CURRENT
+16 ARCHITECTURE DIAGRAMS THAT ARE UPDATED AT LEAST ANNUALLY.
+17 SECTION 3. In Colorado Revised Statutes, 24-37.5-105.4,
+18 amend (1) introductory portion as follows:
+19 24-37.5-105.4. Delegation of authority.
+20 (1) The chief information officer may delegate an information
+21 technology function of the office to another state agency by agreement or
+22 other means authorized by law, EXCEPT THAT THE CHIEF INFORMATION
+23 OFFICER SHALL NOT DELEGATE A DUTY, RESPONSIBILITY, OR POWER OF THE
+24 CHIEF INFORMATION SECURITY OFFICER. The chief information officer may
+25 delegate an information technology function of the office if in the
+26 judgment of the director of the state agency and the chief information
+27 officer:
+-8- 185
+
+1 SECTION 4. In Colorado Revised Statutes, 24-37.5-403, amend
+2 (1), (2)(h), and (2)(i); and add (2)(j), (2)(k), and (4) as follows:
+3 24-37.5-403. Chief information security officer - duties and
+4 responsibilities.
+5 (1) The chief information officer shall appoint a chief information
+6 security officer who shall serve at the pleasure of the chief information
+7 officer. The security officer shall report to and be under the supervision
+8 of the chief information officer. The security officer shall exhibit a
+9 background and expertise in security and risk management for
+10 communications and information TECHNOLOGY resources. In the event the
+11 security officer is unavailable to perform the duties and responsibilities
+12 under this part 4, all powers and authority granted to the security officer
+13 may MUST be exercised by the chief information officer.
+14 (2) The chief information security officer shall:
+15 (h) In coordination and consultation with the office of state
+16 planning and budgeting and the chief information officer, review public
+17 agency budget requests related to information security systems and
+18 approve such budget requests for state agencies other than the legislative
+19 department; and
+20 (i) Coordinate with the Colorado commission on higher education
+21 for purposes of reviewing and commenting TO REVIEW AND COMMENT on
+22 information security plans adopted by institutions of higher education that
+23 are submitted pursuant to section 24-37.5-404.5 (3);
+24 (j) SUBMIT TO THE JOINT TECHNOLOGY COMMITTEE, ON OR BEFORE
+25 NOVEMBER 1, 2027, AND ON OR BEFORE NOVEMBER 1 OF EACH YEAR
+26 THEREAFTER, A WRITTEN INFORMATION TECHNOLOGY SECURITY
+27 COMPLIANCE REPORT THAT INCLUDES THE FOLLOWING INFORMATION:
+-9- 185
+
+1 (I) THE OFFICE'S CURRENT COMPLIANCE STATUS WITH APPLICABLE
+2 SECURITY STANDARDS;
+3 (II) ALL OPEN AUDIT RECOMMENDATIONS MADE BY THE OFFICE OF
+4 THE STATE AUDITOR AND THE DATE ON WHICH EACH RECOMMENDATION
+5 WAS MADE;
+6 (III) A TIMELINE FOR REMEDIATION FOR EACH OPEN
+7 RECOMMENDATION MADE BY THE OFFICE OF THE STATE AUDITOR; AND
+8 (IV) A MITIGATION PLAN OR COMPENSATING CONTROLS FOR THE
+9 REMEDIATION OF EACH OPEN RECOMMENDATION MADE BY THE OFFICE OF
+10 THE STATE AUDITOR; AND
+11 (k) (I) SUBMIT TO THE JOINT TECHNOLOGY COMMITTEE, ON OR
+12 BEFORE NOVEMBER 1, 2027, AND ON OR BEFORE NOVEMBER 1 OF EACH
+13 YEAR THEREAFTER, A WRITTEN STATEWIDE INFORMATION TECHNOLOGY
+14 SECURITY RISK REPORT THAT ASSESSES THE OVERALL SECURITY RISK
+15 POSTURE OF STATE AGENCY INFORMATION TECHNOLOGY SYSTEMS.
+16 (II) TO SUPPORT THE PREPARATION OF THE SECURITY RISK REPORT
+17 REQUIRED BY SUBSECTION (2)(k)(I) OF THIS SECTION, THE CHIEF
+18 INFORMATION SECURITY OFFICER MAY CONDUCT EVALUATIONS OF STATE
+19 AGENCY INFORMATION TECHNOLOGY SYSTEMS AS THE CHIEF INFORMATION
+20 SECURITY OFFICER DEEMS NECESSARY, INCLUDING PENETRATION TESTING,
+21 VULNERABILITY SCANNING, CONFIGURATION EVALUATIONS, AND VENDOR
+22 AND SYSTEM REVIEWS.
+23 (III) EACH STATE AGENCY SHALL PROVIDE TO THE CHIEF
+24 INFORMATION SECURITY OFFICER, UPON REQUEST, THE ACCESS AND
+25 INFORMATION NECESSARY TO CONDUCT EVALUATIONS PURSUANT TO
+26 SUBSECTION (2)(k)(II) OF THIS SECTION, INCLUDING SYSTEM ACCESS,
+27 PRODUCT INFORMATION, AND ARCHITECTURE INFORMATION.
+-10- 185
+
+1 (4) THE CHIEF INFORMATION SECURITY OFFICER, OR THE CHIEF
+2 INFORMATION OFFICER IF THE SECURITY OFFICER IS UNAVAILABLE, SHALL
+3 PERFORM THE DUTIES AND UPHOLD THE RESPONSIBILITIES ASSIGNED TO THE
+4 CHIEF INFORMATION SECURITY OFFICER PURSUANT TO THIS PART 4. THE
+5 CHIEF INFORMATION OFFICER SHALL NOT DELEGATE THE DUTIES,
+6 RESPONSIBILITIES, OR POWERS OF THE CHIEF INFORMATION SECURITY
+7 OFFICER TO ANY PERSON OTHER THAN THE CHIEF INFORMATION SECURITY
+8 OFFICER. NOTHING IN THIS SECTION PREVENTS THE CHIEF INFORMATION
+9 SECURITY OFFICER FROM DIRECTING PERSONNEL WITHIN THE INFORMATION
+10 SECURITY OFFICE TO CARRY OUT SECURITY FUNCTIONS UNDER THE CHIEF
+11 INFORMATION SECURITY OFFICER'S SUPERVISION AND ACCOUNTABILITY.
+12 THE CHIEF INFORMATION SECURITY OFFICER IS RESPONSIBLE FOR THE
+13 ACCURACY OF THE COMPLIANCE REPORT REQUIRED IN SUBSECTION (2)(j)
+14 OF THIS SECTION AND THE SECURITY RISK REPORT REQUIRED IN
+15 SUBSECTION (2)(k) OF THIS SECTION, REGARDLESS OF WHICH PERSONNEL
+16 CONTRIBUTED TO THE PREPARATION OF THE REPORTS.
+17 SECTION 5. Act subject to petition - effective date. This act
+18 takes effect at 12:01 a.m. on the day following the expiration of the
+19 ninety-day period after final adjournment of the general assembly (August
+20 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+21 referendum petition is filed pursuant to section 1 (3) of article V of the
+22 state constitution against this act or an item, section, or part of this act
+23 within such period, then the act, item, section, or part will not take effect
+24 unless approved by the people at the general election to be held in
+25 November 2026 and, in such case, will take effect on the date of the
+26 official declaration of the vote thereon by the governor.
+-11- 185

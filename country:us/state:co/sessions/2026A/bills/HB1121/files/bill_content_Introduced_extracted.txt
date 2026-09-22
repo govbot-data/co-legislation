@@ -1,0 +1,204 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0594.01 Sarah Lozano x3858 HOUSE BILL 26-1121
+HOUSE SPONSORSHIP
+Marshall and Garcia,
+SENATE SPONSORSHIP
+Cutter and Kipp,
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING REQUIRING PUBLIC ACCESSIBILITY OF STATIONARY
+102 SOURCE EMISSIONS RECORDS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Beginning January 1, 2028, the bill requires a person that owns,
+leases, operates, controls, or supervises a building, structure, facility, or
+installation that emits or may emit an air pollutant (owner or operator) to
+make all emissions records that the owner or operator is required by state
+or federal law to maintain (records) publicly available and accessible on
+the owner or operator's public website. Except in certain circumstances,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+the owner or operator is required to update the records following the same
+schedule as the records are made available to the state or the United
+States. These requirements apply only to records that are generated on or
+after December 1, 2027.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Congress enacted the "Clean Air Act" in 1963 when electronic
+5 and digital business records were nonexistent;
+6 (b) Colorado continues to suffer from high levels of air pollution
+7 and, in the summer of 2024, exceeded the United States environmental
+8 protection agency's ozone limits for 40 days;
+9 (c) In May of 2023, the United States environmental protection
+10 agency issued a limited disapproval of Colorado's state implementation
+11 plan after finding that Colorado's practice of providing emissions records
+12 to the state only on request did not sufficiently allow practical public
+13 access to information necessary to determine compliance with the "Clean
+14 Air Act";
+15 (d) In July of 2023, Colorado's attorney general filed a petition
+16 with the United States court of appeals for the tenth circuit for review of
+17 the United States environmental protection agency's disapproval;
+18 (e) The case settled, and the new presidential administration
+19 rescinded the rule allowing Colorado to continue the current practice of
+20 making air pollution records available to the state upon request, but not
+21 making the records accessible to the public;
+22 (f) Air pollution emissions travel from a polluter's private property
+23 into the air of other private property owners and into public spaces;
+-2- HB26-1121
+
+1 (g) People have a right to know what pollutants and discharges are
+2 emitted into the air they breathe and onto the property they own;
+3 (h) Pollution records are now kept in easily accessible electronic
+4 and digital formats that were unanticipated when congress enacted the
+5 "Clean Air Act";
+6 (i) The cost of electronic database storage for records is nominal,
+7 ranging from one cent to 20 cents per gigabyte; and
+8 (j) It is in the public interest and supports the health and welfare
+9 of Colorado residents to require that pollution records be both available
+10 to the state for inspection and accessible to the public.
+11 SECTION 2. In Colorado Revised Statutes, add 25-7-109.7 as
+12 follows:
+13 25-7-109.7. Emissions records - public accessibility - civil
+14 penalties - definition.
+15 (1) Definition. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+16 OTHERWISE REQUIRES, "CONFIDENTIAL BUSINESS INFORMATION" MEANS
+17 INFORMATION THAT AN OWNER OR OPERATOR IS PERMITTED TO REDACT
+18 UNDER APPLICABLE STATE OR FEDERAL LAW.
+19 (2) Public accessibility of emissions records.
+20 (a) BEGINNING JANUARY 1, 2028, AN OWNER OR OPERATOR SHALL
+21 MAKE ALL EMISSIONS RECORDS THAT THE OWNER OR OPERATOR IS
+22 REQUIRED BY STATE OR FEDERAL LAW TO MAINTAIN PUBLICLY AVAILABLE
+23 AND ACCESSIBLE THROUGH A LINK ON THE OWNER OR OPERATOR'S PUBLIC
+24 WEBSITE. THE OWNER OR OPERATOR SHALL MAINTAIN THE RECORDS IN A
+25 DIGITAL FORMAT THAT IS DOWNLOADABLE.
+26 (b) AN OWNER OR OPERATOR SHALL UPDATE THE RECORDS
+27 MAINTAINED ON THE OWNER OR OPERATOR'S PUBLIC WEBSITE PURSUANT
+-3- HB26-1121
+
+1 TO SUBSECTION (2)(a) OF THIS SECTION FOLLOWING THE SAME SCHEDULE
+2 AS THE RECORDS ARE MADE AVAILABLE TO THE STATE OR THE UNITED
+3 STATES; EXCEPT THAT ANY RECORDS PROVIDED TO THE STATE OR THE
+4 UNITED STATES MORE OFTEN THAN MONTHLY MAY BE UPLOADED TO THE
+5 OWNER OR OPERATOR'S PUBLIC WEBSITE ON A MONTHLY BASIS. FOR
+6 RECORDS THAT ARE PROVIDED TO THE STATE OR THE UNITED STATES ON
+7 A QUARTERLY BASIS OR LESS OFTEN, THE OWNER OR OPERATOR SHALL
+8 UPDATE SUCH RECORDS ON THE OWNER OR OPERATOR'S PUBLIC WEBSITE
+9 ON OR BEFORE THE FIRST DAY OF THE MONTH FOLLOWING WHEN THE
+10 RECORDS ARE MADE AVAILABLE TO THE STATE OR THE UNITED STATES.
+11 (c) THE RECORDS MAINTAINED ON THE OWNER OR OPERATOR'S
+12 PUBLIC WEBSITE PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION MAY
+13 BE REDACTED TO PROTECT CONFIDENTIAL BUSINESS INFORMATION.
+14 (d) (I) THIS SECTION APPLIES TO RECORDS THAT ARE GENERATED
+15 ON OR AFTER DECEMBER 1, 2027.
+16 (II) NOTHING IN THIS SECTION REQUIRES AN OWNER OR OPERATOR
+17 TO INCLUDE RECORDS THAT WERE GENERATED BEFORE DECEMBER 1,
+18 2027, ON THE OWNER OR OPERATOR'S PUBLIC WEBSITE.
+19 (3) Civil penalties. CIVIL PENALTIES ASSESSED AND COLLECTED
+20 FOR VIOLATIONS OF THIS SECTION PURSUANT TO SECTION 25-7-122 SHALL
+21 BE CREDITED IN ACCORDANCE WITH SECTION 25-7-129 (2).
+22 SECTION 3. In Colorado Revised Statutes, 25-7-122, amend
+23 (1)(b) introductory portion as follows:
+24 25-7-122. Civil penalties - rules.
+25 (1) Upon application of the division, the division may collect
+26 penalties as determined under this article 7 by instituting an action in the
+27 district court for the district in which the air pollution source affected is
+-4- HB26-1121
+
+1 located, in accordance with the following provisions:
+2 (b) Any person who violates any requirement or prohibition of a
+3 final order of the division or commission, an applicable emission control
+4 regulation of the commission, the state implementation plan, a
+5 construction permit, any provision for the prevention of significant
+6 deterioration under part 2 of this article 7, any provision related to
+7 attainment under part 3 of this article 7, or any provision of or
+8 commission rule adopted pursuant to section 25-7-105, 25-7-106,
+9 25-7-106.3, 25-7-108, 25-7-109, 25-7-109.5, 25-7-109.7, 25-7-111,
+10 25-7-112, 25-7-113, 25-7-114.2, 25-7-114.5, 25-7-118, 25-7-141,
+11 25-7-146, 25-7-206, 25-7-403, 25-7-404, 25-7-405, 25-7-407, 42-4-403,
+12 42-4-404, 42-4-405, 42-4-406, 42-4-407, 42-4-409, 42-4-410, or
+13 42-4-414 is subject to a civil penalty of not more than forty-seven
+14 thousand three hundred fifty-seven dollars per day for each day of the
+15 violation; except that:
+16 SECTION 4. In Colorado Revised Statutes, 25-7-129, amend
+17 (2)(a) introductory portion, (2)(a)(IV), and (2)(a)(V) introductory portion;
+18 and add (2)(a)(VI), (2)(a)(VII), (2)(a)(VIII), (2)(a)(IX), and (2)(c) as
+19 follows:
+20 25-7-129. Disposition of fines - community impact cash fund
+21 - repeal.
+22 (2) (a) The state treasurer shall credit the receipts from penalties
+23 or fines collected under sections 25-7-109.7, 25-7-115, 25-7-122, and
+24 25-7-123 in the following manner:
+25 (IV) For state fiscal year 2024-25, eighty percent of the receipts
+26 from penalties or fines collected during the fiscal year shall be credited
+27 to the fund, and twenty percent to the general fund; and
+-5- HB26-1121
+
+1 (V) For state fiscal year 2025-26: and any state fiscal year
+2 thereafter:
+3 (VI) FOR STATE FISCAL YEAR 2026-27:
+4 (A) THE FIRST FIVE HUNDRED THOUSAND DOLLARS TO FUND THE
+5 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT'S COSTS TO
+6 IMPLEMENT SECTION 25-7-109.7;
+7 (B) THE NEXT ONE MILLION DOLLARS TO THE MOTOR VEHICLE
+8 EMISSIONS ASSISTANCE FUND ESTABLISHED IN SECTION 25-7-129.5; AND
+9 (C) ONE HUNDRED PERCENT OF THE REMAINDER TO THE FUND;
+10 (VII) FOR STATE FISCAL YEAR 2027-28:
+11 (A) THE FIRST NINE HUNDRED THOUSAND DOLLARS TO FUND THE
+12 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT'S COSTS TO
+13 IMPLEMENT SECTION 25-7-109.7;
+14 (B) THE NEXT ONE MILLION DOLLARS TO THE MOTOR VEHICLE
+15 EMISSIONS ASSISTANCE FUND ESTABLISHED IN SECTION 25-7-129.5; AND
+16 (C) ONE HUNDRED PERCENT OF THE REMAINDER TO THE FUND;
+17 (VIII) FOR STATE FISCAL YEAR 2028-29:
+18 (A) THE FIRST NINE HUNDRED THOUSAND DOLLARS TO FUND THE
+19 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT'S COSTS TO
+20 IMPLEMENT SECTION 25-7-109.7;
+21 (B) THE NEXT ONE MILLION DOLLARS TO THE MOTOR VEHICLE
+22 EMISSIONS ASSISTANCE FUND ESTABLISHED IN SECTION 25-7-129.5; AND
+23 (C) ONE HUNDRED PERCENT OF THE REMAINDER TO THE FUND;
+24 AND
+25 (IX) FOR STATE FISCAL YEAR 2029-30 AND ANY STATE FISCAL
+26 YEAR THEREAFTER:
+27 (A) THE FIRST ONE MILLION DOLLARS TO THE MOTOR VEHICLE
+-6- HB26-1121
+
+1 EMISSIONS ASSISTANCE FUND ESTABLISHED IN SECTION 25-7-129.5; AND
+2 (B) ONE HUNDRED PERCENT OF THE REMAINDER TO THE FUND.
+3 (c) THIS SUBSECTION (2)(c) AND SUBSECTIONS (2)(a)(V),
+4 (2)(a)(VI), (2)(a)(VII), AND (2)(a)(VIII) OF THIS SECTION ARE REPEALED,
+5 EFFECTIVE SEPTEMBER 1, 2030.
+6 SECTION 5. In Colorado Revised Statutes, 25-7-129.5, amend
+7 (2) as follows:
+8 25-7-129.5. Motor vehicle emissions assistance fund - division
+9 to provide grants - gifts, grants, or donations - definition.
+10 (2) The motor vehicle emissions assistance fund is created in the
+11 state treasury. The fund consists of money credited to the fund pursuant
+12 to section 25-7-129 (2)(a)(V)(A) SECTION 25-7-129 (2)(a), any other
+13 money that the general assembly may appropriate or transfer to the fund,
+14 and any gifts, grants, and donations received under subsection (5) of this
+15 section.
+16 SECTION 6. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-7- HB26-1121

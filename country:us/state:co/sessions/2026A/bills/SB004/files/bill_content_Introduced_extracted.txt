@@ -1,0 +1,238 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0457.01 Owen Hatch x2698 SENATE BILL 26-004
+SENATE SPONSORSHIP
+Sullivan,
+HOUSE SPONSORSHIP
+Froelich,
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING WHO MAY PETITION A COURT FOR AN EXTREME RISK
+102 PROTECTION ORDER.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill adds a health-care facility that employs a health-care
+professional or mental health professional and a co-responder who is part
+of a co-responder community response to the list of community members
+who may petition the court for an extreme risk protection order. The bill
+adds health-care facilities, behavioral health treatment facilities, K-12
+schools, and institutions of higher education as institutional petitioners
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that may petition a court for an extreme risk protection order.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 13-14.5-102, amend
+3 (1), (2), and (11); and add (6.5) as follows:
+4 13-14.5-102. Definitions.
+5 As used in this article 14.5, unless the context otherwise clearly
+6 requires:
+7 (1) "Community member" means:
+8 (a) A licensed health-care professional or mental health
+9 professional who, through a direct professional relationship, provided
+10 care to the respondent or the respondent's child within six months before
+11 requesting the protection order; or
+12 (b) A HEALTH-CARE FACILITY THAT EMPLOYS THE LICENSED
+13 HEALTH-CARE PROFESSIONAL OR MENTAL HEALTH PROFESSIONAL
+14 DESCRIBED IN SUBSECTION (1)(a) OF THIS SECTION IF THE HEALTH-CARE
+15 FACILITY IS LICENSED OR CERTIFIED IN ACCORDANCE WITH THE
+16 REQUIREMENTS OF PART 1 OF ARTICLE 3 OF TITLE 25 AND PROVIDED CARE
+17 TO THE RESPONDENT OR THE RESPONDENT'S CHILD WITHIN SIX MONTHS
+18 BEFORE REQUESTING THE PROTECTION ORDER;
+19 (c) An educator who, through a direct professional relationship,
+20 interacted with the respondent or the respondent's child within six months
+21 before requesting the protection order; OR
+22 (d) A CO-RESPONDER WHO IS PART OF A CO-RESPONDER
+23 COMMUNITY RESPONSE, AS DEFINED IN SECTION 24-32-3501 (8)(d), WHO,
+24 IN THEIR CAPACITY AS A CO-RESPONDER, INTERACTED WITH THE
+25 RESPONDENT OR THE RESPONDENT'S CHILD WITHIN SIX MONTHS BEFORE
+-2- SB26-004
+
+1 REQUESTING THE PROTECTION ORDER BUT WHO IS NOT A LAW
+2 ENFORCEMENT OFFICER WHO RESPONDED TO A BEHAVIORAL
+3 HEALTH-RELATED CALL INVOLVING THE RESPONDENT.
+4 (2) "Educator" means a teacher employed to instruct students or
+5 a school administrator in a school district, private school, charter school
+6 institute, or an individual charter school; or a faculty member at an
+7 institution of higher education, INCLUDING A COMMUNITY COLLEGE, A
+8 LOCAL DISTRICT COLLEGE, OR AN AREA TECHNICAL COLLEGE.
+9 (6.5) "INSTITUTIONAL PETITIONER" MEANS AN ENTITY THAT
+10 EMPLOYS OR CONTRACTS WITH A COMMUNITY MEMBER AS DEFINED IN THIS
+11 SECTION, INCLUDING, BUT NOT LIMITED TO:
+12 (a) A SCHOOL DISTRICT;
+13 (b) A PRIVATE SCHOOL;
+14 (c) THE STATE CHARTER SCHOOL INSTITUTE CREATED IN SECTION
+15 22-30.5-503;
+16 (d) AN INDIVIDUAL DISTRICT CHARTER SCHOOL OR INSTITUTE
+17 CHARTER SCHOOL;
+18 (e) AN INSTITUTION OF HIGHER EDUCATION, INCLUDING A
+19 COMMUNITY COLLEGE, A LOCAL DISTRICT COLLEGE, OR AN AREA
+20 TECHNICAL COLLEGE;
+21 (f) A HOSPITAL OR HEALTH-CARE FACILITY LICENSED IN
+22 ACCORDANCE WITH THE REQUIREMENTS OF PART 1 OF ARTICLE 3 OF TITLE
+23 25; OR
+24 (g) A BEHAVIORAL HEALTH OR SUBSTANCE USE DISORDER
+25 TREATMENT FACILITY OR OTHER FACILITY WHERE BEHAVIORAL HEALTH
+26 CRISIS SERVICES ARE OFFERED.
+27 (11) "Respondent" means the person, INCLUDING A MINOR, who
+-3- SB26-004
+
+1 is identified as the respondent in a petition filed pursuant to this article
+2 14.5.
+3 SECTION 2. In Colorado Revised Statutes, 13-14.5-103, amend
+4 (1)(a) and (1)(b) as follows:
+5 13-14.5-103. Temporary extreme risk protection orders.
+6 (1) (a) A family or household member of the respondent, a
+7 community member, AN INSTITUTIONAL PETITIONER, or a law enforcement
+8 officer or agency may request a temporary extreme risk protection order
+9 without notice to the respondent by including in the petition for the
+10 extreme risk protection order an affidavit, signed under oath and penalty
+11 of perjury, supporting the issuance of a temporary extreme risk protection
+12 order that sets forth the facts tending to establish the grounds of the
+13 petition or the reason for believing they exist and, if the petitioner is a
+14 family or household member or community member, attesting that the
+15 petitioner is a family or household member or community member. The
+16 petition must comply with the requirements of section 13-14.5-104 (3).
+17 If the petitioner is a law enforcement officer or law enforcement agency,
+18 the law enforcement officer or law enforcement agency shall concurrently
+19 file a sworn affidavit for a COURT TO ISSUE A search warrant pursuant to
+20 section 16-3-301.5 to search for any firearms in the possession or control
+21 of the respondent at a location or locations to be named in the warrant. If
+22 a petition filed pursuant to section 27-65-106 is also filed against the
+23 respondent, a court of competent jurisdiction may hear that petition at the
+24 same time as the hearing for a temporary extreme risk protection order or
+25 the hearing for a continuing extreme risk protection order.
+26 (b) Notwithstanding any provision of law to the contrary, a
+27 licensed health-care professional, or LICENSED mental health professional,
+-4- SB26-004
+
+1 OR INSTITUTIONAL PETITIONER authorized to file a petition for a temporary
+2 extreme risk protection order, upon filing the petition for a temporary
+3 extreme risk protection order, is authorized to disclose protected health
+4 information of the respondent as necessary for the full investigation and
+5 disposition of the request for a temporary extreme risk protection order.
+6 When disclosing protected health information, the licensed health-care
+7 professional, or LICENSED mental health professional, OR INSTITUTIONAL
+8 PETITIONER shall make reasonable efforts to limit protected health
+9 information to the minimum necessary to accomplish the filing of the
+10 petition. Upon receipt of a petition by a licensed health-care professional,
+11 or LICENSED mental health professional, OR INSTITUTIONAL PETITIONER,
+12 and for good cause shown, the court may issue orders to obtain any
+13 records or documents relating to diagnosis, prognosis, or treatment, and
+14 clinical records, of the respondent as necessary for the full investigation
+15 and disposition of the petition for a temporary extreme risk protection
+16 order. When protected health information is disclosed or when the court
+17 receives any records or documents related to diagnosis, prognosis, or
+18 treatment or clinical records, the court shall order that the parties are
+19 prohibited from using or disclosing the protected health information for
+20 any purpose other than the proceedings for a petition for a temporary
+21 extreme risk protection order and shall order the return to the covered
+22 entity or destroy the protected health information, including all copies
+23 made, at the end of the litigation or proceeding. The court shall seal all
+24 records and other health information received that contain protected
+25 health information. The decision of a licensed health-care professional,
+26 or LICENSED mental health professional, OR INSTITUTIONAL PETITIONER
+27 to disclose or not to disclose records or documents relating to the
+-5- SB26-004
+
+1 diagnosis, prognosis, or treatment, and clinical records of a respondent,
+2 when made reasonably and in good faith, shall not be the basis for any
+3 civil, administrative, or criminal liability with respect to the licensed
+4 health-care professional, or licensed mental health professional, OR
+5 INSTITUTIONAL PETITIONER.
+6 SECTION 3. In Colorado Revised Statutes, 13-14.5-104, amend
+7 (1)(a) and (1)(b) as follows:
+8 13-14.5-104. Petition for extreme risk protection order.
+9 (1) (a) A petition for an extreme risk protection order may be filed
+10 by a family or household member of the respondent, a community
+11 member, AN INSTITUTIONAL PETITIONER, or a law enforcement officer or
+12 agency. If the petition is filed by a law enforcement officer or agency, a
+13 county or city attorney shall represent the officer or agency in any judicial
+14 proceeding upon request. If the petition is filed by a family or household
+15 member or community member, the petitioner, to the best of the
+16 petitioner's ability, shall notify the law enforcement agency in the
+17 jurisdiction where the respondent resides of the petition and the hearing
+18 date with enough advance notice to allow for participation or attendance.
+19 Upon the filing of a petition, the court shall appoint an attorney to
+20 represent the respondent, and the court shall include the appointment in
+21 the notice of hearing provided to the respondent pursuant to section
+22 13-14.5-105 (1)(a). The respondent may replace the attorney with an
+23 attorney of the respondent's own selection at any time at the respondent's
+24 own expense. The court shall pay the attorney fees for an attorney
+25 appointed for the respondent.
+26 (b) Notwithstanding any provision of law to the contrary, a
+27 licensed health-care professional, or LICENSED mental health professional,
+-6- SB26-004
+
+1 OR INSTITUTIONAL PETITIONER authorized to file a petition for an extreme
+2 risk protection order, upon filing the petition for an extreme risk
+3 protection order, is authorized to disclose protected health information of
+4 the respondent as necessary for the full investigation and disposition of
+5 the petition for an extreme risk protection order. When disclosing
+6 protected health information, the licensed health-care professional, or
+7 LICENSED mental health professional, OR INSTITUTIONAL PETITIONER shall
+8 make reasonable efforts to limit protected health information to the
+9 minimum necessary to accomplish the filing of the request. Upon receipt
+10 of a petition by a licensed health-care professional, or LICENSED mental
+11 health professional, OR INSTITUTIONAL PETITIONER, and for good cause
+12 shown, the court may issue orders to obtain any records or documents
+13 relating to diagnosis, prognosis, or treatment, and clinical records of the
+14 respondent as necessary for the full investigation and disposition of the
+15 petition for an extreme risk protection order. When protected health
+16 information is disclosed or when the court receives any records or
+17 documents related to diagnosis, prognosis, or treatment or clinical
+18 records, the court shall order that the parties are prohibited from using or
+19 disclosing the protected health information for any purpose other than the
+20 proceedings for a petition for an extreme risk protection order and shall
+21 order the return to the covered entity or destroy the protected health
+22 information, including all copies made, at the end of the litigation or
+23 proceeding. The court shall seal all records and other health information
+24 received that contain protected health information. The decision of a
+25 licensed health-care professional, or LICENSED mental health professional,
+26 OR INSTITUTIONAL PETITIONER to disclose or not to disclose records or
+27 documents relating to the diagnosis, prognosis, or treatment, and clinical
+-7- SB26-004
+
+1 records of a respondent, when made reasonably and in good faith, must
+2 not be the basis for any civil, administrative, or criminal liability with
+3 respect to the licensed health-care professional, or LICENSED mental
+4 health professional, OR INSTITUTIONAL PETITIONER.
+5 SECTION 4. In Colorado Revised Statutes, 13-14.5-107, amend
+6 (2)(b) as follows:
+7 13-14.5-107. Termination or renewal of protection orders.
+8 (2) Renewal.
+9 (b) A petitioner, a family or household member of a respondent,
+10 a community member, AN INSTITUTIONAL PETITIONER, or a law
+11 enforcement officer or agency may, by motion, request a renewal of an
+12 extreme risk protection order at any time within sixty-three calendar days
+13 before the expiration of the order.
+14 SECTION 5. In Colorado Revised Statutes, 13-14.5-113, amend
+15 (4) as follows:
+16 13-14.5-113. Liability.
+17 (4) This article 14.5 does not require a family or household
+18 member of the respondent, a community member, AN INSTITUTIONAL
+19 PETITIONER, or a law enforcement officer or agency to file a petition for
+20 a temporary emergency extreme risk protection order or petition for an
+21 extreme risk protection order.
+22 SECTION 6. Safety clause. The general assembly finds,
+23 determines, and declares that this act is necessary for the immediate
+24 preservation of the public peace, health, or safety or for appropriations for
+25 the support and maintenance of the departments of the state and state
+26 institutions.
+-8- SB26-004

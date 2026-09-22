@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0299.01 Sarah Lozano x3858 SENATE BILL 26-131
+Senate Committees House Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING PROTECTIONS AGAINST ABUSIVE PRACTICES IN SPORTS
+102 BETTING.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates certain requirements and prohibitions related to
+sports betting.
+Section 2 of the bill adds definitions to the statutes regulating
+sports betting.
+Section 3 prohibits a person licensed by the Colorado limited
+gaming control commission (commission) to operate an internet sports
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,72
+lirpA
+SENATE SPONSORSHIP
+Ball and Pelton B.,
+HOUSE SPONSORSHIP
+Woodrow and Woog,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+betting operation (internet sports betting operator) from:
+! Accepting more than 5 separate deposits from an individual
+in a 24-hour period;
+! Limiting the size and frequency of deposits or bets because
+an individual obtains a financial benefit as a result of
+placing the bet or due to the individual's betting activities,
+unless the betting activities constitute a suspicious betting
+activity or are indicative of a gambling disorder; or
+! Initiating or sending mobile device push notifications or
+text messages to account holders in the state soliciting bets
+or deposits.
+Section 4 prohibits a person from:
+! Including enhanced payout promotions or information on
+how to place a sports bet in an advertisement or promotion
+for a sports betting operation; or
+! Broadcasting an advertisement or promotion for a sports
+betting operation from 8 a.m. to 10 p.m. or during a live
+broadcast of an athletic competition.
+Section 4 also requires:
+! A sports betting operator or internet sports betting operator
+to comply with certain requirements in contracting with and
+compensating a third party for marketing and advertising
+services; and
+! An internet sports betting operator to provide to the
+division of gaming in the department of revenue data and
+metrics related to the operator's sports betting operation for
+the preceding calendar year. The division must comply with
+certain confidentiality requirements and compile the data
+into a public report every 3 years starting on January 1,
+2029.
+Section 5 prohibits an internet sports betting operator from
+offering or accepting a proposition bet or directly or indirectly accepting
+deposits using a credit card in connection with the acceptance of a sports
+bet (prohibitions). A violation of a prohibition constitutes a class 2
+misdemeanor.
+Section 6 allows the commission to assess a maximum penalty of
+$25,000 against a violator of a prohibition.
+Section 7 requires that the amount of money annually transferred
+from the sports betting fund to the water plan implementation cash fund
+is no less than the amount transferred to the water plan implementation
+cash fund in the previous state fiscal year, to the extent the unexpended
+and unencumbered money in the sports betting fund permits.
+1 Be it enacted by the General Assembly of the State of Colorado:
+-2- 131
+
+1 SECTION 1. Legislative declaration. (1) The general assembly
+2 finds that:
+3 (a) Participation in online sports betting has grown rapidly in
+4 Colorado since its legalization in 2019. Over $6.3 billion in online sports
+5 bets were wagered in Colorado in 2025, which is an increase of over
+6 130% from 2020.
+7 (b) The growth has been especially pronounced among young
+8 people, particularly men. More than half of 18- to 22-year-olds have
+9 engaged in some form of sports betting, and surveys of high school
+10 students report that between 60% and 80% have gambled for money
+11 within the previous 12 months.
+12 (c) Many people are capable of betting on sports responsibly, but
+13 many are not. In Colorado, calls and texts to the problem-gambling
+14 helpline increased by about 45% in the year after legalization of online
+15 sports betting.
+16 (d) Nationally, over 6 million adults struggle with a gaming
+17 addiction, and the prevalence among high school students is roughly
+18 double that of adults;
+19 (e) Sports betting is associated with reduced household savings
+20 and credit scores and more than a 25% increased risk of bankruptcies,
+21 overdrafts, and loan delinquencies; and
+22 (f) Women with a partner who has a gambling problem are 10
+23 times more likely to have experienced intimate partner violence.
+24 (2) The general assembly further finds that:
+25 (a) Children and adolescents are frequently exposed to sports
+26 betting advertising and are influenced by its messages;
+27 (b) Advertising has a significant impact on children. "Risk-free"
+-3- 131
+
+1 and similar low- or no-risk claims are strongly associated with problem
+2 gaming, and exposed youth often believe such claims, view sports betting
+3 as normal behavior, and can accurately describe how to place sports bets.
+4 (c) Children are more likely to watch television during daytime
+5 hours, and sporting events draw a large mixed-age audience. Advertising
+6 during daytime and live sporting events is therefore difficult to avoid for
+7 sports fans, including minors and adults at an elevated risk.
+8 (3) The general assembly further finds that sufficient funding for
+9 the water plan implementation cash fund is a legislative priority and that
+10 House Bill 25-1311, enacted in 2025, significantly increased the revenue
+11 available for that purpose in 2025.
+12 (4) The general assembly therefore determines that:
+13 (a) Colorado has a substantial interest in regulating sports betting
+14 to minimize harm to at-risk adults, children, and the broader community;
+15 and
+16 (b) Prohibiting deceptive low- or no-risk claims and setting
+17 reasonable limits on when and where sports betting ads may appear are
+18 necessary and targeted measures to protect children and reduce
+19 gambling-related harm.
+20 SECTION 2. In Colorado Revised Statutes, 44-30-1501, add
+21 (8.7) as follows:
+22 44-30-1501. Definitions - rules.
+23 Definitions applicable to this part 15 also appear in section
+24 44-30-103 and article 1 of this title 44. As used in this part 15, unless the
+25 context otherwise requires:
+26
+27
+-4- 131
+
+1 (8.7) "PUSH NOTIFICATION" MEANS AN AUTOMATIC ELECTRONIC
+2 MESSAGE, INCLUDING A TEXT MESSAGE, DISPLAYED ON AN ACCOUNT
+3 HOLDER'S MOBILE DEVICE WHEN THE USER INTERFACE FOR AN INTERNET
+4 SPORTS BETTING OPERATION IS NOT ACTIVELY OPEN OR VISIBLE ON THE
+5 MOBILE DEVICE.
+6
+7 SECTION 3. In Colorado Revised Statutes, 44-30-1506, amend
+8 (5)(a) introductory portion, (5)(c), (5)(d), (8); and add (5)(a.5) as
+9 follows:
+10 44-30-1506. Operations - eligibility to place bets -
+11 record-keeping - information sharing - internet sports betting
+12 operator requirements.
+13 (5) (a) A sports betting operator shall promptly AS SOON AS
+14 PRACTICABLE report to the division:
+15 (a.5) A SPORTS BETTING OPERATOR SHALL SIMULTANEOUSLY
+16 REPORT INFORMATION DESCRIBED IN SUBSECTIONS (5)(a)(II) AND
+17 (5)(a)(III) OF THIS SECTION TO THE RELEVANT SPORTS GOVERNING BODY.
+18 (c) The division shall given good and sufficient reason, USE
+19 REASONABLE EFFORTS TO cooperate with a sports governing body and
+20 sports betting operators to ensure the timely, efficient, and accurate
+21 sharing of information for the sole purpose of ensuring the integrity of
+22 their sport.
+23 (d) The division and sports betting operators shall given good and
+24 sufficient reason, USE REASONABLE EFFORTS TO cooperate with
+25 investigations conducted by sports governing bodies and shall cooperate
+26 with law enforcement agencies, including providing or facilitating the
+27 provision of account-level betting information and any available audio or
+-5- 131
+
+1 video files relating to persons placing bets.
+2
+3 (8) (a) (I) An internet sports betting operator shall accept bets only
+4 from persons INDIVIDUALS physically located within the state of
+5 Colorado. An internet sports betting operator may establish and fund
+6 sports wagering accounts electronically through commission-approved
+7 mobile applications and digital platforms.
+8 (II) AN INTERNET SPORTS BETTING OPERATOR SHALL NOT ACCEPT
+9 MORE THAN SIX SEPARATE DEPOSITS FROM AN INDIVIDUAL DURING A
+10 GAMING DAY, WHICH IS A CONTINUOUS TWENTY-FOUR-HOUR PERIOD
+11 ESTABLISHED BY AN INTERNET SPORTS BETTING OPERATOR TO RECORD,
+12 RECONCILE, OR REPORT GAMING ACTIVITY FOR TAX OR REGULATORY
+13 PURPOSES.
+14
+15 (b) AN INTERNET SPORTS BETTING OPERATOR SHALL NOT INITIATE
+16 OR SEND MOBILE DEVICE PUSH NOTIFICATIONS, INCLUDING ALERTS, TO
+17 ACCOUNT HOLDERS IN THE STATE RELATING TO THE SOLICITATION OF BETS
+18 OR DEPOSITS FROM THE INTERNET SPORTS BETTING OPERATOR'S INTERNET
+19 SPORTS BETTING PLATFORM.
+20 (c) NOTHING IN THIS SUBSECTION (8) REQUIRES THE COMMISSION
+21 TO CREATE, SUBMIT, OR MODIFY A REPORT, DATA SUBMISSION, OR OTHER
+22 REPORTING REQUIREMENT.
+23 SECTION 4. In Colorado Revised Statutes, add 44-30-1506.5
+24 and 44-30-1507.5 as follows:
+25 44-30-1506.5. Advertisement prohibitions - definition.
+26 (1) (a) AS USED IN THIS SECTION, UNLESS THE CONTEXT
+27 OTHERWISE REQUIRES, "MARKETING AFFILIATE" MEANS A PERSON THAT
+-6- 131
+
+1 PROMOTES A SPORTS BETTING OPERATION IN EXCHANGE FOR A
+2 COMMISSION OR FEE.
+3 (b) "MARKETING AFFILIATE" DOES NOT INCLUDE A BROADCASTER.
+4 (2) A SPORTS BETTING OPERATION OR THE SPORTS BETTING
+5 OPERATION'S MARKETING AFFILIATES SHALL NOT TARGET PERSONS UNDER
+6 TWENTY-ONE YEARS OLD OR CREATE ADVERTISING CONTENT THAT IS
+7 CLEARLY MEANT, BECAUSE OF THE CONTENT'S MESSAGE OR GRAPHICS, FOR
+8 AN AUDIENCE UNDER TWENTY-ONE YEARS OLD.
+9 (3) A SPORTS BETTING OPERATION OR THE SPORTS BETTING
+10 OPERATION'S MARKETING AFFILIATES SHALL NOT ADVERTISE ON MEDIA,
+11 INCLUDING BROADCAST, CABLE, RADIO, PRINT, AND DIGITAL
+12 COMMUNICATIONS, FOR WHICH THE MAJORITY OF THE DEMOGRAPHIC
+13 AUDIENCE IS REASONABLY EXPECTED BY THE SPORTS BETTING OPERATION
+14 OR SPORTS BETTING OPERATION'S MARKETING AFFILIATE TO BE UNDER
+15 TWENTY-ONE YEARS OLD. THIS SUBSECTION (3) DOES NOT APPLY TO
+16 PUBLIC VENUES WHERE THE DEMOGRAPHICS OF ATTENDEES CANNOT BE
+17 DETERMINED.
+18 44-30-1507.5. Internet sports betting operations - data
+19 submission requirement - report by the division.
+20 (1) NO LATER THAN FEBRUARY 1, 2028, AND NO LATER THAN EACH
+21 FEBRUARY 1 THEREAFTER, AN INTERNET SPORTS BETTING OPERATOR
+22 SHALL PROVIDE TO THE DIVISION ALL TRANSACTIONAL DATA AND METRICS
+23 RELATED TO THE INTERNET SPORTS BETTING OPERATOR'S INTERNET
+24 SPORTS BETTING OPERATION FOR THE PREVIOUS CALENDAR YEAR.
+25 (2) THE DATA AND METRICS PROVIDED PURSUANT TO SUBSECTION
+26 (1) OF THIS SECTION:
+27 (a) SHALL BE REDACTED TO EXCLUDE PERSONALLY IDENTIFIABLE
+-7- 131
+
+1 INFORMATION; AND
+2 (b) ARE EXEMPT FROM THE "COLORADO OPEN RECORDS ACT",
+3 PART 2 OF ARTICLE 72 OF TITLE 24.
+4 (3) NO LATER THAN JANUARY 1, 2029, AND NO LATER THAN
+5 JANUARY 1 EVERY THREE YEARS THEREAFTER, THE DIVISION SHALL
+6 COMPILE THE DATA PROVIDED PURSUANT TO SUBSECTION (1) OF THIS
+7 SECTION INTO A REPORT ON INTERNET SPORTS BETTING IN THE STATE AND
+8 PUBLISH THE REPORT ON THE DIVISION'S WEBSITE.
+9 SECTION 5. In Colorado Revised Statutes, amend 44-30-1511
+10 as follows:
+11 44-30-1511. Unlawful acts.
+12 (1) In addition to the prohibitions in section 44-30-801, it is
+13 unlawful for: any person:
+14 (a) A PERSON to charge, in connection with the placement or
+15 acceptance of a bet, a commission or fee greater than or less than that
+16 fixed by the commission;
+17 (b) A PERSON to accept a bet by any person under twenty-one
+18 years of age; or OLD;
+19 (c) A PERSON to accept a bet at any place or in any manner other
+20 than a place or manner authorized and specified in a sports betting
+21 license; OR
+22 (d) AN INTERNET SPORTS BETTING OPERATOR TO ACCEPT DEPOSITS
+23 USING A CREDIT CARD, EITHER DIRECTLY OR INDIRECTLY, INCLUDING
+24 THROUGH AN ACCOUNT FUNDED BY A CREDIT CARD, IN CONNECTION WITH
+25 THE ACCEPTANCE OF A SPORTS BET.
+26 SECTION 6. In Colorado Revised Statutes, 44-30-524, amend
+27 (1)(b) introductory portion and (1)(b)(III) as follows:
+-8- 131
+
+1 44-30-524. Suspension or revocation of license - grounds -
+2 penalties.
+3 (1) (b) The commission may suspend or revoke a license granted
+4 pursuant to this article 30 for a violation by the licensee or an officer,
+5 director, agent, member, or employee of the licensee, after notice to the
+6 licensee, the opportunity for a hearing, and upon proof by a
+7 preponderance of the evidence as determined by the commission.
+8 Violations that may warrant license suspension or revocation include
+9 violations of this article 30, any rule promulgated ADOPTED by the
+10 commission, any provision of article 33 of this title 44, or any rule
+11 promulgated ADOPTED by the executive director pursuant to section
+12 44-33-108 (3) or conviction of a crime. In addition to revocation or
+13 suspension, or in lieu of revocation or suspension, the commission may
+14 impose a reprimand or a monetary penalty not to exceed the following
+15 amounts:
+16 (III) If the licensee is an operator OR AN INTERNET SPORTS
+17 BETTING OPERATOR THAT VIOLATES SECTION 44-30-1511 (1)(d), the
+18 amount of twenty-five thousand dollars;
+19 SECTION 7. In Colorado Revised Statutes, 44-30-1509, amend
+20 (2)(e) as follows:
+21 44-30-1509. Sports betting fund - wagering revenue recipients
+22 hold-harmless fund - creation - rules - definitions - repeal.
+23 (2) For fiscal years commencing on or after July 1, 2024, from the
+24 money in the sports betting fund, to the extent the unexpended and
+25 unencumbered balance in the fund so permits, the state treasurer shall
+26 distribute an amount equal to all revenue of the division annually derived
+27 from the regulation of sports betting and fantasy contests, including
+-9- 131
+
+1 license fees, fines, and penalties, and the first twenty-nine million dollars
+2 annually collected for payment of the sports betting tax as follows:
+3 (e) Third, transfer all remaining unexpended and unencumbered
+4 money in the fund that is subject to distribution pursuant to this
+5 subsection (2) to the water plan implementation cash fund created in
+6 section 37-60-123.3, WHICH AMOUNT MUST BE NO LESS THAN THE
+7 AMOUNT TRANSFERRED TO THE WATER PLAN IMPLEMENTATION CASH FUND
+8 IN THE PREVIOUS STATE FISCAL YEAR.
+9 SECTION 8. In Colorado Revised Statutes, 44-30-1505, amend
+10 (7) as follows:
+11 44-30-1505. License classifications - number of licenses -
+12 designated sports betting operators - qualifications - rules.
+13 (7) A sports governing body may petition the commission to
+14 restrict, limit, or exclude a type of wager the outcome of which is solely
+15 determined by the actions of a single player CERTAIN TYPE OF WAGER
+16 WITH RESPECT TO SPORTING EVENTS OF THE SPORTS GOVERNING BODY.
+17 Upon receiving such a petition, the commission shall review the request
+18 in good faith, seek input from the sports betting operators on the petition,
+19 and, if the commission deems it appropriate, adopt rules to restrict, limit,
+20 or exclude that type of wager.
+21 SECTION 9. Act subject to petition - effective date -
+22 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+23 the expiration of the ninety-day period after final adjournment of the
+24 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+25 2026); except that, if a referendum petition is filed pursuant to section 1
+26 (3) of article V of the state constitution against this act or an item, section,
+27 or part of this act within such period, then the act, item, section, or part
+-10- 131
+
+1 will not take effect unless approved by the people at the general election
+2 to be held in November 2026 and, in such case, will take effect on the
+3 date of the official declaration of the vote thereon by the governor.
+4 (2) This act applies to conduct occurring and agreements entered
+5 into on or after the applicable effective date of this act.
+-11- 131

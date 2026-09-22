@@ -1,0 +1,585 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0790.02 Pierce Lively x2059 HOUSE BILL 26-1301
+HOUSE SPONSORSHIP
+Marshall,
+SENATE SPONSORSHIP
+Amabile,
+House Committees Senate Committees
+Health & Human Services
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE TAXATION OF CERTAIN HARMFUL SUBSTANCES, AND,
+102 IN CONNECTION THEREWITH, INCREASING THE TAX ON THE SALE
+103 OF MALT LIQUORS, VINOUS LIQUORS, SPIRITOUS LIQUORS, HARD
+104 CIDER, AND RETAIL MARIJUANA, DEDICATING THAT TAX
+105 REVENUE FIRST TO THE CONSTRUCTION AND OPERATION OF THE
+106 COLORADO MENTAL HEALTH INSTITUTE AT AURORA AND THEN
+107 THE OPERATION OF LONG-TERM CIVIL COMMITMENT FACILITIES
+108 IN MESA COUNTY, AND AUTHORIZING THE STATE TO KEEP AND
+109 SPEND THE ADDITIONAL TAXATION REVENUE AS A
+110 VOTER-APPROVED REVENUE CHANGE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill is a referred measure that will, if approved by the voters
+of the state at the 2026 general election, increase the excise tax on liquor
+by:
+! $0.0733 per gallon, or the same per unit volume tax applied
+to metric measure, on all malt liquors and hard cider;
+! $0.08 per liter on all vinous liquors except hard cider; and
+! $0.6026 per liter on all spirituous liquors.
+This excise tax must be collected on the respective beverages not
+otherwise exempt from the tax, sold, offered for sale, or used in the state.
+The bill, if approved by the voters of the state at the 2026 general
+election, would also increase the state retail marijuana sales and excise
+taxes each by 0.42 percentage points.
+The bill requires the treasurer to transfer an amount equal to the
+tax revenue raised as a result of the bill to the hospital support account
+that is created in the capital construction fund. The department of human
+services may expend money from the hospital support account in the
+following priority order:
+! First, to fund the construction of the Colorado mental
+health institute at Aurora created in section 2 of the bill
+(institute);
+! Second, to fund the operational expenses associated with
+the institute; and
+! Third, to fund the operational expenses associated with
+long-term civil commitment facilities in Mesa County.
+Section 2 creates the institute, the construction, operation, and
+maintenance of which is funded by money in the hospital support account.
+The institute is a state institution for the treatment of persons with mental
+health, behavioral health, or substance use disorders. The institute
+operates under the control and supervision of the department of human
+services (department). The head of the administrative division overseeing
+the institute is permitted to appoint or employ necessary administrators,
+physicians, nurses, attendants, and other personnel required for the proper
+conduct of the institute. The administrative division head is permitted to
+contract with the board of regents of the University of Colorado health
+sciences center or other state-supported institutions of higher education
+to provide necessary medical services. Section 2 establishes criteria for
+access to inpatient civil beds at the institute.
+1 Be it enacted by the General Assembly of the State of Colorado:
+-2- HB26-1301
+
+1 SECTION 1. In Colorado Revised Statutes, 24-75-302, add (3.9)
+2 as follows:
+3 24-75-302. Capital construction fund - capital assessment fees
+4 - calculation - information technology capital account - repeal.
+5 (3.9) (a) THE HOSPITAL SUPPORT ACCOUNT IS CREATED IN THE
+6 CAPITAL CONSTRUCTION FUND. THE ACCOUNT CONSISTS OF GIFTS, GRANTS,
+7 DONATIONS, AND MONEY TRANSFERRED BY THE STATE TREASURER TO THE
+8 ACCOUNT PURSUANT TO SECTIONS 39-28.8-203 (1)(b)(II.8), 39-28.8-305
+9 (1)(a)(V), AND 44-3-503 (1)(d.5)(II)(B) AND ANY OTHER MONEY THAT
+10 THE GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER TO THE FUND.
+11 (b) THE STATE TREASURER SHALL CREDIT ALL INTEREST AND
+12 INCOME DERIVED FROM THE DEPOSIT AND INVESTMENT OF MONEY IN THE
+13 HOSPITAL SUPPORT ACCOUNT TO THE ACCOUNT.
+14 (c) (I) SUBJECT TO ANNUAL APPROPRIATION BY THE GENERAL
+15 ASSEMBLY, THE DEPARTMENT OF HUMAN SERVICES MAY EXPEND MONEY
+16 FROM THE ACCOUNT IN THE FOLLOWING PRIORITY ORDER:
+17 (A) FIRST, TO FUND THE CONSTRUCTION OF THE COLORADO
+18 MENTAL HEALTH INSTITUTE AT AURORA CREATED PURSUANT TO ARTICLE
+19 95 OF TITLE 27;
+20 (B) SECOND, TO FUND THE OPERATIONAL EXPENSES ASSOCIATED
+21 WITH THE FACILITY DESCRIBED IN SUBSECTION (3.9)(c)(I)(A) OF THIS
+22 SECTION; AND
+23 (C) THIRD, TO FUND THE OPERATIONAL EXPENSES ASSOCIATED
+24 WITH LONG-TERM CIVIL COMMITMENT FACILITIES IN MESA COUNTY.
+25 (II) THE DEPARTMENT OF HUMAN SERVICES SHALL SUBMIT
+26 REQUESTS FOR APPROPRIATIONS FROM THE ACCOUNT FOR THE PURPOSES
+27 DESCRIBED IN SUBSECTION (3.9)(c)(I)(A) OF THIS SECTION TO THE CAPITAL
+-3- HB26-1301
+
+1 DEVELOPMENT COMMITTEE AND, ONLY UPON APPROVAL BY THE CAPITAL
+2 DEVELOPMENT COMMITTEE, MAY AN APPROPRIATION BE AUTHORIZED IN
+3 THE ANNUAL GENERAL APPROPRIATION BILL, A SUPPLEMENTAL
+4 APPROPRIATION BILL, OR ANOTHER BILL ENACTED BY THE GENERAL
+5 ASSEMBLY.
+6 (d) THE DEPARTMENT OF HUMAN SERVICES SHALL PROVIDE
+7 DETAILS TO THE JOINT BUDGET COMMITTEE NO LATER THAN THIRTY-FIVE
+8 DAYS AFTER THE CLOSE OF THE FISCAL YEAR REGARDING THE TOTAL
+9 BALANCE OF THE HOSPITAL SUPPORT ACCOUNT FOR THE PREVIOUS STATE
+10 FISCAL YEAR.
+11 SECTION 2. In Colorado Revised Statutes, add article 95 to title
+12 27 as follows:
+13 ARTICLE 95
+14 Colorado Mental Health Institute at Aurora
+15 27-95-101. Institute established.
+16 (1) THERE IS ESTABLISHED THE COLORADO MENTAL HEALTH
+17 INSTITUTE AT AURORA FOR THE TREATMENT AND CARE OF INDIVIDUALS
+18 WHO MAY REQUIRE MEDICAL CARE AND TREATMENT WITHIN THE
+19 CAPABILITIES OF THE STAFF AND FACILITIES OF THE INSTITUTE, AND:
+20 (a) WHO MAY HAVE A BEHAVIORAL OR MENTAL HEALTH DISORDER
+21 FROM ANY CAUSE;
+22 (b) ARE IN STATE INSTITUTIONS ON AN INPATIENT OR OUTPATIENT
+23 BASIS; OR
+24 (c) ARE IN STATE PROGRAMS RELATING TO THE TREATMENT OF
+25 SUBSTANCE USE DISORDERS.
+26 (2) THE COLORADO MENTAL HEALTH INSTITUTE AT AURORA
+27 SHALL HAVE NO FEWER THAN FIFTY BEDS AND NO MORE THAN SEVENTY
+-4- HB26-1301
+
+1 BEDS AVAILABLE FOR THE TREATMENT AND CARE OF THE INDIVIDUALS
+2 DESCRIBED IN SUBSECTION (1) OF THIS SECTION.
+3 (3) THE COLORADO MENTAL HEALTH INSTITUTE AT AURORA IS
+4 AUTHORIZED TO CONTRACT, PURSUANT TO THE FEDERAL GOVERNMENT
+5 PROCUREMENT PROCESS, WITH FEDERAL AGENCIES TO PROVIDE
+6 PSYCHIATRIC, MEDICAL, AND SURGICAL SERVICES AT THE INSTITUTE TO
+7 PERSONS UNDER THE CARE OF OR IN THE CUSTODY OR CONTROL OF AN
+8 AGENCY OF THE FEDERAL GOVERNMENT, SO LONG AS THE PROVISION OF
+9 SUCH SERVICES DOES NOT EXCEED THE CAPABILITIES OF THE STAFF AND
+10 FACILITIES OF THE INSTITUTE AND DOES NOT PREEMPT SERVICES TO STATE
+11 PATIENTS.
+12 27-95-102. Capacity to take property.
+13 THE COLORADO MENTAL HEALTH INSTITUTE AT AURORA IS
+14 AUTHORIZED TO RECEIVE GIFTS, LEGACIES, DEVISES, AND CONVEYANCES
+15 OF PROPERTY, REAL OR PERSONAL, THAT MAY BE MADE, GIVEN, OR
+16 GRANTED TO OR FOR THE COLORADO MENTAL HEALTH INSTITUTE AT
+17 AURORA. THE CHIEF OFFICER OF THE INSTITUTE, WITH THE APPROVAL OF
+18 THE GOVERNOR, SHALL MAKE DISPOSITION OF SUCH GIFTS OR PROPERTY AS
+19 MAY BE FOR THE BEST INTEREST OF THE COLORADO MENTAL HEALTH
+20 INSTITUTE AT AURORA.
+21 27-95-103. Employees - adult protective services data system
+22 check - publications.
+23 (1) THE HEAD OF THE ADMINISTRATIVE DIVISION OVERSEEING THE
+24 COLORADO MENTAL HEALTH INSTITUTE AT AURORA SHALL APPOINT OR
+25 EMPLOY, PURSUANT TO SECTION 13 OF ARTICLE XII OF THE STATE
+26 CONSTITUTION, ADMINISTRATORS, PHYSICIANS, NURSES, ATTENDANTS,
+27 AND ADDITIONAL EMPLOYEES AS NECESSARY FOR THE PROPER CONDUCT
+-5- HB26-1301
+
+1 OF THE INSTITUTE. THE HEAD OF THE ADMINISTRATIVE DIVISION MAY
+2 CONTRACT WITH THE BOARD OF REGENTS OF THE UNIVERSITY OF
+3 COLORADO HEALTH SCIENCES CENTER OR ANY OTHER GOVERNING BOARD
+4 OF A STATE-SUPPORTED INSTITUTION OF HIGHER EDUCATION FOR THE
+5 PROVISION OF SERVICES BY PHYSICIANS AND OTHER HEALTH-CARE
+6 PRACTITIONERS WHEN DEEMED NECESSARY FOR THE PROPER CONDUCT OF
+7 THE INSTITUTE. DURING THE PERFORMANCE OF ANY DUTIES BY THE
+8 PHYSICIANS AND OTHER HEALTH-CARE PRACTITIONERS FOR THE
+9 DEPARTMENT OF HUMAN SERVICES, THE PHYSICIANS AND OTHER
+10 HEALTH-CARE PRACTITIONERS ARE "PUBLIC EMPLOYEES", AS DEFINED IN
+11 SECTION 24-10-103 (4), AND THE LIMITATIONS OF SECTION 24-30-1517 (2)
+12 DO NOT APPLY.
+13 (1.5) THE HEAD OF THE ADMINISTRATIVE DIVISION OVERSEEING
+14 THE COLORADO MENTAL HEALTH INSTITUTE AT AURORA SHALL, PRIOR TO
+15 EMPLOYMENT, SUBMIT THE NAME OF A PERSON WHO WILL BE PROVIDING
+16 DIRECT CARE, AS DEFINED IN SECTION 26-3.1-101 (3.5), TO AN AT-RISK
+17 ADULT, AS DEFINED IN SECTION 26-3.1-101 (1.5), AS WELL AS ANY OTHER
+18 REQUIRED IDENTIFYING INFORMATION, TO THE DEPARTMENT OF HUMAN
+19 SERVICES FOR A CHECK OF THE COLORADO ADULT PROTECTIVE SERVICES
+20 DATA SYSTEM PURSUANT TO SECTION 26-3.1-111 TO DETERMINE IF THE
+21 PERSON IS SUBSTANTIATED IN A CASE OF MISTREATMENT OF AN AT-RISK
+22 ADULT.
+23 (2) PUBLICATIONS OF THE COLORADO MENTAL HEALTH INSTITUTE
+24 AT AURORA CIRCULATED IN QUANTITY OUTSIDE THE INSTITUTE ARE
+25 SUBJECT TO THE APPROVAL AND CONTROL OF THE EXECUTIVE DIRECTOR
+26 OF THE DEPARTMENT OF HUMAN SERVICES.
+27 27-95-104. Authorized utilization of medical facilities at
+-6- HB26-1301
+
+1 institute - equipment replacement fund.
+2 (1) A PERSON COMMITTED TO THE CUSTODY OF OR CARED FOR IN
+3 THE DEPARTMENT OF HUMAN SERVICES OR THE DEPARTMENT OF
+4 CORRECTIONS WHO REQUIRES MEDICAL CARE AND TREATMENT THAT CAN
+5 BE ADVANTAGEOUSLY TREATED BY PSYCHIATRIC, MEDICAL, OR SURGICAL
+6 CARE AVAILABLE AT THE COLORADO MENTAL HEALTH INSTITUTE AT
+7 AURORA MAY BE TREATED AT THE INSTITUTE. CHARGES FOR PATIENT
+8 CARE AND TREATMENT SHALL BE MADE IN THE MANNER PROVIDED IN
+9 ARTICLE 92 OF THIS TITLE 27. THE GENERAL ASSEMBLY SHALL MAKE A
+10 SPECIFIC APPROPRIATION ANNUALLY FOR THE GENERAL MEDICAL DIVISION
+11 OF THE COLORADO MENTAL HEALTH INSTITUTE AT AURORA BASED ON
+12 PROJECTIONS OF THE TOTAL PATIENT LOAD AND ASSOCIATED COSTS FROM
+13 ALL INSTITUTIONS, AND THE DEPARTMENT OF HUMAN SERVICES SHALL
+14 DETERMINE AT LEAST ANNUALLY THE PER DIEM EXPENSES AND THE
+15 ACTUAL USE OF THE GENERAL MEDICAL DIVISION BY EACH INSTITUTION,
+16 INCLUDING OTHER DIVISIONS OF THE COLORADO MENTAL HEALTH
+17 INSTITUTE AT AURORA.
+18 (2) A PERSON UNDER THE CARE OF OR IN THE CUSTODY OR
+19 CONTROL OF AN AGENCY OF THE FEDERAL GOVERNMENT WHOSE
+20 PSYCHIATRIC, MEDICAL, OR SURGICAL NEEDS COULD BE
+21 ADVANTAGEOUSLY TREATED AT THE COLORADO MENTAL HEALTH
+22 INSTITUTE AT AURORA MAY BE TREATED AT THE INSTITUTE PURSUANT TO
+23 A CONTRACT BETWEEN THE INSTITUTE AND THE AGENCY OF THE FEDERAL
+24 GOVERNMENT.
+25 (3) (a) A CONTRACT ENTERED INTO PURSUANT TO SUBSECTION (2)
+26 OF THIS SECTION MUST COVER THE FULL DIRECT AND INDIRECT COSTS OF
+27 SERVICES AS DETERMINED BY GENERALLY ACCEPTED ACCOUNTING
+-7- HB26-1301
+
+1 PRINCIPLES AND MUST INCLUDE A FEE TO COVER THE NEED FOR
+2 REPLACEMENT OF EXISTING EQUIPMENT, WHICH WOULD OCCUR BECAUSE
+3 OF THIS ADDITIONAL USE. THE COLORADO MENTAL HEALTH INSTITUTE AT
+4 AURORA SHALL COLLECT ALL FEES IMPOSED PURSUANT TO THIS
+5 SUBSECTION (3)(a) AND TRANSMIT THOSE FEES TO THE STATE TREASURER,
+6 WHO SHALL CREDIT THE SAME TO THE EQUIPMENT REPLACEMENT FUND,
+7 WHICH IS CREATED IN THE STATE TREASURY.
+8 (b) THE EQUIPMENT REPLACEMENT FUND CONSISTS OF THE FEES
+9 CREDITED BY THE STATE TREASURER TO THE FUND PURSUANT TO
+10 SUBSECTION (3)(a) OF THIS SECTION AND ANY OTHER MONEY THAT THE
+11 GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER TO THE FUND.
+12 SUBJECT TO ANNUAL APPROPRIATION BY THE GENERAL ASSEMBLY, THE
+13 DEPARTMENT OF HUMAN SERVICES MAY EXPEND MONEY FROM THE FUND
+14 FOR REPLACEMENT OF EXISTING EQUIPMENT MADE NECESSARY PURSUANT
+15 TO THIS SECTION.
+16 27-95-105. Alternative uses for institute facilities.
+17 THE DEPARTMENT OF HUMAN SERVICES SHALL DETERMINE THE
+18 EXISTENCE OF RESOURCES AT THE COLORADO MENTAL HEALTH INSTITUTE
+19 AT AURORA THAT ARE IN EXCESS OF THE NEEDS OF THE PRIMARY PURPOSE
+20 OF THE INSTITUTE AND MAY MAKE AVAILABLE TO THE REGENTS OF THE
+21 UNIVERSITY OF COLORADO, ON MUTUALLY AGREEABLE TERMS, A
+22 MAXIMUM OF TEN BEDS AT THE INSTITUTE FOR THE PURPOSE OF TEACHING
+23 STUDENTS IN THE FAMILY PRACTICE MEDICAL TRAINING PROGRAM
+24 CONDUCTED BY AND UNDER THE CONTROL OF THE REGENTS. THE
+25 RESOURCES SHALL BE A SUPPLEMENT TO ANY EXISTING HEALTH-CARE
+26 RESOURCES AND ACADEMIC FACILITIES IN THE REGION.
+27 27-95-106. Access to inpatient civil beds at institute.
+-8- HB26-1301
+
+1 THE DEPARTMENT SHALL DEVELOP AND IMPLEMENT ADMISSION
+2 CRITERIA THAT ENSURES INDIVIDUALS, PRIOR TO BEING ADMITTED, HAVE
+3 BEEN EVALUATED FOR THE LEAST RESTRICTIVE LEVEL OF CARE AND THAT
+4 GEOGRAPHIC LOCATION, CURRENT HEALTH-CARE PROVIDER, AND PAYER
+5 TYPE ARE NOT THE PRIMARY DETERMINING FACTORS IN WHETHER AN
+6 INDIVIDUAL HAS ACCESS TO A CIVIL INPATIENT BED.
+7 SECTION 3. In Colorado Revised Statutes, 39-28.8-202, amend
+8 (1)(a)(I); repeal (1)(b); and add (1)(c) as follows:
+9 39-28.8-202. Retail marijuana sales tax.
+10 (1) (a) (I) In addition to the tax imposed pursuant to part 1 of
+11 article 26 of this title 39 and the sales tax imposed by a local government
+12 pursuant to title 29, 30, 31, or 32, but except as otherwise set forth in
+13 subsections (1)(a)(II) and (1)(a)(III) of this section, beginning January 1,
+14 2014, and through June 30, 2017, there is imposed upon all sales of retail
+15 marijuana and retail marijuana products by a retailer a tax at the rate of
+16 ten percent of the amount of the sale. Beginning July 1, 2017, AND
+17 THROUGH DECEMBER 31, 2026, there is imposed upon all sales of retail
+18 marijuana and retail marijuana products by a retailer a tax at the rate of
+19 fifteen percent of the amount of the sale. BEGINNING JANUARY 1, 2027,
+20 THERE IS IMPOSED UPON ALL SALES OF RETAIL MARIJUANA AND RETAIL
+21 MARIJUANA PRODUCTS BY A RETAILER A TAX AT THE RATE OF FIFTEEN AND
+22 FORTY-TWO HUNDREDTHS PERCENT OF THE AMOUNT OF THE SALE. The tax
+23 imposed by this section is computed in accordance with schedules or
+24 forms prescribed by the executive director of the department; except that
+25 a retail marijuana store is not allowed to retain any portion of the retail
+26 marijuana sales tax collected pursuant to this part 2 to cover the expenses
+27 of collecting and remitting the tax. The executive director may
+-9- HB26-1301
+
+1 promulgate rules to implement this section.
+2 (b) The maximum tax rate that may be imposed pursuant to this
+3 section is fifteen percent. At any time on or after January 1, 2014, the
+4 general assembly may, by a bill enacted by the general assembly and that
+5 becomes law:
+6 (I) Establish a tax rate to be imposed pursuant to this subsection
+7 (1) that is lower than fifteen percent of the sale of retail marijuana or
+8 retail marijuana products; or
+9 (II) After establishing a tax rate that is lower than fifteen percent
+10 pursuant to subparagraph (I) of this paragraph (b), increase the tax rate to
+11 be imposed pursuant to this subsection (1); except that, in no event shall
+12 the general assembly increase the tax rate above fifteen percent of the sale
+13 of retail marijuana or retail marijuana products. Notwithstanding any
+14 other provision of law, an increase in the tax rate pursuant to this
+15 subparagraph (II) shall not require voter approval subsequent to the voter
+16 approval required pursuant to part 4 of this article.
+17 (c) THE MAXIMUM TAX RATE THAT MAY BE IMPOSED PURSUANT TO
+18 THIS SECTION IS FIFTEEN AND FORTY-TWO HUNDREDTHS PERCENT. AT ANY
+19 TIME ON OR AFTER JANUARY 1, 2027, THE GENERAL ASSEMBLY MAY, BY
+20 A BILL ENACTED BY THE GENERAL ASSEMBLY AND THAT BECOMES LAW:
+21 (I) ESTABLISH A TAX RATE TO BE IMPOSED PURSUANT TO THIS
+22 SUBSECTION (1) THAT IS LOWER THAN FIFTEEN AND FORTY-TWO
+23 HUNDREDTHS PERCENT OF THE SALE OF RETAIL MARIJUANA OR RETAIL
+24 MARIJUANA PRODUCTS; OR
+25 (II) AFTER ESTABLISHING A TAX RATE THAT IS LOWER THAN
+26 FIFTEEN AND FORTY-TWO HUNDREDTHS PERCENT PURSUANT TO THIS
+27 SUBSECTION (1)(c), INCREASE THE TAX RATE TO BE IMPOSED PURSUANT TO
+-10- HB26-1301
+
+1 THIS SUBSECTION (1); EXCEPT THAT, IN NO EVENT SHALL THE GENERAL
+2 ASSEMBLY INCREASE THE TAX RATE ABOVE FIFTEEN AND FORTY-TWO
+3 HUNDREDTHS PERCENT OF THE SALE OF RETAIL MARIJUANA OR RETAIL
+4 MARIJUANA PRODUCTS. NOTWITHSTANDING ANY OTHER PROVISION OF
+5 LAW, AN INCREASE IN THE TAX RATE PURSUANT TO THIS SUBSECTION
+6 (1)(c)(II) SHALL NOT REQUIRE VOTER APPROVAL SUBSEQUENT TO THE
+7 VOTER APPROVAL REQUIRED PURSUANT TO PART 4 OF THIS ARTICLE 28.8.
+8 SECTION 4. In Colorado Revised Statutes, 39-28.8-203, amend
+9 (1)(a)(I), (1)(b)(I.6) introductory portion, and (3); and add (1)(b)(II.7) and
+10 (1)(b)(II.8) as follows:
+11 39-28.8-203. Disposition of collections - definitions.
+12 (1) The proceeds of all money collected from the retail marijuana
+13 sales tax are initially credited to the old age pension fund created in
+14 section 1 of article XXIV of the state constitution in accordance with
+15 sections 2 (a) and 2 (f) of article XXIV of the state constitution and
+16 thereafter are transferred to the general fund in accordance with section
+17 7 of article XXIV of the state constitution. For each fiscal year in which
+18 a tax is collected pursuant to this part 2, an amount shall be appropriated
+19 or distributed from the general fund as follows:
+20 (a) (I) Before July 1, 2017, an amount equal to fifteen percent of
+21 the gross retail marijuana sales tax revenue collected by the department
+22 is apportioned to local governments. On and after July 1, 2017, but before
+23 July 1, 2025, an amount equal to ten percent of the gross retail marijuana
+24 sales tax revenue collected by the department is apportioned to local
+25 governments. On and after July 1, 2025, BUT BEFORE JANUARY 1, 2027,
+26 an amount equal to three and one-half percent of the gross retail
+27 marijuana sales tax revenue collected by the department is apportioned to
+-11- HB26-1301
+
+1 local governments. ON AND AFTER JANUARY 1, 2027, AN AMOUNT EQUAL
+2 TO THREE AND ONE-HALF PERCENT OF THE GROSS ADJUSTED RETAIL
+3 MARIJUANA SALES TAX REVENUE COLLECTED BY THE DEPARTMENT IS
+4 APPORTIONED TO LOCAL GOVERNMENTS. The city or town share is
+5 apportioned according to the percentage that retail marijuana sales tax
+6 revenue collected by the department within the boundaries of the city or
+7 town bear to the total retail marijuana sales tax revenue collected by the
+8 department. The county share is apportioned according to the percentage
+9 that retail marijuana sales tax revenue collected by the department in the
+10 unincorporated area of the county bear to total retail marijuana sales tax
+11 revenue collected by the department.
+12 (b) (I.6) On and after July 1, 2025, BUT BEFORE JANUARY 1, 2027,
+13 of the ninety-six and one-half percent of the gross retail marijuana sales
+14 tax revenue in the general fund remaining after the allocation to local
+15 governments required by subsection (1)(a)(I) of this section is made, the
+16 state treasurer shall retain fourteen and fifty-one one-hundredths percent
+17 in the general fund for use for any lawful purpose and shall transfer from
+18 the general fund:
+19 (II.7) ON AND AFTER JANUARY 1, 2027, OF THE NINETY-SIX AND
+20 ONE-HALF PERCENT OF THE ADJUSTED RETAIL MARIJUANA SALES TAX
+21 REVENUE IN THE GENERAL FUND REMAINING AFTER THE ALLOCATION TO
+22 LOCAL GOVERNMENTS REQUIRED BY SUBSECTION (1)(a)(I) OF THIS
+23 SECTION IS MADE, THE STATE TREASURER SHALL RETAIN FOURTEEN AND
+24 FIFTY-ONE ONE-HUNDREDTHS PERCENT IN THE GENERAL FUND FOR USE
+25 FOR ANY LAWFUL PURPOSE AND SHALL TRANSFER FROM THE GENERAL
+26 FUND:
+27 (A) SEVENTY-TWO AND TWO-TENTHS PERCENT TO THE MARIJUANA
+-12- HB26-1301
+
+1 TAX CASH FUND;
+2 (B) ELEVEN AND SEVENTY-FOUR ONE-HUNDREDTHS PERCENT TO
+3 THE STATE PUBLIC SCHOOL FUND CREATED IN SECTION 22-54-114 (1) FOR
+4 USE AS SPECIFIED IN SECTION 22-54-139 (3); AND
+5 (C) ONE AND FIFTY-FIVE ONE-HUNDREDTHS PERCENT TO THE
+6 MARIJUANA CASH FUND CREATED IN SECTION 44-10-801 (1)(a).
+7 (II.8) ON AND AFTER JANUARY 1, 2027, THE STATE TREASURER
+8 SHALL TRANSFER AN AMOUNT FROM THE GENERAL FUND EQUAL TO THE
+9 DIFFERENCE BETWEEN THE TOTAL RETAIL MARIJUANA SALES TAX REVENUE
+10 COLLECTED BY THE DEPARTMENT PURSUANT TO THIS SECTION AND THE
+11 ADJUSTED RETAIL MARIJUANA SALES TAX REVENUE COLLECTED BY THE
+12 DEPARTMENT PURSUANT TO THIS SECTION TO THE HOSPITAL SUPPORT
+13 ACCOUNT CREATED IN SECTION 24-75-302 (3.9).
+14 (3) As used in this section:
+15 (a) "ADJUSTED RETAIL MARIJUANA SALES TAX REVENUE" MEANS
+16 THE TOTAL AMOUNT OF SALES TAX REVENUE THAT WOULD HAVE BEEN
+17 COLLECTED BY THE DEPARTMENT IF A SALES TAX WERE IMPOSED UPON ALL
+18 SALES OF RETAIL MARIJUANA AND RETAIL MARIJUANA PRODUCTS BY A
+19 RETAILER AT THE RATE OF FIFTEEN PERCENT OF THE AMOUNT OF THE SALE
+20 RATHER THAN FIFTEEN AND FORTY-TWO HUNDREDTHS PERCENT.
+21 (a) (b) "Ballot issue" means the ballot issue referred to the voters
+22 in accordance with section 39-28.8-603 (1).
+23 (c) "TOTAL RETAIL MARIJUANA SALES TAX REVENUE" MEANS THE
+24 TOTAL AMOUNT OF SALES TAX REVENUE COLLECTED BY THE DEPARTMENT
+25 PURSUANT TO THIS SECTION.
+26 (b)(d) "Marijuana tax cash fund" is the cash fund created in
+27 section 39-28.8-501 (1).
+-13- HB26-1301
+
+1 SECTION 5. In Colorado Revised Statutes, amend 39-28.8-204
+2 as follows:
+3 39-28.8-204. Revenue and spending limitations.
+4 Notwithstanding any limitations on revenue, spending, or
+5 appropriations contained in section 20 of article X of the state constitution
+6 or any other provision of law, any revenues generated by the retail
+7 marijuana sales tax imposed pursuant to this part 2 as approved by the
+8 voters at the statewide election ELECTIONS in November 2013 AND
+9 NOVEMBER 2026, may be collected and spent as voter-approved revenue
+10 changes and shall not require voter approval subsequent to the voter
+11 approval required pursuant to part 4 of this article ARTICLE 28.8.
+12 SECTION 6. In Colorado Revised Statutes, 39-28.8-302, amend
+13 (1)(a)(I) and (2)(a); repeal (1)(b); and add (1)(b.5) as follows:
+14 39-28.8-302. Retail marijuana - excise tax levied at first
+15 transfer from retail marijuana cultivation facility - tax rate.
+16 (1) (a) (I) Except as otherwise provided in subsection (1)(b) or
+17 (1)(c) of this section, there is levied and shall be collected, in addition to
+18 the sales tax imposed pursuant to part 1 of article 26 of this title 39 and
+19 part 2 of this article 28.8, a tax on the first sale or transfer of unprocessed
+20 retail marijuana by a retail marijuana cultivation facility BEFORE JULY 1,
+21 2027, at a rate of fifteen percent of the average market rate of the
+22 unprocessed retail marijuana if the transaction is between affiliated retail
+23 marijuana business licensees. Except as otherwise provided in subsection
+24 (1)(b) or (1)(c) of this section, there is levied and shall be collected, in
+25 addition to the sales tax imposed pursuant to part 1 of article 26 of this
+26 title 39 and part 2 of this article 28.8, a tax on the first sale or transfer of
+27 unprocessed retail marijuana by a retail marijuana cultivation facility
+-14- HB26-1301
+
+1 BEFORE JULY 1, 2027, at a rate of fifteen percent of the contract price for
+2 unprocessed retail marijuana if the transaction is between unaffiliated
+3 retail marijuana business licensees. BEFORE JANUARY 1, 2027, retail
+4 marijuana excise tax shall also be calculated as fifteen percent of the
+5 contract price when the first transfer of retail marijuana that has been
+6 harvested for sale at a retail marijuana store or extraction by a retail
+7 marijuana product manufacturing facility is between unaffiliated retail
+8 marijuana cultivation facilities. ON OR AFTER JANUARY 1, 2027, ANY TAX
+9 DESCRIBED BY THIS SUBSECTION (1)(a)(I) SHALL BE LEVIED AND
+10 COLLECTED AT A RATE OF FIFTEEN AND FORTY-TWO HUNDREDTHS, RATHER
+11 THAN FIFTEEN, PERCENT. The tax shall be imposed at the time when the
+12 retail marijuana cultivation facility first sells or transfers unprocessed
+13 retail marijuana from the retail marijuana cultivation facility to a retail
+14 marijuana product manufacturing facility or a retail marijuana store.
+15 (b) The fifteen percent tax rate specified in paragraph (a) of this
+16 subsection (1) is the maximum tax rate that may be imposed pursuant to
+17 this section. At any time on or after January 1, 2014, the general assembly
+18 may, by a bill enacted by the general assembly and that becomes law:
+19 (I) Establish a tax rate to be imposed pursuant to this subsection
+20 (1) that is lower than fifteen percent of the average market rate of
+21 unprocessed retail marijuana at the time that it is sold or transferred; or
+22 (II) After establishing a tax rate that is lower than fifteen percent
+23 pursuant to subparagraph (I) of this paragraph (b), increase the tax rate to
+24 be imposed pursuant to this subsection (1); except that in no event shall
+25 the general assembly increase the tax rate above fifteen percent of the
+26 average market rate of unprocessed retail marijuana at the time that it is
+27 sold or transferred. Notwithstanding any other provision of law, an
+-15- HB26-1301
+
+1 increase in the tax rate pursuant to this subparagraph (II) shall not require
+2 voter approval subsequent to the voter approval required pursuant to part
+3 4 of this article.
+4 (b.5) THE FIFTEEN AND FORTY-TWO HUNDREDTHS PERCENT TAX
+5 RATE SPECIFIED IN SUBSECTION (1)(a) OF THIS SECTION IS THE MAXIMUM
+6 TAX RATE THAT MAY BE IMPOSED PURSUANT TO THIS SECTION. AT ANY
+7 TIME ON OR AFTER JANUARY 1, 2027, THE GENERAL ASSEMBLY MAY, BY
+8 A BILL ENACTED BY THE GENERAL ASSEMBLY AND THAT BECOMES LAW:
+9 (I) ESTABLISH A TAX RATE TO BE IMPOSED PURSUANT TO THIS
+10 SUBSECTION (1) THAT IS LOWER THAN FIFTEEN AND FORTY-TWO
+11 HUNDREDTHS PERCENT OF THE AVERAGE MARKET RATE OF UNPROCESSED
+12 RETAIL MARIJUANA AT THE TIME THAT IT IS SOLD OR TRANSFERRED; OR
+13 (II) AFTER ESTABLISHING A TAX RATE THAT IS LOWER THAN
+14 FIFTEEN AND FORTY-TWO HUNDREDTHS PERCENT PURSUANT TO THIS
+15 SUBSECTION (1)(b.5), INCREASE THE TAX RATE TO BE IMPOSED PURSUANT
+16 TO THIS SUBSECTION (1); EXCEPT THAT IN NO EVENT SHALL THE GENERAL
+17 ASSEMBLY INCREASE THE TAX RATE ABOVE FIFTEEN AND FORTY-TWO
+18 HUNDREDTHS PERCENT OF THE AVERAGE MARKET RATE OF UNPROCESSED
+19 RETAIL MARIJUANA AT THE TIME THAT IT IS SOLD OR TRANSFERRED.
+20 NOTWITHSTANDING ANY OTHER PROVISION OF LAW, AN INCREASE IN THE
+21 TAX RATE PURSUANT TO THIS SUBSECTION (1)(b.5)(II) SHALL NOT REQUIRE
+22 VOTER APPROVAL SUBSEQUENT TO THE VOTER APPROVAL REQUIRED
+23 PURSUANT TO PART 4 OF THIS ARTICLE 28.8.
+24 (2) (a) Except as provided in subsection SUBSECTIONS (2)(b) AND
+25 (2)(b.5) of this section, the tax imposed pursuant to subsection (1) of this
+26 section shall not be levied on the sale or transfer of unprocessed
+27 marijuana by a marijuana cultivation facility to a medical marijuana
+-16- HB26-1301
+
+1 center.
+2 SECTION 7. In Colorado Revised Statutes, 39-28.8-305, amend
+3 (1)(a)(III); and add (1)(a)(V) and (2) as follows:
+4 39-28.8-305. Distribution of tax collected - definitions.
+5 (1) All money received and collected in payment of the tax
+6 imposed by this part 3 shall be transmitted to the state treasurer, who shall
+7 distribute the money as follows:
+8 (a) (III) For the state fiscal year commencing July 1, 2019, and for
+9 each state fiscal year thereafter except for the state fiscal year
+10 commencing July 1, 2020, AND EXCEPT FOR ANY STATE FISCAL YEAR
+11 COMMENCING ON OR AFTER JULY 1, 2026, all of the money received and
+12 collected annually shall be transferred to the public school capital
+13 construction assistance fund created by article 43.7 of title 22 or to any
+14 successor fund dedicated to a similar purpose.
+15 (V) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+16 2026, THE STATE TREASURER SHALL ANNUALLY TRANSFER THE ADJUSTED
+17 MARIJUANA TAX REVENUE TO THE PUBLIC SCHOOL CAPITAL
+18 CONSTRUCTION ASSISTANCE FUND CREATED BY ARTICLE 43.7 OF TITLE 22
+19 OR TO ANY SUCCESSOR FUND DEDICATED TO A SIMILAR PURPOSE AND THE
+20 DIFFERENCE BETWEEN THE TOTAL MARIJUANA TAX REVENUE AND THE
+21 ADJUSTED MARIJUANA TAX REVENUE TO THE HOSPITAL SUPPORT ACCOUNT
+22 CREATED IN SECTION 24-75-302 (3.9).
+23 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+24 REQUIRES:
+25 (a) "ADJUSTED MARIJUANA TAX REVENUE" MEANS THE TOTAL
+26 AMOUNT OF TAX REVENUE THAT WOULD HAVE BEEN COLLECTED IF THE
+27 TAX IMPOSED PURSUANT TO THIS SECTION WERE IMPOSED AT A RATE OF
+-17- HB26-1301
+
+1 FIFTEEN PERCENT RATHER THAN FIFTEEN AND FORTY-TWO HUNDREDTHS
+2 PERCENT.
+3 (b) "TOTAL MARIJUANA TAX REVENUE" MEANS THE TOTAL
+4 AMOUNT OF TAX REVENUE COLLECTED PURSUANT TO THIS SECTION.
+5 SECTION 8. In Colorado Revised Statutes, amend 39-28.8-307
+6 as follows:
+7 39-28.8-307. Revenue and spending limitations.
+8 Notwithstanding any limitations on revenue, spending, or
+9 appropriations contained in section 20 of article X of the state constitution
+10 or any other provision of law, any revenues generated by the retail
+11 marijuana excise tax imposed pursuant to this part 3 as approved by the
+12 voters at the statewide election ELECTIONS in November 2013 AND
+13 NOVEMBER 2026 may be collected and spent as voter-approved revenue
+14 changes and shall not require voter approval subsequent to the voter
+15 approval required pursuant to part 4 of this article ARTICLE 28.8.
+16 SECTION 9. In Colorado Revised Statutes, 44-3-503, add
+17 (1)(d.5) as follows:
+18 44-3-503. Excise tax - records - rules - definition - repeal.
+19 (1) (d.5) (I) BEGINNING JANUARY 1, 2027, IN ADDITION TO ANY
+20 OTHER EXCISE TAX DESCRIBED BY THIS SUBSECTION (1), AN EXCISE TAX IS
+21 IMPOSED AT THE RATE OF SEVEN AND THIRTY-THREE HUNDREDTHS CENTS
+22 PER GALLON, OR THE SAME PER UNIT VOLUME TAX APPLIED TO METRIC
+23 MEASURE, ON ALL MALT LIQUORS AND HARD CIDER, EIGHT CENTS PER
+24 LITER ON ALL VINOUS LIQUORS EXCEPT HARD CIDER, AND SIXTY AND
+25 TWENTY-SIX HUNDREDTHS CENTS PER LITER ON ALL SPIRITUOUS LIQUORS.
+26 THIS EXCISE TAX MUST BE COLLECTED ON THE RESPECTIVE BEVERAGES,
+27 NOT OTHERWISE EXEMPT FROM THE TAX, SOLD, OFFERED FOR SALE, OR
+-18- HB26-1301
+
+1 USED IN THE STATE.
+2 (II) (A) THE STATE TREASURER SHALL CREDIT THE MONEY
+3 COLLECTED FOR PAYMENT OF THE TAX IMPOSED UNDER THIS SUBSECTION
+4 (1)(d.5) TO THE OLD AGE PENSION FUND CREATED IN SECTION 1 OF ARTICLE
+5 XXIV OF THE STATE CONSTITUTION IN ACCORDANCE WITH SECTION 2 OF
+6 ARTICLE XXIV OF THE STATE CONSTITUTION AND SHALL FURTHER
+7 TRANSFER AN AMOUNT EQUAL TO THIS AMOUNT FROM THE OLD AGE
+8 PENSION FUND TO THE GENERAL FUND IN ACCORDANCE WITH SECTION 7 (c)
+9 OF ARTICLE XXIV OF THE STATE CONSTITUTION.
+10 (B) THE STATE TREASURER SHALL TRANSFER AN AMOUNT EQUAL
+11 TO THE TAX IMPOSED UNDER THIS SUBSECTION (1)(d.5) FROM THE
+12 GENERAL FUND TO THE HOSPITAL SUPPORT ACCOUNT CREATED IN SECTION
+13 24-75-302 (3.9).
+14 (III) NOTWITHSTANDING ANY LIMITATIONS ON REVENUE,
+15 SPENDING, OR APPROPRIATIONS CONTAINED IN SECTION 20 OF ARTICLE X
+16 OF THE STATE CONSTITUTION OR ANY OTHER PROVISION OF LAW, ANY
+17 REVENUE GENERATED BY THE TAX IMPOSED PURSUANT TO THIS
+18 SUBSECTION (1)(d.5) MAY BE COLLECTED AND SPENT AS A
+19 VOTER-APPROVED REVENUE CHANGE.
+20 SECTION 10. Refer to people under referendum. At the
+21 election held on November 3, 2026, the secretary of state shall submit this
+22 act by its ballot title to the registered electors of the state for their
+23 approval or rejection. Each elector voting at the election may cast a vote
+24 either "Yes/For" or "No/Against" on the following ballot title: "Shall state
+25 taxes be increased by $44 million annually by a change to the Colorado
+26 Revised Statutes modifying existing law and creating new law that
+27 concerns taxes on certain harmful substances, and, in connection
+-19- HB26-1301
+
+1 therewith, increasing the tax on the sale of malt liquors, vinous liquors,
+2 spiritous liquors, hard cider, and retail marijuana dedicating that tax
+3 revenue first to the construction and operation of the Colorado Mental
+4 Health Institute at Aurora and then the operation of long-term civil
+5 commitment facilities in Mesa County, and authorizing the state to keep
+6 and spend the additional taxation revenue as a voter-approved revenue
+7 change?" Except as otherwise provided in section 1-40-123, Colorado
+8 Revised Statutes, if a majority of the electors voting on the ballot title
+9 vote "Yes/For", then the act will become part of the Colorado Revised
+10 Statutes.
+-20- HB26-1301

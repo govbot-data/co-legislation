@@ -1,0 +1,373 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0821.01 Lindy Schaible x4215 HOUSE BILL 26-1298
+HOUSE SPONSORSHIP
+Rydin and Keltie,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THE AUTHORITY FOR CRIMINAL BACKGROUND CHECKS
+102 FOR CHILD WELFARE OUT-OF-HOME PLACEMENT PROVIDERS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, background checks are required for all
+individuals who provide out-of-home care for child-welfare-involved
+youth. Current law does not comply with the federal bureau of
+investigation's (FBI) standards for background checks, and the FBI
+granted Colorado a temporary grace period to allow Colorado to perform
+these background checks through the FBI. The temporary grace period
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+ends May 2026.
+The bill revises statutory provisions to give counties and the
+Colorado department of human services the statutory authority needed to
+conduct the required background checks in accordance with the FBI's
+standards.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 26-6-910, amend (1),
+3 (2), (5) introductory portion, (5)(a) introductory portion, (5)(b), (5)(e),
+4 (5.5), (6)(a), (8)(a), and (8)(b) introductory portion; and add (5)(f), (5.3),
+5 and (8)(c) as follows:
+6 26-6-910. Certification and annual recertification of foster
+7 care homes and kinship foster care homes by county departments
+8 and licensed child placement agencies - background and reference
+9 check requirements - rules - definition.
+10 (1) This section applies to foster care homes A FOSTER CARE
+11 HOME, including kinship foster care homes A KINSHIP FOSTER CARE HOME,
+12 certified by county departments or licensed child placement agencies A
+13 COUNTY DEPARTMENT OR A LICENSED CHILD PLACEMENT AGENCY. Except
+14 as otherwise provided in subsection (4) of this section, this section does
+15 not apply to foster care homes A FOSTER CARE HOME that are IS licensed
+16 by the state department pursuant to the requirements of section 26-6-905
+17 and that do DOES not receive money from the counties or children placed
+18 by the counties A COUNTY OR A CHILD OR YOUTH PLACED BY A COUNTY.
+19 A foster care home licensed by the state department must undergo all of
+20 the background checks and requirements set forth in section 26-6-905 or
+21 as otherwise stated in this part 9.
+22 (2) A person operating a foster care home or kinship foster care
+23 home shall obtain a certificate to operate the home from a county
+-2- HB26-1298
+
+1 department or a child placement agency licensed pursuant to this part 9.
+2 A certificate is considered a license for the purpose of this part 9,
+3 including, but not limited to, the investigation and criminal history
+4 background checks required pursuant to this section, and section
+5 26-6-912, OR SECTION 19-3-406 (5) SPECIFIC TO A KINSHIP FOSTER CARE
+6 HOME. Each certificate must be in the form prescribed and provided by
+7 the state department, certify that the person operating the foster care home
+8 is a suitable person to operate a foster care home or kinship foster care
+9 home or provide care for a child OR YOUTH, and contain any other
+10 information that the state department requires. A child placement agency
+11 issuing or renewing any such THE certificate shall notify the state
+12 department about the certification in a method and time frame as set by
+13 rule adopted by the state board.
+14 (5) Prior to issuing a certificate or a recertification to an applicant
+15 to operate a foster care home or A kinship foster care home, a county
+16 department or a child placement agency licensed pursuant to the
+17 provisions of this part 9 shall conduct the following background checks
+18 AND FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECKS for the
+19 applicant for a certificate, a person employed by the applicant, or a person
+20 who resides at the facility or the home, AND ALL APPLICANTS WHO ARE TO
+21 BE SUBJECTED TO A NATIONAL CRIMINAL HISTORY BACKGROUND CHECK:
+22 (a) AN INITIAL SUBMISSION OF a fingerprint-based criminal history
+23 record check through the Colorado bureau of investigation FOR A CHECK
+24 OF STATE RECORDS, and THEREAFTER A SUBMISSION TO the federal bureau
+25 of investigation FOR A NATIONAL CRIMINAL HISTORY RECORD CHECK to
+26 determine if the applicant, employee, or a person who resides at the
+27 facility or the FOSTER CARE home has been convicted of:
+-3- HB26-1298
+
+1 (b) A check of the ICON system at the state judicial department
+2 to determine the status or disposition of any criminal charges brought
+3 against the applicant, the employee, or a person who resides at the facility
+4 or the home that were identified by the fingerprint-based criminal history
+5 record check through the Colorado bureau of investigation. and the
+6 federal bureau of investigation; INFORMATION REGARDING THE RESULT OF
+7 THE FINGERPRINT-BASED CRIMINAL HISTORY RECEIVED FROM THE
+8 COLORADO BUREAU OF INVESTIGATION MAY BE RELEASED TO A FACILITY
+9 OR AN AGENCY AS ALLOWED BY THE "COLORADO OPEN RECORDS ACT",
+10 PART 2 OF ARTICLE 72 OF TITLE 24.
+11 (e) When the results of a fingerprint-based criminal history record
+12 check or any other record check performed pursuant to this subsection (5)
+13 reveal a record of arrest without a disposition, the county department,
+14 STATE DEPARTMENT, or licensed child placement agency shall require the
+15 person to submit to a name-based judicial record check, as defined in
+16 section 22-2-119.3 (6)(d), AND IN COMPLIANCE WITH PUB.L. 92-544.
+17 RESULTS RECEIVED BY THE STATE DEPARTMENT FROM THE FEDERAL
+18 BUREAU OF INVESTIGATION THAT REQUIRE ADDITIONAL INVESTIGATION
+19 DUE TO A RECORD OF ARREST WITHOUT A DISPOSITION MUST ONLY BE
+20 DISCLOSED TO AND DISCUSSED WITH THE SUBJECT OF THE
+21 FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECK. ALL JUDICIAL
+22 RECORD INFORMATION RECEIVED AS A RESULT OF THE FURTHER
+23 INVESTIGATION MUST BE KEPT CONFIDENTIAL AND NOT SHARED WITH A
+24 LICENSED CHILD PLACEMENT AGENCY OR WITH A PERSON NOT AUTHORIZED
+25 TO RECEIVE CRIMINAL JUSTICE INFORMATION. THE CHILD PLACEMENT
+26 AGENCY OR NON-AUTHORIZED PERSON MUST ONLY RECEIVE INFORMATION
+27 PROVIDED IN THE GENERAL INFORMATION LETTER CONTAINING ELIGIBILITY
+-4- HB26-1298
+
+1 STATUS.
+2 (f) A FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECK
+3 THROUGH THE COLORADO BUREAU OF INVESTIGATION AND THE FEDERAL
+4 BUREAU OF INVESTIGATION TO DETERMINE IF THE APPLICANT, EMPLOYEE,
+5 OR A PERSON WHO RESIDES IN THE KINSHIP FOSTER CARE HOME HAS BEEN
+6 CONVICTED OF ANY OFFENSE DESCRIBED IN SECTION 19-3-406 (5), AS
+7 "CONVICTION" IS DEFINED IN SECTION 19-3-406 (12).
+8 (5.3) (a) THE COLORADO BUREAU OF INVESTIGATION SHALL SEND
+9 RECORDS OBTAINED AS A RESULT OF A FINGERPRINT-BASED CRIMINAL
+10 HISTORY RECORD CHECK CONDUCTED PURSUANT TO THIS SECTION ONLY
+11 TO THE COUNTY DEPARTMENT OR STATE DEPARTMENT, AND THE USE AND
+12 HANDLING OF THE INFORMATION MUST COMPLY WITH THE FEDERAL
+13 CRIMINAL JUSTICE INFORMATION SERVICES SECURITY POLICY AND
+14 FEDERAL BUREAU OF INVESTIGATION'S REQUIREMENTS SURROUNDING THE
+15 HANDLING OF CRIMINAL HISTORY RECORD CHECK INFORMATION. A
+16 FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECK CONDUCTED
+17 PURSUANT TO THIS SECTION IS FOR CHILD PLACEMENT ONLY. A PRIVATE
+18 ENTITY IS NEVER AUTHORIZED TO RECEIVE CRIMINAL HISTORY RECORD
+19 CHECK INFORMATION. INFORMATION REGARDING THE RESULT OF THE
+20 FINGERPRINT-BASED CRIMINAL HISTORY RECORD CHECK RECEIVED FROM
+21 THE FEDERAL BUREAU OF INVESTIGATION AND RELEASED TO FACILITY,
+22 AGENCY, OR COUNTY DEPARTMENT STAFF NOT AUTHORIZED TO RECEIVE
+23 CRIMINAL HISTORY RECORD CHECK INFORMATION MUST DISCLOSE ONLY
+24 WHETHER THE APPLICANT IS ELIGIBLE OR INELIGIBLE, OR THAT THE
+25 INVESTIGATION IS INCONCLUSIVE, WITH A FURTHER REQUEST FOR THE
+26 APPLICANT TO CONTACT THE STATE DEPARTMENT TO PROVIDE FURTHER
+27 INFORMATION TO DETERMINE FINAL ELIGIBILITY STATUS.
+-5- HB26-1298
+
+1 (b) AS A PRIVATE ENTITY, A CHILD PLACEMENT AGENCY IS NOT
+2 AUTHORIZED TO RECEIVE CRIMINAL HISTORY RECORD INFORMATION FROM
+3 THE FEDERAL BUREAU OF INVESTIGATION.
+4 (5.5) Prior to issuing a certificate or subsequent certificate to an
+5 applicant to operate a kinship foster care home pursuant to this part 9 and
+6 rules promulgated ADOPTED by the state board, a county department,
+7 STATE DEPARTMENT, or a child placement agency shall conduct a
+8 fingerprint-based criminal history record check through the Colorado
+9 bureau of investigation pursuant to section 19-3-406 or 26-6-910. The
+10 applicant shall pay, unless otherwise paid by a county department OR A
+11 CHILD PLACEMENT AGENCY, the costs associated with the
+12 fingerprint-based criminal history record check to the Colorado bureau of
+13 investigation.
+14 (6) A county department or a child placement agency licensed
+15 pursuant to this part 9 shall not issue a certificate to operate, or a
+16 recertification to operate, a foster care home or kinship foster care home
+17 and shall revoke or suspend a certificate if the applicant for the
+18 certificate, a person employed by the applicant, or a person who resides
+19 at the facility or home:
+20 (a) Has been convicted of any of the crimes listed in subsection
+21 (5)(a) of this section FOR A FOSTER CARE HOME, OR HAS BEEN CONVICTED
+22 OF ANY CRIME LISTED IN SECTION 19-3-406 (5) FOR A KINSHIP FOSTER
+23 CARE HOME, as verified through a fingerprint-based criminal history
+24 record check, a name-based judicial record check, if necessary, and a
+25 check of the ICON system at the state judicial department;
+26 (8) (a) The convictions identified in subsections (5)(a) and (6)(a)
+27 of this section, AND IN SECTION 19-3-406 FOR A KINSHIP FOSTER CARE
+-6- HB26-1298
+
+1 HOME, must be determined according to the records of the Colorado
+2 bureau of investigation or the federal bureau of investigation and the
+3 ICON system at the state judicial department. The screening request in
+4 Colorado must be made pursuant to section 19-1-307 (2)(k.5), rules
+5 promulgated by the state board pursuant to section 19-3-313.5, and 42
+6 U.S.C. sec. 671 (a)(20). A certified copy of the judgment of a court of
+7 competent jurisdiction of the conviction, deferred judgment and sentence
+8 agreement, deferred prosecution agreement, or deferred adjudication
+9 agreement is prima facie evidence of a conviction or agreement.
+10 (b) The county department or licensed child placement agency
+11 shall not issue a certificate to operate a foster care home or a kinship
+12 foster care home if the state department or the county department has a
+13 certified court order from another state indicating that the person applying
+14 for the certificate:
+15 (c) THE COUNTY DEPARTMENT OR LICENSED CHILD PLACEMENT
+16 AGENCY SHALL NOT ISSUE A CERTIFICATE TO OPERATE A KINSHIP FOSTER
+17 CARE HOME IF THE STATE DEPARTMENT OR COUNTY DEPARTMENT HAS A
+18 CERTIFIED COURT ORDER FROM ANOTHER STATE INDICATING THAT THE
+19 PERSON APPLYING FOR THE CERTIFICATE:
+20 (I) HAS BEEN CONVICTED OF FELONY CHILD ABUSE OR ANY
+21 UNLAWFUL SEXUAL OFFENSE AGAINST A CHILD UNDER A LAW OF ANOTHER
+22 STATE OR THE UNITED STATES, THE ELEMENTS OF WHICH ARE
+23 SUBSTANTIALLY SIMILAR TO THE ELEMENTS OF ANY OF THE OFFENSES
+24 DESCRIBED IN SECTION 19-3-406 (5); OR
+25 (II) HAS ENTERED INTO A DEFERRED JUDGMENT OR DEFERRED
+26 PROSECUTION AGREEMENT IN ANOTHER STATE AS TO FELONY CHILD ABUSE
+27 OR ANY SEXUAL OFFENSE AGAINST A CHILD, THE ELEMENTS OF WHICH ARE
+-7- HB26-1298
+
+1 SUBSTANTIALLY SIMILAR TO THE ELEMENTS OF ANY OF THE OFFENSES
+2 DESCRIBED IN SECTION 19-3-406 (5).
+3 SECTION 2. In Colorado Revised Statutes, 26-6-912, amend
+4 (1)(a)(I)(A), (1)(a)(I)(B), (1)(c)(I) introductory portion, and (1)(c)(I)(A);
+5 and repeal (1)(e) as follows:
+6 26-6-912. Investigations and inspections - local authority -
+7 reports - rules.
+8 (1) (a) (I) (A) The state department shall investigate and pass on
+9 each application for issuance of a license, each application for a
+10 permanent or time-limited license following the issuance of a
+11 probationary or provisional license, and each application for renewal of
+12 a license to operate a facility or an agency prior to granting the license or
+13 renewal. As part of the investigation, the state department shall require
+14 each individual, including but not limited to the applicant, an owner, an
+15 employee, a newly hired employee, a licensee, ANY INDIVIDUAL WHO HAS
+16 DIRECT CONTACT WITH A CHILD OR A YOUTH OR IS ASSOCIATED WITH THE
+17 LICENSE, and an adult who is eighteen years of age OLD or older and
+18 resides in the licensed facility, to obtain a fingerprint-based criminal
+19 history record check by reviewing any record that is used to assist the
+20 state department in ascertaining whether the person being investigated has
+21 been convicted of any of the criminal offenses specified in section
+22 26-6-905 (8), SECTION 19-3-406 (5) REGARDING KINSHIP FOSTER CARE
+23 HOMES CERTIFIED PURSUANT TO SECTION 26-6-910, or any other felony.
+24 THE COLORADO BUREAU OF INVESTIGATION SHALL SEND RECORDS
+25 OBTAINED AS A RESULT OF A FINGERPRINT-BASED CRIMINAL HISTORY
+26 RECORD CHECK ONLY TO THE STATE DEPARTMENT, AND THE USE AND
+27 HANDLING OF THE INFORMATION MUST COMPLY WITH THE FEDERAL
+-8- HB26-1298
+
+1 CRIMINAL JUSTICE INFORMATION SERVICES SECURITY POLICY.
+2 INFORMATION REGARDING THE RESULT OF THE FINGERPRINT-BASED
+3 CRIMINAL HISTORY RECORD CHECK RECEIVED FROM THE FEDERAL BUREAU
+4 OF INVESTIGATION AND RELEASED TO A FACILITY OR AN AGENCY MUST
+5 DISCLOSE ONLY WHETHER THE APPLICANT IS ELIGIBLE OR INELIGIBLE OR
+6 THAT THE INVESTIGATION IS INCONCLUSIVE, WITH A FURTHER REQUEST
+7 FOR THE APPLICANT TO CONTACT THE STATE DEPARTMENT TO PROVIDE
+8 FURTHER INFORMATION TO DETERMINE FINAL ELIGIBILITY STATUS. The
+9 state board shall promulgate ADOPT rules that define and identify what the
+10 criminal history record check entails.
+11 (B) Rules promulgated ADOPTED by the state board pursuant to
+12 this subsection (1)(a)(I) must require the fingerprint-based criminal
+13 history record check in all circumstances, other than those identified in
+14 subsection (1)(a)(I)(C) of this section, to include a fingerprint-based
+15 criminal history record check using the records of the Colorado bureau of
+16 investigation and the federal bureau of investigation and to apply to any
+17 new owner, new applicant, newly hired employee, new licensee, or
+18 individual who begins residing in the licensed facility, AND ANY
+19 INDIVIDUAL WHO HAS DIRECT CONTACT WITH A CHILD OR A YOUTH OR IS
+20 ASSOCIATED WITH THE LICENSE. As part of the investigation, the records
+21 and reports of child abuse or neglect maintained by the state department
+22 must be accessed to determine whether the owner, applicant, employee,
+23 newly hired employee, licensee, AND ANY INDIVIDUAL WHO HAS DIRECT
+24 CONTACT WITH A CHILD OR A YOUTH OR IS ASSOCIATED WITH THE LICENSE,
+25 or individual who resides in the licensed facility being investigated has
+26 been found to be responsible in a confirmed report of child abuse or
+27 neglect. Information is made available pursuant to section 19-1-307 (2)(j)
+-9- HB26-1298
+
+1 and rules promulgated ADOPTED by the state board pursuant to section
+2 19-3-313.5 (4). Except as provided in subsection (1)(a)(I)(C) of this
+3 section, any change in ownership of a licensed facility or agency or
+4 addition of a new resident adult or newly hired employee to the licensed
+5 facility requires a new investigation as provided in this section.
+6 (c) (I) For all applicants applying to be a foster care home or
+7 kinship foster care home, regardless of reimbursement, the county
+8 department or child placement agency shall require each adult who is
+9 eighteen years of age OLD or older and who resides in the home to obtain
+10 a fingerprint-based criminal history record check through the Colorado
+11 bureau of investigation and the federal bureau of investigation. The
+12 applicant must provide the county department or child placement agency
+13 with the addresses where the applicant and any adult residing in the home
+14 have lived in the preceding five years, including addresses from other
+15 states. The county department or the child placement agency shall
+16 conduct the following background checks of the applicant or an adult
+17 residing in the home:
+18 (A) A fingerprint-based criminal history record check to
+19 determine if the applicant or adult residing in the home has been
+20 convicted of any of the crimes listed in section 26-6-910 (5)(a) FOR A
+21 FOSTER CARE HOME OR SECTION 19-3-406 (5) FOR A KINSHIP FOSTER CARE
+22 HOME;
+23 (e) Notwithstanding any provision of this part 9 to the contrary,
+24 the state department may enter into an interagency agreement or a
+25 memorandum of understanding, or both, as necessary to complete the
+26 criminal history record checks and other background checks required in
+27 this section.
+-10- HB26-1298
+
+1 SECTION 3. In Colorado Revised Statutes, 26-6-905, amend
+2 (1)(b), (8)(a)(I) introductory portion, (8)(b), and (10) as follows:
+3 26-6-905. Licenses - out-of-state notices and consent -
+4 demonstration pilot program - report - rules - definition.
+5 (1) (b) A person operating a foster care home or kinship foster
+6 care home is not required to obtain a license from the state department to
+7 operate the foster care home or kinship foster care home if the person
+8 holds a certificate issued pursuant to section 26-6-910 to operate the
+9 home from a county department or a child placement agency licensed
+10 under PURSUANT TO the provisions of this part 9. A certificate is
+11 considered a license for the purpose of this part 9, including, but not
+12 limited, to the investigation and criminal history background checks
+13 required under PURSUANT TO sections 19-3-406, 26-6-910, and 26-6-912.
+14 (8) (a) (I) The state department shall not issue a license to operate
+15 a residential or day treatment child care facility or a child placement
+16 agency, and any license or certificate issued prior to August 7, 2006, is
+17 revoked or suspended if the applicant for the license or certificate, an
+18 affiliate of the applicant, a person employed by the applicant, or a person
+19 who resides with the applicant at the facility has been convicted of ANY
+20 OFFENSE DESCRIBED IN SECTION 19-3-406 (5) OR:
+21 (b) (I) The department shall determine the convictions identified
+22 in subsection (8)(a) of this section OR SECTION 19-3-406 FOR A KINSHIP
+23 FOSTER CARE HOME according to the records of the Colorado bureau of
+24 investigation, the ICON system at the state judicial department, or any
+25 other source, as set forth in section 26-6-912 (1)(a)(II). A certified copy
+26 of the judgment of a court of competent jurisdiction of a conviction,
+27 deferred judgment and sentence agreement, deferred prosecution
+-11- HB26-1298
+
+1 agreement, or deferred adjudication agreement is prima facie evidence of
+2 the conviction or agreement.
+3 (II) A license or certificate to operate a residential or day
+4 treatment child care facility, foster care home, or child placement agency
+5 shall not be issued if the state department has a certified court order from
+6 another state indicating that the person applying for the license or
+7 certificate has been convicted of child abuse or any unlawful sexual
+8 offense against a child under a law of any other state or the United States
+9 or the state department has a certified court order from another state that
+10 the person applying for the license or certificate has entered into a
+11 deferred judgment or deferred prosecution agreement in another state as
+12 to child abuse or any sexual offense against a child.
+13 (III) A LICENSE OR CERTIFICATE TO OPERATE A KINSHIP FOSTER
+14 CARE HOME SHALL NOT BE ISSUED IF THE STATE DEPARTMENT HAS A
+15 CERTIFIED COURT ORDER FROM ANOTHER STATE INDICATING THAT THE
+16 PERSON APPLYING FOR THE LICENSE OR CERTIFICATE HAS BEEN CONVICTED
+17 OF FELONY CHILD ABUSE OR ANY UNLAWFUL SEXUAL OFFENSE AGAINST A
+18 CHILD UNDER A LAW OF ANY OTHER STATE OR THE UNITED STATES OR THE
+19 STATE DEPARTMENT HAS A CERTIFIED COURT ORDER FROM ANOTHER
+20 STATE THAT THE PERSON APPLYING FOR THE LICENSE OR CERTIFICATE HAS
+21 ENTERED INTO A DEFERRED JUDGMENT OR A DEFERRED PROSECUTION
+22 AGREEMENT IN ANOTHER STATE AS TO FELONY CHILD ABUSE OR ANY
+23 OTHER SEXUAL OFFENSE AGAINST A CHILD.
+24 (10) The state department shall not issue a license to operate a
+25 residential or day treatment child care facility, foster care home, KINSHIP
+26 FOSTER CARE HOME, or child placement agency if the person applying for
+27 the license or an affiliate of the applicant, a person employed by the
+-12- HB26-1298
+
+1 applicant, or a person who resides with the applicant at the facility has
+2 been determined to be insane or mentally incompetent by a court of
+3 competent jurisdiction and, if the court enters, pursuant to part 3 or part
+4 4 of article 14 of title 15, or section 27-65-110 (4) or 27-65-127, an order
+5 specifically finding that the mental incompetency or insanity is of such a
+6 degree that the applicant is incapable of operating a residential or day
+7 treatment child care facility, foster care home, KINSHIP FOSTER CARE
+8 HOME, or child placement agency, the record of such determination and
+9 entry of such order being conclusive evidence thereof.
+10 SECTION 4. Safety clause. The general assembly finds,
+11 determines, and declares that this act is necessary for the immediate
+12 preservation of the public peace, health, or safety or for appropriations for
+13 the support and maintenance of the departments of the state and state
+14 institutions.
+-13- HB26-1298

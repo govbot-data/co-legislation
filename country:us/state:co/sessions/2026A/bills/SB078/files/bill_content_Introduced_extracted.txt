@@ -1,0 +1,398 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0694.01 Rebecca Bayetti x4348 SENATE BILL 26-078
+SENATE SPONSORSHIP
+Amabile and Kirkmeyer,
+HOUSE SPONSORSHIP
+Smith and Taggart,
+Senate Committees House Committees
+Education
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO CERTAIN STATUTES RELATING TO
+102 INSTITUTIONS OF HIGHER EDUCATION, AND, IN CONNECTION
+103 THEREWITH, CHANGING PROCEDURES RELATING TO
+104 INFORMATION SHARING, DATA, AND CAPITAL CONSTRUCTION
+105 PROJECTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill modifies statutes relating to state institutions of higher
+education (institutions) in the following areas: Fiscal impact information
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+for legislative measures, definitions related to electric and plumbing
+work, data policies and coordination, capital construction review
+processes, and bond requirements and procedures for the university of
+Colorado.
+Fiscal impact information. The bill requires that, within 3 days
+of an institution or its governing board submitting information on the
+fiscal impact of a legislative measure to the department of higher
+education (department) to assist the department in responding to a request
+from the staff of the legislative council (LCS), the department share with
+the submitting institution or its governing board the department's official
+response to the LCS regarding the fiscal impact of the legislative
+measure.
+Definitions. The bill modifies definitions in statutes relating to
+performing electric and plumbing work on the campuses of the university
+of Colorado and the Colorado state university to remove existing
+restrictions so that the university of Colorado can perform work on any
+building on the campus that the university owns or leases.
+Data policies and coordination. The bill requires the department
+to create a data advisory group no later than July 1, 2026. The data
+advisory group is made up of representatives from the department and the
+institutions. The data advisory group must meet quarterly beginning no
+later than September 30, 2026, and is charged with developing policies
+and procedures for the collection, storage, and use of data from
+institutions. The bill adds one member of the data advisory group selected
+by the Colorado commission on higher education (commission) to the
+advisory committee to the commission and adds the data advisory group
+to the list of entities the commission is required to work with to collect
+data necessary to develop and implement the commission's master plan.
+The bill also requires the department, in collaboration with the governing
+boards and institutions that report student data to the commission and the
+department, to provide access, upon request of a governing board or
+institution, to de-identified statewide institutional and student data.
+Capital construction. The bill increases the dollar-amount
+threshold from $2 million to $5 million for exceptions from the
+requirements for program and physical planning, exceptions from
+commission approval and capital development committee (CDC) and
+joint budget committee (JBC) review of capital construction projects
+funded from certain sources, and exceptions from commission approval
+of capital construction projects funded from cash funds. The bill also
+exempts from the review and approval of the commission, the CDC, and
+the JBC any capital construction or capital renewal project funded solely
+from cash funds held by an institution that are not derived from student
+fees, so long as the institution has not participated in the higher education
+revenue bond intercept program for at least the preceding 5 years.
+Bond requirements and procedures. The bill modifies certain
+-2- SB26-078
+
+bond requirements and procedures specific to the university of Colorado
+to align with current practice.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 2-2-322, add (3.5)
+3 as follows:
+4 2-2-322. Fiscal notes - definitions - repeal.
+5 (3.5) (a) WITHIN THREE DAYS OF AN INSTITUTION OF HIGHER
+6 EDUCATION OR ITS GOVERNING BOARD SUBMITTING INFORMATION ABOUT
+7 THE FISCAL IMPACT OF A LEGISLATIVE MEASURE TO THE DEPARTMENT OF
+8 HIGHER EDUCATION TO ASSIST THE DEPARTMENT IN RESPONDING TO A
+9 REQUEST FOR INFORMATION MADE PURSUANT TO SUBSECTION (3)(a) OF
+10 THIS SECTION, THE DEPARTMENT OF HIGHER EDUCATION SHALL GRANT THE
+11 SUBMITTING INSTITUTION OF HIGHER EDUCATION OR ITS GOVERNING
+12 BOARD ACCESS TO THE DEPARTMENT'S OFFICIAL RESPONSE TO THE STAFF
+13 OF THE LEGISLATIVE COUNCIL REGARDING THE FISCAL IMPACT OF THE
+14 LEGISLATIVE MEASURE.
+15 (b) AS USED IN THIS SUBSECTION (3.5):
+16 (I) "DEPARTMENT OF HIGHER EDUCATION" MEANS THE
+17 DEPARTMENT OF HIGHER EDUCATION CREATED IN SECTION 24-1-114.
+18 (II) "INSTITUTION OF HIGHER EDUCATION" MEANS:
+19 (A) A STATE INSTITUTION OF HIGHER EDUCATION, AS DEFINED IN
+20 SECTION 23-18-102 (10);
+21 (B) A LOCAL DISTRICT COLLEGE, AS DEFINED IN SECTION
+22 23-71-102 (1)(a);
+23 (C) AN AREA TECHNICAL COLLEGE, AS DEFINED IN SECTION
+24 23-60-103 (1); AND
+25 (D) THE AURARIA HIGHER EDUCATION CENTER CREATED IN
+-3- SB26-078
+
+1 ARTICLE 70 OF TITLE 23.
+2 SECTION 2. In Colorado Revised Statutes, 12-115-103, amend
+3 (10) as follows:
+4 12-115-103. Definitions.
+5 As used in this article 115, unless the context otherwise requires:
+6 (10) "Qualified state institution of higher education" means
+7 (a) one of the state institutions of higher education established
+8 under, specified in, and located upon the campuses described in sections
+9 23-20-101 (1)(a), 23-20-101 (1)(b), 23-20-101 (1)(d), and 23-31-101,
+10 limited to the buildings owned or leased by those institutions on the
+11 campuses.
+12 (b) The institution whose campus is established under and
+13 specified in section 23-20-101 (1)(b), but limited to the buildings located
+14 in Denver at 1380 Lawrence street, 1250 Fourteenth street, and 1475
+15 Lawrence street; and
+16 (c) The institution whose campus is established under and
+17 specified in section 23-20-101 (1)(d), but limited to current and future
+18 buildings owned, leased, or built on land owned on or before January 1,
+19 2015, by the university of Colorado on the campus described in section
+20 23-20-101 (1)(d).
+21 SECTION 3. In Colorado Revised Statutes, 12-155-103, amend
+22 (12) as follows:
+23 12-155-103. Definitions.
+24 As used in this article 155, unless the context otherwise requires:
+25 (12) "Qualified state institution of higher education" means
+26 (a) one of the state institutions of higher education established
+27 under, specified in, and located upon the campuses described in sections
+-4- SB26-078
+
+1 23-20-101 (1)(a), 23-20-101 (1)(b), 23-20-101 (1)(d), and 23-31-101,
+2 limited to the buildings owned or leased by those institutions on those
+3 campuses.
+4 (b) The institution whose campus is established under and
+5 specified in section 23-20-101 (1)(b), but limited to the buildings located
+6 in Denver at 1380 Lawrence street, 1250 Fourteenth street, and 1475
+7 Lawrence street; and
+8 (c) The institution whose campus is established under and
+9 specified in section 23-20-101 (1)(d), but limited to current and future
+10 buildings owned or leased or built on land owned on or before January 1,
+11 2015, by the university of Colorado on the campus described in section
+12 23-20-101 (1)(d).
+13 SECTION 4. In Colorado Revised Statutes, 23-1-101.1, add (1.5)
+14 as follows:
+15 23-1-101.1. Definitions.
+16 As used in this article 1, unless the context otherwise requires:
+17 (1.5) "DATA ADVISORY GROUP" MEANS THE DATA ADVISORY
+18 GROUP CREATED IN SECTION 23-1-144.
+19 SECTION 5. In Colorado Revised Statutes, 23-1-103, amend (1)
+20 introductory portion and (1)(b) as follows:
+21 23-1-103. Advisory committee to the Colorado commission on
+22 higher education.
+23 (1) There is hereby established an advisory committee to the
+24 commission for the purpose of suggesting solutions for the problems and
+25 needs of higher education and maintaining liaison with the general
+26 assembly and the governing boards for state-supported institutions of
+27 higher education. The advisory committee shall consist CONSISTS of not
+-5- SB26-078
+
+1 less than thirteen FOURTEEN members, to be designated as follows:
+2 (b) One member shall be selected and designated by The
+3 commission SHALL SELECT AND DESIGNATE:
+4 (I) ONE MEMBER to represent the faculty in the state; and
+5 (II) One member shall be selected and designated by the
+6 commission to represent the students in the state;
+7 (III) On and after August 5, 2009, the commission shall select and
+8 designate one member who, at the time of designation, is a parent of a
+9 student who is enrolled in a state-supported institution of higher
+10 education in Colorado to represent the parents of students; AND
+11 (IV) ON AND AFTER JULY 1, 2026, ONE MEMBER WHO IS A
+12 CURRENT MEMBER OF THE DATA ADVISORY GROUP AND WHO WORKS AT A
+13 PUBLIC INSTITUTION OF HIGHER EDUCATION.
+14 SECTION 6. In Colorado Revised Statutes, 23-1-106, amend
+15 (5)(b), (6)(b), (9)(d)(II), and (11)(a)(III) as follows:
+16 23-1-106. Duties and powers of the commission with respect
+17 to capital construction and long-range planning - report - legislative
+18 declaration - definitions.
+19 (5) (b) The commission may except from the requirements for
+20 program and physical planning any project that requires two FIVE million
+21 dollars or less if the capital construction project is for new construction
+22 and funded solely from cash funds held by the institution or the project is
+23 funded through the higher education revenue bond intercept program
+24 established pursuant to section 23-5-139, or ten million dollars or less if
+25 the project is not for new construction and is funded solely from cash
+26 funds held by the institution.
+27 (6) (b) The commission shall review, at its next available meeting,
+-6- SB26-078
+
+1 any two-year projection of capital construction projects submitted by a
+2 state institution of higher education to be undertaken pursuant to
+3 subsection (9) of this section and estimated to require total project
+4 expenditures exceeding two FIVE million dollars if the capital
+5 construction project is for new acquisitions of real property or new
+6 construction and funded solely from cash funds held by the institution or
+7 the project is funded through the higher education revenue bond intercept
+8 program established pursuant to section 23-5-139, or exceeding ten
+9 million dollars if the project is not for new acquisitions of real property
+10 or new construction and is funded solely from cash funds held by the
+11 institution. The projection must include the estimated cost, the method of
+12 funding, and a schedule for project completion for each project.
+13 (9) (d) (II) A plan for a capital construction or capital renewal
+14 project is not subject to review or approval by the commission if such
+15 project is:
+16 (A) Estimated to require total expenditures of two FIVE million
+17 dollars or less if the capital construction project is for new acquisitions of
+18 real property or for new construction and funded solely from cash funds
+19 held by the institution or the project is funded through the higher
+20 education revenue bond intercept program established pursuant to section
+21 23-5-139; or
+22 (B) Estimated to require total expenditures of ten million dollars
+23 or less if the project is not for new acquisitions of real property or for new
+24 construction and is funded solely from cash funds held by the institution;
+25 OR
+26 (C) FUNDED SOLELY FROM CASH FUNDS HELD BY THE INSTITUTION
+27 THAT ARE NOT DERIVED FROM STUDENT FEES, SO LONG AS THE
+-7- SB26-078
+
+1 INSTITUTION HAS NOT PARTICIPATED IN THE HIGHER EDUCATION REVENUE
+2 BOND INTERCEPT PROGRAM ESTABLISHED PURSUANT TO SECTION 23-5-139
+3 FOR AT LEAST THE PRECEDING FIVE YEARS.
+4 (11) (a) Each state institution of higher education shall submit to
+5 the commission on or before September 1 of each year a list and
+6 description of each project for which an expenditure was made during the
+7 immediately preceding fiscal year that:
+8 (III) Was estimated to require total expenditures of two FIVE
+9 million dollars or less if the capital construction project is for new
+10 acquisitions of real property or for new construction and was funded
+11 solely from cash funds held by the institution or the project was funded
+12 through the higher education revenue bond intercept program established
+13 pursuant to section 23-5-139, or was estimated to require total
+14 expenditures of ten million dollars or less if the project was not for new
+15 acquisitions of real property or for new construction and was funded
+16 solely from cash funds held by the institution; or
+17 SECTION 7. In Colorado Revised Statutes, 23-1-108, amend
+18 (1.7) as follows:
+19 23-1-108. Duties and powers of the commission with regard to
+20 systemwide planning - reporting - definitions.
+21 (1.7) The commission, working with the department, THE DATA
+22 ADVISORY GROUP, the governing boards, and the institutions of higher
+23 education, shall collect data, including but not limited to research
+24 conducted by national policy organizations and agencies or institutions of
+25 higher education in other states, as necessary to support development and
+26 implementation of the master plan pursuant to subsection (1.5) of this
+27 section.
+-8- SB26-078
+
+1 SECTION 8. In Colorado Revised Statutes, 23-1-141, amend (1);
+2 and add (5.5) and (6.5) as follows:
+3 23-1-141. Student success data system - student success data
+4 transparency - access to data - appropriation - definitions.
+5 (1) As used in this section, unless the context otherwise requires:
+6 (a) "Institution of higher education" or "institution" means the
+7 state institutions, as defined in section 23-18-102 (10)(a), the local district
+8 colleges, and the area technical colleges.
+9 (b) (I) "STATEWIDE INSTITUTIONAL AND STUDENT DATA" MEANS
+10 DATA PROVIDED BY AN INSTITUTION OF HIGHER EDUCATION TO THE
+11 DEPARTMENT OR ANOTHER STATE AGENCY.
+12 (II) "STATEWIDE INSTITUTIONAL AND STUDENT DATA" INCLUDES:
+13 (A) ALL DATA SUBMISSIONS FROM AN INSTITUTION OF HIGHER
+14 EDUCATION TO THE DEPARTMENT;
+15 (B) DATA, IN ANY FORMAT, CREATED BY THE DEPARTMENT FOR
+16 FUNDING OR RESOURCE ALLOCATION, LEGISLATIVE REPORTS, OR
+17 STRATEGIC PLANNING AND ANALYSIS; AND
+18 (C) DATA, IN ANY FORMAT, SHARED BY THE DEPARTMENT WITH A
+19 THIRD PARTY.
+20 (c) "INSTITUTIONAL DATA USERS" MEANS USERS OR CONSUMERS
+21 OF DATA THAT ORIGINATES FROM AN INSTITUTION OF HIGHER EDUCATION,
+22 INCLUDING AN INSTITUTION, THE DEPARTMENT, ANOTHER STATE AGENCY,
+23 OR ANY PERSON THAT HAS ACCESS TO SUCH DATA.
+24 (5.5) (a) THE DEPARTMENT SHALL, IN COLLABORATION WITH THE
+25 GOVERNING BOARDS AND INSTITUTIONS OF HIGHER EDUCATION THAT
+26 REPORT STUDENT DATA TO THE COMMISSION AND THE DEPARTMENT,
+27 PROVIDE ACCESS TO DE-IDENTIFIED STATEWIDE INSTITUTIONAL AND
+-9- SB26-078
+
+1 STUDENT DATA UPON REQUEST OF A GOVERNING BOARD OR INSTITUTION.
+2 (b) THE DEPARTMENT SHALL ENSURE THAT ALL STATEWIDE
+3 INSTITUTIONAL AND STUDENT DATA THAT IS SHARED WITH A GOVERNING
+4 BOARD OR INSTITUTION IS SHARED THROUGH A SECURE MEANS THAT
+5 COMPLIES WITH POLICIES, PROCEDURES, AND OTHER GUIDANCE
+6 DEVELOPED BY THE DEPARTMENT AND THE DATA ADVISORY GROUP.
+7 (6.5) THE DEPARTMENT SHALL, IN CONSULTATION WITH THE DATA
+8 ADVISORY GROUP, DEVELOP POLICIES TO ENSURE THAT INSTITUTIONAL
+9 DATA USERS COMPLY WITH ALL STATE AND FEDERAL LAWS, REGULATIONS,
+10 AND APPLICABLE GUIDELINES CONCERNING THE PRIVACY OF STUDENT
+11 INFORMATION, INCLUDING THE FEDERAL "FAMILY EDUCATIONAL RIGHTS
+12 AND PRIVACY ACT OF 1974", 20 U.S.C. SEC. 1232g.
+13 SECTION 9. In Colorado Revised Statutes, add 23-1-144 as
+14 follows:
+15 23-1-144. Department directive - creation of data advisory
+16 group - development of data policies - definition - repeal.
+17 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+18 REQUIRES, "INSTITUTIONS OF HIGHER EDUCATION" MEANS INSTITUTIONS
+19 OF HIGHER EDUCATION THAT PARTICIPATE IN DATA COLLECTION FOR THE
+20 COMMISSION OR THE DEPARTMENT.
+21 (2) (a) AS EARLY AS PRACTICABLE BUT NO LATER THAN JULY 1,
+22 2026, THE DEPARTMENT SHALL CREATE A DATA ADVISORY GROUP TO
+23 DEVELOP POLICIES REGARDING DATA COLLECTION FROM THE GOVERNING
+24 BOARDS AND INSTITUTIONS OF HIGHER EDUCATION.
+25 (b) THE DATA ADVISORY GROUP CONSISTS OF REPRESENTATIVES
+26 FROM INSTITUTIONS OF HIGHER EDUCATION AND THE DEPARTMENT, WITH
+27 NO GREATER THAN TWO VOTING MEMBERS FROM THE DEPARTMENT.
+-10- SB26-078
+
+1 (3) (a) THE DATA ADVISORY GROUP SHALL:
+2 (I) DEVELOP, APPROVE, AND MAINTAIN POLICIES AND PROCEDURES
+3 FOR THE COLLECTION, STORAGE, AND USE OF DATA FROM INSTITUTIONS OF
+4 HIGHER EDUCATION BY THE DEPARTMENT, STATE AGENCIES, AND THIRD
+5 PARTIES;
+6 (II) DETERMINE HOW TO APPROACH NEW DATA REPORTING
+7 REQUIREMENTS RESULTING FROM LEGISLATION; AND
+8 (III) SERVE AS A RESOURCE TO THE DEPARTMENT IN DECISIONS
+9 RELATING TO DATA SHARING TO IDENTIFY PROCESSES TO DE-IDENTIFY
+10 DATA IN A MANNER THAT ALLOWS FOR ONGOING ACCESS AND
+11 TRANSPARENCY WHILE REMAINING IN COMPLIANCE WITH APPLICABLE
+12 FEDERAL AND STATE REQUIREMENTS.
+13 (b) THE DATA ADVISORY GROUP MAY DEVELOP GUIDELINES FOR
+14 DATA AGGREGATION AND SUPPRESSION.
+15 (4) (a) THE DATA ADVISORY GROUP SHALL DEVELOP PROCEDURES
+16 FOR APPROVING POLICIES AND PROCEDURES, INCLUDING USES OF DATA,
+17 WITH THE GUIDING PRINCIPLE THAT ALL POLICIES AND PROCEDURES
+18 DIRECTLY BENEFIT HIGHER EDUCATION IN THE STATE. ANY VOTE OF THE
+19 DATA ADVISORY GROUP TO APPROVE OR AMEND A POLICY OR PROCEDURE
+20 MUST INCLUDE REPRESENTATIVES FROM AT LEAST TWO-THIRDS OF THE
+21 INSTITUTIONS OF HIGHER EDUCATION THAT PARTICIPATE IN THE DATA
+22 ADVISORY GROUP, WITH REPRESENTATION FROM BOTH TWO-YEAR AND
+23 FOUR-YEAR INSTITUTIONS OF HIGHER EDUCATION.
+24 (b) TO ACCOMPLISH ITS DUTIES, THE DATA ADVISORY GROUP
+25 SHALL MEET AT LEAST QUARTERLY.
+26 (c) (I) THE DATA ADVISORY GROUP SHALL HOLD ITS FIRST MEETING
+27 AS SOON AS PRACTICABLE BUT NO LATER THAN SEPTEMBER 30, 2026.
+-11- SB26-078
+
+1 (II) THIS SUBSECTION (4)(c) IS REPEALED, EFFECTIVE JULY 1, 2027.
+2 SECTION 10. In Colorado Revised Statutes, 23-20-129.5,
+3 amend (2) as follows:
+4 23-20-129.5. Enterprise auxiliary facility bonds.
+5 (2) The policies and procedures adopted pursuant to subsection (1)
+6 of this section shall MUST include but need not be limited to, the
+7 following requirements:
+8 (a) That, upon issuance of revenue bonds pursuant to section
+9 23-5-102, the university shall identify the primary revenue sources for
+10 payment of principal and interest on the bonds from among those
+11 revenues and other moneys MONEY pledged for payment of principal and
+12 interest on the revenue bonds;
+13 (b) That, upon issuance of revenue bonds pursuant to section
+14 23-5-102, the university shall perform a financial analysis based upon
+15 assumptions approved by the board of regents and the state auditor, that
+16 demonstrates that revenues expected to be annually available from the
+17 sources identified under paragraph (a) of this subsection (2) SUBSECTION
+18 (2)(a) OF THIS SECTION will be sufficient to pay at least one hundred
+19 twenty-five percent of the annual principal and interest on the revenue
+20 bonds; AND
+21 (c) That the university shall annually review the revenue sources
+22 identified under paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF
+23 THIS SECTION to determine if the financial analysis required in paragraph
+24 (b) of this subsection (2) SUBSECTION (2)(b) OF THIS SECTION shows
+25 sufficient revenues for payment of principal and interest on the revenue
+26 bonds and, if the revenues are not sufficient, take such action as the board
+27 of regents and the state auditor shall require REQUIRES to assure that
+-12- SB26-078
+
+1 adequate revenues are available to pay the principal and interest on the
+2 revenue bonds.
+3 (d) That the maximum annual debt service on all revenue bonds
+4 issued pursuant to section 23-5-102, except as provided for in sections
+5 23-5-101.8 and 23-5-103, outstanding at any time for the university shall
+6 not exceed ten percent of the university's unrestricted current fund
+7 expenditures plus mandatory transfers;
+8 (e) That the university shall establish and maintain such debt
+9 service reserves and such reserves for repair and replacement of any
+10 auxiliary facility or group of auxiliary facilities on behalf of which
+11 revenue bonds are issued pursuant to section 23-5-102 and as may be
+12 required by the terms of the resolution, indenture, or other document
+13 authorizing or executed in connection with the issuance of the revenue
+14 bonds and subject to review and approval by the state auditor; and
+15 (f) That the university shall annually report to the state auditor
+16 regarding compliance with the requirements specified in this subsection
+17 (2) and any additional requirements that may be imposed by the board of
+18 regents.
+19 SECTION 11. Safety clause. The general assembly finds,
+20 determines, and declares that this act is necessary for the immediate
+21 preservation of the public peace, health, or safety or for appropriations for
+22 the support and maintenance of the departments of the state and state
+23 institutions.
+-13- SB26-078

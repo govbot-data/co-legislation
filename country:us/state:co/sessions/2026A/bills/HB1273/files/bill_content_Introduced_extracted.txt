@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0624.01 Jennifer Berman x3286 HOUSE BILL 26-1273
+HOUSE SPONSORSHIP
+Willford and Froelich,
+SENATE SPONSORSHIP
+Cutter and Wallace,
+House Committees Senate Committees
+Business Affairs & Labor
+A BILL FOR AN ACT
+101 CONCERNING THE MAXIMUM AMOUNT THAT A TRANSPORTATION
+102 NETWORK COMPANY MAY RETAIN IN RELATION TO THE AMOUNT
+103 PAID FOR TRANSPORTATION SERVICES PROVIDED THROUGH THE
+104 TRANSPORTATION NETWORK COMPANY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits a transportation network company (TNC) from
+retaining more than 20% of a consumer fare paid for a driver's completion
+of a transportation task through the TNC's digital platform. "Consumer
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+fare" is defined in the bill as the amount a consumer pays for a
+transportation task, excluding tips and pass-throughs such as payments for
+tolls. A TNC is also not allowed to impose a fee on a TNC driver unless
+the amount of the fee plus the amount that the TNC retains from a
+consumer fare does not exceed 20% of the consumer fare.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-4-127, add
+3 (1)(c.5), (1)(o.3), (1)(o.5), and (12.5) as follows:
+4 8-4-127. Transportation network companies - disclosures to
+5 drivers - deactivation and suspension policies - disclosures to division
+6 - amount of consumer fare kept by a transportation network
+7 company - definitions - enforcement - rules - legislative declaration.
+8 (1) Definitions. As used in this section, unless the context
+9 otherwise requires:
+10 (c.5) "CONSUMER FARE" MEANS THE AMOUNT OF MONEY THAT A
+11 CONSUMER PAYS FOR A TRANSPORTATION TASK, EXCLUDING TIPS AND
+12 PASS-THROUGHS.
+13 (o.3) "TAKE AMOUNT":
+14 (I) MEANS THE PORTION OF A CONSUMER FARE THAT A
+15 TRANSPORTATION NETWORK COMPANY, AFTER MAKING PAYMENT TO A
+16 DRIVER, RETAINS FOR ITSELF;
+17 (II) INCLUDES ANY AMOUNT OF MONEY RETAINED BY A TNC FOR
+18 THE PURPOSE OF PAYING FEES, TAXES, CHARGES, OR OTHER COSTS THAT
+19 THE TNC IS REQUIRED TO PAY IN CONNECTION WITH THE TRANSACTION OR
+20 FOR THE GENERAL OPERATIONAL COSTS OF THE TNC; AND
+21 (III) DOES NOT INCLUDE ANY AMOUNT OF THE CONSUMER FARE
+22 THAT THE TNC PAYS TO THE DRIVER.
+23 (o.5) "TAKE RATE" MEANS THE PERCENTAGE OF A CONSUMER FARE
+-2- HB26-1273
+
+1 THAT IS A TAKE AMOUNT.
+2 (12.5) Amount of consumer fare kept by a transportation
+3 network company - legislative declaration.
+4 (a) (I) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+5 (A) TRANSPORTATION NETWORK COMPANIES AND DRIVERS PLAY
+6 AN IMPORTANT ROLE IN COLORADO'S PUBLIC TRANSPORTATION
+7 INFRASTRUCTURE; YET, TRANSPORTATION NETWORK COMPANIES HAVE
+8 NOT BEEN MADE SUBJECT TO PUBLIC RATE SETTING, ACCESSIBILITY
+9 REQUIREMENTS, OR OTHER REGULATIONS THAT APPLY TO COMMON
+10 CARRIERS OR OTHER PUBLIC UTILITIES;
+11 (B) TRANSPORTATION NETWORK COMPANIES MAINTAIN THAT THEY
+12 ARE NOT SUBJECT TO EMPLOYMENT LAWS WITH RESPECT TO DRIVERS,
+13 WHICH LAWS WOULD ENSURE THEIR DRIVERS EARN AT LEAST A MINIMUM
+14 WAGE;
+15 (C) TRANSPORTATION NETWORK COMPANIES INSTEAD SET WAGES
+16 THROUGH HIDDEN ALGORITHMS BASED ON FACTORS THAT ARE NOT
+17 DISCLOSED TO DRIVERS AND WHICH MAY BE USED IN A MANNER THAT
+18 MANIPULATES DRIVER BEHAVIOR;
+19 (D) MEANWHILE, DRIVER WAGES FALL FAR BELOW OUR STATE
+20 MINIMUM WAGE STANDARDS, PARTICULARLY GIVEN THE SUBSTANTIAL
+21 COSTS THAT DRIVERS INCUR IN ORDER TO DO THEIR JOBS;
+22 (E) WHILE CONSUMER FARES APPEAR TO BE INCREASING, DRIVER
+23 PAY IS NOT, AND, THEREFORE, THE TAKE AMOUNT RETAINED BY A
+24 TRANSPORTATION NETWORK COMPANY IS INCREASING;
+25 (F) THE TAKE AMOUNT RETAINED BY A TRANSPORTATION
+26 NETWORK COMPANY HAS BECOME EXTRAORDINARY, WITH ANECDOTAL
+27 REPORTS OF TAKE AMOUNTS OF SIXTY PERCENT AND EVEN SEVENTY
+-3- HB26-1273
+
+1 PERCENT OF THE CONSUMER FARE IN SOME CASES; AND
+2 (G) HIGH TAKE RATES GENERATE FRICTION BETWEEN CONSUMERS
+3 AND DRIVERS, MOVE PROFITS AWAY FROM COLORADO DRIVERS TO
+4 OUT-OF-STATE BUSINESSES, FACILITATE PRICE GOUGING OF CONSUMERS,
+5 AND ALLOW MANIPULATION OF DRIVERS. PROTECTION AGAINST
+6 INCREASING TAKE RATES IS NECESSARY TO ENSURE THAT CONSUMERS AND
+7 DRIVERS ARE TREATED FAIRLY.
+8 (II) THEREFORE, THE GENERAL ASSEMBLY FURTHER DECLARES
+9 THAT:
+10 (A) THIS SUBSECTION (12.5) PROHIBITS TRANSPORTATION
+11 NETWORK COMPANIES FROM RAISING TAKE RATES ABOVE TWENTY
+12 PERCENT AS A MEANS TO PREVENT PRICE GOUGING, WHICH PRICE GOUGING
+13 INCREASES CORPORATE PROFITS AT THE EXPENSE OF COLORADO DRIVERS
+14 AND CONSUMERS; AND
+15 (B) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THIS
+16 SUBSECTION (12.5) BE BROADLY INTERPRETED TO ACHIEVE ITS INTENDED
+17 PURPOSES.
+18 (b) A TRANSPORTATION NETWORK COMPANY SHALL NOT CHARGE
+19 AN AMOUNT IN EXCESS OF TWENTY PERCENT AS A TAKE RATE FOR ANY
+20 TRANSPORTATION TASK.
+21 (c) A TNC SHALL PAY A DRIVER AT LEAST EIGHTY PERCENT OF THE
+22 CONSUMER FARE PAID FOR A TRANSPORTATION TASK.
+23 (d) A TNC SHALL NOT IMPOSE A FEE ON A DRIVER FOR A
+24 TRANSPORTATION TASK UNLESS THE TAKE AMOUNT FOR THE
+25 TRANSPORTATION TASK PLUS THE AMOUNT OF THE FEE, EXPRESSED AS A
+26 PERCENTAGE, DOES NOT EXCEED TWENTY PERCENT OF THE CONSUMER
+27 FARE PAID FOR THE TRANSPORTATION TASK.
+-4- HB26-1273
+
+1 SECTION 2. Act subject to petition - effective date -
+2 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+3 the expiration of the ninety-day period after final adjournment of the
+4 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+5 2026); except that, if a referendum petition is filed pursuant to section 1
+6 (3) of article V of the state constitution against this act or an item, section,
+7 or part of this act within such period, then the act, item, section, or part
+8 will not take effect unless approved by the people at the general election
+9 to be held in November 2026 and, in such case, will take effect on the
+10 date of the official declaration of the vote thereon by the governor.
+11 (2) This act applies to conduct occurring on or after the applicable
+12 effective date of this act.
+-5- HB26-1273

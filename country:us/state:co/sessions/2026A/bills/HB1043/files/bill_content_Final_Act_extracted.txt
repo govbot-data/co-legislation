@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 26-1043
+BY REPRESENTATIVE(S) Rydin and Paschal, Bacon, Boesenecker,
+Brown, Clifford, Duran, English, Froelich, Jackson, Marshall, Nguyen,
+Ricks, Rutinel, Sirota, Story, Willford, Zokaie, McCluskie;
+also SENATOR(S) Kipp, Benavidez, Cutter, Exum, Gonzales J.,
+Hinrichsen, Jodeh, Kolker, Marchman, Sullivan, Wallace, Coleman.
+CONCERNING MEASURES TO ADDRESS DISCRIMINATORY CONDUCT ENGAGED
+IN BY TRANSPORTATION NETWORK COMPANY DRIVERS IN PROVIDING
+SERVICES TO RIDERS.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 40-10.1-605, amend
+(7) and (9); and add (6)(e) and (11) as follows:
+40-10.1-605. Operational requirements - rules.
+(6) (e) EXCEPT FOR TRANSPORTATION NETWORK COMPANIES THAT
+PROVIDE A MAJORITY OF SERVICES FOR SCHOOL DISTRICTS OR SCHOOLS
+PURSUANT TO A CONTRACT REQUIRED BY SUBSECTION (1)(p) OF THIS
+SECTION:
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(I) A TRANSPORTATION NETWORK COMPANY SHALL MANDATE AND
+PROVIDE EDUCATION TO DRIVERS CONCERNING THE TRANSPORTATION OF
+RIDERS WITH SERVICE ANIMALS, INCLUDING EDUCATION ON THE PROHIBITION
+AGAINST DENYING A SERVICE ANIMAL FROM ACCOMPANYING A RIDER
+PURSUANT TO SUBSECTION (6)(c) OF THIS SECTION;
+(II) A DRIVER SHALL COMPLETE THE MANDATORY SERVICE ANIMAL
+EDUCATION NO LATER THAN SIX MONTHS AFTER THE DRIVER IS FIRST
+ONBOARDED ON THE TRANSPORTATION NETWORK COMPANY'S DIGITAL
+PLATFORM OR SIX MONTHS AFTER THE EFFECTIVE DATE OF THIS SUBSECTION
+(6)(e), WHICHEVER IS LATER;
+(III) A TRANSPORTATION NETWORK COMPANY MAY RESTRICT OR
+SUSPEND A DRIVER'S ACCESS TO ITS DIGITAL PLATFORM IF THE DRIVER FAILS
+TO COMPLETE THE MANDATORY SERVICE ANIMAL EDUCATION WITHIN THE
+SIX-MONTH PERIOD DESCRIBED IN SUBSECTION (6)(e)(II) OF THIS SECTION;
+AND
+(IV) AS SOON AS PRACTICABLE, A TRANSPORTATION NETWORK
+COMPANY SHALL ADOPT A POLICY THAT PROHIBITS UNLAWFUL
+DISCRIMINATION, AS DESCRIBED IN THIS SUBSECTION (6), AND SHALL:
+(A) PROVIDE THE POLICY TO EACH DRIVER ON THE TRANSPORTATION
+NETWORK COMPANY'S DIGITAL NETWORK; AND
+(B) POST THE POLICY ON THE TRANSPORTATION NETWORK
+COMPANY'S WEBSITE.
+(7) (a) A transportation network company is not liable for a driver's
+violation of subsection (6) of this section unless the driver's violation has
+been previously reported to the transportation network company in writing,
+and the transportation network company has failed to reasonably address the
+alleged violation. The commission shall afford a transportation network
+company the same due process rights afforded transportation providers in
+defending against THE COMMISSION SHALL TAKE INTO CONSIDERATION A
+TRANSPORTATION NETWORK COMPANY'S GOOD FAITH EFFORTS, INCLUDING
+EFFORTS DESCRIBED IN SUBSECTION (6), (9)(b), OR (9)(c) OF THIS SECTION,
+TO REMEDIATE A DRIVER'S FIRST VIOLATION OF SUBSECTION (6) OF THIS
+SECTION AND THE TOTAL NUMBER OF VIOLATIONS BY A TRANSPORTATION
+NETWORK COMPANY THAT HAVE OCCURRED IN THE PRECEDING TWELVE
+PAGE 2-HOUSE BILL 26-1043
+
+MONTHS IN DETERMINING WHETHER TO ASSESS CIVIL PENALTIES AND THE
+AMOUNT OF THE civil penalties assessed by the commission PURSUANT TO
+SUBSECTION (7)(b) OF THIS SECTION.
+(b) The commission may assess a civil penalty IN AN AMOUNT up to
+five hundred fifty ONE THOUSAND THREE HUNDRED dollars under this
+subsection (7) FOR A TRANSPORTATION NETWORK COMPANY'S VIOLATION OF
+SUBSECTION (6), (9)(b), OR (9)(c) OF THIS SECTION.
+(9) (a) A driver shall immediately report to the transportation
+network company any refusal to transport a passenger pursuant to paragraph
+(a) of subsection (6) SUBSECTION (6) of this section. and
+(b) The transportation network company shall annually report all
+such refusals ANY REFUSALS TO TRANSPORT IN VIOLATION OF SUBSECTION
+(6) OF THIS SECTION to the commission ON A MONTHLY BASIS in a form and
+manner determined by the commission; EXCEPT THAT A TRANSPORTATION
+NETWORK COMPANY THAT PROVIDES A MAJORITY OF SERVICES FOR SCHOOL
+DISTRICTS OR SCHOOLS PURSUANT TO A CONTRACT REQUIRED BY
+SUBSECTION (1)(p) OF THIS SECTION SHALL SUBMIT THE REPORTS ON A
+QUARTERLY BASIS.
+(c) EXCEPT FOR TRANSPORTATION NETWORK COMPANIES THAT
+PROVIDE A MAJORITY OF SERVICES FOR SCHOOL DISTRICTS OR SCHOOLS
+PURSUANT TO A CONTRACT REQUIRED BY SUBSECTION (1)(p) OF THIS
+SECTION, A TRANSPORTATION NETWORK COMPANY SHALL PROVIDE A
+MECHANISM TO ALLOW A CONSUMER TO REPORT DIRECTLY ON THE
+TRANSPORTATION NETWORK COMPANY'S DIGITAL PLATFORM A DRIVER'S
+REFUSAL TO TRANSPORT THE CONSUMER IN VIOLATION OF SUBSECTION (6)
+OF THIS SECTION. THE REPORTING MECHANISM MUST BE ACCESSIBLE AND
+EASILY NAVIGABLE ON THE DIGITAL PLATFORM. THE TRANSPORTATION
+NETWORK COMPANY SHALL INCLUDE ANY CONSUMER REPORTS RECEIVED
+PURSUANT TO THIS SUBSECTION (9)(c) IN THE TRANSPORTATION NETWORK
+COMPANY'S MONTHLY REPORTS SUBMITTED PURSUANT TO SUBSECTION (9)(b)
+OF THIS SECTION.
+(d) THE COMMISSION SHALL AGGREGATE AND ANONYMIZE THE DATA
+INCLUDED IN THE MONTHLY REPORTS SUBMITTED PURSUANT TO
+SUBSECTIONS (9)(b) AND (9)(c) OF THIS SECTION; INCLUDE IN THE
+AGGREGATED, ANONYMIZED MONTHLY REPORTS INFORMATION ON THE
+PAGE 3-HOUSE BILL 26-1043
+
+ANNUAL NUMBER OF REFUSALS TO TRANSPORT IN VIOLATION OF SUBSECTION
+(6) OF THIS SECTION AND THIS SUBSECTION (9), INCLUDING THE NUMBER OF
+INVESTIGATIONS AND REMEDIATIONS MADE; AND MAKE THE AGGREGATED,
+ANONYMIZED MONTHLY REPORTS AVAILABLE TO THE PUBLIC.
+(11) (a) EXCEPT AS PROVIDED IN SUBSECTIONS (11)(b) AND (11)(c)
+OF THIS SECTION, A TRANSPORTATION NETWORK COMPANY THAT PROVIDES
+SERVICES PURSUANT TO SUBSECTION (1)(p) OF THIS SECTION IS GOVERNED
+EXCLUSIVELY BY THE TERMS OF THE CONTRACT; THIS PART 6, EXCEPT
+WHEREIN A TRANSPORTATION NETWORK COMPANY THAT PROVIDES SERVICES
+PURSUANT TO SUBSECTION (1)(p) OF THIS SECTION IS EXPLICITLY EXEMPTED
+FROM A PROVISION OF THIS PART 6; AND RULES THAT THE COMMISSION
+ADOPTS PURSUANT TO THIS PART 6.
+(b) SUBSECTION (7) OF THIS SECTION DOES NOT APPLY TO
+TRANSPORTATION NETWORK COMPANY SERVICES PROVIDED PURSUANT TO
+SUBSECTION (1)(p) OF THIS SECTION, BUT APPLIES TO ALL OTHER
+TRANSPORTATION NETWORK COMPANY SERVICES.
+(c) THIS SUBSECTION (11) DOES NOT LIMIT A TRANSPORTATION
+NETWORK COMPANY'S OR A DRIVER'S OBLIGATIONS UNDER APPLICABLE
+STATE OR FEDERAL NONDISCRIMINATION OR PUBLIC ACCOMMODATION LAWS,
+INCLUDING PUBLIC ACCOMMODATION LIABILITY LAWS UNDER PART 6 OF
+ARTICLE 34 OF TITLE 24, FOR DENIAL OF SERVICES OR OTHER PROHIBITED
+DISCRIMINATORY BEHAVIOR.
+SECTION 2. Act subject to petition - effective date -
+applicability. (1) This act takes effect January 1, 2027; except that, if a
+referendum petition is filed pursuant to section 1 (3) of article V of the state
+constitution against this act or an item, section, or part of this act within the
+ninety-day period after final adjournment of the general assembly, then the
+act, item, section, or part will not take effect unless approved by the people
+at the general election to be held in November 2026 and, in such case, will
+take effect January 1, 2027, or on the date of the official declaration of the
+vote thereon by the governor, whichever is later.
+PAGE 4-HOUSE BILL 26-1043
+
+(2) This act applies to conduct occurring on or after the applicable
+effective date of this act.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 5-HOUSE BILL 26-1043

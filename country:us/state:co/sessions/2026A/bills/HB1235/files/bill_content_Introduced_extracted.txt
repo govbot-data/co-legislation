@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0390.01 Chelsea Princell x4335 HOUSE BILL 26-1235
+HOUSE SPONSORSHIP
+Feret,
+SENATE SPONSORSHIP
+Daugherty,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO THE MEDICAL ASSISTANCE PROGRAM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Beginning December 1, 2026, the bill requires each transportation
+broker that administers nonemergency medical transportation to medicaid
+members to submit certain information to the state department regarding
+transportation providers that the transportation broker contracts with. The
+department of health care policy and financing (state department) is
+required to include this information in its annual "SMART Act"
+presentation.
+The bill requires the medical services board to adopt rules to
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+implement the federal community engagement requirements.
+Under current law, the state department is required to reimburse
+an opioid treatment program for administering medication-assisted
+treatment in a jail setting. The bill amends this requirement to require the
+state department to reimburse a licensed provider who is licensed and
+authorized to prescribe, dispense, compound, or administer
+medication-assisted treatment in a jail setting.
+The bill prohibits the state department from implementing a
+multiple procedure payment reduction, compound billing methodology,
+or substantially similar reimbursement policy for outpatient therapy
+services.
+Beginning January 1, 2027, the bill requires home- and
+community-based service agencies to submit their medical loss ratio to
+the state department. The state department is required to publish this
+medical loss ratio data on the state department's website on an annual
+basis.
+The bill repeals the state medical assistance and services advisory
+council.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 25.5-1-803 as
+3 follows:
+4 25.5-1-803. Transportation provider data reporting
+5 requirements.
+6 (1) ON OR BEFORE DECEMBER 1, 2026, AND ON OR BEFORE EACH
+7 DECEMBER 1 THEREAFTER, EACH TRANSPORTATION BROKER SHALL
+8 REPORT THE FOLLOWING INFORMATION TO THE STATE DEPARTMENT:
+9 (a) REGARDING EACH TRANSPORTATION PROVIDER THAT THE
+10 TRANSPORTATION BROKER CONTRACTS WITH:
+11 (I) THE TOTAL NUMBER OF RIDES REQUESTED;
+12 (II) THE TOTAL NUMBER OF RIDES COMPLETED;
+13 (III) THE TOTAL NUMBER OF RIDES CANCELED BY MEMBERS AND
+14 THE TRANSPORTATION PROVIDER;
+15 (IV) THE TOTAL COST OF RIDES COMPLETED CATEGORIZED BY
+-2- HB26-1235
+
+1 PROCEDURE CODE; AND
+2 (V) THE TOTAL NUMBER OF CALLS RECEIVED FROM MEMBERS
+3 REQUESTING NONEMERGENCY MEDICAL TRANSPORTATION AND THE
+4 AVERAGE TIME A MEMBER SPENT ON HOLD;
+5 (b) THE NUMBER OF GRIEVANCES SUBMITTED BY MEMBERS
+6 REGARDING A TRANSPORTATION PROVIDER THAT WERE SUBSTANTIATED,
+7 AND THE TRANSPORTATION PROVIDER THAT THE GRIEVANCE CONCERNS;
+8 AND
+9 (c) THE TOTAL NUMBER OF TRANSPORTATION PROVIDERS
+10 TERMINATED FROM THE TRANSPORTATION BROKER'S NETWORK, ON A
+11 CORRECTIVE ACTION PLAN, OR ON A PERFORMANCE IMPROVEMENT PLAN.
+12 (2) BEGINNING JANUARY 1, 2027, THE STATE DEPARTMENT SHALL
+13 INCLUDE AS PART OF THE STATE DEPARTMENT'S "SMART ACT"
+14 PRESENTATION REQUIRED BY SECTION 2-7-203 THE INFORMATION
+15 SUBMITTED TO THE STATE DEPARTMENT BY THE TRANSPORTATION
+16 BROKERS AS REQUIRED BY SUBSECTION (1) OF THIS SECTION.
+17 SECTION 2. In Colorado Revised Statutes, add 25.5-4-217 as
+18 follows:
+19 25.5-4-217. Multiple procedure payment reductions for
+20 outpatient therapy - prohibition - definitions.
+21 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+22 REQUIRES:
+23 (a) "COMPOUND BILLING METHODOLOGY" MEANS A PAYMENT
+24 METHODOLOGY UNDER WHICH MULTIPLE REDUCTIONS, DISCOUNTS, OR
+25 ADJUSTMENTS ARE APPLIED CUMULATIVELY OR SEQUENTIALLY TO A
+26 SINGLE CLAIM OR SET OF SERVICES, RESULTING IN A REIMBURSEMENT
+27 AMOUNT THAT IS LESS THAN WHAT WOULD OTHERWISE BE PAID IF THE
+-3- HB26-1235
+
+1 REDUCTIONS OR ADJUSTMENTS WERE APPLIED INDEPENDENTLY.
+2 (b) "MULTIPLE PROCEDURE PAYMENT REDUCTION" MEANS A
+3 REIMBURSEMENT METHODOLOGY THAT REDUCES PAYMENT FOR ONE OR
+4 MORE PROCEDURES FURNISHED TO A MEMBER DURING THE SAME DATE OF
+5 SERVICE, ENCOUNTER, OR EPISODE OF CARE BASED SOLELY ON THE
+6 NUMBER, SEQUENCING, OR COMBINATION OF PROCEDURES PERFORMED.
+7 (2) THE STATE DEPARTMENT SHALL NOT IMPLEMENT, APPLY, OR
+8 ENFORCE A MULTIPLE PROCEDURE PAYMENT REDUCTION, COMPOUND
+9 BILLING METHODOLOGY, OR SUBSTANTIALLY SIMILAR REIMBURSEMENT
+10 POLICY FOR OUTPATIENT THERAPY SERVICES PROVIDED UNDER THE
+11 MEDICAL ASSISTANCE PROGRAM.
+12 SECTION 3. In Colorado Revised Statutes, add 25.5-4-218 as
+13 follows:
+14 25.5-4-218. Community engagement requirements for
+15 medicaid eligibility - rules.
+16 ON OR BEFORE JANUARY 1, 2027, THE STATE BOARD SHALL ADOPT
+17 RULES THAT ARE NECESSARY TO IMPLEMENT THE COMMUNITY
+18 ENGAGEMENT REQUIREMENTS OF TITLE XIX OF THE FEDERAL "SOCIAL
+19 SECURITY ACT OF 1965", 42 U.S.C. SEC. 1396a(xx).
+20 SECTION 4. In Colorado Revised Statutes, 25.5-4-401.5, amend
+21 (1)(c)(I) as follows:
+22 25.5-4-401.5. Review of provider rates - advisory committee
+23 - recommendations - repeal.
+24 (1) (c) (I) The state department may propose to exclude rates from
+25 the schedule established pursuant to subsection (1)(a) of this section if
+26 those rates are adjusted OR REVIEWED on a periodic basis as a result of
+27 other state statute or federal law or regulation. The state department shall
+-4- HB26-1235
+
+1 include the proposed list of exclusions with the schedule established
+2 pursuant to subsection (1)(a) of this section.
+3 SECTION 5. In Colorado Revised Statutes, 25.5-4-505.5, amend
+4 (5) as follows:
+5 25.5-4-505.5. Federal authorization related to persons involved
+6 in the criminal justice system - report - rules - legislative declaration.
+7 (5) (a) The state department shall only reimburse an opioid
+8 treatment program, as defined in section 27-80-203, for administering
+9 medication-assisted treatment REIMBURSE A PROVIDER WHO IS LICENSED
+10 AND AUTHORIZED TO PRESCRIBE, DISPENSE, COMPOUND, OR ADMINISTER
+11 MEDICATION-ASSISTED TREATMENT in a jail setting. At a minimum, an
+12 opioid treatment program that administers medication-assisted treatment
+13 shall:
+14 (I) Employ a physician medical director;
+15 (II) Ensure the individual receiving medication-assisted treatment
+16 undergoes a minimum observation period after receiving
+17 medication-assisted treatment as determined by behavioral health
+18 administration rule pursuant to section 27-80-204; and
+19 (III) Meet all critical incident reporting requirements as
+20 determined by behavioral health administration rule pursuant to section
+21 27-80-204.
+22 (b) The state department shall ensure as part of the state
+23 department's quality oversight that opioid treatment programs that
+24 LICENSED PROVIDERS WHO administer medication-assisted treatment in a
+25 jail setting maintain emergency policies and procedures that address
+26 adverse outcomes.
+27 SECTION 6. In Colorado Revised Statutes, add 25.5-5-428 as
+-5- HB26-1235
+
+1 follows:
+2 25.5-5-428. Home- and community-based service agencies -
+3 disclosure of medical loss ratio - definition.
+4 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+5 REQUIRES, "MEDICAL LOSS RATIO" MEANS THE PERCENTAGE OF PREMIUM
+6 REVENUE THAT A HOME- AND COMMUNITY-BASED SERVICE AGENCY
+7 SPENDS ON HEALTH-CARE SERVICES AND QUALITY IMPROVEMENT
+8 ACTIVITIES.
+9 (2) BEGINNING JANUARY 1, 2027, AND ANNUALLY THEREAFTER,
+10 A HOME- AND COMMUNITY-BASED SERVICE AGENCY SHALL SUBMIT TO THE
+11 STATE DEPARTMENT THE HOME- AND COMMUNITY-BASED SERVICE
+12 AGENCY'S MEDICAL LOSS RATIO.
+13 (3) THE STATE DEPARTMENT SHALL ANNUALLY PUBLISH EACH
+14 HOME- AND COMMUNITY-BASED SERVICE AGENCY'S MEDICAL LOSS RATIO
+15 ON THE STATE DEPARTMENT'S WEBSITE.
+16 SECTION 7. In Colorado Revised Statutes, repeal 25.5-4-203.
+17 SECTION 8. Act subject to petition - effective date. This act
+18 takes effect at 12:01 a.m. on the day following the expiration of the
+19 ninety-day period after final adjournment of the general assembly (August
+20 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+21 referendum petition is filed pursuant to section 1 (3) of article V of the
+22 state constitution against this act or an item, section, or part of this act
+23 within such period, then the act, item, section, or part will not take effect
+24 unless approved by the people at the general election to be held in
+25 November 2026 and, in such case, will take effect on the date of the
+26 official declaration of the vote thereon by the governor.
+-6- HB26-1235

@@ -1,0 +1,486 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0360.01 Richard Sweetman x4333 HOUSE BILL 26-1287
+House Committees Senate Committees
+Transportation, Housing & Local Government
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE CONTINUATION OF CERTAIN REGULATORY
+102 FUNCTIONS OF THE DIVISION OF REAL ESTATE, AND, IN
+103 CONNECTION THEREWITH, IMPLEMENTING THE
+104 RECOMMENDATIONS CONTAINED IN THE 2025 SUNSET REPORT
+105 BY THE DEPARTMENT OF REGULATORY AGENCIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Sunset Process - House Transportation, Housing, and Local
+Government Committee. The bill implements the recommendations of
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,42
+lirpA
+6202
+,22
+lirpA
+HOUSE SPONSORSHIP
+Boesenecker and Brooks, Bacon, Jackson, Ricks
+SENATE SPONSORSHIP
+Kolker and Jodeh,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+the department of regulatory agencies in its sunset review and report
+concerning certain regulatory functions of the division of real estate
+(division), including the real estate commission (commission), the
+registration of subdivision developers, and requirements for home
+warranty service contracts. Specifically:
+! Sections 1 through 5 of the bill continue the division,
+including the commission and subdivision developers, for
+11 years, until 2037, and remove home warranty service
+contracts from the sunset schedule;
+! Section 6 authorizes the commission to deny a license to an
+applicant who has committed any of certain offenses;
+! Section 7 authorizes the commission to order a licensee
+who commits any of certain offenses to pay restitution.
+Section 7 also extends the time that must elapse before the
+commission may consider an application for licensure from
+a person whose license was revoked from one year to 2
+years. Section 7 also updates gendered language to
+gender-neutral language.
+! Sections 7, 13, 14, and 21 allow the commission to
+communicate with licensees via electronic mail for certain
+purposes;
+! Section 8 authorizes the commission to inactivate the
+license of a licensee who fails to comply with continuing
+education requirements. Section 8 also allows the division
+to charge a fee to each provider that submits a continuing
+education course.
+! Section 9 clarifies that any licensed broker may elect to
+have a license issued in a previously used legal name.
+Section 9 also updates gendered language to gender-neutral
+language.
+! Sections 10 and 11 remove language requiring the
+commission to serve subpoenas in the same manner as
+subpoenas issued by a district court and substitute language
+stating that subpoenas may be enforced by a court with
+jurisdiction;
+! Section 12 requires the division to establish protocols
+addressing the security of electronic correspondence; and
+! Sections 15 through 21 update gendered language to
+gender-neutral language.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend 12-10-227 as
+-2- 1287
+
+1 follows:
+2 12-10-227. Repeal of part - subject to review.
+3 This part 2 is repealed, effective September 1, 2026 SEPTEMBER
+4 1, 2037. Before the repeal, the division, including the commission, is
+5 scheduled for review in accordance with section 24-34-104.
+6 SECTION 2. In Colorado Revised Statutes, amend 12-10-305 as
+7 follows:
+8 12-10-305. Repeal of part - subject to review.
+9 This part 3 is repealed, effective September 1, 2026 SEPTEMBER
+10 1, 2037. Before the repeal, this part 3 is scheduled for review in
+11 accordance with section 24-34-104.
+12 SECTION 3. In Colorado Revised Statutes, amend 12-10-508 as
+13 follows:
+14 12-10-508. Repeal of part - subject to review.
+15 This part 5 is repealed, effective September 1, 2026 SEPTEMBER
+16 1, 2037. Before the repeal, this part 5 is scheduled for review in
+17 accordance with section 24-34-104.
+18 SECTION 4. In Colorado Revised Statutes, repeal 12-10-906 as
+19 follows:
+20 12-10-906. Repeal of part - subject to review.
+21 This part 9 is repealed, effective September 1, 2026. Before the
+22 repeal, this part 9 is scheduled for review in accordance with section
+23 24-34-104.
+24 SECTION 5. In Colorado Revised Statutes, 24-34-104, repeal
+25 (27)(a)(VI) and (27)(a)(XVII); and add (38)(a)(II) as follows:
+26 24-34-104. General assembly review of regulatory agencies
+27 and functions for repeal, continuation, or reestablishment - legislative
+-3- 1287
+
+1 declaration - repeal.
+2 (27) (a) The following agencies, functions, or both, are scheduled
+3 for repeal on September 1, 2026:
+4 (VI) The division of real estate, including the real estate
+5 commission, created in part 2 of article 10 of title 12, and its functions
+6 under parts 2, 3, and 5 of article 10 of title 12;
+7 (XVII) The legal requirements pertaining to home warranty
+8 service contracts under part 9 of article 10 of title 12.
+9 (38) (a) The following agencies, functions, or both, are scheduled
+10 for repeal on September 1, 2037:
+11 (II) THE DIVISION OF REAL ESTATE, INCLUDING THE REAL ESTATE
+12 COMMISSION, CREATED IN PART 2 OF ARTICLE 10 OF TITLE 12, AND ITS
+13 FUNCTIONS UNDER PARTS 2, 3, AND 5 OF ARTICLE 10 OF TITLE 12.
+14 SECTION 6. In Colorado Revised Statutes, amend 12-10-202 as
+15 follows:
+16 12-10-202. License required.
+17 (1) It is unlawful for any A person, A firm, A partnership, A limited
+18 liability company, AN association, or A corporation to engage in the
+19 business or capacity of real estate broker in this state without first having
+20 obtained a license from the commission. No THE COMMISSION SHALL NOT
+21 GRANT A person shall be granted a license until the person establishes
+22 compliance with the provisions of this part 2 concerning education,
+23 experience, and testing; truthfulness and honesty and otherwise good
+24 moral character; and, in addition to any other requirements of this section,
+25 competency to transact the business of a real estate broker in such A
+26 manner as to safeguard the interest of the public and only after
+27 satisfactory proof of the qualifications, together with the application for
+-4- 1287
+
+1 the license, is filed in the office of the commission. In determining the
+2 person's character, the commission shall be governed by section 24-5-101.
+3 (2) THE COMMISSION MAY DENY A LICENSE TO AN APPLICANT FOR
+4 LICENSURE IF THE APPLICANT IS GUILTY OF ANY OF THE OFFENSES LISTED
+5 IN SECTION 12-10-217 (1)(n)(I).
+6 SECTION 7. In Colorado Revised Statutes, 12-10-217, amend
+7 (1) introductory portion, (1)(b), (1)(h), (1)(i), (7), and (9) as follows:
+8 12-10-217. Investigation - revocation - actions against licensee
+9 or applicant - definition.
+10 (1) The commission, upon its own motion, may, and, upon the
+11 complaint in writing of any person, shall, investigate the activities of any
+12 licensee or any person who THAT assumes to act in the capacity of a
+13 licensee within the state, and the commission, after holding a hearing
+14 pursuant to section 12-10-219, has the power to MAY impose an
+15 administrative fine not to exceed two thousand five hundred dollars for
+16 each separate offense, and to censure a licensee, to place the A
+17 licensee on probation and to set the terms of probation, or to temporarily
+18 suspend a license or permanently revoke a license when IF the licensee
+19 has performed, is performing, or is attempting to perform any of the
+20 following acts and is guilty of:
+21 (b) Making any promise of a character that influences, persuades,
+22 or induces another person when he or she THE LICENSEE could not or did
+23 not intend to keep the promise;
+24 (h) Failing to account for or to remit, within a reasonable time,
+25 any money coming into the licensee's possession that belongs to others
+26 whether acting as real estate brokers or otherwise WHEN PERFORMING
+27 FUNCTIONS FOR WHICH A LICENSE IS REQUIRED PURSUANT TO SECTION
+-5- 1287
+
+1 12-10-201 (6), and failing to keep records relative to the money, which
+2 records shall MUST contain such information as may be IS prescribed by
+3 the rules of the commission relative thereto and shall be ARE subject to
+4 audit by the commission;
+5 (i) WHEN PERFORMING FUNCTIONS FOR WHICH A LICENSE IS
+6 REQUIRED PURSUANT TO SECTION 12-10-201 (6), converting funds of
+7 others, diverting funds of others without proper authorization,
+8 commingling funds of others with the broker's own funds, or failing to
+9 keep the funds of others in an escrow or a trustee account with some bank
+10 or recognized depository in this state, which account may be any type of
+11 checking, demand, passbook, or statement account insured by an agency
+12 of the United States government, and to keep records relative to the
+13 deposit that contain such information as may be prescribed by the rules
+14 of the commission, relative thereto, which records shall be ARE subject to
+15 audit by the commission;
+16 (7) When a complaint or an investigation discloses an instance of
+17 misconduct that, in the opinion of the commission, does not warrant
+18 formal action by the commission but that should not be dismissed as
+19 being without merit, the commission may send a letter of admonition by
+20 ELECTRONIC MAIL OR BY certified mail, return receipt requested, to the
+21 licensee against whom a complaint was made and a copy thereof to the
+22 person making the complaint. but The letter shall MUST advise the
+23 licensee that the licensee has the right to request, in writing, within twenty
+24 days after proven receipt, that formal disciplinary proceedings be initiated
+25 to adjudicate the propriety of the conduct upon which the letter of
+26 admonition is based. If the request is timely made, the letter of
+27 admonition shall be deemed vacated, and the matter shall be processed by
+-6- 1287
+
+1 means of formal disciplinary proceedings.
+2 (9) Any application for licensure from a person whose license has
+3 been revoked shall not be considered until the passage of one year TWO
+4 YEARS from the date of revocation.
+5
+6 SECTION 8. In Colorado Revised Statutes, 12-10-213, amend
+7 (5); and add (6) and (7) as follows:
+8 12-10-213. Renewal of license - continuing education
+9 requirement - rules.
+10 (5) The commission shall promulgate rules to implement this
+11 section MAY INACTIVATE THE LICENSE OF A LICENSEE WHO FAILS TO
+12 COMPLY WITH THE REQUIREMENTS OF THIS SECTION.
+13 (6) THE DIVISION MAY CHARGE A FEE TO EACH PROVIDER THAT
+14 SUBMITS A CONTINUING EDUCATION COURSE.
+15 (7) THE COMMISSION SHALL ADOPT RULES TO IMPLEMENT THIS
+16 SECTION.
+17 SECTION 9. In Colorado Revised Statutes, 12-10-203, amend
+18 (5)(b) and (8) as follows:
+19 12-10-203. Application for license - rules - definition.
+20 (5) (b) An applicant for a broker's license who has held a real
+21 estate license in another jurisdiction that administers a real estate broker's
+22 examination and who has been licensed for two or more years prior to
+23 applying for a Colorado license may be issued a broker's license if the
+24 applicant establishes that he or she possesses THEY POSSESS credentials
+25 and qualifications that are substantively equivalent to the requirements in
+26 Colorado for licensure by examination.
+27 (8) No A license for a broker registered as being in the employ of
+-7- 1287
+
+1 another broker shall NOT be issued to a partnership, a limited liability
+2 company, or a corporation or under a fictitious name or trade name;
+3 except that a married woman AN INDIVIDUAL may elect to use her birth A
+4 PREVIOUSLY USED LEGAL name.
+5 SECTION 10. In Colorado Revised Statutes, amend 12-10-224
+6 as follows:
+7 12-10-224. Subpoena compelling attendance of witnesses and
+8 production of records and documents.
+9 The commission, the director, or the administrative law judge
+10 appointed for hearings may issue a subpoena compelling the attendance
+11 and testimony of witnesses and the production of books, papers, or
+12 records pursuant to an investigation or hearing of the commission. The
+13 subpoenas shall be served in the same manner as subpoenas issued by
+14 district courts MAY BE ENFORCED BY A COURT OF COMPETENT
+15 JURISDICTION IF NOT OBEYED and shall be issued without discrimination
+16 between public or private parties requiring the attendance of witnesses
+17 and the production of documents at hearings. If a person fails or refuses
+18 to obey a subpoena issued by the commission, the director, or the
+19 appointed administrative law judge, the commission may petition the
+20 district court having jurisdiction for issuance of a subpoena in the
+21 premises, and the court shall, in a proper case, issue its subpoena. Any A
+22 person who THAT refuses to obey a subpoena shall be punished as
+23 provided in section 12-10-225.
+24 SECTION 11. In Colorado Revised Statutes, 12-10-506, amend
+25 (4) as follows:
+26 12-10-506. Powers of commission - injunction - rules.
+27 (4) The commission, the director, or the administrative law judge
+-8- 1287
+
+1 appointed for a hearing may issue a subpoena compelling the attendance
+2 and testimony of witnesses and the production of books, papers, or
+3 records pursuant to an investigation or hearing of the commission. Any
+4 such subpoena shall be served in the same manner as for subpoenas
+5 issued by district courts MAY BE ENFORCED BY A COURT OF COMPETENT
+6 JURISDICTION IF NOT OBEYED.
+7 SECTION 12. In Colorado Revised Statutes, 12-10-207, amend
+8 (2) as follows:
+9 12-10-207. Division of real estate - creation - director, clerks,
+10 and assistants.
+11 (2) It is the duty of the director, personally, or the director's
+12 designee to:
+13 (a) Aid in the administration and enforcement of parts 2 THIS PART
+14 2 and PART 5 of this article 10 and in the prosecution of all persons
+15 charged with violating any of their provisions; to
+16 (b) Conduct audits of business accounts of licensees; to
+17 (c) ESTABLISH PROTOCOLS TO ADDRESS THE SECURITY OF
+18 ELECTRONIC CORRESPONDENCE, INCLUDING WHEN ELECTRONIC
+19 CORRESPONDENCE MAY BE USED FOR THE PURPOSES OF THIS ARTICLE 10;
+20 (d) Perform such duties of the commission as the commission
+21 prescribes; and to
+22 (e) Act in ON behalf of the commission on such occasions and in
+23 such circumstances as the commission directs.
+24 SECTION 13. In Colorado Revised Statutes, 12-10-208, amend
+25 (2) as follows:
+26 12-10-208. Resident licensee - nonresident licensee - consent
+27 to service.
+-9- 1287
+
+1 (2) If a broker has no registered agent registered in this state, the
+2 registered agent is not located under its registered agent name at its
+3 registered agent address, or the registered agent cannot with reasonable
+4 diligence be served, the broker may be served by ELECTRONIC MAIL,
+5 registered mail, or by certified mail, return receipt requested, addressed
+6 to the entity at its principal address. Service is perfected under this
+7 subsection (2) at the earliest of:
+8 (a) The date the broker receives the process, notice, or demand;
+9 (b) The date shown on the return receipt, IF ANY, IF THE RETURN
+10 RECEIPT IS signed by or on behalf of the broker; or
+11 (c) Five days after mailing THE SERVICE IS SENT.
+12 SECTION 14. In Colorado Revised Statutes, 12-10-219, amend
+13 (2) as follows:
+14 12-10-219. Hearing - administrative law judge - review - rules.
+15 (2) The proceedings shall be held in the county where the
+16 commission has its office or in such other place as the commission may
+17 designate. If the licensee is an employed broker, the commission shall
+18 also notify the broker employing the licensee by mailing, by ELECTRONIC
+19 MAIL OR first-class mail, a copy of the written notice required under
+20 section 24-4-104 (3) to the employing broker's last-known business
+21 address.
+22 SECTION 15. In Colorado Revised Statutes, 12-10-201, amend
+23 (6)(b)(II), (6)(b)(V), (6)(b)(XII), and (6)(b)(XIII) as follows:
+24 12-10-201. Definitions.
+25 As used in this part 2, unless the context otherwise requires:
+26 (6) (b) "Real estate broker" or "broker" does not apply to any of
+27 the following:
+-10- 1287
+
+1 (II) Any public official in the conduct of his or her THE PUBLIC
+2 OFFICIAL'S official duties;
+3 (V) An attorney-at-law in connection with his or her THE
+4 ATTORNEY'S representation of clients in the practice of law;
+5 (XII) A regularly salaried employee of an owner of an apartment
+6 building or complex who acts as an on-site manager of such an apartment
+7 building or complex. This exemption applies only in WITH respect to the
+8 customary duties of an on-site manager performed for his or her THE
+9 ON-SITE MANAGER'S employer.
+10 (XIII) A regularly salaried employee of an owner of condominium
+11 units who acts as an on-site manager of such THE units. For purposes of
+12 AS USED IN this subsection (6)(b)(XIII) only, the term "owner" includes
+13 a homeowners' association AN HOA formed and acting pursuant to its
+14 recorded condominium declaration and bylaws. This exemption applies
+15 only in WITH respect to the customary duties of an on-site manager
+16 performed for his or her THE ON-SITE MANAGER'S employer.
+17 SECTION 16. In Colorado Revised Statutes, 12-10-212, amend
+18 (3) as follows:
+19 12-10-212. License fees - partnership, limited liability
+20 company, and corporation licenses - rules.
+21 (3) Each real estate broker's license granted to an individual shall
+22 entitle ENTITLES the individual to perform all the acts contemplated by
+23 this part 2 without any further application on his or her THE INDIVIDUAL'S
+24 part and without the payment of any fee other than the fees specified in
+25 this section.
+26 SECTION 17. In Colorado Revised Statutes, 12-10-218, amend
+27 (2)(b), (2)(g) introductory portion, and (2)(g)(II) as follows:
+-11- 1287
+
+1 12-10-218. Affiliated business arrangements - definitions -
+2 disclosures - enforcement and penalties - reporting - rules -
+3 investigation information shared with the division of insurance.
+4 (2) (b) If a licensee or the employing broker of a licensee is part
+5 of an affiliated business arrangement, when an offer to purchase real
+6 property is fully executed, the licensee shall disclose to all parties to the
+7 real estate transaction the existence of the arrangement THE EXISTENCE OF
+8 THE AFFILIATED BUSINESS ARRANGEMENT TO THE PARTY THE LICENSEE
+9 REPRESENTS AT THE TIME OF MAKING THE REFERRAL. The disclosure shall
+10 be written, shall be signed by all parties to the real estate transaction, and
+11 shall MUST comply with the federal "Real Estate Settlement Procedures
+12 Act of 1974", as amended, 12 U.S.C. sec. 2601 et seq.
+13 (g) It shall IS not be a violation of this section for an affiliated
+14 business arrangement:
+15 (II) If an attorney or law firm represents a client in a real estate
+16 transaction and issues or arranges for the issuance of a policy of title
+17 insurance in the transaction directly as agent or through a separate
+18 corporate title insurance agency that may be established by that attorney
+19 or law firm and operated as an adjunct to his or her THE ATTORNEY'S OR
+20 LAW FIRM'S law practice.
+21 SECTION 18. In Colorado Revised Statutes, amend 12-10-225
+22 as follows:
+23 12-10-225. Failure to obey subpoena - penalty.
+24 Any A person who THAT willfully fails or neglects to appear and
+25 testify or to produce books, papers, or records required by subpoena, duly
+26 served upon him or her THE PERSON in any matter conducted under parts
+27 2 and THIS PART 2 AND PART 5 of this article 10, commits a petty offense.
+-12- 1287
+
+1 Each day a person so refuses or neglects constitutes a separate offense.
+2 SECTION 19. In Colorado Revised Statutes, amend 12-10-302
+3 as follows:
+4 12-10-302. Objections on account of title.
+5 No A real estate agent or broker is NOT entitled to a commission
+6 when a proposed purchaser fails or refuses to complete his or her THE
+7 PROPOSED PURCHASER'S contract of purchase because of defects in the
+8 title of the owner, unless the owner, within a reasonable time, has the
+9 defects corrected by legal proceedings or otherwise.
+10 SECTION 20. In Colorado Revised Statutes, amend 12-10-303
+11 as follows:
+12 12-10-303. When owner must perfect title.
+13 The AN owner shall IS not be required to begin legal or other
+14 proceedings for the correction of a title until the agent or broker secures
+15 from the proposed purchaser an enforceable contract in writing, binding
+16 him or her THE PROPOSED PURCHASER to complete the purchase whenever
+17 the defects in the title are corrected.
+18 SECTION 21. In Colorado Revised Statutes, 12-10-403, add (9)
+19 as follows:
+20 12-10-403. Relationships between brokers and the public -
+21 definition - rules.
+22 (9) NOTWITHSTANDING SUBSECTION (6)(b) OF THIS SECTION, A
+23 BROKER WORKING WITH A BUYER, SELLER, LANDLORD, OR TENANT MAY
+24 DISCLOSE THE BUYER'S, SELLER'S, LANDLORD'S, OR TENANT'S
+25 CONFIDENTIAL INFORMATION TO THE BROKER'S EMPLOYING BROKER OR TO
+26 THE EMPLOYING BROKER'S DESIGNEE FOR THE PURPOSE OF PROPER
+27 SUPERVISION SO LONG AS THE EMPLOYING BROKER OR DESIGNEE DOES NOT
+-13- 1287
+
+1 USE THE CONFIDENTIAL INFORMATION TO THE DETRIMENT OF THE BUYER,
+2 SELLER, LANDLORD, OR TENANT.
+3 SECTION 22. In Colorado Revised Statutes, 12-10-404, amend
+4 (2) introductory portion as follows:
+5 12-10-404. Single agent engaged by seller or landlord.
+6 (2) EXCEPT AS DESCRIBED IN SECTION 12-10-403 (9), A BROKER
+7 ACTING AS A SELLER'S OR LANDLORD'S AGENT SHALL NOT DISCLOSE the
+8 following information shall not be disclosed by a broker acting as a
+9 seller's or landlord's agent without the informed EXPRESS WRITTEN
+10 consent of the seller or landlord:
+11 SECTION 23. In Colorado Revised Statutes, 12-10-405, amend
+12 (2) introductory portion as follows:
+13 12-10-405. Single agent engaged by buyer or tenant.
+14 (2) EXCEPT AS DESCRIBED IN SECTION 12-10-403 (9), A BROKER
+15 ACTING AS A BUYER'S OR TENANT'S AGENT SHALL NOT DISCLOSE the
+16 following information shall not be disclosed by a broker acting as a
+17 buyer's or tenant's agent without the informed EXPRESS WRITTEN consent
+18 of the buyer or tenant:
+19 SECTION 24. In Colorado Revised Statutes, 12-10-407, amend
+20 (3) introductory portion as follows:
+21 12-10-407. Transaction-broker.
+22 (3) EXCEPT AS DESCRIBED IN SECTION 12-10-403 (9), A
+23 TRANSACTION-BROKER SHALL NOT DISCLOSE the following information
+24 shall not be disclosed by a transaction-broker without the informed
+25 EXPRESS WRITTEN consent of all parties:
+26 SECTION 25. In Colorado Revised Statutes, 12-10-505, amend
+27 (1) introductory portion, (1)(a), and (4) as follows:
+-14- 1287
+
+1 12-10-505. Refusal, revocation, or suspension of registration
+2 - letter of admonition - probation.
+3 (1) The commission may impose an administrative fine not to
+4 exceed two thousand five hundred dollars for each separate offense; may
+5 issue a letter of admonition; may place a registrant on probation under its
+6 close supervision on such terms and for such time as it THE COMMISSION
+7 deems appropriate; and may refuse, revoke, or suspend the registration of
+8 any developer or registrant if, after an investigation and after notice and
+9 a hearing pursuant to the provisions of section 24-4-104, the commission
+10 determines that the developer or any director, officer, or stockholder with
+11 controlling interest in the corporation:
+12 (a) Has used false or misleading advertising or has made a false
+13 or misleading statement or a concealment in his or her THE DEVELOPER'S
+14 OR OTHER PERSON'S application for registration;
+15 (4) When a complaint or investigation discloses an instance of
+16 misconduct that, in the opinion of the commission, does not initially
+17 warrant formal action by the commission but that should not be dismissed
+18 as being without merit, the commission may send a letter of admonition
+19 by ELECTRONIC MAIL OR BY certified mail, return receipt requested, to the
+20 registrant who is the subject of the complaint or investigation and a copy
+21 thereof to any person making the complaint. The letter shall MUST advise
+22 the registrant that he or she THE REGISTRANT has the right to request in
+23 writing, within twenty days after proven receipt, that formal disciplinary
+24 proceedings be initiated against him or her THE REGISTRANT to adjudicate
+25 the propriety of the conduct upon which the letter of admonition is based.
+26 If the request is timely made, the letter of admonition shall be deemed
+27 vacated, and the matter shall be processed by means of formal
+-15- 1287
+
+1 disciplinary proceedings.
+2 SECTION 26. Act subject to petition - effective date. This act
+3 takes effect at 12:01 a.m. on the day following the expiration of the
+4 ninety-day period after final adjournment of the general assembly (August
+5 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+6 referendum petition is filed pursuant to section 1 (3) of article V of the
+7 state constitution against this act or an item, section, or part of this act
+8 within such period, then the act, item, section, or part will not take effect
+9 unless approved by the people at the general election to be held in
+10 November 2026 and, in such case, will take effect on the date of the
+11 official declaration of the vote thereon by the governor.
+-16- 1287

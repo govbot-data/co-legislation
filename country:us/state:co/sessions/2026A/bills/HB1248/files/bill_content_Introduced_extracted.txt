@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0773.01 Rebecca Bayetti x4348 HOUSE BILL 26-1248
+HOUSE SPONSORSHIP
+Johnson,
+SENATE SPONSORSHIP
+Pelton R.,
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING FREIGHT TRANSPORT, AND, IN CONNECTION THEREWITH,
+102 MODIFYING PERMITTING PROCESSES FOR OVERSIZE AND
+103 OVERWEIGHT VEHICLES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Beginning on July 1, 2026, the bill directs state-level permit fees
+and supplemental surcharges for oversize and overweight vehicles and
+longer vehicle combinations to the freight cash fund (fund), which is
+newly created in the office of freight mobility and safety (office) in the
+transportation development division of the department of transportation
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(department). The fund is appropriated for use by the office for the
+following main purposes:
+! For funding freight-related projects; and
+! To support the office in functions related to freight
+projects, movement, and infrastructure, including the
+administrative costs of the office.
+In funding freight-related projects from the fund, the office is
+required to attempt to direct money in a manner that is proportional to the
+amount of freight routes and the impact of freight traffic in the affected
+community or region of the state.
+The office may also use money in the fund to create and maintain
+a centralized online permitting system for oversize permits, overweight
+permits, and other types of freight or transport permits issued by the
+department, the Colorado state patrol, or any local government. The
+centralized permitting system must allow a person to apply for and be
+issued all necessary state and local permits for a route in a single
+transaction and pay for all associated permit fees and surcharges for that
+route in a single transaction. By September 1, 2027, the office is required
+to conduct a feasibility study relating to the centralized permitting system
+and must report to the transportation legislation review committee during
+the 2027 legislative interim on the completed feasibility study and any
+progress toward implementing the centralized permitting system. The
+office is required to implement the centralized permitting system by July
+1, 2029, either by creating a new online permitting system or by
+modifying an existing online permitting system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 42-4-505, add (1)(d)
+3 as follows:
+4 42-4-505. Longer vehicle combinations - rules.
+5 (1) (d) FOR PERMIT FEES COLLECTED ON OR AFTER JULY 1, 2026,
+6 THE DEPARTMENT OF TRANSPORTATION AND THE COLORADO STATE
+7 PATROL SHALL TRANSMIT ALL PERMIT FEES COLLECTED PURSUANT TO
+8 SUBSECTION (1)(a) OF THIS SECTION TO THE STATE TREASURER, WHO
+9 SHALL CREDIT THE PERMIT FEES TO THE FREIGHT CASH FUND CREATED IN
+10 SECTION 43-1-117 (6).
+11 SECTION 2. In Colorado Revised Statutes, 42-4-510, add
+-2- HB26-1248
+
+1 (11)(c) and (11.5) as follows:
+2 42-4-510. Permits for excess size and weight and for
+3 manufactured homes - penalty - rules - definitions.
+4 (11) (c) (I) FOR PERMIT FEES COLLECTED ON OR AFTER JULY 1,
+5 2026, THE DEPARTMENT OF TRANSPORTATION AND THE COLORADO STATE
+6 PATROL SHALL TRANSMIT ALL PERMIT FEES COLLECTED PURSUANT TO
+7 SUBSECTION (11)(a) OF THIS SECTION TO THE STATE TREASURER, WHO
+8 SHALL CREDIT THE PERMIT FEES TO THE FREIGHT CASH FUND CREATED IN
+9 SECTION 43-1-117 (6).
+10 (II) THIS SUBSECTION (11)(c) DOES NOT APPLY TO LOCAL FEES
+11 IMPOSED BY A LOCAL GOVERNMENT OR LOCAL AUTHORITY PURSUANT TO
+12 SUBSECTION (11)(b) OF THIS SECTION, WHICH ARE REMITTED TO THE
+13 APPROPRIATE LOCAL GOVERNMENT OR LOCAL AUTHORITY.
+14 (11.5) (I) BEGINNING ON JULY 1, 2026, THE DEPARTMENT OF
+15 TRANSPORTATION OR THE COLORADO STATE PATROL MAY CHARGE A
+16 SUPPLEMENTAL OVERSIZE AND OVERWEIGHT VEHICLE SURCHARGE IN AN
+17 AMOUNT EQUAL TO THE AMOUNT OF THE FEE CHARGED PURSUANT TO
+18 SUBSECTION (11)(a) OF THIS SECTION FOR THE ISSUANCE OF THE SINGLE
+19 TRIP PERMIT; EXCEPT THAT THE SURCHARGE MUST NOT BE IMPOSED ON A
+20 VEHICLE IF THE SINGLE TRIP PERMIT FEE WAS IMPOSED PURSUANT TO
+21 SUBSECTION (11)(a)(VI)(B) OF THIS SECTION.
+22 (II) THE DEPARTMENT OF TRANSPORTATION OR THE COLORADO
+23 STATE PATROL SHALL COLLECT THE SUPPLEMENTAL OVERSIZE AND
+24 OVERWEIGHT VEHICLE SURCHARGE AT THE SAME TIME AS IT COLLECTS THE
+25 SINGLE TRIP PERMIT FEE. THE DEPARTMENT OF TRANSPORTATION AND THE
+26 COLORADO STATE PATROL SHALL TRANSMIT ALL SUPPLEMENTAL
+27 SURCHARGES COLLECTED PURSUANT TO THIS SUBSECTION (11.5) TO THE
+-3- HB26-1248
+
+1 STATE TREASURER, WHO SHALL CREDIT THE SUPPLEMENTAL SURCHARGES
+2 TO THE FREIGHT CASH FUND CREATED IN SECTION 43-1-117 (6).
+3 SECTION 3. In Colorado Revised Statutes, add 42-4-514 as
+4 follows:
+5 42-4-514. Centralized online permitting system - feasibility
+6 study - office of freight mobility and safety - reporting - rules -
+7 definitions.
+8 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+9 OTHERWISE REQUIRES:
+10 (a) "CENTRALIZED PERMITTING SYSTEM" MEANS THE CENTRALIZED
+11 ONLINE PERMITTING SYSTEM FOR OVERSIZE PERMITS, OVERWEIGHT
+12 PERMITS, AND OTHER TYPES OF FREIGHT OR TRANSPORT PERMITS ISSUED
+13 BY THE DEPARTMENT OF TRANSPORTATION, THE COLORADO STATE
+14 PATROL, OR ANY LOCAL GOVERNMENT OR LOCAL AUTHORITY.
+15 (b) "OFFICE" MEANS THE OFFICE OF FREIGHT MOBILITY AND
+16 SAFETY CREATED IN SECTION 43-1-117 (4) IN THE TRANSPORTATION
+17 DEVELOPMENT DIVISION OF THE DEPARTMENT OF TRANSPORTATION.
+18 (2) Centralized permitting system.
+19 (a) (I) ON OR BEFORE JULY 1, 2029, THE OFFICE SHALL IMPLEMENT
+20 AN ONLINE CENTRALIZED PERMITTING SYSTEM TO ALLOW A PERSON TO
+21 OBTAIN ANY NECESSARY OVERSIZE PERMIT, OVERWEIGHT PERMIT, OR
+22 OTHER FREIGHT OR TRANSPORT PERMITS FROM A STATE OR LOCAL
+23 GOVERNMENT OR LOCAL AUTHORITY. THE CENTRALIZED PERMITTING
+24 SYSTEM MUST ALLOW A PERSON TO APPLY FOR AND BE ISSUED ALL
+25 NECESSARY STATE AND LOCAL PERMITS FOR A ROUTE IN A SINGLE
+26 TRANSACTION AND PAY FOR ALL ASSOCIATED PERMIT FEES AND
+27 SURCHARGES FOR THAT ROUTE IN A SINGLE TRANSACTION.
+-4- HB26-1248
+
+1 (II) IN IMPLEMENTING THE CENTRALIZED PERMITTING SYSTEM, THE
+2 OFFICE SHALL COORDINATE WITH THE DEPARTMENT OF TRANSPORTATION,
+3 THE COLORADO STATE PATROL, AND APPLICABLE LOCAL GOVERNMENTS
+4 OR LOCAL AUTHORITIES.
+5 (III) TO COMPLY WITH THIS SUBSECTION (2)(a), THE OFFICE MAY
+6 CREATE A NEW ONLINE PERMITTING SYSTEM OR MODIFY AN EXISTING
+7 ONLINE PERMITTING SYSTEM.
+8 (b) (I) ALL STATE FEES OR SURCHARGES COLLECTED THROUGH THE
+9 CENTRALIZED PERMITTING SYSTEM MUST BE TRANSMITTED TO THE STATE
+10 TREASURER, WHO SHALL CREDIT THE PERMIT FEES TO THE FREIGHT CASH
+11 FUND CREATED IN SECTION 43-1-117 (6).
+12 (II) ALL LOCAL FEES COLLECTED THROUGH THE CENTRALIZED
+13 PERMITTING SYSTEM MUST BE REMITTED TO THE APPROPRIATE LOCAL
+14 GOVERNMENT OR LOCAL AUTHORITY.
+15 (c) IN ADDITION TO ANY OTHER POWERS GRANTED BY LAW, THE
+16 EXECUTIVE DIRECTOR OF THE DEPARTMENT OF TRANSPORTATION, OR THE
+17 EXECUTIVE DIRECTOR'S DESIGNEE, IS AUTHORIZED TO NEGOTIATE AND
+18 ENTER INTO APPROPRIATE AGREEMENTS WITH LOCAL GOVERNMENTS AND
+19 LOCAL AUTHORITIES TO FACILITATE THE CENTRALIZED PERMITTING
+20 SYSTEM.
+21 (3) Feasibility study.
+22 (a) NO LATER THAN SEPTEMBER 1, 2027, THE OFFICE SHALL STUDY
+23 THE FEASIBILITY OF IMPLEMENTING A CENTRALIZED PERMITTING SYSTEM
+24 AS REQUIRED BY SUBSECTION (2) OF THIS SECTION AND EVALUATE
+25 OPPORTUNITIES TO IMPROVE PERMITTING PROCESSES.
+26 (b) DURING THE 2027 LEGISLATIVE INTERIM, THE OFFICE SHALL
+27 REPORT TO THE TRANSPORTATION LEGISLATION REVIEW COMMITTEE
+-5- HB26-1248
+
+1 CREATED IN SECTION 43-2-145 ON THE COMPLETED FEASIBILITY STUDY
+2 AND ANY PROGRESS TOWARD IMPLEMENTING THE CENTRALIZED
+3 PERMITTING SYSTEM.
+4 (4) Rules. THE TRANSPORTATION COMMISSION MAY ADOPT RULES
+5 AS NECESSARY TO IMPLEMENT AND ADMINISTER THIS SECTION.
+6 SECTION 4. In Colorado Revised Statutes, 43-1-117, amend (4);
+7 and add (6) as follows:
+8 43-1-117. Transportation development division - created -
+9 duties - office of freight mobility and safety - freight cash fund -
+10 repeal.
+11 (4) The OFFICE OF freight mobility and safety branch is created in
+12 the transportation development division. The function of the OFFICE OF
+13 freight mobility and safety branch is to plan, design, and implement
+14 programs and projects that enhance freight mobility and safety within the
+15 state. No later than January 1, 2022, the OFFICE OF freight mobility and
+16 safety branch shall provide to the commission a long-term strategic plan
+17 that sets forth the vision and goals for the branch OFFICE, key priorities for
+18 all freight-related programs, activities, and projects, and guidelines for
+19 coordination between the branch OFFICE and the freight advisory
+20 committee.
+21 (6) (a) THE FREIGHT CASH FUND IS CREATED IN THE STATE
+22 TREASURY. THE FUND CONSISTS OF THE PERMIT FEES CREDITED TO THE
+23 FUND PURSUANT TO SECTIONS 42-4-505 (1)(d) AND 42-4-510 (11)(c), THE
+24 SUPPLEMENTAL OVERSIZE AND OVERWEIGHT SURCHARGES CREDITED TO
+25 THE FUND PURSUANT TO SECTION 42-4-510 (11.5), AND ANY OTHER
+26 MONEY THAT THE GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER
+27 TO THE FUND.
+-6- HB26-1248
+
+1 (b) THE STATE TREASURER SHALL CREDIT ALL INTEREST AND
+2 INCOME DERIVED FROM THE DEPOSIT AND INVESTMENT OF MONEY IN THE
+3 FREIGHT CASH FUND TO THE FUND.
+4 (c) (I) MONEY IN THE FREIGHT CASH FUND IS CONTINUOUSLY
+5 APPROPRIATED TO THE OFFICE OF FREIGHT MOBILITY AND SAFETY FOR THE
+6 FOLLOWING PURPOSES:
+7 (A) TO CONDUCT THE FEASIBILITY STUDY AND SUPPORT THE
+8 IMPLEMENTATION AND MAINTENANCE OF A CENTRALIZED ONLINE
+9 PERMITTING SYSTEM PURSUANT TO SECTION 42-4-514;
+10 (B) FOR FUNDING FREIGHT-RELATED PROJECTS; AND
+11 (C) TO SUPPORT THE OFFICE IN FUNCTIONS RELATED TO FREIGHT
+12 PROJECTS, MOVEMENT, AND INFRASTRUCTURE, INCLUDING THE
+13 ADMINISTRATIVE COSTS OF THE OFFICE.
+14 (II) IN FUNDING FREIGHT-RELATED PROJECTS FROM THE FUND, THE
+15 OFFICE SHALL ATTEMPT TO DIRECT MONEY IN A MANNER THAT IS
+16 PROPORTIONAL TO THE AMOUNT OF FREIGHT ROUTES AND THE IMPACT OF
+17 FREIGHT TRAFFIC IN THE AFFECTED COMMUNITY OR REGION OF THE STATE.
+18 (d) THE FREIGHT CASH FUND IS EXEMPT FROM THE LIMITATIONS
+19 SET FORTH IN SECTION 24-75-402.
+20 SECTION 5. In Colorado Revised Statutes, 43-4-804, amend
+21 (1)(c)(I); and add (1)(c)(III) as follows:
+22 43-4-804. Highway safety projects - surcharges, fees, and fines
+23 - crediting of money to highway users tax fund - rules - definitions -
+24 repeal.
+25 (1) The following surcharges, fees, and fines shall be collected
+26 and credited to the highway users tax fund created in section 43-4-201
+27 (1)(a) and allocated to the state highway fund, counties, and
+-7- HB26-1248
+
+1 municipalities as specified in section 43-4-205 (6.3):
+2 (c) (I) ON AND BEFORE JUNE 30, 2026, a supplemental oversize
+3 and overweight vehicle surcharge in an amount equal to the amount of the
+4 fee charged pursuant to section 42-4-510 (11)(a) C.R.S., by the
+5 department or the Colorado state patrol for the issuance of the single trip
+6 permit; except that the surcharge shall not be imposed on a vehicle if the
+7 single trip permit fee was imposed pursuant to section 42-4-510
+8 (11)(a)(VI)(B). C.R.S.
+9 (III) THIS SUBSECTION (1)(c) IS REPEALED, EFFECTIVE JANUARY 1,
+10 2027.
+11 SECTION 6. In Colorado Revised Statutes, 24-75-402, amend
+12 (5)(mmm) and (5)(nnn); and add (5)(ooo) as follows:
+13 24-75-402. Cash funds - limit on uncommitted reserves -
+14 reduction in the amount of fees - exclusions - definitions.
+15 (5) Notwithstanding any provision of this section to the contrary,
+16 the following cash funds are excluded from the limitations specified in
+17 this section:
+18 (mmm) The reentry services for justice-involved individuals
+19 reinvestment cash fund created in section 25.5-4-505.7; and
+20 (nnn) The health-related social needs reinvestment cash fund
+21 created in section 25.5-5-340; AND
+22 (ooo) THE FREIGHT CASH FUND CREATED IN SECTION 43-1-117 (6).
+23 SECTION 7. Safety clause. The general assembly finds,
+24 determines, and declares that this act is necessary for the immediate
+25 preservation of the public peace, health, or safety or for appropriations for
+26 the support and maintenance of the departments of the state and state
+27 institutions.
+-8- HB26-1248

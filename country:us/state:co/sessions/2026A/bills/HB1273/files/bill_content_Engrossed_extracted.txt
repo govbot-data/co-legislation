@@ -1,0 +1,260 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0624.01 Jennifer Berman x3286 HOUSE BILL 26-1273
+House Committees Senate Committees
+Business Affairs & Labor
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE MAXIMUM AMOUNT THAT A TRANSPORTATION
+102 NETWORK COMPANY MAY RETAIN IN RELATION TO THE AMOUNT
+103 PAID FOR TRANSPORTATION SERVICES PROVIDED THROUGH THE
+104 TRANSPORTATION NETWORK COMPANY, AND, IN CONNECTION
+105 THEREWITH, REDUCING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits a transportation network company (TNC) from
+retaining more than 20% of a consumer fare paid for a driver's completion
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,8
+yaM
+HOUSE SPONSORSHIP
+Willford and Froelich,
+SENATE SPONSORSHIP
+Cutter and Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+of a transportation task through the TNC's digital platform. "Consumer
+fare" is defined in the bill as the amount a consumer pays for a
+transportation task, excluding tips and pass-throughs such as payments for
+tolls. A TNC is also not allowed to impose a fee on a TNC driver unless
+the amount of the fee plus the amount that the TNC retains from a
+consumer fare does not exceed 20% of the consumer fare.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-4-127, amend
+3 (1)(a), (9) introductory portion, (9)(d)(I)(J), (9)(d)(II), (10) introductory
+4 portion, and (13)(c); and add (1)(a.5), (1)(c.5), (1)(o.3), (1)(o.5), (1)(o.7),
+5 and (12.5) as follows:
+6 8-4-127. Transportation network companies - disclosures to
+7 drivers - deactivation and suspension policies - disclosures to division
+8 - amount of consumer fare kept by a transportation network
+9 company - definitions - enforcement - rules - legislative declaration.
+10 (1) Definitions. As used in this section, unless the context
+11 otherwise requires:
+12 (a) "Available platform time" means the period when a driver is
+13 active on a transportation network company's digital platform while
+14 awaiting a transportation services request to come through the digital
+15 platform. (I) "AIRPORT FEES" MAY INCLUDE AN AMOUNT THAT A TNC IS
+16 REQUIRED TO PAY TO AN AIRPORT OR OTHER THIRD PARTY IN CONNECTION
+17 WITH A PICKUP OR DROP-OFF OF ONE OR MORE RIDERS AT AN AIRPORT.
+18 (II) "AIRPORT FEES" DOES NOT INCLUDE AN AMOUNT THAT A TNC
+19 DOES NOT ACTUALLY PAY TO THE AIRPORT OR OTHER THIRD PARTY.
+20 (a.5) "AVAILABLE PLATFORM TIME" MEANS THE PERIOD WHEN A
+21 DRIVER IS ACTIVE ON A TRANSPORTATION NETWORK COMPANY'S DIGITAL
+22 PLATFORM WHILE AWAITING A TRANSPORTATION SERVICES REQUEST TO
+-2- 1273
+
+1 COME THROUGH THE DIGITAL PLATFORM.
+2 (c.5) "CONSUMER FARE" MEANS THE AMOUNT OF MONEY THAT A
+3 CONSUMER PAYS FOR A TRANSPORTATION TASK, EXCLUDING:
+4 (I) TIPS;
+5 (II) PASS-THROUGHS;
+6 (III) TAXES;
+7 (IV) AIRPORT FEES; AND
+8 (V) PAYMENTS FOR A DRIVER SUPPORT ORGANIZATION CERTIFIED
+9 PURSUANT TO SUBSECTION (6) OF THIS SECTION.
+10 (o.3) "TAKE AMOUNT":
+11 (I) MEANS THE PORTION OF A CONSUMER FARE THAT A
+12 TRANSPORTATION NETWORK COMPANY, AFTER MAKING PAYMENT TO A
+13 DRIVER, RETAINS FOR ITSELF;
+14 (II) INCLUDES ANY AMOUNT OF MONEY RETAINED BY A TNC FOR
+15 THE PURPOSE OF PAYING FEES, OTHER THAN AIRPORT FEES LISTED IN
+16 SUBSECTION (1)(c.5) OF THIS SECTION; CHARGES; OR OTHER COSTS THAT
+17 THE TNC IS REQUIRED TO PAY IN CONNECTION WITH THE TRANSACTION OR
+18 FOR THE GENERAL OPERATIONAL COSTS OF THE TNC; AND
+19 (III) DOES NOT INCLUDE ANY AMOUNT OF THE CONSUMER FARE
+20 THAT THE TNC PAYS TO THE DRIVER.
+21 (o.5) "TAKE RATE" MEANS THE PERCENTAGE OF A CONSUMER FARE
+22 THAT IS A TAKE AMOUNT.
+23 (o.7) (I) "TAXES" MAY INCLUDE AN AMOUNT THAT A TNC IS
+24 REQUIRED TO PAY A LOCAL GOVERNMENT, THE STATE, OR THE FEDERAL
+25 GOVERNMENT.
+26 (II) "TAXES" DOES NOT INCLUDE AN AMOUNT THAT A TNC DOES
+27 NOT ACTUALLY PAY TO A LOCAL GOVERNMENT, THE STATE, OR THE
+-3- 1273
+
+1 FEDERAL GOVERNMENT.
+2 (9) Annual disclosures to the division. On August 1, 2026, and
+3 on a semiannual AN ANNUAL basis thereafter, a transportation network
+4 company shall make the following disclosures to the division:
+5 (d) (I) For a sample size of one thousandth of the transportation
+6 tasks for which a TNC dispatches a driver, or an amount less as
+7 authorized by the director by rule, and pursuant to a representative and
+8 reproducible sampling methodology determined and designed by the
+9 director and in consultation with the TNCs:
+10 (J) The total amount that the consumer paid for the transportation
+11 task, disaggregated to show the amount of any tip, AIRPORT FEE,
+12 PASS-THROUGH, TAXES, PAYMENTS FOR A DRIVER SUPPORT ORGANIZATION
+13 CERTIFIED PURSUANT TO SUBSECTION (6) OF THIS SECTION, TAKE RATE,
+14 AND TAKE AMOUNT; and
+15 (II) To ensure the reliability of a TNC's sampling process used
+16 pursuant to this subsection (9)(d) and the TNC's compliance with the
+17 sampling process, the director may audit the TNC's sampling process by
+18 requiring the TNC to provide the director the total number of dispatched
+19 transportation tasks made during the relevant semiannual ANNUAL period.
+20 (10) Public availability of TNC annual disclosures. The
+21 information that a transportation network company provides through
+22 semiannual ANNUAL disclosures in accordance with subsection (9) of this
+23 section to the division is a public record, as defined in section 24-72-202
+24 (6). Prior to any disclosure of the information pursuant to the "Colorado
+25 Open Records Act", part 2 of article 72 of title 24, the division shall:
+26 (12.5) Amount of consumer fare kept by a transportation
+27 network company - legislative declaration.
+-4- 1273
+
+1 (a) (I) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+2 (A) TRANSPORTATION NETWORK COMPANIES AND DRIVERS PLAY
+3 AN IMPORTANT ROLE IN COLORADO'S PUBLIC TRANSPORTATION
+4 INFRASTRUCTURE; YET, TRANSPORTATION NETWORK COMPANIES HAVE
+5 NOT BEEN MADE SUBJECT TO PUBLIC RATE SETTING, ACCESSIBILITY
+6 REQUIREMENTS, OR OTHER REGULATIONS THAT APPLY TO COMMON
+7 CARRIERS OR OTHER PUBLIC UTILITIES;
+8 (B) TRANSPORTATION NETWORK COMPANIES MAINTAIN THAT THEY
+9 ARE NOT SUBJECT TO EMPLOYMENT LAWS WITH RESPECT TO DRIVERS,
+10 WHICH LAWS WOULD ENSURE THEIR DRIVERS EARN AT LEAST A MINIMUM
+11 WAGE;
+12 (C) TRANSPORTATION NETWORK COMPANIES INSTEAD SET WAGES
+13 THROUGH HIDDEN ALGORITHMS BASED ON FACTORS THAT ARE NOT
+14 DISCLOSED TO DRIVERS AND WHICH MAY BE USED IN A MANNER THAT
+15 MANIPULATES DRIVER BEHAVIOR;
+16 (D) MEANWHILE, DRIVER WAGES FALL FAR BELOW OUR STATE
+17 MINIMUM WAGE STANDARDS, PARTICULARLY GIVEN THE SUBSTANTIAL
+18 COSTS THAT DRIVERS INCUR IN ORDER TO DO THEIR JOBS;
+19 (E) WHILE CONSUMER FARES APPEAR TO BE INCREASING, DRIVER
+20 PAY IS NOT, AND, THEREFORE, THE TAKE AMOUNT RETAINED BY A
+21 TRANSPORTATION NETWORK COMPANY IS INCREASING;
+22 (F) THE TAKE AMOUNT RETAINED BY A TRANSPORTATION
+23 NETWORK COMPANY HAS BECOME EXTRAORDINARY, WITH ANECDOTAL
+24 REPORTS OF TAKE AMOUNTS OF SIXTY PERCENT AND EVEN SEVENTY
+25 PERCENT OF THE CONSUMER FARE IN SOME CASES; AND
+26 (G) HIGH TAKE RATES GENERATE FRICTION BETWEEN CONSUMERS
+27 AND DRIVERS, MOVE PROFITS AWAY FROM COLORADO DRIVERS TO
+-5- 1273
+
+1 OUT-OF-STATE BUSINESSES, FACILITATE PRICE GOUGING OF CONSUMERS,
+2 AND ALLOW MANIPULATION OF DRIVERS. PROTECTION AGAINST
+3 INCREASING TAKE RATES IS NECESSARY TO ENSURE THAT CONSUMERS AND
+4 DRIVERS ARE TREATED FAIRLY.
+5 (II) THEREFORE, THE GENERAL ASSEMBLY FURTHER DECLARES
+6 THAT:
+7 (A) THIS SUBSECTION (12.5) PROHIBITS TRANSPORTATION
+8 NETWORK COMPANIES FROM RAISING TAKE RATES ABOVE TWENTY
+9 PERCENT AS A MEANS TO PREVENT PRICE GOUGING, WHICH PRICE GOUGING
+10 INCREASES CORPORATE PROFITS AT THE EXPENSE OF COLORADO DRIVERS
+11 AND CONSUMERS; AND
+12 (B) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THIS
+13 SUBSECTION (12.5) BE BROADLY INTERPRETED TO ACHIEVE ITS INTENDED
+14 PURPOSES.
+15 (b) A TRANSPORTATION NETWORK COMPANY SHALL NOT CHARGE
+16 AN AMOUNT IN EXCESS OF TWENTY PERCENT AS A TAKE RATE FOR ANY
+17 TRANSPORTATION TASK.
+18 (c) A TNC SHALL PAY A DRIVER AT LEAST EIGHTY PERCENT OF THE
+19 CONSUMER FARE PAID FOR A TRANSPORTATION TASK.
+20 (d) THE AMOUNT THAT A TNC EXCLUDES FROM A CONSUMER FARE
+21 PAYMENT INTENDED AS PAYMENT FOR THE CERTIFIED DRIVER SUPPORT
+22 ORGANIZATION PURSUANT TO SUBSECTION (1)(c.5)(V) OF THIS SECTION:
+23 (I) MUST NOT EXCEED THE PER-TASK AMOUNT ESTABLISHED BY
+24 THE DIRECTOR BY RULE PURSUANT TO SUBSECTION (6)(c) OF THIS SECTION;
+25 AND
+26 (II) SHALL BE REMITTED TO THE CERTIFIED DRIVER SUPPORT
+27 ORGANIZATION.
+-6- 1273
+
+1 (e) A TNC SHALL PAY ALL PASS-THROUGHS IN FULL TO THE
+2 DRIVER.
+3 (f) A TNC SHALL NOT IMPOSE A FEE ON A DRIVER FOR A
+4 TRANSPORTATION TASK UNLESS THE TAKE AMOUNT FOR THE
+5 TRANSPORTATION TASK PLUS THE AMOUNT OF THE FEE, EXPRESSED AS A
+6 PERCENTAGE, DOES NOT EXCEED TWENTY PERCENT OF THE CONSUMER
+7 FARE PAID FOR THE TRANSPORTATION TASK.
+8 (13) Penalties, fines, and enforcement.
+9 (c) The director shall establish procedures for drivers and
+10 consumers to submit complaints to the division and for the division's
+11 investigations, hearings, and imposition of fines pursuant to this
+12 subsection (13). AN APPEAL ASSOCIATED WITH A DIVISION
+13 DETERMINATION OF RIGHTS AND REMEDIES UNDER THIS SECTION SHALL BE
+14 ADJUDICATED IN ACCORDANCE WITH SECTION 8-4-111.5.
+15 SECTION 2. In Colorado Revised Statutes, 8-4-111.5, amend (1)
+16 as follows:
+17 8-4-111.5. Hearing officer review and appeals of
+18 administrative actions.
+19 (1) Pursuant to policies established by the director by rule, any
+20 interested party who is dissatisfied with the division's decision on a wage
+21 complaint filed pursuant to section 8-4-111 (2) OR ON A COMPLAINT FILED
+22 AGAINST A TRANSPORTATION NETWORK COMPANY PURSUANT TO SECTION
+23 8-4-127 may file a request for a hearing within thirty-five days after the
+24 division's decision is sent. If no A request is NOT filed within the
+25 thirty-five-day period, the division's decision is final.
+26 SECTION 3. Appropriation - adjustments to 2026 long bill.
+27 (1) Except as provided in subsection (2) of this section, to implement this
+-7- 1273
+
+1 act, the general fund appropriation made in the annual general
+2 appropriation act for the 2026-27 state fiscal year to the department of
+3 labor and employment for use by the division of labor standards and
+4 statistics for program costs related to labor standards is decreased by
+5 $16,343, and the related FTE is decreased by 0.1 FTE.
+6 (2) Subsection (1) of this section does not require a reduction of
+7 an appropriation in the annual general appropriation act for the 2026-27
+8 state fiscal year if:
+9 (a) The amount of the general fund appropriation made in the
+10 annual general appropriation act for the 2026-27 state fiscal year to the
+11 department of labor and employment for use by the division of labor
+12 standards and statistics for program costs related to labor standards is less
+13 than the amount of the adjustment required in subsection (1) of this
+14 section; or
+15 (b) The annual general appropriation act for the 2026-27 state
+16 fiscal year does not include an appropriation to the department of labor
+17 and employment for use by the division of labor standards and statistics
+18 for program costs related to labor standards.
+19 SECTION 4. Act subject to petition - effective date -
+20 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+21 the expiration of the ninety-day period after final adjournment of the
+22 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+23 2026); except that, if a referendum petition is filed pursuant to section 1
+24 (3) of article V of the state constitution against this act or an item, section,
+25 or part of this act within such period, then the act, item, section, or part
+26 will not take effect unless approved by the people at the general election
+27 to be held in November 2026 and, in such case, will take effect on the
+-8- 1273
+
+1 date of the official declaration of the vote thereon by the governor.
+2 (2) Section 2 of this act takes effect only if the annual general
+3 appropriation act for the 2026-27 state fiscal year becomes law, in which
+4 case section 2 takes effect upon the effective date of this act or of the
+5 annual general appropriation act for state fiscal year 2026-27, whichever
+6 is later.
+7 (3) This act applies to conduct occurring on or after the applicable
+8 effective date of this act.
+-9- 1273

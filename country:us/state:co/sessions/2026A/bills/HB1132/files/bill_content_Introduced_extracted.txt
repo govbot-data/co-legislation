@@ -1,0 +1,472 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0091.01 Richard Sweetman x4333 HOUSE BILL 26-1132
+HOUSE SPONSORSHIP
+Froelich,
+SENATE SPONSORSHIP
+Kipp,
+House Committees Senate Committees
+Agriculture, Water & Natural Resources
+A BILL FOR AN ACT
+101 CONCERNING INCREASING POLLINATOR HABITATS ON LANDS IN THE
+102 STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill encourages the state forest service, the department of
+natural resources, the department of personnel, and the department of
+transportation (covered agency) to prioritize the use of in-state sources of
+ecoregionally specific plant material that supports pollinator habitats
+when certain conditions are met. In planning and executing a vegetation
+project, each covered agency is required to satisfy certain requirements.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+To the extent practicable, each covered agency shall coordinate
+with the other covered agencies with regard to purchasing.
+Each covered agency shall establish a training program for land
+managers and maintenance crews that includes certain minimum
+components.
+To the extent practicable, each covered agency shall integrate
+mowing and grazing based on recommendations included in the 2022
+study commissioned by the department of natural resources pursuant to
+Senate Bill 22-199.
+The bill requires the office of the state architect to support and
+encourage the development and renovation of sustainable sites to
+maximize pollinator health on properties within the state capitol complex,
+other state buildings, and, where applicable, on leased property.
+The bill requires the Colorado state university extension
+(extension) to perform a Colorado native plant availability study in
+consultation with certain parties. On or before August 1, 2031, the
+extension shall issue a report summarizing the results of the study. The
+extension shall make the report publicly available on its website and
+provide copies of the report to the governor and specified legislative
+committees of reference.
+The extension may seek, accept, and expend gifts, grants, and
+donations for the purpose of implementing the bill. The extension is not
+required to perform the study or issue a report unless and until the
+extension acquires sufficient gifts, grants, and donations to pay for the
+performance of such duties.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Native plants are species that have evolved over thousands of
+5 years in ecosystems and are adapted to the local climate, soil, hydrology,
+6 and interactions with wildlife;
+7 (b) Colorado is home to a diverse array of at least 3,300 native
+8 plant species that support critical ecosystem functions, promote
+9 biodiversity, and contribute to the state's natural heritage and scenic
+10 beauty;
+11 (c) Native plants form the foundation of essential habitat and food
+-2- HB26-1132
+
+1 sources for pollinators, birds, and other wildlife species, many of which
+2 are in decline due to habitat loss, urbanization, drought, climate change,
+3 invasive species, and other environmental stressors;
+4 (d) Increasing the availability and diversity of native plant
+5 materials used in landscaping, habitat restoration, agriculture, and
+6 conservation efforts helps to conserve water resources, prevent soil
+7 erosion, and improve resilience to drought and wildfire;
+8 (e) Promoting the propagation, protection, and use of native plants
+9 supports the objectives of Colorado's outdoors strategy, the division of
+10 parks and wildlife's statewide habitat conservation and connectivity plan,
+11 the state wildlife action plan, Colorado's climate preparedness roadmap,
+12 and other state and local environmental initiatives;
+13 (f) Coordination among state agencies, growers, seed suppliers,
+14 and community partners is essential to ensure access to native plant
+15 materials; and
+16 (g) Colorado has an opportunity and a responsibility to lead by
+17 example by creating a statewide framework to align efforts, increase
+18 availability and diversity of native plants, and use collective buying
+19 power to reduce the costs of native plant materials to protect Colorado's
+20 environment for future generations.
+21 (2) The general assembly further finds that:
+22 (a) In 2022, in response to Senate Bill 22-199, the department of
+23 natural resources commissioned a collaborative study on native
+24 pollinating insects;
+25 (b) The study was conducted by the Colorado state university
+26 extension, the Xerces Society for Invertebrate Conservation, and the
+27 university of Colorado museum of natural history, in consultation with
+-3- HB26-1132
+
+1 state and federal agencies, researchers, scientists, and land managers
+2 across the state;
+3 (c) The study documents how Colorado is home to a rich
+4 community of native insects whose pollinating services are at the heart of
+5 healthy environments and economies, but concludes that, overall, the
+6 status of Colorado's native pollinating insects is tenuous, with the primary
+7 drivers of decline being habitat loss, inadequate land-management
+8 practices, pesticides, competition from nonnative species, and climate
+9 change, among others; and
+10 (d) The study states that promoting policies that benefit native
+11 pollinating insects and increase the native plants on which they depend
+12 represents the biggest opportunity to foster healthy and sustainable
+13 pollinator populations, especially in agricultural and urban habitats, and
+14 identifies the 5 highest areas of immediate action and priorities as
+15 follows:
+16 (I) Priority 1: Protect imperiled native pollinating insects;
+17 (II) Priority 2: Protect, restore, and connect pollinator habitats;
+18 (III) Priority 3: Mitigate environmental changes that negatively
+19 impact pollinators and their habitats;
+20 (IV) Priority 4: Reduce the risks from pesticides to pollinating
+21 insects; and
+22 (V) Priority 5: Monitor and support native and managed pollinator
+23 health.
+24 (3) The general assembly further finds that in 2024, in House Bill
+25 24-1117, the general assembly directed the division of parks and wildlife
+26 in the department of natural resources to study and determine the
+27 conservation needs of native rare plants and invertebrates and implement
+-4- HB26-1132
+
+1 voluntary programs to conserve and protect them.
+2 (4) Therefore, the general assembly:
+3 (a) Declares that it is in the public interest of the state to promote
+4 the use, protection, and restoration of native plant species for the benefit
+5 of current and future generations; and
+6 (b) Encourages public and private stakeholders to take action to
+7 conserve Colorado's native plants.
+8 SECTION 2. In Colorado Revised Statutes, add 23-31-322 as
+9 follows:
+10 23-31-322. Use of native plants in projects - definitions.
+11 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+12 OTHERWISE REQUIRES:
+13 (a) "COVERED AGENCY" MEANS:
+14 (I) THE STATE FOREST SERVICE DESCRIBED WITHIN THIS PART 3;
+15 (II) THE DEPARTMENT OF NATURAL RESOURCES CREATED IN
+16 SECTION 24-1-124; EXCEPT THAT THE STATE BOARD OF LAND
+17 COMMISSIONERS DESCRIBED IN ARTICLE 1 OF TITLE 36 IS NOT A COVERED
+18 AGENCY;
+19 (III) THE DEPARTMENT OF PERSONNEL CREATED IN SECTION
+20 24-1-128; AND
+21 (IV) THE DEPARTMENT OF TRANSPORTATION CREATED IN SECTION
+22 24-1-128.7.
+23 (b) "ECOREGIONALLY SPECIFIC" MEANS THAT PLANT MATERIALS
+24 ARE SPECIFIC TO A LEVEL III ECOREGION, AS DESIGNATED BY THE UNITED
+25 STATES ENVIRONMENTAL PROTECTION AGENCY.
+26 (c) "NATIVE PLANT" HAS THE MEANING SET FORTH IN SECTION
+27 35-5.5-103 (15).
+-5- HB26-1132
+
+1 (d) "PROJECT" MEANS A RESTORATION, RENOVATION,
+2 LANDSCAPING, NEW CONSTRUCTION, OR INFRASTRUCTURE PROJECT THAT:
+3 (I) IS ON STATE-OWNED LAND;
+4 (II) IS MANAGED ENTIRELY BY ONE OR MORE STATE AGENCIES;
+5 (III) INCLUDES THE INSTALLATION OR PLANTING OF VEGETATION;
+6 AND
+7 (IV) DOES NOT RELY SOLELY OR PARTIALLY ON FUNDING FROM
+8 STATE GRANTS OR LOANS.
+9 (e) "PUBLIC-PRIVATE PARTNERSHIP" HAS THE MEANING SET FORTH
+10 IN SECTION 24-94-102 (8).
+11 (f) "REGIONAL NURSERY" MEANS A PRIVATELY OWNED NURSERY
+12 IN THE STATE THAT COORDINATES WITH THE STATE FOREST SERVICE AND
+13 THE STATE NURSERY.
+14 (g) "SEED WAREHOUSE" MEANS THE ESCALANTE STATE WILDLIFE
+15 AREA SEED STORAGE BUILDING OPERATED BY THE DIVISION OF PARKS AND
+16 WILDLIFE WITHIN THE DEPARTMENT OF NATURAL RESOURCES.
+17 (h) "STATE NURSERY" MEANS THE STATE NURSERY OPERATED BY
+18 THE STATE FOREST SERVICE.
+19 (i) "STUDY" MEANS THE COLLABORATIVE STUDY ON NATIVE
+20 POLLINATING INSECTS COMMISSIONED BY THE DEPARTMENT OF NATURAL
+21 RESOURCES IN 2022 IN RESPONSE TO SENATE BILL 22-199.
+22 (2) Use of native plants in projects.
+23 (a) EACH COVERED AGENCY IS ENCOURAGED TO PRIORITIZE THE
+24 USE OF IN-STATE SOURCES OF ECOREGIONALLY SPECIFIC NATIVE PLANT
+25 MATERIAL THAT SUPPORTS POLLINATOR HABITATS WHEN:
+26 (I) SUCH PLANT MATERIAL IS AVAILABLE;
+27 (II) SUCH USE IS FINANCIALLY VIABLE; AND
+-6- HB26-1132
+
+1 (III) SUCH PLANT MATERIAL CAN BE USED IN A MANNER THAT
+2 FURTHERS PLANT DIVERSITY, INCREASES POLLINATOR HABITAT, MINIMIZES
+3 WILDFIRE HAZARD MITIGATION, ENHANCES CLIMATE RESILIENCE, AND
+4 PROTECTS WATERSHED HEALTH.
+5 (b) IN PLANNING AND EXECUTING A PROJECT, EACH COVERED
+6 AGENCY SHALL:
+7 (I) BALANCE THE BENEFITS OF USING NATIVE PLANT MATERIAL
+8 WITH OTHER PRIORITIES, INCLUDING WILDFIRE RISK REDUCTION; CLIMATE
+9 RESILIENCE; SPECIES PROTECTION AND RECOVERY; FEDERALLY LISTED,
+10 ENDANGERED, AND THREATENED SPECIES PROTECTION; NOXIOUS WEED
+11 CONTROL; PUBLIC SAFETY; AGRICULTURAL PRODUCTION; AND EQUITY AND
+12 ENVIRONMENTAL JUSTICE CONSIDERATIONS;
+13 (II) CONSIDER ECOLOGICAL SUITABILITY, SITE-SPECIFIC
+14 CONDITIONS, AND AVAILABILITY OF PLANT MATERIALS WHEN SELECTING
+15 NATIVE PLANTS; AND
+16 (III) TO THE EXTENT PRACTICABLE, INCLUDE MULTIPLE SPECIES
+17 WITH OVERLAPPING BLOOM PERIODS, INCLUDING A DIVERSITY OF FLOWER
+18 SHAPES AND COLORS, TO PROVIDE NECTAR AND POLLEN RESOURCES
+19 THROUGHOUT THE GROWING SEASON.
+20 (c) EACH COVERED AGENCY SHALL INTEGRATE INTO ITS PLANNING
+21 PROCESSES FIVE-YEAR AND TEN-YEAR GOALS FOR NATIVE PLANT
+22 MATERIAL USE IN THEIR PROJECTS.
+23 (3) Coordinated purchasing and supply development.
+24 (a) TO THE EXTENT PRACTICABLE, EACH COVERED AGENCY SHALL
+25 COORDINATE WITH THE OTHER COVERED AGENCIES WITH REGARD TO
+26 PURCHASING IN ORDER TO:
+27 (I) INCREASE DEMAND FOR IN-STATE NATIVE PLANT MATERIAL
+-7- HB26-1132
+
+1 BUSINESS GROWTH OPPORTUNITIES;
+2 (II) REDUCE COSTS THROUGH PURCHASING POWER;
+3 (III) ENSURE SUPPLY OF APPROPRIATE NATIVE PLANT MATERIAL
+4 AND REASONABLE PROPAGATION AND GROWING TIMELINES;
+5 (IV) USE THEIR COLLECTIVE BUYING POWER TO CREATE AN
+6 INCREASED SUPPLY OF NATIVE PLANTS AND NATIVE PLANT SEEDS; AND
+7 (V) ENHANCE THE SUPPLY OF, AND ACCESS TO, STATE-SOURCED
+8 NATIVE PLANT MATERIAL IN STATE AND PRIVATE NURSERIES AND IN STATE
+9 COLLECTIONS OF SEEDS TO INCREASE ACCESS AND DIVERSITY.
+10 (b) EACH COVERED AGENCY, IN FULFILLING ITS DUTIES UNDER THIS
+11 SECTION, SHALL COORDINATE WITH THE SEED WAREHOUSE, THE STATE
+12 NURSERY, REGIONAL NURSERIES, AND PRIVATE NURSERIES. THE STATE
+13 NURSERY SHALL ANNUALLY SHARE ITS INVENTORY WITH COVERED
+14 AGENCIES WHEN THE SPRING INVENTORY IS ESTABLISHED.
+15 (c) A COVERED AGENCY MAY ENTER INTO A PUBLIC-PRIVATE
+16 PARTNERSHIP FOR SEED COLLECTION ON STATE LANDS.
+17 (4) Training on native plants.
+18 (a) EACH COVERED AGENCY, IN COORDINATION WITH PRIVATE
+19 PARTNERS, SHALL ESTABLISH A TRAINING PROGRAM FOR LAND MANAGERS
+20 AND MAINTENANCE CREWS THAT INCLUDES:
+21 (I) IDENTIFICATION OF NATIVE PLANTS, IMPORTANT FLORAL AND
+22 HOST PLANTS, AND POLLINATOR HOST SPECIES; AND
+23 (II) BEST PRACTICES FOR POLLINATOR CONSERVATION AND NATIVE
+24 PLANT ESTABLISHMENT.
+25 (b) IN FULFILLING ITS DUTIES UNDER THIS SUBSECTION (4), A
+26 COVERED AGENCY MAY SEEK, ACCEPT, AND EXPEND AVAILABLE FEDERAL
+27 RESOURCES REGARDING THE MANAGEMENT OF NATIVE PLANTS.
+-8- HB26-1132
+
+1 (c) A COVERED AGENCY MAY SEEK AND ENTER INTO PRIVATE
+2 PARTNERSHIPS TO DEVELOP THE TRAINING PROGRAM DESCRIBED IN THIS
+3 SUBSECTION (4) SO LONG AS THE PRIVATE PARTNERS HAVE EXPERTISE IN
+4 POLLINATOR HEALTH, CLIMATE CHANGE, ECOLOGICAL PROCESSES AND
+5 RESILIENCE, BIODIVERSITY, NATIVE PLANTS, OR ECOLOGICAL LAND
+6 MANAGEMENT.
+7 (5) Land management practices.
+8 (a) ON AND AFTER JANUARY 1, 2028, TO THE EXTENT
+9 PRACTICABLE, EACH COVERED AGENCY SHALL INTEGRATE MOWING AND
+10 GRAZING BASED ON RECOMMENDATIONS INCLUDED IN THE STUDY.
+11 (b) EACH COVERED AGENCY, AS APPROPRIATE, SHALL:
+12 (I) ESTABLISH POLLINATOR HABITAT ZONES ON ROADWAYS AND ON
+13 PUBLIC LANDS;
+14 (II) USE SIGNAGE TO IDENTIFY SUCH ZONES; AND
+15 (III) PROHIBIT THE MOWING OF GRASS WITHIN SUCH A ZONE,
+16 EXCEPT AS MAY BE NECESSARY FOR PUBLIC SAFETY.
+17 (c) EACH COVERED AGENCY SHALL INCORPORATE INTERSEEDING,
+18 OVERSEEDING, AND TRANSPLANTING OF NATIVE PLANTS AND NATIVE
+19 PLANT MATERIALS, INCLUDING FOR THE RESTORATION OF NATIVE
+20 HABITATS.
+21 SECTION 3. In Colorado Revised Statutes, 24-30-1303, add
+22 (1)(gg) as follows:
+23 24-30-1303. Office of the state architect - responsibilities.
+24 (1) The office of the state architect shall:
+25 (gg) SUPPORT AND ENCOURAGE THE DEVELOPMENT AND
+26 RENOVATION OF SUSTAINABLE SITES TO MAXIMIZE POLLINATOR HEALTH
+27 ON PROPERTIES WITHIN THE STATE CAPITOL COMPLEX, OTHER STATE
+-9- HB26-1132
+
+1 BUILDINGS, AND, WHERE APPLICABLE, ON LEASED PROPERTY, INCLUDING
+2 BY:
+3 (I) MAXIMIZING THE USE OF NATIVE PLANT MATERIAL AND
+4 POLLINATOR-FRIENDLY PLANTS IN LANDSCAPE DESIGN PLANS;
+5 (II) MODIFYING THE STATE'S DESIGN GUIDELINES TO INCORPORATE
+6 NATIVE PLANTS AND POLLINATOR-FRIENDLY PLANTS;
+7 (III) ENSURING THAT STATE-FUNDED PROJECTS USE
+8 PESTICIDE-FREE MANAGEMENT PRACTICES TO THE EXTENT PRACTICABLE;
+9 AND
+10 (IV) TO THE EXTENT PRACTICABLE, ENSURING THAT STATE
+11 CONTRACTS FOR THE PURCHASE OF PLANTS REQUIRE SUCH PLANTS TO NOT
+12 CONTAIN SYNTHETIC PESTICIDES.
+13 SECTION 4. In Colorado Revised Statutes, add 23-31-708 as
+14 follows:
+15 23-31-708. Colorado native plant availability study - legislative
+16 declaration - consulting parties - study components - gifts, grants,
+17 and donations - report - definition - repeal.
+18 (1) Legislative declaration.
+19 (a) THE GENERAL ASSEMBLY FINDS THAT:
+20 (I) THE COLLABORATIVE STUDY ON NATIVE POLLINATING INSECTS
+21 COMMISSIONED BY THE DEPARTMENT OF NATURAL RESOURCES IN 2022 IN
+22 RESPONSE TO SENATE BILL 22-199 IDENTIFIED HABITAT LOSS AS A
+23 PRIMARY THREAT TO POLLINATOR HEALTH AND THE INSUFFICIENT
+24 AVAILABILITY OF NECESSARY NATIVE PLANTS AND SEEDS AS A MAJOR
+25 LIMITING FACTOR TO CREATING POLLINATOR HABITATS; AND
+26 (II) THE STUDY ALSO RECOMMENDED THAT THE STATE TAKE
+27 ACTION TO ENCOURAGE THE INCREASE OF NATIVE PLANT AND SEED
+-10- HB26-1132
+
+1 PRODUCTION AND USE STATEWIDE.
+2 (b) THE GENERAL ASSEMBLY ALSO FINDS THAT:
+3 (I) DESPITE GROWING INTEREST IN NATIVE PLANTS, COLORADO
+4 LACKS A COMPREHENSIVE, COORDINATED UNDERSTANDING OF STATEWIDE
+5 NATIVE PLANT SUPPLY AND DEMAND, INCLUDING AN UNDERSTANDING OF:
+6 (A) BARRIERS FACED BY GROWERS, DISTRIBUTORS, LAND
+7 MANAGERS, AND CONSUMERS; AND
+8 (B) OPPORTUNITIES FOR IMPROVING THE SUPPLY OF NATIVE PLANT
+9 MATERIAL;
+10 (II) STRATEGIC STATE COORDINATION CAN STRENGTHEN PRIVATE
+11 MARKETS, REDUCE RISK FOR GROWERS, SUPPORT CONSERVATION GOALS,
+12 AND ENSURE THAT PUBLIC INVESTMENTS IN RESTORATION AND
+13 LANDSCAPING ACHIEVE LONG-TERM ECOLOGICAL BENEFITS; AND
+14 (III) THE SERVICE, IN PARTNERSHIP WITH STATE AGENCIES AND
+15 STAKEHOLDERS, IS UNIQUELY POSITIONED TO CONDUCT A RIGOROUS,
+16 IMPARTIAL, AND APPLIED STUDY TO INFORM POLICY AND MARKET
+17 DEVELOPMENT.
+18 (c) THEREFORE, THE GENERAL ASSEMBLY DECLARES THAT IT IS IN
+19 THE BEST INTEREST OF THE STATE TO DIRECT THE SERVICE TO PERFORM A
+20 STATEWIDE STUDY TO:
+21 (I) ASSESS THE NATIVE PLANT SUPPLY CHAIN; AND
+22 (II) RECOMMEND STRATEGIES TO RESPONSIBLY INCREASE BOTH
+23 THE SUPPLY AND DEMAND OF NATIVE PLANTS.
+24 (2) Study - consulting agencies - definition. THE SERVICE SHALL
+25 PERFORM A COLORADO NATIVE PLANT AVAILABILITY STUDY, REFERRED TO
+26 IN THIS SECTION AS THE "STUDY". IN PERFORMING THE STUDY, THE
+27 SERVICE SHALL CONSULT WITH:
+-11- HB26-1132
+
+1 (a) THE DEPARTMENT OF AGRICULTURE;
+2 (b) THE DEPARTMENT OF NATURAL RESOURCES;
+3 (c) THE DEPARTMENT OF TRANSPORTATION;
+4 (d) THE STATE FOREST SERVICE;
+5 (e) SEED AND PLANT WAREHOUSES AND NURSERIES IN THE STATE;
+6 (f) PUBLIC AND PRIVATE NATIVE SEED AND PLANT GROWERS;
+7 (g) LANDSCAPE PROFESSIONALS, RESTORATION CONTRACTORS,
+8 AND NURSERY OPERATORS;
+9 (h) TRIBAL GOVERNMENTS, WHERE APPROPRIATE;
+10 (i) LOCAL GOVERNMENTS AND WATER PROVIDERS; AND
+11 (j) CONSERVATION ORGANIZATIONS AND RESEARCHERS.
+12 (3) Study scope and requirements.
+13 (a) THE STUDY MUST INCLUDE AN ANALYSIS OF THE SUPPLY OF
+14 NATIVE PLANT MATERIAL IN THE STATE, WHICH ANALYSIS INCLUDES:
+15 (I) AN ASSESSMENT OF CURRENT NATIVE PLANT AND SEED
+16 PRODUCTION IN COLORADO, INCLUDING:
+17 (A) SPECIES AVAILABILITY;
+18 (B) PRODUCTION CAPACITY;
+19 (C) GEOGRAPHIC DISTRIBUTION OF GROWERS AND SELLERS;
+20 (D) PRICE STRUCTURES AND COST DRIVERS, INCLUDING
+21 CONSIDERATION OF WHETHER COORDINATED NATIVE PLANT MATERIAL
+22 PURCHASING WILL SAVE MONEY; AND
+23 (E) CONSTRAINTS, SUCH AS LAND, LABOR, WATER, SOURCE SEED
+24 AND PLANT ACCESS, GENETICS, AND REGULATORY BARRIERS;
+25 (II) IDENTIFICATION OF GROWER CONCERNS, INCLUDING:
+26 (A) MARKET UNCERTAINTY AND INCONSISTENT DEMAND;
+27 (B) UP-FRONT INVESTMENT RISKS;
+-12- HB26-1132
+
+1 (C) SEED AND PLANT SOURCING AND GENETIC INTEGRITY;
+2 (D) CONTRACT RELIABILITY AND PAYMENT TIMING; AND
+3 (E) PROPAGATION COMPLEXITIES AND KNOWLEDGE GAPS
+4 CONCERNING NATIVE SPECIES; AND
+5 (III) EVALUATION OF WEAK POINTS IN THE SUPPLY CHAIN,
+6 INCLUDING CONSIDERATION OF:
+7 (A) SEED COLLECTION AND STORAGE;
+8 (B) DISTRIBUTION AND TRANSPORTATION CHALLENGES; AND
+9 (C) REGIONAL MISMATCHES BETWEEN PRODUCTION AND DEMAND.
+10 (b) THE STUDY MUST INCLUDE AN ANALYSIS OF THE DEMAND FOR
+11 NATIVE PLANTS AND SEEDS IN THE STATE, WHICH ANALYSIS INCLUDES:
+12 (I) ASSESSMENT OF CURRENT AND PROJECTED DEMAND FOR
+13 NATIVE PLANTS AND SEEDS, INCLUDING:
+14 (A) STATE AND LOCAL GOVERNMENT PROJECTS;
+15 (B) TRANSPORTATION AND INFRASTRUCTURE PROJECTS;
+16 (C) HABITAT RESTORATION AND MITIGATION;
+17 (D) RESIDENTIAL, COMMERCIAL, AND INSTITUTIONAL
+18 LANDSCAPING; AND
+19 (E) AGRICULTURAL AND CONSERVATION USES; AND
+20 (II) ANALYSIS OF BARRIERS TO DEMAND, INCLUDING:
+21 (A) LIMITED CONSUMER AWARENESS;
+22 (B) MISCONCEPTIONS ABOUT COST, AESTHETICS, AND
+23 MAINTENANCE;
+24 (C) INCONSISTENT SPECIFICATIONS IN PUBLIC CONTRACTS; AND
+25 (D) LACK OF REGIONAL PLANT LISTS AND GUIDANCE APPLICABLE
+26 TO COLORADO.
+27 (c) THE STUDY MUST INCLUDE AN ANALYSIS OF THE DISTRIBUTION
+-13- HB26-1132
+
+1 OF, AND ACCESS TO, NATIVE PLANTS AND SEEDS IN THE STATE, WHICH
+2 ANALYSIS INCLUDES:
+3 (I) EVALUATION OF EXISTING DISTRIBUTION NETWORKS AND
+4 ACCESS TO NATIVE PLANTS AND SEEDS ACROSS URBAN, SUBURBAN, AND
+5 RURAL AREAS; AND
+6 (II) IDENTIFICATION OF OPPORTUNITIES TO:
+7 (A) IMPROVE STATEWIDE DISTRIBUTION EFFICIENCY;
+8 (B) EXPAND REGIONAL AVAILABILITY; AND
+9 (C) SUPPORT THE ROLE OF THE SEED WAREHOUSE, AS DEFINED IN
+10 SECTION 23-31-322 (1)(g), INCLUDING HOW AND WHERE TO INCREASE
+11 NATIVE SEED STORAGE MOST ECONOMICALLY BASED ON GEOGRAPHIC
+12 NEED.
+13 (d) THE STUDY MUST CONSIDER EDUCATION, TECHNICAL
+14 ASSISTANCE, AND KNOWLEDGE GAPS, INCLUDING;
+15 (I) IDENTIFICATION OF GAPS IN CURRENT KNOWLEDGE AMONG
+16 GROWERS, DESIGNERS, CONTRACTORS, AND CONSUMERS;
+17 (II) EVALUATION OF EXISTING EDUCATION PROGRAMS AND
+18 IDENTIFICATION OF UNMET NEEDS; AND
+19 (III) RECOMMENDATIONS FOR TARGETED EDUCATION, TECHNICAL
+20 ASSISTANCE, AND WORKFORCE DEVELOPMENT, INCLUDING THE ROLE OF
+21 THE SERVICE.
+22 (e) THE STUDY MUST INCLUDE BEST PRACTICES AND INCENTIVES
+23 FOR ACQUIRING AND USING NATIVE PLANTS AND SEEDS IN THE STATE,
+24 INCLUDING IDENTIFICATION OF:
+25 (I) BEST PRACTICES FROM COLORADO AND OTHER STATES FOR
+26 EXPANDING NATIVE PLANT MARKETS;
+27 (II) INCREMENTAL STRATEGIES TO GROW SUPPLY AND DEMAND
+-14- HB26-1132
+
+1 CONCURRENTLY; AND
+2 (III) POTENTIAL INCENTIVES, INCLUDING CONTRACTING AND
+3 INCENTIVE REFORMS, COST-SHARE PROGRAMS, PILOT PURCHASE
+4 AGREEMENTS, CERTIFICATION OR LABELING PROGRAMS, AND
+5 PUBLIC-PRIVATE PARTNERSHIPS.
+6 (4) Report.
+7 (a) ON OR BEFORE AUGUST 1, 2031, THE SERVICE SHALL ISSUE A
+8 REPORT SUMMARIZING THE RESULTS OF THE STUDY. THE SERVICE SHALL
+9 MAKE THE REPORT PUBLICLY AVAILABLE ON ITS WEBSITE AND PROVIDE
+10 COPIES OF THE REPORT TO:
+11 (I) THE GOVERNOR; AND
+12 (II) THE AGRICULTURE, WATER, AND NATURAL RESOURCES
+13 COMMITTEE OF THE HOUSE OF REPRESENTATIVES AND THE AGRICULTURE
+14 AND NATURAL RESOURCES COMMITTEE OF THE SENATE, OR TO ANY
+15 SUCCESSOR COMMITTEES.
+16 (b) THE REPORT MUST INCLUDE RECOMMENDATIONS, INCLUDING:
+17 (I) SHORT-TERM, MEDIUM-TERM, AND LONG-TERM STRATEGIES TO
+18 INCREASE SUPPLY AND DEMAND OF NATIVE PLANTS AND SEEDS
+19 INCREMENTALLY;
+20 (II) POLICY INCENTIVES AND ADMINISTRATIVE CHANGES TO
+21 IMPROVE MARKET CERTAINTY;
+22 (III) OPPORTUNITIES FOR PUBLIC-PRIVATE PARTNERSHIPS; AND
+23 (IV) METRICS TO MEASURE PROGRESS AND EFFECTIVENESS OVER
+24 TIME.
+25 (5) Gifts, grants, and donations.
+26 (a) THE SERVICE MAY SEEK, ACCEPT, AND EXPEND GIFTS, GRANTS,
+27 AND DONATIONS FROM PRIVATE OR PUBLIC SOURCES FOR THE PURPOSE OF
+-15- HB26-1132
+
+1 IMPLEMENTING THIS SECTION.
+2 (b) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE
+3 CONTRARY, THE SERVICE IS NOT REQUIRED TO PERFORM THE DUTIES
+4 DESCRIBED IN THIS SECTION UNLESS AND UNTIL THE SERVICE ACQUIRES
+5 SUFFICIENT GIFTS, GRANTS, AND DONATIONS TO PAY FOR THE
+6 PERFORMANCE OF SUCH DUTIES.
+7 (6) Repeal. THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1,
+8 2031.
+9 SECTION 5. Act subject to petition - effective date. This act
+10 takes effect at 12:01 a.m. on the day following the expiration of the
+11 ninety-day period after final adjournment of the general assembly (August
+12 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+13 referendum petition is filed pursuant to section 1 (3) of article V of the
+14 state constitution against this act or an item, section, or part of this act
+15 within such period, then the act, item, section, or part will not take effect
+16 unless approved by the people at the general election to be held in
+17 November 2026 and, in such case, will take effect on the date of the
+18 official declaration of the vote thereon by the governor.
+-16- HB26-1132

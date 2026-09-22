@@ -1,0 +1,574 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0368.01 Clare Haffner x6137 HOUSE BILL 26-1183
+House Committees Senate Committees
+Agriculture, Water & Natural Resources
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE CONTINUATION OF THE LICENSING OF PET ANIMAL
+102 FACILITIES BY THE COMMISSIONER OF AGRICULTURE IN
+103 ACCORDANCE WITH THE "PET ANIMAL CARE AND FACILITIES
+104 ACT", AND, IN CONNECTION THEREWITH, IMPLEMENTING THE
+105 RECOMMENDATIONS CONTAINED IN THE 2025 SUNSET REPORT
+106 BY THE DEPARTMENT OF REGULATORY AGENCIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Sunset Process - House Agriculture, Water, and Natural EESSUUOOHH
+ggnniiddaaeeRR
+ddnn22
+ddeeddnneemmAA
+6202
+,32
+hcraM
+HOUSE SPONSORSHIP
+McCormick and Duran,
+SENATE SPONSORSHIP
+Cutter and Pelton B.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Resources Committee. The bill implements the recommendations of the
+department of regulatory agencies in its 2025 sunset review of the "Pet
+Animal Care and Facilities Act" (PACFA) as follows:
+! Sections 1 and 2 of the bill continue the commissioner of
+agriculture's (commissioner) function of licensing pet
+animal facilities in accordance with the PACFA for 15
+years, until 2041;
+! Section 3 amends the PACFA's pet animal advisory
+committee (committee) membership structure by requiring
+the commissioner, on and after January 1, 2027, to appoint
+15 members with certain specifications. Section 3 also
+specifies that members appointed to the committee on and
+after January 1, 2027, may serve no more than 2
+consecutive terms of 4 years.
+! Section 4 prohibits the importation of certain pet animals
+into the state without a valid certificate of veterinary
+inspection issued by an accredited veterinarian in the state
+of origin within 10 days prior to the pet animal's arrival in
+Colorado;
+! Section 5 clarifies that the commissioner is authorized to
+adopt rules extending the required minimum holding
+periods for pet animals held by or in the custody of a
+licensed animal shelter;
+! Section 6 removes the current maximum fee amount of
+$700 for pet animal facility license application fees and
+permits the commissioner to establish the fee amount by
+rule, which amount must be based on the direct and indirect
+costs of processing license applications;
+! Section 7 raises the maximum civil penalty amount for a
+violation of the PACFA or of a rule adopted pursuant to the
+PACFA from $1,000 per violation to $2,500 per violation;
+! Section 8 states that a person that chooses to request a
+hearing in response to a cease-and-desist order issued by
+the commissioner for a violation of the PACFA or of a rule
+adopted pursuant to the PACFA must do so within 30 days
+after the issuance of the cease-and-desist order; and
+! Section 9 relocates the statute that establishes the pet
+overpopulation authority (authority) so the authority is no
+longer subject to sunset review as part of the PACFA.
+Sections 10 through 13 make conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-34-104, repeal
+-2- 1183
+
+1 (27)(a)(XII); and add (35)(a)(IX) as follows:
+2 24-34-104. General assembly review of regulatory agencies
+3 and functions for repeal, continuation, or reestablishment - legislative
+4 declaration - repeal.
+5 (27) (a) The following agencies, functions, or both, are scheduled
+6 for repeal on September 1, 2026:
+7 (XII) The licensing of pet animal facilities by the commissioner
+8 of agriculture in accordance with article 80 of title 35;
+9 (35) (a) The following agencies, functions, or both, are scheduled
+10 for repeal on September 1, 2034:
+11 (IX) THE LICENSING OF PET ANIMAL FACILITIES BY THE
+12 COMMISSIONER OF AGRICULTURE IN ACCORDANCE WITH ARTICLE 80 OF
+13 TITLE 35.
+14 SECTION 2. In Colorado Revised Statutes, 35-80-117, amend
+15 (1) as follows:
+16 35-80-117. Repeal of article - sunset review - report to general
+17 assembly.
+18 (1) This article 80 is repealed, effective September 1, 2026
+19 SEPTEMBER 1, 2034.
+20 SECTION 3. In Colorado Revised Statutes, 35-80-115, amend
+21 (1), (3), and (4); and add (1.5) and (2.5) as follows:
+22 35-80-115. Advisory committee - repeal.
+23 (1) (a) There is hereby established a pet animal advisory
+24 committee to advise the commissioner in establishing rules under this
+25 article 80 and to provide ongoing review of this article 80. The members
+26 of the advisory committee shall receive no compensation or
+27 reimbursement from the state of Colorado or the department for expenses
+-3- 1183
+
+1 incurred in the performance of their duties. The advisory committee shall
+2 consist of seventeen persons appointed by the commissioner as follows:
+3 (a) (I) One person who represents animal rescue;
+4 (b) (II) One person who represents bird breeders;
+5 (c) (III) One person who represents small-scale operation dog
+6 breeders;
+7 (d) (IV) One person who represents cat breeders;
+8 (e) (V) One person who represents small animal breeders;
+9 (f) (VI) One person who represents boarding kennels;
+10 (f.5) (VII) One person who represents the "dog day care industry",
+11 which term means premises on which dogs are kept primarily for the
+12 purpose of short-term care;
+13 (g) (VIII) One person who represents pet groomers;
+14 (h) (IX) One person who represents pet animal retailers;
+15 (i) (X) One person who represents pet animal wholesalers;
+16 (j) (XI) One person who represents animal control officers;
+17 (k) (XII) One person who represents animal shelters;
+18 (l) (XIII) One veterinarian licensed pursuant to article 315 of title
+19 12;
+20 (m) (XIV) Three members of the general public, none of whom
+21 shall represent or have a financial interest in any of the groups listed in
+22 this subsection (1); and
+23 (n) (XV) One person who represents large-scale operation dog
+24 breeders.
+25 (b) NOTWITHSTANDING SUBSECTION (1)(a) OF THIS SECTION, ON
+26 JANUARY 1, 2027:
+27 (I) THE ADVISORY COMMITTEE DESCRIBED IN SAID SUBSECTION
+-4- 1183
+
+1 (1)(a) IS DISMISSED;
+2 (II) THE ADVISORY COMMITTEE'S AUTHORITY IS REVOKED; AND
+3 (III) THE ADVISORY COMMITTEE DESCRIBED IN SUBSECTION (1.5)
+4 OF THIS SECTION SHALL ASSUME THE AUTHORITY OF THE ADVISORY
+5 COMMITTEE DESCRIBED IN SAID SUBSECTION (1)(a).
+6 (c) THIS SUBSECTION (1) IS REPEALED, EFFECTIVE JANUARY 1,
+7 2028.
+8 (1.5) (a) ON JANUARY 1, 2027, THE PET ANIMAL ADVISORY
+9 COMMITTEE IS ESTABLISHED TO ADVISE THE COMMISSIONER IN
+10 ESTABLISHING RULES UNDER THIS ARTICLE 80 AND TO PROVIDE ONGOING
+11 REVIEW OF THIS ARTICLE 80. THE ADVISORY COMMITTEE CONSISTS OF
+12 FIFTEEN INDIVIDUALS APPOINTED BY THE COMMISSIONER AS FOLLOWS:
+13 (I) TEN INDIVIDUALS, EACH OF WHOM REPRESENTS AT LEAST ONE
+14 DISTINCT CATEGORY OF LICENSE ISSUED PURSUANT TO THIS ARTICLE 80;
+15 (II) ONE INDIVIDUAL WHO REPRESENTS ANIMAL CONTROL
+16 OFFICERS;
+17 (III) ONE INDIVIDUAL WHO IS A VETERINARIAN LICENSED
+18 PURSUANT TO ARTICLE 315 OF TITLE 12; AND
+19 (IV) THREE INDIVIDUALS WHO DO NOT REPRESENT OR HAVE A
+20 FINANCIAL INTEREST IN ANY OF THE GROUPS LISTED IN THIS SUBSECTION
+21 (1.5).
+22 (b) (I) ON OR BEFORE DECEMBER 1, 2026, THE COMMISSIONER
+23 SHALL APPOINT THE INITIAL MEMBERS OF THE ADVISORY COMMITTEE.
+24 EACH INITIAL MEMBER OF THE ADVISORY COMMITTEE SHALL SERVE AN
+25 INITIAL TERM OF FOUR YEARS; EXCEPT THAT:
+26 (A) TWO OF THE INITIAL MEMBERS APPOINTED PURSUANT TO
+27 SUBSECTION (1.5)(a)(I) OF THIS SECTION SHALL SERVE AN INITIAL TERM OF
+-5- 1183
+
+1 THREE YEARS;
+2 (B) TWO OF THE INITIAL MEMBERS APPOINTED PURSUANT TO
+3 SUBSECTION (1.5)(a)(I) OF THIS SECTION SHALL SERVE AN INITIAL TERM OF
+4 TWO YEARS;
+5 (C) ONE OF THE INITIAL MEMBERS APPOINTED PURSUANT TO
+6 SUBSECTION (1.5)(a)(IV) OF THIS SECTION SHALL SERVE AN INITIAL TERM
+7 OF THREE YEARS; AND
+8 (D) ONE OF THE INITIAL MEMBERS APPOINTED PURSUANT TO
+9 SUBSECTION (1.5)(a)(IV) OF THIS SECTION SHALL SERVE AN INITIAL TERM
+10 OF TWO YEARS.
+11 (II) (A) THE COMMISSIONER, AT THE COMMISSIONER'S DISCRETION,
+12 MAY APPOINT A MEMBER OF THE ADVISORY COMMITTEE DESCRIBED IN
+13 SUBSECTION (1) OF THIS SECTION TO THE ADVISORY COMMITTEE
+14 DESCRIBED IN THIS SUBSECTION (1.5).
+15 (B) THIS SUBSECTION (1.5)(b)(II) IS REPEALED, EFFECTIVE
+16 JANUARY 1, 2028.
+17 (III) AFTER THE INITIAL MEMBERS OF THE ADVISORY COMMITTEE
+18 COMPLETE THEIR INITIAL TERMS, EACH MEMBER APPOINTED TO THE
+19 ADVISORY COMMITTEE SHALL SERVE A TERM OF FOUR YEARS; EXCEPT
+20 THAT AN INDIVIDUAL SHALL NOT SERVE MORE THAN TWO CONSECUTIVE
+21 FOUR-YEAR TERMS ON THE ADVISORY COMMITTEE.
+22 (2.5) THE MEMBERS OF THE ADVISORY COMMITTEE SHALL RECEIVE
+23 NO COMPENSATION OR REIMBURSEMENT FROM THE STATE OF COLORADO
+24 OR THE DEPARTMENT FOR EXPENSES INCURRED IN THE PERFORMANCE OF
+25 THEIR DUTIES.
+26 (3) In the event of a vacancy on the advisory committee prior to
+27 the completion of a member's full term, the commissioner shall appoint
+-6- 1183
+
+1 a person to complete the remainder of the term. The person shall
+2 represent the same group as the member the person is replacing. pursuant
+3 to subsection (1) of this section.
+4 (4) (a) The initial appointments of the animal rescue
+5 representative, the small animal breeder, the pet animal wholesaler, one
+6 member from the general public, and the large-scale operation dog
+7 breeder shall expire on January 1, 1995. The initial appointments of the
+8 bird breeder, the representative of boarding kennels, the representative of
+9 animal control officers, the small-scale operation dog breeder, and one
+10 member from the general public shall expire on January 1, 1996. The
+11 initial appointment of all other members shall be for a term of three years.
+12 Thereafter, members of the advisory committee shall serve for terms of
+13 three years.
+14 (b) THIS SUBSECTION (4) IS REPEALED, EFFECTIVE JANUARY 1,
+15 2027.
+16 SECTION 4. In Colorado Revised Statutes, 35-80-108, amend
+17 (1)(n) as follows:
+18 35-80-108. Unlawful acts - short title - disclosure requirement
+19 - definition - rules.
+20 (1) Unless otherwise authorized by law, it is unlawful and a
+21 violation of this article 80 for an individual or entity:
+22 (n) To import or cause to be imported a dog or cat PET ANIMAL,
+23 EXCLUDING A REPTILE, FISH, OR RODENT, for the purpose of sale by a pet
+24 animal facility, unless the dog or cat PET ANIMAL has a VALID certificate
+25 of veterinary health and, if the dog or cat is over six months old, proof of
+26 a rabies vaccination; or INSPECTION BY AN ACCREDITED VETERINARIAN IN
+27 THE STATE OF ORIGIN ISSUED WITHIN TEN DAYS PRIOR TO THE PET
+-7- 1183
+
+1 ANIMAL'S ARRIVAL IN COLORADO. A PET ANIMAL FACILITY SHALL MEET
+2 ALL IMPORT REQUIREMENTS AS DETERMINED BY THE STATE
+3 VETERINARIAN.
+4
+5 SECTION 5. In Colorado Revised Statutes, 35-80-105, amend
+6 (4) as follows:
+7 35-80-105. Pet animal facility - licensure requirements -
+8 application - fees - rules.
+9 (4) Each applicant for a pet animal facility license shall pay an
+10 annual license fee in the amount specified by rule of the commissioner,
+11 which amount shall not exceed seven hundred ONE THOUSAND FIVE
+12 HUNDRED dollars per license.
+13 SECTION 6. In Colorado Revised Statutes, 35-80-113, amend
+14 (1) as follows:
+15 35-80-113. Civil penalties.
+16 (1) Any A person who THAT violates any provision of this article
+17 ARTICLE 80 or any rule adopted pursuant to this article ARTICLE 80 is
+18 subject to a civil penalty, as determined by the commissioner. The
+19 AMOUNT OF THE maximum penalty shall MUST not exceed one thousand
+20 TWO THOUSAND FIVE HUNDRED dollars per violation.
+21 SECTION 7. In Colorado Revised Statutes, 35-80-111, amend
+22 (2)(a) as follows:
+23 35-80-111. Enforcement - cease-and-desist orders - hearings.
+24 (2) (a) Whenever the commissioner has reasonable cause to
+25 believe a violation of a provision of this article 80 or a rule adopted
+26 pursuant to this article 80 has occurred and immediate enforcement is
+27 deemed necessary, the commissioner may issue a cease-and-desist order,
+-8- 1183
+
+1 which may require a person to cease violating a provision of this article
+2 80 or a rule adopted pursuant to this article 80 THE VIOLATION. The
+3 cease-and-desist order must set forth the provisions alleged to have been
+4 violated, the facts alleged to have constituted the violation, and the
+5 requirement that all actions cease forthwith. At any time after service of
+6 the order to cease and desist, The person may request, at the person's
+7 discretion, a prompt hearing to determine whether the violation occurred,
+8 WHICH REQUEST MUST BE MADE WITHIN THIRTY DAYS AFTER ISSUANCE OF
+9 THE ORDER TO CEASE AND DESIST. The hearing shall be conducted
+10 pursuant to article 4 of title 24 and shall be conducted promptly.
+11 SECTION 8. In Colorado Revised Statutes, 35-80-109, add (8)
+12 as follows:
+13 35-80-109. Powers and duties of commissioner - rules.
+14 (8) THE COMMISSIONER SHALL DEVELOP AN ADMINISTRATIVE
+15 PROCESS, NOT INCONSISTENT WITH SECTION 24-4-103 (7), FOR AN
+16 INTERESTED PERSON TO PETITION FOR THE ISSUANCE, AMENDMENT, OR
+17 REPEAL OF A RULE BY THE COMMISSIONER PURSUANT TO THIS ARTICLE 80.
+18 SECTION 9. In Colorado Revised Statutes, 42-3-234, amend
+19 (4)(b) and (4)(c); and add with amended and relocated provisions (7)
+20 as follows:
+21 42-3-234. Special plates - adopt a shelter pet - pet
+22 overpopulation authority - pet overpopulation fund - adopt a shelter
+23 pet account - definitions.
+24 (4) The amount of the taxes and fees for special license plates
+25 under this section is the same as the amount of the taxes and fees
+26 specified for regular motor vehicle license plates; except that the
+27 department shall collect the following fees and donations:
+-9- 1183
+
+1 (b) A one-time, thirty-dollar donation for issuance or replacement
+2 of the license plate, which donation shall be transmitted to the state
+3 treasurer, who shall credit the same to the adopt a shelter pet account in
+4 the pet overpopulation fund created in section 35-80-116.5, C.R.S.
+5 SUBSECTION (7)(f) OF THIS SECTION; and
+6 (c) An annual twenty-five-dollar license plate renewal donation,
+7 which donation shall be transmitted to the state treasurer, who shall credit
+8 the same to the adopt a shelter pet account in the pet overpopulation fund
+9 created in section 35-80-116.5, C.R.S. SUBSECTION (7)(f) OF THIS
+10 SECTION; except that the department and its authorized agents may retain
+11 the portion of the donation necessary to offset implementing this
+12 paragraph (c) SUBSECTION (4)(c), up to a maximum of two dollars.
+13 (7) (a) [Formerly 35-80-116.5 (1)] There is hereby created the
+14 Colorado pet overpopulation authority, also referred to in this section as
+15 the "authority", which shall be IS a body corporate and a political
+16 subdivision of the state. The authority is not an agency of state
+17 government and is not subject to administrative direction by any state
+18 agency. except as provided in this article.
+19 (b) [Formerly 35-80-116.5 (2)] (a) (I) The powers of the
+20 Colorado pet overpopulation authority are vested in a board of directors
+21 consisting of the following:
+22 (I) (A) One representative of the Animal Assistance Foundation
+23 or its successor organization;
+24 (II) (B) One representative of an animal shelter; as defined in
+25 section 35-80-102 (1);
+26 (III) (C) One representative of a state veterinary medical
+27 association;
+-10- 1183
+
+1 (IV) (D) One representative of a Colorado animal control agency;
+2 (V) (E) One representative from the department of agriculture;
+3 (VI) (F) One member from a pet animal rescue; as defined in
+4 section 35-80-102 (11.2);
+5 (VII) (G) One member of the general public who has an interest
+6 in animal welfare who is not a member of a board of any animal welfare
+7 organization;
+8 (VIII) (H) One representative of MEMBER WHO IS FROM WESTERN
+9 COLORADO AND REPRESENTS an animal shelter as defined in section
+10 35-80-102 (1); OR a pet animal rescue as defined in section 35-80-102
+11 (11.2); or IS a veterinary professional registered with the state board of
+12 veterinary medicine; from western Colorado;
+13 (IX) (I) One representative of MEMBER WHO IS FROM EASTERN
+14 COLORADO AND REPRESENTS an animal shelter as defined in section
+15 35-80-102 (1); OR a pet animal rescue as defined in section 35-80-102
+16 (11.2); or IS a veterinary professional registered with the state board of
+17 veterinary medicine; from eastern Colorado;
+18 (X) (J) One representative of MEMBER WHO IS FROM SOUTHERN
+19 COLORADO AND REPRESENTS an animal shelter as defined in section
+20 35-80-102 (1); OR a pet animal rescue, as defined in section 35-80-102
+21 (11.2); or IS a veterinary professional registered with the state board of
+22 veterinary medicine; from southern Colorado; and
+23 (XI) (K) One representative from a pet animal facility licensed
+24 and in good standing pursuant to section 35-80-104 located in a county
+25 with a population of fifty thousand or less.
+26 (b) (II) The commissioner OF AGRICULTURE shall appoint the
+27 board members to three-year terms; except that three of the members
+-11- 1183
+
+1 appointed on September 1, 2001, shall serve an initial term of two years.
+2 Each member shall serve at the pleasure of the commissioner and shall
+3 continue in office until the member's successor is appointed and qualified.
+4 Initial members of the authority shall be appointed no later than
+5 September 1, 2001.
+6 (c) (III) On the expiration of the term of a member of the board,
+7 that member's successor shall be appointed by the commissioner OF
+8 AGRICULTURE for a term of three years; except that, in the case of a
+9 vacancy, the commissioner shall appoint a person AN INDIVIDUAL who
+10 shall serve for the unexpired term.
+11 (c) [Formerly 35-80-116.5 (3)] (a) (I) Each board member shall
+12 meet the following qualifications at the time of appointment and
+13 throughout the member's term of office:
+14 (I) (A) Residency in this state; and
+15 (II) (B) Demonstration of an active interest in the education of the
+16 community regarding the benefits of pet overpopulation control in
+17 Colorado.
+18 (b) (II) The commissioner OF AGRICULTURE shall immediately
+19 declare the office of any member of the board vacant whenever the
+20 commissioner finds that the member is not qualified under this subsection
+21 (3) SUBSECTION (7)(c) or that the member is unable to perform the duties
+22 of the office.
+23 (c) (III) Members shall serve without compensation for any
+24 service provided to the Colorado pet overpopulation authority. Members
+25 shall not receive any reimbursement from the board for any expenses
+26 incurred fulfilling their responsibilities pursuant to this section
+27 SUBSECTION (7).
+-12- 1183
+
+1 (d) (IV) Except as provided in subsection (2)(a)(VII) SUBSECTION
+2 (7)(b)(I)(G) of this section, a board member may be a member of a board
+3 or subcommittee of a board of an animal welfare organization, but no
+4 more than one member of the board may be on the board or subcommittee
+5 of the board of the same animal welfare organization.
+6 (e) (V) A member of the board shall recuse themself from any
+7 board action or vote if they have a conflict of interest in relation to the
+8 board action or vote, including any allocation of funding to the member
+9 made pursuant to this section SUBSECTION (7).
+10 (d) [Formerly 35-80-116.5 (4)] The board may:
+11 (a) (I) Adopt an education program concerning pet overpopulation
+12 with emphasis on the importance of spaying and neutering to control pet
+13 overpopulation;
+14 (b) (II) Develop, adopt, and implement a process to fund and
+15 expend moneys MONEY for the activities and responsibilities of the board.
+16 Funding for the board includes the moneys MONEY available in the pet
+17 overpopulation fund. created in subsection (5) of this section.
+18 (c) (III) Accept gifts, grants, and donations, including personal
+19 services, for the activities and responsibilities of the board. Any gift,
+20 grant, or donation other than personal services shall be deposited into the
+21 pet overpopulation fund. created in subsection (5) of this section.
+22 (d) (IV) Develop, adopt, and implement a cooperative process to
+23 work with local veterinarians, licensed animal shelters, and local
+24 communities concerning animal sheltering and pet overpopulation control
+25 in this state.
+26 (e) [Formerly 35-80-116.5 (4.5)] The board shall annually publish
+27 on the pet overpopulation fund website the name of each grantee
+-13- 1183
+
+1 receiving money from the pet overpopulation fund, the amount of each
+2 grant provided to a grantee, when a grantee received a grant, and the
+3 names of each board member.
+4 (f) [Formerly 35-80-116.5 (5)] (a) (I) Donations collected
+5 pursuant to subsection (4) SUBSECTION (7)(d) of this section and section
+6 39-22-2201 C.R.S., shall be transmitted to the state treasurer and credited
+7 to the pet overpopulation fund, which fund is hereby created in the state
+8 treasury. All interest derived from the deposit and investment of moneys
+9 MONEY in the fund shall be IS credited to the fund.
+10 (b) (II) All unexpended and unencumbered moneys MONEY
+11 remaining in the fund at the end of any STATE fiscal year shall remain
+12 REMAINS in the fund, and DOES not revert back to the general fund or any
+13 other fund, or AND SHALL NOT be used for any purpose other than the
+14 purposes set forth in this section SUBSECTION (7). Such moneys shall be
+15 MONEY IS appropriated continually to the state treasurer, who shall
+16 transfer all available moneys MONEY in the pet overpopulation fund to the
+17 pet overpopulation authority at least quarterly unless the board expressly
+18 requests otherwise. The board shall expend moneys MONEY from the pet
+19 overpopulation fund for the implementation of this section SUBSECTION
+20 (7).
+21 (c) (III) When expending funds MONEY to implement this section
+22 SUBSECTION (7), the Colorado pet overpopulation authority shall give
+23 priority to the areas that have an insufficient number of pet animal
+24 veterinary resources to adequately meet local needs.
+25 (c.5) (IV) At least seventy percent of the money annually awarded
+26 for all grants that are funded by the pet overpopulation fund must be
+27 annually allocated for rural community facilities. The board shall consider
+-14- 1183
+
+1 awarding at least fifty percent of the funds MONEY designated for rural
+2 community facilities to counties with a population of fifty thousand or
+3 less.
+4 (d) (V) There is hereby created in the pet overpopulation fund the
+5 adopt a shelter pet account, which consists of moneys MONEY donated to
+6 qualify for the adopt a shelter pet special license plate pursuant to section
+7 42-3-234, C.R.S. THIS SECTION.
+8 (e) (I) (VI) (A) The authority shall use the money in the adopt a
+9 shelter pet account to support the spaying and neutering and other medical
+10 costs of animals in animal shelters and rescues, to support overpopulation
+11 education programs, and to support the trap-neuter-return established in
+12 subsection (9)(b) SUBSECTION (7)(j)(II) of this section; except that up to
+13 ten percent of the money in the adopt a shelter pet account may be used
+14 for the administration of the account.
+15 (II) (B) The authority must SHALL not favor a particular shelter
+16 model when allocating money from the adopt a shelter pet account.
+17 (g) [Formerly 35-80-116.5 (6)] Except as provided in section
+18 42-3-234, C.R.S. THIS SUBSECTION (7), the Colorado pet overpopulation
+19 authority created pursuant to this section, shall not be funded by or
+20 through any state agency.
+21 (h) [Formerly 35-80-116.5 (7)] Nothing in this section
+22 SUBSECTION (7) shall be construed to authorize the Colorado pet
+23 overpopulation authority to promulgate ADOPT rules to implement this
+24 section SUBSECTION (7).
+25 (i) [Formerly 35-80-116.5 (8)] A pet animal facility applying for
+26 a grant described in subsection (9)(b) SUBSECTION (7)(j)(II) of this section
+27 from the adopt a shelter pet account must be licensed and in good
+-15- 1183
+
+1 standing pursuant to section 35-80-104.
+2 (j) [Formerly 35-80-116.5 (9)] (a) (I) As used in this section
+3 SUBSECTION (7), unless the context otherwise requires:
+4 (I) (A) "Animal welfare facility" means a pet animal facility, as
+5 defined in section 35-80-102 (11); a pet animal rescue, as defined in
+6 section 35-80-102 (11.2); or a spay and neuter organization. as defined in
+7 subsection (9)(a)(V) of this section.
+8 (B) "ANIMAL SHELTER" HAS THE MEANING SET FORTH IN SECTION
+9 35-80-102 (1).
+10 (C) "AUTHORITY" MEANS THE COLORADO PET OVERPOPULATION
+11 AUTHORITY CREATED IN SUBSECTION (7)(a) OF THIS SECTION.
+12 (II) (D) "Community cat" means a free-roaming domestic cat that
+13 may have a caretaker and is not socialized to humans.
+14 (III) (E) "Ear-tipping" means the removal of approximately one
+15 quarter of a community cat's left ear while under anesthesia, which serves
+16 as a visual indicator of sterilization.
+17 (F) "FUND" MEANS THE PET OVERPOPULATION FUND CREATED IN
+18 SUBSECTION (7)(f)(I) OF THIS SECTION.
+19 (G) "PET ANIMAL RESCUE" HAS THE MEANING SET FORTH IN
+20 SECTION 35-80-102 (11.2).
+21 (IV) (H) "Rural community facility" means an animal welfare
+22 facility that is located in a Colorado county with a population of two
+23 hundred thousand or less.
+24 (V) (I) "Spay and neuter organization" means a nonprofit
+25 organization primarily offering spay and neuter services performed by a
+26 licensed veterinarian, as defined in section 35-80-102 (8.7).
+27 (VI) (J) "Trap-neuter-return" means a nonlethal process of
+-16- 1183
+
+1 humanely trapping, sterilizing, vaccinating for rabies, ear-tipping, and
+2 returning community cats to their habitats COMMUNITY CATS.
+3 (b) (II) The authority shall establish a trap-neuter-return funded
+4 by the adopt a shelter pet account. The authority may award money from
+5 the adopt a shelter pet account to animal welfare facilities located in
+6 Colorado to implement trap-neuter-return for the purposes described in
+7 subsection (9)(c) SUBSECTION (7)(j)(III) of this section.
+8 (c) (III) An animal welfare facility awarded money for the
+9 trap-neuter-return is authorized to spend the money only on:
+10 (I) (A) Trapping, sterilizing, vaccinating, and ear-tipping
+11 community cats in Colorado;
+12 (II) (B) Veterinary care for the treatment and sterilization of
+13 community cats in Colorado;
+14 (III) (C) Training for community cat caretakers and animal control
+15 personnel in humane trapping and trap-neuter-return protocols in
+16 Colorado; and
+17 (IV) (D) For An animal welfare facility that is a spay and neuter
+18 organization, veterinary materials and support for mobile clinics in
+19 Colorado.
+20 SECTION 10. In Colorado Revised Statutes, 35-80-102, amend
+21 (6.6) and (6.7) as follows:
+22 35-80-102. Definitions - repeal.
+23 As used in this article 80, unless the context otherwise requires:
+24 (6.6) (a) "Dog breeder, large scale operation" or "large scale
+25 operation dog breeder" means a dog breeder that transfers at least one
+26 hundred dogs per year.
+27 (b) THIS SUBSECTION (6.6) IS REPEALED, EFFECTIVE JANUARY 1,
+-17- 1183
+
+1 2028.
+2 (6.7) (a) "Dog breeder, small scale operation" or "small scale
+3 operation dog breeder" means a dog breeder that transfers more than the
+4 number of dogs permitted for a canine hobby breeder facility but no more
+5 than ninety-nine dogs per year.
+6 (b) THIS SUBSECTION (6.7) IS REPEALED, EFFECTIVE JANUARY 1,
+7 2028.
+8 SECTION 11. Repeal of relocated provisions in this act. In
+9 Colorado Revised Statutes, repeal 35-80-116.5.
+10 SECTION 12. In Colorado Revised Statutes, amend 39-22-2201
+11 as follows:
+12 39-22-2201. Voluntary contribution designation - procedure.
+13 For income tax years commencing on or after January 1, 2010, the
+14 Colorado state individual income tax return form must contain a line
+15 whereby each individual taxpayer may designate the amount of the
+16 contribution, if any, the taxpayer wishes to make to the pet
+17 overpopulation fund created in section 35-80-116.5 (5) SECTION 42-3-234
+18 (7)(f).
+19 SECTION 13. In Colorado Revised Statutes, amend 39-22-2202
+20 as follows:
+21 39-22-2202. Contributions credited to the fund -
+22 administration - transfer.
+23 The department of revenue shall determine annually the total
+24 amount designated pursuant to section 39-22-2201 and shall report the
+25 amount to the state treasurer, who shall credit such amount to the pet
+26 overpopulation fund created in section 35-80-116.5 (5), C.R.S. SECTION
+27 42-3-234 (7)(f). The general assembly shall appropriate annually from the
+-18- 1183
+
+1 pet overpopulation fund to the department the department's costs of
+2 administering the moneys MONEY designated as contributions to the fund.
+3 After subtracting the appropriation to the department, all designated
+4 moneys MONEY in the fund are hereby IS continuously appropriated for
+5 the purposes of this part 22. At the end of each STATE fiscal year, the state
+6 treasurer shall transfer all designated moneys MONEY in the fund and all
+7 interest earned through the investment of fund moneys MONEY, after
+8 subtracting the appropriation to the department, as specified in section
+9 35-80-116.5 (5)(b), C.R.S. SECTION 42-3-234 (7)(f)(II).
+10 SECTION 14. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-19- 1183

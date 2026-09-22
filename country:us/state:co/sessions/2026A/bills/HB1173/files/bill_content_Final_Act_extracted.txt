@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 26-1173
+BY REPRESENTATIVE(S) Sirota, Brown, Taggart, Duran, Paschal,
+Weinberg, McCluskie;
+also SENATOR(S) Bridges, Amabile, Kirkmeyer.
+CONCERNING FUNDING FOR CAPITAL CONSTRUCTION INFORMATION
+TECHNOLOGY, AND MAKING SUPPLEMENTAL APPROPRIATIONS IN
+CONNECTION THEREWITH.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Capital construction information technology
+appropriations for the fiscal year beginning July 1, 2025. In Session
+Laws of Colorado 2025, amend section 4 of chapter 476, (SB 25- 206), as
+follows:
+Section 4. Capital Construction Information Technology
+Appropriation.
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+PART I
+STATE AGENCIES
+(1) DEPARTMENT OF CORRECTIONS
+Offender Records Management 3,023,613 3,023,613
+Pharmacy System Replacement 1,467,321 1,208,710 258,611a
+4,490,934
+a This amount shall be from the Medications for Opioid Use Disorder (OUD) and Medicaid Care Coordination in DOC Facilities Grant.
+(2) DEPARTMENT OF EARLY CHILDHOOD
+Child Care Assistance Program 1,781,556 194,190a 1,587,366b
+a This amount shall be from local funds and reflects the local share of costs of administering the Child Care Assistance Program and the local share of child care subsidies. The (L)
+and the (I) notation apply to this amount.
+b This amount shall be from Child Care Development Funds.
+(3) DEPARTMENT OF EDUCATION
+School Finance System
+Modernization 3,000,000 3,000,000
+Statewide Facility Assessments 1,470,000 1,470,000a
+4,470,000
+a This amount shall be from the Public School Capital Construction Assistance Fund created in Section 22-43.7-104 (1), C.R.S.
+(4) DEPARTMENT OF HEALTH CARE POLICY AND FINANCING
+Colorado Benefits Management
+System Reprocurement 4,784,276 897,817 3,886,459(I)
+PAGE 2-HOUSE BILL 26-1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+Social Health Information
+Exchange Project 8,139,343 1,203,920 6,935,423(I)
+12,923,619
+(5) JUDICIAL DEPARTMENT
+Courts & Probation Case
+Management System 4,728,771 4,728,771a
+a This amount shall be from the Judicial Department Information Technology Cash Fund created in Section 13-32-114 (1), C.R.S.
+(6) DEPARTMENT OF LABOR AND EMPLOYMENT
+CoCo Replacement System 12,140,213 12,140,213a
+a This amount shall be from the Major Medical Insurance Fund created in Section 8-46-202 (1)(a), C.R.S., the Subsequent Injury Fund created in Section 8-46-101 (1)(b)(I), C.R.S.,
+or the Workers' Compensation Cash Fund created in Section 8-44-112 (7)(a), C.R.S.
+(7) DEPARTMENT OF NATURAL RESOURCES
+Colorado Oil and Gas Information
+System 2,000,535 2,000,535a
+a This amount shall be from Energy and Carbon Management Cash Fund created in Section 24-60-122 (5)(a), C.R.S.
+(8) DEPARTMENT OF PERSONNEL
+Payroll Modernization 13,731,158 13,731,158
+OAC Court Management System 3,375,426 3,375,426a
+Statewide Procurement System 1,420,957 1,420,957b
+18,527,541
+a This amount shall be from the Administrative Courts Cash Fund created in Section 24-30-1001 (3), C.R.S.
+b This amount shall be from the Supplier Database Cash Fund created in Section 24-102-202.5 (2)(a), C.R.S.
+PAGE 3-HOUSE BILL 26-1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+(9) DEPARTMENT OF PUBLIC HEALTH
+Stationary Sources Modernization 2,000,000 2,000,000
+Colorado WIC System Upgrade 1,933,648 581,657 1,351,991(I)
+3,933,648
+(10) DEPARTMENT OF PUBLIC SAFETY
+Records Utilization Upgrade 1,635,581 1,635,581
+Colorado Gang Database 250,000 250,000
+COLORADO CRIME INFORMATION
+CENTER FBI SYSTEM COMPLIANCE 735,000 735,000a
+1,885,581
+2,620,581
+a THIS AMOUNT SHALL BE FROM THE COLORADO BUREAU OF INVESTIGATION IDENTIFICATION UNIT FUND CREATED IN SECTION 24-33.5-426, C.R.S.
+(11) DEPARTMENT OF REVENUE
+MED Seed to Sale Tracking 2,980,000 2,980,000
+(12) DEPARTMENT OF HUMAN SERVICES
+REIMAGINING COLORADO'S
+BENEFITS ELIGIBILITY SYSTEM 19,462,080 7,363,145 12,098,935(I)
+69,862,398
+90,059,478
+TOTALS PART I
+(STATE AGENCIES) $69,862,398 $30,512,456 $21,954,666 $3,634,037 $13,761,239
+$90,059,478 $37,875,601 $22,689,666 $25,860,174
+PAGE 4-HOUSE BILL 26-1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+PART II
+INSTITUTIONS OF HIGHER EDUCATION
+(1) DEPARTMENT OF HIGHER EDUCATION
+(A) Auraria Higher Education Center
+Network Infrastructure
+Modernization 3,457,666 3,457,666
+(B) Northwestern Community College
+South Campus Redundancy
+Upgrade 571,163 571,163
+4,028,829
+TOTALS PART II
+(INSTITUTIONS OF HIGHER
+EDUCATION) $4,028,829 $4,028,829
+GRAND TOTALS
+(INFORMATION
+TECHNOLOGY PROJECTS) $73,891,227 $34,541,285 $21,954,666 $3,634,037 $13,761,239a
+$94,088,307 $41,904,430 $22,689,666 $25,860,174a
+a This amount contains an (I) notation.
+PAGE 5-HOUSE BILL 26-1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+SECTION 2. Capital construction information technology appropriations for the fiscal year beginning July 1, 2024. In Session Laws of Colorado 2024, section 4 of
+chapter 519, (HB 24-1430), amend Part I (3), Part II (1)(B), and the affected totals, as Part I and the affected totals are amended by Session Laws of Colorado 2025, section 1 of chapter
+475, (SB 25-112), as follows:
+Section 4. Capital Construction Information Technology Appropriation.
+PART I
+STATE AGENCIES
+(3) DEPARTMENT OF HUMAN SERVICES
+Leveraging Technology for
+Seamless Human Services 16,516,500 3,716,625 12,799,875(I)
+Office of Civil and Forensic Mental
+Health Information Management
+Systems & Data Reporting 2,205,218 2,205,218
+18,721,718
+TOTALS PART I
+(STATE AGENCIES) $140,817,018 $69,072,489 $13,186,812 $276,088 $58,281,629
+$124,300,518 $65,355,864 $45,481,754
+PART II
+INSTITUTIONS OF HIGHER EDUCATION
+(1) DEPARTMENT OF HIGHER EDUCATION
+(B) Metropolitan State University
+Reimagining the Campus Digital
+Experience 9,256,163 8,406,163 850,000a
+11,706,163 3,300,000a
+PAGE 6-HOUSE BILL 26-1173
+
+APPROPRIATION FROM
+ITEM & TOTAL CAPITAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL CONSTRUCTION FUNDS FUNDS FUNDS
+FUND
+$ $ $ $ $ $
+a This amount shall be from unrestricted institutional reserves.
+TOTALS PART II
+(INSTITUTIONS OF HIGHER
+EDUCATION) $18,833,302 $17,764,180 $1,069,122
+$21,283,302 $3,519,122
+GRAND TOTALS
+(INFORMATION
+TECHNOLOGY PROJECTS) $159,650,320 $86,836,669 $14,255,934 $276,088 $58,281,629a
+$145,583,820 $83,120,044 $16,705,934 $45,481,754a
+a This amount contains an (I) notation.
+PAGE 7-HOUSE BILL 26-1173
+
+SECTION 3. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 8-HOUSE BILL 26-1173
