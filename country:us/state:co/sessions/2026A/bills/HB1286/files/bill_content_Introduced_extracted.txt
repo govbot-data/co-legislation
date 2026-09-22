@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0333.01 Jery Payne x2157 HOUSE BILL 26-1286
+HOUSE SPONSORSHIP
+Lieder and Richardson, Bacon, Barron, Brown, Camacho, Carter, Clifford, Duran, Feret,
+Flanell, Froelich, Garcia, Garcia Sander, Goldstein, Hamrick, Hartsook, Jackson, Joseph,
+Lukens, Mabrey, Martinez, Mauro, Nguyen, Paschal, Ricks, Rutinel, Rydin, Slaugh, Smith,
+Soper, Titone, Velasco, Willford, Winter T., Woodrow, Woog, Zokaie
+SENATE SPONSORSHIP
+Kolker and Liston,
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING A REQUIREMENT THAT A COMMERCIAL MOTOR VEHICLE
+102 HAVE A HUMAN PRESENT WHEN THE COMMERCIAL MOTOR
+103 VEHICLE IS BEING DRIVEN BY AN AUTOMATED DRIVING SYSTEM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits using an automated driving system to drive a
+commercial motor vehicle unless an individual who holds a commercial
+driver's license is in the vehicle, monitors the vehicle's driving, and
+intervenes, if necessary, to avoid illegal or unsafe driving. If the
+commercial vehicle is transporting hazardous materials, the individual
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+must be in the driver's seat. The penalty is $1,000 for a first offense, is
+$2,000 for a second offense, and doubles for each subsequent offense.
+The bill does not apply to a light-duty vehicle or a truck-mounted
+attenuator.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 42-4-242, amend (1)
+3 as follows:
+4 42-4-242. Automated driving systems - safe harbor.
+5 (1) SUBJECT TO SECTION 42-2-410, a person may use an automated
+6 driving system to drive a motor vehicle or to control a function of a motor
+7 vehicle if the system is capable of complying with every state and federal
+8 law that applies to the function that the system is operating.
+9 SECTION 2. In Colorado Revised Statutes, add 42-2-410 as
+10 follows:
+11 42-2-410. Automated driving systems for commercial motor
+12 vehicles - exceptions - definitions.
+13 (1) A PERSON SHALL NOT USE AN AUTOMATED DRIVING SYSTEM ON
+14 A HIGHWAY TO DRIVE A COMMERCIAL MOTOR VEHICLE UNLESS AN
+15 INDIVIDUAL WHO HOLDS A COMMERCIAL DRIVER'S LICENSE:
+16 (a) IS PHYSICALLY PRESENT IN THE COMMERCIAL MOTOR VEHICLE;
+17 (b) IS SEATED IN THE DRIVER'S SEAT OF THE COMMERCIAL MOTOR
+18 VEHICLE IF HAZARDOUS MATERIALS ARE BEING TRANSPORTED;
+19 (c) MONITORS THE PERFORMANCE OF THE COMMERCIAL MOTOR
+20 VEHICLE WHILE DRIVING ON THE ROADWAY; AND
+21 (d) INTERVENES, IF NECESSARY, TO AVOID ILLEGAL OR UNSAFE
+22 DRIVING OF THE COMMERCIAL MOTOR VEHICLE.
+23 (2) THIS SECTION DOES NOT AFFECT THE DUTY OF A PERSON TO
+-2- HB26-1286
+
+1 COMPLY WITH PART 3 OF ARTICLE 20 OF THIS TITLE 42.
+2 (3) A PERSON THAT VIOLATES THIS SECTION COMMITS A CLASS A
+3 TRAFFIC INFRACTION AND IS SUBJECT TO THE PENALTIES SET FORTH IN
+4 SECTION 42-4-1701 (4)(a)(I)(A) AND (4)(g).
+5 (4) THIS SECTION DOES NOT APPLY TO A LIGHT-DUTY VEHICLE OR
+6 A TRUCK-MOUNTED ATTENUATOR.
+7 (5) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+8 REQUIRES:
+9 (a) "COMMERCIAL MOTOR VEHICLE" HAS THE SAME MEANING AS
+10 "COMMERCIAL VEHICLE" AS SET FORTH IN SECTION 42-4-235 (1)(a).
+11 (b) "TRUCK-MOUNTED ATTENUATOR" MEANS A HEAVY-DUTY
+12 TRUCK FITTED WITH AN ENERGY-ABSORBING CRASH DEVICE THAT ACTS AS
+13 A MOBILE BARRIER TO BE THE FIRST POINT OF CONTACT IN A REAR-END
+14 COLLISION AND THAT IS USED TO PROTECT PERSONNEL IN A HIGHWAY
+15 CONSTRUCTION OR MAINTENANCE ZONE.
+16 SECTION 3. In Colorado Revised Statutes, 42-4-1701, amend
+17 (4)(a)(I)(A); and add (4)(g) as follows:
+18 42-4-1701. Traffic offenses and infractions classified -
+19 penalties - penalty and surcharge schedule - repeal.
+20 (4) (a) (I) Except as provided in subsection (5)(c) of this section,
+21 every person who is convicted of, who admits liability for, or against
+22 whom a judgment is entered for a violation of this title 42 to which
+23 subsection (5)(a) or (5)(b) of this section applies shall be fined or
+24 penalized and have a surcharge levied in accordance with sections
+25 24-4.1-119 (1)(f) and 24-4.2-104 (1)(b)(I), in accordance with the penalty
+26 and surcharge schedule set forth in subsections (4)(a)(I)(A) to (4)(a)(I)(S)
+27 of this section; or, if no penalty or surcharge is specified in the schedule,
+-3- HB26-1286
+
+1 the penalty for class A and class B traffic infractions is fifteen dollars,
+2 and the surcharge is four dollars. These penalties and surcharges apply
+3 whether the defendant acknowledges the defendant's guilt or liability in
+4 accordance with the procedure set forth by subsection (5)(a) of this
+5 section, is found guilty by a court of competent jurisdiction, or has
+6 judgment entered against the defendant by a county court magistrate.
+7 Penalties and surcharges for violating specific sections are as follows:
+8 Section Violated Penalty Surcharge
+9 (A) Driver's license violations:
+10 42-2-101 $ 35.00 $ 10.00
+11 42-2-101 (2), (3), or (5) 15.00 6.00
+12 42-2-103 15.00 6.00
+13 42-2-105 70.00 10.00
+14 42-2-105.5 (4) 65.00 10.00
+15 42-2-106 70.00 10.00
+16 42-2-115 35.00 10.00
+17 42-2-116 (6)(a) 30.00 6.00
+18 42-2-119 15.00 6.00
+19 42-2-134 35.00 10.00
+20 42-2-136 35.00 10.00
+21 42-2-138 100.00 15.00
+22 42-2-139 35.00 10.00
+23 42-2-140 35.00 10.00
+24 42-2-141 35.00 10.00
+25 42-2-204 70.00 10.00
+26 42-2-404 100.00 15.00
+27 42-2-410 1,000.00 150.00
+-4- HB26-1286
+
+1 (g) THE PENALTY FOR A SECOND CONVICTION FOR VIOLATING
+2 SECTION 42-2-410 IS TWO THOUSAND DOLLARS, AND THE PENALTY FOR
+3 VIOLATING SECTION 42-2-410 DOUBLES FOR EACH SUBSEQUENT
+4 CONVICTION.
+5 SECTION 4. Applicability. This act applies to offenses
+6 committed on or after the effective date of this act.
+7 SECTION 5. Refer to people under referendum. At the
+8 election held on November 3, 2026, the secretary of state shall submit this
+9 act by its ballot title to the registered electors of the state for their
+10 approval or rejection. Each elector voting at the election may cast a vote
+11 either "Yes/For" or "No/Against" on the following ballot title: "Shall
+12 there be a change to the Colorado Revised Statutes creating new law to
+13 prohibit the use of an automated driving system on a highway to drive a
+14 commercial motor vehicle unless an individual who holds a commercial
+15 driver's license is physically present in the commercial motor vehicle, is
+16 seated in the driver's seat of the commercial motor vehicle while
+17 hazardous materials are being transported, monitors the performance of
+18 the commercial motor vehicle while driving on the roadway, and
+19 intervenes, if necessary, to avoid illegal or unsafe driving of the
+20 commercial motor vehicle?" Except as otherwise provided in section
+21 1-40-123, Colorado Revised Statutes, if a majority of the electors voting
+22 on the ballot title vote "Yes/For", then the act will become part of the
+23 Colorado Revised Statutes.
+-5- HB26-1286

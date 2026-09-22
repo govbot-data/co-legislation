@@ -1,0 +1,901 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0627.01 Craig Harper x3481 HOUSE BILL 26-1151
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT
+102 OF CORRECTIONS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Supplemental appropriations are made to the department of
+corrections.
+1 Be it enacted by the General Assembly of the State of Colorado:
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+6202
+,91
+yraurbeF
+6202
+,21
+yraurbeF
+6202
+,11
+yraurbeF
+HOUSE SPONSORSHIP
+Sirota, Brown, Taggart, Camacho, Duran
+SENATE SPONSORSHIP
+Bridges, Amabile, Kirkmeyer
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 SECTION 1. Appropriation to the department of corrections
+2 for the fiscal year beginning July 1, 2025. In Session Laws of Colorado
+3 2025, section 2 of chapter 476, (SB 25-206), amend Part II as follows:
+4 Section 2. Appropriation.
+-2- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 PART II
+2 DEPARTMENT OF CORRECTIONS
+3
+4 (1) MANAGEMENT
+5 (A) Executive Director's Office Subprogram
+6 Personal Services 5,119,487 4,875,682 243,805a
+7 (42.0 FTE) (4.0 FTE)
+8 Restorative Justice Program
+9 with Victim-Offender
+10 Dialogues in Department
+11 Facilities 75,000 75,000
+12 (1.2 FTE)
+13 Health, Life, and Dental 86,488,753 85,276,960 1,211,793b
+14 88,748,979 87,502,118 1,246,861b
+15 Short-term Disability 305,745 301,791 3,954b
+-3- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Paid Family and Medical
+2 Leave Insurance 2,022,137 1,996,453 25,684b
+3 Unfunded Liability
+4 Amortization Equalization
+5 Disbursement Payments 44,373,237 43,808,406 564,831b
+6 Salary Survey 12,444,682 12,289,437 155,245b
+7 Step Pay 2,965,421 2,940,413 25,008b
+8 PERA Direct Distribution 9,667,386 9,546,194 121,192b
+9 Overtime 33,313,135 33,313,135
+10 Incentives and Bonuses 5,541,726 5,541,726
+11 Shift Differential 22,273,865 22,243,777 30,088b
+12 Workers' Compensation 7,995,368 7,813,873 181,495b
+13 Operating Expenses 411,709 321,709 5,000a 85,000(I)c
+14 Legal Services 3,735,644d 3,651,444 84,200b
+-4- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Payment to Risk Management
+2 and Property Funds 11,668,124 11,403,258 264,866b
+3 Leased Space 6,805,610 6,621,708 183,902b
+4 Annual Depreciation-Lease
+5 Equivalent Payments 659,571 659,571
+6 Planning and Analysis
+7 Contracts 82,410 82,410
+8 Payments to District
+9 Attorneys 681,102 681,102
+10 Payments to Coroners 32,175 32,175
+11 Digital Trunk Radio Payments 2,535,420 2,535,420
+12 ADDITIONAL PRISON
+13 CAPACITY - PERSONAL
+14 SERVICES 1,367,765 1,367,765
+-5- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 ADDITIONAL PRISON
+2 CAPACITY - OPERATING
+3 EXPENSES 502,859 502,859
+4 ADDITIONAL PRISON
+5 CAPACITY - FACILITY
+6 START-UP 288,742 288,742
+7 ADDITIONAL PRISON
+8 CAPACITY - PERSONNEL
+9 START-UP 201,055 201,055
+10 259,197,707
+11 263,818,354
+12
+13 a These amounts shall be transferred from the Department of Public Safety from the State Victims Assistance and Law Enforcement Program line item appropriation in the Victims
+14 Assistance section of the Division of Criminal Justice. These amounts originate as cash funds from the Victims Assistance and Law Enforcement Fund created in Section 24-33.5-506
+15 (1), C.R.S.
+-6- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b Of these amounts, an estimated $2,149,751 $2,176,543 is from sales revenues earned by Correctional Industries, an estimated $685,199 $693,475 is from sales revenues earned by the
+2 Canteen Operation, and $17,308 shall be from the Broadband Infrastructure Cash Fund created in Section 17-1-168 (1), C.R.S.
+3 c This amount shall be from the Social Security Administration Incentive Payment Memorandum of Understanding.
+4 d Of this amount, $3,714,898 shall be used to purchase legal services from the Department of Law and $20,746 shall be used to contract for legal services from private firms for
+5 litigation related to the Rifle Correctional Center.
+6
+7 (B) External Capacity Subprogram
+8 (1) Private Prison Monitoring Unit
+9 Personal Services 1,139,368 1,139,368
+10 (12.7 FTE)
+11 Operating Expenses 183,443 153,976 29,467a
+12 1,322,811
+13
+14 a This amount shall be from revenues earned from monitoring private Colorado prisons that house out-of-state offenders.
+15
+-7- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (2) Payments to House State Prisoners6
+2 Payments to local jails at a
+3 rate of $77.16 per inmate per
+4 day 7,406,975 7,406,975
+5 10,738,785 10,738,785
+6 Payments to in-state private
+7 prisons at a rate of $66.52 per
+8 inmate per day 71,722,529 68,829,143 2,893,386a
+9 74,501,003 71,607,617
+10 Inmate Education and Benefit
+11 Programs at In-state Private
+12 Prisons 541,566 541,566
+13 79,671,070
+14 85,781,354
+15
+-8- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a This amount shall be from the State Criminal Alien Assistance Program Cash Fund created in Section 17-1-107.5 (1), C.R.S.
+2
+3 (C) Inspector General Subprogram
+4 Personal Services 5,338,153 5,231,920 106,233a
+5 (50.8 FTE)
+6 Operating Expenses 473,922 390,735 83,187a
+7 Inspector General Grants 207,912 207,912(I)
+8 6,019,987
+9
+10 a These amounts shall be from revenues earned from private prison out of state offender investigations.
+11
+12 346,211,575
+13 356,942,506
+14
+-9- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (2) INSTITUTIONS
+2 (A) Utilities Subprogram
+3 Personal Services 396,312 396,312
+4 (3.0 FTE)
+5 Core Utilities7 21,490,472 20,000,000 1,490,472a
+6 Energy Conservation and
+7 Operating Expenses7 4,227,975 4,227,975
+8 26,114,759
+9
+10 a This amount shall be from sales revenues earned by Correctional Industries.
+11
+12 (B) Maintenance Subprogram
+13 Personal Services 25,274,817 25,274,817
+14 (293.2 FTE)
+15 (293.5 FTE)
+-10- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Operating Expenses 11,138,111 11,138,111
+2 Broadband Installation 4,482,661 4,482,661a
+3 Maintenance Pueblo Campus 3,023,427 3,023,427
+4 43,919,016
+5
+6 a This amount shall be from the Broadband Infrastructure Cash Fund created in Section 17-1-168 (1), C.R.S.
+7
+8 (C) Housing and Security Subprogram
+9 Personal Services 211,487,305 211,487,305
+10 (3,038.8 FTE)
+11 (3,050.7 FTE)
+12 Operating Expenses 2,128,842 2,128,842
+13 213,616,147
+14
+-11- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (D) Food Service Subprogram
+2 Personal Services 22,409,896 22,409,896
+3 (318.8 FTE)
+4 (319.1 FTE)
+5 Operating Expenses 21,703,298 21,703,298
+6 22,323,769 22,323,769
+7 Food Service Pueblo Campus 3,210,975 3,210,975
+8 47,324,169
+9 47,944,640
+10
+11 (E) Medical Services Subprogram8
+12 Personal Services 49,380,661 49,058,572 322,089a
+13 (409.2 FTE) (3.0 FTE)
+14 Operating Expenses 2,650,854 2,650,854
+-12- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Purchase of Pharmaceuticals 17,897,763 17,897,763
+2 21,373,778 21,373,778
+3 Hepatitis C Treatment Costs 10,992,267 10,992,267
+4 External Medical Services 65,374,875 65,374,875
+5 74,416,498 74,416,498
+6 Transgender Healthcare 5,317,500 5,317,500
+7 1,636,400 1,636,400
+8 Service Contracts 2,745,978 2,745,978
+9 12,515,757 12,515,757
+10 Indirect Cost Assessment 772 772a
+11 154,360,670
+12 172,966,987
+13
+14 a These amounts shall be from inmate medical fees collected pursuant to Section 17-1-113 (2), C.R.S.
+-13- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2
+3 (F) Laundry Subprogram
+4 Personal Services 3,078,555 3,078,555
+5 (38.4 FTE)
+6 Operating Expenses 2,442,923 2,442,923
+7 5,521,478
+8
+9 (G) Superintendents Subprogram
+10 Personal Services 14,148,833 14,148,833
+11 (168.9 FTE)
+12 Operating Expenses 6,054,207 6,054,207
+13 Inmate Telephone Calls 1,434,634 1,434,634
+14 1,467,149 1,467,149
+-14- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Dress Out 1,006,280 1,006,280
+2 606,280 606,280
+3 Start-up costs 2,050 2,050
+4 22,646,004
+5 22,278,519
+6
+7 (H) Youthful Offender System Subprogram
+8 Personal Services 13,278,618 13,278,618
+9 (162.7 FTE)
+10 Operating Expenses 607,455 607,455
+11 Contract Services 28,820 28,820
+12 Maintenance and Food
+13 Service 1,330,967 1,330,967
+14 15,245,860
+15
+-15- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2
+3 (I) Case Management Subprogram
+4 Personal Services 20,526,974 20,526,974
+5 (244.7 FTE)
+6 (246.5 FTE)
+7 Operating Expenses 178,791 178,791
+8 Offender ID Program 367,884 367,884
+9 21,073,649
+10
+11 (J) Mental Health Subprogram
+12 Personal Services 14,816,164 14,816,164
+13 (168.0 FTE)
+14 Operating Expenses 331,766 331,766
+-16- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Medical Contract Services 6,530,649 6,530,649
+2 6,777,166 6,777,166
+3 21,678,579
+4 21,925,096
+5
+6 (K) Inmate Pay Subprogram 5,099,947 5,099,947
+7
+8 (L) Legal Access Subprogram
+9 Personal Services 1,964,751 1,964,751
+10 (27.4 FTE)
+11 Operating Expenses 803,777 803,777
+12 Contract Services 70,905 70,905
+13 2,839,433
+-17- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 579,439,711
+3 598,545,531
+4
+5 (3) SUPPORT SERVICES
+6 (A) Business Operations Subprogram
+7 Personal Services 7,682,295 6,716,550 56,609a 909,136b
+8 (90.8 FTE) (13.8 FTE)
+9 Operating Expenses 231,951 231,951
+10 Business Operations Grants 2,500,000 2,500,000(I)
+11 Indirect Cost Assessment 415,746 415,746(I)
+12 10,829,992
+13
+14 a This amount shall be from restitution collected pursuant to Section 16-18.5-109 (3), C.R.S.
+-18- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b Of this amount, $710,061 shall be from departmental indirect cost recoveries or the Indirect Costs Excess Recovery Fund created in Section 24-75-1401 (2), C.R.S., and $199,075 shall
+2 be from statewide indirect cost recoveries.
+3
+4 (B) Personnel Subprogram
+5 Personal Services 2,450,773 2,450,773
+6 (32.3 FTE)
+7 Operating Expenses 438,461 438,461
+8 2,889,234
+9
+10 (C) Offender Services Subprogram
+11 Personal Services 3,774,639 3,774,639
+12 (44.1 FTE)
+13 Operating Expenses 239,367 239,367
+14 4,014,006
+15
+-19- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 (D) Communications Subprogram
+3 Operating Expenses 1,688,024 1,688,024
+4 Dispatch Services 328,510 328,510
+5 2,016,534
+6
+7 (E) Transportation Subprogram
+8 Personal Services 2,682,955 2,682,955
+9 (41.0 FTE)
+10 Operating Expenses 483,538 483,538
+11 Vehicle Lease Payments 4,568,540 3,897,297 671,243a
+12 4,306,893 3,659,055 647,838a
+13 7,735,033
+14 7,473,386
+-20- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 a Of this amount, an estimated $567,168 $554,015 is from sales revenues earned by Correctional Industries and an estimated $104,075 $93,823 is from sales revenues earned by the
+3 Canteen Operation.
+4
+5 (F) Training Subprogram
+6 Personal Services 2,756,826 2,756,826
+7 (33.0 FTE)
+8 Operating Expenses 2,841,284 2,841,284
+9 5,598,110
+10
+11 (G) Information Systems Subprogram
+12 Operating Expenses 1,403,409 1,403,409
+13 Payments to OIT 35,065,379 34,918,724 146,655a
+14 34,535,208 34,400,164 135,044a
+-21- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 CORE Operations 72,316 65,447 3,499a 3,370b
+2 36,541,104
+3 36,010,933
+4
+5 a Of these amounts, an estimated $115,775 $106,904 is from Correctional Industries sales to non-state entities and an estimated $34,379 $31,639 is from sales revenues earned by the
+6 Canteen Operation.
+7 b This amount shall be from Correctional Industries sales to other state agencies.
+8
+9 (H) Facility Services Subprogram
+10 Personal Services 1,474,278 1,474,278
+11 (16.0 FTE)
+12 Operating Expenses 94,413 94,413
+13 Start-up costs 1,000 1,000
+14 1,569,691
+-22- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 71,193,704
+3 70,401,886
+4
+5 (4) INMATE PROGRAMS
+6 (A) Labor Subprogram
+7 Personal Services 6,052,312 6,052,312
+8 (75.4 FTE)
+9 Operating Expenses 88,017 88,017
+10 6,140,329
+11
+12
+13
+14
+-23- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (B) Education Subprogram
+2 Personal Services 16,530,768 16,530,768
+3 (193.5 FTE)
+4 (194.3 FTE)
+5 Operating Expenses 4,396,924 2,850,944 1,257,065a 288,915b
+6 Contract Services 1,221,428 1,221,428
+7 Education Grants 80,060 10,000c 42,410d 27,650(I)
+8 (2.0 FTE)
+9 22,229,180
+10
+11 a Of this amount, an estimated $726,707 is from sales revenues earned by the Canteen Operation and an estimated $530,358 is from sales revenues earned by vocational programs.
+12 b This amount shall be from sales revenues earned by vocational programs for products and services sold to other government agencies.
+13 c This amount shall be from gifts, grants, and donations.
+14 d This amount shall be from the Colorado Department of Education from special education funds.
+-24- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 (C) Recreation Subprogram
+3 Personal Services 8,732,328 8,732,328
+4 (119.5 FTE)
+5 Operating Expenses 77,552 77,552a
+6 8,809,880
+7
+8 a This amount shall be from sales revenues earned by the Canteen Operation.
+9
+10 (D) Drug and Alcohol Treatment Subprogram
+11 Personal Services 6,871,911 6,871,911
+12 (87.4 FTE)
+13 Operating Expenses 117,884 117,884
+14 Contract Services 2,312,251 2,312,251
+-25- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Treatment Grants 126,682 126,682a
+2 9,428,728
+3
+4 a This amount shall be from grant funds appropriated to the Division of Criminal Justice in the Department of Public Safety.
+5
+6 (E) Sex Offender Treatment Subprogram
+7 Personal Services 3,860,164 3,828,930 31,234a
+8 (55.8 FTE) (1.0 FTE)
+9 Operating Expenses 92,276 91,776 500a
+10 Polygraph Testing 242,500 242,500
+11 Sex Offender Treatment
+12 Grants 65,597 65,597(I)
+13 4,260,537
+14
+15 a These amounts shall be from the Sex Offender Surcharge Fund created in Section 18-21-103 (3), C.R.S.
+-26- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 (F) Volunteers Subprogram
+3 Personal Services 546,043 546,043
+4 (8.0 FTE)
+5 Operating Expenses 17,912 17,912
+6 563,955
+7
+8 51,432,609
+9
+10 (5) COMMUNITY SERVICES
+11 (A) Parole Subprogram
+12 Personal Services 24,154,269 24,154,269
+13 (326.5 FTE)
+14 Operating Expenses 2,875,425 2,875,425
+-27- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Parolee Supervision and
+2 Support Services 8,911,261 4,847,969 4,063,292a
+3 Wrap-Around Services
+4 Program 1,822,869 1,822,869
+5 Insurance Payments 25,000 25,000
+6 Grants to Community-based
+7 Organizations for Parolee
+8 Support 7,176,734 7,176,734
+9 Community-based
+10 Organizations Housing
+11 Support 500,000 500,000
+12 Parolee Housing Support 500,000 500,000
+13 45,965,558
+14
+-28- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a This amount shall be transferred from the Judicial Department from the Correctional Treatment Cash Fund Expenditures line item appropriation in the Probation and Related Services
+2 section.
+3
+4 (B) Community Supervision Subprogram
+5 (1) Community Supervision
+6 Personal Services 4,979,435 4,979,435
+7 (48.0 FTE)
+8 Operating Expenses 505,042 505,042
+9 Psychotropic Medication 31,400 31,400
+10 Community Supervision
+11 Support Services 2,394,092 2,353,744 40,348a
+12 7,909,969
+13
+14 a This amount shall be transferred from the Department of Public Safety, Division of Criminal Justice, Offender Treatment and Services.
+15
+-29- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (2) Youthful Offender System Aftercare
+2 Personal Services 643,692
+3 (8.0 FTE)
+4 Operating Expenses 141,067
+5 Contract Services 897,584
+6 1,682,343 1,682,343
+7
+8 (C) Community Re-entry Subprogram
+9 Personal Services 3,046,885 3,046,885
+10 (42.6 FTE)
+11 Operating Expenses 146,702 146,702
+12 Offender Emergency
+13 Assistance 96,768 96,768
+14 Contract Services 190,000 190,000
+-30- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Offender Re-employment
+2 Center 100,000 100,000
+3 Community Reintegration
+4 Grants 39,098 39,098(I)
+5 (1.0 FTE)
+6 3,619,453
+7
+8 59,177,323
+9
+10 (6) PAROLE BOARD
+11 Personal Services 2,101,133 2,101,133
+12 (20.5 FTE)
+13 Operating Expenses 107,890 107,890
+14 Contract Services 242,437 242,437
+-31- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Administrative and IT
+2 Support 187,236 187,236
+3 (2.0 FTE)
+4 2,638,696
+5
+6 (7) CORRECTIONAL INDUSTRIES
+7 Personal Services 12,879,733 5,053,878a 7,825,855b
+8 8,209,428 3,221,297a 4,988,131b
+9 (4.1 FTE) (102.9 FTE)
+10 Operating Expenses 5,846,798 1,546,956a 4,299,842b
+11 7,196,335 1,904,019a 5,292,316b
+12 Raw Materials 30,547,207 6,055,860a 24,491,347b
+13 16,953,458 3,360,954a 13,592,504b
+14 Inmate Pay 2,750,000 1,114,590a 1,635,410b
+15 3,766,231 1,526,474a 2,239,757b
+-32- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Capital Outlay 1,219,310 309,259a 910,051b
+2 Indirect Cost Assessment 388,282 109,224a 279,058b
+3 53,631,330
+4 37,733,044
+5
+6 a Of these amounts, an estimated $14,039,767 $10,281,227 is from sales revenues earned by Correctional Industries and an estimated $150,000 is from rents and royalties earned on
+7 Penitentiary Trust land managed by the State Board of Land Commissioners pursuant to Section 36-1-116 (2), C.R.S.
+8 b Of these amounts, an estimated $25,015,845 $12,876,099 is from sales to other state agencies and an estimated $14,425,718 is from the Department of Revenue for the purchase of
+9 license plates.
+10
+11 (8) CANTEEN OPERATION
+12 Personal Services 2,761,622
+13 (33.0 FTE)
+14 Operating Expenses 18,930,041
+15 Inmate Pay 73,626
+-33- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Indirect Cost Assessment 104,619
+2 21,869,908 21,869,908(I)a
+3
+4 a This amount shall be from sales revenues earned by the Canteen Operation and is continuously appropriated to the division pursuant to Section 17-24-126 (1), C.R.S.
+5
+6
+7 TOTALS PART II
+8 (CORRECTIONS) $1,185,594,856 $1,086,514,775 $50,574,557a $45,164,521 $3,341,003b
+9 $1,198,741,503 $1,115,559,656 $46,816,069a $33,024,775
+10
+11 a Of this amount, $23,500,633 $23,495,917 contains an (I) notation.
+12 b This amount contains an (I) notation.
+13
+14 FOOTNOTES -- The following statements are referenced to the numbered footnotes throughout section 2.
+15
+-34- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 6 Department of Corrections, Management, External Capacity Subprogram, Payments to House State Prisoners -- In addition to the transfer authority provided
+2 in section 24-75-108, C.R.S., the department of corrections is authorized to transfer up to 1.0 percent of the total appropriation for external capacity subprogram
+3 between line items in the external capacity subprogram for purposes of reimbursing local jails, private prison providers, and community corrections providers.
+4
+5 7 Department of Corrections, Institutions, Utilities Subprogram, Core Utilities; Energy Conservation and Operating Expenses -- In addition to the transfer
+6 authority provided in section 24-75-108, C.R.S., the department of corrections is authorized to transfer money from the Energy Conservation and Operating
+7 Expenses line item to the Core Utilities line item.
+8
+9 8 Department of Corrections, Institutions, Medical Services Subprogram-- In addition to the transfer authority provided in section 24-75-108, C.R.S., the
+10 department of corrections is authorized to transfer up to 5.0 percent of the total appropriation for purchase of pharmaceuticals, Hepatitis C treatment costs,
+11 and external medical services between those line items for the purposes of providing pharmaceuticals, Hepatitis C Treatments, and external medical services
+12 for inmates.
+-35- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 SECTION 2. Appropriation to the department of corrections for the fiscal year beginning July 1, 2024. In Session Laws of Colorado 2024, section 2 of chapter 519, (HB
+2 24-1430), amend Part II (1)(A), (1)(B)(2), and the affected totals as Part II (1)(A), (1)(B)(2), and the affected totals are amended by section 1 of chapter 452, (SB 25-089), and as Part
+3 II (1)(A) and the affected totals are amended by section 6 of chapter 476, (SB 25-206), Session Laws of Colorado 2025, as follows:
+4 Section 2. Appropriation.
+5 PART II
+6 DEPARTMENT OF CORRECTIONS
+7
+8 (1) MANAGEMENT
+9 (A) Executive Director's Office Subprogram
+10 Personal Services 4,794,793 4,550,988 243,805a
+11 (41.9 FTE) (4.0 FTE)
+12 Restorative Justice Program
+13 with Victim-Offender
+14 Dialogues in Department
+15 Facilities 75,000 75,000
+16 (1.2 FTE)
+-36- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Health, Life, and Dental 81,140,223 79,867,805 1,272,418b
+2 Short-term Disability 553,570 544,141 9,429b
+3 Paid Family and Medical
+4 Leave Insurance 1,945,054 1,916,767 28,287b
+5 Unfunded Liability
+6 Amortization Equalization
+7 Disbursement Payments 43,203,931 42,575,335 628,596b
+8 47,288,686 46,660,090
+9 Salary Survey6 24,791,715 24,428,432 363,283b
+10 Step Pay 16,431,610 16,275,915 155,695b
+11 PERA Direct Distribution 8,837,393 8,695,905 141,488b
+12 Overtime 35,340,753 35,340,753
+13 Incentives and Bonuses7 14,334,002 14,334,002
+14 Shift Differential 17,982,314 17,949,518 32,796b
+15 21,272,967 21,240,171
+-37- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Temporary Employees
+2 Related to Authorized
+3 Leave 2,025,459 2,025,459
+4 Workers' Compensation 7,584,883 7,412,706 172,177b
+5 Operating Expenses 416,761 326,761 5,000a 85,000(I)c
+6 Legal Services 3,893,252d 3,802,219 91,033b
+7 Payment to Risk Management
+8 and Property Funds 9,318,427 9,106,899 211,528b
+9 Leased Space 6,516,921 6,339,596 177,325b
+10 Annual Depreciation-Lease
+11 Equivalent Payments 659,571 659,571
+12 Planning and Analysis
+13 Contracts 82,410 82,410
+14 Payments to District
+15 Attorneys 681,102 681,102
+16 Payments to Coroners 32,175 32,175
+-38- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Digital Trunk Radio Payments 2,638,440 2,638,440
+2 283,279,759
+3 290,655,167
+4
+5 a These amounts shall be transferred from the Department of Public Safety from the State Victims Assistance and Law Enforcement Program line item appropriation in the Victims
+6 Assistance section of the Division of Criminal Justice. These amounts originate as cash funds from the Victims Assistance and Law Enforcement Fund created in Section 24-33.5-506
+7 (1), C.R.S.
+8 b Of these amounts, an estimated $2,540,656 shall be from sales revenues earned by Correctional Industries and an estimated $743,399 shall be from sales revenues earned by the Canteen
+9 Operation.
+10 c This amount shall be from the Social Security Administration Incentive Payment Memorandum of Understanding.
+11 d Of this amount, $3,872,506 shall be used to purchase legal services from the Department of Law and $20,746 shall be used to contract for legal services from private firms for
+12 litigation related to the Rifle Correctional Center.
+13
+14
+15
+-39- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (B) External Capacity Subprogram
+2 (2) Payments to House State Prisoners8
+3 Payments to local jails at a
+4 rate of $77.16 per inmate per
+5 day 7,402,280 7,402,280
+6 8,677,858 8,677,858
+7 Payments to in-state private
+8 prisons at a rate of $66.52 per
+9 inmate per day9 70,298,104 67,404,718 2,893,386a
+10 Inmate Education and Benefit
+11 Programs at In-state Private
+12 Prisons 541,566 541,566
+13 78,241,950
+14 79,517,528
+15
+16 a This amount shall be from the State Criminal Alien Assistance Program Cash Fund created in Section 17-1-107.5 (1), C.R.S.
+-40- 1151
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2
+3 TOTALS PART II
+4 (CORRECTIONS) $1,168,428,422 $1,074,127,456 $45,982,256a $45,071,575 $3,247,135b
+5 $1,177,079,408 $1,082,778,442
+6
+7 a Of this amount, $21,755,184 contains an (I) notation.
+8 b This amount contains an (I) notation.
+9
+-41- 1151
+
+1 SECTION 3. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-42- 1151

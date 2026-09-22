@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0048.01 Conrad Imel x2313 HOUSE BILL 26-1144
+House Committees Senate Committees
+Judiciary State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO PROHIBIT THE USE OF
+102 THREE-DIMENSIONAL PRINTING TO MANUFACTURE FIREARMS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill defines 3-dimensional printing to mean additive and
+subtractive manufacturing. The bill prohibits each of the following:
+! Manufacturing or producing a firearm, unfinished frame or
+receiver, large-capacity magazine, or rapid-fire device
+(firearm or firearm component) by 3-dimensional printing.
+The prohibition does not apply to a federally licensed
+EETTAANNEESS
+ETANES
+ESUOH
+ESUOH
+ddeeddnneemmaannUU
+ggnniiddaaeeRR
+ddrr33
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+66220022
+,,0033
+hhccrraaMM
+6202
+,72
+hcraM
+6202
+,2
+hcraM
+6202
+,72
+yraurbeF
+HOUSE SPONSORSHIP
+Gilchrist and Boesenecker, Bacon, Brown, Camacho, Carter, Espenoza, Froelich,
+Goldstein, Hamrick, Jackson, Joseph, Lindsay, McCormick, Nguyen, Rutinel, Rydin, Sirota,
+Smith, Stewart R., Willford, Woodrow, Zokaie
+SENATE SPONSORSHIP
+Sullivan and Wallace, Amabile, Benavidez, Coleman, Cutter, Danielson, Daugherty,
+Gonzales J., Jodeh, Kipp, Kolker, Lindstedt, Weissman
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+firearm manufacturer.
+! Possessing, in circumstances that indicate intent to
+manufacture a firearm or firearm component in violation of
+state law or intent to distribute, digital instructions that may
+be used to program a 3-dimensional printer or a computer
+numerical control (CNC) milling machine to manufacture
+or produce a firearm or firearm component. The prohibition
+does not apply to a federally licensed firearm manufacturer
+who possesses digital instructions in circumstances that
+indicate intent to manufacture a firearm or firearm
+component.
+! Distributing digital instructions that may be used to
+program a 3-dimensional printer or CNC milling machine
+to manufacture or produce a firearm or firearm component.
+The bill does not prohibit possession of digital instructions in
+circumstances that indicate intent to distribute to, or distributing digital
+instructions to, a federally licensed firearm manufacturer.
+A violation of any of the prohibitions in the bill is a class 1
+misdemeanor; except that a second or subsequent offense is a class 5
+felony.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 18-12-118 as
+3 follows:
+4 18-12-118. Unlawful three-dimensional printing of a firearm
+5 or firearm component - penalties - definitions.
+6 (1) (a) A PERSON SHALL NOT KNOWINGLY MANUFACTURE OR
+7 PRODUCE A FIREARM OR FIREARM COMPONENT BY MEANS OF
+8 THREE-DIMENSIONAL PRINTING USING A THREE-DIMENSIONAL PRINTER,
+9 CNC MILLING MACHINE, OR SIMILAR DEVICE.
+10 (b) A PERSON WHO VIOLATES THIS SUBSECTION (1) COMMITS
+11 UNLAWFUL THREE-DIMENSIONAL PRINTING OF A FIREARM OR FIREARM
+12 COMPONENT. UNLAWFUL THREE-DIMENSIONAL PRINTING OF A FIREARM OR
+13 FIREARM COMPONENT IS A CLASS 1 MISDEMEANOR; EXCEPT THAT A
+14 SECOND OR SUBSEQUENT OFFENSE IS A CLASS 5 FELONY.
+-2- 1144
+
+1 (c) THIS SUBSECTION (1) DOES NOT APPLY TO:
+2 (I) A FEDERALLY LICENSED FIREARM MANUFACTURER;
+3 (II) AN INSTRUCTOR OR STUDENT OF AN ACCREDITED
+4 GUNSMITHING PROGRAM, OR AN INSTITUTION THAT OPERATES AN
+5 ACCREDITED GUNSMITHING PROGRAM, WHEN THE MANUFACTURE IS
+6 SOLELY FOR PURPOSES OF EDUCATIONAL INSTRUCTION WITHIN THE
+7 ACCREDITED GUNSMITHING PROGRAM.
+8
+9
+10 (2) THIS SECTION ONLY APPLIES TO POTENTIALLY FUNCTIONAL
+11 FIREARMS AND FIREARM COMPONENTS AND DOES NOT APPLY TO THE
+12 THREE-DIMENSIONAL PRINTING OF ANY OTHER COMPONENTS OR
+13 COMPONENTS THAT COULD BE USED TO MAKE A NON-FUNCTIONING OR
+14 PROP FIREARM.
+15 (3) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+16 REQUIRES:
+17 (a) "CNC MILLING MACHINE" MEANS A COMPUTER NUMERICAL
+18 CONTROL MILLING MACHINE.
+19
+20 (b) "FIREARM COMPONENT" MEANS AN UNFINISHED FRAME OR
+21 RECEIVER, LARGE-CAPACITY MAGAZINE, OR RAPID-FIRE DEVICE.
+22 (c) "GUNSMITHING PROGRAM" MEANS A GUNSMITHING PROGRAM
+23 OPERATED BY AN INSTITUTION.
+24 (d) "INSTITUTION" MEANS A STATE-AUTHORIZED INSTITUTION OF
+25 HIGHER EDUCATION OR INSTITUTION REGULATED BY THE COLORADO
+26 DIVISION OF PRIVATE OCCUPATIONAL SCHOOLS.
+27 (e) "LARGE-CAPACITY MAGAZINE" HAS THE SAME MEANING SET
+-3- 1144
+
+1 FORTH IN SECTION 18-12-301.
+2 (f) "THREE-DIMENSIONAL PRINTING" OR "3-D PRINTING" MEANS
+3 ADDITIVE MANUFACTURING THAT BUILDS THREE-DIMENSIONAL OBJECTS
+4 BY USE OF A THREE-DIMENSIONAL PRINTER OR SIMILAR DEVICE AND
+5 SUBTRACTIVE MANUFACTURING THAT CREATES OBJECTS BY REMOVING
+6 MATERIAL FROM A WORKPIECE BY USE OF A CNC MILLING MACHINE OR
+7 SIMILAR DEVICE.
+8 SECTION 2. Severability. If any provision of this act or the
+9 application of this act to any person or circumstance is held invalid, the
+10 invalidity does not affect other provisions or applications of the act that
+11 can be given effect without the invalid provision or application, and to
+12 this end the provisions of this act are declared to be severable.
+13 SECTION 3. Effective date - applicability. This act takes effect
+14 July 1, 2026, and applies to offenses committed on or after said date.
+15 SECTION 4. Safety clause. The general assembly finds,
+16 determines, and declares that this act is necessary for the immediate
+17 preservation of the public peace, health, or safety or for appropriations for
+18 the support and maintenance of the departments of the state and state
+19 institutions.
+-4- 1144

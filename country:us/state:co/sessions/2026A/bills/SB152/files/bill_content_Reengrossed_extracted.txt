@@ -1,0 +1,485 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0899.01 Renee Leone x2695 SENATE BILL 26-152
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING CHANGES TO THE USAGE OF AUTOMATED VEHICLE
+102 IDENTIFICATION SYSTEMS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes changes to the use of automated vehicle
+identification systems (AVIS), including:
+! Modifying the public notice requirements that the state, a
+county, a city and county, a municipality, or an agency
+responsible for placing a new AVIS must provide before
+utilizing the new AVIS;
+ETANES
+ETANES
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+6202
+,5
+yaM
+6202
+,4
+yaM
+SENATE SPONSORSHIP
+Ball and Pelton B., Coleman, Cutter, Hinrichsen
+HOUSE SPONSORSHIP
+Willford and Barron,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Creating a procedure by which a registered owner of a
+motor vehicle may prove that they were not the driver of
+the motor vehicle at the time when a violation was detected
+by an AVIS and, thereby, under certain circumstances,
+relieving the registered owner from having to pay the civil
+penalty associated with the notice of violation;
+! Requiring that, if a variable speed limit is in effect or a
+speed limit is otherwise temporarily lowered due to
+hazardous weather or other traffic conditions, the state, a
+county, a city and county, or a municipality may only issue
+a notice of violation and civil penalty for a speeding
+violation that exceeds the regular maximum posted speed
+limit for that location;
+! Changing the penalty structure for different levels of
+speeding violations detected by an AVIS;
+! Establishing that the compensation the state, a county, a
+city and county, or a municipality pays to a manufacturer or
+vendor of an AVIS must, in addition to other conditions, be
+a flat monthly rate; and
+! Beginning January 1, 2035, increasing the civil penalties
+associated with notices of violations issued for violations
+captured by an AVIS.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Automated vehicle identification systems, referred to in
+5 section as "AVIS", are used for the limited purpose of enforcing specific
+6 traffic violations, including speeding and red-light violations, and are
+7 subject to statutory requirements, governing notice, signage, and due
+8 process;
+9 (b) Conversely, automated license plate reader systems, referred
+10 to in this section as "ALPR systems", are distinct technologies from AVIS
+11 and are used primarily for law enforcement and investigative purposes,
+12 including to locate stolen vehicles or support criminal investigations;
+13 (c) The provisions of this act apply only to AVIS and civil traffic
+-2- 152
+
+1 enforcement;
+2 (d) This act does not regulate, limit, or otherwise affect the use of
+3 ALPR systems and nothing in this act is intended to expand, restrict, or
+4 modify existing law governing ALPR systems; and
+5 (e) Given the differences between AVIS as a traffic enforcement
+6 tool and ALPR systems as a broader surveillance technology, it is
+7 important to maintain a simple distinction between the systems and make
+8 clear that the provisions in this act are limited accordingly.
+9 SECTION 2. In Colorado Revised Statutes, 42-4-110.5, amend
+10 (2) introductory portion, (2)(d)(II)(B) (2)(e), (2)(g)(I.7), (2)(g)(IV), (2)(h),
+11 (4), (4.5)(a), (4.6)(b), and (5); repeal (1.5); and add (1.1)(a)(III) and
+12 (2)(i) as follows:
+13 42-4-110.5. Automated vehicle identification systems - school
+14 buses - exceptions to liability - penalty - contracting - limits on use of
+15 photographs and video - rules - legislative declaration - definitions -
+16 repeal.
+17 (1.1) As used in this section, unless the context otherwise
+18 requires:
+19 (a) (III) "AUTOMATED VEHICLE IDENTIFICATION SYSTEM" DOES
+20 NOT INCLUDE AUTOMATED LICENSE PLATE READER SYSTEMS.
+21 (1.5) Nothing in this section applies to a violation detected by an
+22 automated vehicle identification system for driving twenty-five miles per
+23 hour or more in excess of the reasonable and prudent speed or twenty-five
+24 miles per hour or more in excess of the maximum speed limit of
+25 seventy-five miles per hour detected by the use of an automated vehicle
+26 identification system.
+27 (2) A county, city and county, or municipality may adopt an
+-3- 152
+
+1 ordinance authorizing the use of an automated vehicle identification
+2 system to detect violations of traffic regulations adopted by the county,
+3 city and county, or municipality, or the state, a county, a city and county,
+4 or a municipality may utilize an automated vehicle identification system
+5 to detect traffic violations under state law, subject to the following
+6 conditions and limitations and, as applicable, the requirements for state
+7 highways set forth in and any rules adopted by the department of
+8 transportation pursuant to subsection (2.5) of this section, AS APPLICABLE,
+9 AND THE FOLLOWING CONDITIONS AND LIMITATIONS:
+10 (d) (II) Except as provided in subsection (2)(d)(I) of this section,
+11 an automated vehicle identification system designed to detect
+12 disobedience to a traffic control signal or another violation of this article
+13 4 or a local traffic ordinance shall not be used unless the state, county,
+14 city and county, or municipality using such system conspicuously posts
+15 a sign notifying the public that an automated vehicle identification system
+16 is in use immediately ahead. The sign shall:
+17 (B) Use lettering that is at least four inches high for upper case
+18 letters and two and nine-tenths THREE inches high for lower case letters.
+19 (e) (I) If the state, A county, A city and county, or A municipality
+20 implements a new automated vehicle identification system after July 1,
+21 2023, that is not a replacement of an EXISTING automated vehicle
+22 identification system:
+23 (A) The agency responsible for the automated vehicle
+24 identification system shall publicly announce the implementation of the
+25 system through its website AND SOCIAL MEDIA ACCOUNTS, IF ANY, for at
+26 least thirty days prior to the use of the system; and
+27 (B) For the first thirty days after the system is installed or
+-4- 152
+
+1 deployed, only warnings may be issued for violations of a county or
+2 municipal traffic regulation or traffic violation under state law detected
+3 by the system. SUCH WARNINGS MUST BE ISSUED AND DELIVERED IN
+4 WRITING.
+5 (II) A THE state, A county, A city and county, or A municipality
+6 may SHALL conduct an extended public information campaign or warning
+7 period for systems EACH NEW SYSTEM installed or deployed. either before
+8 or after July 1, 2023 AS PART OF SUCH CAMPAIGN OR WARNING PERIOD,
+9 THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY SHALL POST A
+10 SIGN ANNOUNCING THE UPCOMING USE OF AN AUTOMATED VEHICLE
+11 IDENTIFICATION SYSTEM AT EACH LOCATION WHERE AN AUTOMATED
+12 VEHICLE IDENTIFICATION SYSTEM WILL BE INSTALLED AT LEAST THIRTY
+13 DAYS BEFORE THE AUTOMATED VEHICLE IDENTIFICATION SYSTEM IS
+14 UTILIZED. THE SIGN MUST USE LETTERING THAT IS AT LEAST FOUR INCHES
+15 HIGH FOR UPPERCASE LETTERS AND THREE INCHES HIGH FOR
+16 LOWERCASE LETTERS.
+17 (g) (I.7) Before the state, a county, A city and county, or A
+18 municipality begins operation of an automated vehicle identification
+19 system in an automated vehicle identification corridor, the state, county,
+20 city and county, or municipality must:
+21 (A) Post a permanent sign in a conspicuous place not fewer than
+22 three hundred feet before the beginning of the corridor; and
+23 (B) Post a permanent sign not fewer than three hundred feet
+24 before each static camera within the corridor thereafter or a temporary
+25 sign not fewer than three hundred feet before any mobile camera; except
+26 that, for an automated vehicle identification corridor on which IF an
+27 automated vehicle identification system is used on transit vehicles for the
+-5- 152
+
+1 purpose of detecting WILL BE USED EXCLUSIVELY TO DETECT unauthorized
+2 use of a transit-only lane, THE STATE, COUNTY, CITY AND COUNTY, OR
+3 MUNICIPALITY MUST post permanent signs at one-half mile or more
+4 frequent intervals WITHIN THE AUTOMATED VEHICLE IDENTIFICATION
+5 CORRIDOR; and
+6 (C) Illustrate, through data collected within the past five years
+7 QUANTITATIVE DATA COLLECTION, incidents of crashes, speeding, OR
+8 reckless driving or community complaints WITHIN THE PAST FIVE YEARS
+9 on a street designated as an automated vehicle identification corridor,
+10 unless the automated vehicle identification system will be used
+11 exclusively to detect unauthorized usage of one or more transit-only lanes
+12 USE OF A TRANSIT-ONLY LANE. COMMUNITY COMPLAINTS MAY ALSO BE
+13 USED TO ILLUSTRATE THE NEED FOR AN AUTOMATED VEHICLE
+14 IDENTIFICATION CORRIDOR IF COLLECTED WITH QUANTITATIVE DATA.
+15 (IV) The state, a county, a city and county, or a municipality
+16 implementing an automated vehicle identification corridor pursuant to
+17 subsection (2)(g)(I) of this section shall ANNUALLY publish a report on its
+18 website disclosing the number of citations and AMOUNT OF revenue
+19 generated by the automated vehicle identification corridor.
+20 (h) (I) The state, a county, a city and county, or a municipality
+21 shall not require a registered owner of a vehicle to disclose the identity of
+22 a driver of the vehicle who is detected through the use of an automated
+23 vehicle identification system. However, the registered owner may be
+24 required to submit evidence that the owner was not the driver at the time
+25 of the alleged violation. THE REGISTERED OWNER OF THE MOTOR VEHICLE
+26 DETECTED BY THE AUTOMATED VEHICLE IDENTIFICATION SYSTEM IS
+27 RESPONSIBLE FOR PAYING THE CIVIL PENALTY ASSOCIATED WITH THE
+-6- 152
+
+1 NOTICE OF THE VIOLATION UNLESS:
+2 (A) THE REGISTERED OWNER ESTABLISHES THAT THE MOTOR
+3 VEHICLE HAD BEEN SOLD PRIOR TO THE TIME OF THE VIOLATION
+4 DETECTED BY THE AUTOMATED VEHICLE IDENTIFICATION SYSTEM BY
+5 PROVIDING A BILL OF SALE OR OTHER DOCUMENTATION TO SHOW THAT THE
+6 MOTOR VEHICLE WAS SOLD OR TRANSFERRED BEFORE THE DATE AND TIME
+7 OF THE VIOLATION;
+8 (B) THE REGISTERED OWNER ESTABLISHES THAT THE MOTOR
+9 VEHICLE HAD BEEN STOLEN PRIOR TO THE TIME OF THE VIOLATION
+10 DETECTED BY THE AUTOMATED VEHICLE IDENTIFICATION SYSTEM BY
+11 PROVIDING A COPY OF THE POLICE REPORT TO SHOW THAT THE OWNER'S
+12 LICENSE PLATE OR MOTOR VEHICLE WAS STOLEN BEFORE THE DATE AND
+13 TIME OF THE VIOLATION;
+14 (C) THE REGISTERED OWNER ESTABLISHES THAT LAW
+15 ENFORCEMENT ISSUED A SEPARATE TRAFFIC CITATION TO THE REGISTERED
+16 OWNER OR DRIVER OF THE MOTOR VEHICLE FOR THE VIOLATION DETECTED
+17 BY THE AUTOMATED VEHICLE IDENTIFICATION SYSTEM;
+18 (D) A REPRESENTATIVE OF THE ESTATE OR A FAMILY MEMBER OF
+19 THE REGISTERED OWNER ESTABLISHES THAT THE REGISTERED OWNER WAS
+20 DECEASED PRIOR TO THE DATE OF THE VIOLATION DETECTED BY THE
+21 AUTOMATED VEHICLE IDENTIFICATION SYSTEM; OR
+22 (E) THE REGISTERED OWNER ESTABLISHES THAT THE MOTOR
+23 VEHICLE WAS BEING RENTED TO SOMEONE OTHER THAN THE REGISTERED
+24 OWNER.
+25 (II) (A) TO ESTABLISH THAT THE REGISTERED OWNER IS NOT
+26 RESPONSIBLE FOR PAYING A CIVIL PENALTY ASSOCIATED WITH A NOTICE
+27 OF VIOLATION, THE REGISTERED OWNER OR A REPRESENTATIVE OF THE
+-7- 152
+
+1 ESTATE OR A FAMILY MEMBER OF THE REGISTERED OWNER MUST, WITHIN
+2 THIRTY DAYS AFTER THE DATE OF ISSUANCE OF THE NOTICE OF VIOLATION,
+3 PROVIDE TO THE ENTITY THAT ISSUED THE NOTICE OF VIOLATION AN
+4 AFFIDAVIT WITH INFORMATION SHOWING THAT ONE OF THE EXCEPTIONS
+5 SET FORTH IN SUBSECTION (2)(h)(I) OF THIS SECTION APPLIES. THE
+6 AFFIDAVIT MUST INCLUDE THE CIVIL PENALTY NUMBER.
+7
+8 (B) THE REGISTERED OWNER OF A MOTOR VEHICLE THAT WAS
+9 LEASED AT THE TIME OF THE VIOLATION IS NOT REQUIRED TO SUBMIT AN
+10 AFFIDAVIT IF THE MOTOR VEHICLE WAS REGISTERED IN THE NAME OF THE
+11 LESSEE AT THE TIME OF THE VIOLATION.
+12
+13 (III) IF THE REGISTERED OWNER TO WHOM A NOTICE OF VIOLATION
+14 HAS BEEN ISSUED IS DECEASED, THE AFFIDAVIT MUST INCLUDE BOTH A
+15 CERTIFIED COPY OF THE DEATH CERTIFICATE SHOWING THAT THE DEATH
+16 OF THE REGISTERED OWNER OCCURRED BEFORE THE DATE OF THE
+17 VIOLATION AND ONE OF THE FOLLOWING:
+18 (A) A BILL OF SALE OR OTHER DOCUMENT SHOWING THAT THE
+19 MOTOR VEHICLE WAS SOLD OR TRANSFERRED AFTER THE DATE OF THE
+20 REGISTERED OWNER'S DEATH AND BEFORE THE DATE OF THE VIOLATION;
+21 (B) DOCUMENTED PROOF THAT THE REGISTERED LICENSE PLATE
+22 BELONGING TO THE REGISTERED OWNER WAS RETURNED TO THE
+23 DEPARTMENT OR ANOTHER OFFICE OR AUTHORIZED AGENT OF THE
+24 DEPARTMENT AFTER THE DATE OF THE REGISTERED OWNER'S DEATH AND
+25 BEFORE THE DATE OF THE VIOLATION; OR
+26 (C) A COPY OF THE POLICE REPORT SHOWING THAT THE
+27 REGISTERED OWNER'S LICENSE PLATE OR MOTOR VEHICLE WAS STOLEN
+-8- 152
+
+1 AFTER THE DATE OF THE REGISTERED OWNER'S DEATH AND BEFORE THE
+2 DATE OF THE VIOLATION.
+3 (IV) UPON RECEIPT OF THE AFFIDAVIT AND SUFFICIENT
+4 SUPPORTING DOCUMENTATION PURSUANT TO THIS SUBSECTION (2)(h), THE
+5 STATE, A COUNTY, A CITY AND COUNTY, OR A MUNICIPALITY SHALL
+6 DISMISS THE NOTICE OF VIOLATION AND PROVIDE PROOF OF THE DISMISSAL
+7 TO THE REGISTERED OWNER OR OTHER PERSON THAT SUBMITTED THE
+8 AFFIDAVIT.
+9
+10 (V) A PERSON THAT SUBMITS A FALSE AFFIDAVIT COMMITS A
+11 CLASS 2 MISDEMEANOR TRAFFIC OFFENSE AND, UPON CONVICTION, SHALL
+12 BE PUNISHED AS PROVIDED IN SECTION 42-4-1701 (3).
+13 (i) (I) EXCEPT AS PROVIDED IN SUBSECTION (2)(i)(II) OF THIS
+14 SECTION, IF A VARIABLE SPEED LIMIT IS IN EFFECT OR A SPEED LIMIT IS
+15 OTHERWISE TEMPORARILY LOWERED DUE TO HAZARDOUS WEATHER OR
+16 OTHER TRAFFIC CONDITIONS, THE STATE, A COUNTY, A CITY AND COUNTY,
+17 OR A MUNICIPALITY SHALL ONLY ISSUE A NOTICE OF VIOLATION AND CIVIL
+18 PENALTY FOR A VIOLATION DETECTED BY AN AUTOMATED VEHICLE
+19 IDENTIFICATION SYSTEM IF THE VIOLATION IS A SPEEDING VIOLATION THAT
+20 EXCEEDS THE REGULAR MAXIMUM POSTED SPEED LIMIT FOR THAT
+21 LOCATION THAT IS TYPICALLY IN EFFECT WHEN A VARIABLE SPEED LIMIT
+22 IS NOT IN EFFECT AND THE SPEED LIMIT IS NOT OTHERWISE TEMPORARILY
+23 LOWERED.
+24 (II) SUBSECTION (2)(i)(I) OF THIS SECTION DOES NOT APPLY WHEN
+25 A SPEED LIMIT IS TEMPORARILY LOWERED DUE TO THE NEED FOR A
+26 TEMPORARY MAINTENANCE, REPAIR, OR CONSTRUCTION ZONE
+27 DESIGNATED PURSUANT TO SECTION 42-4-614.
+-9- 152
+
+1 (4) (a) (I) If, THROUGH THE USE OF AN AUTOMATED VEHICLE
+2 IDENTIFICATION SYSTEM, the state, a county, a city and county, or a
+3 municipality detects a speeding violation of less than ten SIX miles per
+4 hour over the reasonable and prudent speed under a county or municipal
+5 traffic regulation or under state law, through the use of an automated
+6 vehicle identification system and the violation is the first violation by the
+7 registered owner that the state, county, city and county, or municipality
+8 has detected using an automated vehicle identification system, then the
+9 state, county, city and county, or municipality may mail the registered
+10 owner a warning regarding the violation. but The state, county, city and
+11 county, or municipality shall not impose any A penalty or surcharge for
+12 such first A violation UNLESS THE VIOLATION OCCURS WITHIN A SCHOOL
+13 ZONE, AS DEFINED IN SECTION 42-4-615, OR WITHIN A MAINTENANCE,
+14 REPAIR, OR CONSTRUCTION ZONE DESIGNATED PURSUANT TO SECTION
+15 42-4-614, IN WHICH CASE THE MAXIMUM PENALTY THAT THE STATE,
+16 COUNTY, CITY AND COUNTY, OR MUNICIPALITY MAY IMPOSE FOR SUCH
+17 VIOLATION, INCLUDING ANY SURCHARGE, IS FORTY DOLLARS.
+18 (II) IF, THROUGH THE USE OF AN AUTOMATED VEHICLE
+19 IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A CITY AND COUNTY, OR
+20 A MUNICIPALITY DETECTS A SPEEDING VIOLATION OF AT LEAST SIX AND
+21 LESS THAN TEN MILES PER HOUR OVER THE REASONABLE AND PRUDENT
+22 SPEED UNDER A COUNTY OR MUNICIPAL TRAFFIC REGULATION OR UNDER
+23 STATE LAW, AND THE VIOLATION IS THE FIRST VIOLATION BY THE
+24 REGISTERED OWNER THAT THE STATE, COUNTY, CITY AND COUNTY, OR
+25 MUNICIPALITY HAS DETECTED USING AN AUTOMATED VEHICLE
+26 IDENTIFICATION SYSTEM, THEN THE STATE, COUNTY, CITY AND COUNTY,
+27 OR MUNICIPALITY SHALL MAIL THE REGISTERED OWNER A WARNING
+-10- 152
+
+1 REGARDING THE VIOLATION. THE STATE, COUNTY, CITY AND COUNTY, OR
+2 MUNICIPALITY SHALL NOT IMPOSE A PENALTY OR SURCHARGE FOR SUCH
+3 FIRST VIOLATION.
+4 (III) (A) NOTWITHSTANDING SUBSECTION (4)(a)(II) OF THIS
+5 SECTION, IF, BEFORE JANUARY 1, 2035, THROUGH THE USE OF AN
+6 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A
+7 CITY AND COUNTY, OR A MUNICIPALITY DETECTS A SPEEDING VIOLATION
+8 OF AT LEAST SIX AND LESS THAN TEN MILES PER HOUR OVER THE
+9 REASONABLE AND PRUDENT SPEED IN A SCHOOL ZONE AS DEFINED IN
+10 SECTION 42-4-615, OR WITHIN A MAINTENANCE, REPAIR, OR
+11 CONSTRUCTION ZONE DESIGNATED PURSUANT TO SECTION 42-4-614, AND
+12 THE VIOLATION IS THE FIRST VIOLATION BY THE REGISTERED OWNER, THE
+13 MAXIMUM PENALTY THAT THE STATE, COUNTY, CITY AND COUNTY, OR
+14 MUNICIPALITY MAY IMPOSE FOR SUCH VIOLATION, INCLUDING ANY
+15 SURCHARGE, IS FORTY DOLLARS.
+16 (B) THIS SUBSECTION (4)(a)(III) IS REPEALED, EFFECTIVE JANUARY
+17 1, 2036.
+18 (IV) NOTWITHSTANDING SUBSECTION (4)(a)(II) OF THIS SECTION,
+19 BEGINNING JANUARY 1, 2035, IF, THROUGH THE USE OF AN AUTOMATED
+20 VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A CITY AND
+21 COUNTY, OR A MUNICIPALITY DETECTS A SPEEDING VIOLATION OF AT
+22 LEAST SIX AND LESS THAN TEN MILES PER HOUR OVER THE REASONABLE
+23 AND PRUDENT SPEED IN A SCHOOL ZONE AS DEFINED IN SECTION 42-4-615,
+24 OR WITHIN A MAINTENANCE, REPAIR, OR CONSTRUCTION ZONE
+25 DESIGNATED PURSUANT TO SECTION 42-4-614, AND THE VIOLATION IS THE
+26 FIRST VIOLATION BY THE REGISTERED OWNER, THE MAXIMUM PENALTY
+27 THAT THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY MAY
+-11- 152
+
+1 IMPOSE FOR SUCH VIOLATION, INCLUDING ANY SURCHARGE, IS FIFTY
+2 DOLLARS.
+3 (b) (I) (A) If, BEFORE JANUARY 1, 2035, THROUGH THE USE OF AN
+4 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, the state, a county, a city
+5 and county, or a municipality detects a second or subsequent speeding
+6 violation BY A REGISTERED OWNER OF AT LEAST SIX AND LESS THAN TEN
+7 MILES PER HOUR OVER THE REASONABLE AND PRUDENT SPEED under a
+8 county or municipal traffic regulation or under state law, by the registered
+9 owner, or a first such SPEEDING violation by the registered owner if the
+10 provisions of subsection (4)(a) of this section do not apply, through the
+11 use of an automated vehicle identification system OF AT LEAST TEN AND
+12 LESS THAN TWENTY-FIVE MILES PER HOUR OVER THE REASONABLE AND
+13 PRUDENT SPEED, then, except as may be permitted in subsection (4)(b)(II)
+14 of this section, the maximum penalty that the state, county, city and
+15 county, or municipality may impose for such violation, including any
+16 surcharge, is forty dollars.
+17 (B) THIS SUBSECTION (4)(b)(I) IS REPEALED, EFFECTIVE JANUARY
+18 1, 2036.
+19 (I.5) BEGINNING JANUARY 1, 2035, IF, THROUGH THE USE OF AN
+20 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A
+21 CITY AND COUNTY, OR A MUNICIPALITY DETECTS A SECOND OR
+22 SUBSEQUENT SPEEDING VIOLATION BY A REGISTERED OWNER OF AT LEAST
+23 SIX AND LESS THAN TEN MILES PER HOUR OVER THE REASONABLE AND
+24 PRUDENT SPEED UNDER A COUNTY OR MUNICIPAL TRAFFIC REGULATION OR
+25 UNDER STATE LAW, OR A SPEEDING VIOLATION BY THE REGISTERED OWNER
+26 OF AT LEAST TEN AND LESS THAN TWENTY-FIVE MILES PER HOUR OVER THE
+27 REASONABLE AND PRUDENT SPEED, THEN, EXCEPT AS MAY BE PERMITTED
+-12- 152
+
+1 IN SUBSECTION (4)(b)(II) OF THIS SECTION, THE MAXIMUM PENALTY THAT
+2 THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY MAY IMPOSE
+3 FOR SUCH VIOLATION, INCLUDING ANY SURCHARGE, IS FIFTY DOLLARS.
+4 (II) If any A violation described in subsection (4)(b)(I) OR
+5 (4)(b)(I.5) of this section occurs within a school zone as defined in
+6 section 42-4-615, OR WITHIN A MAINTENANCE, REPAIR, OR
+7 CONSTRUCTION ZONE DESIGNATED PURSUANT TO SECTION 42-4-614, the
+8 maximum penalty that may be imposed shall be IS doubled.
+9 (III) Subsection (4)(b)(I) of this section does not apply within a
+10 maintenance, construction, or repair zone designated pursuant to section
+11 42-4-614 or a school zone, as defined in section 42-4-615 (2).
+12 (c) (I) (A) IF, BEFORE JANUARY 1, 2035, THROUGH THE USE OF AN
+13 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A
+14 CITY AND COUNTY, OR A MUNICIPALITY DETECTS A SPEEDING VIOLATION
+15 BY A REGISTERED OWNER OF TWENTY-FIVE MILES PER HOUR OR MORE
+16 OVER THE REASONABLE AND PRUDENT SPEED UNDER A COUNTY OR
+17 MUNICIPAL TRAFFIC REGULATION OR UNDER STATE LAW, THE MAXIMUM
+18 PENALTY THAT THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY
+19 MAY IMPOSE FOR SUCH VIOLATION, INCLUDING ANY SURCHARGE, IS ONE
+20 HUNDRED TWENTY DOLLARS.
+21 (B) THIS SUBSECTION (4)(c)(I) IS REPEALED, EFFECTIVE JANUARY
+22 1, 2036.
+23 (II) BEGINNING JANUARY 1, 2035, IF, THROUGH THE USE OF AN
+24 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A
+25 CITY AND COUNTY, OR A MUNICIPALITY DETECTS A SPEEDING VIOLATION
+26 BY A REGISTERED OWNER OF TWENTY-FIVE MILES PER HOUR OR MORE
+27 OVER THE REASONABLE AND PRUDENT SPEED UNDER A COUNTY OR
+-13- 152
+
+1 MUNICIPAL TRAFFIC REGULATION OR UNDER STATE LAW, THE MAXIMUM
+2 PENALTY THAT THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY
+3 MAY IMPOSE FOR SUCH VIOLATION, INCLUDING ANY SURCHARGE, IS ONE
+4 HUNDRED FIFTY DOLLARS.
+5 (4.5) (a) (I) (A) If, BEFORE JANUARY 1, 2035, the state, a county,
+6 a city and county, or a municipality detects a violation of a county, city
+7 and county, or municipal traffic regulation or traffic violation under state
+8 law for disobedience to a traffic control signal through the use of an
+9 automated vehicle identification system, the maximum civil penalty that
+10 the state, a county, a city and county, or a municipality may impose for
+11 such violation, including any surcharge, is seventy-five dollars.
+12 (B) THIS SUBSECTION (4.5)(a)(I) IS REPEALED, EFFECTIVE
+13 JANUARY 1, 2036.
+14 (II) BEGINNING JANUARY 1, 2035, IF THE STATE, A COUNTY, A CITY
+15 AND COUNTY, OR A MUNICIPALITY DETECTS A VIOLATION OF A COUNTY,
+16 CITY AND COUNTY, OR MUNICIPAL TRAFFIC REGULATION OR TRAFFIC
+17 VIOLATION UNDER STATE LAW FOR DISOBEDIENCE TO A TRAFFIC CONTROL
+18 SIGNAL THROUGH THE USE OF AN AUTOMATED VEHICLE IDENTIFICATION
+19 SYSTEM, THE MAXIMUM CIVIL PENALTY THAT THE STATE, COUNTY, CITY
+20 AND COUNTY, OR MUNICIPALITY MAY IMPOSE FOR SUCH VIOLATION,
+21 INCLUDING ANY SURCHARGE, IS NINETY-FIVE DOLLARS.
+22 (4.6) (b) (I) (A) If, BEFORE JANUARY 1, 2035, through the use of
+23 an automated vehicle identification system, the state, a county, a city and
+24 county, or a municipality detects a motor vehicle overtaking a stopped
+25 school bus with actuated visual signal lights in violation of section
+26 42-4-1903 (1)(a), the maximum civil penalty the state, county, city and
+27 county, or municipality may impose for the violation is three hundred
+-14- 152
+
+1 dollars, including surcharges or fees.
+2 (B) THIS SUBSECTION (4.6)(b)(I) IS REPEALED, EFFECTIVE
+3 JANUARY 1, 2036.
+4 (II) BEGINNING JANUARY 1, 2035, IF, THROUGH THE USE OF AN
+5 AUTOMATED VEHICLE IDENTIFICATION SYSTEM, THE STATE, A COUNTY, A
+6 CITY AND COUNTY, OR A MUNICIPALITY DETECTS A MOTOR VEHICLE
+7 OVERTAKING A STOPPED SCHOOL BUS WITH ACTUATED VISUAL SIGNAL
+8 LIGHTS IN VIOLATION OF SECTION 42-4-1903 (1)(a), THE MAXIMUM CIVIL
+9 PENALTY THE STATE, COUNTY, CITY AND COUNTY, OR MUNICIPALITY MAY
+10 IMPOSE FOR THE VIOLATION IS THREE HUNDRED SEVENTY-FIVE DOLLARS,
+11 INCLUDING SURCHARGES OR FEES.
+12 (5) If the state, a county, a city and county, or a municipality has
+13 established an automated vehicle identification system for the
+14 enforcement of county or municipal traffic regulations or state traffic
+15 laws, then no portion of any fine collected through the use of such system
+16 may be paid to the manufacturer or vendor of the automated vehicle
+17 identification system equipment. The compensation paid by the state,
+18 county, city and county, or municipality for such equipment AND RELATED
+19 SERVICES shall:
+20 (a) Be based upon the value of such equipment and the value of
+21 any services provided to the state, county, city and county, or
+22 municipality; and may
+23 (b) (I) Not be based upon the number of traffic citations issued or
+24 the AMOUNT OF revenue generated by such equipment or services; OR
+25 (II) BE STRUCTURED AS A FLAT MONTHLY FEE OR A FLAT HOURLY
+26 RATE THAT IS NOT CONTINGENT UPON, AND DOES NOT VARY BASED ON,
+27 THE NUMBER OF TRAFFIC CITATIONS ISSUED OR THE AMOUNT OF REVENUE
+-15- 152
+
+1 GENERATED; AND
+2 (c) NOT INCLUDE ANY INCENTIVES, BONUSES, ESCALATORS, OR
+3 OTHER PROVISIONS THAT ARE DIRECTLY OR INDIRECTLY TIED TO THE
+4 NUMBER OF CITATIONS ISSUED OR THE AMOUNT OF REVENUE GENERATED.
+5 SECTION 3. Act subject to petition - effective date -
+6 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+7 the expiration of the ninety-day period after final adjournment of the
+8 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+9 2026); except that, if a referendum petition is filed pursuant to section 1
+10 (3) of article V of the state constitution against this act or an item, section,
+11 or part of this act within such period, then the act, item, section, or part
+12 will not take effect unless approved by the people at the general election
+13 to be held in November 2026 and, in such case, will take effect on the
+14 date of the official declaration of the vote thereon by the governor.
+15 (2) This act applies to conduct occurring or contracts entered into
+16 or renewed on or after the applicable effective date of this act.
+-16- 152

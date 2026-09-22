@@ -1,0 +1,343 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0431.02 Clare Haffner x6137 HOUSE BILL 26-1225
+House Committees Senate Committees
+Energy & Environment Transportation & Energy
+Finance
+A BILL FOR AN ACT
+101 CONCERNING REQUIREMENTS TO FOSTER DISTRIBUTED ENERGY
+102 RESOURCES IN THE STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, each subscriber to a community solar garden
+receives a net metering credit to their electric bill. The community solar
+subscriber organization can choose between a fixed bill credit or a bill
+credit that is adjusted annually. The bill states that, on and after July 1,
+2026, an annual adjustment mechanism must be applied to fixed bill
+credit rates to index the value of the fixed bill credit to changing rate
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,7
+yaM
+6202
+,72
+lirpA
+6202
+,42
+lirpA
+HOUSE SPONSORSHIP
+Smith and Willford, Bacon, Brown, Duran, English, Froelich, Goldstein, Jackson, Joseph,
+Lindsay, McCormick, Nguyen, Paschal, Ricks, Sirota
+SENATE SPONSORSHIP
+Ball and Bright,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+trends.
+A public utility is permitted under current law to recover its
+prudently incurred costs to facilitate a timely interconnection of a
+distributed energy resource. The bill prohibits a public utility from
+requiring an interconnection customer to pay the costs associated with
+interconnection facilities and upgrades until 30 days before the public
+utility incurs the costs. The bill allows a public utility to require an
+interconnection customer to provide security for the estimated full costs
+of interconnection at the time of mutual execution of an interconnection
+agreement.
+The bill requires a public utility to:
+! On or before July 1, 2026, develop a process to allow an
+interconnection customer to contract with a third party to
+perform an interconnection study;
+! On or before September 1, 2026, develop a process to
+allow for the concurrent performance of all needed
+interconnection studies; and
+! On or before October 1, 2026, develop a process to allow
+an interconnection customer to contract with a third party
+to perform any upgrades needed for interconnection,
+including engineering, procurement, and construction
+upgrades.
+An interconnection study and upgrades that are performed by a
+contracted third party must meet applicable safety, reliability, labor, and
+technical standards.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Advancing Grid Resilience Using Distributed Energy Resources Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Demand for electricity is rapidly increasing, and the ability of
+7 electric utilities to affordably satisfy demand while preserving reliability
+8 is increasingly important;
+9 (b) Distributed energy resources, including community solar,
+10 dispatchable distributed generation, and distributed energy storage, play
+11 an important role in satisfying increasing electricity demand in a reliable
+-2- 1225
+
+1 and affordable manner;
+2 (c) Since 2011, the state has consistently encouraged the
+3 deployment of community solar gardens to ensure that Coloradans
+4 without access to onsite generation can participate in distributed energy
+5 programs and that ratepayers with low incomes, in particular, can benefit
+6 from bill credits that reduce monthly utility bills;
+7 (d) Dispatchable distributed generation facilities, including
+8 resources paired with energy storage, are increasingly recognized as
+9 cost-effective resources that support grid reliability and resilience;
+10 (e) State policy has supported the development of distributed
+11 energy resources as part of a diversified and resilient electric grid, while
+12 federal policy changes have created uncertainty for certain resource types;
+13 (f) The enactment of H.R. 1 of the 119th Congress (2025-2026),
+14 Pub.L. 119-21, in 2025 modified federal tax incentives for certain
+15 electricity generation resources, creating new market conditions that
+16 affect the deployment of distributed energy resources;
+17 (g) Certain federal tax credits applicable to distributed energy
+18 resource projects are scheduled to phase out or expire beginning in 2029,
+19 depending on project completion timelines;
+20 (h) Federal tax policy has historically played a role in enabling
+21 cost-effective deployment of distributed energy resources;
+22 (i) Community solar and dispatchable distributed generation
+23 facilities require multiple years to design, finance, permit, and
+24 interconnect to the electric grid;
+25 (j) The interconnection process can take multiple years, delaying
+26 deployment of needed distributed energy resources and increasing project
+27 costs;
+-3- 1225
+
+1 (k) A significant portion of project timelines is attributable to
+2 utility interconnection studies and necessary system upgrades required for
+3 safe and reliable integration;
+4 (l) Policies and processes that facilitate more timely and
+5 cost-effective interconnection can accelerate deployment of distributed
+6 energy resources and enhance grid reliability and affordability;
+7 (m) Maintaining the value of bill credits for subscribers to
+8 distributed energy resource programs, particularly for ratepayers with low
+9 incomes, is important amid rising cost pressures; and
+10 (n) Adjustments to state policy are necessary to ensure that
+11 distributed energy resource programs continue to provide benefits to the
+12 electric grid and to ratepayers under evolving federal and market
+13 conditions.
+14 (2) Therefore, it is the intent of the general assembly to:
+15 (a) Make adjustments to state law to facilitate the timely and
+16 cost-effective deployment of distributed energy resources while
+17 maintaining the value of such resources for community solar subscribers
+18 and particularly for ratepayers with low incomes; and
+19 (b) Ensure that processes designed to accelerate interconnection
+20 protect communities and workers.
+21 SECTION 3. In Colorado Revised Statutes, 40-2-127, add
+22 (2)(b)(I.5) and (5)(b)(II)(J) as follows:
+23 40-2-127. Community energy funds - community solar
+24 gardens - definitions - rules - legislative declaration - applicability -
+25 repeal.
+26 (2) Definitions. As used in this section, unless the context
+27 otherwise requires:
+-4- 1225
+
+1 (b) In addition:
+2 (I.5) "INCOME-QUALIFIED SUBSCRIBER" HAS THE MEANING SET
+3 FORTH IN SECTION 40-2-127.2 (1)(f).
+4 (5) Purchases of the output from community solar gardens.
+5 (b) (II) (J) ON AND AFTER OCTOBER 1, 2026, A SUBSCRIBER
+6 ORGANIZATION MAY DIRECT THE QUALIFYING RETAIL UTILITY TO PROVIDE
+7 THE SUBSCRIBER ORGANIZATION'S INCOME-QUALIFIED SUBSCRIBERS WITH
+8 A FIXED BILL CREDIT PURSUANT TO SUBSECTION (5)(b)(II)(C) OF THIS
+9 SECTION AND TO PROVIDE THE SUBSCRIBER ORGANIZATION'S OTHER
+10 SUBSCRIBERS WITH A BILL CREDIT THAT CHANGES ANNUALLY PURSUANT
+11 TO SUBSECTION (5)(b)(II)(B) OF THIS SECTION. THE QUALIFYING RETAIL
+12 UTILITY SHALL ADJUST THE VALUE OF THE FIXED BILL CREDIT AVAILABLE
+13 TO AN INCOME-QUALIFIED SUBSCRIBER BY ADJUSTING THE FIXED BILL
+14 CREDIT ANNUALLY TO ENSURE THAT THE CREDIT REMAINS ALIGNED WITH
+15 CHANGES IN ELECTRICITY RATES OVER TIME. THE SUBSCRIBER
+16 ORGANIZATION SHALL CHOOSE THE INITIAL VALUE OF THE FIXED BILL
+17 CREDIT FOR AN INCOME-QUALIFIED SUBSCRIBER FROM ANY OF THE
+18 PREVIOUS THREE YEARS. THE INITIAL VALUE APPLIES FOR AN INITIAL
+19 PERIOD OF TIME, AS DETERMINED BY THE COMMISSION. AFTER THE INITIAL
+20 PERIOD, THE CREDIT SHALL BE ADJUSTED ANNUALLY IN A MANNER
+21 DETERMINED BY THE COMMISSION.
+22 SECTION 4. In Colorado Revised Statutes, 40-2-135, amend (6);
+23 and add (7) and (8) as follows:
+24 40-2-135. Retail distributed generation - customers' rights -
+25 working group - accelerated interconnection - rules - penalties.
+26 (6) (a) A public utility may recover its prudently incurred costs to
+27 facilitate a timely interconnection, which costs may include the cost of
+-5- 1225
+
+1 equipment that the public utility procures for future upgrades needed to
+2 interconnect retail distributed generation resources. A public utility may
+3 recover the costs of any such equipment inventory as capital work in
+4 progress if the inventory is projected to be used within five years of
+5 AFTER its procurement and with a return at the most recently authorized
+6 weighted average cost of capital.
+7 (b) A PUBLIC UTILITY SHALL NOT REQUIRE AN INTERCONNECTION
+8 CUSTOMER TO PAY THE COSTS ASSOCIATED WITH REASONABLE AND
+9 NECESSARY INTERCONNECTION FACILITIES AND UPGRADES UNTIL THIRTY
+10 DAYS BEFORE THE PUBLIC UTILITY INCURS THE COSTS. A PUBLIC UTILITY
+11 MAY REQUIRE AN INTERCONNECTION CUSTOMER TO PROVIDE SECURITY
+12 FOR THE ESTIMATED FULL COSTS OF INTERCONNECTION AT THE TIME BOTH
+13 PARTIES EXECUTE AN INTERCONNECTION AGREEMENT. A PUBLIC UTILITY
+14 SHALL PROVIDE SECURITY OPTIONS TO THE INTERCONNECTION CUSTOMER,
+15 INCLUDING ACCEPTANCE OF A LETTER OF CREDIT FROM A QUALIFIED
+16 PROVIDER.
+17 (7) (a) ON OR BEFORE AUGUST 15, 2026, A PUBLIC UTILITY WITH
+18 MORE THAN FIVE HUNDRED THOUSAND CUSTOMERS IN THE STATE SHALL
+19 CONVENE A WORKING GROUP TO ACCELERATE DISTRIBUTED GENERATION
+20 INTERCONNECTION. THE WORKING GROUP MUST INCLUDE STAKEHOLDERS
+21 FROM THE PUBLIC UTILITY, STAFF OF THE COMMISSION, THE OFFICE OF
+22 THE UTILITY CONSUMER ADVOCATE CREATED IN SECTION 40-6.5-102,
+23 TRADE ASSOCIATIONS, AND PROJECT DEVELOPERS.
+24 (b) THE WORKING GROUP SHALL:
+25 (I) DISCUSS, IF APPLICABLE:
+26 (A) A CLUSTER AND BATCH STUDY PROCESS FOR
+27 INTERCONNECTION STUDIES DESIGNED TO ACCELERATE INTERCONNECTION
+-6- 1225
+
+1 FOR ALL PROJECTS IN THE PUBLIC UTILITY'S INTERCONNECTION QUEUE;
+2 AND
+3 (B) A PROCESS FOR THE PUBLIC UTILITY TO ACCEPT A SURETY
+4 BOND IN LIEU OF A LETTER OF CREDIT OR CASH FOR INTERCONNECTION
+5 UPGRADE WORK; AND
+6 (II) DISCUSS, AND THE PUBLIC UTILITY SHALL IMPLEMENT, A
+7 PROCESS FOR THIRD-PARTY INTERCONNECTION STUDIES AND UPGRADES,
+8 WHICH PROCESS MUST INCLUDE A LIST OF THIRD-PARTY CONTRACTORS
+9 THAT ARE APPROVED BY THE PUBLIC UTILITY AND A PROCESS FOR
+10 CONTRACTORS TO BE ADDED AND REMOVED FROM THE LIST AS
+11 APPLICABLE.
+12 (c) IF AN INTERCONNECTION CUSTOMER ELECTS TO USE A
+13 THIRD-PARTY CONTRACTOR TO PERFORM INTERCONNECTION STUDIES OR
+14 UPGRADE WORK CONSISTENT WITH THE PUBLIC UTILITY'S INTERNAL
+15 PROCESSES:
+16 (I) THE INTERCONNECTION CUSTOMER SHALL USE A CONTRACTOR
+17 THAT IS APPROVED BY THE PUBLIC UTILITY PURSUANT TO SUBSECTION
+18 (7)(b)(II) OF THIS SECTION;
+19 (II) THE PUBLIC UTILITY IS NOT LIABLE FOR AND SHALL NOT
+20 WARRANTY DESIGNS, CONSTRUCTION, OR WORK PERFORMED BY THE
+21 THIRD-PARTY CONTRACTOR THAT RESULTS IN DAMAGES, INJURY, OR
+22 DEATH;
+23 (III) ANY RELIABILITY IMPACTS FROM THIRD-PARTY CONTRACTOR
+24 DESIGNS, CONSTRUCTION, OR OTHER UPGRADE WORK ARE INCLUDED AND
+25 SPECIFICALLY DESIGNATED IN RELIABILITY METRIC MEASUREMENTS
+26 REQUIRED BY THE COMMISSION;
+27 (IV) THE THIRD-PARTY CONTRACTOR SHALL SUBMIT ANY DESIGNS
+-7- 1225
+
+1 OR AS-BUILT DRAWINGS TO THE PUBLIC UTILITY WITHIN THREE BUSINESS
+2 DAYS AFTER COMPLETION TO ALLOW THE PUBLIC UTILITY TO MAINTAIN
+3 ACCURATE GEOGRAPHIC INFORMATION SYSTEM MAPPING;
+4 (V) THE THIRD-PARTY CONTRACTOR SHALL PROVIDE ALL
+5 INTERCONNECTION STUDIES AND OTHER DESIGN WORK TO THE PUBLIC
+6 UTILITY, AND THE PUBLIC UTILITY MAY REVIEW AND REQUEST
+7 MODIFICATIONS, INCLUDING REQUESTING ADDITIONAL ANALYSIS TO
+8 ENSURE ACCURACY AND COMPLETION;
+9 (VI) THE PUBLIC UTILITY SHALL INSPECT ANY CONSTRUCTION
+10 WORK PERFORMED BY THE THIRD-PARTY CONTRACTOR. THE THIRD-PARTY
+11 CONTRACTOR SHALL OBTAIN THE PUBLIC UTILITY'S CONFIRMATION THAT
+12 THE WORK IS COMPLETE PRIOR TO DEEMING ANY CONSTRUCTION WORK
+13 FINAL AND COMPLETED. INSPECTIONS ARE AT THE EXPENSE OF THE
+14 THIRD-PARTY CONTRACTOR. THE THIRD-PARTY CONTRACTOR SHALL
+15 PERFORM ANY ADDITIONAL WORK REQUIRED TO ADDRESS SAFETY OR
+16 RELIABILITY CONCERNS AT THE THIRD-PARTY CONTRACTOR'S EXPENSE.
+17 (VII) NEITHER THE PUBLIC UTILITY NOR RATEPAYERS ARE
+18 RESPONSIBLE FOR COSTS ASSOCIATED WITH REPAIRS OR CORRECTIONS TO
+19 THIRD-PARTY WORK. COSTS ASSOCIATED WITH REPAIRS OR CORRECTIONS
+20 TO THIRD-PARTY WORK ARE THE RESPONSIBILITY OF THE THIRD-PARTY
+21 CONTRACTOR.
+22 (d) ON OR BEFORE DECEMBER 15, 2026, THE PUBLIC UTILITY SHALL
+23 FILE A NOTICE WITH THE COMMISSION THAT INCLUDES A REPORT ON ANY
+24 RECOMMENDATIONS OF THE WORKING GROUP AND INDICATE WHICH, IF
+25 ANY, RECOMMENDATIONS ARE UNANIMOUSLY APPROVED BY THE WORKING
+26 GROUP. THE REPORT MUST ALSO INDICATE WHICH RECOMMENDATIONS
+27 REQUIRE OR MAY REQUIRE COMMISSION APPROVAL. THE PUBLIC UTILITY
+-8- 1225
+
+1 SHALL MAKE APPROPRIATE FILINGS TO IMPLEMENT ANY
+2 RECOMMENDATIONS THAT REQUIRE COMMISSION APPROVAL ON OR BEFORE
+3 JANUARY 1, 2027.
+4 (8) ALL INTERCONNECTION UPGRADES AND RELATED UTILITY
+5 CONSTRUCTION WORK PERFORMED BY A THIRD-PARTY CONTRACTOR MUST
+6 MEET APPLICABLE SAFETY, RELIABILITY, LABOR, AND TECHNICAL
+7 STANDARDS, INCLUDING THE APPLICABLE LABOR REQUIREMENTS SET
+8 FORTH IN SECTION 40-2-132.5 (5).
+9 SECTION 5. In Colorado Revised Statutes, 40-2-130.5, amend
+10 (1)(a) introductory portion and (1)(a)(II) as follows:
+11 40-2-130.5. Dispatchable distributed generation - energy
+12 storage - definitions - program capacity - program administration -
+13 rules.
+14 (1) Definitions. As used in this section, unless the context
+15 otherwise requires:
+16 (a) "Dispatchable distributed generation" means distributed
+17 generation paired with EITHER a co-located energy storage system OR A
+18 STANDALONE ENERGY STORAGE SYSTEM that is:
+19 (II) Measured by the capacity of the distributed generation
+20 ENERGY STORAGE SYSTEM in alternating current.
+21 SECTION 6. In Colorado Revised Statutes, 40-2-124, amend
+22 (1)(j)(VI) as follows:
+23 40-2-124. Renewable energy standards - qualifying retail and
+24 wholesale utilities - definitions - net metering - legislative declaration
+25 - rules.
+26 (1) Each provider of retail electric service in the state of Colorado,
+27 other than municipally owned utilities that serve forty thousand customers
+-9- 1225
+
+1 or fewer, is a qualifying retail utility. Each qualifying retail utility, with
+2 the exception of cooperative electric associations that have voted to
+3 exempt themselves from commission jurisdiction pursuant to section
+4 40-9.5-104 and municipally owned utilities, is subject to the rules
+5 established under this article 2 by the commission. No additional
+6 regulatory authority is provided to the commission other than that
+7 specifically contained in this section. In accordance with article 4 of title
+8 24, the commission shall revise or clarify existing rules to establish the
+9 following:
+10 (j) Rules to accommodate aggregation and interconnection of
+11 retail distributed generation, including:
+12 (VI) Requiring qualifying retail utilities to adopt procedures
+13 designed to ensure that, for all renewable distributed generation or storage
+14 facilities included in their net metering service:
+15 (A) The size of any off-site, single-meter installation does not
+16 exceed five hundred kilowatts;
+17 (B) The size of any off-site, multi-meter installation does not
+18 exceed three hundred kilowatts per meter; and
+19 (C) For any off-site facility exceeding three hundred kilowatts
+20 COVERED BY THIS SECTION, the installation and any necessary repair or
+21 maintenance work is performed by a licensed master electrician, licensed
+22 journeyman electrician, or licensed residential wireman or by properly
+23 supervised apprentices, in addition to complying with all applicable
+24 interconnection rules. THE COMMISSION SHALL EVALUATE THE SIZE OF
+25 OFF-SITE FACILITY AND INSTALLATION LIMITATIONS AS PART OF A FUTURE
+26 RENEWABLE ENERGY STANDARD COMPLIANCE PLAN.
+27 SECTION 7. Act subject to petition - effective date. This act
+-10- 1225
+
+1 takes effect at 12:01 a.m. on the day following the expiration of the
+2 ninety-day period after final adjournment of the general assembly (August
+3 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+4 referendum petition is filed pursuant to section 1 (3) of article V of the
+5 state constitution against this act or an item, section, or part of this act
+6 within such period, then the act, item, section, or part will not take effect
+7 unless approved by the people at the general election to be held in
+8 November 2026 and, in such case, will take effect on the date of the
+9 official declaration of the vote thereon by the governor.
+-11- 1225

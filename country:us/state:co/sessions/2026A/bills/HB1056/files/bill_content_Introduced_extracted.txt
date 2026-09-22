@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0306.01 Eden Rolland x2373 HOUSE BILL 26-1056
+HOUSE SPONSORSHIP
+DeGraaf,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING PRESCRIPTION DRUG SOURCING PROVIDED PURSUANT TO
+102 A HEALTH BENEFIT PLAN.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the "Prescription Drug Optimized Sourcing
+Transparency and Integrity Act" to prohibit a pharmacy benefit manager
+(PBM) or a health-care consultant from knowingly making or
+disseminating false or misleading statements or claims to a self-insured
+employer or policyholder about the legality or safety of a lawful
+prescription drug optimized sourcing program established by a pharmacy
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+stewardship program.
+Upon written request by a self-insured employer, a PBM or
+health-care consultant is required to provide certain cost information for
+each prescription drug dispensed under the health benefit plan.
+The prohibition and information-sharing provisions of the bill do
+not restrict or limit the rights of a self-insured employer to purchase
+prescription drugs through and contract for a lawful prescription drug
+optimized sourcing program. The bill also recognizes that a pharmacy
+stewardship program is an effective cost-containment tool and is
+authorized when implemented in compliance with federal law and with
+the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Improving transparency and integrity in prescription drug
+5 purchasing protects employers and health benefit plan sponsors, supports
+6 patient safety, and reduces unnecessary costs, while preserving clinical
+7 decision-making; and
+8 (b) It is the policy of this state to permit the lawful personal-use
+9 importation of prescription drugs, otherwise known as pharmacy
+10 stewardship programs, optimized sourcing, or international sourcing, in
+11 order to reduce net plan costs without disrupting patient care.
+12 SECTION 2. In Colorado Revised Statutes, add 10-16-171 as
+13 follows:
+14 10-16-171. Pharmacy benefit managers - health-care
+15 consultants - prescription drug optimized sourcing - disclosure
+16 requirements - enforcement - short title - definitions.
+17 (1) Short title. THE SHORT TITLE OF THIS SECTION IS THE
+18 "PRESCRIPTION DRUG OPTIMIZED SOURCING TRANSPARENCY AND
+19 INTEGRITY ACT".
+-2- HB26-1056
+
+1 (2) Definitions. AS USED IN THIS SECTION:
+2 (a) "HEALTH-CARE CONSULTANT" MEANS AN INDIVIDUAL OR
+3 ENTITY THAT PROVIDES PROFESSIONAL ADVICE, ANALYSIS, OR SERVICES
+4 TO A SELF-INSURED EMPLOYER REGARDING HEALTH BENEFIT PLAN DESIGN
+5 OR ADMINISTRATION, INCLUDING SERVICES RELATED TO PRESCRIPTION
+6 DRUG BENEFITS.
+7 (b) "NATIONAL DRUG CODE" HAS THE MEANING SET FORTH IN
+8 SECTION 10-16-122.9 (2)(f).
+9 (c) (I) "PHARMACY STEWARDSHIP PROGRAM" MEANS A PROGRAM
+10 OPERATED BY OR ON BEHALF OF A SELF-INSURED EMPLOYER TO OPTIMIZE
+11 THE FINANCIAL PERFORMANCE OF THE SELF-INSURED EMPLOYER'S
+12 PHARMACY BENEFIT WHILE MAINTAINING SAFETY, CONTINUITY OF
+13 THERAPY, AND EQUAL OR LOWER MEMBER COST SHARE. PRESCRIPTIONS
+14 NOT FULFILLED THROUGH THE PHARMACY STEWARDSHIP PROGRAM
+15 CONTINUE TO PROCESS UNDER THE HEALTH BENEFIT PLAN'S EXISTING
+16 PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+17 (II) A "PHARMACY STEWARDSHIP PROGRAM" INCLUDES THE USE OF
+18 OPTIMIZED SOURCING.
+19 (III) A "PHARMACY STEWARDSHIP PROGRAM" IS NOT:
+20 (A) INSURANCE OR A POLICY OF INSURANCE;
+21 (B) A HEALTH PLAN;
+22 (C) A PBM; OR
+23 (D) A THIRD-PARTY ADMINISTRATOR.
+24 (d) (I) "PRESCRIPTION DRUG OPTIMIZED SOURCING PROGRAM"
+25 MEANS A LAWFUL ARRANGEMENT OPERATED BY OR ON BEHALF OF A
+26 SELF-INSURED EMPLOYER UNDER WHICH A DEFINED SUBSET OF
+27 PRESCRIPTION DRUGS FOR COVERED PERSONS MAY BE DISPENSED
+-3- HB26-1056
+
+1 THROUGH CHANNELS OTHER THAN THE HEALTH BENEFIT PLAN'S
+2 PHARMACY BENEFIT MANAGER OR CARRIER-ADMINISTERED NETWORK, IF
+3 AUTHORIZED BY FEDERAL LAW, TO REDUCE THE NET PLAN COST WHILE
+4 MAINTAINING PATIENT SAFETY, CONTINUITY OF THERAPY, AND EQUAL OR
+5 LOWER MEMBER COST SHARE. A PRESCRIPTION DRUG OPTIMIZED SOURCING
+6 PROGRAM IS NOT INSURANCE, AND PRESCRIPTIONS NOT FULFILLED
+7 THROUGH THE PROGRAM CONTINUE TO PROCESS UNDER A PLAN'S EXISTING
+8 PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+9 (II) "PRESCRIPTION DRUG OPTIMIZED SOURCING PROGRAM"
+10 INCLUDES A PROGRAM FOR IMPORTING PRESCRIPTION DRUGS AUTHORIZED
+11 BY FEDERAL LAW AND FDA REGULATION.
+12 (e) "SELF-INSURED EMPLOYER" MEANS AN EMPLOYER THAT OFFERS
+13 A SELF-INSURED HEALTH PLAN TO ITS EMPLOYEES.
+14 (3) Prohibition against misinformation. A PHARMACY BENEFIT
+15 MANAGER OR HEALTH-CARE CONSULTANT SHALL NOT KNOWINGLY MAKE
+16 OR DISSEMINATE FALSE OR MISLEADING STATEMENTS OR CLAIMS TO AN
+17 EMPLOYER, SELF-INSURED EMPLOYER, OR POLICYHOLDER ABOUT THE
+18 LEGALITY OR SAFETY OF A LAWFUL PRESCRIPTION DRUG OPTIMIZED
+19 SOURCING PROGRAM ESTABLISHED BY A PHARMACY STEWARDSHIP
+20 PROGRAM.
+21 (4) Disclosure requirements.
+22 (a) UPON WRITTEN REQUEST BY A SELF-INSURED EMPLOYER, A
+23 PHARMACY BENEFIT MANAGER OR HEALTH-CARE CONSULTANT SHALL
+24 PROVIDE DETAILED COST INFORMATION FOR EACH PRESCRIPTION DRUG
+25 DISPENSED UNDER THE PLAN, INCLUDING:
+26 (I) TOTAL DRUG COST PER CLAIM;
+27 (II) TOTAL MEMBER-PAID PORTION PER CLAIM;
+-4- HB26-1056
+
+1 (III) TOTAL PLAN-PAID, SPONSOR-PAID, OR EMPLOYER-PAID
+2 PORTION PER CLAIM; AND
+3 (IV) NATIONAL DRUG CODE, QUANTITY, STRENGTH, AND DAYS OF
+4 SUPPLY.
+5 (b) A PHARMACY BENEFIT MANAGER OR HEALTH-CARE
+6 CONSULTANT THAT PROVIDES COST INFORMATION PURSUANT TO
+7 SUBSECTION (4)(a) OF THIS SECTION SHALL NOT WITHHOLD, EDIT, OR
+8 REDACT THE INFORMATION THAT THE PHARMACY BENEFIT MANAGER OR
+9 HEALTH-CARE CONSULTANT PROVIDES.
+10 (5) Self-insured employer rights. THIS SECTION DOES NOT
+11 RESTRICT OR LIMIT THE RIGHT OF A SELF-INSURED EMPLOYER TO
+12 PURCHASE PRESCRIPTION DRUGS THROUGH A LAWFUL PRESCRIPTION DRUG
+13 OPTIMIZED SOURCING PROGRAM. A SELF-INSURED EMPLOYER RETAINS THE
+14 RIGHT TO CONTRACT FOR ANY LAWFUL PRESCRIPTION DRUG OPTIMIZED
+15 SOURCING PROGRAM, INCLUDING PERSONAL-USE IMPORTATION PROGRAMS
+16 PERMITTED UNDER FEDERAL LAW, FOR DRUGS USED BY THE SELF-INSURED
+17 EMPLOYER'S HEALTH BENEFIT PLAN'S COVERED PERSONS.
+18 (6) Pharmacy stewardship programs.
+19 (a) A PHARMACY STEWARDSHIP PROGRAM THAT IS DESIGNED TO
+20 IMPROVE THE COST-EFFECTIVENESS OF MEDICATION USE WHILE
+21 MAINTAINING PATIENT SAFETY IS RECOGNIZED AS AN EFFECTIVE
+22 COST-CONTAINMENT TOOL.
+23 (b) PHARMACY STEWARDSHIP PROGRAMS AND PRESCRIPTION DRUG
+24 OPTIMIZED SOURCING PROGRAMS ARE AUTHORIZED BY STATE LAW WHEN
+25 IMPLEMENTED IN COMPLIANCE WITH FEDERAL LAW AND WITH THIS
+26 SECTION. SUCH AUTHORIZED PROGRAMS INCLUDE PROGRAMS FOR
+27 IMPORTING PRESCRIPTION DRUGS WHEN AUTHORIZED UNDER FEDERAL
+-5- HB26-1056
+
+1 LAW.
+2 (c) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO CREATE A
+3 NEW INSURANCE PRODUCT OR MANDATORY COVERAGE.
+4 (7) No state cost or self-insured employer mandate.
+5 (a) THIS SECTION DOES NOT:
+6 (I) CREATE A FISCAL REQUIREMENT FOR ANY STATE AGENCY OR AN
+7 APPROPRIATION FROM THE GENERAL FUND;
+8 (II) REQUIRE AN EMPLOYER TO ADOPT OR PARTICIPATE IN A
+9 PRESCRIPTION DRUG OPTIMIZED SOURCING PROGRAM OR PHARMACY
+10 STEWARDSHIP PROGRAM; OR
+11 (III) REQUIRE THAT RESOURCES BE EXPENDED AS A RESULT OF THIS
+12 SECTION.
+13 (b) THE COMMISSIONER SHALL IMPLEMENT THIS SECTION WITHIN
+14 EXISTING APPROPRIATIONS.
+15 (8) Enforcement. THE COMMISSIONER SHALL ENFORCE THIS
+16 SECTION WITH RESPECT TO A PBM OR HEALTH-CARE CONSULTANT THAT
+17 ADMINISTERS OR MANAGES PRESCRIPTION DRUG BENEFITS FOR A HEALTH
+18 BENEFIT PLAN. A VIOLATION OF THIS SECTION BY A PBM OR A
+19 HEALTH-CARE CONSULTANT IS AN UNFAIR METHOD OF COMPETITION AND
+20 AN UNFAIR OR DECEPTIVE ACT OR PRACTICE IN THE BUSINESS OF
+21 INSURANCE PURSUANT TO SECTION 10-3-1104 (1)(uu). EACH DAY DURING
+22 WHICH A VIOLATION CONTINUES CONSTITUTES A SEPARATE VIOLATION.
+23 SECTION 3. In Colorado Revised Statutes, 10-3-1104, add
+24 (1)(uu) as follows:
+25 10-3-1104. Unfair methods of competition - unfair or deceptive
+26 practices - rules - definitions. (1) The following are defined as unfair
+27 methods of competition and unfair or deceptive acts or practices in the
+-6- HB26-1056
+
+1 business of insurance:
+2 (uu) VIOLATING SECTION 10-16-171.
+3 SECTION 4. Act subject to petition - effective date -
+4 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+5 the expiration of the ninety-day period after final adjournment of the
+6 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+7 2026); except that, if a referendum petition is filed pursuant to section 1
+8 (3) of article V of the state constitution against this act or an item, section,
+9 or part of this act within such period, then the act, item, section, or part
+10 will not take effect unless approved by the people at the general election
+11 to be held in November 2026 and, in such case, will take effect on the
+12 date of the official declaration of the vote thereon by the governor.
+13 (2) This act applies to conduct or omissions occurring on or after
+14 the applicable effective date of this act.
+-7- HB26-1056

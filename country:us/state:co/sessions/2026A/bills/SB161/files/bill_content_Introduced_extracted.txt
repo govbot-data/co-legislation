@@ -1,0 +1,1129 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0582.06 Jery Payne x2157 SENATE BILL 26-161
+SENATE SPONSORSHIP
+Snyder and Mullica,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING CANNABIS-RELATED PRODUCTS, AND, IN CONNECTION
+102 THEREWITH, CHANGING THE BASIS FOR MARIJUANA EXCISE AND
+103 SALES TAX, MOVING THE TESTING AND SAFETY ELEMENTS OF
+104 INTOXICATING CANNABIS REGULATION FROM THE DEPARTMENT
+105 OF REVENUE TO THE DEPARTMENT OF PUBLIC HEALTH AND
+106 ENVIRONMENT, REQUIRING INTOXICATING CANNABIS
+107 PRODUCERS TO BE REGISTERED WITH THE DEPARTMENT OF
+108 PUBLIC HEALTH AND ENVIRONMENT, AND CHANGING THE
+109 TESTING OF MARIJUANA.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, an excise tax of 15% is levied and collected on
+the first sale or transfer of unprocessed retail marijuana by a retail
+marijuana cultivation facility, and a sales tax of 15% is imposed on sales
+of retail marijuana and retail marijuana products by a retailer. The bill
+lowers the excise tax to $1 per pound of unprocessed retail marijuana and
+replaces the 15% sales tax with a sales tax structure that is based on the
+content of intoxicating cannabinoids in retail cannabis products. The sales
+tax may be changed by an act of the general assembly but may not exceed
+2 cents per milligram of total intoxicating cannabinoids until January 1,
+2030, and 5 cents thereafter.
+The legislative council staff shall make projections based on the
+tax changes and propose adjustments to the joint budget committee in
+order to stabilize intoxicating cannabinoid tax revenue. If such a proposal
+is made, the joint budget committee may propose legislation to stabilize
+the tax revenue.
+Current law creates a bifurcated regulatory structure for marijuana
+and intoxicating hemp. The bill moves the testing and safety elements
+from the department of revenue to the department of public health and
+environment (department). The state licensing authority (authority) in the
+department of revenue is currently directed to adopt rules to, among other
+things, establish testing standards. The bill transfers these responsibilities
+from the authority to the department. Mandatory compliance testing
+requirements are shifted from throughout the supply chain to the point at
+which products are packaged for sale to or use by consumers. Mandatory
+compliance testing standards are set by a new reference laboratory, which
+will also conduct statewide off-shelf surveillance testing of intoxicating
+cannabis products. This means that the products are tested at the retail
+level where consumers may purchase them.
+The bill requires the following be made available for public
+inspection via an online portal:
+! Adverse health reports, including the product manufacturer
+and basis for the report, with personally identifiable
+information related to the affected customers redacted; and
+! Traceability information and testing results for intoxicating
+cannabis products transferred to a consumer, so that
+consumers may access and view product batches,
+manufacturers, cultivators, or retailers and the associated
+traceability or testing data.
+The bill requires marijuana product producers to be registered with
+the department and regulated in a like manner as other food
+manufacturers. The department may enforce labeling and content claim
+requirements and impose penalties for health- and labeling-related
+-2- SB26-161
+
+violations or refer violations to the authority for license discipline.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Cannabis Consumer Protection Act".
+4 SECTION 2. Legislative declaration.
+5 (1) The general assembly finds and declares that:
+6 (a) Marijuana products intended for human consumption present
+7 public health and consumer safety considerations that warrant clear,
+8 consistent, and effective state oversight;
+9 (b) Regulation and taxation of marijuana products should reflect
+10 public health risk and promote informed consumer choice;
+11 (c) Since the legalization of marijuana, the marketplace has
+12 evolved to include higher-potency products and more complex methods
+13 of production and consumption, requiring updates to the state's regulatory
+14 framework;
+15 (d) Health and safety oversight of consumable products in
+16 Colorado is appropriately placed within the agency possessing public
+17 health, laboratory, and scientific expertise, which agency is the Colorado
+18 department of public health and environment that currently oversees
+19 similar functions for hemp and natural medicine;
+20 (e) The marijuana enforcement division within the department of
+21 revenue has, in recent years, faced fiscal and operational constraints while
+22 administering an expanding scope of responsibilities; and
+23 (f) It is appropriate to place responsibility for testing, product
+24 safety standards, and oversight of the manufacturing of marijuana
+25 products intended for human consumption within the Colorado
+-3- SB26-161
+
+1 department of public health and environment, while allowing the
+2 marijuana enforcement division to focus on licensing, tax compliance,
+3 and enforcement.
+4 (2) In anticipation of future federal regulation of marijuana, the
+5 general assembly intends to align Colorado's marijuana regulatory
+6 structure with established regulatory models used for other agricultural
+7 and consumer products, and this structure includes the separation of
+8 licensing and enforcement functions from health and safety oversight.
+9 (3) The general assembly further intends that this act enhance
+10 consumer protection, ensure that marijuana products offered for sale in
+11 Colorado meet applicable safety and labeling standards, disincentivize the
+12 abuse of intoxicating cannabinoids by directly taxing intoxicating
+13 cannabinoid content, and establish a regulatory framework that prioritizes
+14 public health and safety.
+15 SECTION 3. In Colorado Revised Statutes, add 2-3-211 as
+16 follows:
+17 2-3-211. Marijuana tax revenue stabilization - legislative
+18 council staff - definition - repeal.
+19 (1) (a) AS PART OF THE QUARTERLY 2026 DECEMBER REVENUE
+20 FORECAST, LEGISLATIVE COUNCIL STAFF SHALL PROJECT:
+21 (I) THE AMOUNT OF TAX REVENUE THAT WILL BE RAISED IF TAXES
+22 ARE IMPOSED IN THE NEXT CALENDAR YEAR AT THE RATES DESCRIBED IN
+23 SECTIONS 39-28.8-202 (4)(b) AND 39-28.8-302 (1)(d); AND
+24 (II) THE AMOUNT OF TAX REVENUE THAT WOULD HAVE BEEN
+25 GENERATED AS A RESULT OF THE TAXES DESCRIBED IN SECTIONS
+26 39-28.8-202 (1) AND 39-28.8-302 (1)(a) IF THE TAXES WERE IMPOSED AT
+27 THE SAME RATE AND IN THE SAME MANNER AS THEY WERE IMPOSED ON
+-4- SB26-161
+
+1 DECEMBER 31, 2025.
+2 (b) IF THE AMOUNT OF TAX REVENUE DESCRIBED IN SUBSECTION
+3 (1)(a)(I) OF THIS SECTION IS SUBSTANTIALLY DIFFERENT THAN THE
+4 AMOUNT OF TAX REVENUE DESCRIBED IN SUBSECTION (1)(a)(II) OF THIS
+5 SECTION, LEGISLATIVE COUNCIL STAFF SHALL PROPOSE ADJUSTMENTS TO
+6 THE TAX RATES OF THE TAXES IMPOSED IN SECTION 39-28.8-202 (4)(b) TO
+7 STABILIZE THE REVENUE FROM THE TAXES IMPOSED IN SECTIONS
+8 39-28.8-202 AND 39-28.8-302. THE PROPOSED RATES MUST:
+9 (I) EACH BE LESS THAN THE MAXIMUM RATES DESCRIBED IN
+10 SECTION 39-28.8-202 (4)(a);
+11 (II) FOR EACH TYPE OF RETAIL MARIJUANA OR RETAIL MARIJUANA
+12 PRODUCT, BE IN SUBSTANTIALLY THE SAME PROPORTIONS AS THE RATES
+13 DESCRIBED IN SECTION 39-28.8-202 (4)(b); AND
+14 (III) BE PROJECTED BY LEGISLATIVE COUNCIL STAFF TO RESULT IN
+15 THE AMOUNT OF TAX REVENUE DESCRIBED IN SUBSECTION (1)(a)(I) OF
+16 THIS SECTION EQUALING THE AMOUNT OF TAX REVENUE DESCRIBED IN
+17 SUBSECTION (1)(a)(II) OF THIS SECTION; AND
+18 (IV) BE ADJUSTED TO ACCOUNT FOR INFLATION OR DEFLATION
+19 AND POPULATION GROWTH OR SHRINKAGE.
+20 (c) THIS SUBSECTION (1) IS REPEALED, EFFECTIVE JULY 1, 2027.
+21 (2) (a) AS PART OF THE QUARTERLY DECEMBER REVENUE
+22 FORECAST, BEGINNING WITH THE 2027 QUARTERLY DECEMBER REVENUE
+23 FORECAST, LEGISLATIVE COUNCIL STAFF SHALL PROJECT THE AMOUNT OF
+24 TAX REVENUE THAT WILL BE RAISED IF TAXES ARE IMPOSED IN THE NEXT
+25 CALENDAR YEAR AT THE RATES DESCRIBED IN SECTIONS 39-28.8-202
+26 (4)(b) AND 39-28.8-302 (1)(d).
+27 (b) TO ENSURE THAT THE TAX REVENUE FROM THE TAXES IMPOSED
+-5- SB26-161
+
+1 IN SECTIONS 39-28.8-202 (4)(b) AND 39-28.8-302 (1)(d) IS NOT
+2 SIGNIFICANTLY HIGHER OR LOWER THAN THE AVERAGE TAX REVENUE
+3 OVER THE PREVIOUS THREE YEARS, LEGISLATIVE COUNCIL STAFF MAY
+4 PROPOSE, TO THE JOINT BUDGET COMMITTEE, ADJUSTMENTS TO THE TAX
+5 RATES OF THE TAXES IMPOSED IN SECTION 39-28.8-202 (4)(b) TO
+6 STABILIZE THE REVENUE FROM THE TAXES IMPOSED IN SECTIONS
+7 39-28.8-202 AND 39-28.8-302. THE PROPOSED RATES MUST:
+8 (I) EACH BE LESS THAN THE MAXIMUM RATES DESCRIBED IN
+9 SECTION 39-28.8-202 (4)(a); AND
+10 (II) BE ADJUSTED TO ACCOUNT FOR INFLATION OR DEFLATION AND
+11 POPULATION GROWTH OR SHRINKAGE.
+12 (3) (a) IF LEGISLATIVE COUNCIL STAFF PROPOSES RATES PURSUANT
+13 TO SUBSECTION (1)(b) OR (2)(b) OF THIS SECTION, LEGISLATIVE COUNCIL
+14 STAFF SHALL PRESENT THOSE PROPOSED RATES TO THE JOINT BUDGET
+15 COMMITTEE ALONG WITH THE QUARTERLY DECEMBER REVENUE
+16 FORECAST. THE JOINT BUDGET COMMITTEE MAY INTRODUCE LEGISLATION
+17 TO ADJUST THE TAX RATES IN SECTION 39-28.8-202 (4)(b) TO STABILIZE
+18 THE REVENUE FROM THE TAXES IMPOSED IN SECTIONS 39-28.8-202 AND
+19 39-28.8-302.
+20 (b) LEGISLATION INTRODUCED PURSUANT TO THIS SECTION IS
+21 GOVERNED BY THE RULES REGARDING LEGISLATION RECOMMENDED BY AN
+22 INTERIM LEGISLATIVE COMMITTEE FOR PURPOSES OF INTRODUCTION
+23 DEADLINES OR BILL LIMITATIONS IMPOSED BY THE JOINT RULES OF THE
+24 GENERAL ASSEMBLY.
+25 (4) AS USED IN THIS SECTION, "INFLATION OR DEFLATION" MEANS
+26 THE ANNUAL PERCENTAGE INCREASE OR DECREASE IN THE UNITED STATES
+27 DEPARTMENT OF LABOR'S BUREAU OF LABOR STATISTICS CONSUMER PRICE
+-6- SB26-161
+
+1 INDEX, OR A SUCCESSOR INDEX, FOR DENVER-AURORA-LAKEWOOD FOR
+2 ALL ITEMS PAID FOR BY URBAN CONSUMERS.
+3 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2030.
+4 SECTION 4. In Colorado Revised Statutes, 39-28.8-101, amend
+5 (1.5); and add (4.4), (4.5), and (4.6) as follows:
+6 39-28.8-101. Definitions - repeal.
+7 Unless the context otherwise requires, any terms not defined in this
+8 article 28.8 have the meanings set forth in article 26 of this title 39. As
+9 used in this article 28.8, unless the context otherwise requires:
+10 (1.5) (a) "Average market rate" means the average price, as
+11 determined by the department on a quarterly basis, of all unprocessed
+12 retail marijuana that is sold or transferred from retail marijuana
+13 cultivation facilities in the state to retail marijuana product manufacturing
+14 facilities or retail marijuana stores, less taxes paid on the sales or
+15 transfers. An "average market rate" may be based on the purchaser or
+16 transferee of unprocessed retail marijuana or on the nature of the
+17 unprocessed retail marijuana that is sold or transferred. The "average
+18 market rate" must include one or more rates that cover unprocessed
+19 marijuana that is allocated to extractions, and the initial rates for these
+20 product types must be lower than the rate for unprocessed marijuana that
+21 is allocated for direct sale to consumers.
+22 (b) THIS SUBSECTION (1.5) IS REPEALED, EFFECTIVE JANUARY 1,
+23 2027.
+24 (4.4) "INFLATION" MEANS THE ANNUAL PERCENTAGE INCREASE IN
+25 THE UNITED STATES DEPARTMENT OF LABOR'S BUREAU OF LABOR
+26 STATISTICS CONSUMER PRICE INDEX, OR A SUCCESSOR INDEX, FOR
+27 DENVER-AURORA-LAKEWOOD FOR ALL ITEMS PAID FOR BY URBAN
+-7- SB26-161
+
+1 CONSUMERS.
+2 (4.5) "INTOXICATING CANNABINOID" MEANS:
+3 (a) TETRAHYDROCANNABINOL; OR
+4 (b) THE CHEMICALS DESCRIBED IN SECTION 25-5-427 (4)(d)(I)(A)
+5 TO (4)(d)(I)(M).
+6 (4.6) "INTOXICATING CANNABIS" MEANS A PRODUCT OR PLANT
+7 MATERIAL THAT CONTAINS AN INTOXICATING CANNABINOID.
+8 SECTION 5. In Colorado Revised Statutes, 39-28.8-202, amend
+9 (1)(a)(I); repeal (1)(b); and add (4) as follows:
+10 39-28.8-202. Retail marijuana sales tax - rules - definition.
+11 (1) (a) (I) In addition to the tax imposed pursuant to part 1 of
+12 article 26 of this title 39 and the sales tax imposed by a local government
+13 pursuant to title 29, 30, 31, or 32, but except as otherwise set forth in
+14 subsections (1)(a)(II) and (1)(a)(III) of this section, beginning January 1,
+15 2014, and through June 30, 2017, there is imposed upon all sales of retail
+16 marijuana and retail marijuana products by a retailer a tax at the rate of
+17 ten percent of the amount of the sale. Beginning July 1, 2017, AND PRIOR
+18 TO JANUARY 1, 2027, there is imposed upon all sales of retail marijuana
+19 and retail marijuana products by a retailer a tax at the rate of fifteen
+20 percent of the amount of the sale. The tax imposed by this section is
+21 computed in accordance with schedules or forms prescribed by the
+22 executive director of the department; except that a retail marijuana store
+23 is not allowed to retain any portion of the retail marijuana sales tax
+24 collected pursuant to this part 2 to cover the expenses of collecting and
+25 remitting the tax. The executive director OF THE DEPARTMENT may
+26 promulgate ADOPT rules to implement this section.
+27 (b) The maximum tax rate that may be imposed pursuant to this
+-8- SB26-161
+
+1 section is fifteen percent. At any time on or after January 1, 2014, the
+2 general assembly may, by a bill enacted by the general assembly and that
+3 becomes law:
+4 (I) Establish a tax rate to be imposed pursuant to this subsection
+5 (1) that is lower than fifteen percent of the sale of retail marijuana or
+6 retail marijuana products; or
+7 (II) After establishing a tax rate that is lower than fifteen percent
+8 pursuant to subparagraph (I) of this paragraph (b), increase the tax rate to
+9 be imposed pursuant to this subsection (1); except that, in no event shall
+10 the general assembly increase the tax rate above fifteen percent of the sale
+11 of retail marijuana or retail marijuana products. Notwithstanding any
+12 other provision of law, an increase in the tax rate pursuant to this
+13 subparagraph (II) shall not require voter approval subsequent to the voter
+14 approval required pursuant to part 4 of this article.
+15 (4) (a) (I) THE MAXIMUM SALES TAX THAT MAY BE IMPOSED
+16 PURSUANT TO THIS SUBSECTION (4) IS:
+17 (A) BEFORE JANUARY 1, 2030, TWO CENTS PER MILLIGRAM OF
+18 TOTAL INTOXICATING CANNABINOIDS IN RETAIL CANNABIS PRODUCTS; OR
+19 (B) ON OR AFTER JANUARY 1, 2030, FIVE CENTS PER MILLIGRAM
+20 OF TOTAL INTOXICATING CANNABINOIDS IN RETAIL CANNABIS PRODUCTS.
+21 (II) AT ANY TIME ON OR AFTER JANUARY 1, 2027, THE GENERAL
+22 ASSEMBLY MAY, BY A BILL ENACTED BY THE GENERAL ASSEMBLY AND
+23 THAT BECOMES LAW:
+24 (A) ESTABLISH A SALES TAX RATE TO BE IMPOSED PURSUANT TO
+25 THIS SUBSECTION (4) THAT IS LOWER THAN THE SALES TAX RATE
+26 DESCRIBED IN SUBSECTION (4)(a)(I) OF THIS SECTION; OR
+27 (B) AFTER ESTABLISHING A SALES TAX RATE THAT IS LOWER THAN
+-9- SB26-161
+
+1 THE SALES TAX RATE DESCRIBED IN SUBSECTION (4)(a)(I) OF THIS SECTION,
+2 INCREASE THE SALES TAX RATE TO BE IMPOSED PURSUANT TO THIS
+3 SUBSECTION (4); EXCEPT THAT THE GENERAL ASSEMBLY SHALL NOT
+4 INCREASE THE SALES TAX RATE ABOVE THE SALES TAX RATE DESCRIBED
+5 IN SUBSECTION (4)(a)(I) OF THIS SECTION. AN INCREASE IN THE SALES TAX
+6 RATE PURSUANT TO THIS SUBSECTION (4)(a)(II)(B) DOES NOT REQUIRE
+7 VOTER APPROVAL SUBSEQUENT TO THE VOTER APPROVAL REQUIRED TO
+8 ADOPT THIS SUBSECTION (4).
+9 (b) A SALES TAX IS IMPOSED UPON THE SALE OF RETAIL
+10 INTOXICATING CANNABIS PRODUCTS BY A RETAILER AT THE FOLLOWING
+11 RATES ON AND AFTER JANUARY 1, 2027:
+12 (I) FOR EDIBLE RETAIL MARIJUANA PRODUCTS, ONE AND
+13 TWO-TENTHS OF ONE CENT PER MILLIGRAM OF TOTAL INTOXICATING
+14 CANNABINOIDS; AND
+15 (II) FOR INHALED MARIJUANA PRODUCTS MADE WITH MARIJUANA
+16 CONCENTRATE, FOUR-TENTHS OF ONE CENT PER MILLIGRAM OF TOTAL
+17 INTOXICATING CANNABINOIDS;
+18 (III) FOR MARIJUANA PRODUCTS MADE WITH MARIJUANA FLOWER,
+19 FOUR-TENTHS OF ONE CENT PER MILLIGRAM OF TOTAL INTOXICATING
+20 CANNABINOIDS; AND
+21 (IV) FOR INTOXICATING CANNABIS PRODUCTS NOT DESCRIBED IN
+22 SUBSECTIONS (4)(b)(I) TO (4)(b)(III) OF THIS SECTION, FOUR-TENTHS OF
+23 ONE CENT PER MILLIGRAM OF TOTAL INTOXICATING CANNABINOIDS.
+24 SECTION 6. In Colorado Revised Statutes, 39-28.8-203, amend
+25 (1) introductory portion as follows:
+26 39-28.8-203. Disposition of collections - definitions.
+27 (1) The proceeds of all money collected from the retail marijuana
+-10- SB26-161
+
+1 sales tax are initially credited to the old age pension fund created in
+2 section 1 of article XXIV of the state constitution in accordance with
+3 sections 2 (a) and 2 (f) of article XXIV of the state constitution and
+4 thereafter are transferred to the general fund in accordance with section
+5 7 of article XXIV of the state constitution. For each STATE fiscal year in
+6 which a tax is collected pursuant to this part 2, an amount shall be FORTY
+7 PERCENT OF THE TAX REVENUE IS DISTRIBUTED IN ACCORDANCE WITH
+8 SECTION 39-28.8-305 AND SIXTY PERCENT OF THE TAX REVENUE IS
+9 appropriated or distributed from the general fund as follows:
+10 SECTION 7. In Colorado Revised Statutes, 39-28.8-302, amend
+11 (1)(a); and add (1)(d) and (1)(e) as follows:
+12 39-28.8-302. Retail marijuana - excise tax levied at first
+13 transfer from retail marijuana cultivation facility - tax rate.
+14 (1) (a) (I) Except as otherwise provided in subsection (1)(b) or
+15 (1)(c) of this section AND PRIOR TO JANUARY 1, 2027, there is levied and
+16 shall be collected, in addition to the sales tax imposed pursuant to part 1
+17 of article 26 of this title 39 and part 2 of this article 28.8, a tax on the first
+18 sale or transfer of unprocessed retail marijuana by a retail marijuana
+19 cultivation facility, at a rate of fifteen percent of the average market rate
+20 of the unprocessed retail marijuana if the transaction is between affiliated
+21 retail marijuana business licensees. Except as otherwise provided in
+22 subsection (1)(b) or (1)(c) of this section AND PRIOR TO JANUARY 1, 2027,
+23 there is levied and shall be collected, in addition to the sales tax imposed
+24 pursuant to part 1 of article 26 of this title 39 and part 2 of this article
+25 28.8, a tax on the first sale or transfer of unprocessed retail marijuana by
+26 a retail marijuana cultivation facility, at a rate of fifteen percent of the
+27 contract price for unprocessed retail marijuana if the transaction is
+-11- SB26-161
+
+1 between unaffiliated retail marijuana business licensees. Retail marijuana
+2 excise tax shall also be calculated as fifteen percent of the contract price
+3 when the first transfer of retail marijuana that has been harvested for sale
+4 at a retail marijuana store or extraction by a retail marijuana product
+5 manufacturing facility is between unaffiliated retail marijuana cultivation
+6 facilities. The tax shall be imposed at the time when the retail marijuana
+7 cultivation facility first sells or transfers unprocessed retail marijuana
+8 from the retail marijuana cultivation facility to a retail marijuana product
+9 manufacturing facility or a retail marijuana store.
+10 (II) If, for the fiscal year 2014-15, fiscal year spending is greater
+11 than twelve billion eighty million dollars or if the revenue from retail
+12 marijuana taxes is greater than sixty-seven million dollars, then on
+13 September 16, 2015, the rate of the tax imposed under subparagraph (I)
+14 of this paragraph (a) is reduced as specified in section 20 (3)(c) of article
+15 X of the state constitution. On September 17, 2015, in accordance with
+16 paragraph (b) of this subsection (1) and the authority that the voters
+17 conferred through their approval of proposition AA at the November
+18 2013 election, the rate is increased back to fifteen percent.
+19 (d) EXCEPT AS OTHERWISE PROVIDED IN SUBSECTION (1)(b) OR
+20 (1)(c) OF THIS SECTION, A TAX ON THE FIRST SALE OR TRANSFER OF
+21 UNPROCESSED RETAIL MARIJUANA BY A RETAIL MARIJUANA CULTIVATION
+22 FACILITY IS LEVIED, AND THE DEPARTMENT SHALL COLLECT THE TAX AT
+23 A RATE OF ONE DOLLAR PER POUND OF UNPROCESSED RETAIL MARIJUANA.
+24 THE TAX IS IN ADDITION TO THE SALES TAX IMPOSED PURSUANT TO PART
+25 1 OF ARTICLE 26 OF THIS TITLE 39 AND PART 2 OF THIS ARTICLE 28.8.
+26 RETAIL MARIJUANA EXCISE TAX IS CALCULATED AS ONE DOLLAR PER
+27 POUND OF UNPROCESSED RETAIL MARIJUANA WHEN THE FIRST TRANSFER
+-12- SB26-161
+
+1 OF RETAIL MARIJUANA THAT HAS BEEN HARVESTED FOR SALE AT A RETAIL
+2 MARIJUANA STORE OR EXTRACTION BY A RETAIL MARIJUANA PRODUCT
+3 MANUFACTURING FACILITY IS BETWEEN UNAFFILIATED RETAIL MARIJUANA
+4 CULTIVATION FACILITIES. THE TAX IS IMPOSED WHEN THE RETAIL
+5 MARIJUANA CULTIVATION FACILITY FIRST SELLS OR TRANSFERS
+6 UNPROCESSED RETAIL MARIJUANA FROM THE RETAIL MARIJUANA
+7 CULTIVATION FACILITY TO A RETAIL MARIJUANA PRODUCT
+8 MANUFACTURING FACILITY OR A RETAIL MARIJUANA STORE.
+9 (e) THE DEPARTMENT SHALL ANNUALLY ADJUST FOR INFLATION
+10 THE TAX IMPOSED IN SUBSECTION (1)(d) OF THIS SECTION. THE
+11 DEPARTMENT MAY ROUND THE ADJUSTED AMOUNT UPWARD TO THE
+12 NEAREST CENT.
+13 SECTION 8. In Colorado Revised Statutes, 44-10-103, amend
+14 the introductory portion; and add (8.5), (22.7), and (68.3) as follows:
+15 44-10-103. Definitions - rules.
+16 As used in this article 10 AND IN SECTION 25-5-429, unless the
+17 context otherwise requires:
+18 (8.5) "AUTHORIZED SAMPLER" HAS THE MEANING SET FORTH IN
+19 SECTION 25-5-429 (1)(a).
+20 (22.7) "INTOXICATING CANNABIS PRODUCT" HAS THE MEANING SET
+21 FORTH IN SECTION 25-5-429 (1)(c).
+22 (68.3) "SEED-TO-SALE INVENTORY TRACKING SYSTEM" OR
+23 "SEED-TO-SALE TRACKING SYSTEM" MEANS THE TRACKING SYSTEM
+24 DEVELOPED AND MAINTAINED BY THE STATE LICENSING AUTHORITY
+25 PURSUANT TO SECTION 44-10-202 (1)(a).
+26 SECTION 9. In Colorado Revised Statutes, 44-10-202, amend
+27 (1)(b), (1)(c), (1)(f), and (6); repeal (4); and add (1)(i), (1)(j), and (1)(k)
+-13- SB26-161
+
+1 as follows:
+2 44-10-202. Powers and duties of state licensing authority -
+3 stakeholder work group - rules - report - legislative declaration.
+4 (1) Powers and duties. The state licensing authority shall:
+5 (b) Grant or refuse state licenses for the cultivation, manufacture,
+6 distribution, sale, hospitality, and testing of regulated marijuana and
+7 regulated marijuana INTOXICATING CANNABIS products as provided by
+8 law; suspend, fine, restrict, or revoke such licenses, whether active,
+9 expired, or surrendered, upon a violation of this article 10 or any rule
+10 promulgated ADOPTED pursuant to this article 10; and impose any penalty
+11 authorized by this article 10 or any rule promulgated ADOPTED pursuant
+12 to this article 10. The state licensing authority may take any action with
+13 respect to a registration or permit ISSUED pursuant to this article 10 as it
+14 may with respect to a license ISSUED pursuant to this article 10, in
+15 accordance with the procedures established pursuant to this article 10.
+16 (c) Promulgate ADOPT rules for the proper regulation and control
+17 of the cultivation, manufacture, distribution, AND sale and testing of
+18 regulated marijuana and regulated marijuana OF INTOXICATING CANNABIS
+19 products and for the enforcement of this article 10 and promulgate ADOPT
+20 amended rules and such special rulings and findings as necessary;
+21 (f) Prepare and transmit annually, in the form and manner
+22 prescribed by the heads of the principal departments pursuant to section
+23 24-1-136, a report accounting to the governor for the efficient discharge
+24 of all responsibilities assigned by law or directive to the state licensing
+25 authority; and
+26 (i) PROVIDE FULL READ AND WRITE ACCESS TO THE SEED-TO-SALE
+27 TRACKING SYSTEM TO THE DEPARTMENT OF PUBLIC HEALTH AND
+-14- SB26-161
+
+1 ENVIRONMENT FOR THE PURPOSE OF IMPLEMENTING SECTION 25-5-429;
+2 (j) IN THE SEED-TO-SALE TRACKING SYSTEM, PROVIDE ACCESS TO
+3 THE PUBLIC TRACEABILITY INFORMATION AND TESTING RESULTS FOR
+4 INTOXICATING CANNABIS PRODUCTS OFFERED FOR SALE TO CONSUMERS,
+5 SO THAT A CONSUMER MAY ACCESS AND VIEW PRODUCT BATCHES,
+6 MANUFACTURERS, CULTIVATORS, OR RETAILERS AND THE ASSOCIATED
+7 TRACEABILITY AND TESTING DATA FOR PRODUCTS OFFERED FOR SALE OR
+8 DISTRIBUTION TO THE CONSUMER; AND
+9 (k) ENSURE THAT CONSUMERS CAN USE THE ONLINE PORTAL
+10 ACCESS DESCRIBED IN SUBSECTION (1)(j) OF THIS SECTION TO SEARCH FOR
+11 TRACEABILITY AND TESTING INFORMATION BY PRODUCT BATCHES,
+12 MANUFACTURERS, OR CULTIVATORS.
+13 (4) The executive director of the department of public health and
+14 environment shall provide to the state licensing authority standards for
+15 licensing laboratories pursuant to the requirements as outlined in section
+16 44-10-203 (2)(d)(II) for regulated marijuana and regulated marijuana
+17 products.
+18 (6) The general assembly finds and declares that matters related
+19 to labeling as regulated pursuant to this section and section 44-10-203
+20 (2)(f), packaging as regulated pursuant to this section and section
+21 44-10-203 (3)(b), and testing as regulated pursuant to this section and
+22 section 44-10-203 (2)(d) SECTION 25-5-429 (3)(a) are matters of statewide
+23 concern and the sole regulatory authority for labeling, packaging, and
+24 testing is section 44-10-203 SECTIONS 25-5-429 AND 44-10-203.
+25 SECTION 10. In Colorado Revised Statutes, 44-10-203, amend
+26 (2)(f), (3) introductory portion, (3)(c), and (8); and add (2)(d)(X) and
+27 (10)(d) as follows:
+-15- SB26-161
+
+1 44-10-203. State licensing authority - rules - repeal.
+2 (2) Mandatory rule-making. Rules adopted pursuant to section
+3 44-10-202 (1)(c) must include the following subjects:
+4 (d) (X) THIS SUBSECTION (2)(d) IS REPEALED, EFFECTIVE MARCH
+5 1, 2027.
+6 (f) (I) Labeling requirements for regulated marijuana and
+7 regulated marijuana INTOXICATING CANNABIS products sold by a medical
+8 marijuana business or retail marijuana business that are at least as
+9 stringent as those imposed by section 25-4-1614 (3)(a) and include: but
+10 are not limited to:
+11 (I) (A) Warning labels;
+12 (II) (B) Amount of THC per serving and the number of servings
+13 per package for regulated marijuana INTOXICATING CANNABIS products;
+14 (III) (C) A universal symbol indicating that the package contains
+15 marijuana; and
+16 (IV) (D) Potency of the regulated marijuana and regulated
+17 marijuana INTOXICATING CANNABIS products.
+18 (II) THE STATE LICENSING AUTHORITY SHALL, IN CONSULTATION
+19 WITH THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT, REQUIRE
+20 THAT ALL INTOXICATING CANNABIS PRODUCTS OFFERED FOR SALE
+21 INCLUDE THE FOLLOWING CONTENT CLAIMS ON PRODUCT LABELS:
+22 (A) INTENDED USE OF THE PRODUCT;
+23 (B) TOTAL MILLIGRAMS OF THC PER PACKAGE;
+24 (C) TOTAL MILLIGRAMS OF THC PER SERVING;
+25 (D) TOTAL MILLIGRAMS OF OTHER INTOXICATING CANNABINOIDS;
+26 (E) TOTAL MILLIGRAMS OF NONINTOXICATING CANNABINOIDS;
+27 AND
+-16- SB26-161
+
+1 (F) STATEMENTS VERIFYING THE ABSENCE OF MICROBIAL
+2 CONTAMINANTS, AEROBIC CONTAMINANTS, AND RESIDUAL PESTICIDES AT
+3 REGULATED THRESHOLDS.
+4 (3) In promulgating ADOPTING rules pursuant to this section, the
+5 state licensing authority may seek the assistance of the department of
+6 public health and environment when necessary before promulgating
+7 ADOPTING rules on the following subjects:
+8 (c) (I) The safe and lawful transport of regulated marijuana and
+9 regulated marijuana products between the licensed business and testing
+10 laboratories.
+11 (II) THIS SUBSECTION (3)(c) IS REPEALED, EFFECTIVE MARCH 1,
+12 2027.
+13 (8) The state licensing authority shall treat a metered-dose inhaler
+14 the same as a vaporized delivery device for purposes of regulation. and
+15 testing.
+16 (10) (d) THIS SUBSECTION (10) IS REPEALED, EFFECTIVE MARCH 1,
+17 2027.
+18 SECTION 11. In Colorado Revised Statutes, 44-10-204, amend
+19 (2)(a), (2)(c), and (2)(d); and add (2)(e) as follows:
+20 44-10-204. Confidentiality.
+21 (2) The state licensing authority shall make available for public
+22 inspection:
+23 (a) Documents related to final agency actions and orders,
+24 INCLUDING ORDERS TO SHOW CAUSE AND EXHIBITS REFERENCED IN THE
+25 ORDERS, WITH PERSONALLY IDENTIFIABLE INFORMATION RELATED TO THE
+26 AFFECTED CUSTOMER REDACTED;
+27 (c) Demographic information related to applicants and licensees
+-17- SB26-161
+
+1 available on an aggregated and de-identified basis; and
+2 (d) Enforcement forms and compliance checklists; AND
+3 (e) ADVERSE HEALTH REPORTS, INCLUDING INFORMATION RELATED
+4 TO THE PRODUCT MANUFACTURER AND BASIS FOR THE REPORT, WITH
+5 PERSONALLY IDENTIFIABLE INFORMATION RELATED TO THE AFFECTED
+6 CUSTOMER REDACTED.
+7 SECTION 12. In Colorado Revised Statutes, 44-10-501, amend
+8 (3)(e) and (6) as follows:
+9 44-10-501. Medical marijuana store license.
+10 (3) (e) (I) A medical marijuana store that sells a hemp product
+11 shall ensure that the hemp product has passed all testing required by rules
+12 adopted by the state licensing authority pursuant to section 44-10-203
+13 (2)(d). Prior to taking possession of the A hemp product, a medical
+14 marijuana store shall verify the hemp product passed all testing required
+15 for medical marijuana products at a licensed medical marijuana testing
+16 facility and that the person transferring the hemp product has received a
+17 registration from the department of public health and environment
+18 pursuant to section 25-5-427 OR 25-5-429.
+19 (II) Absent sampling and testing standards established by the
+20 department of public health and environment for the sampling and testing
+21 of a hemp product, a person transferring a hemp product to a medical
+22 marijuana store pursuant to this section shall comply with sampling and
+23 testing standards consistent with those established by the state licensing
+24 authority pursuant to this article 10. The state licensing authority shall
+25 report to the department of public health and environment any
+26 investigations or findings of violations of this section by a person
+27 registered pursuant to section 25-5-427.
+-18- SB26-161
+
+1 (6) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+2 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+3 CANNABIS PRODUCT FROM A MEDICAL MARIJUANA STORE AND SUBMIT THE
+4 COLLECTED SAMPLE TO A LICENSED MEDICAL MARIJUANA TESTING
+5 FACILITY IN ACCORDANCE WITH THE RULES ADOPTED PURSUANT TO
+6 SECTION 25-5-429 (6).
+7 (b) A medical marijuana store may provide except as required by
+8 section 44-10-203 (2)(d), a sample of its products to a LICENSED MEDICAL
+9 MARIJUANA TESTING facility that has a medical marijuana testing facility
+10 license from the state licensing authority for testing and research
+11 purposes. A medical marijuana store shall maintain a record of what was
+12 provided to the testing facility, the identity of the testing facility, and the
+13 results of the testing.
+14 SECTION 13. In Colorado Revised Statutes, 44-10-502, amend
+15 (3); and repeal (5)(d)(III) as follows:
+16 44-10-502. Medical marijuana cultivation facility license -
+17 centralized distribution permit - obtaining genetic material - transfer
+18 and change of designation of retail marijuana to medical marijuana
+19 - contingency plan - rules - definitions.
+20 (3) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+21 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+22 CANNABIS PRODUCT FROM A MEDICAL MARIJUANA CULTIVATION FACILITY
+23 AND SUBMIT THE COLLECTED SAMPLE TO A LICENSED MEDICAL MARIJUANA
+24 TESTING FACILITY IN ACCORDANCE WITH THE RULES ADOPTED PURSUANT
+25 TO SECTION 25-5-429 (6).
+26 (b) A medical marijuana cultivation facility may provide except
+27 as required by section 44-10-203 (2)(d), a sample of its products to a
+-19- SB26-161
+
+1 facility that has a LICENSED medical marijuana testing facility license
+2 from the state licensing authority for testing and research purposes. A
+3 medical marijuana cultivation facility shall maintain a record of what was
+4 provided to the testing facility, the identity of the testing facility, and the
+5 testing results.
+6 (5) (d) To provide an R-and-D unit, the R-and-D unit must be:
+7 (III) Tested in accordance with the rules adopted under section
+8 44-10-203 (2)(d);
+9 SECTION 14. In Colorado Revised Statutes, 44-10-503, amend
+10 (5)(b) and (8); and repeal (10)(d)(III) as follows:
+11 44-10-503. Medical marijuana products manufacturer license
+12 - hemp products - R-and-D units - transfer and change of designation
+13 of retail marijuana to medical marijuana - rules - definition.
+14 (5) (b) (I) A medical marijuana products manufacturer that uses
+15 a hemp product as an ingredient in a medical marijuana product shall
+16 ensure that the hemp product has passed all testing required by rules
+17 adopted by the state licensing authority pursuant to section 44-10-203
+18 (2)(d). Prior to taking possession of the A hemp product, a medical
+19 marijuana products manufacturer shall verify the hemp product passed all
+20 testing required for medical marijuana products at a licensed medical
+21 marijuana testing facility and that the person transferring the hemp
+22 product has received a registration from the department of public health
+23 and environment pursuant to section 25-5-427 OR 25-5-429.
+24 (II) Absent sampling and testing standards established by the
+25 department of public health and environment for the sampling and testing
+26 of a hemp product, a person transferring a hemp product to a medical
+27 marijuana products manufacturer pursuant to this section shall comply
+-20- SB26-161
+
+1 with sampling and testing standards consistent with those established by
+2 the state licensing authority pursuant to this article 10. The state licensing
+3 authority shall report to the department of public health and environment
+4 any investigations or findings of violations of this section by a person
+5 registered pursuant to section 25-5-427.
+6 (8) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+7 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+8 CANNABIS PRODUCT FROM A MEDICAL MARIJUANA PRODUCTS
+9 MANUFACTURER AND SUBMIT THE COLLECTED SAMPLE TO A LICENSED
+10 MEDICAL MARIJUANA TESTING FACILITY IN ACCORDANCE WITH THE RULES
+11 ADOPTED PURSUANT TO SECTION 25-5-429 (6).
+12 (b) A medical marijuana products manufacturer may provide
+13 except as required by section 44-10-203 (2)(d), a sample of its products
+14 to a facility that has a LICENSED medical marijuana testing facility license
+15 from the state licensing authority for testing and research purposes. A
+16 medical marijuana products manufacturer shall maintain a record of what
+17 was provided to the testing facility, the identity of the testing facility, and
+18 the results of the testing.
+19 (10) (d) To provide an R-and-D unit, the R-and-D unit must be:
+20 (III) Tested in accordance with the rules adopted under section
+21 44-10-203 (2)(d);
+22 SECTION 15. In Colorado Revised Statutes, 44-10-505, amend
+23 (3) as follows:
+24 44-10-505. Medical marijuana transporter license - definition.
+25 (3) A medical marijuana transporter licensee shall use the
+26 seed-to-sale tracking system developed pursuant to section 44-10-202
+27 (1)(a) to create shipping manifests documenting the transport of medical
+-21- SB26-161
+
+1 marijuana and medical marijuana products throughout the state.
+2 SECTION 16. In Colorado Revised Statutes, 44-10-601, amend
+3 (3)(c) and (4) as follows:
+4 44-10-601. Retail marijuana store license - rules - definitions.
+5 (3) (c) (I) A retail marijuana store that sells a hemp product shall
+6 ensure that the hemp product has passed all testing required by rules
+7 adopted by the state licensing authority pursuant to section 44-10-203
+8 (2)(d). Prior to taking possession of the A hemp product, a retail
+9 marijuana store shall verify the hemp product passed all testing required
+10 for retail marijuana products at a licensed retail marijuana testing facility
+11 and that the person transferring the hemp product has received a
+12 registration from the department of public health and environment
+13 pursuant to section 25-5-427 OR 25-5-429.
+14 (II) Absent sampling and testing standards established by the
+15 department of public health and environment for the sampling and testing
+16 of a hemp product, a person transferring a hemp product to a retail
+17 marijuana store pursuant to this section shall comply with sampling and
+18 testing standards consistent with those established by the state licensing
+19 authority pursuant to this article 10. The state licensing authority shall
+20 report to the department of public health and environment any
+21 investigations or findings of violations of this section by a person
+22 registered pursuant to section 25-5-427.
+23 (4) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+24 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+25 CANNABIS PRODUCT FROM A RETAIL MARIJUANA STORE AND SUBMIT EACH
+26 COLLECTED SAMPLE TO A LICENSED RETAIL MARIJUANA TESTING FACILITY.
+27 (b) A retail marijuana store may provide except as required by
+-22- SB26-161
+
+1 section 44-10-203 (2)(d), a sample of its products to a facility that has a
+2 LICENSED RETAIL marijuana testing facility license from the state licensing
+3 authority for testing and research purposes. A retail marijuana store shall
+4 maintain a record of what was provided to the testing facility, the identity
+5 of the testing facility, and the results of the testing.
+6 SECTION 17. In Colorado Revised Statutes, 44-10-602, amend
+7 (4); and repeal (6)(d)(III) as follows:
+8 44-10-602. Retail marijuana cultivation facility license -
+9 R-and-D units - centralized distribution permit - genetic material -
+10 transfer and change of designation of retail marijuana to medical
+11 marijuana - contingency plan - rules - definitions.
+12 (4) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+13 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+14 CANNABIS PRODUCT FROM A RETAIL MARIJUANA CULTIVATION FACILITY
+15 AND SUBMIT THE COLLECTED SAMPLE TO A LICENSED RETAIL MARIJUANA
+16 TESTING FACILITY IN ACCORDANCE WITH RULES ADOPTED PURSUANT TO
+17 SECTION 25-5-429 (6).
+18 (b) A retail marijuana cultivation facility may provide except as
+19 required by section 44-10-203 (2)(d), a sample of its products to a facility
+20 that has a LICENSED retail marijuana testing facility license from the state
+21 licensing authority for testing and research purposes. A retail marijuana
+22 cultivation facility shall maintain a record of what was provided to the
+23 testing facility, the identity of the testing facility, and the testing results.
+24 (6) (d) To provide an R-and-D unit, the R-and-D unit must be:
+25 (III) Tested in accordance with the rules adopted under section
+26 44-10-203 (2)(d);
+27 SECTION 18. In Colorado Revised Statutes, 44-10-603, amend
+-23- SB26-161
+
+1 (6) and (11)(a); and repeal (10)(c)(III) as follows:
+2 44-10-603. Retail marijuana products manufacturer license -
+3 rules - definition.
+4 (6) (a) FOR FINISHED PRODUCT TESTING PURPOSES, AN
+5 AUTHORIZED SAMPLER SHALL COLLECT A SAMPLE OF AN INTOXICATING
+6 CANNABIS PRODUCT FROM A RETAIL MARIJUANA PRODUCTS
+7 MANUFACTURER AND SUBMIT THE COLLECTED SAMPLE TO A LICENSED
+8 RETAIL MARIJUANA TESTING FACILITY IN ACCORDANCE WITH RULES
+9 ADOPTED PURSUANT TO SECTION 25-5-429 (6).
+10 (b) A retail marijuana products manufacturer may provide except
+11 as required by section 44-10-203 (2)(d), a sample of its products to a
+12 facility that has a LICENSED retail marijuana testing facility license from
+13 the state licensing authority for testing and research purposes. A retail
+14 marijuana products manufacturer shall maintain a record of what was
+15 provided to the testing facility, the identity of the testing facility, and the
+16 results of the testing.
+17 (10) (c) To provide an R-and-D unit, the R-and-D unit must be:
+18 (III) Tested in accordance with the rules adopted under section
+19 44-10-203 (2)(d);
+20 (11) (a) A retail marijuana products manufacturer that uses a
+21 hemp product as an ingredient in a retail marijuana product shall ensure
+22 that the hemp product has passed all testing required by rules adopted by
+23 the state licensing authority pursuant to section 44-10-203 (2)(d). Prior to
+24 taking possession of the A hemp product, a retail marijuana products
+25 manufacturer shall verify that the hemp product passed all testing
+26 required for retail marijuana products at a licensed retail marijuana testing
+27 facility and that the person transferring the hemp product has received a
+-24- SB26-161
+
+1 registration from the department of public health and environment
+2 pursuant to section 25-5-427 OR 25-5-429.
+3 SECTION 19. In Colorado Revised Statutes, 44-10-604, repeal
+4 (2) as follows:
+5 44-10-604. Retail marijuana testing facility license.
+6 (2) The state licensing authority shall promulgate rules pursuant
+7 to its authority in section 44-10-202 (1)(c) related to acceptable testing
+8 and research practices, including but not limited to testing, standards,
+9 quality control analysis, equipment certification and calibration, and
+10 chemical identification and other substances used in bona fide research
+11 methods.
+12 SECTION 20. In Colorado Revised Statutes, 44-10-605, amend
+13 (3) as follows:
+14 44-10-605. Retail marijuana transporter license - definition.
+15 (3) A retail marijuana transporter licensee shall use the
+16 seed-to-sale tracking system developed pursuant to section 44-10-202
+17 (1)(a) to create shipping manifests documenting the transport of retail
+18 marijuana and retail marijuana products throughout the state.
+19 SECTION 21. In Colorado Revised Statutes, 44-10-901, add (8)
+20 as follows:
+21 44-10-901. Suspension - corrective action plans.
+22 (8) (a) THE STATE LICENSING AUTHORITY, UPON REFERRAL BY THE
+23 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT PURSUANT TO
+24 SECTION 25-5-429 (7):
+25 (I) MAY REQUIRE A CORRECTIVE ACTION PLAN AND IMPOSE A
+26 MINIMUM THIRTY-DAY PROBATIONARY OPERATION PERIOD; OR
+27 (II) MAY IMPOSE A LICENSE SUSPENSION OF AT LEAST THIRTY DAYS
+-25- SB26-161
+
+1 BUT NO MORE THAN THREE HUNDRED SIXTY-FIVE DAYS.
+2 (b) THE STATE LICENSING AUTHORITY SHALL IMPOSE THE
+3 DISCIPLINE IN THIS SECTION IN ACCORDANCE WITH PART 1 OF ARTICLE 4 OF
+4 TITLE 24.
+5 SECTION 22. In Colorado Revised Statutes, 25-5-427, amend
+6 (5)(a) and (8)(c) as follows:
+7 25-5-427. Classes of hemp-derived compounds and
+8 cannabinoids - definitions - registration required - prohibitions - safe
+9 harbor - rules.
+10 (5) Registration required - regulated hemp facilities -
+11 application - fees - repeal.
+12 (a) Beginning July 1, 2023, and on or before July 1 of each year
+13 thereafter, the owner of a regulated hemp facility shall submit a
+14 registration application to the department UNDER THIS SECTION OR UNDER
+15 SECTION 25-5-429. To submit an application, each hemp manufacturer or
+16 storage facility and each safe harbor manufacturer or storage facility must
+17 pay an annual application fee of one hundred dollars plus any additional
+18 registration fee specified in subsection (5)(b) of this section. Each
+19 registration expires on June 30 of the year for which the registration is
+20 issued, regardless of whether the registration was issued after July 1 for
+21 the year. Notwithstanding that a registration is valid for only a portion of
+22 a fiscal year, the application and registration fee do not change.
+23 (8) Offenses. It is unlawful to engage in or knowingly cause a
+24 person to engage in any of the following acts:
+25 (c) Manufacturing, producing, selling, distributing, or holding for
+26 sale or distribution a hemp product without registering with the
+27 department under this section OR SECTION 25-5-429;
+-26- SB26-161
+
+1 SECTION 23. In Colorado Revised Statutes, add 25-5-429 as
+2 follows:
+3 25-5-429. Intoxicating cannabis products - testing - tracking
+4 - sampling - enforcement - study - legislative declaration - definitions
+5 - rules - repeal.
+6 (1) Definitions. THE DEFINITIONS SET FORTH IN SECTION
+7 44-10-103 APPLY TO THIS SECTION. AS USED IN THIS SECTION, UNLESS THE
+8 CONTEXT OTHERWISE REQUIRES:
+9 (a) "AUTHORIZED SAMPLER" MEANS A PERSON EMPLOYED BY, OR
+10 UNDER CONTRACT WITH, THE DEPARTMENT OR A LICENSED TESTING
+11 FACILITY TO COLLECT COMPLIANCE SAMPLES OF INTOXICATING CANNABIS
+12 PRODUCTS, CONSISTENT WITH THE SAMPLING PROTOCOLS ESTABLISHED BY
+13 THE DEPARTMENT IN ACCORDANCE WITH SUBSECTION (6) OF THIS SECTION.
+14 (b) "CONTENT DISCREPANCY" MEANS THAT A LABORATORY
+15 ANALYSIS, CONDUCTED THROUGH THE STATE REFERENCE LABORATORY OR
+16 OFF-SHELF SURVEILLANCE TESTING SYSTEM, DEMONSTRATES THAT THE
+17 VERIFIED CANNABINOID CONTENT OR CONTAMINANT CONTENT IN A
+18 SAMPLE EXCEEDS THE ALLOWABLE VARIANCE FROM LABELED CLAIMS
+19 ESTABLISHED BY THE DEPARTMENT.
+20 (c) (I) "INTOXICATING CANNABIS PRODUCT" MEANS A PRODUCT
+21 INTENDED FOR HUMAN CONSUMPTION THAT CONTAINS AN INTOXICATING
+22 CANNABINOID.
+23 (II) "INTOXICATING CANNABIS PRODUCT" INCLUDES:
+24 (A) REGULATED MARIJUANA PRODUCTS; AND
+25 (B) A HEMP PRODUCT DESCRIBED IN SECTION 25-5-427 (8)(e)(I)(A)
+26 OR (8)(e)(I)(B).
+27 (III) "INTOXICATING CANNABIS PRODUCT" DOES NOT INCLUDE:
+-27- SB26-161
+
+1 (A) AN INDUSTRIAL HEMP FIBER, GRAIN, OR SEED PRODUCT THAT
+2 IS NOT INTENDED FOR HUMAN CONSUMPTION; OR
+3 (B) A PRODUCT THAT CONTAINS A NONINTOXICATING
+4 CANNABINOID BUT DOES NOT CONTAIN AN INTOXICATING CANNABINOID.
+5 (d) "LICENSED TESTING FACILITY" MEANS A TESTING FACILITY OR
+6 LABORATORY THAT IS LICENSED PURSUANT TO ARTICLE 10 OF TITLE 44.
+7 (e) "LICENSEE" MEANS A PERSON LICENSED PURSUANT TO ARTICLE
+8 10 OF TITLE 44.
+9 (f) "OFF-SHELF SURVEILLANCE TESTING SYSTEM" MEANS THE
+10 OFF-SHELF SURVEILLANCE TESTING SYSTEM ESTABLISHED PURSUANT TO
+11 SUBSECTION (4) OF THIS SECTION.
+12 (g) "STATE REFERENCE LABORATORY" MEANS THE REFERENCE
+13 LABORATORY ESTABLISHED PURSUANT TO SUBSECTION (5) OF THIS
+14 SECTION.
+15 (h) "TAXES AVOIDED" MEANS THE GREATER OF:
+16 (I) NOTHING; OR
+17 (II) THE DIFFERENCE BETWEEN TAXES THAT SHOULD HAVE BEEN
+18 ASSESSED AT PURCHASE BASED ON VERIFIED CANNABINOID CONTENT AND
+19 THE TAXES THAT WERE ACTUALLY ASSESSED AT PURCHASE BASED ON
+20 LABELED CANNABINOID CONTENT.
+21 (2) Registration required - intoxicating cannabis
+22 manufacturers - application - fees - rules.
+23 (a) THE DEPARTMENT HAS THE POWERS AND DUTIES TO:
+24 (I) GRANT OR DENY A REGISTRATION ISSUED UNDER SUBSECTION
+25 (2)(b) OF THIS SECTION AND TO GRANT OR DENY THE ANNUAL RENEWAL OF
+26 A REGISTRATION;
+27 (II) SUSPEND, DENY, OR REVOKE A REGISTRATION UNDER
+-28- SB26-161
+
+1 CIRCUMSTANCES PRESCRIBED IN THIS SECTION OR IN RULES ADOPTED
+2 UNDER THIS SECTION;
+3 (III) REVIEW THE RECORDS OF A REGISTRANT THAT
+4 MANUFACTURES FOR DISTRIBUTION, PRODUCES FOR DISTRIBUTION,
+5 PACKAGES FOR DISTRIBUTION, PROCESSES FOR DISTRIBUTION, PREPARES
+6 FOR DISTRIBUTION, TREATS FOR DISTRIBUTION, TRANSPORTS FOR
+7 DISTRIBUTION, OR HOLDS FOR DISTRIBUTION PRODUCTS SUBJECT TO THIS
+8 SECTION AS NECESSARY TO VERIFY COMPLIANCE WITH THIS SECTION OR
+9 RULES ADOPTED UNDER THIS SECTION;
+10 (IV) ADOPT RULES THAT ARE NECESSARY FOR THE FAIR,
+11 IMPARTIAL, AND COMPREHENSIVE ADMINISTRATION OF THIS PART 4 WITH
+12 RESPECT TO INTOXICATING CANNABIS PRODUCTS;
+13 (V) ISSUE A CEASE-AND-DESIST ORDER OR CLEAN-UP ORDER TO
+14 ADDRESS VIOLATIONS OF THIS SECTION;
+15 (VI) CONDUCT INSPECTIONS OF INTOXICATING CANNABIS PRODUCT
+16 FACILITIES IN ACCORDANCE WITH SECTION 25-5-421 TO ENSURE
+17 COMPLIANCE WITH THIS SECTION; AND
+18 (VII) CONDUCT TESTING OF INTOXICATING CANNABIS PRODUCTS
+19 AT ANY POINT OF THE SUPPLY CHAIN TO:
+20 (A) ENSURE THAT INTOXICATING CANNABIS PRODUCTS COMPLY
+21 WITH THIS SECTION OR RULES ADOPTED UNDER THIS SECTION OR ARTICLE
+22 10 OF TITLE 44 OR RULES ADOPTED UNDER ARTICLE 10 OF TITLE 44;
+23 (B) ENSURE THE SAFETY OF INTOXICATING CANNABIS PRODUCTS;
+24 (C) DETERMINE THE SOURCE OF CONTAMINANTS; OR
+25 (D) MAKE ANY FINDINGS NECESSARY TO ENFORCE THIS SECTION
+26 OR RULES ADOPTED UNDER THIS SECTION OR ARTICLE 10 OF TITLE 44 OR
+27 RULES ADOPTED UNDER ARTICLE 10 OF TITLE 44.
+-29- SB26-161
+
+1 (b) (I) BEGINNING JULY 1, 2027, AND ON OR BEFORE JULY 1 OF
+2 EACH YEAR THEREAFTER, THE OWNER OF A BUSINESS THAT PRODUCES OR
+3 INTENDS TO PRODUCE AN INTOXICATING CANNABIS PRODUCT SHALL
+4 SUBMIT A REGISTRATION APPLICATION TO THE DEPARTMENT. TO SUBMIT
+5 AN APPLICATION, THE OWNER MUST PAY AN APPLICATION FEE SPECIFIED IN
+6 SUBSECTION (2)(b)(II) OF THIS SECTION PLUS AN ANNUAL REGISTRATION
+7 FEE SPECIFIED IN SUBSECTION (2)(b)(III) OF THIS SECTION. EACH
+8 REGISTRATION EXPIRES ON JUNE 30 OF THE YEAR FOR WHICH THE
+9 REGISTRATION IS ISSUED, REGARDLESS OF WHETHER THE REGISTRATION
+10 WAS ISSUED AFTER JULY 1 FOR THE STATE FISCAL YEAR.
+11 NOTWITHSTANDING THAT A REGISTRATION IS VALID FOR ONLY A PORTION
+12 OF A FISCAL YEAR, THE APPLICATION AND REGISTRATION FEE DO NOT
+13 CHANGE.
+14 (II) THE DEPARTMENT SHALL SET THE APPLICATION FEE TO OFFSET
+15 THE DIRECT AND INDIRECT COST OF PROCESSING THE APPLICATIONS FOR
+16 REGISTRATION ISSUED UNDER THIS SUBSECTION (2).
+17 (III) THE DEPARTMENT SHALL SET THE ANNUAL REGISTRATION FEE
+18 TO OFFSET THE DIRECT AND INDIRECT COSTS OF IMPLEMENTING THIS
+19 SECTION, EXCLUDING PROCESSING THE APPLICATIONS FOR REGISTRATION
+20 ISSUED UNDER THIS SUBSECTION (2).
+21 (c) A REGISTRATION ISSUED UNDER THIS SUBSECTION (2) IS
+22 SUBJECT TO SUSPENSION OR REVOCATION, IN ACCORDANCE WITH ARTICLE
+23 4 OF TITLE 24, IF THE REGISTRANT VIOLATES THIS PART 4 OR RULES
+24 ADOPTED UNDER THIS PART 4.
+25 (d) A REGISTRANT THAT VIOLATES THIS SECTION OR RULES
+26 ADOPTED UNDER THIS SECTION IS SUBJECT TO THE PENALTIES ESTABLISHED
+27 IN SUBSECTION (7) OF THIS SECTION.
+-30- SB26-161
+
+1 (e) AN INTOXICATING CANNABIS PRODUCT PRODUCED BY A
+2 REGISTRANT IS DEEMED NOT ADULTERATED, AS DEFINED IN SECTIONS
+3 25-5-410 AND 25-5-416, UNLESS THE PRODUCT MEETS ONE OR MORE OF
+4 THE CRITERIA FOR ADULTERATION SET FORTH IN SECTION 25-5-410 OR
+5 25-5-416.
+6 (f) THE STATE TREASURER SHALL CREDIT THE FEES COLLECTED IN
+7 ACCORDANCE WITH SUBSECTION (2)(b) OF THIS SECTION TO THE
+8 WHOLESALE FOOD MANUFACTURING AND STORAGE PROTECTION CASH
+9 FUND ESTABLISHED IN SECTION 25-5-426 (5).
+10 (3) Testing - tracking - research and development - rules -
+11 repeal. THE DEPARTMENT SHALL:
+12 (a) [Similar to 44-10-203 (2)(d)(I)] ADOPT RULES ESTABLISHING
+13 AN INTOXICATING CANNABIS PRODUCTS INDEPENDENT TESTING AND
+14 CERTIFICATION PROGRAM FOR MARIJUANA BUSINESS LICENSEES REQUIRING
+15 INTOXICATING CANNABIS PRODUCTS BE TESTED TO ENSURE, AT A
+16 MINIMUM, THAT PRODUCTS SOLD FOR HUMAN CONSUMPTION DO NOT
+17 CONTAIN CONTAMINANTS, INCLUDING MICROBIAL AND RESIDUAL
+18 SOLVENTS AND CHEMICAL AND BIOLOGICAL CONTAMINANTS, IN AN
+19 AMOUNT THAT IS INJURIOUS TO HEALTH AND TO ENSURE CORRECT
+20 LABELING. THE FOLLOWING PROVISIONS APPLY TO TESTING UNDER THE
+21 RULES:
+22 (I) (A) IF TEST RESULTS INDICATE THE PRESENCE OF A SUBSTANCE
+23 IN AN AMOUNT DETERMINED TO BE INJURIOUS TO HEALTH, THE RULES
+24 MUST REQUIRE THE MEDICAL MARIJUANA OR RETAIL MARIJUANA TESTING
+25 FACILITY LICENSEE TO IMMEDIATELY NOTIFY THE DEPARTMENT AND THE
+26 STATE LICENSING AUTHORITY.
+27 (B) [Similar to 44-10-203 (2)(d)(IV)(A)] TESTING MUST ALSO
+-31- SB26-161
+
+1 VERIFY INTOXICATING CANNABINOID POTENCY REPRESENTATIONS AND
+2 HOMOGENEITY FOR CORRECT LABELING AND PROVIDE A CANNABINOID
+3 PROFILE FOR THE INTOXICATING CANNABIS PRODUCT.
+4 (C) [Similar to 44-10-203 (2)(d)(VI)] THE RULES MUST INCLUDE
+5 THE PROTOCOLS AND FREQUENCY OF INTOXICATING CANNABIS PRODUCT
+6 TESTING BY AUTHORIZED SAMPLERS.
+7 (D) [Similar to 44-10-203 (2)(d)(VII)] A STATE, LOCAL, OR
+8 MUNICIPAL AGENCY SHALL NOT EMPLOY OR USE THE RESULTS OF A TEST
+9 OF INTOXICATING CANNABIS PRODUCTS CONDUCTED BY AN ANALYTICAL
+10 LABORATORY THAT IS NOT ACCREDITED TO THE INTERNATIONAL
+11 ORGANIZATION FOR STANDARDIZATION/INTERNATIONAL
+12 ELECTROTECHNICAL COMMISSION 17025:2005 STANDARD, OR ANY
+13 SUBSEQUENT SUPERSEDING STANDARD, IN THAT FIELD OF TESTING.
+14 (II) (A) IN ADOPTING THE RULES REQUIRED IN THIS SUBSECTION
+15 (3)(a), THE DEPARTMENT SHALL NOT REQUIRE A LICENSEE TO TEST AN
+16 INTOXICATING CANNABIS PRODUCT UNTIL THE PRODUCT IS PACKAGED FOR
+17 RETAIL SALE OR DISTRIBUTION TO CONSUMERS. THIS SUBSECTION
+18 (3)(a)(II)(A) DOES NOT SUPERSEDE THE AUTHORITY GRANTED IN
+19 SUBSECTION (2)(a)(VII) OF THIS SECTION.
+20 (B) A LICENSEE MUST OBTAIN TESTING OF ITS INTOXICATING
+21 CANNABIS PRODUCTS AT A LICENSED TESTING FACILITY. THE LICENSED
+22 TESTING FACILITY MAY CHARGE THE LICENSEE TO CONDUCT THE TESTING.
+23 (C) ON OR AFTER JULY 1, 2027, A MEMBER OF THE PUBLIC WHO
+24 MAY LEGALLY PURCHASE AN INTOXICATING CANNABIS PRODUCT MAY
+25 OBTAIN TESTING OF AN INTOXICATING CANNABIS PRODUCT AT THE STATE
+26 REFERENCE LABORATORY OR A LICENSED TESTING FACILITY. THE STATE
+27 REFERENCE LABORATORY OR LICENSED TESTING FACILITY MAY CHARGE
+-32- SB26-161
+
+1 THE PURCHASER TO CONDUCT THE TESTING.
+2 (b) USE THE SEED-TO-SALE TRACKING SYSTEM TO IMPLEMENT THIS
+3 SECTION;
+4 (c) [Similar to 44-10-203 (10)(a)] ADOPT RULES TO ENABLE A
+5 LICENSEE TO CONDUCT RESEARCH AND DEVELOPMENT USING R-AND-D
+6 UNITS WHEN EVALUATING DIFFERENT FLAVORS AND NONMARIJUANA
+7 INGREDIENTS, BUT A LICENSEE SHALL NOT TRANSFER R-AND-D UNITS TO
+8 A REGULATED MARIJUANA STORE;
+9 (d) ADOPT RULES MAKING THE FOLLOWING AVAILABLE FOR PUBLIC
+10 INSPECTION VIA AN ONLINE PORTAL:
+11 (I) ADVERSE HEALTH REPORTS, INCLUDING INFORMATION RELATED
+12 TO THE PRODUCT MANUFACTURER AND BASIS FOR THE REPORT, WITH
+13 PERSONALLY IDENTIFIABLE INFORMATION RELATED TO AN AFFECTED
+14 CUSTOMER REDACTED;
+15 (II) TEST RESULTS OF ALL PRODUCTS SOLD TO THE PUBLIC; AND
+16 (III) DATA CONTAINED IN THE SEED-TO-SALE TRACKING SYSTEM;
+17 EXCEPT THAT THE DATA MUST BE PROVIDED IN AN AGGREGATE FORM WITH
+18 NO PERSONALLY IDENTIFIABLE INFORMATION OR WITH PERSONALLY
+19 IDENTIFIABLE INFORMATION RELATED TO AN AFFECTED CUSTOMER
+20 REDACTED; AND
+21 (e) (I) ADOPT THE RULES DESCRIBED IN THIS SUBSECTION (3) ON OR
+22 BEFORE JULY 1, 2027. UNTIL THE DEPARTMENT ADOPTS THE RULES
+23 DESCRIBED IN THIS SUBSECTION (3), ALL RULES AND ORDERS OF THE STATE
+24 LICENSING AUTHORITY CONTINUE TO BE EFFECTIVE AND SHALL BE
+25 ENFORCED BY THE DEPARTMENT UNTIL SUPERSEDED, AMENDED,
+26 REPEALED, OR NULLIFIED PURSUANT TO LAW.
+27 (II) THIS SUBSECTION (3)(e) IS REPEALED, EFFECTIVE JULY 1, 2028.
+-33- SB26-161
+
+1 (4) Off-shelf surveillance testing system.
+2 (a) THE DEPARTMENT, IN CONSULTATION WITH THE STATE
+3 LICENSING AUTHORITY, SHALL ESTABLISH AND OPERATE A STATEWIDE
+4 OFF-SHELF SURVEILLANCE TESTING SYSTEM FOR INTOXICATING CANNABIS
+5 PRODUCTS THAT INCLUDES:
+6 (I) SAMPLING OF PRODUCTS PACKAGED FOR SALE OR DISTRIBUTION
+7 TO CONSUMERS;
+8 (II) VALIDATING CONTENT CLAIMS TO PROTECT CONSUMER
+9 HEALTH AND SAFETY;
+10 (III) DETECTION OF CONTAMINANTS IN AMOUNTS DETERMINED TO
+11 BE INJURIOUS TO HEALTH;
+12 (IV) PUBLISHING PRODUCT-LEVEL TRACEABILITY AND TESTING
+13 DATA; AND
+14 (V) MANDATING IMMEDIATE CORRECTIVE ACTION.
+15 (b) THE DEPARTMENT SHALL MAKE THE TESTING SYSTEM FOR
+16 CONTENT CLAIMS REQUIRED BY SUBSECTION (4)(a)(II) OF THIS SECTION
+17 OPERATIONAL ON OR BEFORE JULY 1, 2027. THE DEPARTMENT SHALL
+18 ESTABLISH THE IMPLEMENTATION TIME FRAME FOR THE CONTAMINANT
+19 TESTING REQUIRED BY SUBSECTION (4)(a)(III) OF THIS SECTION, BUT THE
+20 DEPARTMENT SHALL IMPLEMENT CONTAMINANT TESTING BY JANUARY 1,
+21 2030. CONTAMINANT TESTING MAY BE PHASED IN OVER THE COURSE OF
+22 TWELVE TO EIGHTEEN MONTHS TO ACCOMMODATE LABORATORY
+23 CAPACITY AND REGULATORY ALIGNMENT.
+24 (5) State reference laboratory. ON OR BEFORE JANUARY 1, 2027,
+25 THE DEPARTMENT, IN CONSULTATION WITH THE STATE LICENSING
+26 AUTHORITY, SHALL ESTABLISH A REFERENCE LABORATORY FOR
+27 INTOXICATING CANNABIS PRODUCTS THAT:
+-34- SB26-161
+
+1 (a) MAINTAINS VALIDATED METHODS AND BENCHMARKS;
+2 (b) PROVIDES OR VALIDATES REFERENCE MATERIALS OR
+3 PROFICIENCY SAMPLES;
+4 (c) SUPPORTS ALIGNMENT CHECKS BETWEEN LICENSED TESTING
+5 FACILITIES AND THE STATE REFERENCE LABORATORY;
+6 (d) PROVIDES SURVEILLANCE TESTING SERVICES TO THE
+7 DEPARTMENT AND THE STATE LICENSING AUTHORITY; AND
+8 (e) OFFERS, FOR A FEE, TESTING SERVICES TO THE PUBLIC.
+9 (6) Authorized sampling - rules. THE DEPARTMENT SHALL ADOPT
+10 RULES REGARDING THE SAMPLING OF INTOXICATING CANNABIS PRODUCTS
+11 AT RETAIL. THE RULES MUST INCLUDE:
+12 (a) MINIMUM TRAINING AND DOCUMENTATION REQUIREMENTS FOR
+13 AN AUTHORIZED SAMPLER;
+14 (b) REQUIREMENTS FOR CHAIN OF CUSTODY AND SAMPLE
+15 HANDLING;
+16 (c) METHODS FOR ENSURING REPRESENTATIVENESS OF SAMPLES;
+17 (d) ENFORCEMENT MECHANISMS FOR NONCOMPLIANCE WITH
+18 SAMPLING REQUIREMENTS; AND
+19 (e) THE SAFE AND LAWFUL TRANSPORT OF INTOXICATING
+20 CANNABIS PRODUCTS BETWEEN A LICENSED BUSINESS AND A TESTING
+21 LABORATORY.
+22 (7) Labeling and content claim requirements - enforcement -
+23 penalties.
+24 (a) THE DEPARTMENT SHALL ENFORCE LABELING REQUIREMENTS
+25 ESTABLISHED BY THE STATE LICENSING AUTHORITY PURSUANT TO SECTION
+26 44-10-203 (2)(f) AND ANY ADDITIONAL CONTENT CLAIM REQUIREMENTS
+27 ESTABLISHED BY RULE PURSUANT TO SUBSECTION (3) OF THIS SECTION.
+-35- SB26-161
+
+1 (b) THE DEPARTMENT SHALL TEST FOR:
+2 (I) LABELING DISCREPANCIES INVOLVING AN INTOXICATING
+3 CANNABINOID OR A NONINTOXICATING CANNABINOID; OR
+4 (II) CONTAMINANT LEVELS IN AN INTOXICATING CANNABIS
+5 PRODUCT THAT EXCEED ALLOWABLE THRESHOLDS FOR AN INTOXICATING
+6 CANNABIS PRODUCT.
+7 (c) IF TESTING DEMONSTRATES A DISCREPANCY OR
+8 CONTAMINATION DESCRIBED IN SUBSECTION (7)(b) OF THIS SECTION OR A
+9 FAILURE TO COMPLY WITH THE RULES ADOPTED UNDER SUBSECTION (3) OF
+10 THIS SECTION, THE DEPARTMENT MAY:
+11 (I) ORDER AN IMMEDIATE QUARANTINE OF THE UNSOLD PRODUCTS
+12 FROM THE PRODUCTION BATCH;
+13 (II) AUTHORIZE THE LICENSEE TO RELABEL A QUARANTINED
+14 PRODUCT TO REFLECT THE ACTUAL CONTENT, AND THE DEPARTMENT
+15 SHALL REMOVE THE QUARANTINE ON APPROPRIATELY RELABELED
+16 PRODUCTS;
+17 (III) ORDER THE DESTRUCTION OF PRODUCTS THAT CONTAIN
+18 CONTAMINANT LEVELS EXCEEDING ALLOWABLE THRESHOLDS FOR
+19 INTOXICATING CANNABIS PRODUCTS;
+20 (IV) ISSUE A PUBLIC RECALL NOTICE AND ORDER AFFECTED RETAIL
+21 LOCATIONS TO POST SIGNAGE AT THE AFFECTED RETAIL LOCATIONS;
+22 (V) IMPOSE A CIVIL PENALTY ON THE LICENSEE IN AN AMOUNT:
+23 (A) AT LEAST EQUAL TO THE GREATER OF ONE HUNDRED PERCENT
+24 OF TAXES AVOIDED DUE TO INACCURATE LABELING OR TEN PERCENT OF
+25 THE TOTAL RETAIL VALUE OF THE PRODUCTS SOLD TO CONSUMERS; AND
+26 (B) NOT MORE THAN EQUAL TO THE GREATER OF TWENTY-FIVE
+27 THOUSAND DOLLARS OR THE TOTAL RETAIL VALUE OF THE PRODUCTS SOLD
+-36- SB26-161
+
+1 TO CONSUMERS; AND
+2 (VI) (A) REFER THE VIOLATION TO THE STATE LICENSING
+3 AUTHORITY FOR A CORRECTIVE ACTION PLAN AND PROBATIONARY
+4 OPERATION PERIOD ORDERED PURSUANT TO SECTION 44-10-901 (8); OR
+5 (B) REFER THE VIOLATION TO THE STATE LICENSING AUTHORITY
+6 FOR A LICENSE SUSPENSION ORDERED PURSUANT TO SECTION 44-10-901
+7 (8).
+8 (d) THE DEPARTMENT SHALL ADOPT RULES THAT:
+9 (I) CLASSIFY THE DISCREPANCIES OR CONTAMINATIONS DESCRIBED
+10 IN SUBSECTION (7)(b) OF THIS SECTION OR FAILURES TO COMPLY WITH THE
+11 RULES ADOPTED UNDER SUBSECTION (3) OF THIS SECTION; AND
+12 (II) SETS THE APPROPRIATE ORDERS AND PENALTIES AUTHORIZED
+13 IN SUBSECTION (7)(c) OF THIS SECTION FOR EACH CLASSIFICATION
+14 CREATED IN ACCORDANCE WITH SUBSECTION (7)(d)(I) OF THIS SECTION IN
+15 ORDER TO PROTECT THE PUBLIC HEALTH AND SAFETY.
+16 (e) EXCEPT FOR A REFERRAL TO THE STATE LICENSING AUTHORITY
+17 MADE UNDER SUBSECTION (7)(c)(VI) OF THIS SECTION, DISCIPLINARY
+18 PROCEEDINGS, HEARINGS, AND OPPORTUNITY FOR REVIEW MUST BE
+19 CONDUCTED IN ACCORDANCE WITH ARTICLE 4 OF TITLE 24. TO PROTECT
+20 CONSUMER SAFETY, THE FILING OF AN APPEAL DOES NOT STAY A
+21 QUARANTINE OR RECALL ORDER ISSUED BY THE DEPARTMENT.
+22 (8) Enforcement - violations.
+23 (a) UNLESS THE DEPARTMENT APPROVES, A COUNTY, A DISTRICT
+24 CREATED UNDER ARTICLE 1 OF TITLE 32, A MUNICIPALITY, OR A CITY AND
+25 COUNTY SHALL NOT PERFORM A FOOD SAFETY INSPECTION AT A PREMISES
+26 REGISTERED IN ACCORDANCE WITH THIS SECTION.
+27 (b) EXCEPT AS PROVIDED IN SUBSECTION (7) OF THIS SECTION, A
+-37- SB26-161
+
+1 PERSON THAT VIOLATES THIS SECTION, THE RULES ADOPTED UNDER THIS
+2 SECTION, OR A FINAL CEASE-AND-DESIST ORDER OR CLEAN-UP ORDER IS
+3 SUBJECT TO A CIVIL PENALTY IN AN AMOUNT UP TO TEN THOUSAND
+4 DOLLARS PER DAY PER VIOLATION.
+5 (c) THE STATE TREASURER SHALL CREDIT CIVIL PENALTIES
+6 IMPOSED UNDER THIS SECTION TO THE WHOLESALE FOOD MANUFACTURING
+7 AND STORAGE PROTECTION CASH FUND ESTABLISHED IN SECTION 25-5-426
+8 (5).
+9 SECTION 24. Applicability. This act applies to conduct
+10 occurring on or after the effective date of this act.
+11 SECTION 25. Refer to people under referendum. At the
+12 election held on November 3, 2026, the secretary of state shall submit this
+13 act by its ballot title to the registered electors of the state for their
+14 approval or rejection. Each elector voting at the election may cast a vote
+15 either "Yes/For" or "No/Against" on the following ballot title: "SHALL
+16 STATE TAXES BE INCREASED $___ ANNUALLY BY A CHANGE TO THE
+17 COLORADO REVISED STATUTES AMENDING EXISTING LAW
+18 CONCERNING CANNABIS-RELATED PRODUCTS, AND, IN CONNECTION
+19 THEREWITH, CHANGING THE BASIS FOR MARIJUANA EXCISE AND SALES
+20 TAXES FROM A PERCENTAGE OF PRICE TO THE AMOUNT OF
+21 INTOXICATING CANNABIS CONTENT, MOVING THE TESTING AND SAFETY
+22 ELEMENTS OF INTOXICATING CANNABIS REGULATION FROM THE
+23 DEPARTMENT OF REVENUE TO THE DEPARTMENT OF PUBLIC HEALTH
+24 AND ENVIRONMENT, REQUIRING INTOXICATING CANNABIS PRODUCERS
+25 TO BE REGISTERED WITH THE DEPARTMENT OF PUBLIC HEALTH AND
+26 ENVIRONMENT, AND CHANGING THE TESTING OF MARIJUANA." Except
+27 as otherwise provided in section 1-40-123, Colorado Revised Statutes, if
+-38- SB26-161
+
+1 a majority of the electors voting on the ballot title vote "Yes/For", then
+2 the act will become part of the Colorado Revised Statutes.
+-39- SB26-161

@@ -1,0 +1,216 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0481.01 Shelby Ross x4510 HOUSE BILL 26-1138
+HOUSE SPONSORSHIP
+Woog and Espenoza,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO PREVENT ORGANIZED RETAIL THEFT, AND,
+102 IN CONNECTION THEREWITH, CREATING THE RETAIL THEFT
+103 PREVENTION ADVISORY BOARD AND THE RETAIL THEFT
+104 PREVENTION GRANT PROGRAM IN THE OFFICE OF THE
+105 ATTORNEY GENERAL.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the retail theft prevention advisory board (advisory
+board) in the office of the attorney general (AGO). The advisory board
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+shall develop procedures related to applying for a grant for the retail theft
+prevention grant program (grant program) created in the bill; review grant
+applications and award grants; collect and analyze data related to
+organized felony-level retail theft and gift card fraud trends, losses,
+prosecutions, and outcomes in Colorado; and develop policy
+recommendations in coordination with state and federal partners on how
+to combat felony-level retail theft and gift card fraud.
+The bill creates the retail theft prevention grant program in the
+AGO. A state or local law enforcement agency, district attorney's office,
+multijurisdictional or regional task force, or tribal law enforcement
+agency may apply for a grant, which may be used to investigate and
+prosecute organized felony-level retail theft or gift card fraud; develop or
+invest in technology, data-sharing systems, and analytics tools to analyze
+felony-level retail theft and gift card fraud metrics; provide training and
+technical assistance to retailers or law enforcement agencies; and develop
+prevention and deterrence initiatives specific to felony-level retail theft
+and gift card fraud.
+Beginning January 2028, the bill requires the AGO to annually
+report during its "SMART Act" hearing certain information about the
+grant program and felony-level retail theft in Colorado.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Organized felony-level retail theft, which is retail theft of at
+5 least $2,000, and gift card fraud pose a growing threat to public safety,
+6 small businesses, large retailers, supply chains, and state and local tax
+7 revenues;
+8 (b) Felony-level retail theft and gift card fraud increasingly
+9 involve organized criminal enterprises operating across jurisdictional
+10 boundaries;
+11 (c) Colorado has successfully reduced auto theft through a
+12 coordinated, data-driven, grant-based approach administered by the
+13 Colorado auto theft prevention authority in the department of public
+14 safety; and
+-2- HB26-1138
+
+1 (d) A similar model, adapted to felony-level retail theft and
+2 housed within the office of the attorney general, will enhance statewide
+3 coordination, prosecution, prevention, and enforcement.
+4 (2) The general assembly declares that the purposes of this act are
+5 to:
+6 (a) Establish a felony-level retail theft prevention program in the
+7 office of the attorney general;
+8 (b) Provide grant funding and technical assistance to local
+9 governments, law enforcement agencies, prosecutors, and regional task
+10 forces;
+11 (c) Improve data collection, analysis, and interagency coordination
+12 related to felony-level retail theft and gift card fraud; and
+13 (d) Support prevention, investigation, and prosecution strategies
+14 targeting organized felony-level retail theft and gift card fraud.
+15 SECTION 2. In Colorado Revised Statutes, add 24-31-120 as
+16 follows:
+17 24-31-120. Retail theft prevention advisory board - grant
+18 program - rules- report - definitions - repeal.
+19 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+20 OTHERWISE REQUIRES:
+21 (a) "ADVISORY BOARD" MEANS THE RETAIL THEFT PREVENTION
+22 ADVISORY BOARD CREATED IN SUBSECTION (2) OF THIS SECTION.
+23 (b) "COLORADO RETAIL THEFT TASK FORCE" MEANS THE
+24 STATEWIDE TASK FORCE FORMED BY THE ATTORNEY GENERAL TO PROVIDE
+25 GREATER COORDINATION AMONG LAW ENFORCEMENT TO IDENTIFY,
+26 DISRUPT, AND PROSECUTE ORGANIZED CRIMINAL RINGS THAT STEAL
+27 GOODS FROM RETAILERS.
+-3- HB26-1138
+
+1 (c) "ELIGIBLE ENTITY" MEANS A LOCAL OR STATE LAW
+2 ENFORCEMENT AGENCY, DISTRICT ATTORNEY'S OFFICE,
+3 MULTIJURISDICTIONAL OR REGIONAL TASK FORCE, OR TRIBAL LAW
+4 ENFORCEMENT AGENCY.
+5 (d) "FELONY-LEVEL RETAIL THEFT" MEANS A FELONY-LEVEL THEFT
+6 DESCRIBED IN SECTION 18-4-401 (2)(f) TO (2)(j) COMMITTED AGAINST A
+7 RETAILER OF GOODS.
+8 (e) "GRANT PROGRAM" MEANS THE RETAIL THEFT PREVENTION
+9 GRANT PROGRAM CREATED IN SUBSECTION (5) OF THIS SECTION.
+10 (2) Advisory board.
+11 (a) THERE IS CREATED THE RETAIL THEFT PREVENTION ADVISORY
+12 BOARD IN THE OFFICE OF THE ATTORNEY GENERAL, WHICH CONSISTS OF
+13 THE FOLLOWING MEMBERS:
+14 (I) THE ATTORNEY GENERAL, OR THE ATTORNEY GENERAL'S
+15 DESIGNEE;
+16 (II) ONE MEMBER WHO REPRESENTS THE COLORADO RETAIL THEFT
+17 TASK FORCE, APPOINTED BY THE TASK FORCE;
+18 (III) THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF PUBLIC
+19 SAFETY, OR THE EXECUTIVE DIRECTOR'S DESIGNEE;
+20 (IV) TWO MEMBERS WHO REPRESENT LOCAL LAW ENFORCEMENT,
+21 ONE APPOINTED BY THE SPEAKER OF THE HOUSE OF REPRESENTATIVES AND
+22 ONE APPOINTED BY THE MINORITY LEADER OF THE HOUSE OF
+23 REPRESENTATIVES;
+24 (V) A REPRESENTATIVE OF A STATEWIDE ORGANIZATION THAT
+25 REPRESENTS DISTRICT ATTORNEYS, APPOINTED BY THE GOVERNOR;
+26 (VI) ONE MEMBER WHO REPRESENTS LOCAL GOVERNMENT,
+27 APPOINTED BY THE MAJORITY LEADER OF THE HOUSE OF
+-4- HB26-1138
+
+1 REPRESENTATIVES; AND
+2 (VII) THREE NONVOTING ADVISORY MEMBERS, AS FOLLOWS:
+3 (A) ONE NONVOTING MEMBER FROM A LARGE RETAILER WITH
+4 MORE THAN FIVE HUNDRED EMPLOYEES, APPOINTED BY THE PRESIDENT OF
+5 THE SENATE;
+6 (B) ONE NONVOTING MEMBER FROM A SMALL RETAILER WITH
+7 FEWER THAN TWO HUNDRED FIFTY EMPLOYEES, APPOINTED BY THE SENATE
+8 MAJORITY LEADER; AND
+9 (C) ONE NONVOTING MEMBER FROM A NONPROFIT RETAILER,
+10 APPOINTED BY THE SENATE MINORITY LEADER.
+11 (b) ADVISORY BOARD APPOINTMENTS MUST BE MADE NO LATER
+12 THAN SEPTEMBER 1, 2026. THE ADVISORY BOARD SHALL SELECT A CHAIR
+13 AND THE CHAIR SHALL CALL THE FIRST MEETING NO LATER THAN
+14 NOVEMBER 1, 2026. THE ADVISORY BOARD SHALL MEET AT ANY TIME THE
+15 BOARD DEEMS NECESSARY.
+16 (3) Duties and responsibilities. THE ADVISORY BOARD HAS THE
+17 FOLLOWING DUTIES AND RESPONSIBILITIES:
+18 (a) TO DEVELOP GRANT APPLICATION DEADLINES, DATES BY WHICH
+19 GRANTS MUST BE AWARDED, CRITERIA FOR GRANT AWARDS, AND THE
+20 FREQUENCY OF CONSIDERATION OF GRANT APPLICATIONS;
+21 (b) TO REVIEW GRANT APPLICATIONS AND AWARD GRANTS
+22 PURSUANT TO SUBSECTION (4) OF THIS SECTION;
+23 (c) TO COLLECT AND ANALYZE DATA RELATED TO ORGANIZED
+24 FELONY-LEVEL RETAIL THEFT AND GIFT CARD FRAUD TRENDS, LOSSES,
+25 PROSECUTIONS, AND OUTCOMES IN COLORADO; AND
+26 (d) TO DEVELOP POLICY RECOMMENDATIONS IN COORDINATION
+27 WITH STATE AND FEDERAL PARTNERS, INCLUDING THE DEPARTMENT OF
+-5- HB26-1138
+
+1 PUBLIC SAFETY, DISTRICT ATTORNEYS, LOCAL GOVERNMENTS, AND
+2 FEDERAL LAW ENFORCEMENT AGENCIES, ON HOW TO COMBAT
+3 FELONY-LEVEL RETAIL THEFT AND GIFT CARD FRAUD.
+4 (4) Grant program.
+5 (a) THE RETAIL THEFT PREVENTION GRANT PROGRAM IS CREATED
+6 IN THE ATTORNEY GENERAL'S OFFICE. GRANT AWARDS MAY BE USED FOR
+7 THE FOLLOWING PURPOSES:
+8 (I) TO INVESTIGATE AND PROSECUTE ORGANIZED FELONY-LEVEL
+9 RETAIL THEFT OR GIFT CARD FRAUD;
+10 (II) TO DEVELOP OR INVEST IN TECHNOLOGY, DATA-SHARING
+11 SYSTEMS, AND ANALYTICS TOOLS TO ANALYZE FELONY-LEVEL RETAIL
+12 THEFT AND GIFT CARD FRAUD METRICS;
+13 (III) TO PROVIDE TRAINING AND TECHNICAL ASSISTANCE TO
+14 RETAILERS OR LAW ENFORCEMENT AGENCIES; AND
+15 (IV) TO DEVELOP PREVENTION AND DETERRENCE INITIATIVES
+16 SPECIFIC TO FELONY-LEVEL RETAIL THEFT AND GIFT CARD FRAUD.
+17 (b) THE ADVISORY BOARD SHALL ADMINISTER THE GRANT
+18 PROGRAM AND SHALL AWARD GRANTS AS PROVIDED IN THIS SUBSECTION
+19 (4). GRANTS MUST BE PAID OUT OF GIFTS, GRANTS, AND DONATIONS
+20 RECEIVED PURSUANT TO SUBSECTION (4)(e) OF THIS SECTION.
+21 (c) TO RECEIVE A GRANT, AN ELIGIBLE ENTITY MUST SUBMIT AN
+22 APPLICATION TO THE ADVISORY BOARD IN ACCORDANCE WITH RULES
+23 ADOPTED BY THE ATTORNEY GENERAL'S OFFICE IN COLLABORATION WITH
+24 THE COLORADO RETAIL THEFT TASK FORCE AND WITHIN THE DEADLINES
+25 ESTABLISHED BY THE ADVISORY BOARD.
+26 (d) THE ADVISORY BOARD SHALL REVIEW THE APPLICATIONS
+27 RECEIVED PURSUANT TO THIS SUBSECTION (4).
+-6- HB26-1138
+
+1 (e) THE ATTORNEY GENERAL MAY SEEK, ACCEPT, AND EXPEND
+2 GIFTS, GRANTS, OR DONATIONS FROM PRIVATE OR PUBLIC SOURCES FOR
+3 THE PURPOSE OF AWARDING GRANTS PURSUANT TO THIS SECTION.
+4 (5) Report. BEGINNING JANUARY 2028, AND EACH JANUARY
+5 THEREAFTER, THE ATTORNEY GENERAL'S OFFICE SHALL INCLUDE, AS PART
+6 OF ITS PRESENTATION DURING ITS"SMART ACT" HEARING REQUIRED BY
+7 SECTION 2-7-203, THE FOLLOWING INFORMATION:
+8 (a) THE GRANT RECIPIENTS AND AMOUNT OF EACH GRANT;
+9 (b) OUTCOMES AND PERFORMANCE METRICS REPORTED BY GRANT
+10 RECIPIENTS;
+11 (c) ORGANIZED FELONY-LEVEL RETAIL THEFT TREND DATA IN
+12 COLORADO; AND
+13 (d) POLICY RECOMMENDATIONS THAT WOULD ASSIST THE
+14 ADVISORY BOARD AND COLORADO RETAIL THEFT TASK FORCE TO REDUCE
+15 FELONY-LEVEL RETAIL THEFT IN COLORADO.
+16 (6) THIS SECTION IS REPEALED, EFFECTIVE NOVEMBER 1, 2029.
+17 SECTION 3. Act subject to petition - effective date. This act
+18 takes effect at 12:01 a.m. on the day following the expiration of the
+19 ninety-day period after final adjournment of the general assembly (August
+20 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+21 referendum petition is filed pursuant to section 1 (3) of article V of the
+22 state constitution against this act or an item, section, or part of this act
+23 within such period, then the act, item, section, or part will not take effect
+24 unless approved by the people at the general election to be held in
+25 November 2026 and, in such case, will take effect on the date of the
+26 official declaration of the vote thereon by the governor.
+-7- HB26-1138

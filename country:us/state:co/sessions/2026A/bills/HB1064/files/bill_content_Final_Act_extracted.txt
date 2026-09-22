@@ -1,0 +1,843 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 26-1064
+BY REPRESENTATIVE(S) Jackson and Rydin, Bacon, Brown, Clifford,
+English, Froelich, Gilchrist, Lindsay, Mabrey, Martinez, Mauro,
+McCormick, Nguyen, Phillips, Story, Espenoza;
+also SENATOR(S) Amabile, Ball, Cutter, Daugherty, Exum, Gonzales J.,
+Hinrichsen, Jodeh, Kipp, Kolker, Lindstedt, Marchman, Wallace,
+Weissman, Coleman.
+CONCERNING MODIFICATIONS TO THE YOUTHFUL OFFENDER SYSTEM.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 16-11-102, amend
+(1.8) as follows:
+16-11-102. Presentence or probation investigation.
+(1.8) At the request of either the prosecution or the defense, each
+presentence report prepared regarding a youthful offender JUVENILE OR
+YOUNG ADULT, as defined in section 18-1.3-407 SECTION 18-1.3-407 (1.3),
+who is eligible for sentencing to the youthful offender system pursuant to
+section 18-1.3-407.5, 19-2.5-801 (5), or 19-2.5-802 (1)(d)(I)(B) must
+include a determination by the warden of the youthful offender system
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+whether the youthful offender JUVENILE OR YOUNG ADULT is acceptable for
+sentencing to the youthful offender system. When making a determination,
+the warden shall consider the nature and circumstances of the crime, the
+circumstances and criminal history of the youthful offender JUVENILE OR
+YOUNG ADULT, the available bed space in the youthful offender system, and
+any other appropriate considerations.
+SECTION 2. In Colorado Revised Statutes, 16-11-102.4, amend
+(1) introductory portion, (1)(g) introductory portion, and (1)(g)(IV); and
+repeal (1)(f) as follows:
+16-11-102.4. Genetic testing of convicted offenders.
+(1) Beginning July 1, 2007, Each of the following convicted
+offenders shall MUST submit to and pay for collection and a chemical testing
+of the offender's biological substance sample to determine the genetic
+markers thereof, unless the offender has already provided a biological
+substance sample for such THE testing pursuant to a statute of this state:
+(f) Every offender who, on or after July 1, 2007, is in the custody of
+the youthful offender system based on a sentence imposed before that date,
+including an offender on community supervision. The department of
+corrections shall collect the sample at least thirty-five days prior to the
+offender's discharge or release from custody or release to community
+supervision.
+(g) Every offender sentenced on or after July 1, 2007, for a felony
+conviction; except that this paragraph (g) shall SUBSECTION (1)(g) DOES not
+apply to an offender granted a deferred judgment and sentencing as
+authorized in section 18-1.3-102, C.R.S., unless otherwise required to
+submit to a sample pursuant to this section, or unless the deferred judgment
+and sentencing is revoked and a sentence is imposed. The sample shall
+MUST be collected:
+(IV) From an offender A JUVENILE OR YOUNG ADULT sentenced to
+the youthful offender system, by the department of corrections within
+thirty-five days after the offender JUVENILE OR YOUNG ADULT is received at
+the youthful offender system; and
+SECTION 3. In Colorado Revised Statutes, 17-27-105.5, amend
+PAGE 2-HOUSE BILL 26-1064
+
+(1)(b) as follows:
+17-27-105.5. Community parole officers - duties - arrest powers
+- definitions.
+(1) For purposes of this section:
+(b) "Offender" means an inmate assigned to residential and
+nonresidential community corrections programs as those programs are set
+forth in articles 27, 27.5, and 27.7 of this title TITLE 17 and an offender A
+YOUTHFUL OFFENDER SYSTEM PARTICIPANT who is in phase III of the
+youthful offender system as set forth in section 18-1.3-407. C.R.S.
+SECTION 4. In Colorado Revised Statutes, 18-1.3-401, amend
+(14) as follows:
+18-1.3-401. Felonies classified - presumptive penalties.
+(14) The court may sentence a defendant to the youthful offender
+system created in section 18-1.3-407 if the defendant is an eligible young
+adult offender pursuant to section 18-1.3-407.5.
+SECTION 5. In Colorado Revised Statutes, 18-1.3-407, amend (1),
+(2)(a), (2)(b), (3), (3.3), (3.4), (3.5), (4), (4.3), (4.5), (5), (6), (11.5)(a)(I),
+and (12); add (15); and add with amended and relocated provisions (1.3)
+and (1.5) as follows:
+18-1.3-407. Sentences - powers and duties of district court -
+authorization for youthful offender system - system participants -
+powers and duties of department of corrections - youthful offender
+system study - report - legislative intent - definitions.
+(1) (a) It is the intent of the general assembly that the youthful
+offender system established pursuant to this section shall benefit the state
+by: providing as a sentencing option for certain youthful offenders a
+controlled and regimented environment that affirms dignity of self and
+others, promotes the value of work and self-discipline, and develops useful
+skills and abilities through enriched programming.
+(I) PROVIDING A SENTENCING OPTION IN A SECURE AND
+PAGE 3-HOUSE BILL 26-1064
+
+TRAUMA-INFORMED ENVIRONMENT THAT AFFIRMS DIGNITY OF SELF AND
+OTHERS FOR CERTAIN JUVENILES AND YOUNG ADULTS WHO HAVE BEEN
+CONVICTED OF A CRIME;
+(II) INCREASING PUBLIC SAFETY BY PROVIDING EVIDENCE-INFORMED
+REHABILITATIVE TREATMENT TO HELP JUVENILES AND YOUNG ADULTS IN THE
+YOUTHFUL OFFENDER SYSTEM'S CARE MAKE LASTING BEHAVIORAL CHANGES
+TO PREPARE THEMSELVES FOR A SUCCESSFUL TRANSITION BACK TO THE
+COMMUNITY;
+(III) PROMOTING THE PHYSICAL SAFETY OF JUVENILES, YOUNG
+ADULTS, AND STAFF WITHIN THE YOUTHFUL OFFENDER SYSTEM;
+(IV) PROMOTING A SEAMLESS CONTINUUM OF CARE FROM THE TIME
+OF INCARCERATION TO RELEASE FROM CONFINEMENT, IN WHICH SYSTEM
+PARTICIPANTS' NEEDS ARE MET IN A SAFE, STRUCTURED ENVIRONMENT WITH
+WELL-TRAINED, CARING STAFF WHO HELP SYSTEM PARTICIPANTS IDENTIFY
+AND ADDRESS CRIMINOGENIC RISK FACTORS, BE ACCOUNTABLE, AND ACCEPT
+RESPONSIBILITY FOR THE PARTICIPANTS' ACTIONS;
+(V) ENABLING PARTICIPANTS TO DEVELOP HEALTHY, SUPPORTIVE
+RELATIONSHIPS WITH PEERS, ADULTS, FAMILY, AND NEIGHBORHOOD AND
+COMMUNITY MEMBERS; AND
+(VI) PROVIDING PARTICIPANTS WITH THE TOOLS NECESSARY TO
+BECOME LAW-ABIDING, CONTRIBUTING MEMBERS OF THE COMMUNITY UPON
+RELEASE.
+(b) (I) It is the further intent of the general assembly in enacting this
+section that female and male offenders ALL JUVENILES AND YOUNG ADULTS
+who are eligible for sentencing to the youthful offender system pursuant to
+section 18-1.3-407.5, or section 19-2.5-801 (5), or 19-2.5-802 (1)(d)(I)(B)
+receive equitable treatment, REGARDLESS OF GENDER, in sentencing,
+particularly in regard to the option of being sentenced to the youthful
+offender system. Accordingly, it is the general assembly's intent that the
+department of corrections take necessary measures to establish separate
+housing for female and male offenders JUVENILES AND YOUNG ADULTS who
+are sentenced to the youthful offender system without compromising the
+equitable treatment. of either.
+PAGE 4-HOUSE BILL 26-1064
+
+(II) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT JUVENILES
+AND YOUNG ADULTS WITH PHYSICAL, INTELLECTUAL, DEVELOPMENTAL,
+MENTAL, OR BEHAVIORAL HEALTH DISABILITIES OR CONDITIONS WHO ARE
+ELIGIBLE FOR SENTENCING TO THE YOUTHFUL OFFENDER SYSTEM PURSUANT
+TO SECTION 18-1.3-407.5, 19-2.5-801 (5), OR 19-2.5-802 (1)(d)(I)(B)
+RECEIVE EQUITABLE TREATMENT IN SENTENCING, PARTICULARLY IN REGARD
+TO THE OPTION OF BEING SENTENCED TO THE YOUTHFUL OFFENDER SYSTEM.
+ACCORDINGLY, IT IS THE GENERAL ASSEMBLY'S INTENT THAT THE
+DEPARTMENT TAKE ALL REASONABLE MEASURES TO ACCOMMODATE AND
+PROMOTE EFFECTIVE COMMUNICATION WITH JUVENILES AND YOUNG ADULTS
+WITH PHYSICAL, INTELLECTUAL, DEVELOPMENTAL, MENTAL, OR BEHAVIORAL
+HEALTH DISABILITIES OR CONDITIONS WHO ARE SENTENCED TO THE
+YOUTHFUL OFFENDER SYSTEM.
+(III) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT JUVENILES
+AND YOUNG ADULTS SENTENCED TO THE YOUTHFUL OFFENDER SYSTEM BE
+SENTENCED AS ADULTS AND BE SUBJECT TO ALL LAWS AND DEPARTMENT
+RULES, REGULATIONS, AND STANDARDS PERTAINING TO ADULT INMATES,
+EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION.
+(c) (I) It is the intent of the general assembly that offenders
+PARTICIPANTS sentenced to the youthful offender system be housed and
+serve their sentences in a facility specifically designed and programmed for
+the youthful offender system and that offenders PARTICIPANTS so sentenced
+be housed separate SEPARATELY from and not brought into daily physical
+contact with inmates twenty-five years of age or older WHO ARE sentenced
+to the department of corrections AND who have not been sentenced to the
+youthful offender system, except as specifically provided under PURSUANT
+TO subsection (5) of this section.
+(II) For the purposes of public safety, academic achievement,
+rehabilitation, the development of pro-social behavior, or reentry planning
+for youthful offenders, the executive director or his or her designee may
+transfer any offender age twenty-four years or younger and sentenced to the
+department of corrections into and out of the youthful offender system at his
+or her discretion.
+(III) The facility that houses offenders sentenced to the youthful
+offender system shall be limited to two hundred fifty-six beds.
+PAGE 5-HOUSE BILL 26-1064
+
+(IV) (A) The department of corrections shall develop policies and
+procedures for decision-making regarding the transfer of any offender not
+sentenced to the youthful offender system into the youthful offender system
+in order to ensure that the goals of the youthful offender system, as
+described in this section; the operations of the rehabilitative program within
+the youthful offender system; and the delivery of services to those offenders
+directly sentenced to the youthful offender system are not compromised in
+any way by the comingled population.
+(B) The department of corrections shall include in its annual report
+to the judiciary committees of the house of representatives and senate, or to
+any successor committees, pursuant to section 2-7-203, C.R.S., and in any
+annual youthful offender system report produced by the department,
+information regarding the policies and procedures developed by the
+department pursuant to sub-subparagraph (A) of this subparagraph (IV), the
+characteristics of the population of youthful offenders transferred pursuant
+to this paragraph (c), and the impact, if any, of transferred inmates on any
+youthful offender system programming or department of corrections
+programming.
+(C) Notwithstanding any provisions of this section to the contrary,
+the department of corrections shall not initiate any transfers of inmates to
+the youthful offender system until the department has developed the policies
+and procedures described in sub-subparagraph (A) of this subparagraph
+(IV).
+(d) It is the intent of the general assembly that offenders sentenced
+to the youthful offender system be sentenced as adults and be subject to all
+laws and department of corrections rules, regulations, and standards
+pertaining to adult inmates, except as otherwise provided in this section.
+(1.3) (a) [Formerly 18-1.3-407 (2)(a)(III) introductory portion]
+For the purposes of this section, unless the context otherwise requires:
+(I) "DEPARTMENT" MEANS THE DEPARTMENT OF CORRECTIONS.
+(II) "EXECUTIVE DIRECTOR" MEANS THE EXECUTIVE DIRECTOR OF
+THE DEPARTMENT OF CORRECTIONS.
+(III) [Formerly 18-1.3-407 (2)(a)(III)(A)] "Juvenile" means a
+PAGE 6-HOUSE BILL 26-1064
+
+person who is under eighteen years of age when the crime is committed and
+under twenty-one years of age at the time of sentencing pursuant to this
+section.
+(IV) "SYSTEM PARTICIPANT" OR "PARTICIPANT" MEANS A JUVENILE
+OR A YOUNG ADULT WHO HAS BEEN SENTENCED TO THE YOUTHFUL
+OFFENDER SYSTEM.
+(V) "TRAUMA-INFORMED" MEANS AN APPROACH THAT INVOLVES AN
+UNDERSTANDING OF ADVERSE CHILDHOOD EXPERIENCES AND THAT
+RESPONDS TO SYMPTOMS OF CHRONIC INTERPERSONAL TRAUMA AND
+TRAUMATIC STRESS ACROSS THE LIFESPAN OF AN INDIVIDUAL.
+(VI) [Formerly 18-1.3-407 (2)(a)(III)(B)] "Young adult" offender"
+means a person who is at least eighteen years of age but under twenty years
+of age when the crime is committed and under twenty-one years of age at
+the time of sentencing pursuant to this section.
+(b) [Formerly 18-1.3-407 (2)(a)(IV)] As used in this section,
+"community supervision" shall not be construed to DOES NOT mean a
+community corrections program, as defined in section 17-27-102. C.R.S.
+(1.5) (a) (I) [Formerly 18-1.3-407 (1)(c)(II)] For the purposes of
+public safety, academic achievement, rehabilitation, the development of
+prosocial behavior, or reentry planning for youthful offenders JUVENILES
+AND YOUNG ADULTS, the executive director or his or her THE EXECUTIVE
+DIRECTOR'S designee may transfer any offender age EXERCISE DISCRETION
+IN THE TRANSFER OF A JUVENILE OR YOUNG ADULT twenty-four years OF AGE
+or younger and sentenced to the department of corrections into and out of
+the youthful offender system. at his or her discretion.
+(II) [Formerly 18-1.3-407 (1)(c)(IV)(A)] The department of
+corrections shall develop policies and procedures for decision-making
+regarding the transfer of any offender A JUVENILE OR YOUNG ADULT WHO IS
+not sentenced to the youthful offender system into the youthful offender
+system in order to ensure that the goals of the youthful offender system, as
+described in this section; the operations of the rehabilitative program within
+the youthful offender system; and the delivery of services to those offenders
+JUVENILES AND YOUNG ADULTS directly sentenced to the youthful offender
+system are not compromised in any way by the comingled COMMINGLED
+PAGE 7-HOUSE BILL 26-1064
+
+population.
+(III) [Formerly 18-1.3-407 (1)(c)(IV)(C)] Notwithstanding any
+provisions of this section to the contrary, the department of corrections shall
+not initiate any transfers of inmates JUVENILES OR YOUNG ADULTS to the
+youthful offender system until the department has developed the policies
+and procedures described in sub-subparagraph (A) of this subparagraph (IV)
+SUBSECTION (1.5)(a)(II) OF THIS SECTION.
+(b) [Formerly 18-1.3-407 (1)(c)(III)] The facility that houses
+offenders PARTICIPANTS sentenced to the youthful offender system shall be
+IS limited to two hundred fifty-six beds.
+(c) [Formerly 18-1.3-407 (1)(c)(IV)(B)] The department of
+corrections shall include in its annual report to the judiciary committees of
+the house of representatives and senate, or to any successor committees,
+pursuant to section 2-7-203, C.R.S., and in any annual youthful offender
+system report produced by the department, information regarding the
+policies and procedures developed by the department pursuant to
+sub-subparagraph (A) of this subparagraph (IV) SUBSECTION (1.5)(a)(II) OF
+THIS SECTION, the characteristics of the population of youthful offenders
+JUVENILES AND YOUNG ADULTS transferred pursuant to this paragraph (c)
+SUBSECTION (1.5), and the impact, if any, of transferred inmates on any
+youthful offender system programming or department of corrections
+programming. BEGINNING IN JANUARY 2027, AND IN JANUARY EVERY YEAR
+THEREAFTER, THE DEPARTMENT SHALL INCLUDE, AS PART OF ITS
+PRESENTATION DURING ITS "SMART ACT" HEARING REQUIRED BY SECTION
+2-7-203, INFORMATION CONCERNING HOW MANY JUVENILES AND YOUNG
+ADULTS COMPLETED A COMMITMENT TO THE DIVISION OF YOUTH SERVICES
+PRIOR TO A COMMITMENT TO THE YOUTHFUL OFFENDER SYSTEM, HOW MANY
+JUVENILES AND YOUNG ADULTS SUCCESSFULLY COMPLETE THEIR SENTENCE
+TO THE YOUTHFUL OFFENDER SYSTEM, AND HOW MANY JUVENILES AND
+YOUNG ADULTS FAIL TO COMPLETE A SENTENCE TO THE YOUTHFUL
+OFFENDER SYSTEM PROGRAM DUE TO THE FILING OF NEW CRIMINAL
+CHARGES.
+(2) (a) (I) A juvenile may be sentenced to the youthful offender
+system created pursuant to this section under the circumstances set forth in
+section 19-2.5-801 (5)(a)(II) or 19-2.5-802 (1)(d)(I)(B). A young adult
+offender may be sentenced to the youthful offender system created pursuant
+PAGE 8-HOUSE BILL 26-1064
+
+to this section under the circumstances set forth in section 18-1.3-407.5. In
+order to sentence a juvenile or young adult offender to the youthful offender
+system, the court shall first impose upon such person THE JUVENILE OR
+YOUNG ADULT a sentence to the department of corrections in accordance
+with section 18-1.3-401. The court shall thereafter suspend such THE
+sentence conditioned on completion of a sentence to the youthful offender
+system, including a period of community supervision. The court shall
+impose any such A sentence to the youthful offender system for a
+determinate period of not fewer than two years nor more than six years;
+except that a juvenile or young adult offender convicted of a class 2 felony
+may be sentenced for a determinate period of up to seven years. In imposing
+the sentence, the court shall grant authority to the department of corrections
+to place the offender JUVENILE OR YOUNG ADULT under a period of
+community supervision for a period of not fewer than six months and up to
+twelve months any time after the date on which the offender JUVENILE OR
+YOUNG ADULT has twelve months remaining to complete the determinate
+sentence. The court may award an offender A JUVENILE OR YOUNG ADULT
+sentenced to the youthful offender system credit for presentence
+confinement; except that such credit shall DOES not reduce the offender's
+JUVENILE'S OR YOUNG ADULT'S actual time served in the youthful offender
+system to fewer than two years. The court shall have ORDER a presentence
+investigation conducted before sentencing a juvenile or young adult
+offender pursuant to this section. Upon the request of either the prosecution
+or the defense, the presentence report must include a determination by the
+warden of the youthful offender system whether the offender JUVENILE OR
+YOUNG ADULT is acceptable for sentencing to the youthful offender system.
+When making a determination, the warden shall consider the nature and
+circumstances of the crime; the age, circumstances, RISK FACTORS AND
+PROTECTIVE FACTORS, TREATMENT NEEDS, and criminal history of the
+offender JUVENILE OR YOUNG ADULT; the available bed space in the youthful
+offender system; and any other appropriate considerations.
+(II) Upon the successful completion of the determinate sentence to
+the youthful offender system, including the mandatory period of community
+supervision, the suspended sentence pursuant to section 18-1.3-401 shall
+have been IS completed. Whenever an offender A JUVENILE OR YOUNG
+ADULT is returned to the district court for revocation pursuant to subsection
+(5) of this section, the court shall impose the original sentence following the
+revocation of the sentence to the youthful offender system, except as
+otherwise provided in paragraph (b) of subsection (5) SUBSECTION (5)(b) of
+PAGE 9-HOUSE BILL 26-1064
+
+this section.
+(III) For the purposes of this section, unless the context otherwise
+requires:
+(A) "Juvenile" means a person who is under eighteen years of age
+when the crime is committed and under twenty-one years of age at the time
+of sentencing pursuant to this section.
+(B) "Young adult offender" means a person who is at least eighteen
+years of age but under twenty years of age when the crime is committed and
+under twenty-one years of age at the time of sentencing pursuant to this
+section.
+(C) "Youthful offender" or "offender" means a juvenile or a young
+adult offender who has been sentenced to the youthful offender system or
+who is eligible for sentencing to the youthful offender system.
+(IV) As used in this section, "community supervision" shall not be
+construed to mean a community corrections program, as defined in section
+17-27-102. C.R.S.
+(b) Article 22.5 of title 17, concerning time credits, applies to any
+person sentenced to the youthful offender system; except that an offender
+A SYSTEM PARTICIPANT whose sentence to the youthful offender system is
+revoked pursuant to subsection (5) of this section may receive one day of
+credit against the suspended sentence imposed by the court following
+revocation of the sentence to the youthful offender system for each day the
+offender PARTICIPANT served in the youthful offender system, excluding any
+period of time during which the offender was under community supervision
+but including credit for presentence confinement authorized pursuant to
+section 18-1.3-405.
+(3) The department of corrections shall develop and implement a
+youthful offender system for offenders JUVENILES AND YOUNG ADULTS
+sentenced in accordance with subsection (2) of this section. The youthful
+offender system shall be IS under the direction and control of the executive
+director. of the department of corrections. The youthful offender system
+shall be IS based on the following principles:
+PAGE 10-HOUSE BILL 26-1064
+
+(a) The system should provide for teaching offenders MUST TEACH
+PARTICIPANTS self-discipline by providing clear APPROPRIATE consequences
+for DESIGNATED inappropriate behavior, WHICH MAY INCLUDE
+INTERMEDIATE SANCTIONS IMPOSED BY THE DEPARTMENT;
+(a.5) THE SYSTEM MUST PROVIDE EVIDENCE-INFORMED
+REHABILITATIVE TREATMENT, AS INDICATED THROUGH ASSESSMENT, TO
+HELP PARTICIPANTS MAKE LASTING BEHAVIORAL CHANGES TO PREPARE
+THEMSELVES FOR SUCCESSFUL TRANSITION BACK INTO THE COMMUNITY;
+(b) The system should MUST include a daily regimen that involves
+offenders in physical training PARTICIPANTS IN ACTIVITIES DESIGNED TO
+MEET THEIR INDIVIDUAL NEEDS, WHICH MAY INCLUDE THERAPY, FAMILY
+THERAPY, OR SUBSTANCE USE DISORDER TREATMENT; self-discipline
+exercises; educational and work programs; and meaningful interaction, with
+a component for a tiered system for swift and strict discipline for
+noncompliance POSITIVE SKILL DEVELOPMENT, INCLUDING LIFE SKILLS
+PROGRAMMING;
+(c) The system should MUST use staff models and mentors to
+promote within an offender A PARTICIPANT the development of socially
+accepted attitudes and behaviors;
+(d) The system should MUST provide offenders PARTICIPANTS with
+instruction on problem-solving skills and should incorporate methods to
+reinforce the use of cognitive behavior strategies that change offenders'
+PARTICIPANTS' orientation toward criminal thinking and behavior;
+(e) The system should MUST promote among offenders
+PARTICIPANTS the creation and development of new group cultures which
+THAT result in a transition to prosocial behavior; and
+(f) The system should MUST provide offenders PARTICIPANTS the
+opportunity to gradually reenter the community. while demonstrating the
+capacity for self-discipline and the attainment of respect for the community.
+(3.3) The youthful offender system consists of the following
+components, and the department of corrections has the authority described
+in this subsection (3.3) in connection with the administration of TO
+ADMINISTER the components:
+PAGE 11-HOUSE BILL 26-1064
+
+(a) An intake, diagnostic, and orientation phase. DURING THE
+INTAKE, DIAGNOSTIC, AND ORIENTATION PHASE, THE DEPARTMENT SHALL
+FACILITATE AN EVALUATION PROCESS THAT INCLUDES AN EVALUATION OF
+EACH PARTICIPANT FOR CRIMINOGENIC RISKS OR NEEDS AND AN EVALUATION
+OF POSSIBLE PHYSICAL, INTELLECTUAL, DEVELOPMENTAL, AND MENTAL AND
+BEHAVIORAL HEALTH NEEDS. EVALUATORS MUST BE TRAINED TO CONDUCT
+ASSESSMENTS OF JUVENILES AND YOUNG ADULTS AND TO IDENTIFY NEEDS
+AND TARGETED GOALS FOR TREATMENT. THE EVALUATOR SHALL COMPLETE
+A WRITTEN REPORT DOCUMENTING RECOMMENDATIONS. AFTER RECEIVING
+THE EVALUATOR'S WRITTEN REPORT, THE DEPARTMENT SHALL CREATE A
+PLAN THAT MUST ADDRESS CRIMINOGENIC RISK OR NEEDS, THERAPEUTIC
+NEEDS, EDUCATION, VOCATIONAL SKILLS, LIFE SKILLS, AND REENTRY INTO
+THE COMMUNITY. THE PLAN MUST BE CONSISTENT WITH A PARTICIPANT'S
+INDIVIDUALIZED EDUCATION PROGRAM DEVELOPED PURSUANT TO SECTION
+22-20-108 OR PLAN DEVELOPED PURSUANT TO SECTION 504 OF THE FEDERAL
+"REHABILITATION ACT OF 1973", 29 U.S.C. SEC. 701 ET SEQ., IF SUCH A
+PLAN EXISTS. THE DEPARTMENT SHALL ASSIGN A CASE MANAGER TO THE
+PARTICIPANT. THE CASE MANAGER SHALL MEET MONTHLY WITH THE
+PARTICIPANT, ENSURE THAT THE PARTICIPANT RECEIVES THE TREATMENT OR
+SERVICES NECESSARY TO IMPLEMENT THE PARTICIPANT'S PLAN, AND RECORD
+THE PARTICIPANT'S PROGRESS THROUGHOUT THE YOUTHFUL OFFENDER
+SYSTEM PROGRAM.
+(b) Phase I, during which time a range of core programs,
+supplementary activities, and educational and prevocational programs and
+services are provided to offenders EACH PARTICIPANT. A PARTICIPANT'S
+PLAN MUST BE REVIEWED WITH THE PARTICIPANT AND A MULTIDISCIPLINARY
+TEAM ON A MONTHLY BASIS. IF THE DEPARTMENT DETERMINES THAT
+MODIFICATIONS TO THE PLAN FOR TREATMENT OR SERVICES ARE NECESSARY
+FOR THE PARTICIPANT'S SUCCESSFUL REHABILITATION, THEN THE
+DEPARTMENT SHALL MODIFY THE PARTICIPANT'S PLAN ACCORDINGLY.
+(c) (I) Phase II, which may be administered during the last three to
+six months of the period of institutional confinement and during which time
+the department of corrections is authorized to transfer an offender A
+PARTICIPANT to a twenty-four-hour custody residential program that serves
+youthful offenders PARTICIPANTS.
+(II) In connection with the component described in subparagraph (I)
+of this paragraph (c) SUBSECTION (3.3)(c)(I) OF THIS SECTION, the
+PAGE 12-HOUSE BILL 26-1064
+
+department of corrections is authorized to operate or to contract with a
+prerelease residential program for those sentenced as youthful offenders
+PARTICIPANTS. The department of corrections or the contract provider shall
+provide for twenty-four-hour custody of offenders A PARTICIPANT in phase
+II.
+(d) (I) Phase III, which is to be administered for the period of
+community supervision that remains after the completion of phase II and
+during which the offender PARTICIPANT is monitored during reintegration
+into society.
+(II) After the department determines appropriate phase III
+placement, the department shall notify, no later than thirty days prior to
+placement, the local law enforcement agency for the jurisdiction in which
+the offender shall be PARTICIPANT IS BEING placed for phase III. The notice
+shall MUST include the offender's PARTICIPANT'S name, the crime committed
+by the offender, the disposition of the offender's case CRIME COMMITTED,
+CASE DISPOSITION, and the basis for the placement. IF THE PLACEMENT IS IN
+A JURISDICTION OTHER THAN THE JURISDICTION WHERE THE PARTICIPANT
+WAS CONVICTED, the local law enforcement agency may appeal the
+placement if the placement is in a jurisdiction other than the jurisdiction
+where the offender was convicted, it may appeal to the executive director
+of the department at least fifteen days prior to the placement; except that the
+local law enforcement agency may not appeal if the placement is in the
+jurisdiction where the offender PARTICIPANT was residing at the time the
+offense was committed. If there is an appeal, after considering the
+department's basis for placement and the local law enforcement's basis for
+appeal, the executive director shall make the final determination of the
+placement.
+(3.4) In addition to the powers granted to the department of
+corrections in subsection (3.3) of this section, the department of corrections
+may:
+(a) Transfer a youthful offender SYSTEM PARTICIPANT to an
+appropriate facility for the purpose of accomplishing the offender's
+redirection TO FURTHER THE PARTICIPANT'S IDENTIFIED TREATMENT,
+REHABILITATION, OR REENTRY goals, as long as the transfer does not
+jeopardize the safety and welfare of the offender THE PARTICIPANT OR
+ISOLATE THE PARTICIPANT BECAUSE OF THE PARTICIPANT'S DISABILITY
+PAGE 13-HOUSE BILL 26-1064
+
+NEEDS;
+(b) Operate an emancipation program and provide other ADDITIONAL
+support or monitoring services and residential placement for offenders
+participating A PARTICIPANT in phase II and phase III under the youthful
+offender system for whom family reintegration poses difficulties. The
+department of corrections shall provide reintegration support services to an
+offender placed in an emancipation house AT A LEVEL AND OF A TYPE
+CONSISTENT WITH THE PARTICIPANT'S NEEDS.
+(c) Contract with any public or private entity, including, but not
+limited to, a school district, for provision or certification of educational
+services Offenders INCLUDING, BUT NOT LIMITED TO, A GENERAL
+EDUCATIONAL DEVELOPMENT PROGRAM OR A HIGH SCHOOL DIPLOMA
+PATHWAY. THE DEPARTMENT OR THE CONTRACTED ENTITY SHALL
+DETERMINE THE NUMBER AND TYPE OF EDUCATIONAL CREDITS A
+PARTICIPANT HAD EARNED PRIOR TO ENTERING THE YOUTHFUL OFFENDER
+SYSTEM. A PARTICIPANT receiving educational services or diplomas from a
+school district under an agreement entered into pursuant to this paragraph
+(c) shall not be SUBSECTION (3.4)(c) IS NOT included in computing the
+school district's student performance on statewide assessments pursuant to
+section 22-7-1006.3, C.R.S., or the school district's levels of attainment of
+the performance indicators pursuant to article 11 of title 22. C.R.S.
+(3.5) (a) The executive director of the department of corrections or
+the executive director's designee has final approval on the hiring and
+transferring of staff for the youthful offender system. In staffing the
+youthful offender system, the executive director or the executive director's
+designee shall select persons who are trained in the treatment of youthful
+offenders POSSESS KNOWLEDGE, EXPERIENCE, AND A PASSION FOR THE
+TREATMENT OF JUVENILES AND YOUNG ADULTS or will be trained in the
+treatment of youthful offenders JUVENILES AND YOUNG ADULTS; are trained
+to act as role models and mentors pursuant to subsection (3)(c) of this
+section; and are best equipped to enable the youthful offender system to
+meet the principles specified in subsection (3) of this section. All staff
+members must be trained in the treatment of youthful offenders JUVENILES
+AND YOUNG ADULTS within forty-five days after their first day at the
+youthful offender system. Prior to receiving this training, a staff member
+shall not work directly with juveniles and must be supervised by a trained
+staff member when working with any young adult offenders at A
+PAGE 14-HOUSE BILL 26-1064
+
+PARTICIPANT IN the youthful offender system. The executive director or the
+executive director's designee shall make a recommendation to the
+department of personnel regarding the classification of positions with the
+youthful offender system, taking into account the level of education and
+training required for such THE positions.
+(b) TO SUPPORT YOUTHFUL OFFENDER SYSTEM BEHAVIORAL HEALTH
+STAFFING, THE DIRECTOR OF CLINICAL SERVICES AT THE DEPARTMENT MAY,
+WITH THE FINAL APPROVAL OF THE EXECUTIVE DIRECTOR OR THE EXECUTIVE
+DIRECTOR'S DESIGNEE, HIRE UNLICENSED BEHAVIORAL HEALTH
+PROFESSIONALS OR PARAPROFESSIONALS TO SUPPLEMENT, AS APPROPRIATE,
+THE WORK OF LICENSED BEHAVIORAL HEALTH PROVIDERS AUTHORIZED TO
+PROVIDE SUPERVISION WITHIN THE LICENSED BEHAVIORAL HEALTH
+PROVIDERS' SCOPE OF PRACTICE.
+(4) The youthful offender system shall MUST provide for community
+supervision which shall consist THAT CONSISTS of highly structured
+surveillance and monitoring and SUPERVISION, educational PROGRAMS, and
+EVIDENCE-INFORMED treatment programs THAT ARE INDIVIDUALLY
+TAILORED TO MEET THE SYSTEM PARTICIPANTS' NEEDS AND GOALS.
+Community supervision shall MUST be administered by the department, of
+corrections, and revocation of the inmate's supervision status shall be A
+PARTICIPANT'S SUPERVISION STATUS IS subject to the provisions of
+subsections (2) and (5) of this section.
+(4.3) The youthful offender system shall MUST provide sex offender
+treatment services for an offender A PARTICIPANT who is sentenced to the
+youthful offender system and who has a history of committing a sex
+offense, as defined in section 16-11.7-102 (3), C.R.S., or who has a history
+of committing any other offense, the underlying factual basis of which
+includes a sex offense. Prior to July 1, 2002, the sex offender treatment
+services provided pursuant to this subsection (4.3) shall comply with any
+existing national standards for juvenile sex offender treatment. On and after
+July 1, 2002, The sex offender treatment services provided pursuant to this
+subsection (4.3) shall MUST comply with the sex offender treatment
+standards adopted by the sex offender management board pursuant to
+section 16-11.7-103. C.R.S.
+(4.5) The consent of the parent, parents, or legal guardian of an
+offender under the age of eighteen years A JUVENILE PARTICIPANT who has
+PAGE 15-HOUSE BILL 26-1064
+
+been sentenced to the youthful offender system pursuant to this section is
+not necessary in order to authorize hospital, medical, mental health,
+SUBSTANCE USE, dental, emergency health, or emergency surgical care. In
+addition, neither the department nor any hospital, physician, surgeon,
+mental OR BEHAVIORAL health-care provider, dentist, trained emergency
+health-care provider, or agent or employee thereof who, in good faith, relies
+on such a minor offender's A JUVENILE PARTICIPANT'S consent is liable for
+civil damages for failure to secure the consent of such an offender's THE
+PARTICIPANT'S parent, parents, or legal guardian prior to rendering such THE
+care. The parent, parents, or legal guardian of a minor offender JUVENILE
+PARTICIPANT described in this subsection (4.5) is not liable to pay the
+charges for the care provided the minor on said minor's PARTICIPANT BASED
+ON THE PARTICIPANT'S consent.
+(5) (a) Except as otherwise provided by paragraph (b) of this
+subsection (5) SUBSECTION (5)(b) OF THIS SECTION, the department of
+corrections shall implement a procedure for the transfer of an offender A
+SYSTEM PARTICIPANT to another facility when an offender in the system THE
+SYSTEM PARTICIPANT poses a danger to himself or herself THEMSELF or
+others. The executive director of the department of corrections shall review
+any transfer determination by the department prior to the actual transfer of
+an inmate A PARTICIPANT, including a transfer back to the district court for
+revocation of the sentence to the youthful offender system. A transfer
+pursuant to this paragraph (a) shall be SUBSECTION (5)(a) IS limited to a
+period not to exceed sixty days, at which time the offender PARTICIPANT
+shall be returned to the youthful offender facility to complete his or her THE
+sentence or returned to the district court for revocation of the sentence to
+the youthful offender system. In no case shall an offender A PARTICIPANT
+initially sentenced to the youthful offender system be held in isolation or
+segregation or in an adult facility for longer than sixty consecutive days
+without action by the sentencing court.
+(b) (I) An offender A PARTICIPANT who is thought DETERMINED BY
+A MENTAL HEALTH CLINICIAN to have a behavioral or mental health disorder
+CONDITION or an intellectual and developmental disability, by a mental
+health clinician, as defined by regulation of the department, of corrections,
+may be transferred to another facility for a period not to exceed sixty days
+for diagnostic validation of said disorder THE CONDITION or disability. At
+the conclusion of the sixty-day period, the psychiatrists or other appropriate
+professionals conducting MAKING the diagnosis shall forward to the
+PAGE 16-HOUSE BILL 26-1064
+
+executive director of the department of corrections their findings, which at
+a minimum must include a statement of whether the offender has the ability
+to withstand the rigors of INCLUDING INFORMATION ABOUT HOW THE
+PARTICIPANT'S CONDITION OR DISABILITY CAN BE ACCOMMODATED IN the
+youthful offender system. If the diagnosis determines that the offender
+PARTICIPANT is incapable of completing his or her THE sentence to the
+youthful offender system due to a behavioral or mental health disorder
+CONDITION or an intellectual and developmental disability, the executive
+director shall forward such THE determination to the sentencing court.
+Based on the determination, the sentencing court shall review the offender's
+PARTICIPANT'S sentence to the youthful offender system and may
+(A) Impose the offender's original sentence to the department of
+corrections; or
+(B) reconsider and reduce the offender's PARTICIPANT'S sentence to
+the department of corrections in consideration of the offender's behavioral
+or mental health disorder CONDITION or intellectual and developmental
+disability.
+(II) An offender A JUVENILE OR YOUNG ADULT who is resentenced
+pursuant to this subsection (5)(b) shall continue to be treated as an adult for
+purposes of sentencing and shall not be sentenced pursuant to article 2.5 of
+title 19.
+(III) In no event shall the sentencing court, after reviewing the
+offender's JUVENILE'S OR YOUNG ADULT'S sentence to the youthful offender
+system pursuant to this subsection (5)(b), increase the offender's sentence
+to the department of corrections due to the offender's diagnosis of a
+behavioral or mental health disorder CONDITION or determination of an
+intellectual and developmental disability.
+(IV) Any offender A PARTICIPANT who is diagnosed as having a
+behavioral or mental health disorder CONDITION or determined to have an
+intellectual and developmental disability and is therefore incapable of
+completing his or her THEIR sentence to the youthful offender system may
+be housed in any department of corrections facility deemed appropriate by
+the executive director or transferred in accordance with procedures set forth
+in section 17-23-101 pending action by the sentencing court with regard to
+the offender's sentence.
+PAGE 17-HOUSE BILL 26-1064
+
+(c) The department of corrections shall implement a procedure for
+A returning offenders JUVENILE OR YOUNG ADULT who cannot successfully
+complete the sentence to the youthful offender system, or who fail FAILS to
+comply with the terms or conditions of the youthful offender system, to the
+district court. An offender A JUVENILE OR YOUNG ADULT returned to the
+district court pursuant to subsection (5)(a) of this section or because he or
+she THE JUVENILE OR YOUNG ADULT cannot successfully complete the
+sentence to the youthful offender system for reasons other than a behavioral
+or mental health disorder CONDITION or an intellectual and developmental
+disability, or because he or she THE JUVENILE OR YOUNG ADULT fails to
+comply with the terms or conditions of the youthful offender system, shall
+MUST receive imposition of the original sentence to the department. of
+corrections. THE DEPARTMENT MUST FIRST MAKE A DETERMINATION THAT
+THE FAILURE TO COMPLY WITH THE TERMS OR CONDITIONS OF THE YOUTHFUL
+OFFENDER SYSTEM DID NOT RESULT FROM A MENTAL OR BEHAVIORAL
+HEALTH CONDITION OR AN INTELLECTUAL AND DEVELOPMENTAL DISABILITY
+OR THE DEPARTMENT'S FAILURE TO PROVIDE REASONABLE
+ACCOMMODATIONS FOR A MENTAL OR BEHAVIORAL HEALTH CONDITION OR
+AN INTELLECTUAL AND DEVELOPMENTAL DISABILITY. After the executive
+director of the department upholds the department's TRANSFER decision, the
+offender PARTICIPANT may be held in any correctional facility deemed
+appropriate by the executive director; except that an offender A
+PARTICIPANT who cannot successfully complete the sentence to the youthful
+offender system for reasons other than a behavioral or mental health
+disorder CONDITION or an intellectual and developmental disability, or
+because he or she fails OF A FAILURE to comply with the terms or conditions
+of the youthful offender system, shall be transferred, within thirty-five days
+after the executive director upholds the department's decision, to a county
+jail for holding prior to resentencing. The department shall notify the district
+attorney of record, and the district attorney of record shall be IS responsible
+for seeking the revocation or review of the offender's PARTICIPANT'S
+sentence and the imposition of the original sentence or modification of the
+original sentence pursuant to subsection (5)(b)(I)(B) SUBSECTION (5)(b)(I)
+of this section. The district court shall review the offender's PARTICIPANT'S
+sentence within one hundred twenty-six days after notification to the district
+attorney of record by the department of corrections that the offender
+PARTICIPANT is not able to complete the sentence to the youthful offender
+system or fails to comply with the terms or conditions of the youthful
+offender system.
+PAGE 18-HOUSE BILL 26-1064
+
+(d) (I) Except as provided in subsection (5)(d)(II) of this section, the
+department of corrections may house an offender A SYSTEM PARTICIPANT in
+a youthful offender facility that also houses inmates twenty-five years of
+age or older sentenced to the department of corrections who are of a lower
+than close custody level if such THE inmates are housed in the youthful
+offender facility for the purpose of participating in a program to mentor
+youthful offenders SYSTEM PARTICIPANTS that is authorized by the executive
+director. of the department of corrections.
+(II) The department of corrections shall not house an offender A
+PARTICIPANT in a youthful offender facility that also houses any inmates
+twenty-five years of age or older sentenced to the department of corrections
+who have been convicted of a sex offense, as described in section
+16-11.7-102 (3).
+(6) The department of corrections shall establish and enforce
+standards for the youthful offender system Offenders CONSISTENT WITH THE
+GOALS STATED IN SUBSECTION (1) OF THIS SECTION. A PARTICIPANT in the
+youthful offender system, including those A PARTICIPANT under community
+supervision, shall be IS considered inmates AN INMATE for the purposes of
+section 17-1-111. C.R.S.
+(11.5) (a) (I) An offender A JUVENILE OR YOUNG ADULT who is
+sentenced to the youthful offender system shall MUST submit to collection
+and a chemical testing of a biological substance sample from the offender
+JUVENILE OR YOUNG ADULT to determine the genetic markers thereof.
+(12) The general assembly recognizes that the increased number of
+violent crimes committed by juveniles and young adults is a problem faced
+by all the states of this nation. By creating the youthful offender system,
+Colorado stands at the forefront of the states in creating a new approach to
+addressing this problem. The general assembly also declares that the cost
+of implementing and operating the youthful offender system will create
+CREATES a burden on the state's limited resources. Accordingly HOWEVER,
+THE GENERAL ASSEMBLY SHALL APPROPRIATE TO THE DEPARTMENT
+SUFFICIENT FUNDS TO MANAGE THE YOUTHFUL OFFENDER SYSTEM IN A
+MANNER CONSISTENT WITH THE REQUIREMENTS AND PRINCIPLES CONTAINED
+IN THIS SECTION, INCLUDING THE REQUIREMENTS AND PRINCIPLES RELATED
+TO THE TREATMENT OF MENTAL AND BEHAVIORAL HEALTH CONDITIONS OR
+INTELLECTUAL AND DEVELOPMENTAL DISABILITIES. TO SUPPLEMENT THE
+PAGE 19-HOUSE BILL 26-1064
+
+APPROPRIATION, the general assembly directs the department of corrections
+to seek out and accept available federal, state, and local public funds,
+including project demonstration funds, and private moneys MONEY and
+private systems for the purpose of conducting the youthful offender system.
+(15) (a) THE DEPARTMENT SHALL CONSULT A DIVERSE GROUP OF
+RELEVANT EXPERTS TO FORMULATE RECOMMENDATIONS FOR INTEGRATING
+A TRAUMA-INFORMED STANDARD OF CARE WITH CURRENT PRACTICES TO
+PROMOTE THE HEALTH AND SAFETY OF PARTICIPANTS IN THE YOUTHFUL
+OFFENDER SYSTEM. THE RELEVANT EXPERTS' VIEWS MUST GUIDE THE
+RECOMMENDATIONS ON APPROPRIATE PROGRAMMING AND THERAPEUTIC
+INTERVENTIONS TO ADDRESS SYMPTOMS OF TRAUMA THAT SYSTEM
+PARTICIPANTS EXHIBIT. THE RECOMMENDATIONS MUST INCLUDE, BUT ARE
+NOT LIMITED TO, NECESSARY MODIFICATIONS TO YOUTHFUL OFFENDER
+SYSTEM PROGRAMMING AND PROCEDURES, PARTICIPANT TREATMENT,
+PARTICIPANT HOUSING ARRANGEMENTS, AND STAFF TRAINING TO REFLECT
+A TRAUMA-INFORMED APPROACH TO CARE. IMPLEMENTATION OF THE
+RECOMMENDATIONS IS SUBJECT TO AVAILABLE APPROPRIATIONS,
+DEPARTMENT CAPACITY, FACILITY INFRASTRUCTURE, AND AVAILABLE
+STAFFING.
+(b) IN JANUARY 2028, THE DEPARTMENT SHALL INCLUDE, AS PART
+OF ITS PRESENTATION DURING ITS "SMART ACT" HEARING REQUIRED BY
+SECTION 2-7-203, INFORMATION CONCERNING THE RECOMMENDATIONS
+DEVELOPED PURSUANT TO SUBSECTION (15)(a) OF THIS SECTION. THE
+DEPARTMENT SHALL PUBLISH THE RECOMMENDATIONS ON THE
+DEPARTMENT'S WEBSITE.
+SECTION 6. In Colorado Revised Statutes, amend 18-1.3-407.5
+as follows:
+18-1.3-407.5. Sentences - young adults - youthful offender
+system - definitions.
+(1) (a) A young adult offender may be sentenced to the youthful
+offender system in the department of corrections in accordance with section
+18-1.3-407, in the following circumstances:
+(I) The young adult offender is convicted of a felony enumerated as
+a crime of violence pursuant to section 18-1.3-406;
+PAGE 20-HOUSE BILL 26-1064
+
+(II) The young adult offender is convicted of a felony offense
+described in part 1 of article 12 of this title TITLE 18;
+(III) The young adult offender used, or possessed and threatened the
+use of, a deadly weapon during the commission of a felony offense against
+a person, as set forth in article 3 of this title TITLE 18;
+(IV) The young adult offender is convicted of vehicular homicide,
+as described in section 18-3-106; vehicular assault, as described in section
+18-3-205; or felonious arson, as described in part 1 of article 4 of this title
+TITLE 18;
+(V) The young adult offender is convicted of a felony offense
+described in section 18-1.3-401 as a class 3 felony, other than the felonies
+described in section 18-3-402 (1)(d) and section 18-3-403 (1)(e), as it
+existed prior to July 1, 2000, and has, within the two previous years, been
+adjudicated a juvenile delinquent for a delinquent act that would constitute
+a felony if committed by an adult; or
+(VI) The young adult offender is convicted of a felony offense and
+is determined to have been a "repeat juvenile offender", as described in
+section 19-2.5-1125.
+(b) The offenses described in paragraph (a) of this subsection (1)
+shall SUBSECTION (1)(a) OF THIS SECTION include the attempt, conspiracy,
+or solicitation to commit such THE offenses.
+(2) (a) Notwithstanding the circumstances described in subsection
+(1) of this section, a young adult offender shall be IS ineligible for
+sentencing to the youthful offender system if the young adult offender is
+convicted of any of the following:
+(I) A class 1 or class 2 felony;
+(II) A sexual offense described in section 18-6-301, section
+18-6-302, or part 4 of article 3 of this title TITLE 18; or
+(III) Any offense, if the young adult offender has received a
+sentence to the youthful offender system for any A prior conviction.
+PAGE 21-HOUSE BILL 26-1064
+
+(b) Notwithstanding subsection (2)(a) of this section, a young adult
+offender who is charged with first degree murder as described in section
+18-3-102 (1)(b), as it existed prior to September 15, 2021, or murder in the
+second degree, as described in section 18-3-103 (1)(b), and pleads guilty to
+a class 2 felony as a result of a plea agreement is eligible for sentencing to
+the youthful offender system if the young adult offender would be eligible
+for sentencing to the youthful offender system for a conviction of the felony
+underlying the charge of first degree murder as described in section
+18-3-102 (1)(b), as it existed prior to September 15, 2021, or murder in the
+second degree, as described in section 18-3-103 (1)(b).
+(3) As used in this section, unless the context otherwise requires, a
+"young adult" offender" means a person who is at least eighteen years of
+age but under twenty years of age at the time the crime is committed and
+under twenty-one years of age at the time of sentencing pursuant to this
+section.
+SECTION 7. In Colorado Revised Statutes, 18-1.3-704, amend (1)
+as follows:
+18-1.3-704. Outstanding balances owed by juveniles - report.
+(1) On and after July 6, 2021, the balance of any court-assessed or
+court-ordered costs imposed pursuant to section 16-11-101.6 (1),
+18-1.3-407 (4.5) or (11.5), 18-1.3-507 (6)(a), 18-1.3-701 (1) or (2)(m),
+18-21-103 (1.5), 18-25-101 (1), 21-1-103 (3), 24-4.1-119 (1)(a) or (1)(d),
+24-4.2-104 (1)(a)(I), or 42-4-1307 (10) against a juvenile, as defined in
+section 18-1.3-407 (2)(a)(III)(A) SECTION 18-1.3-407 (1.3); the parent,
+guardian, or legal custodian of a juvenile; or other person who is liable for
+the support of a juvenile are unenforceable and not collectable.
+SECTION 8. In Colorado Revised Statutes, 18-22-103, amend (3)
+as follows:
+18-22-103. Source of revenues - allocation of money - surcharge
+fund - transfer - repeal.
+(3) There is hereby created in the state treasury a youthful offender
+system surcharge fund which shall consist THAT CONSISTS of moneys
+MONEY received by the state treasurer pursuant to paragraph (b) of
+PAGE 22-HOUSE BILL 26-1064
+
+subsection (2) SUBSECTION (2)(b) of this section. In accordance with section
+24-36-114, C.R.S., all interest derived from the deposit and investment of
+this fund shall be IS credited to the general fund. Any moneys MONEY not
+appropriated by the general assembly shall remain REMAINS in the youthful
+offender system surcharge fund and shall not be transferred or revert to the
+general fund of the state at the end of any fiscal year. All moneys MONEY
+in the fund shall be IS subject to annual appropriation by the general
+assembly to the department of corrections to cover the direct and indirect
+costs associated with the rehabilitation, education, and treatment of youthful
+offenders JUVENILES AND YOUNG ADULTS sentenced to a THE youthful
+offender system.
+SECTION 9. Act subject to petition - effective date. This act
+takes effect at 12:01 a.m. on the day following the expiration of the
+ninety-day period after final adjournment of the general assembly (August
+12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+referendum petition is filed pursuant to section 1 (3) of article V of the state
+constitution against this act or an item, section, or part of this act within
+such period, then the act, item, section, or part will not take effect unless
+approved by the people at the general election to be held in November 2026
+PAGE 23-HOUSE BILL 26-1064
+
+and, in such case, will take effect on the date of the official declaration of
+the vote thereon by the governor.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 24-HOUSE BILL 26-1064

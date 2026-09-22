@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0939.01 Eden Rolland x2373 SENATE BILL 26-167
+Senate Committees House Committees
+Health & Human Services
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING A COVERED PERSON'S CONTRIBUTION UNDER A HEALTH
+102 BENEFIT PLAN BASED ON OUT-OF-POCKET EXPENSES
+103 ATTRIBUTABLE TO THE PURCHASE OF PRESCRIPTION DRUGS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Subject to certain exceptions, the bill requires a carrier of an
+individual or group health benefit plan in Colorado (plan), beginning on
+January 1, 2028, when calculating a covered person's overall contribution
+to an out-of-pocket maximum or cost-sharing requirement under the plan
+(contribution), to account for and credit to the covered person's
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,5
+yaM
+SENATE SPONSORSHIP
+Benavidez and Mullica,
+HOUSE SPONSORSHIP
+Boesenecker and Lindsay,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+contribution an out-of-pocket expense that the covered person incurs by
+purchasing a prescription drug directly from a pharmacy, health-care
+provider, or direct-to-consumer platform (direct purchase of a
+prescription drug). The carrier shall apply the credit to the covered
+person's contribution that is applicable in the plan year in which the
+expense from the direct purchase of a prescription drug was incurred.
+To receive a contribution credit for an out-of-pocket expense that
+a covered person incurred because of a direct purchase of a prescription
+drug, the covered person must provide proof of payment to the carrier. If
+the covered person does not provide proof of payment, the carrier is
+prohibited from applying the contribution credit.
+The bill also prohibits a carrier from applying the contribution
+credit in certain other instances. Specifically, the carrier shall not apply
+the contribution credit:
+! For an amount of the covered person's out-of-pocket
+expense from the direct purchase of a prescription drug that
+is greater than the amount the covered person would have
+incurred if they had obtained the same prescription drug in
+the same plan year from an in-network pharmacy and
+pursuant to the terms of their plan;
+! If the covered person incurred the out-of-pocket expense by
+purchasing a prescription drug that is not covered under the
+formulary of the covered person's plan, unless an exception
+is granted; or
+! If the covered person does not comply with the carrier's
+utilization management processes, including prior
+authorization and step therapy protocols required under the
+covered person's plan.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "Making
+3 Health Care More Affordable Through Prescription Drug Purchases Act".
+4 SECTION 2. In Colorado Revised Statutes, 10-16-161, add (2.5)
+5 as follows:
+6 10-16-161. Calculation of contribution to out-of-pocket and
+7 cost-sharing requirements - exception - definition - rules.
+8 (2.5) (a) BEGINNING JANUARY 1, 2028, AND EXCEPT AS PROVIDED
+9 IN SUBSECTION (2.5)(d) OF THIS SECTION, WHEN CALCULATING A COVERED
+-2- 167
+
+1 PERSON'S OVERALL CONTRIBUTION TO AN OUT-OF-POCKET MAXIMUM OR
+2 COST-SHARING REQUIREMENT UNDER THE COVERED PERSON'S HEALTH
+3 BENEFIT PLAN, A CARRIER THAT DELIVERS, ISSUES, RENEWS, AMENDS, OR
+4 CONTINUES COVERAGE FOR AN INDIVIDUAL OR GROUP HEALTH BENEFIT
+5 PLAN IN THIS STATE SHALL ACCOUNT FOR AND CREDIT TO THE COVERED
+6 PERSON'S OVERALL CONTRIBUTION TO THE OUT-OF-POCKET MAXIMUM OR
+7 COST-SHARING REQUIREMENT AN OUT-OF-POCKET EXPENSE THAT THE
+8 COVERED PERSON INCURS BY:
+9 (I) PURCHASING A PRESCRIPTION DRUG; AND
+10 (II) DIRECTLY PAYING A PHARMACY OR DIRECT-TO-CONSUMER
+11 PLATFORM FOR THE PRESCRIPTION DRUG.
+12 (b) IN ORDER TO RECEIVE CREDIT FOR AN OUT-OF-POCKET
+13 EXPENSE AS DESCRIBED IN SUBSECTION (2.5)(a) OF THIS SECTION, A
+14 COVERED PERSON WHO PURCHASES A PRESCRIPTION DRUG IN ACCORDANCE
+15 WITH SUBSECTION (2.5)(a) OF THIS SECTION SHALL PROVIDE TO THE
+16 CARRIER PROOF OF PAYMENT FOR THE COVERED PERSON'S PURCHASE OF
+17 THE PRESCRIPTION DRUG WITHIN NINETY DAYS AFTER MAKING THE
+18 PURCHASE. SUCH PROOF OF PURCHASE MAY BE SHOWN BY
+19 DOCUMENTATION OF THE PURCHASE, INCLUDING BY AN ITEMIZED RECEIPT
+20 OR A PHARMACY RECORD. IF THE PROOF OF PURCHASE THAT IS SUBMITTED
+21 TO THE CARRIER IS INSUFFICIENT OR INCOMPLETE, THE CARRIER MAY
+22 REQUEST ADDITIONAL INFORMATION OR DOCUMENTATION.
+23 (c) A CARRIER THAT ACCOUNTS FOR AND CREDITS A COVERED
+24 PERSON'S OUT-OF-POCKET EXPENSE IN ACCORDANCE WITH SUBSECTION
+25 (2.5)(a) OF THIS SECTION SHALL APPLY THE CREDIT TO THE COVERED
+26 PERSON'S OVERALL CONTRIBUTION TO AN OUT-OF-POCKET MAXIMUM OR
+27 COST-SHARING REQUIREMENT UNDER THE COVERED PERSON'S HEALTH
+-3- 167
+
+1 BENEFIT PLAN, WHICH OUT-OF-POCKET MAXIMUM OR COST-SHARING
+2 REQUIREMENT IS APPLICABLE IN THE PLAN YEAR IN WHICH THE
+3 OUT-OF-POCKET EXPENSE WAS INCURRED.
+4 (d) A CARRIER SHALL NOT CREDIT A COVERED PERSON'S
+5 OUT-OF-POCKET EXPENSE IN ACCORDANCE WITH SUBSECTION (2.5)(a) OF
+6 THIS SECTION:
+7 (I) FOR AN AMOUNT OF THE OUT-OF-POCKET EXPENSE INCURRED
+8 THAT IS GREATER THAN THE AMOUNT OF AN OUT-OF-POCKET EXPENSE
+9 THAT THE COVERED PERSON WOULD HAVE INCURRED, ACCORDING TO
+10 DRUG COST DATA AVAILABLE PURSUANT TO SECTION 10-16-122.9 (1)(c),
+11 IF THE COVERED PERSON HAD OBTAINED THE SAME PRESCRIPTION DRUG IN
+12 THE SAME PLAN YEAR FROM AN IN-NETWORK PHARMACY AND PURSUANT
+13 TO THE TERMS OF THE COVERED PERSON'S HEALTH BENEFIT PLAN. IN SUCH
+14 CIRCUMSTANCES, THE CARRIER SHALL APPLY CREDIT FOR ONLY THE
+15 AMOUNT THAT IS EQUAL TO OR LESS THAN THE AMOUNT OF THE
+16 OUT-OF-POCKET EXPENSE THAT THE COVERED PERSON WOULD HAVE
+17 INCURRED, ACCORDING TO DRUG COST DATA AVAILABLE PURSUANT TO
+18 SECTION 10-16-122.9 (1)(c), IF THE COVERED PERSON HAD OBTAINED THE
+19 SAME PRESCRIPTION DRUG IN THE SAME PLAN YEAR FROM AN IN-NETWORK
+20 PHARMACY AND PURSUANT TO THE TERMS OF THE COVERED PERSON'S
+21 HEALTH BENEFIT PLAN.
+22 (II) IF THE COVERED PERSON:
+23 (A) DOES NOT PROVIDE PROOF OF PAYMENT PURSUANT TO
+24 SUBSECTION (2.5)(b) OF THIS SECTION;
+25 (B) INCURRED THE OUT-OF-POCKET EXPENSE BY PURCHASING A
+26 PRESCRIPTION DRUG THAT IS NOT COVERED UNDER THE FORMULARY OF
+27 THE COVERED PERSON'S HEALTH BENEFIT PLAN, UNLESS THE CARRIER
+-4- 167
+
+1 GRANTS AN EXCEPTION; OR
+2 (C) DOES NOT COMPLY WITH THE CARRIER'S UTILIZATION
+3 MANAGEMENT PROCESSES, INCLUDING PRIOR AUTHORIZATION AND STEP
+4 THERAPY PROTOCOLS REQUIRED UNDER THE COVERED PERSON'S PLAN.
+5 SECTION 3. Act subject to petition - effective date. This act
+6 takes effect at 12:01 a.m. on the day following the expiration of the
+7 ninety-day period after final adjournment of the general assembly (August
+8 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+9 referendum petition is filed pursuant to section 1 (3) of article V of the
+10 state constitution against this act or an item, section, or part of this act
+11 within such period, then the act, item, section, or part will not take effect
+12 unless approved by the people at the general election to be held in
+13 November 2026 and, in such case, will take effect on the date of the
+14 official declaration of the vote thereon by the governor.
+-5- 167

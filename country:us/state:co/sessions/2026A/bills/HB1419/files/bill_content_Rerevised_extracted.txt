@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0969.04 Pierce Lively x2059 HOUSE BILL 26-1419
+House Committees Senate Committees
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE OVER-REFUND AMOUNT FOR STATE FISCAL YEAR
+102 2024-25 OF STATE REVENUES IN EXCESS OF THE STATE FISCAL
+103 YEAR SPENDING LIMIT UNDER SECTION 20 OF ARTICLE X OF THE
+104 STATE CONSTITUTION, AND, IN CONNECTION THEREWITH,
+105 MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 20 of article X of the state constitution (TABOR) imposes
+a limitation on the amount of state fiscal year spending. If state fiscal year
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+6202
+,8
+yaM
+6202
+,03
+lirpA
+6202
+,82
+lirpA
+HOUSE SPONSORSHIP
+Sirota and Brown, Bacon, Boesenecker, Lindsay, Smith, Stewart R., Woodrow, Zokaie
+SENATE SPONSORSHIP
+Amabile and Bridges, Coleman, Cutter, Hinrichsen, Kipp, Wallace
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+spending exceeds that limitation, the state is required to refund the
+amount of state fiscal year spending in excess of that limitation (TABOR
+refund). Under current law, if the state issues a TABOR refund for a state
+fiscal year, and the amount of that TABOR refund is greater than the
+amount of state fiscal year spending in excess of the limitation of state
+fiscal year spending for the state fiscal year (over-refund), the state
+reduces the amount of the next available TABOR refund by the amount
+of the over-refund.
+Changes in federal tax policy in 2025 reduced the amount of state
+tax revenue for the 2025 tax year. Due to when this change in federal tax
+policy was signed into law, it was not reflected in the amount of state
+fiscal year 2024-25 spending, even though the change impacted the 2025
+tax year. Accordingly, the bill directs the office of the state controller, in
+consultation with the office of state planning and budgeting and the
+department of revenue, to determine the amount of the over-refund for
+state fiscal year 2024-25 taking into account the impact on state revenues
+from the federal tax policy change. No more than half of this over-refund
+can offset future TABOR refunds for any single state fiscal year
+beginning with the 2026-27 state fiscal year.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) H.R. 1 of the 119th Congress (2025-26), Pub. L. 119-21 had
+5 a significantly negative impact on Colorado's financial outlook;
+6 (b) H.R. 1 was signed into law on July 4, 2025, four days after the
+7 end of state fiscal year 2024-25, which meant that there was insufficient
+8 time to adjust revenue accruals and the certification of the amount of state
+9 fiscal year spending in excess of the constitutional limitation on state
+10 fiscal year spending;
+11 (c) H.R. 1 impacted state 2025 income tax year revenue, which
+12 revenue would typically contribute to both state fiscal year 2024-25 and
+13 state fiscal year 2025-26 state revenue, but since H.R. 1 was signed into
+14 law after the end of state fiscal year 2024-25, the impact on state 2025
+-2- 1419
+
+1 income tax year revenue was only accrued to state fiscal year 2025-26;
+2 (d) H.R.1 currently has an effective 18-month impact on state
+3 fiscal year 2025-26 state revenue and no impact on state fiscal year
+4 2024-25 state revenue;
+5 (e) Although not predicted by current revenue forecasts, if the
+6 18-month impact of H.R. 1 on state fiscal year 2025-26 revenue results
+7 in state fiscal year spending for that year to exceed the constitutional
+8 limitation on state fiscal year spending, then, while the actual impacts of
+9 H.R. 1 on state revenues may differ from what was certified for state
+10 fiscal years 2024-25 and 2025-26, correcting the accounting of state fiscal
+11 year 2024-25 state fiscal year spending to reflect the revenue reductions
+12 caused by H.R. 1 would only shift certified state revenue in excess of the
+13 constitutional limitation on state fiscal year spending between state fiscal
+14 years 2024-25 and 2025-26. Therefore, if 2025-26 state fiscal year
+15 spending exceeds the constitutional limitation on state fiscal year
+16 spending, there is no need to correct the calculation of 2024-25 state
+17 fiscal year spending because the cumulative amount of state revenue that
+18 would be refunded to taxpayers between state fiscal years 2024-25 and
+19 2025-26 under existing accounting would be the same regardless of the
+20 fiscal year in which the impact of H.R. 1 is accounted for.
+21 (f) Based on preliminary estimates presented by the office of state
+22 planning and budgeting to the executive committee of the legislative
+23 council and the joint budget committee in July and August of 2025, if
+24 accruals of state fiscal year 2024-25 state revenues would have updated
+25 to reflect the impact of H.R.1 on state fiscal year 2024-25 state revenues,
+26 the revenue reductions caused by H.R. 1 would have potentially meant
+27 that state fiscal year 2024-25 state fiscal year spending did not exceed the
+-3- 1419
+
+1 constitutional limitation on state fiscal year spending; however, under
+2 current law, state fiscal year 2024-25 state fiscal year spending did exceed
+3 the constitutional limitation on state fiscal year spending and the state is
+4 required to refund that excess revenue;
+5 (g) Based on state income tax revenue collections received that
+6 are tied to activity in the first half of 2025, H.R.1 lowered the state
+7 income tax revenue that the state actually received for state fiscal year
+8 2024-25 when compared to the currently booked accruals of that state
+9 income tax revenue, which resulted in an inaccurate calculation of state
+10 fiscal year 2024-25 state fiscal year spending;
+11 (h) If the office of the state controller discovers an error involving
+12 a prior state fiscal year, the office of the state controller may correct that
+13 error by increasing or decreasing state fiscal year spending for the
+14 relevant state fiscal year;
+15 (i) If an adjustment of state fiscal year spending cannot be made
+16 under current law, the plenary power of the General Assembly allows the
+17 General Assembly to enact legislation that facilitates compliance with
+18 article X, section (20) of the Colorado constitution (TABOR) and may
+19 direct the office of the state controller to prepare the annual finance report
+20 that certifies the state's compliance with TABOR in a manner that
+21 complies with that statutory direction; and
+22 (j) This act requires the office of the state controller to correct the
+23 accounting of state fiscal year 2024-25 fiscal year spending to reflect
+24 H.R.1 and to make corresponding changes to the future refund of state
+25 fiscal year spending that exceeds the constitutional limitation on state
+26 fiscal year spending.
+27 SECTION 2. In Colorado Revised Statutes, 24-77-103.7, add
+-4- 1419
+
+1 (4.5) as follows:
+2 24-77-103.7. Over-refunds of state revenues - definitions.
+3 (4.5) IF IN SEPTEMBER 2026 THE CONTROLLER CERTIFIES
+4 PURSUANT TO SECTION 24-77-106.5 (1) THAT STATE FISCAL YEAR 2025-26
+5 STATE REVENUES DID NOT EXCEED THE LIMITATION ON STATE FISCAL YEAR
+6 SPENDING IMPOSED BY SECTION 20 (7)(a) OF ARTICLE X OF THE STATE
+7 CONSTITUTION FOR STATE FISCAL YEAR 2025-26:
+8 (a) BEFORE NOVEMBER 16, 2026, THE CONTROLLER SHALL
+9 DETERMINE AN AMOUNT EQUAL TO THE DIFFERENCE BETWEEN:
+10 (I) THE AMOUNT THAT THE STATE IS REQUIRED TO REFUND
+11 PURSUANT TO SECTION 20 (7)(d) OF ARTICLE X OF THE STATE
+12 CONSTITUTION FOR STATE FISCAL YEAR 2024-25, AS CERTIFIED IN THE
+13 ANNUAL COMPREHENSIVE FINANCIAL REPORT OF THE STATE THAT THE
+14 STATE CONTROLLER PUBLISHED FOR STATE FISCAL YEAR 2024-25; AND
+15 (II) THE AMOUNT THAT THE STATE WOULD HAVE BEEN REQUIRED
+16 TO REFUND PURSUANT TO SECTION 20 (7)(d) OF ARTICLE X OF THE STATE
+17 CONSTITUTION FOR STATE FISCAL YEAR 2024-25 AS A RESULT OF THE
+18 REDUCTION OF STATE REVENUES FOR STATE FISCAL YEAR 2024-25 CAUSED
+19 BY H.R. 1 OF THE 119TH CONGRESS (2025-26), PUB. L. 119-21, AS
+20 DETERMINED BY THE CONTROLLER, THE OFFICE OF STATE PLANNING AND
+21 BUDGETING, AND THE DEPARTMENT OF REVENUE.
+22 (b) FOR PURPOSES OF THE CALCULATION SET FORTH IN SUBSECTION
+23 (4) OF THIS SECTION AND SECTION 24-77-103.5 (2), THE AMOUNT OF THE
+24 OVER-REFUND FOR THE FISCAL YEAR COMMENCING ON JULY 1, 2024, THAT
+25 IS USED FOR THE REDUCTION SET FORTH IN SUBSECTION (4)(b) OF THIS
+26 SECTION IS EQUAL TO THE AMOUNT DETERMINED BY THE CONTROLLER IN
+27 ACCORDANCE WITH SUBSECTION (4.5)(a) OF THIS SECTION AND,
+-5- 1419
+
+1 NOTWITHSTANDING SUBSECTION (2) OF THIS SECTION, SHALL ONLY BE
+2 USED FOR FISCAL YEARS COMMENCING ON OR AFTER JULY 1, 2026, AND
+3 SHALL NOT EXCEED ONE-HALF OF THE AMOUNT CALCULATED IN
+4 ACCORDANCE WITH SUBSECTION (4.5)(a) OF THIS SECTION FOR ANY FISCAL
+5 YEAR.
+6 SECTION 3. Appropriation. For the 2026-27 state fiscal year,
+7 $18,021 is appropriated to the legislative department for use by the office
+8 of the state auditor. This appropriation is from the general fund and is
+9 based on an assumption that the office will require an additional 0.2 FTE.
+10 The office may use this appropriation to implement this act.
+11 SECTION 4. Safety clause. The general assembly finds,
+12 determines, and declares that this act is necessary for the immediate
+13 preservation of the public peace, health, or safety or for appropriations for
+14 the support and maintenance of the departments of the state and state
+15 institutions.
+-6- 1419

@@ -1,0 +1,2472 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0404.01 Richard Sweetman x4333 HOUSE BILL 26-1426
+House Committees Senate Committees
+Judiciary Judiciary
+A BILL FOR AN ACT
+101 CONCERNING THE 2026 LEGISLATIVE REPORT SUBMITTED BY THE
+102 DEPARTMENT OF LAW TO THE JOINT JUDICIARY COMMITTEE OF
+103 THE GENERAL ASSEMBLY, AND, IN CONNECTION THEREWITH,
+104 IMPLEMENTING RECOMMENDATIONS CONTAINED IN THE
+105 REPORT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+On January 20, 2026, as part of its reporting duties pursuant to the
+"State Measurement for Accountable, Responsive, and Transparent
+ETANES
+ESUOH
+EESSUUOOHH
+dednemanU
+gnidaeR
+dn2
+gnidaeR
+dr3
+dednemA
+ggnniiddaaeeRR
+ddnn22
+ddeeddnneemmAA
+6202
+,11
+yaM
+6202
+,9
+yaM
+66220022
+,,77
+yyaaMM
+HOUSE SPONSORSHIP
+Camacho and Zokaie, Bacon, Clifford, McCluskie
+SENATE SPONSORSHIP
+Roberts,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(SMART) Government Act" or "SMART Act", the department of law
+(DOL) submitted to the house of representatives and senate judiciary
+committees a report entitled "Department of Law: 2026 Legislative
+Priorities" (DOL report). The DOL report recommended that the general
+assembly make various changes to laws concerning the powers and duties
+of the attorney general (AG) and the DOL.
+The bill implements recommendations from the AG's report as
+follows:
+Recommendation 1 of the report is to allow the DOL to enter into
+interagency agreements with certain state agencies to improve data
+sharing and coordination. Section 14 of the bill implements this
+recommendation.
+Recommendation 2 is to amend the "Colorado Consumer
+Protection Act" (CCPA) to allow the DOL to enforce as an unfair or
+deceptive trade practice the knowing or reckless practice of a profession
+or occupation despite failing to attain the qualifications required by law.
+Section 9 implements this recommendation.
+Recommendation 3 is to require the DOL to regularly review its
+administrative rules to ensure they are meeting certain objectives. Section
+96 implements this recommendation.
+Recommendation 4 is to amend the DOL's subpoena authority in
+pattern-and-practice investigations of government authorities so that it
+aligns with the DOL's subpoena authority in investigating alleged
+violations of the CCPA. Section 97 implements this recommendation.
+Recommendation 5 is to extend existing statutory attorney fee caps
+to apply to district attorneys when enforcing the CCPA through a third
+party. Section 96 implements this recommendation.
+Recommendation 6 is to allow the DOL to notify the joint budget
+committee if an introduced bill poses a new or increased risk of litigation
+that may result in a significant impact to the state budget. Sections 1, 95,
+and 96 implement this recommendation.
+Recommendation 7 is to provide sunset reviews of existing title
+and degree protections under the CCPA. Sections 19 and 98 implement
+this recommendation.
+Recommendation 8 is to clarify the process for obtaining
+information from state agencies during the discovery process when the
+AG brings an action under their authority. Section 96 implements this
+recommendation.
+Recommendation 9 is to codify certain principles of a recent
+settlement of litigation involving the National Association of Realtors in
+order to maintain transparency and prevent anti-competitive practices in
+the real estate market. Sections 87 and 88 implement this
+recommendation.
+Recommendation 10 is to establish certain advisory councils
+within the DOL. Sections 2, 6, 15, and 34 implement this
+-2- 1426
+
+recommendation.
+Recommendation 11 is to clarify that the scope of a recently
+enacted cap on medical debt interest applies only to direct medical costs.
+Section 5 implements this recommendation.
+Recommendation 12 is to consolidate overlapping violations
+within the CCPA. Sections 7, 8, 9, 10, 11, 12, 13, 23, 24, 26, 27, 88, 90
+through 92, 100, 101, 103, and 105 implement this recommendation.
+Recommendation 13 is to make certain changes to the membership
+and reporting duties of the state substance abuse trend and response task
+force. Section 93 implements this recommendation.
+Recommendation 14 is to strengthen disclosure requirements
+concerning developer contract cancellation clauses in real estate purchase
+contracts by requiring a broker to advise a consumer to seek legal advice
+before executing a purchase contract if the broker is representing a
+consumer in a transaction for which a principal to the transaction,
+including a home builder, a bank, or a buyer, requires the consumer to use
+a purchase contract created by the principal. Section 89 implements this
+recommendation.
+Recommendation 15 is to make nonsubstantive and nontechnical
+updates to statutory provisions involving the DOL's performance of its
+duties, including updates to gendered language. Sections 3, 4, 7, 9, 10,
+11, 16, 17, 21, 22, 24 through 27, 29 through 33, 35 through 86, and
+102 implement this recommendation.
+Recommendation 16 is to authorize the DOL to recover and
+reinvest costs associated with the enforcement of the "Colorado Medicaid
+False Claims Act". Section 104 implements this recommendation.
+The final recommendation is to establish a new procurement
+framework for the DOL to allow it to meet its demands and fulfill its
+statutory duties. Sections 93 and 94 implement this recommendation.
+Sections 13, 18, 20, 23, and 28 make necessary conforming
+amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 2-3-211 as
+3 follows:
+4 2-3-211. Potential budgetary impact - litigation - executive
+5 session.
+6 (1) THE ATTORNEY GENERAL, OR THE ATTORNEY GENERAL'S
+7 DESIGNEE, MAY NOTIFY THE JOINT BUDGET COMMITTEE THAT AN
+-3- 1426
+
+1 EXECUTIVE SESSION IS REQUESTED TO DISCUSS POTENTIAL BUDGETARY
+2 IMPACTS SURROUNDING POTENTIAL OR CURRENT LITIGATION.
+3 (2) THE JOINT BUDGET COMMITTEE MAY MEET WITH THE
+4 ATTORNEY GENERAL, OR THE ATTORNEY GENERAL'S DESIGNEE, IN AN
+5 EXECUTIVE SESSION TO DISCUSS POTENTIAL BUDGETARY IMPACTS
+6 SURROUNDING POTENTIAL OR CURRENT LITIGATION. THE PROVISIONS OF
+7 SECTION 24-6-402 APPLY TO THE EXECUTIVE SESSION, BUT THE
+8 COMMITTEE IS NOT REQUIRED TO IDENTIFY A BILL OR CASE TO BE
+9 DISCUSSED IN THE ANNOUNCEMENT FOR THE EXECUTIVE SESSION.
+10 (3) IN PREPARING INFORMATION IN ACCORDANCE WITH
+11 SUBSECTION (1) OR (2) OF THIS SECTION, THE DEPARTMENT OF LAW MAY
+12 CONSULT WITH LEGISLATIVE COUNCIL STAFF AND THE OFFICE OF
+13 LEGISLATIVE LEGAL SERVICES.
+14 (4) A DOCUMENT PREPARED PURSUANT TO THIS SECTION IS NOT A
+15 PUBLIC RECORD FOR PURPOSES OF THE "COLORADO OPEN RECORDS ACT",
+16 PART 2 OF ARTICLE 72 OF TITLE 24.
+17 SECTION 2. In Colorado Revised Statutes, 2-3-1203, add
+18 (23.5)(a)(III), (23.5)(a)(IV), (23.5)(a)(V), and (23.5)(a)(VI) as follows:
+19 2-3-1203. Sunset review of advisory committees - legislative
+20 declaration - definition - repeal.
+21 (23.5) (a) The following statutory authorizations for the
+22 designated advisory committees will repeal on September 1, 2032:
+23 (III) THE ADVISORY COUNCIL FOR DEBT COLLECTION CREATED IN
+24 SECTION 5-16-134.7;
+25 (IV) THE COLORADO CONSUMER PROTECTION ACT ADVISORY
+26 COUNCIL CREATED IN SECTION 6-1-117;
+27 (V) THE COLORADO PRIVACY ACT ADVISORY COUNCIL CREATED
+-4- 1426
+
+1 IN SECTION 6-1-1315;
+2 (VI) THE COUNCIL OF ADVISORS ON CONSUMER CREDIT CREATED
+3 IN SECTION 5-6-301.
+4 SECTION 3. In Colorado Revised Statutes, amend 5-3-210 as
+5 follows:
+6 5-3-210. Discrimination prohibited - exemption.
+7 A consumer credit transaction regulated by this code shall not be
+8 denied any person, nor shall terms and conditions be made more stringent,
+9 on the basis of discrimination, solely because of disability, race, creed,
+10 religion, color, sex, sexual orientation, gender identity, gender expression,
+11 marital status, national origin, or ancestry. This section does not apply to
+12 any consumer credit transaction made or denied by a seller, lessor, or
+13 lender whose total original unpaid balances arising from consumer credit
+14 transactions for the previous calendar year are less than one million
+15 dollars.
+16 SECTION 4. In Colorado Revised Statutes, add 5-6-303 as
+17 follows:
+18 5-6-303. Repeal of part - subject to review.
+19 THIS PART 3 IS REPEALED, EFFECTIVE SEPTEMBER 1, 2032. BEFORE
+20 THE REPEAL, THE COUNCIL OF ADVISORS ON CONSUMER CREDIT IS
+21 SCHEDULED FOR REVIEW IN ACCORDANCE WITH SECTION 2-3-1203.
+22
+23 SECTION 5. In Colorado Revised Statutes, 5-12-102, add (5)(c)
+24 as follows:
+25 5-12-102. Statutory interest - definition - rules.
+26 (5) (c) ON OR BEFORE DECEMBER 31, 2026, THE ADMINISTRATOR
+27 DESIGNATED IN SECTION 5-6-103 SHALL ADOPT RULES OR ISSUE GUIDANCE
+-5- 1426
+
+1 CLARIFYING THE APPLICATION OF THIS SUBSECTION (5) TO CONSUMER
+2 CREDIT TRANSACTIONS FOR MEDICAL DEBT.
+3 SECTION 6. In Colorado Revised Statutes, add 5-16-134.7 as
+4 follows:
+5 5-16-134.7. Advisory council for debt collection - created -
+6 membership - duties - subject to review - repeal.
+7 (1) THE ADVISORY COUNCIL FOR DEBT COLLECTION, REFERRED TO
+8 IN THIS SECTION AS THE "ADVISORY COUNCIL", IS CREATED IN THE
+9 DEPARTMENT OF LAW. THE ADVISORY COUNCIL CONSISTS OF THREE
+10 MEMBERS APPOINTED BY THE ATTORNEY GENERAL AS FOLLOWS:
+11 (a) ONE MEMBER REPRESENTING A DEBT COLLECTION AGENCY OR
+12 A STATEWIDE ORGANIZATION REPRESENTING DEBT COLLECTORS;
+13 (b) ONE MEMBER REPRESENTING A CONSUMER ADVOCACY
+14 ORGANIZATION RELATED TO DEBT COLLECTION OR LENDING; AND
+15 (c) ONE MEMBER OF THE PUBLIC.
+16 (2) THE MEMBERS OF THE ADVISORY COUNCIL SHALL ELECT A
+17 CHAIR AND VICE-CHAIR FROM AMONG THE ADVISORY COUNCIL MEMBERS
+18 APPOINTED PURSUANT TO SUBSECTION (1) OF THIS SECTION, WHICH
+19 PRESIDING OFFICERS SHALL SERVE TERMS OF TWO YEARS. ADVISORY
+20 COUNCIL MEMBERS MAY REELECT A PRESIDING OFFICER.
+21 (3) (a) EACH MEMBER OF THE ADVISORY COUNCIL SERVES AT THE
+22 PLEASURE OF THE ATTORNEY GENERAL FOR A TERM OF THREE YEARS;
+23 EXCEPT THAT:
+24 (I) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+25 (1)(a) OF THIS SECTION SHALL SERVE A TERM OF ONE YEAR; AND
+26 (II) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+27 (1)(b) OF THIS SECTION SHALL SERVE A TERM OF TWO YEARS.
+-6- 1426
+
+1 (b) THE ATTORNEY GENERAL MAY REAPPOINT A MEMBER TO SERVE
+2 NO MORE THAN THREE TERMS.
+3 (c) MEMBERS OF THE ADVISORY COUNCIL MAY BE REIMBURSED BY
+4 THE DEPARTMENT OF LAW FOR ACTUAL AND NECESSARY EXPENSES
+5 INCURRED IN THE CONDUCT OF OFFICIAL BUSINESS.
+6 (4) THE ADVISORY COUNCIL SHALL MEET AT LEAST TWO TIMES
+7 EACH YEAR TO DISCUSS CURRENT ISSUES IN DEBT COLLECTION AND ANY
+8 ISSUES ASSIGNED TO THE ADVISORY COUNCIL BY THE ATTORNEY GENERAL
+9 FOR DISCUSSION.
+10 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2032.
+11 BEFORE THE REPEAL, THE ADVISORY COUNCIL IS SCHEDULED FOR REVIEW
+12 IN ACCORDANCE WITH SECTION 2-3-1203.
+13 SECTION 7. In Colorado Revised Statutes, amend 6-1-102 as
+14 follows:
+15 6-1-102. Definitions.
+16 As used in this article 1, unless the context otherwise requires:
+17 (1) "Advertisement" includes the MEANS AN attempt by
+18 publication, dissemination, solicitation, or circulation, WHETHER visual,
+19 oral, or written, to induce directly or indirectly any A person to enter into
+20 any obligation A TRANSACTION or to acquire any A title or AN interest in
+21 any property.
+22 (2) (a) "Article" means a product. as distinguished from
+23 (b) "ARTICLE" DOES NOT MEAN a trademark, label, or distinctive
+24 dress in packaging.
+25 (2.5) (3) "Business day" means any calendar day except Sunday,
+26 New Year's day, the third Monday in January observed as the birthday of
+27 Dr. Martin Luther King, Jr., Washington-Lincoln PRESIDENTS' day,
+-7- 1426
+
+1 Memorial day, Juneteenth, Independence day, Labor day, Frances Xavier
+2 Cabrini day, Veterans' day, Thanksgiving, and Christmas.
+3 (2.7) (4) "Buyers' club" means any A person engaged in
+4 advertising or selling memberships that provide an exclusive right to
+5 members to purchase goods, food, services, or property at purported
+6 discount prices.
+7 (3) (5) "Certification mark" means a mark THAT IS used in
+8 connection with the goods or services of a person other than the certifier
+9 IN ORDER to indicate:
+10 (a) Geographic origin, material, mode of manufacture, quality,
+11 accuracy, or other characteristics of the goods or services; or to indicate
+12 (b) That the work or labor on the goods or services was performed
+13 by members of a union or other organization.
+14 (4) (6) "Collective mark" means a mark used by members of a
+15 cooperative, association, or other collective group or organization to
+16 identify goods or services and distinguish them from those THE GOODS OR
+17 SERVICES of others or to indicate membership in the collective group or
+18 organization.
+19 (4.1) (7) "Dance studio" means any A person engaged in the
+20 advertisement or sale of dance studio services.
+21 (4.2) (8) "Dance studio services" means instruction, training, or
+22 assistance in dancing; the use of dance studio facilities; membership in
+23 any group, club, or association formed by a dance studio; and
+24 participation in dance competitions, dance showcases, trips, tours, parties,
+25 and other organized events and related travel arrangements.
+26 (4.3) (9) (a) "Discount health plan" means a program evidenced
+27 by a membership agreement, contract, card, certificate, device, or
+-8- 1426
+
+1 mechanism, which PROGRAM offers health-care services, as defined in
+2 section 10-16-102 (33), C.R.S., or related products, including but not
+3 limited to, prescription drugs and medical equipment, at purported
+4 discounted rates from health-care providers advertised as participating in
+5 the program.
+6 (b) A "Discount health plan" does not include a program in which:
+7 (I) A participating provider has agreed, as a condition of his or her
+8 THE PARTICIPATING PROVIDER'S participation in the program, to negotiate
+9 the prices to be charged for his or her THE PARTICIPATING PROVIDER'S
+10 services directly with consumers in the program; and
+11 (II) The PARTICIPATING provider is not required to offer
+12 discounted prices for his or her THE PARTICIPATING PROVIDER'S services
+13 as part of the program.
+14 (4.4) (10) "Elderly person" means a person sixty years of age OLD
+15 or older.
+16 (4.5) (11) "Food" means any raw, cooked, or processed edible
+17 substance, beverage, or ingredient used or intended for use or for sale in
+18 whole or part for human consumption.
+19 (4.6) (12) (a) "Health club" means an establishment which THAT
+20 provides health club services or HEALTH CLUB facilities which THAT
+21 purport to improve or maintain the A user's physical condition or
+22 appearance through exercise. The term may include, but shall not be
+23 limited to,
+24 (b) "HEALTH CLUB" INCLUDES a spa, AN exercise club, AN exercise
+25 gym, A health studio, or playing courts AND A PLAYING COURT.
+26 (c) The term shall not apply to any of the following "HEALTH
+27 CLUB" DOES NOT INCLUDE:
+-9- 1426
+
+1 (a) (I) Any AN establishment operated by a nonprofit organization
+2 or public or private school, college, or university;
+3 (b) (II) Any AN establishment operated by the federal government,
+4 the state of Colorado, or any of the state's political subdivisions;
+5 (c) (III) Any AN establishment which THAT does not provide
+6 health club services or HEALTH CLUB facilities as its primary purpose or
+7 business; or
+8 (d) (IV) Health-care facilities A HEALTH-CARE FACILITY licensed
+9 or certified by the department of public health and environment pursuant
+10 to its authority under section 25-1.5-103. C.R.S.
+11 (4.7) (13) "Health club facilities" means equipment, physical
+12 structures, and other tangible property utilized USED by a health club to
+13 conduct its business. The term may include, but shall not be limited to,
+14 "HEALTH CLUB FACILITIES" INCLUDES saunas, whirlpool baths,
+15 gymnasiums, running tracks, playing courts, swimming pools, shower
+16 areas, and exercise equipment.
+17 (4.8) (14) "Health club services" means services, privileges, or
+18 rights offered for sale or provided by a health club.
+19 (4.9) (15) "Manufactured home" shall have HAS the same meaning
+20 as set forth in section 42-1-102 (48.8).
+21 (5) (16) "Mark" means a word, name, symbol, device, or any
+22 combination thereof in any form or arrangement.
+23 (5.5) (17) "Motor vehicle" has the same meaning as set forth in
+24 section 44-20-102.
+25 (6) (18) "Person" means an individual, A corporation, A business
+26 trust, AN estate, A trust, A partnership, AN unincorporated association, or
+27 two or more thereof having a joint or common interest or any other legal
+-10- 1426
+
+1 or commercial entity.
+2 (7) (19) "Promoting a pyramid promotional scheme" means
+3 inducing OR ATTEMPTING TO INDUCE one or more other persons to become
+4 participants or attempting to so induce IN, or assisting another in
+5 promoting PERSON TO PROMOTE, a pyramid promotional scheme by means
+6 of references or otherwise.
+7 (8) (20) "Property" means: any
+8 (a) Real or personal property; or
+9 (b) Both real and personal property;
+10 (c) Intangible property; or AND
+11 (d) Services.
+12 (9) (21) (a) "Pyramid promotional scheme" means any program
+13 utilizing USING a pyramid or chain process by which a participant in the
+14 program gives a valuable consideration in excess of fifty dollars for the
+15 opportunity or right to receive compensation or other things of value in
+16 return for inducing other persons to become participants for the purpose
+17 of gaining new participants in the program.
+18 (b) "PYRAMID PROMOTIONAL SCHEME" DOES NOT INCLUDE
+19 ordinary sales of goods or services to persons who THAT are not
+20 purchasing in order to participate in such a scheme are not within this
+21 definition DESCRIBED IN SUBSECTION (21)(a) OF THIS SECTION.
+22 (9.5) (22) "Resale time share" means a time share, including all
+23 or substantially all ownership, rights, or interests associated with the time
+24 share:
+25 (a) That has been acquired previously for personal, family, or
+26 household use; and
+27 (b) (I) That is owned by a Colorado resident; or
+-11- 1426
+
+1 (II) The accommodations and other facilities of which are
+2 available for use through the time share and are primarily located in
+3 Colorado.
+4 (10) (23) "Sale" means any A sale, AN offer for sale, or AN attempt
+5 to sell any A product, good, or property for any consideration.
+6 (11) (24) "Service mark" means a mark used by a person to
+7 identify services and to distinguish them from the services of others.
+8 (11.2) Repealed.
+9 (11.5) (25) "Time share" means a time share estate, as defined in
+10 section 38-33-110 (5), a time share use, as defined in section 12-10-501
+11 (4), or any campground or recreational membership that does not
+12 constitute the transfer of an interest in real property.
+13 (11.7) (a) (26) (a) "Time share resale entity" means any A person
+14 who THAT, either directly or indirectly, engages in a time share resale
+15 service.
+16 (b) "Time share resale entity" does not include:
+17 (I) The developer, association of time share owners, or other
+18 person responsible for managing or operating the plan or arrangement by
+19 which the rights or interests associated with a resale time share are
+20 utilized, but only to the extent the resale time share is part of an existing
+21 plan or arrangement managed by that developer, association, or person;
+22 (II) Attorneys, title agents, title companies, or escrow companies
+23 providing AN ATTORNEY, A TITLE AGENT, A TITLE COMPANY, OR AN
+24 ESCROW COMPANY THAT PROVIDES closing, settlement, or other
+25 transaction services, as SO long as the services are provided in the normal
+26 course of business in supporting a conveyance of title or in issuing title
+27 insurance products in a time share resale transaction. To the extent the
+-12- 1426
+
+1 attorney, title agent, title company, or escrow company is engaged in
+2 providing services or products that are outside the normal course of
+3 business in supporting a conveyance of title or in issuing title insurance
+4 products or has an affiliated business arrangement with a party to a time
+5 share resale transaction, this exemption does not apply.
+6 (III) A real estate brokers BROKER operating within the scope of
+7 activities specified in section 12-10-201 (6) with respect to a time share
+8 resale transaction as SO long as the real estate broker does not collect a
+9 fee in advance. To the extent a real estate broker is engaged in activities
+10 outside the scope of activities specified in section 12-10-201 (6), collects
+11 an advance fee, or has an affiliated business arrangement with a party to
+12 a time share resale transaction, this exemption does not apply.
+13 (11.8) (27) "Time share resale service" means any of the
+14 following activities, engaged in directly or indirectly and for
+15 consideration, regardless of whether performed in person, by mail, by
+16 telephone, or by any other mode of internet or electronic communication,
+17 unless performed by a person or entity that, pursuant to paragraph (b) of
+18 subsection (11.7) SUBSECTION (26)(b) of this section, is exempted:
+19 (a) The sale, rental, listing, or advertising of, or an offer to sell,
+20 rent, list, or advertise, any resale time share;
+21 (b) The purchase or offer to purchase any resale time share;
+22 (c) The transfer or offer to assist in the transfer of any resale time
+23 share; or
+24 (d) The invalidation OF, or an offer to invalidate, the purchase or
+25 ownership of any resale time share or the purchase of any time share
+26 resale service.
+27 (11.9) (a) (28) (a) "Time share resale transfer agreement" means
+-13- 1426
+
+1 a contract between a time share resale entity and the owner of a resale
+2 time share in which the time share resale entity agrees to transfer, or
+3 offers to assist in the transfer of, all or substantially all of the rights or
+4 interests in a resale time share on behalf of the owner of the resale time
+5 share.
+6 (b) (I) "Time share resale transfer agreement" does not include a
+7 contract to sell, rent, list, advertise, purchase, or transfer a resale time
+8 share if the owner of the resale time share:
+9 (A) Upon entering the contract, reasonably expects to receive
+10 consideration in exchange for the resale time share; and
+11 (B) Upon the actual sale, rental, or transfer of the time share,
+12 receives consideration.
+13 (II) For purposes of this subsection (11.9) SUBSECTION (28), a
+14 transfer of the resale time share does not, by itself, constitute
+15 consideration.
+16 (12) (29) "Trademark" means a mark used by a person to identify
+17 goods and to distinguish them from the goods of others.
+18 (13) (30) "Trade name" means a word, name, symbol, OR device,
+19 or any combination thereof, in any form or arrangement used by a person
+20 to identify his THE PERSON'S business, vocation, or occupation and to
+21 distinguish it from the business, vocation, or occupation of others.
+22 (13.5) "Unavoidable delay" means inclement weather and other
+23 events outside the control of the buyer or seller.
+24 (14) (31) "Used motor vehicle" shall have HAS the same meaning
+25 as set forth in section 42-6-201 (8). C.R.S.
+26 SECTION 8. In Colorado Revised Statutes, amend 6-1-104 as
+27 follows:
+-14- 1426
+
+1 6-1-104. Cooperative reporting.
+2 The district attorneys may cooperate in a statewide reporting
+3 system by receiving, on forms provided by the attorney general,
+4 complaints from persons concerning deceptive trade practices listed in
+5 section 6-1-105 or part 7 or 13 of this article 1 and transmitting the
+6 complaints to the attorney general.
+7 SECTION 9. In Colorado Revised Statutes, 6-1-105, amend (1)
+8 introductory portion, (1)(f), (1)(g), (1)(m), (1)(p), (1)(z), and (1)(cccc);
+9 and repeal (1)(x), (1)(cc), (1)(ll), (1)(mm), (1)(oo), (1)(rr), (1)(tt),
+10 (1)(ww), (1)(xx), (1)(zz), (1)(ccc), (1)(ddd), (1)(eee), (1)(fff), (1)(ggg),
+11 (1)(hhh), (1)(jjj), (1)(mmm), (1)(uuu), (1)(www), (1)(xxx), (1)(yyy),
+12 (1)(zzz), (1)(bbbb), (1)(dddd), and (1)(llll) as follows:
+13 6-1-105. Unfair or deceptive trade practices - definitions.
+14 (1) A person engages in a AN UNFAIR OR deceptive trade practice
+15 when, in the course of the person's business, vocation, or occupation, the
+16 person:
+17 (f) Represents that goods are original or new if he THE PERSON
+18 knows or should know that they are deteriorated, altered, reconditioned,
+19 reclaimed, used, or secondhand;
+20 (g) Represents that:
+21 (I) Goods, food, services, or property are IS of a particular
+22 standard, quality, or grade IF THE PERSON KNOWS OR SHOULD KNOW THAT
+23 THEY ARE OF ANOTHER STANDARD, QUALITY, OR GRADE; or that
+24 (II) Goods are of a particular style or model if he THE PERSON
+25 knows or should know that they are of another STYLE OR MODEL;
+26 (m) Fails to deliver to the A customer at the time of an installment
+27 sale of goods or services a written order, contract, or receipt setting forth
+-15- 1426
+
+1 the name and address of the seller, the name and address of the
+2 organization which he THAT THE PERSON represents, and all of the terms
+3 and conditions of the sale, including a description of the goods or
+4 services, stated in readable, clear, and unambiguous language;
+5 (p) Solicits door-to-door as a seller, unless the seller, within thirty
+6 seconds after beginning the conversation, identifies himself or herself
+7 THEMSELF, whom he or she represents THEY REPRESENT, and the purpose
+8 of the call VISIT;
+9 (x) Violates sections 6-1-203 to 6-1-206 or part 7 of this article 1;
+10 (z) (I) Refuses or fails to obtain all governmental licenses or
+11 permits required to perform the services or to sell the goods, food,
+12 services, or property as agreed to or contracted for with a consumer; OR
+13 (II) ENGAGES IN A COMMERCIAL ACTIVITY OR PRACTICES A
+14 PROFESSION OR OCCUPATION IN THE STATE DESPITE FAILING TO OBTAIN
+15 THE QUALIFICATIONS REQUIRED BY LAW OR THE COLORADO
+16 CONSTITUTION;
+17 (cc) Engages in any commercial telephone solicitation which
+18 constitutes an unlawful telemarketing practice as described in section
+19 6-1-304;
+20 (ll) Either knowingly or recklessly makes a false representation as
+21 to the results of a radon test or the need for radon mitigation;
+22 (mm) Violates section 35-27-113 (3)(e), (3)(f), or (3)(i), C.R.S.;
+23 (oo) Fails to comply with the provisions of section 35-80-108
+24 (1)(a), (1)(b), or (2)(f), C.R.S.;
+25 (rr) Violates the provisions of part 8 of this article;
+26 (tt) Violates any provision of part 9 of this article;
+27 (ww) Violates any provision of section 6-1-702;
+-16- 1426
+
+1 (xx) Violates any provision of part 11 of this article;
+2 (zz) Violates any provision of section 6-1-717;
+3 (ccc) Violates the provisions of section 6-1-722;
+4 (ddd) Violates section 6-1-724;
+5 (eee) Violates section 6-1-701;
+6 (fff) Violates section 6-1-723;
+7 (ggg) Violates section 6-1-725;
+8 (hhh) Either knowingly or recklessly represents that hemp, hemp
+9 oil, or any derivative of a hemp plant constitutes retail marijuana or
+10 medical marijuana unless it fully satisfies the definition of such products
+11 pursuant to section 44-10-103 (34) or (57);
+12 (jjj) Violates section 6-1-726;
+13 (mmm) Violates section 12-30-112;
+14 (uuu) Violates section 12-10-403.5;
+15 (www) Violates section 25-18.9-104;
+16 (xxx) Violates section 12-30-112, 12-30-113, 25-3-121, or
+17 25-3-122;
+18 (yyy) Violates section 25-49-106;
+19 (zzz) Fails to comply with the requirements of section
+20 12-280-142;
+21 (bbbb) Violates section 25.5-1-904;
+22 (cccc) Sells or offers for sale a product or electronic smoking
+23 device that is age-restricted to a person who does not meet the age
+24 restriction;
+25 (dddd) Fails to register a mobile home park in violation of section
+26 38-12-1106;
+27 (llll) Violates section 42-4-221 (12);
+-17- 1426
+
+1 SECTION 10. In Colorado Revised Statutes, 6-1-107, amend (1)
+2 introductory portion, (1)(a), (1)(c), (1)(e), and (2) as follows:
+3 6-1-107. Powers of attorney general and district attorneys.
+4 (1) When the attorney general or a district attorney has reasonable
+5 cause to believe that any A person whether in this state or elsewhere has
+6 engaged in, or is engaging in, any OR OTHERWISE HAS INFORMATION
+7 RELEVANT TO AN UNFAIR OR deceptive trade practice listed DESCRIBED in
+8 section 6-1-105 or part 7 or 13 of this article 1, the attorney general or
+9 district attorney may:
+10 (a) Request such THE person to file a statement or report in writing
+11 under oath or otherwise, on forms prescribed by him THE ATTORNEY
+12 GENERAL OR DISTRICT ATTORNEY, as to all facts and circumstances
+13 concerning the sale or advertisement of property by such THE person and
+14 any other data and information he THE ATTORNEY GENERAL OR DISTRICT
+15 ATTORNEY deems necessary;
+16 (c) Examine any property or sample thereof, record, book,
+17 document, account, or paper he THE ATTORNEY GENERAL OR DISTRICT
+18 ATTORNEY deems necessary;
+19 (e) Pursuant to any order of any district court, impound any
+20 sample of property which THAT is material to such THE UNFAIR OR
+21 deceptive trade practice and retain the same in his THE ATTORNEY
+22 GENERAL'S OR DISTRICT ATTORNEY'S possession until completion of all
+23 proceedings undertaken under this article ARTICLE 1. An order shall not
+24 be issued pursuant to this paragraph (e) SUBSECTION (1)(e) without full
+25 opportunity given to the accused to be heard and unless the attorney
+26 general or district attorney has proven by clear and convincing evidence
+27 that the business activities of the person to whom an order is directed will
+-18- 1426
+
+1 not be impaired thereby BY THE ORDER.
+2 (2) Nothing in subsection (1) of this section shall be construed to
+3 allow a district attorney to enforce the provisions of this article ARTICLE
+4 1 beyond the territorial limits of his THE DISTRICT ATTORNEY'S judicial
+5 district unless:
+6 (a) The alleged UNFAIR OR deceptive trade practice or any portion
+7 of a transaction involving an alleged UNFAIR OR deceptive trade practice
+8 occurred in said THE district attorney's judicial district; or unless
+9 (b) The principal place of business of any A defendant is located
+10 in said THE district attorney's district; or unless
+11 (c) Any A defendant resides in said THE district attorney's judicial
+12 district.
+13 SECTION 11. In Colorado Revised Statutes, 6-1-108, amend (1),
+14 (3)(a) introductory portion, and (3)(a)(II) as follows:
+15 6-1-108. Subpoenas - hearings - rules.
+16 (1) When the attorney general or a district attorney has reasonable
+17 cause to believe that a person, whether in this state or elsewhere, has
+18 engaged in or is engaging in a deceptive trade practice listed DESCRIBED
+19 in section 6-1-105 or part 7 or 13 of this article 1, the attorney general or
+20 a district attorney, in addition to other powers conferred upon the attorney
+21 general or a district attorney by this article 1, may issue subpoenas to
+22 require the attendance of witnesses or the production of documents,
+23 administer oaths, conduct hearings in aid of any investigation or inquiry,
+24 and prescribe such forms and promulgate ADOPT such rules as may be
+25 necessary to administer the provisions of this article 1.
+26 (3) (a) If the records of a person who THAT has been issued a
+27 subpoena are located outside this state, the person shall either:
+-19- 1426
+
+1 (II) Pay the reasonable and necessary expenses for the attorney
+2 general or district attorney, or his or her THE ATTORNEY GENERAL'S OR
+3 DISTRICT ATTORNEY'S designee, to examine the records at the place where
+4 they are maintained.
+5 SECTION 12. In Colorado Revised Statutes, 6-1-110, amend (1)
+6 and (2) as follows:
+7 6-1-110. Restraining orders - injunctions - assurances of
+8 discontinuance.
+9 (1) Whenever the attorney general or a district attorney has cause
+10 to believe that a person has engaged in or is engaging in any A deceptive
+11 trade practice listed DESCRIBED in section 6-1-105 or part 7 or 13 of this
+12 article 1, the attorney general or district attorney may apply for and
+13 obtain, in an action in the appropriate district court of this state, a
+14 temporary restraining order or injunction, or both, pursuant to the
+15 Colorado rules of civil procedure, prohibiting the person from continuing
+16 the practices, or engaging therein, or doing any act in furtherance thereof.
+17 The court may make such orders or judgments as may be necessary to
+18 prevent the use or employment by the person of any such deceptive trade
+19 practice or that may be necessary to completely compensate or restore to
+20 the original position of any person injured by means of any such practice
+21 or to prevent any unjust enrichment by any person through the use or
+22 employment of any A deceptive trade practice.
+23 (2) Where the attorney general or a district attorney has authority
+24 to institute a civil action or other proceeding pursuant to the provisions of
+25 this article 1, the attorney general or district attorney may accept, in lieu
+26 thereof or as a part thereof, an assurance of discontinuance of any A
+27 deceptive trade practice listed DESCRIBED in section 6-1-105 or part 7 or
+-20- 1426
+
+1 13 of this article 1. The assurance may include a stipulation for the
+2 voluntary payment by the alleged violator of the costs of investigation and
+3 any action or proceeding by the attorney general or a district attorney and
+4 any amount necessary to restore to any person any money or property that
+5 may have been acquired by the alleged violator by means of any such THE
+6 deceptive trade practice. Any such AN assurance of discontinuance
+7 accepted by the attorney general or a district attorney and any such A
+8 stipulation filed with the court as a part of any such AN action or
+9 proceeding is a matter of public record unless the attorney general or the
+10 district attorney determines, at the discretion of the attorney general or
+11 district attorney, that it will be confidential to the parties to the action or
+12 proceeding and to the court and its employees. Upon the filing of a civil
+13 action by the attorney general or a district attorney alleging that a
+14 confidential assurance of discontinuance or stipulation accepted pursuant
+15 to this subsection (2) has been violated, the assurance of discontinuance
+16 or stipulation becomes a public record and open to inspection by any
+17 person. Proof by a preponderance of the evidence of a violation of any
+18 such AN assurance or stipulation constitutes prima facie evidence of a
+19 deceptive trade practice for the purposes of any civil action or proceeding
+20 brought thereafter by the attorney general or a district attorney, whether
+21 a new action or a subsequent motion or petition in any pending action or
+22 proceeding.
+23 SECTION 13. In Colorado Revised Statutes, 6-1-112, amend
+24 (1)(d), (1)(e), and (3) as follows:
+25 6-1-112. Civil penalties - definition.
+26 (1) The attorney general or a district attorney may bring a civil
+27 action on behalf of the state to seek the imposition of civil penalties as
+-21- 1426
+
+1 follows:
+2 (d) Any A person who THAT violates or causes another to violate
+3 the provisions of section 6-1-105 (1)(fff) SECTION 6-1-723 by distributing,
+4 dispensing, displaying for sale, offering for sale, attempting to sell, or
+5 selling any A product that is labeled as a "bath salt" or any other
+6 trademark if the product contains any amount of any cathinones, as
+7 defined in section 18-18-102 (3.5), C.R.S., shall forfeit and pay to the
+8 general fund of the state a civil penalty of not less than ten thousand
+9 dollars and not more than five hundred thousand dollars for each such
+10 violation; except that the person shall forfeit and pay to the general fund
+11 of the state a civil penalty of not less than twenty-five thousand dollars
+12 and not more than five hundred thousand dollars for each such violation
+13 if the person distributes, dispenses, displays for sale, offers for sale,
+14 attempts to sell, or sells the product to a minor under the age of eighteen
+15 YEARS OLD and the person is at least eighteen years of age OLD and at
+16 least two years older than the minor.
+17 (e) Any A person who THAT violates or causes another to violate
+18 the provisions of section 6-1-105 (1)(ggg) SECTION 6-1-725 by
+19 distributing, dispensing, displaying for sale, offering for sale, attempting
+20 to sell, or selling any A product that contains any amount of any synthetic
+21 cannabinoid, as defined in section 18-18-102 (34.5), C.R.S., shall forfeit
+22 and pay to the general fund of the state a civil penalty of not less than ten
+23 thousand dollars and not more than five hundred thousand dollars for
+24 each violation; except that the person shall forfeit and pay to the general
+25 fund of the state a civil penalty of not less than twenty-five thousand
+26 dollars and not more than five hundred thousand dollars for each violation
+27 if the person distributes, dispenses, displays for sale, offers for sale,
+-22- 1426
+
+1 attempts to sell, or sells the product to a minor under the age of eighteen
+2 YEARS OLD and the person is at least eighteen years of age OLD and at
+3 least two years older than the minor.
+4 (3) The attorney general or district attorney shall transmit any civil
+5 penalty collected in accordance with this section for a violation described
+6 in section 6-1-105 (1)(dddd) SECTION 38-12-1106 AND ENFORCED UNDER
+7 SECTION 6-1-105 (1)(z) to the state treasurer for deposit in the mobile
+8 home park water quality fund created in section 25-8-1006.
+9 SECTION 14. In Colorado Revised Statutes, 6-1-116, amend (4)
+10 as follows:
+11 6-1-116. Investigation of unfair business practices by
+12 regulated persons - district attorney requests for records from
+13 licensing authorities - interagency agreements with attorney general
+14 - legislative declaration - definitions.
+15 (4) NOTWITHSTANDING ANY LAW TO THE CONTRARY, subject to
+16 approval by the head of an executive department, a state licensing
+17 authority within the department may enter into an interagency agreement
+18 with the attorney general or the attorney general's designee for the referral
+19 of any complaint that appears to allege a violation of this article 1 or
+20 article 2 or 4 of this title 6. The interagency agreement may provide for
+21 referrals of complaints, information sharing, confidentiality requirements,
+22 and other terms that facilitate the investigation and enforcement of
+23 complaints alleging violations of consumer protection or unfair trade
+24 laws.
+25 SECTION 15. In Colorado Revised Statutes, add 6-1-117 as
+26 follows:
+27 6-1-117. Colorado consumer protection act advisory council
+-23- 1426
+
+1 - created - membership - duties - subject to review - repeal.
+2 (1) THE COLORADO CONSUMER PROTECTION ACT ADVISORY
+3 COUNCIL, REFERRED TO IN THIS SECTION AS THE "ADVISORY COUNCIL", IS
+4 CREATED IN THE DEPARTMENT OF LAW. THE ADVISORY COUNCIL CONSISTS
+5 OF THREE MEMBERS APPOINTED BY THE ATTORNEY GENERAL AS FOLLOWS:
+6 (a) ONE MEMBER REPRESENTING THE BUSINESS COMMUNITY OR AN
+7 ASSOCIATION REPRESENTING BUSINESS INTERESTS;
+8 (b) ONE MEMBER REPRESENTING A STATEWIDE CONSUMER
+9 ADVOCACY ORGANIZATION; AND
+10 (c) ONE MEMBER OF THE PUBLIC.
+11 (2) THE MEMBERS OF THE ADVISORY COUNCIL SHALL ELECT A
+12 CHAIR AND VICE-CHAIR FROM AMONG THE ADVISORY COUNCIL MEMBERS
+13 APPOINTED PURSUANT TO SUBSECTION (1) OF THIS SECTION, WHICH
+14 PRESIDING OFFICERS SHALL SERVE TERMS OF TWO YEARS. ADVISORY
+15 COUNCIL MEMBERS MAY REELECT A PRESIDING OFFICER.
+16 (3) (a) EACH MEMBER OF THE ADVISORY COUNCIL SERVES AT THE
+17 PLEASURE OF THE ATTORNEY GENERAL FOR A TERM OF THREE YEARS;
+18 EXCEPT THAT:
+19 (I) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+20 (1)(a) OF THIS SECTION SHALL SERVE A TERM OF ONE YEAR; AND
+21 (II) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+22 (1)(b) OF THIS SECTION SHALL SERVE A TERM OF TWO YEARS.
+23 (b) THE ATTORNEY GENERAL MAY REAPPOINT A MEMBER TO SERVE
+24 NO MORE THAN THREE TERMS.
+25 (c) MEMBERS OF THE ADVISORY COUNCIL MAY BE REIMBURSED BY
+26 THE DEPARTMENT OF LAW FOR ACTUAL AND NECESSARY EXPENSES
+27 INCURRED IN THE CONDUCT OF OFFICIAL BUSINESS.
+-24- 1426
+
+1 (4) THE ADVISORY COUNCIL SHALL MEET AT LEAST TWO TIMES
+2 EACH YEAR TO DISCUSS EMERGING ISSUES IN CONSUMER PROTECTION AND
+3 ANY OTHER MATTERS REFERRED TO THE ADVISORY COUNCIL FOR
+4 DISCUSSION BY THE ATTORNEY GENERAL.
+5 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2032.
+6 BEFORE THE REPEAL, THE ADVISORY COUNCIL IS SCHEDULED FOR REVIEW
+7 IN ACCORDANCE WITH SECTION 2-3-1203.
+8 SECTION 16. In Colorado Revised Statutes, amend 6-1-205 as
+9 follows:
+10 6-1-205. Information to be disclosed in advertisements for
+11 rental agreements for rental motor vehicles.
+12 In any advertisement to the public for a rental agreement for a
+13 rental motor vehicle that includes a rental rate, the lessor shall
+14 prominently disclose on the face of any such THE advertisement the daily
+15 charge of any collision damage waiver offered, a statement informing a
+16 prospective lessee that he or she THE PROSPECTIVE LESSEE should review
+17 his or her THE PROSPECTIVE LESSEE'S own automobile insurance coverage
+18 to determine if such THE coverage applies to the use of a rental motor
+19 vehicle, and a statement that a prospective lessee may also wish to
+20 determine whether his or her THE PROSPECTIVE LESSEE'S credit card or
+21 travel and entertainment card provides collision damage coverage for use
+22 of a rental motor vehicle or other such privilege of membership.
+23 SECTION 17. In Colorado Revised Statutes, 6-1-702.5, amend
+24 (3)(c), (4)(a), (4)(b), (4)(e), (4)(f), (4)(g), and (5)(b) as follows:
+25 6-1-702.5. Commercial electronic mail messages - unfair or
+26 deceptive trade practice - remedies - definitions - short title -
+27 legislative declaration.
+-25- 1426
+
+1 (3) As used in this section:
+2 (c) "Electronic mail service provider" "PROVIDER OF INTERNET
+3 ACCESS SERVICE" means a provider of internet access service, as defined
+4 in 47 U.S.C. sec. 231.
+5 (4) (a) In the case of any A violation of this section, an electronic
+6 mail service A provider OF INTERNET ACCESS SERVICE whose network or
+7 facilities were used in the transmission or attempted transmission of a
+8 commercial electronic mail message may file a civil action in a court of
+9 competent jurisdiction and may, upon proof of such violation, recover
+10 such sums as are allowed under this subsection (4).
+11 (b) (I) In any such action, if the electronic mail service provider
+12 OF INTERNET ACCESS SERVICE prevails, the provider shall be IS entitled to
+13 actual damages. Upon a showing that the sender of a commercial
+14 electronic mail message violated any provision of this section, whether or
+15 not the violation resulted in a financial loss or injury, the electronic mail
+16 service provider OF INTERNET ACCESS SERVICE may recover attorney fees
+17 and costs.
+18 (II) In any such action, if the electronic mail service provider OF
+19 INTERNET ACCESS SERVICE prevails, the provider is also entitled to
+20 recover, as part of the judgment, statutory damages in the amount of one
+21 thousand dollars for each commercial electronic mail message transmitted
+22 in violation of this section; except that the total amount of statutory
+23 damages awarded against a single defendant based on one transaction or
+24 occurrence shall not exceed ten million dollars.
+25 (e) Electronic mail service Providers OF INTERNET ACCESS
+26 SERVICE that adopt and implement terms, conditions, or technical
+27 measures in good faith to prevent or prohibit the origination or
+-26- 1426
+
+1 transmission of commercial electronic mail messages in violation of this
+2 section shall be ARE immune from civil liability for any such actions, and
+3 no provision of this section shall be construed to create any liability for
+4 such actions.
+5 (f) No electronic mail service A provider shall be OF INTERNET
+6 ACCESS SERVICE IS NOT liable for the mere transmission of commercial
+7 electronic mail messages over the provider's computer network or
+8 facilities.
+9 (g) This section shall not be construed to require any electronic
+10 mail service A provider OF INTERNET ACCESS SERVICE to carry or deliver
+11 any electronic mail merely because a sender complies with the provisions
+12 of this section.
+13 (5) (b) The attorney general is encouraged to and may, in his or
+14 her THE ATTORNEY GENERAL'S discretion, cooperate with an electronic
+15 mail service A provider OF INTERNET ACCESS SERVICE in an action by such
+16 THE provider under 15 U.S.C. sec. 7706 (g).
+17 SECTION 18. In Colorado Revised Statutes, 6-1-704, amend (1)
+18 introductory portion and (1)(c)(V) as follows:
+19 6-1-704. Health clubs - deceptive trade practices.
+20 (1) A person engages in a deceptive trade practice when, in the
+21 course of such THE person's business, vocation, or occupation, such THE
+22 person engages in one or more of the following activities in connection
+23 with the advertisement or sale of a membership in a health club:
+24 (c) Fails to allow the buyer, or the estate of the buyer, to cancel
+25 the membership contract when:
+26 (V) The seller permanently discontinues operation of the health
+27 club or sells the health club and the sale results in substantial alteration
+-27- 1426
+
+1 of the quality of health club services or HEALTH CLUB facilities or the
+2 nature of benefits so that they no longer conform to the provisions of the
+3 membership contract; but there shall be EXCEPT THAT THE HEALTH CLUB
+4 HAS a thirty-day "right to cure" during which the fees payable by the
+5 buyer under the membership contract shall be ARE suspended and the
+6 health club may bring the services, facilities, and benefits into
+7 conformance with the provisions of the membership contract;
+8 SECTION 19. In Colorado Revised Statutes, 6-1-707, amend (1)
+9 introductory portion, (1)(a)(I) introductory portion, (1)(a)(I)(E), (1)(a)(II),
+10 (1)(a)(III), (1)(b) introductory portion, (1)(b)(I)(B), (1)(d)(I), (1)(d)(II)
+11 introductory portion, (1)(d)(III), (1)(e)(I) introductory portion, (1)(e)(II)
+12 introductory portion, and (1)(f); and add (2) as follows:
+13 6-1-707. Use of title or degree - deceptive trade practice -
+14 subject to review - repeal.
+15 (1) A person AN INDIVIDUAL engages in a deceptive trade practice
+16 when, in the course of the person's INDIVIDUAL'S business, vocation, or
+17 occupation, the person INDIVIDUAL:
+18 (a) (I) Claims either orally or in writing to possess either an
+19 academic degree or an honorary degree or the title associated with said
+20 SUCH A degree, unless the person INDIVIDUAL has, in fact, been awarded
+21 said SUCH A degree from an institution that is:
+22 (E) Authorized to grant degrees pursuant to article 2 of title 23.
+23 C.R.S.
+24 (II) This paragraph (a) shall SUBSECTION (1)(a) DOES not apply to
+25 persons INDIVIDUALS claiming degrees or certificates that were submitted
+26 as a requirement of the application process for licensure, certification, or
+27 registration pursuant to title 12. C.R.S.
+-28- 1426
+
+1 (III) No person AN INDIVIDUAL awarded a doctoral degree from
+2 an institution not listed in this subsection (1)(a) shall NOT claim in the
+3 state, either orally or in writing, the title "Dr." before the person's
+4 INDIVIDUAL'S name or any mark, appellation, or series of letters, numbers,
+5 or words such as but not limited to, "Ph.D.","Ed.D.", "D.N.", or "D.Th.",
+6 which signify, purport, or are generally taken to signify satisfactory
+7 completion of the requirements of a doctorate degree, after the person's
+8 INDIVIDUAL'S name.
+9 (b) Claims either orally or in writing to be a "dietitian",
+10 "dietician", "certified dietitian", or "certified dietician" or uses the
+11 abbreviation "C.D." or "D." to indicate that such person THE INDIVIDUAL
+12 is a dietitian, unless such person THE INDIVIDUAL:
+13 (I) Possesses a baccalaureate, master's, or doctoral degree in
+14 human nutrition, foods and nutrition, dietetics, nutrition education, food
+15 systems management, or public health nutrition from an institution that
+16 is:
+17 (B) Authorized to grant degrees pursuant to article 2 of title 23;
+18 C.R.S.; or
+19 (d) (I) Claims either orally or in writing to be a "certified optician"
+20 or "certified opticien", unless such person THE INDIVIDUAL holds a current
+21 certificate of competence issued by the American Board of Opticianry.
+22 Each certificate shall be prominently displayed or maintained in such
+23 person's THE INDIVIDUAL'S place of business and made available for
+24 immediate inspection and review by any consumer or agent of the state.
+25 of Colorado. No person may AN INDIVIDUAL SHALL NOT associate a
+26 service, product, or business name with the title "certified optician" unless
+27 such person THE INDIVIDUAL holds the required certificate of competence.
+-29- 1426
+
+1 This subsection (1)(d) shall DOES not apply to persons INDIVIDUALS
+2 authorized under article 240 or 275 of title 12 to practice medicine or
+3 optometry.
+4 (II) Performs or claims orally or in writing to be able to perform
+5 the following procedures, and such person THE INDIVIDUAL is a certified
+6 optician:
+7 (III) A certified optician does not engage in a deceptive trade
+8 practice under subparagraph (II) of this paragraph (d), SUBSECTION
+9 (1)(d)(II) OF THIS SECTION if said THE optician performs the described
+10 procedures under the direction and supervision of a person AN
+11 INDIVIDUAL who has statutory authority under title 12 C.R.S., to supervise
+12 the work of others within the scope of his or her THE INDIVIDUAL'S
+13 license.
+14 (e) (I) Claims to be a "sign language interpreter", "interpreter for
+15 the deaf", "deaf interpreter", "ASL-English interpreter", "American sign
+16 language (ASL) interpreter", "translator" for sign language,
+17 "transliterator", "certified sign language interpreter", "certified translator"
+18 for sign language, "certified interpreter for the deaf", "certified deaf
+19 interpreter", "certified ASL-English interpreter", "certified American sign
+20 language (ASL) interpreter", or "certified transliterator", unless the
+21 person INDIVIDUAL holds:
+22 (II) A person AN INDIVIDUAL who uses any of the titles listed in
+23 this subsection (1)(e) shall make available for immediate inspection by
+24 any consumer or agent of the state:
+25 (f) Claims to be a verified instructor for a firearms safety course
+26 that satisfies the requirements for a concealed handgun training class
+27 described in section 18-12-202.5, unless the person INDIVIDUAL is
+-30- 1426
+
+1 verified as a firearms instructor by a sheriff pursuant to section
+2 18-12-202.7.
+3 (2) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2034.
+4 BEFORE THE REPEAL, THE IMPLEMENTATION OF THIS SECTION IS
+5 SCHEDULED FOR REVIEW IN ACCORDANCE WITH SECTION 24-34-104.
+6 SECTION 20. In Colorado Revised Statutes, 6-1-713, amend (2)
+7 introductory portion and (2)(a) as follows:
+8 6-1-713. Disposal of personal identifying information - policy
+9 - definitions.
+10 (2) For the purposes of AS USED IN this section and section
+11 6-1-713.5:
+12 (a) "Covered entity" means a person as defined in section 6-1-102
+13 (6), that maintains, owns, or licenses personal identifying information in
+14 the course of the person's business, vocation, or occupation. "Covered
+15 entity" does not include a person acting as a third-party service provider
+16 as defined in section 6-1-713.5.
+17 SECTION 21. In Colorado Revised Statutes, 6-1-715, amend (1)
+18 introductory portion, (1)(c), (1)(d), (2)(a) introductory portion, (2)(a)(II),
+19 and (2)(b) as follows:
+20 6-1-715. Confidentiality of social security numbers.
+21 (1) Except as provided in subsections (2) to (4) of this section, a
+22 person or entity may SHALL not: do any of the following:
+23 (c) Require an individual to transmit his or her THE INDIVIDUAL'S
+24 social security number over the internet, unless the connection is secure
+25 or the social security number is encrypted;
+26 (d) Require an individual to use his or her THE INDIVIDUAL'S social
+27 security number to access an internet website, unless a password or
+-31- 1426
+
+1 unique personal identification number or other authentication device is
+2 also required to access the internet website; and OR
+3 (2) (a) A person or entity that has used, prior to January 1, 2007,
+4 an individual's social security number in a manner inconsistent with
+5 subsection (1) of this section may continue using that individual's social
+6 security number in that manner on or after January 1, 2007, if all of the
+7 following conditions are met:
+8 (II) The person or entity provides the individual with an annual
+9 disclosure that informs the individual that he or she THE INDIVIDUAL has
+10 the right to stop the use of his or her THE INDIVIDUAL'S social security
+11 number in a manner prohibited by subsection (1) of this section.
+12 (b) The person or entity shall implement a written request by an
+13 individual to stop the use of his or her THE INDIVIDUAL'S social security
+14 number in a manner prohibited by subsection (1) of this section within
+15 thirty days after the receipt of the request. The person or entity may SHALL
+16 not impose a fee or charge for implementing the request.
+17 SECTION 22. In Colorado Revised Statutes, 6-1-716, amend
+18 (1)(a), (1)(b), (2)(a.3) introductory portion, and (2)(a.3)(I) as follows:
+19 6-1-716. Notification of security breach - definitions.
+20 (1) Definitions. As used in this section, unless the context
+21 otherwise requires:
+22 (a) "Biometric data" means unique biometric data generated from
+23 measurements or analysis of human body characteristics for the purpose
+24 of authenticating the individual when he or she THE INDIVIDUAL accesses
+25 an online account.
+26 (b) "Covered entity" means a person as defined in section 6-1-102
+27 (6), that maintains, owns, or licenses personal information in the course
+-32- 1426
+
+1 of the person's business, vocation, or occupation. "Covered entity" does
+2 not include a person acting as a third-party service provider. as defined
+3 in subsection (1)(i) of this section.
+4 (2) Disclosure of breach.
+5 (a.3) If an investigation by the A covered entity pursuant to
+6 subsection (2)(a) of this section determines that the type of personal
+7 information described in subsection (1)(g)(I)(B) of this section has been
+8 misused or is reasonably likely to be misused, then the covered entity
+9 shall, in addition to the notice otherwise required by subsection (2)(a.2)
+10 of this section and in the most expedient time possible and without
+11 unreasonable delay, but not later than thirty days after the date of THE
+12 determination that a security breach occurred, consistent with the
+13 legitimate needs of law enforcement and consistent with any measures
+14 necessary to determine the scope of the breach and to restore the
+15 reasonable integrity of the computerized data system:
+16 (I) Direct the person INDIVIDUAL whose personal information has
+17 been breached to promptly change his or her THE INDIVIDUAL'S password
+18 and security question or answer, as applicable, or to take other steps
+19 appropriate to protect the online account with the covered entity and all
+20 other online accounts for which the person whose personal information
+21 has been breached INDIVIDUAL uses the same username or email address
+22 and password or security question or answer.
+23 SECTION 23. In Colorado Revised Statutes, 6-1-722, amend (4)
+24 as follows:
+25 6-1-722. Gift certificates - validity - exemptions - definition.
+26 (4) A violation of this section shall be deemed a IS AN UNFAIR OR
+27 deceptive trade practice as provided in section 6-1-105 (1)(ccc) THIS
+-33- 1426
+
+1 ARTICLE 1.
+2 SECTION 24. In Colorado Revised Statutes, 6-1-723, amend (2)
+3 as follows:
+4 6-1-723. Cathinone bath salts - unfair or deceptive trade
+5 practice.
+6 (2) (a) A violation of this section shall be deemed a IS AN UNFAIR
+7 OR deceptive trade practice, as provided in section 6-1-105 (1)(fff), and
+8 the A violator shall be IS subject to a civil penalty as described in section
+9 6-1-112 (1)(d) in addition to any applicable criminal penalty.
+10 (b) For the purposes of this section, a person shall be IS deemed
+11 to have committed a violation for each individually packaged product that
+12 he or she THE PERSON distributed, dispensed, manufactured, displayed for
+13 sale, offered for sale, attempted to sell, or sold in violation of subsection
+14 (1) of this section.
+15 SECTION 25. In Colorado Revised Statutes, 6-1-724, amend (6)
+16 introductory portion, (6)(g) introductory portion, (6)(g)(II), (6)(n)
+17 introductory portion, (6)(n)(II), (6)(q), (6)(t), (7)(a) introductory portion,
+18 (7)(a)(IV), and (10)(a) as follows:
+19 6-1-724. Unlicensed alternative health-care practitioners -
+20 unfair or deceptive trade practice - short title - legislative declaration
+21 - definitions.
+22 (6) A complementary and alternative health-care practitioner
+23 providing complementary and alternative health-care services DESCRIBED
+24 under this section who is not licensed, certified, or registered by the state
+25 shall not:
+26 (g) Perform enemas AN ENEMA or A colonic irrigation unless the
+27 complementary and alternative health-care practitioner:
+-34- 1426
+
+1 (II) Discloses that he or she THE PRACTITIONER is not a physician
+2 licensed pursuant to article 240 of title 12; and
+3 (n) Treat a child who is two years of age OLD or older but less than
+4 eight years of age OLD unless the complementary and alternative
+5 health-care practitioner:
+6 (II) Discloses that he or she THE PRACTITIONER is not a physician
+7 licensed pursuant to article 240 of title 12;
+8 (q) Practice or represent that he or she THE PRACTITIONER is
+9 practicing massage or massage therapy as defined in article 235 of title
+10 12;
+11 (t) Hold oneself out as, state, indicate, advertise, or imply to a
+12 client or prospective client that he or she THE PRACTITIONER is a
+13 physician, surgeon, or both or that he or she THE PRACTITIONER is a
+14 health-care professional who is licensed, certified, or registered by the
+15 state.
+16 (7) (a) Any person AN INDIVIDUAL providing complementary and
+17 alternative health-care services in this state who is not licensed, certified,
+18 or registered by the state as a health-care professional; is not regulated by
+19 a professional board or the division of professions and occupations in the
+20 department of regulatory agencies pursuant to title 12; C.R.S., and is
+21 advertising or charging a fee for health-care services shall provide to each
+22 client during the initial client contact the following information in a
+23 plainly worded written statement:
+24 (IV) A listing of any degrees, training, experience, credentials, or
+25 other qualifications the person INDIVIDUAL holds regarding the
+26 complementary and alternative health-care services he or she THE
+27 INDIVIDUAL provides;
+-35- 1426
+
+1 (10) This section does not apply to or prohibit:
+2 (a) Any A licensed, certified, or registered health-care
+3 professional from practicing his or her THEIR regulated profession;
+4 SECTION 26. In Colorado Revised Statutes, 6-1-725, amend (2)
+5 as follows:
+6 6-1-725. Synthetic cannabinoids - incense - unfair or deceptive
+7 trade practice.
+8 (2) (a) A violation of this section is a AN UNFAIR OR deceptive
+9 trade practice, as provided in section 6-1-105 (1)(ggg), and the A violator
+10 shall be IS subject to a civil penalty as described in section 6-1-112 (1)(e)
+11 in addition to any applicable criminal penalty.
+12 (b) For the purposes of this section, a person shall be IS deemed
+13 to have committed a violation for each individually packaged product that
+14 he or she THE PERSON distributed, dispensed, manufactured, displayed for
+15 sale, offered for sale, attempted to sell, or sold in violation of subsection
+16 (1) of this section.
+17 SECTION 27. In Colorado Revised Statutes 6-1-727, amend
+18 (3)(b) introductory portion, (3)(b)(III), (3)(c) introductory portion, and
+19 (3)(c)(I) as follows:
+20 6-1-727. Immigration-related services provided by
+21 nonattorneys - unfair or deceptive trade practice - definitions.
+22 (3) Prohibited practices - assistance with immigration matters
+23 - permitted practices.
+24 (b) If a person other than a person listed in subparagraph (I) or (II)
+25 of paragraph (a) of this subsection (3) SUBSECTION (3)(a)(I) OR (3)(a)(II)
+26 OF THIS SECTION engages in or offers to engage in one or more of the
+27 following acts or practices in an immigration matter for compensation,
+-36- 1426
+
+1 the person engages in a AN UNFAIR OR deceptive trade practice AS
+2 DESCRIBED IN THIS ARTICLE 1:
+3 (III) Selecting for another person, assisting another person in
+4 selecting, or advising another person in selecting his or her THE PERSON'S
+5 answers on a government agency form or document related to an
+6 immigration matter;
+7 (c) With or without compensation or the expectation of
+8 compensation, a person other than a person listed in subparagraph (I) or
+9 (II) of paragraph (a) of this subsection (3) SUBSECTION (3)(a)(I) OR
+10 (3)(a)(II) OF THIS SECTION engages in a AN UNFAIR OR deceptive trade
+11 practice in an immigration matter if he or she THE PERSON represents, in
+12 any language, either orally or in a document, letterhead, advertisement,
+13 stationery, business card, website, or other written material that he or she
+14 THE PERSON:
+15 (I) Is a notario publico, notario, immigration assistant,
+16 immigration consultant, immigration specialist, or other designation or
+17 title that conveys or implies in any language that he or she THE PERSON
+18 possesses professional legal skills or expertise in the area of immigration
+19 law; or
+20 SECTION 28. In Colorado Revised Statutes, 6-1-739, repeal
+21 (1)(b) as follows:
+22 6-1-739. Veterans' benefits matters - compensation for
+23 services - written agreements - advertising - disclosures - deceptive
+24 trade practice - definitions.
+25 (1) As used in this section, unless the context otherwise requires:
+26 (b) "Person" has the same meaning as set forth in section 6-1-102.
+27 SECTION 29. In Colorado Revised Statutes, 6-1-803, amend (2)
+-37- 1426
+
+1 introductory portion as follows:
+2 6-1-803. Prohibited practices and required disclosures.
+3 (2) No A sponsor shall NOT represent that a person has won or
+4 unconditionally will be the winner of a prize or use language that may
+5 lead a person to believe he or she THE PERSON has won a prize, unless all
+6 of the following conditions are met:
+7 SECTION 30. In Colorado Revised Statutes, 6-1-904, amend
+8 (1)(a) as follows:
+9 6-1-904. Unlawful to make telephone solicitations to
+10 subscribers on the Colorado no-call list - requirements for telephone
+11 solicitations generally.
+12 (1) (a) No A person or entity shall NOT make or cause to be made
+13 any telephone solicitation to the telephone of any residential subscriber
+14 or wireless telephone service subscriber in this state who THAT has added
+15 his or her THE SUBSCRIBER'S telephone number and zip code to the
+16 Colorado no-call list in accordance with rules promulgated ADOPTED
+17 under section 6-1-905.
+18 SECTION 31. In Colorado Revised Statutes, 6-1-905, amend
+19 (3)(b) introductory portion and (3)(b)(III) as follows:
+20 6-1-905. Establishment and operation of a Colorado no-call
+21 list - rules.
+22 (3) (b) The public utilities commission shall establish, by rule,
+23 guidelines for the designated agent for the development and maintenance
+24 of the Colorado no-call list so that the no-call list can easily be accessed
+25 by persons or entities desiring to make telephone solicitations and by state
+26 and local law enforcement agencies. As soon as practicable after March
+27 25, 2003, the public utilities commission shall promulgate ADOPT rules
+-38- 1426
+
+1 that:
+2 (III) Specify that the method by which each residential subscriber
+3 and wireless telephone service subscriber may give notice to the
+4 designated agent of his or her THE SUBSCRIBER'S objection to receiving
+5 such solicitations, or may revoke such notice, shall be IS exclusively by
+6 entering the area code, phone number, and zip code of the subscriber
+7 directly into the database via the designated state internet website or by
+8 using a touch-tone phone to enter the area code, phone number, and zip
+9 code of the subscriber via a designated statewide, toll-free telephone
+10 number maintained by the designated agent as a part of the Colorado
+11 no-call list;
+12 SECTION 32. In Colorado Revised Statutes, 6-1-1103, amend
+13 (2) introductory portion and (7) as follows:
+14 6-1-1103. Definitions.
+15 As used in this part 11, unless the context otherwise requires:
+16 (2) "Equity purchaser" means a person, other than a person who
+17 acquires a property for the purpose of using such property as his or her
+18 personal THE PERSON'S OWN residence, who acquires title to a residence
+19 in foreclosure; except that the term does not include a person who
+20 acquires such title:
+21 (7) "Home owner" means the owner of a dwelling who occupies
+22 it as his or her A principal place of residence, including a vendee under a
+23 contract for deed to real property, as that term is defined in section
+24 38-35-126 (1)(b). C.R.S.
+25 SECTION 33. In Colorado Revised Statutes, 6-1-1104, amend
+26 (5) as follows:
+27 6-1-1104. Foreclosure consulting contract.
+-39- 1426
+
+1 (5) A foreclosure consulting contract shall contain the following
+2 notice, AS DESCRIBED IN THIS SECTION OR AS ESTABLISHED UNDER
+3 SECTION 24-31-101 (1)(x)(III), which shall be printed in at least
+4 fourteen-point bold-faced type, completed with the name of the
+5 foreclosure consultant, and located in immediate proximity to the space
+6 reserved for the home owner's signature:
+7 Notice Required by Colorado Law
+8 _______ (Name) or (his/her/its THEIR) associate cannot
+9 ask you to sign or have you sign any document that
+10 transfers any interest in your home or property to
+11 (him/her/it THEM) or TO (his/her/its THEIR) associate.
+12 _______ (Name) or (his/her/its THEIR) associate cannot
+13 guarantee you that they will be able to refinance your
+14 home or arrange for you to keep your home.
+15 You may, at any time, cancel this contract, without
+16 penalty of any kind.
+17 If you want to cancel this contract, mail or deliver a
+18 signed and dated copy of this notice of cancellation, or
+19 any other written notice, indicating your intent to
+20 cancel to ________________ (name and address of
+21 foreclosure consultant) at ______________________
+22 (address of foreclosure consultant, including facsimile
+23 and electronic mail address).
+24 As part of any cancellation, you (the home owner) must
+25 repay any money actually spent on your behalf by
+26 _____________________ (name of foreclosure
+27 consultant) prior to receipt of this notice and as a result
+-40- 1426
+
+1 of this agreement, within sixty days, along with interest
+2 at the prime rate published by the federal reserve plus
+3 two percentage points, with the total interest rate not to
+4 exceed eight percent per year.
+5 This is an important legal contract and could result in
+6 the loss of your home. Contact an attorney or a housing
+7 counselor approved by the federal department of
+8 housing and urban development before signing.
+9 SECTION 34. In Colorado Revised Statutes, add 6-1-1315 as
+10 follows:
+11 6-1-1315. Colorado privacy act advisory council - created -
+12 membership - duties - subject to review - repeal.
+13 (1) THE COLORADO PRIVACY ACT ADVISORY COUNCIL, REFERRED
+14 TO IN THIS SECTION AS THE "ADVISORY COUNCIL", IS CREATED IN THE
+15 DEPARTMENT OF LAW. THE ADVISORY COUNCIL CONSISTS OF THREE
+16 MEMBERS APPOINTED BY THE ATTORNEY GENERAL AS FOLLOWS:
+17 (a) ONE MEMBER REPRESENTING A TECHNOLOGY COMPANY OR A
+18 STATEWIDE ORGANIZATION REPRESENTING TECHNOLOGY COMPANIES;
+19 (b) ONE MEMBER REPRESENTING A STATEWIDE CONSUMER
+20 ADVOCACY ORGANIZATION THAT FOCUSES ON DATA PRIVACY AND
+21 TECHNOLOGY; AND
+22 (c) ONE MEMBER OF THE PUBLIC.
+23 (2) THE MEMBERS OF THE ADVISORY COUNCIL SHALL ELECT A
+24 CHAIR AND VICE-CHAIR FROM AMONG THE ADVISORY COUNCIL MEMBERS
+25 APPOINTED PURSUANT TO SUBSECTION (1) OF THIS SECTION, WHICH
+26 PRESIDING OFFICERS SHALL SERVE TERMS OF TWO YEARS. ADVISORY
+27 COUNCIL MEMBERS MAY REELECT A PRESIDING OFFICER.
+-41- 1426
+
+1 (3) (a) EACH MEMBER OF THE ADVISORY COUNCIL SERVES AT THE
+2 PLEASURE OF THE ATTORNEY GENERAL FOR A TERM OF THREE YEARS;
+3 EXCEPT THAT:
+4 (I) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+5 (1)(a) OF THIS SECTION SHALL SERVE A TERM OF ONE YEAR; AND
+6 (II) THE INITIAL MEMBER APPOINTED PURSUANT TO SUBSECTION
+7 (1)(b) OF THIS SECTION SHALL SERVE A TERM OF TWO YEARS.
+8 (b) THE ATTORNEY GENERAL MAY REAPPOINT A MEMBER TO SERVE
+9 NO MORE THAN THREE TERMS.
+10 (c) MEMBERS OF THE ADVISORY COUNCIL MAY BE REIMBURSED BY
+11 THE DEPARTMENT OF LAW FOR ACTUAL AND NECESSARY EXPENSES
+12 INCURRED IN THE CONDUCT OF OFFICIAL BUSINESS.
+13 (4) THE ADVISORY COUNCIL SHALL MEET AT LEAST TWO TIMES
+14 EACH YEAR TO DISCUSS EMERGING ISSUES IN DATA PRIVACY AND ANY
+15 MATTERS REFERRED TO THE ADVISORY COUNCIL BY THE ATTORNEY
+16 GENERAL FOR THE ADVISORY COUNCIL'S DISCUSSION.
+17 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2032.
+18 BEFORE THE REPEAL, THE ADVISORY COUNCIL IS SCHEDULED FOR REVIEW
+19 IN ACCORDANCE WITH SECTION 2-3-1203.
+20 SECTION 35. In Colorado Revised Statutes, amend 6-2-104 as
+21 follows:
+22 6-2-104. Personal responsibility.
+23 (1) Any A person who THAT, either as director, officer, or agent
+24 of any firm or corporation or as agent of any person violating the
+25 provisions of this article ARTICLE 2, assists or aids, directly or indirectly,
+26 in such THE violation shall be IS responsible equally with the person, firm,
+27 or corporation for which he THE PERSON acts.
+-42- 1426
+
+1 (2) In the prosecution of any A person as officer, director, or
+2 agent, it shall be IS sufficient to allege and prove the unlawful intent of
+3 the person, firm, or corporation for which he THE PERSON acts.
+4 SECTION 36. In Colorado Revised Statutes, amend 6-2-107 as
+5 follows:
+6 6-2-107. Allegation and proof - evidence.
+7 In any AN injunction proceeding or in the prosecution of any A
+8 person as officer, director, or agent, it shall be IS sufficient to allege and
+9 prove the unlawful intent of the person, firm, or corporation for which he
+10 THE PERSON acts. Where a particular trade or industry of which the
+11 person, firm, or corporation complained against is a member has an
+12 established cost survey for the locality and vicinity in which the offense
+13 is committed, the cost survey shall be IS deemed competent evidence to
+14 be used in proving the costs of the person, firm, or corporation
+15 complained against within the provisions of this article ARTICLE 2.
+16 SECTION 37. In Colorado Revised Statutes, 6-2-110, amend (1)
+17 introductory portion and (1)(a) as follows:
+18 6-2-110. When provisions not applicable.
+19 (1) The provisions of Sections 6-2-105 to 6-2-107 shall DO not
+20 apply to any sale made:
+21 (a) In closing out in good faith the owner's stock or any part
+22 thereof for the purpose of discontinuing his THE OWNER'S trade in any
+23 such stock or commodity and, in the case of the sale of seasonal goods or
+24 the bona fide sale of perishable goods, to prevent loss to the vendor by
+25 spoilage or depreciation, if notice is given to the public thereof;
+26 SECTION 38. In Colorado Revised Statutes, 6-2-111, amend (2),
+27 (3), (4), and (6) as follows:
+-43- 1426
+
+1 6-2-111. Unlawful acts - remedy - license - rules.
+2 (2) Without prejudice to the rights of any person, firm, private
+3 corporation, municipal corporation, public corporation, or trade
+4 association to bring an action, the attorney general of the state of
+5 Colorado, as an incident to and power of his or her office, has like powers
+6 to those provided in subsection (1) of this section, and it is his or her THE
+7 ATTORNEY GENERAL'S duty, upon A showing by any person, firm, private
+8 corporation, municipal corporation, public corporation, or trade
+9 association that there is reason to believe that any A person subject to the
+10 terms of this article ARTICLE 2 is violating any term of sections 6-2-103
+11 to 6-2-108 or section 6-2-110, to prosecute actions for violation of any
+12 provisions of this article, THE VIOLATION and to seek injunctions or
+13 restraining orders AN INJUNCTION OR RESTRAINING ORDER to enjoin the
+14 continuance thereof by any defendant OF THE VIOLATION.
+15 (3) If any A person, firm, private corporation, municipal
+16 corporation, public corporation, or trade association, in writing and under
+17 oath, submits to the attorney general a statement setting forth facts
+18 sufficient to constitute a prima facie case of A violation of any of the
+19 provisions of sections 6-2-103 to 6-2-108 or any other provisions
+20 PROVISION of this article, it is mandatory upon ARTICLE 2, the attorney
+21 general to SHALL seek injunctive relief or A restraining orders ORDER to
+22 enjoin the continuance of such THE violation. by any person, firm, private
+23 corporation, or other organization so charged; and To this end, and for
+24 this purpose, the attorney general has the power to MAY appear in his or
+25 her THE ATTORNEY GENERAL'S official capacity TO SEEK RELIEF in any
+26 court in the state of Colorado, having jurisdiction. in the premises, to seek
+27 relief.
+-44- 1426
+
+1 (4) It is the duty of any A district attorney, in and for each of the
+2 judicial districts of the state of Colorado, when requested in writing by
+3 the attorney general to advise and consult with the attorney general
+4 concerning the institution and prosecution of such actions, and to AN
+5 ACTION DESCRIBED IN THIS ARTICLE 2, SHALL act for the attorney general
+6 in prosecution of any such THE action. but HOWEVER, the attorney general
+7 has the power in his or her discretion to MAY choose, select, appoint, and
+8 recompense from funds MONEY provided for the purposes of enforcement
+9 of the provisions of this article ARTICLE 2 any attorney-at-law ATTORNEY
+10 admitted to practice in the state of Colorado as a special prosecutor who
+11 has full and complete power to act for the attorney general.
+12 (6) The attorney general may appoint such personnel as may
+13 reasonably be required to carry out the functions prescribed for his or her
+14 THE ATTORNEY GENERAL'S office.
+15 SECTION 39. In Colorado Revised Statutes, amend 6-6-102 as
+16 follows:
+17 6-6-102. Obligation of recipient.
+18 (1) Unless otherwise agreed, where unsolicited goods are
+19 delivered to a person, he has a right to THE PERSON MAY refuse to accept
+20 delivery of the goods and is not bound to return such THE goods to the
+21 sender.
+22 (2) If such unsolicited goods are either addressed to or intended
+23 for the A recipient, they shall be ARE deemed a gift to the recipient, who
+24 may use them or dispose of them in any manner he THE RECIPIENT sees fit
+25 without any obligation to the sender.
+26 SECTION 40. In Colorado Revised Statutes, 6-6.5-101, amend
+27 (1) and (3) as follows:
+-45- 1426
+
+1 6-6.5-101. Disclosure to purchaser - penalty.
+2 (1) At least fourteen days prior to closing the sale of any new
+3 residence for human habitation, every A developer or builder or their
+4 representatives REPRESENTATIVE shall provide the purchaser with a copy
+5 of a summary report of the analysis and the site recommendations. For
+6 sites in which A SITE WHERE significant potential for expansive soils is
+7 recognized, the builder or his THE BUILDER'S representative shall supply
+8 each buyer with a copy of a publication detailing the problems associated
+9 with such soils, the building methods to address these problems during
+10 construction, and suggestions for care and maintenance to address such
+11 problems.
+12 (3) The requirements of this section shall DO not apply to any
+13 individual constructing a residential structure for his THE INDIVIDUAL'S
+14 own residence.
+15 SECTION 41. In Colorado Revised Statutes, amend 6-10-102 as
+16 follows:
+17 6-10-102. General assignment.
+18 Any person may make a general assignment for the benefit of his
+19 THE PERSON'S creditors by deed duly acknowledged. When filed for
+20 record in the office of the clerk and recorder of the county where the
+21 assignor resides or, if THE ASSIGNOR IS a nonresident, where his THE
+22 ASSIGNOR'S principal place of business is in this state, such deed shall vest
+23 VESTS in the assignee in trust for the use and benefit of such creditors all
+24 the property of the assignor, excepting only such PROPERTY as is by law
+25 not subject to levy and sale under execution, subject, however, to all valid
+26 and subsisting liens.
+27 SECTION 42. In Colorado Revised Statutes, amend 6-10-103 as
+-46- 1426
+
+1 follows:
+2 6-10-103. Inventory - list of creditors.
+3 The AN assignor shall render to such AN assignee within four days
+4 from AFTER the date of said THE assignment an inventory under oath of
+5 his THE ASSIGNOR'S property, to the best of his THE ASSIGNOR'S
+6 knowledge, with INCLUDING the estimated value thereof, and also a OF
+7 THE PROPERTY. THE ASSIGNOR SHALL ALSO RENDER A list of his THE
+8 ASSIGNOR'S creditors, giving INCLUDING their names, residence and
+9 post-office address RESIDENCES, AND POST-OFFICE ADDRESSES, if known,
+10 and the amount of their respective demands. Such THE ASSIGNOR'S
+11 inventory shall not be DEEMED TO BE conclusive of the amount of the
+12 assignor's estate, nor shall the omission of any property from such THE
+13 inventory defeat the assignment or conveyance of the same PROPERTY.
+14 SECTION 43. In Colorado Revised Statutes, amend 6-10-104 as
+15 follows:
+16 6-10-104. Assignment for all creditors.
+17 No such A deed of general assignment of property by an insolvent,
+18 or in contemplation of insolvency, for the benefit of creditors, shall be IS
+19 NOT valid unless by its terms it is made for the benefit of all his THE
+20 INSOLVENT'S creditors in proportion to the amount of their respective
+21 claims.
+22 SECTION 44. In Colorado Revised Statutes, amend 6-10-106 as
+23 follows:
+24 6-10-106. Inventory filed where - bond.
+25 The AN assignee shall file with the clerk of the district court of the
+26 county in which such THE deed of assignment is recorded a true and
+27 complete inventory and valuation of the property of the said assignor,
+-47- 1426
+
+1 under oath, so far as the same PROPERTY has come to his THE ASSIGNEE'S
+2 knowledge, within a period not to exceed six days from AFTER the date of
+3 the filing of the deed of assignment. and THE ASSIGNEE shall ALSO make
+4 and file a bond to the state of Colorado, for the use of the creditors in
+5 double the amount of the inventory and valuation, with sureties to be
+6 approved by such THE clerk for the faithful performance of said THE trust
+7 and for a full and complete accounting for and of all property that may
+8 come into his hands as such assignee. Such THE ASSIGNEE'S POSSESSION.
+9 THE assignee has no authority to SHALL NOT sell or dispose of, or convert
+10 to the purposes of the trust, any part of such THE estate until he THE
+11 ASSIGNEE has complied with the provisions of this section.
+12 SECTION 45. In Colorado Revised Statutes, amend 6-10-107 as
+13 follows:
+14 6-10-107. Assignee an officer of court.
+15 An assignee named and qualified under this article shall be
+16 ARTICLE 10 IS deemed to be an officer of court. Any interference with the
+17 assignee in the discharge of his THE ASSIGNEE'S duties is contempt of
+18 court, and no A suit against the assignee in relation to or concerning the
+19 property assigned shall NOT be instituted against the assignee without first
+20 obtaining UNLESS THE PLAINTIFF FIRST OBTAINS permission of the court
+21 within and for the county in which the assignment is made.
+22 SECTION 46. In Colorado Revised Statutes, amend 6-10-109 as
+23 follows:
+24 6-10-109. Priority of claims - notice.
+25 The AN assignee shall forthwith PROMPTLY give notice of such AN
+26 assignment by publication for four weeks in some A newspaper in the
+27 county, if any, and, if THERE IS none, then in the nearest county. thereto.
+-48- 1426
+
+1 The assignee shall also forthwith PROMPTLY send a notice by mail to each
+2 creditor of whom he shall be informed THE ASSIGNEE IS AWARE, directed
+3 to his THE CREDITOR'S usual place of residence, stating the estimate of the
+4 aggregate value of all the property of the assignor, STATING the estimate
+5 of the amount of his THE ASSIGNOR'S liabilities, and notifying each THE
+6 creditor to present his THE CREDITOR'S claim, under oath, to the assignee
+7 within three months from AFTER the mailing of such THE notice. It is the
+8 duty of each creditor to present his THE CREDITOR'S claim in the manner
+9 and within the time mentioned in the notice. Claims filed within the first
+10 three months shall have priority over those filed thereafter, unless a
+11 creditor can show, to the satisfaction of the court, that he THE CREDITOR
+12 never received the notice. Proof of notice by mail shall be made by
+13 affidavit by the assignee giving a list of creditors and the name of the post
+14 office where notice was sent within ten days after the mailing of the same.
+15 Proof of the notice by publication shall be made by affidavit of the printer
+16 or publisher within ten days after the last publication or no fees shall NOT
+17 be allowed the assignee for such notice by mail or publication.
+18 SECTION 47. In Colorado Revised Statutes, amend 6-10-110 as
+19 follows:
+20 6-10-110. Report of assignee.
+21 At the expiration of three months from AFTER the time of the first
+22 publication and the mailing of notice, the AN assignee shall report and file
+23 with the clerk of the court a true and complete list, under oath, of all the
+24 creditors of the assignor who THAT have filed their claims, the place of
+25 their residence, the amount claimed, and the amount and value, if any, of
+26 any security held by any such creditor. He THE ASSIGNEE shall also file a
+27 statement of all his THE ASSIGNEE'S proceedings with reference to the
+-49- 1426
+
+1 trust, showing what money has come into his hands THE ASSIGNEE'S
+2 POSSESSION and all the disbursements thereof OF SUCH MONEY.
+3 SECTION 48. In Colorado Revised Statutes, amend 6-10-111 as
+4 follows:
+5 6-10-111. Exceptions to claims - hearing.
+6 Any INTERESTED person interested may appear before a dividend
+7 is made and file with the clerk any exceptions AN EXCEPTION to the A
+8 claim or A demand of any A creditor. The clerk shall immediately cause
+9 notice thereof OF THE EXCEPTION OR DEMAND to be given to the creditor,
+10 which NOTICE shall be served and returned as in the case of a summons.
+11 Within the time allowed to answer in an action at law, the creditor shall
+12 file his THE CREDITOR'S reply. The court shall designate the time for the
+13 hearing and shall at such time hear the allegations and proof offered and
+14 shall render a just judgment. thereon.
+15 SECTION 49. In Colorado Revised Statutes, amend 6-10-112 as
+16 follows:
+17 6-10-112. Judgment - fee of assignee.
+18 If no AN exception is NOT made to a claim filed, or if the A claim
+19 has been favorably adjudicated, the court shall enter judgment in favor of
+20 the creditor and against the assignor for the amount claimed and found
+21 due and order the assignee to make from time to time fair and equal
+22 dividends among the creditors of the assets in his hands THE ASSIGNEE'S
+23 POSSESSION, in proportion to their respective claims, and, as soon as may
+24 be, to render a full account of said THE trust to the court. The court may
+25 allow such compensation or commissions, following as nearly as possible
+26 the compensation allowed executors for like services, as may be just and
+27 right.
+-50- 1426
+
+1 SECTION 50. In Colorado Revised Statutes, amend 6-10-116 as
+2 follows:
+3 6-10-116. Assignee under supervision of court.
+4 The AN assignee shall be IS subject to the order and supervision of
+5 the court at all times and, by citation or attachment, may be compelled,
+6 from time to time, to file reports of his THE ASSIGNEE'S proceedings and
+7 the situation and condition of the trust and to proceed in the faithful
+8 execution of the duties required by this article, ARTICLE 10 to keep correct
+9 books of account open to the inspection of BY the court, or BY any person
+10 or his attorney interested in said THE estate, All conveyances OR BY SUCH
+11 PERSON'S ATTORNEY. A CONVEYANCE of real estate and all sales OR A
+12 SALE of personal property by the assignee THAT IS not in the usual course
+13 of business, as conducted by the assignor, shall MUST be approved by the
+14 court before such THE CONVEYANCE OR sale shall be IS valid.
+15 SECTION 51. In Colorado Revised Statutes, amend 6-10-117 as
+16 follows:
+17 6-10-117. Assignee appointed by court - when.
+18 If the AN assignee named in the deed fails or neglects to file an
+19 inventory and valuation and give bond for the period of ten days after the
+20 making of any AN assignment, or if he THE ASSIGNEE dies before the
+21 closing of his THE ASSIGNEE'S trust or is removed from the execution of
+22 the trust, the court upon the application of any person interested may
+23 appoint an assignee to execute such THE trust. Such appointee, When he
+24 AN APPOINTED ASSIGNEE has qualified as provided in this article shall
+25 have ARTICLE 10, THE APPOINTED ASSIGNEE HAS all the rights, powers,
+26 and authority and be IS subject to the same restrictions and obligations as
+27 an original assignee.
+-51- 1426
+
+1 SECTION 52. In Colorado Revised Statutes, amend 6-10-119 as
+2 follows:
+3 6-10-119. Powers of assignee.
+4 The AN assignee has all the rights, power, and authority of the
+5 assignor necessary to fully execute such THE trust, to demand and sue for
+6 any property belonging to such THE estate, and to execute valid receipts.
+7 and THE ASSIGNEE, by deed duly acknowledged by him THE ASSIGNEE, in
+8 his THE ASSIGNEE'S own name, as assignee, may convey any of the estate,
+9 real and personal, subject to approval as stated in section 6-10-116.
+10 Where the assignee has been appointed by the court in place of an
+11 assignee removed, it shall be his IS THE ASSIGNEE'S duty to compel by suit,
+12 or the peremptory order of the court, the delivery of the trust estate and
+13 the property, or the value thereof, that has been wasted or misapplied by
+14 the previous assignee.
+15 SECTION 53. In Colorado Revised Statutes, amend 6-10-121 as
+16 follows:
+17 6-10-121. Additional security - when.
+18 The AN assignee, from time to time, shall file with the clerk of the
+19 court an inventory and valuation of any additional property which may
+20 come THAT COMES into his hands THE ASSIGNEE'S POSSESSION after the
+21 first inventory, and the judge, or, in his THE JUDGE'S absence, the clerk,
+22 may thereupon require the assignee to give additional security.
+23 SECTION 54. In Colorado Revised Statutes, amend 6-10-122 as
+24 follows:
+25 6-10-122. Appearance compelled - when.
+26 The court, upon the application of the AN assignee, or of any
+27 creditor, may compel the appearance in person of the debtor, or any other
+-52- 1426
+
+1 witness, before the court, or a commissioner appointed by the court, at
+2 any time designated, to answer under oath such matters as may be
+3 inquired of him. Such THE DEBTOR OR OTHER WITNESS. THE debtor or
+4 other witness may then be fully examined under oath as to the amount and
+5 situation of his THE DEBTOR'S OR OTHER WITNESS'S property, the payments
+6 and conveyances made by him THE DEBTOR OR OTHER WITNESS, and the
+7 names and places of residence of creditors and the amounts due to each.
+8 The court, upon like application, may compel the debtor to deliver to the
+9 assignee any property or estate embraced in the assignment.
+10 SECTION 55. In Colorado Revised Statutes, amend 6-10-123 as
+11 follows:
+12 6-10-123. Misappropriation by debtor.
+13 No AN assignment shall be IS NOT invalid because of
+14 misappropriation of the property of the debtor by him THE DEBTOR prior
+15 to the assignment, but the assignee may recover such THE property if so
+16 IT WAS misappropriated in fraud of this article ARTICLE 10. Nothing in this
+17 article shall invalidate ARTICLE 10 INVALIDATES any conveyance or
+18 mortgage of property, real or personal, by the debtor before the
+19 assignment, made in good faith, for a valid and valuable consideration.
+20 SECTION 56. In Colorado Revised Statutes, amend 6-10-125 as
+21 follows:
+22 6-10-125. Creditors may appoint an attorney.
+23 The majority in number and value of the creditors may appoint, in
+24 writing, an attorney-at-law ATTORNEY to represent the estate before the
+25 court. The attorney, if appointed, shall examine all reports and inventories
+26 and books of the assignee and inquire fully as to the conduct of the
+27 assignee in the discharge of his THE ASSIGNEE'S trust. He THE ATTORNEY
+-53- 1426
+
+1 may appear for the assignee in all suits in behalf of the assignee in
+2 securing, preserving, or defending the estate, but THE ATTORNEY shall
+3 appear in behalf of the creditors in all suits, examinations, or inquiries as
+4 to the accounts or the conduct of the assignee concerning the estate. The
+5 court may allow such compensation to the attorney as may be just and
+6 reasonable.
+7 SECTION 57. In Colorado Revised Statutes, amend 6-10-128 as
+8 follows:
+9 6-10-128. Trust closed in one year.
+10 The AN assignee shall close his THE ASSIGNEE'S trust within one
+11 year from AFTER the filing of the deed of assignment unless the court, for
+12 good cause shown, extends the time.
+13 SECTION 58. In Colorado Revised Statutes, amend 6-10-131 as
+14 follows:
+15 6-10-131. Action on bond of assignee.
+16 Any A creditor may maintain an action on the bond of the AN
+17 assignee for any damages such THE creditor may have sustained by reason
+18 of THE assignee's acts or his THE ASSIGNEE'S failure to act.
+19 SECTION 59. In Colorado Revised Statutes, amend 6-10-154 as
+20 follows:
+21 6-10-154. Disposition of property when no market.
+22 (1) When any difficulty is encountered by the AN assignee in
+23 converting the assigned property of any AN assignment, or any part
+24 thereof, into cash on account of there being no sufficient market therefor
+25 FOR THE PROPERTY, or for any other good reason, the court may direct by
+26 such order as described in section 6-10-153 the distribution of such THE
+27 property in kind among the creditors electing to take property. Creditors
+-54- 1426
+
+1 not electing to take property shall be paid an equal pro rata in cash, fixing
+2 by appraisement or sworn evidence in courts such price or value upon
+3 each piece, parcel, or item of property as shall make it bear and pay its
+4 proportion of the entire indebtedness of the estate, and as shall be IS just
+5 and equitable between the assignor and the creditors and all persons
+6 interested in the assigned estate.
+7 (2) When the court authorizes the assignee to exchange such THE
+8 property in payment of the proved indebtedness of the estate at the prices
+9 so fixed AS DESCRIBED IN SUBSECTION (1) OF THIS SECTION, and when, in
+10 the opinion of the court, the best interests of the estate are promoted
+11 thereby, it THE COURT may order the assignee to first offer such THE
+12 property at public auction. and, in that case, it IN SUCH CASE, THE COURT
+13 shall provide by its order the kind and form of notice to be given of such
+14 THE sale. The assignee at such THE sale shall offer and sell the property
+15 to the highest and best bidder therefor in proved accounts against the
+16 estate, and he THE ASSIGNEE shall not accept any bid lower than the price
+17 fixed by the court on the property. so offered.
+18 SECTION 60. In Colorado Revised Statutes, 6-12-104, amend
+19 (2), (3), and (5) as follows:
+20 6-12-104. Enforcement.
+21 (2) If the attorney general has reasonable cause to believe that a
+22 person has engaged in an act that is subject to this article ARTICLE 12, the
+23 attorney general may make an investigation to determine if the act has
+24 been committed, and, to the extent necessary for this purpose, may
+25 administer oaths or affirmations, and, upon his or her THE ATTORNEY
+26 GENERAL'S own motion or upon request of any party, may subpoena
+27 witnesses and compel their attendance, adduce evidence, and require the
+-55- 1426
+
+1 production of any matter that is relevant to the investigation, including the
+2 existence, description, nature, custody, condition, and location of any
+3 books, documents, or other tangible things and the identity and location
+4 of persons having knowledge of relevant facts, or any other matter
+5 reasonably calculated to lead to the discovery of admissible evidence. In
+6 any civil action brought by the attorney general as a result of such an
+7 investigation, the attorney general may recover the reasonable costs of
+8 making the investigation if the attorney general prevails in the action.
+9 (3) If the A person's records are located outside this state, the
+10 person at his or her option shall either make them available to the attorney
+11 general at a convenient location within this state or pay the reasonable
+12 and necessary expenses for the attorney general or the attorney general's
+13 representative to examine them at the place where they are maintained.
+14 The attorney general may designate representatives, including comparable
+15 officials of the state in which the records are located, to inspect them on
+16 the attorney general's behalf.
+17 (5) The attorney general shall not make public the name or
+18 identity of a person whose acts or conduct he or she THE ATTORNEY
+19 GENERAL investigates pursuant to this section or the facts disclosed in the
+20 investigation, but this subsection (5) does not apply to disclosures in
+21 actions or enforcement proceedings pursuant to this article ARTICLE 12.
+22 SECTION 61. In Colorado Revised Statutes, 6-13-104, amend
+23 (3) as follows:
+24 6-13-104. Violations - penalties.
+25 (3) A proprietor shall not bring a counterclaim against any party
+26 except the original complainant, and, if such A complainant is a
+27 performing rights society, A PROPRIETOR SHALL NOT BRING a counterclaim
+-56- 1426
+
+1 shall not be brought against any copyright owner in his or her THE
+2 COPYRIGHT OWNER'S individual capacity.
+3 SECTION 62. In Colorado Revised Statutes, 6-15-102, amend
+4 (1) introductory portion, (2), and (4) as follows:
+5 6-15-102. Art dealers and artists - consignment of works of
+6 fine art.
+7 (1) Notwithstanding any custom, practice, or usage of the trade
+8 and OR any of the provisions PROVISION of section 4-2-326 C.R.S., to the
+9 contrary, whenever an artist delivers or causes to be delivered a work of
+10 fine art of his THE ARTIST'S own creation to an art dealer for the purpose
+11 of exhibition or sale on a commission, fee, or other basis of
+12 compensation, the delivery to and acceptance thereof OF THE WORK by the
+13 art dealer is deemed to place the work on consignment and:
+14 (2) Notwithstanding the subsequent purchase of a work of fine art
+15 by the A consignee directly or indirectly for his THE CONSIGNEE'S own
+16 account, the A work initially received on consignment shall be IS deemed
+17 to remain trust property until the price is paid in full to the consignor. If
+18 such THE work is thereafter resold to a bona fide third party before the
+19 consignor has been paid in full, the proceeds of the resale are trust funds
+20 in the hands POSSESSION of the consignee for the benefit of the consignor
+21 to the extent necessary to pay any balance still due to the consignor, and
+22 such THE trusteeship shall continue CONTINUES until the fiduciary
+23 obligation of the consignee with respect to such THE transaction is
+24 discharged in full.
+25 (4) An art dealer is strictly liable for the loss of or damage to a
+26 work of fine art while it is in his THE ART DEALER'S possession. The value
+27 of the work of fine art is, for the purposes of this subsection (4), the value
+-57- 1426
+
+1 established in a written agreement between the artist and the art dealer
+2 prior to the loss or damage of the work.
+3 SECTION 63. In Colorado Revised Statutes, amend 6-15-208 as
+4 follows:
+5 6-15-208. Right of action - damages.
+6 In addition to any judicial relief, any A person who THAT suffers
+7 financial injury or damages by reason of anything forbidden ANY ACT OR
+8 OMISSION PROHIBITED in this part 2 may sue in district court and may FILE
+9 A CIVIL ACTION TO recover actual damages sustained by him or her THE
+10 PERSON and the cost of suit THE ACTION, including reasonable attorney
+11 fees.
+12 SECTION 64. In Colorado Revised Statutes, 6-16-103, amend
+13 the introductory portion and (7) introductory portion as follows:
+14 6-16-103. Definitions.
+15 As used in this article ARTICLE 16, unless the context otherwise
+16 requires:
+17 (7) "Paid solicitor" means a person who, for monetary
+18 compensation, performs any service in which contributions will be
+19 solicited in this state by such THE compensated person or by any
+20 compensated OTHER person he or she THAT THE COMPENSATED PERSON
+21 employs, procures, or engages to solicit for contributions IN EXCHANGE
+22 FOR COMPENSATION. The following persons are not "paid solicitors":
+23 SECTION 65. In Colorado Revised Statutes, 6-16-104.6, amend
+24 (7) introductory portion and (7)(i) as follows:
+25 6-16-104.6. Paid solicitors - annual registration - filing of
+26 contracts - fees.
+27 (7) No later than fifteen days before the commencement of a
+-58- 1426
+
+1 solicitation campaign, the A paid solicitor shall file with the secretary of
+2 state a completed solicitation notice, on forms prescribed by the secretary
+3 of state, containing the following information:
+4 (i) A certification statement, signed and affirmed under penalty of
+5 perjury as defined in section 18-8-503 by an officer of the charitable
+6 organization on the behalf of whom the solicitation campaign is to occur,
+7 stating that the solicitation notice and accompanying material are true and
+8 complete to the best of his or her THE OFFICER'S knowledge.
+9 SECTION 66. In Colorado Revised Statutes, 6-16-106, amend
+10 (1) introductory portion and (4) as follows:
+11 6-16-106. Contributor's right to cancel.
+12 (1) In addition to any right otherwise provided by law with respect
+13 to the binding nature of an agreement or pledge to make a charitable
+14 contribution, a contributor shall have the right to MAY cancel his THE
+15 CONTRIBUTOR'S agreement or pledge to contribute as follows:
+16 (4) A particular form shall IS not be required for a notice of
+17 cancellation, and such A notice shall be IS sufficient if it indicates the
+18 intention of the contributor to cancel his THE CONTRIBUTOR'S pledge to
+19 contribute.
+20 SECTION 67. In Colorado Revised Statutes, 6-16-111, amend
+21 (1) introductory portion, (1)(d), (1)(e), (1.5) introductory portion, (1.5)(a),
+22 and (1.5)(b) as follows:
+23 6-16-111. Violations - rules.
+24 (1) A person commits charitable fraud if he or she THE PERSON:
+25 (d) With the intent to defraud, knowingly solicits contributions
+26 and, in aid of such solicitation, assumes, or allows to be assumed, a false
+27 or fictitious identity or capacity, except for a trade name or trademark
+-59- 1426
+
+1 registered in this state by that person or his THE PERSON'S employer;
+2 (e) Knowingly fails to create and maintain all records required by
+3 section 6-16-109 to be created and maintained or knowingly fails to make
+4 available said SUCH records for examination and photocopying at the
+5 office of the district attorney or at his THE PERSON'S own office in this
+6 state, with copying facilities furnished free of charge, within five days
+7 after a written demand for the production of said THE records by the
+8 district attorney or within twenty days with respect to records kept out of
+9 state;
+10 (1.5) A person commits charitable fraud if, he or she, in the course
+11 of or in furtherance of a solicitation, THE PERSON misrepresents to,
+12 misleads, makes false statements to, or uses a name other than the
+13 solicitor's legal name in communicating with a person being solicited in
+14 any manner that would lead a reasonable person to believe that:
+15 (a) If the person being solicited makes a contribution, he or she
+16 THE PERSON will receive special benefits or favorable treatment from a
+17 police, sheriff, patrol, firefighting, or other law enforcement agency or
+18 department of government;
+19 (b) If the person being solicited fails to make a contribution, he or
+20 she THE PERSON will receive unfavorable treatment from a police, sheriff,
+21 patrol, firefighting, or other law enforcement agency or department of
+22 government; or
+23 SECTION 68. In Colorado Revised Statutes, 6-16-112, amend
+24 (1) as follows:
+25 6-16-112. Address of record - service of process.
+26 (1) Any A person required under this article 16 to register with the
+27 secretary of state shall, in his or her THE PERSON'S initial registration or
+-60- 1426
+
+1 application and in every renewal, provide an address of record. Unless the
+2 registrant designates an alternative address, the address of record is the
+3 registrant's principal place of business.
+4 SECTION 69. In Colorado Revised Statutes, 6-19-203, amend
+5 (1) and (2) introductory portion as follows:
+6 6-19-203. Attorney general review and assessment.
+7 (1) A covered transaction DESCRIBED under this part 2 that will
+8 not result in a material change in the charitable purposes, CHARITABLE
+9 MISSIONS, OR SERVICES to which the assets of the hospital have been
+10 dedicated, and will not result in a termination of the attorney general's
+11 jurisdiction over those assets caused by a transfer of a material amount of
+12 those assets outside of the state, of Colorado, shall proceed without
+13 further review. In considering whether a material change results from the
+14 transaction, the attorney general shall consider, among other factors,
+15 reductions in the availability and accessibility of health-care services in
+16 the communities served by the hospital.
+17 (2) When a transaction covered by this part 2 will result in a
+18 material change in the charitable purposes to which the assets of the A
+19 hospital have been dedicated or a termination of the attorney general's
+20 jurisdiction over the hospital assets caused by a transfer of a material
+21 amount of those assets outside the state of Colorado, the attorney general
+22 may exercise his or her THE ATTORNEY GENERAL'S common law authority
+23 to assess and review or challenge the transaction as deemed appropriate
+24 by the attorney general. If the attorney general decides to conduct an
+25 assessment or review, the following provisions shall apply to such actions
+26 of the attorney general:
+27 SECTION 70. In Colorado Revised Statutes, 6-19-406, amend
+-61- 1426
+
+1 (1)(g) as follows:
+2 6-19-406. Attorney general powers.
+3 (1) The attorney general has the following powers:
+4 (g) To hold a hearing after twenty days' notice to the affected
+5 parties if the attorney general receives information that the attorney
+6 general deems sufficient to indicate that the A nonprofit charitable
+7 organization or for-profit entity may not be fulfilling its obligations
+8 pursuant to section 6-19-403. If, after such A hearing, the attorney general
+9 determines that proof of the noncompliance is probable, he or she THE
+10 ATTORNEY GENERAL shall institute proceedings in district court to require
+11 corrective action. The attorney general shall retain oversight of the
+12 corrective action for as long as necessary to ensure compliance. Nothing
+13 in this section shall be construed to limit the attorney general's power to
+14 enforce compliance with this section after the expiration of the five-year
+15 period contemplated by paragraph (f) of this subsection (1) SUBSECTION
+16 (1)(f) OF THIS SECTION.
+17 SECTION 71. In Colorado Revised Statutes, amend 6-20-101 as
+18 follows:
+19 6-20-101. Provider disclosure of average charge.
+20 (1) Each hospital licensed or certified pursuant to section
+21 25-1.5-103 (1)(a) C.R.S., shall disclose to a person AN INDIVIDUAL
+22 seeking care or treatment his or her THE INDIVIDUAL'S right to receive
+23 notice of the average facility charge for such treatment that is a frequently
+24 performed inpatient procedure prior to admission for such procedure;
+25 except that A HOSPITAL IS NOT REQUIRED TO DISCLOSE THE POTENTIAL
+26 COSTS FOR care or treatment for an emergency need not be disclosed prior
+27 to such emergency care or treatment. When requested, AN INDIVIDUAL
+-62- 1426
+
+1 REQUESTS the average charge information shall be made available to the
+2 person prior to admission for such A procedure, THE HOSPITAL SHALL
+3 MAKE THE INFORMATION AVAILABLE TO THE INDIVIDUAL.
+4 (2) Other health facilities licensed or certified pursuant to section
+5 25-1.5-103 (1)(a) C.R.S., shall disclose to a person AN INDIVIDUAL
+6 seeking care or treatment his or her THE INDIVIDUAL'S right to receive
+7 notice of the average facility charge for such treatment that is a frequently
+8 performed procedure prior to ordering or scheduling such procedure;
+9 except that A HEALTH FACILITY IS NOT REQUIRED TO DISCLOSE THE
+10 POTENTIAL COSTS FOR care or treatment for an emergency need not be
+11 disclosed prior to such emergency care or treatment. When requested,
+12 such AN INDIVIDUAL REQUESTS THE average charge information shall be
+13 made available to the person prior to the scheduling of the A procedure,
+14 THE HEALTH FACILITY SHALL MAKE THE INFORMATION AVAILABLE TO THE
+15 INDIVIDUAL.
+16 SECTION 72. In Colorado Revised Statutes, 6-22-103, amend
+17 (1) introductory portion as follows:
+18 6-22-103. Contracts for roofing services - writing required -
+19 required terms.
+20 (1) Prior to engaging in any roofing work, a roofing contractor
+21 shall provide a written contract to the property owner, signed by both the
+22 roofing contractor or his or her THE ROOFING CONTRACTOR'S designee and
+23 the property owner, stating at least the following terms:
+24 SECTION 73. In Colorado Revised Statutes, 6-22-104, amend
+25 (1)(b) introductory portion as follows:
+26 6-22-104. Residential roofing contract - payment from
+27 insurance proceeds - right to rescind - return of payments.
+-63- 1426
+
+1 (1) (b) The property owner shall give written notice of rescission
+2 of the contract to the roofing contractor at the physical address provided
+3 in the contract within seventy-two hours after he or she THE PROPERTY
+4 OWNER is notified of the denial. The property owner may give notice of
+5 rescission of the contract:
+6 SECTION 74. In Colorado Revised Statutes, 6-23-101, amend
+7 (1)(a) as follows:
+8 6-23-101. Definitions.
+9 As used in this section:
+10 (1) "Direct primary care agreement" means a written agreement
+11 that:
+12 (a) Is between a patient, his or her THE PATIENT'S legal
+13 representative, a government entity, or a patient's employer and a direct
+14 primary health-care provider;
+15 SECTION 75. In Colorado Revised Statutes, 6-24-106, amend
+16 (6) as follows:
+17 6-24-106. Endowment care fund.
+18 (6) The cemetery authority of an endowment care cemetery shall
+19 keep in its principal office a copy of the report referred to in section
+20 6-24-107, which AND THE CEMETERY AUTHORITY shall be MAKE A COPY
+21 OF THE REPORT available to any grave space, niche, or crypt owner or his
+22 or her ANY SUCH PERSON'S duly authorized representative for inspection
+23 and study.
+24 SECTION 76. In Colorado Revised Statutes, amend 6-25-101 as
+25 follows:
+26 6-25-101. Definitions - evidence of intent.
+27 (1) As used in this part 1, unless the context otherwise requires:
+-64- 1426
+
+1 (1) (a) "Agreement with the public establishment" means any
+2 written or verbal agreement as to the price to be charged for, and the
+3 acceptance of, food, beverage, service, or accommodations where the
+4 price to be charged therefor is printed on a menu or schedule of rates
+5 shown to or made available by a public establishment to the patron and
+6 includes the acceptance of the food, beverage, service, or
+7 accommodations for which a reasonable charge is made.
+8 (2) Repealed.
+9 (3) (b) "Public establishment" means any AN establishment selling
+10 or offering for sale prepared food or beverages to the public generally or
+11 any establishment leasing or renting overnight sleeping accommodations
+12 to the public generally, including, but not exclusively, restaurants, cafes,
+13 dining rooms, lunch counters, coffee shops, boarding houses, hotels,
+14 motor hotels, motels, and rooming houses A RESTAURANT, CAFE, DINING
+15 ROOM, LUNCH COUNTER, COFFEE SHOP, BOARDING HOUSE, HOTEL, MOTOR
+16 HOTEL, MOTEL, OR ROOMING HOUSE, unless the rental thereof is on a
+17 month-to-month basis or a longer period of time.
+18 (4) (2) It shall be IS evidence of an intent to defraud that food,
+19 service, or accommodations were given to any A person who gave false
+20 information concerning his or her THE PERSON'S name or address, or both,
+21 in obtaining the food, service, or accommodations or that the person
+22 removed or attempted to remove his or her THE PERSON'S baggage from
+23 the premises of the public establishment without giving notice of his or
+24 her THE PERSON'S intent to do so to the public establishment. These
+25 provisions shall THIS SUBSECTION (2) DOES not constitute the sole means
+26 of establishing evidence that a person accused under this part 1 had an
+27 intent to defraud. Proof of intent to defraud may be made by any facts or
+-65- 1426
+
+1 circumstances sufficient to establish the intent to defraud beyond a
+2 reasonable doubt as provided by law.
+3 (5) (3) If any person, partnership, or corporation shall by written
+4 or verbal complaint or otherwise institute or cause INSTITUTES OR CAUSES
+5 to be instituted any A prosecution for any A violation of this section and
+6 shall thereafter, REGARDLESS OF whether or not restitution is sought or
+7 received from the alleged offender, fail FAILS to cooperate in the full
+8 prosecution of the alleged offender without reasonable cause, the court
+9 having jurisdiction, on motion of the prosecuting attorney appearing
+10 therein and after notice to the person, partnership, or corporation and an
+11 opportunity to be heard, may give judgment against the person,
+12 partnership, or corporation and in favor of the county wherein prosecution
+13 was commenced for all costs of the prosecution, including a reasonable
+14 allowance for the time of the prosecuting attorney.
+15 SECTION 77. In Colorado Revised Statutes, amend 6-25-106 as
+16 follows:
+17 6-25-106. Safe for valuables - notice.
+18 Every A landlord or keeper of a hotel or public inn
+19 ESTABLISHMENT in this state who provides in the office of his or her THE
+20 hotel, inn ESTABLISHMENT, or other convenient place a safe, vault, or
+21 other suitable receptacle for the secure custody of money, jewelry,
+22 ornaments, or other valuable articles other than necessary baggage
+23 belonging to the guests or patrons of the hotel or public inn
+24 ESTABLISHMENT, and who keeps posted in a public and conspicuous place
+25 in the office, public room, and public parlors of the hotel or public inn,
+26 ESTABLISHMENT and upon the inside entrance door of every public
+27 sleeping room in the hotel or public inn ESTABLISHMENT a notice printed
+-66- 1426
+
+1 in English stating the fact, shall IS not be liable for the loss of any money,
+2 jewelry, ornaments, or other valuable articles, other than necessary
+3 baggage, sustained by the guest or patron by theft or otherwise, unless the
+4 guest or patron delivers the money, jewelry, ornaments, or other valuable
+5 articles, other than necessary baggage, to the landlord or keeper of the
+6 hotel or public inn ESTABLISHMENT, or person in charge of the office of
+7 the hotel or public inn ESTABLISHMENT, for deposit in the safe, vault, or
+8 other receptacle. The liability shall not be greater than the amount at the
+9 time of deposit declared by the guest or patron to be the value of the
+10 article deposited.
+11 SECTION 78. In Colorado Revised Statutes, amend 6-25-107 as
+12 follows:
+13 6-25-107. Maximum amount landlord bound to receive.
+14 No A landlord or keeper of any A hotel or public inn
+15 ESTABLISHMENT is obliged NOT REQUIRED to receive property from any
+16 A guest or patron for custody under the provisions of section 6-25-106
+17 exceeding in value the sum of five thousand dollars, nor is he or she THE
+18 LANDLORD OR KEEPER liable for any loss thereof by theft or otherwise in
+19 any sum exceeding the sum of five thousand dollars, unless the landlord
+20 or keeper of the hotel or public inn ESTABLISHMENT, or person in charge
+21 of the office, assumes in writing a greater liability.
+22 SECTION 79. In Colorado Revised Statutes, amend 6-25-108 as
+23 follows:
+24 6-25-108. Landlord not responsible - when.
+25 (1) The landlord or keeper of any A hotel or public inn shall
+26 ESTABLISHMENT IS not be liable to any A guest or patron of the hotel or
+27 public inn ESTABLISHMENT for the loss within his or her THE hotel or
+-67- 1426
+
+1 public inn ESTABLISHMENT of any article of wearing apparel or other
+2 necessary baggage belonging to any THE guest or patron unless the same
+3 had been ARTICLE OR BAGGAGE WAS:
+4 (a) Left within a room assigned to the guest or patron; or had been
+5 (b) Especially entrusted to the care or custody of the landlord or
+6 keeper of the hotel or public inn, or to an employee or servant thereof
+7 entrusted with the duty of receiving or caring for the article OR BAGGAGE
+8 in the hotel or public inn ESTABLISHMENT.
+9 SECTION 80. In Colorado Revised Statutes, amend 6-25-109 as
+10 follows:
+11 6-25-109. Responsibility when key furnished.
+12 (1) When the landlord or keeper of any A hotel or public inn
+13 ESTABLISHMENT provides the doors of the rooms or sleeping apartments
+14 in the hotel or public inn ESTABLISHMENT with locks and keys in good
+15 order and repair and the room or sleeping apartment is turned over to the
+16 possession of any guest or patron together with the key KEYS to the door
+17 thereof DOORS, the landlord or keeper of the hotel or public inn shall IS
+18 not be liable to any A guest or patron thereof occupying the room or
+19 apartment for loss of any AN article of personal property left within the
+20 room or apartment by the guest or patron while in possession thereof OF
+21 THE KEYS, unless the door in DOORS TO the room or apartment was WERE
+22 left locked when unoccupied and after being locked THEREAFTER the key
+23 thereto was KEYS WERE delivered to the person in charge of the office of
+24 the hotel or public inn ESTABLISHMENT.
+25 (2) If any AN article of personal property is taken by an employee
+26 or servant of the landlord or keeper of the hotel or public inn
+27 ESTABLISHMENT, then the provisions of this section shall DOES not
+-68- 1426
+
+1 prevent the guest or patron from recovering the value of the article, not
+2 to exceed the sum of two hundred dollars for all the SUCH articles.
+3 SECTION 81. In Colorado Revised Statutes, amend 6-25-110 as
+4 follows:
+5 6-25-110. Maximum liability for articles lost from rooms.
+6 The landlord or keeper of any A hotel or public inn shall
+7 ESTABLISHMENT IS not be liable for the loss of any AN article left by any
+8 A guest or patron in any A room assigned to or occupied by the guest or
+9 patron, greater IN VALUE, in any event, than the sum of two hundred
+10 dollars for all articles that may be lost by the guest or patron, except by
+11 an agreement in writing made by the landlord or keeper of the hotel or
+12 public inn ESTABLISHMENT, or person in charge of the office, assuming
+13 a greater liability.
+14 SECTION 82. In Colorado Revised Statutes, amend 6-25-111 as
+15 follows:
+16 6-25-111. Liability for baggage left by guest.
+17 In case any person IF AN INDIVIDUAL who has been the guest or
+18 patron of any A hotel or public inn ESTABLISHMENT ceases to be a guest
+19 or patron and leaves with the landlord or keeper of the hotel or public inn
+20 ESTABLISHMENT any baggage or other personal property for safekeeping,
+21 and the landlord or keeper accepts and receives the same for safekeeping
+22 and makes no charge for services or storage in keeping the property, then
+23 the landlord or keeper of a hotel or public inn shall be IS liable only as a
+24 gratuitous bailee and, as such, shall be IS liable for no sum greater than
+25 fifty dollars.
+26 SECTION 83. In Colorado Revised Statutes, amend 6-25-112 as
+27 follows:
+-69- 1426
+
+1 6-25-112. Liability in case of fire or accident.
+2 The landlord or keeper of any A hotel or public inn shall
+3 ESTABLISHMENT IS not be liable for loss of or damage to the property of
+4 any A guest or patron of the hotel or public inn ESTABLISHMENT by fire or
+5 by any unforeseen causes CAUSE or by inevitable accident unless the loss
+6 or damage occurs on account of his or her THE LANDLORD'S OR KEEPER'S
+7 negligence or the negligence of his or her servants or employees THE
+8 LANDLORD'S OR KEEPER'S EMPLOYEE.
+9 SECTION 84. In Colorado Revised Statutes, amend 6-25-113 as
+10 follows:
+11 6-25-113. Liability limited to damages.
+12 None of the provisions of Sections 6-25-106 to 6-25-113 shall NOT
+13 be construed to render the landlord or keeper of a hotel or public inn
+14 ESTABLISHMENT in this state liable in a greater sum than the actual loss or
+15 damage sustained.
+16 SECTION 85. In Colorado Revised Statutes, 6-25-201, amend
+17 (2) as follows:
+18 6-25-201. Definitions.
+19 As used in this part 2, unless the context otherwise requires:
+20 (2) "Lodging establishment" means a bed and breakfast, as
+21 defined in section 44-3-103 (4), or a hotel, motel, resort, or public inn
+22 ESTABLISHMENT, as defined in section 6-25-101 (3) SECTION 6-25-101
+23 (1)(b).
+24 SECTION 86. In Colorado Revised Statutes, 6-25-202, amend
+25 (1) introductory portion and (1)(b) as follows:
+26 6-25-202. Innkeepers' right to refuse accommodations -
+27 exceptions.
+-70- 1426
+
+1 (1) An innkeeper has the right to MAY refuse or deny
+2 accommodations, facilities, and the privileges of a lodging establishment
+3 to any person who THAT is not willing or able to pay for the
+4 accommodations, facilities, and services. The AN innkeeper shall have the
+5 right to MAY require a prospective guest to demonstrate his or her THE
+6 ability to pay by cash, valid credit card, or a validated check, and, if the
+7 prospective guest is a minor, the innkeeper may require a parent or legal
+8 guardian of the minor or other responsible adult:
+9 (b) To provide an advance cash payment to cover the cost of the
+10 guest room for all nights reserved, including applicable taxes, plus a cash
+11 deposit to be held toward the payment of any charges made by the minor
+12 and any damages to the guest room or its furnishings. The cash deposit
+13 shall be refunded, unless applied to charges or damages, following a joint
+14 inspection of the room. It is the obligation of the guest to join the
+15 innkeeper during the inspection. Should IF the guest fail FAILS to join the
+16 innkeeper, the guest thereby waives his or her THE right to the joint
+17 inspection. The refund, if any, shall immediately be made to the extent it
+18 is not used to cover the described charges or damages.
+19 SECTION 87. In Colorado Revised Statutes, 12-10-403, amend
+20 (2) as follows:
+21 12-10-403. Relationships between brokers and the public -
+22 definition - rules.
+23 (2) A broker shall be considered a transaction-broker unless a
+24 single agency relationship is established ESTABLISH EITHER A
+25 TRANSACTION-BROKER OR A SINGLE-AGENCY RELATIONSHIP through a
+26 written agreement between the broker and the party or parties to be
+27 represented by the broker. SUCH WRITTEN AGREEMENT MUST SPECIFY AND
+-71- 1426
+
+1 CONSPICUOUSLY DISCLOSE THE AMOUNT OR RATE OF ANY COMPENSATION
+2 TO BE PAID TO THE BROKER, AND THE BROKER SHALL COMPLETE SUCH
+3 WRITTEN AGREEMENT BEFORE PERFORMING ANY ACTIVITIES DESCRIBED IN
+4 SECTION 12-10-201 (6)(a).
+5 SECTION 88. In Colorado Revised Statutes, 12-10-403.5,
+6 amend (3) as follows:
+7 12-10-403.5. Broker engagement contracts - residential
+8 premises - prohibited terms - unfair or deceptive trade practice -
+9 definition.
+10 (3) A person who THAT offers to a consumer a broker engagement
+11 contract that includes a provision in violation of subsection (2) of this
+12 section commits an unfair or deceptive trade practice, as provided in
+13 section 6-1-105 (1)(uuu) SECTION 6-1-105 (1)(rrr).
+14 SECTION 89. In Colorado Revised Statutes, add 12-10-408.5 as
+15 follows:
+16 12-10-408.5. Non-commission-approved contracts to buy and
+17 sell - broker's duty to advise consumer to seek legal advice.
+18 WHEN A BROKER IS REPRESENTING A CONSUMER IN A TRANSACTION
+19 FOR WHICH A PRINCIPAL TO THE TRANSACTION, INCLUDING A HOME
+20 BUILDER, A BANK, OR A BUYER, REQUIRES THE USE OF A PURCHASE
+21 CONTRACT THAT WAS CREATED BY THE PRINCIPAL, THE BROKER SHALL
+22 ADVISE THE CONSUMER TO SEEK LEGAL ADVICE FROM A LICENSED
+23 ATTORNEY BEFORE THE CONSUMER ENTERS INTO THE PURCHASE
+24 CONTRACT. IF A BROKER CONTRACT INCLUDES A UNILATERAL
+25 CANCELLATION CLAUSE IN FAVOR OF THE BROKER, THAT PROVISION MUST
+26 BE CLEARLY AND CONSPICUOUSLY DISCLOSED TO THE CONSUMER.
+27 SECTION 90. In Colorado Revised Statutes, 12-30-112, amend
+-72- 1426
+
+1 (6) as follows:
+2 12-30-112. Health-care providers - required disclosures -
+3 balance billing - unfair or deceptive trade practice - rules -
+4 definitions.
+5 (6) A violation of this section is a AN UNFAIR OR deceptive trade
+6 practice pursuant to section 6-1-105 (1)(xxx) ARTICLE 1 OF TITLE 6.
+7 SECTION 91. In Colorado Revised Statutes, 12-30-113, amend
+8 (6) as follows:
+9 12-30-113. Out-of-network health-care providers -
+10 out-of-network services - billing - payment - unfair or deceptive trade
+11 practice.
+12 (6) A violation of this section is a AN UNFAIR OR deceptive trade
+13 practice pursuant to section 6-1-105 (1)(xxx) ARTICLE 1 OF TITLE 6.
+14 SECTION 92. In Colorado Revised Statutes, 12-280-142, amend
+15 (11)(a)(II) as follows:
+16 12-280-142. Epinephrine auto-injector affordability program
+17 - record keeping - reimbursement - penalty - unfair or deceptive
+18 trade practice - definitions.
+19 (11) (a) A manufacturer that fails to comply with the requirements
+20 of this section:
+21 (II) Engages in a AN UNFAIR OR deceptive trade practice under
+22 section 6-1-105 (1)(zzz) IN VIOLATION OF ARTICLE 1 OF TITLE 6.
+23
+24 SECTION 93. In Colorado Revised Statutes, 18-18.5-103,
+25 amend (2)(b) introductory portion and (4)(i); and repeal (2)(b)(XIX),
+26 (6)(c.5), and (6)(d) as follows:
+27 18-18.5-103. State substance abuse trend and response task
+-73- 1426
+
+1 force - creation - membership - duties.
+2 (2) The task force consists of the following members:
+3 (b) Twenty-two TWENTY-ONE members appointed by the task
+4 force chair and vice-chairs as follows:
+5 (XIX) An expert in environmental protection;
+6 (4) The task force, in collaboration with state agencies charged
+7 with prevention, intervention, or treatment of substance abuse, shall:
+8 (i) Develop a definition of a "drug-endangered child" to be used
+9 in the context of the definition of "child abuse or neglect" as set forth in
+10 section 19-1-103 (1). C.R.S., and include the definition in its January 1,
+11 2014, report to the judiciary committees of the senate and the house of
+12 representatives, or any successor committees.
+13 (6) In addition, the task force shall:
+14 (c.5) Convene stakeholders for the purpose of:
+15 (I) Reviewing progress on bills introduced by the opioid and other
+16 substance use disorders study committee created in section 10-22.3-101
+17 and enacted by the general assembly; and
+18 (II) Generating policy recommendations related to opioid and
+19 other substance use disorders, including prevention, harm reduction,
+20 treatment, criminal justice, and recovery;
+21 (d) Notwithstanding section 24-1-136 (11)(a)(I), submit a written
+22 report to the judiciary committees, or any successor committees, of the
+23 senate and the house of representatives of the general assembly by
+24 January 1, 2014, and by each January 1 thereafter, at a minimum
+25 specifying the following:
+26 (I) Issues to be studied in upcoming task force meetings and a
+27 prioritization of those issues;
+-74- 1426
+
+1 (II) Findings and recommendations regarding issues of prior
+2 consideration by the task force;
+3 (III) Legislative proposals of the task force that identify the policy
+4 issues involved, the agencies responsible for the implementation of the
+5 changes, and the funding sources required for such implementation.
+6 SECTION 94. In Colorado Revised Statutes, 24-6-402, add
+7 (3)(a)(IX) as follows:
+8 24-6-402. Meetings - open to public - legislative declaration -
+9 definitions.
+10 (3) (a) The members of a state public body subject to this part 4,
+11 upon the announcement by the state public body to the public of the topic
+12 for discussion in the executive session, including specific citation to the
+13 provision of this subsection (3) authorizing the body to meet in an
+14 executive session and identification of the particular matter to be
+15 discussed in as much detail as possible without compromising the purpose
+16 for which the executive session is authorized, and the affirmative vote of
+17 two-thirds of the entire membership of the body after such announcement,
+18 may hold an executive session only at a regular or special meeting and for
+19 the sole purpose of considering any of the matters enumerated in
+20 subsection (3)(b) of this section or the following matters; except that no
+21 adoption of any proposed policy, position, resolution, rule, regulation, or
+22 formal action, except the review, approval, and amendment of the
+23 minutes of an executive session recorded pursuant to subsection
+24 (2)(d.5)(I) of this section, shall occur at any executive session that is not
+25 open to the public:
+26 (IX) WITH RESPECT TO THE JOINT BUDGET COMMITTEE, A
+27 CONFERENCE WITH THE ATTORNEY GENERAL, OR THE ATTORNEY
+-75- 1426
+
+1 GENERAL'S DESIGNEE, HELD PURSUANT TO SECTION 2-3-211.
+2 SECTION 95. In Colorado Revised Statutes, 24-31-101, amend
+3 (1)(v); and add (1)(x), (1)(y), and (6) as follows:
+4 24-31-101. Powers and duties of attorney general - services
+5 related to supporting outside counsel - rules.
+6 (1) The attorney general:
+7 (v) May expend money, manage staff, and perform other
+8 administrative functions essential for the operation of a district attorney's
+9 office when appointed by executive order of the governor; and
+10 (x) (I) SHALL REVIEW PETITIONS RELATING TO A RULE ADOPTED BY
+11 THE DEPARTMENT OF LAW IN ORDER TO:
+12 (A) ASSESS WHETHER THE RULE COMPORTS WITH ITS STATUTORY
+13 PURPOSE;
+14 (B) UNDERSTAND THE IMPACT OF THE RULE, INCLUDING ECONOMIC
+15 COSTS RESULTING FROM COMPLIANCE WITH THE RULE;
+16 (C) ASSESS THE OUTREACH PROCESS ASSOCIATED WITH THE RULE
+17 TO ENSURE STAKEHOLDERS ARE ENGAGED IN THE RULE-MAKING PROCESS;
+18 (D) DETERMINE APPROPRIATE STAFFING; AND
+19 (E) PERFORM A COST-BENEFIT ANALYSIS INCLUDING INDIRECT
+20 FACTORS THAT AFFECT HEALTH AND SAFETY.
+21 (II) ON AND AFTER JANUARY 1, 2027, THE ATTORNEY GENERAL
+22 SHALL ACCEPT AND REVIEW PETITIONS REQUESTING THE ATTORNEY
+23 GENERAL TO REVIEW OR INITIATE A RULE-MAKING, SUBJECT TO THE
+24 RULE-MAKING AUTHORITY GRANTED TO THE ATTORNEY GENERAL OR THE
+25 DEPARTMENT.
+26 (III) ON OR BEFORE JANUARY 1, 2028, THE ATTORNEY GENERAL
+27 SHALL ADOPT RULES THAT GOVERN THE PROCESS FOR RESPONDING TO OR
+-76- 1426
+
+1 ISSUING OPINION LETTERS. THE RULES MUST INCLUDE INTERPRETIVE
+2 GUIDANCE AND AN OPERATIONAL FRAMEWORK, WHICH FRAMEWORK
+3 INCLUDES A GOOD FAITH RELIANCE DEFENSE OF AN ACTION THAT MAY
+4 OTHERWISE CONSTITUTE A VIOLATION OF TITLE 6.
+5 (y) MAY MEET WITH THE JOINT BUDGET COMMITTEE IN AN
+6 EXECUTIVE SESSION TO DISCUSS POTENTIAL BUDGETARY IMPACTS
+7 SURROUNDING POTENTIAL OR CURRENT LITIGATION, AS DESCRIBED IN
+8 SECTION 2-3-211.
+9
+10 (6) SERVICES, SUPPORT, AND INFRASTRUCTURE PROCURED BY THE
+11 DEPARTMENT OF LAW TO SECURE OUTSIDE COUNSEL OR TO SUPPORT CIVIL
+12 OR CRIMINAL PROCEEDINGS, CIVIL OR CRIMINAL ENFORCEMENT, OR OTHER
+13 LEGAL OR LITIGATION-RELATED SERVICES, SUPPORT, AND
+14 INFRASTRUCTURE ARE NOT SUBJECT TO SECTION 24-30-202 (2) OR
+15 ARTICLES 101 TO 112 OF THIS TITLE 24.
+16 SECTION 96. In Colorado Revised Statutes, amend 24-31-113
+17 as follows:
+18 24-31-113. Public integrity - patterns and practices.
+19 (1) It is unlawful for any A governmental authority, or any AN
+20 agent thereof OF A GOVERNMENTAL AUTHORITY, or any A person acting
+21 on behalf of a governmental authority to engage in a pattern or practice
+22 of conduct by peace officers or by officials or employees of any A
+23 governmental agency that deprives persons of rights, privileges, or
+24 immunities secured or protected by the constitution or laws of the United
+25 States or the state of Colorado.
+26 (2) Whenever the attorney general has reasonable cause to believe
+27 that a violation of this section has occurred, the attorney general, for or
+-77- 1426
+
+1 in the name of the state, of Colorado, may OBTAIN in a civil action obtain
+2 any and all appropriate relief to eliminate the pattern or practice. Before
+3 filing suit, the attorney general shall notify the government
+4 GOVERNMENTAL authority or any agent thereof and provide it THE
+5 AUTHORITY OR AGENT with the factual basis that supports his or her THE
+6 ATTORNEY GENERAL'S reasonable cause to believe a violation occurred.
+7 Upon receipt of the factual basis, the government GOVERNMENTAL
+8 authority, or any agent thereof, has sixty days to change or eliminate the
+9 identified pattern or practice. If the identified pattern or practice is not
+10 changed and permanently eliminated after sixty days, the attorney general
+11 may file a civil lawsuit ACTION. The attorney general may issue
+12 subpoenas for any purpose in conducting an investigation under this
+13 section.
+14 (3) IF A GOVERNMENTAL AUTHORITY, AN AGENT THEREOF, OR A
+15 PERSON ACTING ON BEHALF OF A GOVERNMENTAL AUTHORITY FAILS TO
+16 OBEY A SUBPOENA ISSUED PURSUANT TO THIS SECTION, THE ATTORNEY
+17 GENERAL MAY APPLY TO THE APPROPRIATE DISTRICT COURT FOR AN
+18 APPROPRIATE ORDER TO EFFECT THE PURPOSES OF THIS SECTION. THE
+19 APPLICATION MUST STATE THAT THERE ARE REASONABLE GROUNDS TO
+20 BELIEVE THAT THE ORDER IS NECESSARY TO INVESTIGATE A DEPRIVATION
+21 OF AN INDIVIDUAL'S RIGHTS, PRIVILEGES, OR IMMUNITIES SECURED OR
+22 PROTECTED BY THE UNITED STATES CONSTITUTION, THE STATE
+23 CONSTITUTION, OR THE LAWS OF THE UNITED STATES OR THE STATE OF
+24 COLORADO. IF THE COURT IS SATISFIED THAT REASONABLE GROUNDS
+25 EXIST, THE COURT IN ITS ORDER MAY:
+26 (a) REQUIRE THE ATTENDANCE OF THE PERSON, THE PRODUCTION
+27 OF DOCUMENTS BY THE PERSON, OR BOTH; AND
+-78- 1426
+
+1 (b) GRANT SUCH OTHER RELIEF AS MAY BE NECESSARY TO OBTAIN
+2 THE PERSON'S COMPLIANCE.
+3 SECTION 97. In Colorado Revised Statutes, 24-34-104, add
+4 (35)(a)(IX) as follows:
+5 24-34-104. General assembly review of regulatory agencies
+6 and functions for repeal, continuation, or reestablishment - legislative
+7 declaration - repeal.
+8 (35) (a) The following agencies, functions, or both, are scheduled
+9 for repeal on September 1, 2034:
+10 (IX) THE USE OF TITLE OR DEGREE REQUIREMENTS DESCRIBED IN
+11 SECTION 6-1-707.
+12 SECTION 98. In Colorado Revised Statutes, 24-75-402, amend
+13 (5)(mmm) and (5)(nnn); and add (5)(ooo) as follows:
+14 24-75-402. Cash funds - limit on uncommitted reserves -
+15 reduction in the amount of fees - exclusions - definitions.
+16 (5) Notwithstanding any provision of this section to the contrary,
+17 the following cash funds are excluded from the limitations specified in
+18 this section:
+19 (mmm) The reentry services for justice-involved individuals
+20 reinvestment cash fund created in section 25.5-4-505.7; and
+21 (nnn) The health-related social needs reinvestment cash fund
+22 created in section 25.5-5-340; AND
+23 (ooo) THE FALSE MEDICAID CLAIMS RECOVERY FUND CREATED IN
+24 SECTION 25.5-4-305 (3).
+25 SECTION 99. In Colorado Revised Statutes, 25-3-121, amend
+26 (3.7) as follows:
+27 25-3-121. Health-care facilities - emergency and
+-79- 1426
+
+1 nonemergency services - required disclosures - balance billing -
+2 unfair or deceptive trade practice - rules - definitions.
+3 (3.7) A violation of this section is a AN UNFAIR OR deceptive trade
+4 practice pursuant to section 6-1-105 (1)(xxx) SECTION 6-1-105 (1)(rrr).
+5 SECTION 100. In Colorado Revised Statutes, 25-3-122, amend
+6 (6) as follows:
+7 25-3-122. Out-of-network facilities - emergency medical
+8 services - billing - payment - unfair or deceptive trade practice.
+9 (6) A violation of this section is a AN UNFAIR OR deceptive trade
+10 practice pursuant to section 6-1-105 (1)(xxx) SECTION 6-1-105 (1)(rrr).
+11 SECTION 101. In Colorado Revised Statutes, 25-8-1006, amend
+12 (1) as follows:
+13 25-8-1006. Mobile home park water quality fund.
+14 (1) The mobile home park water quality fund is created in the state
+15 treasury. The fund consists of money credited to the fund in accordance
+16 with section 25-8-1007 (3), MONEY CREDITED TO THE FUND PURSUANT TO
+17 SECTION 6-1-112 (3), and any other money that the general assembly may
+18 appropriate or transfer to the fund.
+19 SECTION 102. In Colorado Revised Statutes, 25-49-106, amend
+20 (5) as follows:
+21 25-49-106. Required disclosure to self-pay recipients - estimate
+22 of total cost of health-care services upon request - unfair or deceptive
+23 trade practice - definition.
+24 (5) A violation of this section is a AN UNFAIR OR deceptive trade
+25 practice pursuant to section 6-1-105 (1)(yyy) IN VIOLATION OF ARTICLE 1
+26 OF TITLE 6.
+27 SECTION 103. In Colorado Revised Statutes, 25.5-4-305,
+-80- 1426
+
+1 amend (3) as follows:
+2 25.5-4-305. False medicaid claims - liability for certain acts -
+3 false medicaid claims recovery fund.
+4 (3) (a) IN ADDITION TO ANY OTHER LIABILITY, a person violating
+5 this section shall also be IS liable to the FEDERAL GOVERNMENT, state
+6 GOVERNMENT, AND AFFECTED AGENCIES AND POLITICAL SUBDIVISIONS
+7 THEREOF, INCLUDING THE DEPARTMENT OF LAW, for the costs of FULL
+8 REASONABLE EXPENSES INCURRED IN a civil action brought to recover any
+9 penalty or damages PENALTIES OR REMEDIES UNDER THE "COLORADO
+10 MEDICAID FALSE CLAIMS ACT", SECTIONS 25.5-4-303.5 TO 25.5-4-310,
+11 INCLUDING THE COSTS OF INVESTIGATION AND LITIGATION, ATTORNEY
+12 FEES, COURT COSTS, WITNESS FEES, AND DEPOSITION COSTS. RECOVERED
+13 COSTS AND FEES SHALL BE TRANSFERRED TO THE STATE TREASURER FOR
+14 DEPOSIT IN THE FALSE MEDICAID CLAIMS RECOVERY FUND, WHICH FUND IS
+15 CREATED IN SUBSECTION (3)(b) OF THIS SECTION.
+16 (b) (I) THE FALSE MEDICAID CLAIMS RECOVERY FUND IS CREATED
+17 IN THE STATE TREASURY. THE FUND CONSISTS OF MONEY CREDITED TO THE
+18 FUND PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION AND ANY OTHER
+19 MONEY THAT THE GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER
+20 TO THE FUND.
+21 (II) THE STATE TREASURER SHALL CREDIT ALL INTEREST AND
+22 INCOME DERIVED FROM THE DEPOSIT AND INVESTMENT OF MONEY IN THE
+23 FALSE MEDICAID CLAIMS RECOVERY FUND TO THE FUND.
+24 (III) ANY MONEY REMAINING IN THE FUND AT THE END OF A STATE
+25 FISCAL YEAR REMAINS IN THE FUND.
+26 (IV) SUBJECT TO ANNUAL APPROPRIATION BY THE GENERAL
+27 ASSEMBLY, THE ATTORNEY GENERAL MAY EXPEND MONEY FROM THE
+-81- 1426
+
+1 FUND FOR THE PURPOSE OF HIRING NECESSARY STAFF TO IMPLEMENT THE
+2 MEDICAID FRAUD CONTROL UNIT IN THE DEPARTMENT OF LAW AND TO
+3 DEFRAY THE COSTS OF INVESTIGATING AND LITIGATING ONGOING FALSE
+4 CLAIMS CASES BY THE UNIT.
+5 (c) PROCEEDS RECOVERED AS A RESULT OF AN ACTION FILED
+6 PURSUANT TO THE "COLORADO MEDICAID FALSE CLAIMS ACT", SECTIONS
+7 25.5-4-303.5 TO 25.5-4-310, SHALL BE DISTRIBUTED IN THE FOLLOWING
+8 ORDER:
+9 (I) TO REFUND MONEY FALSELY OBTAINED FROM THE FEDERAL
+10 GOVERNMENT OR STATE GOVERNMENT OR A POLITICAL SUBDIVISION
+11 THEREOF; AND
+12 (II) TO THE STATE TREASURER FOR DEPOSIT IN THE GENERAL FUND,
+13 EXCEPT AS DESCRIBED IN SUBSECTION (3)(e) OF THIS SECTION.
+14 (d) A PORTION OF THE RECOVERY EQUAL TO THE AMOUNT OF
+15 MONEY FALSELY OBTAINED FROM THE FEDERAL GOVERNMENT, THE STATE
+16 GOVERNMENT, AN AFFECTED POLITICAL SUBDIVISION THEREOF, OR STATE
+17 AGENCIES, OR A COMBINATION THEREOF, SHALL BE REMITTED TO THE
+18 ENTITY SHOWN TO BE DEFRAUDED, SUBJECT TO ANY FURTHER
+19 REQUIREMENTS ESTABLISHED BY FEDERAL OR STATE LAW.
+20 (e) UPON RECEIPT OF A DISTRIBUTION DESCRIBED IN SUBSECTION
+21 (3)(c)(II) OF THIS SECTION, THE STATE TREASURER SHALL DEPOSIT THE
+22 ENTIRE AMOUNT IN THE GENERAL FUND; EXCEPT THAT, SUBJECT TO
+23 RELEVANT GUIDELINES OF THE FEDERAL DEPARTMENT OF HEALTH AND
+24 HUMAN SERVICES' OFFICE OF INSPECTOR GENERAL REGARDING REPAYMENT
+25 OF FEES OR RECOVERIES, THE STATE TREASURER SHALL CREDIT TWENTY
+26 PERCENT OF SUCH A DISTRIBUTION TO THE FALSE MEDICAID CLAIMS
+27 RECOVERY FUND CREATED IN SUBSECTION (3)(b) OF THIS SECTION.
+-82- 1426
+
+1 SECTION 104. In Colorado Revised Statutes, 42-4-221, amend
+2 (12)(c) as follows:
+3 42-4-221. Bicycle, electric scooter, and personal mobility
+4 device equipment - penalty - sale of electrical assisted bicycle
+5 equipment requirements - unfair or deceptive trade practice.
+6 (12) (c) A person that violates this subsection (12) commits a AN
+7 UNFAIR OR deceptive trade practice under the "Colorado Consumer
+8 Protection Act", article 1 of title 6 IN VIOLATION OF ARTICLE 1 OF TITLE 6.
+9 SECTION 105. In Colorado Revised Statutes, 25-5-429, amend
+10 as added by House Bill 26-1135 (5) as follows:
+11 25-5-429. Chemicals used in hair relaxers and hair pieces -
+12 warning labels - deceptive trade practice - short title - definitions.
+13 (5) A violation of this section by a manufacturer constitutes a
+14 deceptive trade practice under section 6-1-105 13 (1)(qqqq) ARTICLE 1 OF
+15 TITLE 6.
+16 SECTION 106. Act subject to petition - effective date.
+17 (1) Except as otherwise provided in subsection (2) of this section, this act
+18 takes effect at 12:01 a.m. on the day following the expiration of the
+19 ninety-day period after final adjournment of the general assembly (August
+20 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+21 referendum petition is filed pursuant to section 1 (3) of article V of the
+22 state constitution against this act or an item, section, or part of this act
+23 within such period, then the act, item, section, or part will not take effect
+24 unless approved by the people at the general election to be held in
+25 November 2026 and, in such case, will take effect on the date of the
+26 official declaration of the vote thereon by the governor.
+27 (2) Section 25-5-429 (5), Colorado Revised Statutes, as amended
+-83- 1426
+
+1 in section 105 of this act, takes effect only if House Bill 26-1135 becomes
+2 law, in which case section 25-5-429 (5), Colorado Revised Statutes, as
+3 amended in section 105 of this act, takes effect on the effective date of
+4 this act or House Bill 26-1135, whichever is later.
+-84- 1426

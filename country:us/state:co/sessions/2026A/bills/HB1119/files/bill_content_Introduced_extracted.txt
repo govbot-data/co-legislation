@@ -1,0 +1,305 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0402.01 Alison Killen x4350 HOUSE BILL 26-1119
+HOUSE SPONSORSHIP
+Woodrow,
+SENATE SPONSORSHIP
+Hinrichsen,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE AUTHORITY OF LOCAL TAXING ENTITIES TO IMPOSE
+102 PROPERTY TAXES ON THE ASSESSED VALUE OF LAND AND THE
+103 ASSESSED VALUE OF IMPROVEMENTS THEREON AT DIFFERENT
+104 MILL LEVY RATES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill allows local governments and certain special
+districts authorized to impose property taxes (local taxing entities) to tax
+certain land and improvements thereon at different mill levy rates,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+provided that the mill levy rate for the improvements is less than or equal
+to the mill levy rate for the land. A local taxing entity may not impose
+different mill levy rates for agricultural land, land used for renewable
+energy production, land subject to a perpetual conservation easement,
+leaseholds and lands producing oil or gas, producing mines or
+nonproducing mining claims, or state-assessed land. Nothing in section
+2 allows a local taxing entity to impose property taxes on the assessed
+value of land and the assessed value of improvements thereon at different
+mill levy rates in a manner that is not consistent with section 20 of article
+X of the state constitution or any statutory limitation on the local taxing
+entity's mill levy rates or total property tax revenue.
+Section 3 requires boards of county commissioners and other local
+taxing entities to include with their certifications of all property tax levies
+the individual certification of any local taxing entity required by section
+5 regarding the different mill levy rates used for land and improvements
+thereon by the local taxing entity.
+Section 4 updates the tax and levy rate information required to be
+made publicly available to include the specific, different mill levy rates
+used for land and improvements thereon, if applicable.
+Section 5 modifies the duty of local taxing entities to certify their
+property tax levy to the board of county commissioners to require any
+local taxing entity that imposes property taxes on the assessed value of
+land and the assessed value of improvements thereon at different rates, as
+allowed by section 2, to specify those mill levy rates in the local taxing
+entity's certification of its levy.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado faces a severe housing shortage, with the state
+5 estimated to have a housing deficit of more than one hundred six
+6 thousand units according to the state demographer's office at the
+7 department of local affairs;
+8 (b) More than one in three Colorado households are
+9 cost-burdened, spending more than thirty percent of their income on
+10 housing, and more than half of Colorado's renter households are
+11 cost-burdened, while nearly ninety percent of Colorado's extremely
+-2- HB26-1119
+
+1 low-income rental households are cost-burdened;
+2 (c) The median monthly home mortgage payment in Colorado
+3 increased by seventy-one percent between 2017 and 2023 according to the
+4 Colorado housing and finance authority;
+5 (d) Rising land costs are a significant driver of housing
+6 unaffordability in Colorado, with land values rising from thirty-one
+7 percent of Colorado home values in 2012 to fifty-eight percent in 2024,
+8 according to the American Enterprise Institute;
+9 (e) High land costs create significant barriers to housing
+10 development, as developers struggle to make projects financially viable
+11 when the improvements they make to the property incur a larger property
+12 tax liability;
+13 (f) Creating a partial building exemption will reduce this barrier
+14 to housing, making it easier to build and finance new housing
+15 development;
+16 (g) The value of land is determined primarily by its location and
+17 the amenities and services surrounding it-factors created by the
+18 community-rather than by any ingenuity, investment, or initiative of the
+19 landowner, whereas the value of buildings reflects productive investments
+20 made by property owners;
+21 (h) When governments invest in public services and amenities like
+22 transit, parks, and schools, the resulting increase to nearby land values is
+23 captured by private landowners rather than reinvested for the public
+24 benefit, creating windfall wealth increases for landowners, whose
+25 contributions to such improvements are substantially outweighed by the
+26 increased cost of housing for workers and families;
+27 (i) While a shift towards a property tax system where all buildings
+-3- HB26-1119
+
+1 and improvements are exempt and only land is taxed is administratively
+2 and politically unrealistic in the short-term, one simple step in that
+3 direction is allowing local taxing entities to choose to "split" their mill
+4 levies so that a lower mill levy rate is imposed on buildings compared to
+5 unimproved land;
+6 (j) Split-rate property taxation, which taxes land at a higher rate
+7 while providing partial "exemptions", provides economic incentives for
+8 productive investment and real estate development while disincentivizing
+9 land speculation and combating blight, because owners of vacant and
+10 underutilized land face higher tax burdens relative to owners who put
+11 their property to productive use;
+12 (k) Split-rate property taxation incentivizes more efficient land
+13 use and development patterns by encouraging construction on vacant lots,
+14 infill development, and higher-density construction in areas with existing
+15 infrastructure, thereby reducing urban sprawl, lowering per-unit land
+16 costs, and minimizing environmental impacts associated with
+17 development on the urban fringe;
+18 (l) Research and experience from jurisdictions that have
+19 implemented split-rate property taxation demonstrate that this policy can
+20 meaningfully boost housing construction while simultaneously reducing
+21 tax burdens for the majority of property owners who have invested in
+22 improving their land;
+23 (m) The United States has more than a century of experience with
+24 split-rate property taxation, with split-rate taxation previously the law in
+25 Hawaii, as well as twenty-three jurisdictions in Pennsylvania having
+26 implemented such systems since 1913, and sixteen Pennsylvania cities
+27 currently using split-rate taxation, providing substantial empirical
+-4- HB26-1119
+
+1 evidence of its effects;
+2 (n) The city of Harrisburg, Pennsylvania, which adopted split-rate
+3 taxation in 1975 and gradually increased the tax differential between land
+4 and buildings, experienced a transformation from one of the most
+5 distressed cities in the United States to a thriving community, with an
+6 eighty-five percent reduction in vacant structures over twenty years, a
+7 seven-fold increase in taxable real estate value, and between eighty and
+8 ninety percent of property owners paying less under the split-rate taxation
+9 system than they would have paid under a single, uniform property tax
+10 rate;
+11 (o) The city of Pittsburgh, Pennsylvania, which adopted split-rate
+12 property taxation in 1913, experienced a seventy percent increase in
+13 building permits following an increase in their land-to-building tax
+14 differential in the 1980s, during a period in which comparable peer cities
+15 experienced a fourteen percent decline in building activity;
+16 (p) Split-rate municipalities in Pennsylvania have experienced
+17 significantly higher construction activity than comparable single, uniform
+18 property tax rate cities, according to a 2000 study published in the Journal
+19 of Urban Economics;
+20 (q) A 2010 study published in the Journal of Urban Economics
+21 found that split-rate property tax jurisdictions experienced five additional
+22 percentage points of housing growth compared to single, uniform
+23 property tax rate jurisdictions, with the increase occurring through infill
+24 developments rather than sprawl, leading the researchers to characterize
+25 split-rate property tax as "a potentially powerful anti-sprawl tool";
+26 (r) Split-rate property taxation can have a significantly positive
+27 impact on aggregate market property values, with a 2022 study published
+-5- HB26-1119
+
+1 in the Public Finance Review finding that it can increase aggregate
+2 residential property value by twelve percent and commercial property
+3 value by twenty percent;
+4 (s) Economist Joseph Stiglitz has demonstrated that higher land
+5 taxes are correlated with higher economic growth rates because such
+6 taxes discourage land speculation that diverts investment from productive
+7 economic activities;
+8 (t) Split-rate property taxation is supported by a broad range of
+9 economists across the political spectrum because of its efficiency,
+10 neutrality, and lack of economic distortions, beginning with Adam Smith
+11 and including Nobel laureates Milton Friedman, Paul Krugman, and
+12 Joseph Stiglitz;
+13 (u) Colorado county assessors already assess land values and
+14 improvement values separately on property tax records;
+15 (v) Colorado already operates a form of split-rate property
+16 taxation, as the assessment rates for school district property taxes differ
+17 from the assessment rates for other local government taxes; and
+18 (w) Allowing local governments and certain special districts to
+19 choose to adopt split-rate property taxation or building exemptions
+20 supports and reinforces recent state and local actions to address the
+21 housing supply and affordability crisis, including efforts to encourage
+22 transit-oriented development, accessory dwelling units, infill
+23 development, and smart growth strategies, all of which seek to promote
+24 more efficient use of land within existing communities and urban centers.
+25 (2) Therefore, by enacting this House Bill , the general
+26 assembly intends to provide municipalities, counties, and certain special
+27 districts with the freedom to choose to split their mill levies and create
+-6- HB26-1119
+
+1 "building exemptions" so that a lower rate is levied on buildings and
+2 improvements compared to the land without improvements, consistent
+3 with section 20 of article X of the state constitution, to encourage housing
+4 production, discourage land speculation, promote efficient land use, and
+5 reduce tax burdens on property owners who productively improve and
+6 develop their land.
+7 SECTION 2. In Colorado Revised Statutes, add 29-1-306 as
+8 follows:
+9 29-1-306. Split mill levy - different mill levy rates for land and
+10 improvements to land - limitations - requirements - definitions.
+11 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+12 REQUIRES:
+13 (a) "AGRICULTURAL PROPERTY" MEANS THE SUBCLASS OF
+14 NONRESIDENTIAL PROPERTY DESCRIBED IN SECTION 39-1-104 (1.6)(c).
+15 (b) "CONSERVATION EASEMENT PROPERTY" MEANS PROPERTY
+16 SUBJECT TO A PERPETUAL CONSERVATION EASEMENT.
+17 (c) "IMPROVEMENTS" HAS THE MEANING SET FORTH IN SECTION
+18 39-1-102 (6.3).
+19 (d) "LOCAL TAXING ENTITY" MEANS ANY COUNTY, CITY AND
+20 COUNTY, CITY, TOWN, METROPOLITAN DISTRICT, BUSINESS IMPROVEMENT
+21 DISTRICT, LOCAL IMPROVEMENT DISTRICT, PUBLIC IMPROVEMENT
+22 DISTRICT, SPECIAL IMPROVEMENT DISTRICT, DOWNTOWN DEVELOPMENT
+23 AUTHORITY, URBAN RENEWAL AUTHORITY, OR COUNTY REVITALIZATION
+24 AREA AUTHORIZED TO LEVY PROPERTY TAXES.
+25 (e) "MINING PROPERTY" MEANS PRODUCING MINES AND
+26 NONPRODUCING MINING CLAIMS VALUED FOR ASSESSMENT IN
+27 ACCORDANCE WITH ARTICLE 6 OF TITLE 39.
+-7- HB26-1119
+
+1 (f) "OIL AND GAS PROPERTY" MEANS LEASEHOLDS AND LANDS
+2 PRODUCING OIL OR GAS VALUED FOR ASSESSMENT IN ACCORDANCE WITH
+3 ARTICLE 7 OF TITLE 39.
+4 (g) "PERPETUAL CONSERVATION EASEMENT" HAS THE MEANING
+5 SET FORTH IN SECTION 39-1-102 (8.7).
+6 (h) "RENEWABLE ENERGY PRODUCTION PROPERTY" MEANS THE
+7 SUBCLASS OF NONRESIDENTIAL PROPERTY DESCRIBED IN SECTION 39-1-104
+8 (1.6)(b).
+9 (i) "STATE-ASSESSED PROPERTY" MEANS THE PROPERTY REQUIRED
+10 TO BE VALUED BY THE PROPERTY TAX ADMINISTRATOR PURSUANT TO
+11 SECTION 39-2-109 (1)(a).
+12 (2) (a) NOTWITHSTANDING ANY LAW TO THE CONTRARY, EXCEPT
+13 AS PROVIDED IN SUBSECTION (2)(b) OF THIS SECTION, FOR PROPERTY TAX
+14 YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, THE GOVERNING
+15 BODY OF A LOCAL TAXING ENTITY MAY, BY ORDINANCE OR RESOLUTION,
+16 IMPOSE PROPERTY TAXES ON THE ASSESSED VALUE OF LAND AND THE
+17 ASSESSED VALUE OF IMPROVEMENTS THEREON AT DIFFERENT MILL LEVY
+18 RATES, PROVIDED THAT THE MILL LEVY RATE IMPOSED BY THE LOCAL
+19 TAXING ENTITY FOR THE IMPROVEMENTS IS LESS THAN OR EQUAL TO THE
+20 MILL LEVY RATE IMPOSED BY THE LOCAL TAXING ENTITY FOR THE LAND.
+21 (b) A LOCAL TAXING ENTITY SHALL NOT IMPOSE PROPERTY TAXES
+22 ON THE ASSESSED VALUE OF LAND AND THE ASSESSED VALUE OF
+23 IMPROVEMENTS THEREON AT DIFFERENT MILL LEVY RATES PURSUANT TO
+24 SUBSECTION (2)(a) OF THIS SECTION FOR AGRICULTURAL PROPERTY,
+25 CONSERVATION EASEMENT PROPERTY, MINING PROPERTY, OIL AND GAS
+26 PROPERTY, RENEWABLE ENERGY PRODUCTION PROPERTY, OR
+27 STATE-ASSESSED PROPERTY.
+-8- HB26-1119
+
+1 (3) NOTHING IN THIS SECTION ALLOWS A LOCAL TAXING ENTITY TO
+2 IMPOSE PROPERTY TAXES ON THE ASSESSED VALUE OF LAND AND THE
+3 ASSESSED VALUE OF IMPROVEMENTS THEREON AT DIFFERENT MILL LEVY
+4 RATES IN A MANNER THAT IS NOT CONSISTENT WITH SECTION 20 OF
+5 ARTICLE X OF THE STATE CONSTITUTION OR ANY STATUTORY LIMITATION
+6 ON THE LOCAL TAXING ENTITY'S MILL LEVY RATES OR TOTAL PROPERTY
+7 TAX REVENUE.
+8 SECTION 3. In Colorado Revised Statutes, 39-1-111, amend (2)
+9 as follows:
+10 39-1-111. Taxes levied by board of county commissioners.
+11 (2) (a) As soon as such levies have been made, the board of
+12 county commissioners, or other body authorized by law to levy taxes, or
+13 either group's authorized party shall forthwith certify all such levies to the
+14 assessor, upon forms prescribed by the administrator, and shall transmit
+15 a copy of such certification to the administrator, to the division of local
+16 government, and to the department of education.
+17 (b) A BOARD OF COUNTY COMMISSIONERS OR OTHER BODY
+18 REQUIRED TO CERTIFY ALL LEVIES TO THE ASSESSOR PURSUANT TO
+19 SUBSECTION (2)(a) OF THIS SECTION SHALL INCLUDE WITH ITS CERTICATION
+20 THE CERTIFIED LEVY OF ANY LOCAL TAXING ENTITY, AS DEFINED IN
+21 SECTION 29-1-306, THAT IMPOSES PROPERTY TAXES ON THE ASSESSED
+22 VALUE OF LAND AND THE ASSESSED VALUE OF IMPROVEMENTS THEREON
+23 AT DIFFERENT MILL LEVY RATES PURSUANT TO SECTION 29-1-306 (2)(a)
+24 AND IS REQUIRED BY SECTION 39-5-128 (4) TO INCLUDE IN ITS
+25 CERTIFICATION EACH MILL LEVY RATE FOR LAND AND IMPROVEMENTS
+26 THEREON IMPOSED BY SUCH LOCAL TAXING ENTITY.
+27 SECTION 4. In Colorado Revised Statutes, 39-1-125, amend
+-9- HB26-1119
+
+1 (1)(a)(I) as follows:
+2 39-1-125. Tax and levy rate information publicly available.
+3 (1) (a) When each town, city, school district, special district, or
+4 other taxing authority certifies its levy pursuant to section 39-5-128, it
+5 shall also provide the following information for each levy that it imposes:
+6 (I) The rate of the levy, INCLUDING THE DIFFERENT RATES FOR
+7 LAND AND IMPROVEMENTS THEREON, IF APPLICABLE;
+8 SECTION 5. In Colorado Revised Statutes, 39-5-128, add (4) as
+9 follows:
+10 39-5-128. Certification of valuation for assessment.
+11 (4) A LOCAL TAXING ENTITY, AS DEFINED IN SECTION 29-1-306 (1),
+12 THAT IMPOSES PROPERTY TAXES ON THE ASSESSED VALUE OF LAND AND
+13 THE ASSESSED VALUE OF IMPROVEMENTS THEREON AT DIFFERENT MILL
+14 LEVY RATES PURSUANT TO SECTION 29-1-306 (2)(a) SHALL INCLUDE IN ITS
+15 CERTIFICATION EACH MILL LEVY RATE FOR LAND AND THE IMPROVEMENTS
+16 THEREON IMPOSED BY THE LOCAL TAXING ENTITY.
+17 SECTION 6. Act subject to petition - effective date. This act
+18 takes effect at 12:01 a.m. on the day following the expiration of the
+19 ninety-day period after final adjournment of the general assembly (August
+20 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+21 referendum petition is filed pursuant to section 1 (3) of article V of the
+22 state constitution against this act or an item, section, or part of this act
+23 within such period, then the act, item, section, or part will not take effect
+24 unless approved by the people at the general election to be held in
+25 November 2026 and, in such case, will take effect on the date of the
+26 official declaration of the vote thereon by the governor.
+-10- HB26-1119

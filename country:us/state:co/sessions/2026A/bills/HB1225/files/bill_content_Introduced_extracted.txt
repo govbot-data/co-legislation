@@ -1,0 +1,228 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0431.02 Clare Haffner x6137 HOUSE BILL 26-1225
+HOUSE SPONSORSHIP
+Smith and Willford,
+SENATE SPONSORSHIP
+Ball,
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING REQUIREMENTS TO FOSTER DISTRIBUTED ENERGY
+102 RESOURCES IN THE STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, each subscriber to a community solar garden
+receives a net metering credit to their electric bill. The community solar
+subscriber organization can choose between a fixed bill credit or a bill
+credit that is adjusted annually. The bill states that, on and after July 1,
+2026, an annual adjustment mechanism must be applied to fixed bill
+credit rates to index the value of the fixed bill credit to changing rate
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+trends.
+A public utility is permitted under current law to recover its
+prudently incurred costs to facilitate a timely interconnection of a
+distributed energy resource. The bill prohibits a public utility from
+requiring an interconnection customer to pay the costs associated with
+interconnection facilities and upgrades until 30 days before the public
+utility incurs the costs. The bill allows a public utility to require an
+interconnection customer to provide security for the estimated full costs
+of interconnection at the time of mutual execution of an interconnection
+agreement.
+The bill requires a public utility to:
+! On or before July 1, 2026, develop a process to allow an
+interconnection customer to contract with a third party to
+perform an interconnection study;
+! On or before September 1, 2026, develop a process to
+allow for the concurrent performance of all needed
+interconnection studies; and
+! On or before October 1, 2026, develop a process to allow
+an interconnection customer to contract with a third party
+to perform any upgrades needed for interconnection,
+including engineering, procurement, and construction
+upgrades.
+An interconnection study and upgrades that are performed by a
+contracted third party must meet applicable safety, reliability, labor, and
+technical standards.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Advancing Grid Resilience Using Distributed Energy Resources Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Demand for electricity is quickly increasing, and the ability of
+7 electric utilities to affordably satisfy demand while preserving reliability
+8 is increasingly important;
+9 (b) Electricity generation sources in the state are increasingly
+10 renewable due to consumer demand, state policy, and the lower
+11 generation costs of renewable electricity, and distributed energy resources
+-2- HB26-1225
+
+1 like community solar, dispatchable distributed generation, and distributed
+2 energy storage play an important role in satisfying such increasing
+3 electricity demand in an affordable way;
+4 (c) Since 2011, the state has consistently encouraged the
+5 deployment of community solar gardens to ensure that Coloradans
+6 without access to rooftop solar can still choose to use solar power, and
+7 ratepayers with low incomes, in particular, can benefit from community
+8 solar bill credits that reduce monthly utility bills;
+9 (d) Dispatchable distributed generation facilities, like solar paired
+10 with battery storage, are increasingly recognized as important
+11 cost-effective grid reliability resources;
+12 (e) While state policy remains strongly in favor of lower-cost and
+13 cleaner renewable energy generation, federal policy has drastically
+14 changed to discourage these resources;
+15 (f) The enactment of H.R. 1, Pub.L. 119-21, in 2025 eliminated
+16 tax incentives from certain electricity generation sources, including solar,
+17 while retaining favorable tax incentives for some nonrenewable forms of
+18 electricity generation;
+19 (g) H.R. 1, Pub.L. 119-21, also expires federal tax credits for new
+20 solar generation facilities at the end of 2029 unless a new solar generation
+21 facility is fully operational by that time;
+22 (h) Federal tax credits are instrumental in incentivizing the use of
+23 solar resources for affordable power generation;
+24 (i) Community solar and dispatchable distributed generation
+25 facilities take multiple years to design, finance, permit, build, and
+26 interconnect to the electric grid;
+27 (j) In addition, the interconnection process often takes multiple
+-3- HB26-1225
+
+1 years, thus delaying the building of a necessary energy resource and
+2 endangering the ability of the energy resource to cost-effectively deploy
+3 before the 2029 expiration of federal tax credits;
+4 (k) One of the most significant periods of time required in the
+5 building of new community solar and dispatchable distributed generation
+6 facilities is the time it takes for the utility to study interconnection impacts
+7 of the proposed facility and to make necessary developer-funded upgrades
+8 to the electric grid to enable safe interconnection;
+9 (l) Innovative ideas that facilitate a quicker and more economic
+10 interconnection process can greatly assist the deployment of necessary
+11 community solar and dispatchable distributed generation resources, thus
+12 assisting electric utilities in providing clean and affordable power to
+13 ratepayers;
+14 (m) Maintaining the value of bill credits for community solar
+15 subscribers, particularly for ratepayers with low incomes, is important
+16 amid the rising cost of living; and
+17 (n) As a result of new federal policy, some adjustments need to be
+18 made to the state's community solar and dispatchable distributed
+19 generation programs in order to maintain the programs' benefits to the
+20 electric grid and ratepayers.
+21 (2) Therefore, it is the intent of the general assembly to:
+22 (a) Continue to encourage the development of distributed energy
+23 resources like community solar and dispatchable distributed generation;
+24 and
+25 (b) Make adjustments to state law to facilitate the timely and
+26 cost-effective deployment of distributed energy resources, while
+27 maintaining the value of such resources for community solar subscribers
+-4- HB26-1225
+
+1 and particularly for ratepayers with low incomes.
+2 SECTION 3. In Colorado Revised Statutes, 40-2-127, amend
+3 (5)(b)(II)(C) as follows:
+4 40-2-127. Community energy funds - community solar
+5 gardens - definitions - rules - legislative declaration - applicability -
+6 repeal.
+7 (5) Purchases of the output from community solar gardens.
+8 (b) (II) (C) For a subscriber organization that directs the
+9 qualifying retail utility to provide the subscriber organization's
+10 subscribers with a fixed bill credit, the net metering credit is calculated
+11 by multiplying the subscriber's share of the electricity production from the
+12 community solar garden by the qualifying retail utility's total aggregate
+13 retail rate as charged to the subscriber at the time the subscriber
+14 organization applies for or bids capacity into a utility community solar
+15 garden program, minus a reasonable charge, as determined by the
+16 commission at the time the subscriber organization applies for or bids
+17 capacity into a utility community solar garden program. The charge will
+18 be used to cover the utility's costs related to: Delivering to the subscriber's
+19 premises the electricity generated by the community solar garden,
+20 integrating the solar generation with the utility's system, and
+21 administering contracts and net metering credits for the community solar
+22 garden. ON AND AFTER JULY 1, 2026, FOR A SUBSCRIBER ORGANIZATION
+23 THAT DIRECTS THE QUALIFYING RETAIL UTILITY TO PROVIDE A FIXED BILL
+24 CREDIT, THE QUALIFYING RETAIL UTILITY SHALL INDEX THE VALUE OF THE
+25 FIXED BILL CREDIT TO A COMMUNITY SOLAR GARDEN SUBSCRIBER TO
+26 CHANGING RATE TRENDS BY APPLYING AN ANNUAL ADJUSTMENT
+27 MECHANISM TO THE BILL CREDIT EQUAL TO THE MOST RECENT ANNUAL
+-5- HB26-1225
+
+1 CHANGE IN THE QUALIFYING RETAIL UTILITY'S TOTAL AGGREGATE RETAIL
+2 RATE, INCLUDING ALL BILLED RATE COMPONENTS BASED ON THE
+3 SUBSCRIBER'S RATE CLASS.
+4 SECTION 4. In Colorado Revised Statutes, 40-2-135, amend (6);
+5 and add (7) as follows:
+6 40-2-135. Retail distributed generation - customers' rights -
+7 rules - penalties.
+8 (6) (a) A public utility may recover its prudently incurred costs to
+9 facilitate a timely interconnection, which costs may include the cost of
+10 equipment that the public utility procures for future upgrades needed to
+11 interconnect retail distributed generation resources. A public utility may
+12 recover the costs of any such equipment inventory as capital work in
+13 progress if the inventory is projected to be used within five years of
+14 AFTER its procurement and with a return at the most recently authorized
+15 weighted average cost of capital.
+16 (b) A PUBLIC UTILITY SHALL NOT REQUIRE AN INTERCONNECTION
+17 CUSTOMER TO PAY THE COSTS ASSOCIATED WITH REASONABLE AND
+18 NECESSARY INTERCONNECTION FACILITIES AND UPGRADES UNTIL THIRTY
+19 DAYS BEFORE THE PUBLIC UTILITY INCURS THE COSTS. A PUBLIC UTILITY
+20 MAY REQUIRE AN INTERCONNECTION CUSTOMER TO PROVIDE SECURITY
+21 FOR THE ESTIMATED FULL COSTS OF INTERCONNECTION AT THE TIME BOTH
+22 PARTIES EXECUTE AN INTERCONNECTION AGREEMENT. A PUBLIC UTILITY
+23 SHALL PROVIDE SECURITY OPTIONS TO THE INTERCONNECTION CUSTOMER,
+24 INCLUDING ACCEPTANCE OF A SURETY BOND OR A LETTER OF CREDIT FROM
+25 A QUALIFIED PROVIDER.
+26 (7) (a) ON OR BEFORE JULY 1, 2026, A PUBLIC UTILITY SHALL
+27 DEVELOP A PROCESS TO ALLOW AN INTERCONNECTION CUSTOMER TO
+-6- HB26-1225
+
+1 CONTRACT WITH A THIRD PARTY TO PERFORM ANY NEEDED
+2 INTERCONNECTION STUDY. A PUBLIC UTILITY SHALL RESPOND TO A
+3 THIRD-PARTY INTERCONNECTION STUDY REQUEST SUBMITTED BY AN
+4 INTERCONNECTION CUSTOMER WITHIN FIFTEEN DAYS AFTER THE
+5 SUBMISSION OF THE INTERCONNECTION STUDY REQUEST. AN
+6 INTERCONNECTION STUDY PERFORMED BY A THIRD PARTY MUST MEET
+7 APPLICABLE SAFETY, RELIABILITY, LABOR, AND TECHNICAL STANDARDS.
+8 (b) ON OR BEFORE SEPTEMBER 1, 2026, A PUBLIC UTILITY SHALL
+9 DEVELOP A PROCESS TO ALLOW FOR THE CONCURRENT PERFORMANCE OF
+10 ALL NEEDED INTERCONNECTION STUDIES, INCLUDING INTERCONNECTION
+11 STUDIES PERFORMED BY A CONTRACTED THIRD PARTY. EACH
+12 INTERCONNECTION STUDY PERFORMED MUST MEET APPLICABLE SAFETY,
+13 RELIABILITY, LABOR, AND TECHNICAL STANDARDS.
+14 (c) ON OR BEFORE OCTOBER 1, 2026, A PUBLIC UTILITY SHALL
+15 DEVELOP A PROCESS TO ALLOW AN INTERCONNECTION CUSTOMER TO
+16 CONTRACT WITH A THIRD PARTY TO PERFORM ANY UPGRADES NEEDED FOR
+17 INTERCONNECTION, INCLUDING ENGINEERING, PROCUREMENT, AND
+18 CONSTRUCTION UPGRADES. A PUBLIC UTILITY SHALL NOT IMPOSE
+19 UNREASONABLE RESTRICTIONS ON UPGRADES PERFORMED BY A
+20 CONTRACTED THIRD PARTY AND SHALL RESPOND TO UPGRADE PLANS
+21 SUBMITTED BY AN INTERCONNECTION CUSTOMER WITHIN THIRTY DAYS
+22 AFTER THE SUBMISSION OF THE UPGRADE PLANS. UPGRADES THAT ARE
+23 PERFORMED BY A CONTRACTED THIRD PARTY MUST MEET APPLICABLE
+24 SAFETY, RELIABILITY, LABOR, AND TECHNICAL STANDARDS.
+25 (d) AN INTERCONNECTION CUSTOMER MAY APPEAL TO THE
+26 COMMISSION A PUBLIC UTILITY'S DENIAL OF THE INTERCONNECTION
+27 CUSTOMER'S REQUEST TO CONTRACT WITH A THIRD PARTY TO PERFORM AN
+-7- HB26-1225
+
+1 INTERCONNECTION STUDY OR UPGRADE.
+2 SECTION 5. Safety clause. The general assembly finds,
+3 determines, and declares that this act is necessary for the immediate
+4 preservation of the public peace, health, or safety or for appropriations for
+5 the support and maintenance of the departments of the state and state
+6 institutions.
+-8- HB26-1225

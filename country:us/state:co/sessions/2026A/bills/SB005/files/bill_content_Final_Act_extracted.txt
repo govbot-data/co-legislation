@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+SENATE BILL 26-005
+BY SENATOR(S) Weissman and Gonzales J., Coleman, Hinrichsen, Jodeh,
+Kipp, Marchman, Rodriguez, Wallace, Amabile, Ball, Bridges, Cutter,
+Danielson, Exum, Kolker, Lindstedt, Snyder, Sullivan;
+also REPRESENTATIVE(S) Mabrey and Zokaie, Bacon, Boesenecker,
+Brown, Duran, English, Froelich, Garcia, Gilchrist, Jackson, Joseph,
+Lindsay, McCormick, Nguyen, Paschal, Rutinel, Rydin, Sirota, Smith,
+Story, Titone, Velasco, Willford, Woodrow.
+CONCERNING STATE COURT REMEDIES FOR VIOLATIONS OF FEDERAL
+CONSTITUTIONAL RIGHTS OCCURRING DURING IMMIGRATION
+ENFORCEMENT, AND, IN CONNECTION THEREWITH, MAKING AN
+APPROPRIATION.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds and declares that:
+(a) Since the earliest days of the nation, the United States supreme
+court has held, in cases such as Little v. Barreme, 6 U.S. 170 (1804), and
+Murray v. The Charming Betsey, 6 U.S. 64 (1804), that federal officials
+may be liable in damages for violations of federal laws;
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(b) In later 19th century cases as well, the United States supreme
+court held that federal officials could be liable for damages even for reasons
+relating to but beyond the lawful scope of federal duties, Mitchell v.
+Harmony, 54 U.S. 115 (1851), and in particular that state courts possessed
+jurisdiction to consider such damages claims, Teal v. Felton, 53 U.S. 284
+(1852);
+(c) The United States supreme court has long held that federal
+employees are not inherently beyond the reach of state laws simply because
+they are federal employees. For example, in Johnson v. Maryland, 254 U.S.
+51 (1920), the court noted, "[A]n employee of the United States does not
+secure a general immunity from state law while acting in the course of his
+employment", and in Colorado v. Symes, 286 U.S. 510 (1932), the court
+stated, "Federal officers and employees are not, merely because they are
+such, granted immunity from prosecution in state courts for crimes against
+state law".
+(d) Decades later, the United States supreme court continued to
+recognize the role of state law in holding federal officials accountable for
+legal violations, noting in Wheeldin v. Wheeler, 373 U.S. 647 (1963),
+"[w]hen it comes to suits for damages for abuse of power, federal officials
+are usually governed by local law";
+(e) When the United States supreme court recognized a federal law
+cause of action for violation of certain constitutional rights in Bivens v. Six
+Unknown Fed. Narcotics Agents, 403 U.S. 388 (1971), that cause of action
+was in addition to, rather than instead of, traditional state law remedies.
+Even one of the dissenting justices in Bivens noted the ongoing role of state
+courts, writing, "The task of evaluating the pros and cons of creating
+judicial remedies for particular wrongs is a matter for Congress and the
+legislatures of the States".
+(f) More recently, congress has made federal statutory law the
+exclusive remedy for certain claims sounding in tort, but this exclusivity
+specifically "does not extend or apply to a civil action against an employee
+of the Government [. . .] which is brought for a violation of the Constitution
+of the United States", 28 U.S.C. sec. 2679. The prime sponsor of legislation
+amending the federal "Tort Claims Act" to provide for limited exclusivity
+took pains to clarify, "We make special provisions here to make clear that
+PAGE 2-SENATE BILL 26-005
+
+the more controversial issue of constitutional torts is not covered by this
+bill. If you are accused of having violated someone's constitutional rights,
+this bill does not affect it", 134 Cong. Rec. 15963 (1988).
+(g) In 2022, in declining to extend the scope of the Bivens action in
+Egbert v. Boule, 596 U.S. 482 (2022), the United States supreme court
+observed that legislatures, not courts, are the better branches of government
+to fashion damages remedies;
+(h) In its most recently completed term, the United States supreme
+court declined, in Martin v. United States, 145 S. Ct. 1689 (2025), to extend
+the doctrine of supremacy clause immunity beyond its traditional criminal
+law context;
+(i) Violating the federal constitutional rights of residents of the
+United States has never been and can never be "necessary and proper" to the
+execution of the laws and powers of the United States within the meaning
+of article I, section 8, clause 18 of the United States constitution; and
+(j) In enacting this act, the Colorado general assembly affirms its
+longstanding and rightful role as a sovereign state in providing forum in its
+courts for adjudication of claims of federal constitutional violations.
+SECTION 2. In Colorado Revised Statutes, add 13-20-1303 as
+follows:
+13-20-1303. Civil action for violation of constitutional rights
+during immigration enforcement - relief - attorney fees - time limit to
+commence action - definition.
+(1) A PERSON WHO HAS THEIR RIGHTS THAT ARE GUARANTEED BY
+THE UNITED STATES CONSTITUTION VIOLATED BY ANOTHER PERSON WHO,
+ACTING UNDER COLOR OF ANY FEDERAL, STATE, OR LOCAL LAW, IS
+PARTICIPATING IN CIVIL IMMIGRATION ENFORCEMENT, MAY BRING A CIVIL
+ACTION AGAINST ANOTHER PERSON WHOSE CONDUCT WAS THE PROXIMATE
+CAUSE OF THE VIOLATION. A PERSON FOUND TO HAVE VIOLATED THE UNITED
+STATES CONSTITUTION WHILE PARTICIPATING IN CIVIL IMMIGRATION
+ENFORCEMENT IS LIABLE TO THE PERSON WHOSE RIGHTS ARE VIOLATED FOR
+LEGAL OR EQUITABLE RELIEF OR ANY OTHER APPROPRIATE RELIEF.
+PAGE 3-SENATE BILL 26-005
+
+(2) (a) IN AN ACTION BROUGHT PURSUANT TO THIS SECTION, A COURT
+SHALL AWARD REASONABLE ATTORNEY FEES AND COSTS TO A PREVAILING
+PLAINTIFF. IN ACTIONS FOR INJUNCTIVE RELIEF, A COURT SHALL DEEM A
+PLAINTIFF TO HAVE PREVAILED IF THE PLAINTIFF'S SUIT WAS A SUBSTANTIAL
+FACTOR OR SIGNIFICANT CATALYST IN OBTAINING THE RESULTS SOUGHT BY
+THE LITIGATION.
+(b) WHEN A JUDGMENT IS ENTERED IN FAVOR OF A DEFENDANT, THE
+COURT MAY AWARD REASONABLE COSTS AND ATTORNEY FEES TO THE
+DEFENDANT FOR DEFENDING ANY CLAIMS THE COURT FINDS FRIVOLOUS.
+(3) TO THE MAXIMUM EXTENT PERMISSIBLE UNDER THE UNITED
+STATES CONSTITUTION AND 42 U.S.C. SEC. 1983, A GRANT OF IMMUNITY TO
+A DEFENDANT, INCLUDING, BUT NOT LIMITED TO, SOVEREIGN IMMUNITY;
+OFFICIAL IMMUNITY; INTERGOVERNMENTAL IMMUNITY; QUALIFIED
+IMMUNITY; SUPREMACY CLAUSE IMMUNITY; STATUTORY IMMUNITY,
+INCLUDING THE "COLORADO GOVERNMENTAL IMMUNITY ACT", ARTICLE 10
+OF TITLE 24; OR COMMON LAW IMMUNITY, DOES NOT APPLY IN AN ACTION
+BROUGHT PURSUANT TO THIS SECTION.
+(4) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+REQUIRES, "CIVIL IMMIGRATION ENFORCEMENT" MEANS AN ACTION TO
+INVESTIGATE, QUESTION, DETAIN, TRANSFER, OR ARREST A PERSON FOR THE
+PURPOSE OF ENFORCING FEDERAL CIVIL IMMIGRATION LAW. "CIVIL
+IMMIGRATION ENFORCEMENT" DOES NOT INCLUDE AN ACTION COMMITTED
+BY A PEACE OFFICER WHO IS ACTING WITHIN THE SCOPE OF THE PEACE
+OFFICER'S DUTIES CONSISTENT WITH STATE LAW.
+(5) PURSUANT TO SECTION 13-80-102, A CIVIL ACTION DESCRIBED IN
+THIS SECTION MUST BE COMMENCED WITHIN TWO YEARS AFTER THE CAUSE
+OF ACTION ACCRUES.
+SECTION 3. In Colorado Revised Statutes, 13-80-102, amend
+(1)(k); and add (1)(l) as follows:
+13-80-102. General limitation of actions - two years.
+(1) The following civil actions, regardless of the theory upon which
+suit is brought, or against whom suit is brought, must be commenced within
+two years after the cause of action accrues, and not thereafter:
+PAGE 4-SENATE BILL 26-005
+
+(k) All actions brought under PURSUANT TO section 13-21-109 (2);
+AND
+(l) AN ACTION ALLEGING A VIOLATION OF CONSTITUTIONAL RIGHTS
+DURING CIVIL IMMIGRATION ENFORCEMENT BROUGHT PURSUANT TO SECTION
+13-20-1303.
+SECTION 4. Severability. If any provision of this act or the
+application of this act to any person or circumstance is held invalid, the
+invalidity does not affect other provisions or applications of the act that can
+be given effect without the invalid provision or application, and to this end
+the provisions of this act are declared to be severable.
+SECTION 5. Appropriation. For the 2026-27 state fiscal year,
+$125,604 is appropriated to the department of law. This appropriation is
+from the legal services cash fund created in section 24-31-108 (4), C.R.S.,
+from revenue received from the department of personnel that is
+continuously appropriated to the department of personnel from the risk
+management fund created in section 24-30-1510 (1)(a), C.R.S. The
+appropriation to the department of law is based on an assumption that the
+department of law will require an additional 0.5 FTE. To implement this
+act, the department of law may use this appropriation to provide legal
+services for the department of personnel.
+SECTION 6. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 5-SENATE BILL 26-005
+
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+James Rashad Coleman, Sr. Julie McCluskie
+PRESIDENT OF SPEAKER OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+____________________________ ____________________________
+Esther van Mourik Vanessa Reilly
+SECRETARY OF CHIEF CLERK OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 6-SENATE BILL 26-005

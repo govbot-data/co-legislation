@@ -1,0 +1,265 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0596.01 Alison Killen x4350 SENATE BILL 26-058
+SENATE SPONSORSHIP
+Zamora Wilson,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO VOTER REGISTRATION, AND, IN
+102 CONNECTION THEREWITH, ELIMINATING THE AUTOMATIC
+103 VOTER REGISTRATION PROVISIONS FOR DEFAULT REGISTRATION
+104 OF ELECTORS AS UNAFFILIATED VOTERS AND REQUIRING THE
+105 REGISTRATION RECORDS OF ELECTORS WHO FAIL TO VOTE IN
+106 TWO CONSECUTIVE GENERAL ELECTIONS TO BE MARKED
+107 INACTIVE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill modifies the automatic voter registration process by
+replacing the default registration or preregistration of a person who
+applies for a driver's license or identification card as an unaffiliated voter
+with a pending registration or preregistration status (pending status). Only
+a person who has affirmatively chosen to be an unaffiliated voter is
+registered or preregistered as such. The pending status applies to a
+potential voter whose intent to register or preregister or whose party
+affiliation is unknown or pending due to a need for further information or
+a failure to respond.
+A pending voter registration or preregistration record created
+through existing processes may be finalized if the person affirms their
+intent to register or preregister, provides their desired party affiliation or
+identification as unaffiliated, and self-affirms their qualifications in the
+form required for all registrations to be complete. If a notice seeking such
+information is returned as undeliverable within 20 days, the pending
+registration or preregistration is canceled. After 20 days, an undeliverable
+pending registration or preregistration is marked "inactive". If a notice is
+not returned at all, or a person's response is incomplete, their pending
+registration or preregistration is marked "inactive". If a person
+subsequently votes in an election, their "inactive" pending registration or
+preregistration becomes an active voter registration record.
+A county clerk and recorder may, in their discretion, provide notice
+of an "inactive" pending registration or preregistration record and further
+attempt to finalize the pending registration or preregistration.
+The bill also adds a requirement for county clerk and recorders to
+mark a voter's registration as "inactive" if they fail to vote in 2
+consecutive general elections held in even-numbered years.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration.
+3 (1) The general assembly finds and declares that:
+4 (a) Colorado's automatic voter registration (AVR) program has
+5 successfully registered hundreds of thousands of new voters through the
+6 department of revenue and other voter registration agencies;
+7 (b) Currently, an elector whose voter registration is initiated
+8 through AVR is by default registered, or preregistered, as "unaffiliated",
+9 without the elector's declaration of affiliation or self-affirmation of
+-2- SB26-058
+
+1 qualifications;
+2 (c) Many electors incorrectly believe that the state has actively
+3 identified them as "unaffiliated" voters and express confusion, frustration,
+4 and distrust regarding this default classification while working with their
+5 county clerk and recorder to change their voter registration records;
+6 (d) The AVR system's "unaffiliated" default also creates an
+7 administrative burden for county clerks and recorders who assist electors
+8 in correcting the elector's affiliation on their voter registration records;
+9 (e) Establishing a pending voter registration status in the AVR
+10 system clarifies that further action and affirmative elector input is
+11 required to complete their voter registration record, including declaration
+12 of party affiliation or identification as unaffiliated; and
+13 (f) Modifying AVR to clearly identify and properly process
+14 pending voter registration records increases system transparency, builds
+15 trust with participants, improves the accuracy of voter registration
+16 records, and gives county clerks and recorders direction for further
+17 outreach to potential voters.
+18 (2) The general assembly further finds and declares that:
+19 (a) There are over one hundred thousands electors in Colorado
+20 with "active" voter registration records but who have not voted in at least
+21 two consecutive general elections held in even-numbered years; and
+22 (b) Changing the status of these electors to "inactive" is a
+23 cost-saving measure that will save taxpayers millions of dollars in
+24 election-related expenses.
+25 SECTION 2. In Colorado Revised Statutes, 1-2-213.3, amend
+26 (1)(b), (2), (3), (4), (5), (6), (7), and (8) as follows:
+27 1-2-213.3. Transfer of new voter registration records from
+-3- SB26-058
+
+1 department of revenue.
+2 (1) (b) The department of revenue shall continue to offer any
+3 person not registered PENDING REGISTRATION to vote pursuant to
+4 subsection (2) of this section an opportunity to register to vote pursuant
+5 to section 1-2-213, unless they have provided documentation
+6 demonstrating a lack of United States citizenship.
+7 (2) Upon receiving an electronic record for an individual A
+8 PERSON who provided documentation that confirmed his or her THEIR
+9 citizenship and contains the minimum information to PROCEED TO register
+10 OR PREREGISTER the individual PERSON to vote, the secretary of state shall
+11 provide the PENDING VOTER REGISTRATION information to the county
+12 clerk and recorder of the county in which the person resides. Upon receipt
+13 of a PENDING VOTER REGISTRATION record, the county clerk and recorder
+14 shall determine if the record is complete for the purposes of FINALIZING
+15 THE PENDING voter registration OR PREREGISTRATION.
+16 (3) If the record is complete for purposes of FINALIZING PENDING
+17 voter registration or preregistration, the county clerk and recorder shall
+18 send to the person's address of record, by nonforwardable mail:
+19 (a) If the record is for an eligible elector, notice that the elector
+20 has been registered to vote VOTER REGISTRATION IS PENDING and a
+21 postage paid pre-addressed return form by which the elector PERSON may:
+22 (I) Decline to be registered as an elector; or
+23 (II) Affiliate with a political party OR IDENTIFY AS UNAFFILIATED
+24 WITH ANY POLITICAL PARTY AND SIGN A SELF-AFFIRMATION IN THE FORM
+25 REQUIRED BY SECTION 1-2-205; and
+26 (b) If the record is for a person eligible to preregister under
+27 section 1-2-101 (2), notice that the person has been preregistered and will
+-4- SB26-058
+
+1 be automatically registered PREREGISTRATION AND AUTOMATIC
+2 REGISTRATION upon turning eighteen years of age OLD IS PENDING, and a
+3 postage paid preaddressed return form by which the person may:
+4 (I) Decline to be preregistered OR AUTOMATICALLY REGISTERED;
+5 or
+6 (II) Affiliate with a political party OR IDENTIFY AS UNAFFILIATED
+7 WITH ANY POLITICAL PARTY AND SIGN A SELF-AFFIRMATION IN THE FORM
+8 REQUIRED BY SECTION 1-2-205.
+9 (4) If the record is not complete FOR PURPOSES OF FINALIZING
+10 PENDING VOTER REGISTRATION OR PREREGISTRATION, the county clerk and
+11 recorder shall send to the person's address of record, by nonforwardable
+12 mail, notice that the person has not been registered or preregistered to
+13 vote and stating the additional information required to register or
+14 preregister, INCLUDING ANY INFORMATION REQUIRED BY SECTION 1-2-204
+15 AND A SIGNED SELF-AFFIRMATION IN THE FORM REQUIRED BY SECTION
+16 1-2-205. If the person provides the additional information, the person is
+17 registered or preregistered to vote effective as of the date of the person's
+18 application with the department of revenue. If the person does not provide
+19 the additional information necessary to make his or her application THE
+20 PENDING VOTER REGISTRATION INFORMATION complete and accurate
+21 within twenty-four months after the notification is mailed pursuant to this
+22 subsection (4), the person's PENDING registration OR PREREGISTRATION
+23 PURSUANT TO SUBSECTION (2) OF THIS SECTION is canceled.
+24 (5) A notice mailed under subsection (3) OR (4) of this section
+25 must include an explanation, in both English and Spanish, of the
+26 eligibility requirements to register or preregister to vote, and a statement
+27 that, if the person is not eligible, the person should decline to register OR
+-5- SB26-058
+
+1 PREREGISTER using the preaddressed return form.
+2 (6) The notice provided under subsection (3) OR (4) of this section
+3 must include a statement that, if the person declines to register or
+4 preregister to vote, the fact that the person has declined will remain
+5 confidential and will be used only for voter registration statistics
+6 purposes, and a statement that, if a person remains IS registered or
+7 preregistered to vote, the office at which the person was registered or
+8 preregistered will remain confidential and will be used only for voter
+9 registration statistics purposes.
+10 (7) (a) (I) If a notice provided under subsections (3) and OR (4) of
+11 this section is returned as undeliverable within twenty days after the
+12 county clerk and recorder mails the notice, the person's PENDING
+13 registration or preregistration is canceled and the person is deemed to
+14 have never registered or preregistered. If the notice is returned as
+15 undeliverable after twenty days after the county clerk and recorder mails
+16 the notice, the person's PENDING registration or preregistration is marked
+17 inactive.
+18 (II) Notwithstanding subsection (7)(a)(I) of this section, if a
+19 person votes in an election after the transfer of the person's record
+20 PURSUANT TO SUBSECTION (1) OF THIS SECTION but before the notice is
+21 returned as undeliverable, the person's PENDING registration shall not be
+22 canceled or marked inactive.
+23 (b) If a notice provided under subsection (3) of this section is not
+24 returned within twenty days, the person is registered or preregistered as
+25 of the date of the person's application at the department of revenue and
+26 the person shall be marked as unaffiliated PERSON'S PENDING
+27 REGISTRATION OR PREREGISTRATION IS MARKED INACTIVE. THE COUNTY
+-6- SB26-058
+
+1 CLERK AND RECORDER MAY, IN THEIR DISCRETION, PROVIDE NOTICE OF
+2 INACTIVE PENDING REGISTRATION OR PREREGISTRATION STATUS AND MAY
+3 PURSUE FINALIZATION OF SUCH PENDING REGISTRATION OR
+4 PREREGISTRATION IN ACCORDANCE WITH THIS SECTION.
+5 (c) If a person returns the form provided under subsection (3) of
+6 this section and declines to be registered or preregistered, including if the
+7 person returns the form and both declines to be registered or preregistered
+8 and also affiliates with a party, the person's PENDING registration or
+9 preregistration is canceled and the person is deemed to have never
+10 registered or preregistered; except that, if the person has voted VOTES in
+11 an election, the return form is of no effect and the person remains IS
+12 registered as of the date of the person's application with the department
+13 of revenue.
+14 (d) If a person returns the form provided under subsection (3) of
+15 this section and affiliates with a party OR IDENTIFIES AS UNAFFILIATED
+16 AND PROVIDES THE REQUIRED SELF-AFFIRMATION, the person is registered
+17 or preregistered as of the date of the person's application with the
+18 department of revenue and the person's affiliation shall be marked
+19 effective as of the date the affiliation information was received.
+20 (e) If a person returns the form without marking either the option
+21 to decline or the option to affiliate with a party the returned form is of no
+22 effect. The person is registered or preregistered as of the date of the
+23 person's application with the department of revenue and shall be marked
+24 as unaffiliated OR IDENTIFY AS UNAFFILIATED, THE PERSON'S PENDING
+25 REGISTRATION OR PREREGISTRATION IS MARKED INACTIVE. THE COUNTY
+26 CLERK AND RECORDER MAY, IN THEIR DISCRETION, PROVIDE NOTICE OF
+27 INACTIVE PENDING REGISTRATION OR PREREGISTRATION STATUS AND MAY
+-7- SB26-058
+
+1 PURSUE FINALIZATION OF SUCH PENDING REGISTRATION OR
+2 PREREGISTRATION IN ACCORDANCE WITH THIS SECTION.
+3 (8) After the twenty-day period described in subsection (7) of this
+4 section passes, The registration information of a person registered OR
+5 PREREGISTERED pursuant to this section, including the fact that the person
+6 was registered through a voter registration agency, becomes a registration
+7 record that must be maintained and made available for public inspection
+8 in accordance with section 1-2-227. Information relating to the return of
+9 a notice form by a person declining to be registered or preregistered and
+10 information relating to the specific agency at which a person was
+11 registered pursuant to this section is not a public record subject to public
+12 inspection and shall not be used for any purpose other than voter
+13 registration statistics.
+14 SECTION 3. In Colorado Revised Statutes, 1-2-605, add (1.5)
+15 as follows:
+16 1-2-605. Canceling registration - procedures.
+17 (1.5) IF AN ACTIVE ELECTOR FAILS TO VOTE IN AT LEAST ONE
+18 ELECTION CONDUCTED BY A COUNTY CLERK AND RECORDER DURING A
+19 TIME PERIOD THAT INCLUDES TWO CONSECUTIVE GENERAL ELECTIONS
+20 HELD IN EVEN-NUMBERED YEARS, THEN THE COUNTY CLERK AND
+21 RECORDER SHALL MARK THE ELECTOR'S REGISTRATION RECORD
+22 "INACTIVE" AND MAIL THE ELECTOR A CONFIRMATION CARD BY WHICH THE
+23 ELECTOR MAY VERIFY THEIR STATUS AS AN ACTIVE ELECTOR IN THE
+24 COUNTY. IF THE ELECTOR VERIFIES THEIR STATUS AS AN ACTIVE ELECTOR
+25 IN THE COUNTY, THE COUNTY CLERK AND RECORDER SHALL MARK THE
+26 ELECTOR'S REGISTRATION RECORD "ACTIVE". IF AN ELECTOR'S
+27 CONFIRMATION CARD IS RETURNED BY THE UNITED STATES POSTAL
+-8- SB26-058
+
+1 SERVICE AS UNDELIVERABLE, THE COUNTY CLERK AND RECORDER SHALL
+2 PROCEED WITH ADDRESS VERIFICATION IN ACCORDANCE WITH SUBSECTION
+3 (5) OF THIS SECTION. IF THE ELECTOR FAILS TO RESPOND, THE COUNTY
+4 CLERK AND RECORDER SHALL LEAVE THE REGISTRATION RECORD OF THAT
+5 ELECTOR MARKED "INACTIVE".
+6 SECTION 4. Act subject to petition - effective date. This act
+7 takes effect at 12:01 a.m. on the day following the expiration of the
+8 ninety-day period after final adjournment of the general assembly (August
+9 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+10 referendum petition is filed pursuant to section 1 (3) of article V of the
+11 state constitution against this act or an item, section, or part of this act
+12 within such period, then the act, item, section, or part will not take effect
+13 unless approved by the people at the general election to be held in
+14 November 2026 and, in such case, will take effect on the date of the
+15 official declaration of the vote thereon by the governor.
+-9- SB26-058

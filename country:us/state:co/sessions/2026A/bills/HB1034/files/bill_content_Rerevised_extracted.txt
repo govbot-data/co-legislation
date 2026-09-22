@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0461.01 Sarah Lozano x3858 HOUSE BILL 26-1034
+House Committees Senate Committees
+Agriculture, Water & Natural Resources Agriculture & Natural Resources
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO ENVIRONMENTAL STANDARDS FOR
+102 CERTAIN IRRIGATION EQUIPMENT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+House Bill 23-1161 established environmental standards for
+irrigation controllers and spray sprinkler bodies that are sold or leased in
+the state on and after January 1, 2026, and are not specifically excluded
+from the federal WaterSense program (program).
+The bill repeals the environmental standard for irrigation
+controllers. The bill also modifies the environmental standard for spray
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,52
+hcraM
+6202
+,42
+hcraM
+6202
+,32
+yraurbeF
+6202
+,91
+yraurbeF
+HOUSE SPONSORSHIP
+Johnson and Lukens, Barron, Duran, Garcia Sander, Goldstein, Gonzalez R., Keltie,
+Lindsay, Marshall, McCluskie, Nguyen, Stewart K., Taggart, Woodrow
+SENATE SPONSORSHIP
+Pelton R. and Hinrichsen, Catlin, Coleman, Exum, Kipp, Roberts, Simpson
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+sprinkler bodies to:
+! No longer require that spray sprinkler bodies include a
+check valve; and
+! Require that spray sprinkler bodies are certified to the
+program, rather than requiring that spray sprinkler bodies
+meet the water efficiency and performance criteria of the
+program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-7.5-102, repeal
+3 (10), (38), (47), and (62) as follows:
+4 6-7.5-102. Definitions.
+5 As used in this article 7.5, unless the context otherwise requires
+6 and except as determined by rule pursuant to section 6-7.5-106 (1):
+7 (10) "Check valve" means a component that is internal to a spray
+8 sprinkler body and prevents system drainage during periods of
+9 nonoperation.
+10
+11 (38) "Irrigation controller" means a standalone controller, an
+12 add-on device, or a plug-in device that is used to operate an automatic
+13 irrigation system such as a lawn sprinkler or drip irrigation system
+14 designed and intended for nonagricultural purposes. "Irrigation
+15 controller" includes:
+16 (a) A soil moisture-based irrigation controller that inhibits or
+17 allows an irrigation event based on a reading from a soil moisture sensor
+18 mechanism; and
+19 (b) A weather-based irrigation controller that uses current weather
+20 data as a basis for scheduling irrigation.
+21 (47) "Pressure regulator" means a device that maintains constant
+22 operating pressure immediately downstream from a spray sprinkler body,
+-2- 1034
+
+1 given higher pressure upstream of the device.
+2 (62) "Spray sprinkler body" means the exterior case or shell of a
+3 sprinkler designed and intended for nonagricultural uses, which case or
+4 shell:
+5 (a) Incorporates a means of connection to the piping system; and
+6 (b) Is designed to convey water to a nozzle or orifice.
+7 SECTION 2. In Colorado Revised Statutes, 6-7.5-104, repeal
+8 (1)(j.7) and (1)(n) as follows:
+9 6-7.5-104. Scope and applicability.
+10 (1) Subject to subsection (2) of this section and as further
+11 specified in section 6-7.5-105, this article 7.5 applies to the following
+12 products sold as new in Colorado:
+13 (j.7) Irrigation controllers;
+14 (n) Spray sprinkler bodies;
+15 SECTION 3. In Colorado Revised Statutes, 6-7.5-105, repeal
+16 (5)(h) and (5)(k) as follows:
+17 6-7.5-105. Standards - effective dates.
+18 (5) On and after January 1, 2026, a person shall not sell, offer to
+19 sell, lease, or offer to lease any of the following new products in Colorado
+20 unless the efficiency of the new product meets or exceeds the following
+21 efficiency standards, as applicable:
+22 (h) Irrigation controllers must comply with the following
+23 requirements:
+24 (I) Weather-based irrigation controllers included within the scope
+25 of the WaterSense program product specification for weather-based
+26 irrigation controllers must meet the water efficiency and performance
+27 criteria and other requirements for that specification; and
+-3- 1034
+
+1 (II) Soil moisture-based irrigation controllers included within the
+2 scope of the WaterSense program product specification for soil
+3 moisture-based irrigation controllers must meet the water efficiency and
+4 performance criteria and other requirements for that specification.
+5 (k) Spray sprinkler bodies that are not specifically excluded from
+6 the scope of the WaterSense program product specification for spray
+7 sprinkler bodies must include an integral pressure regulator and a check
+8 valve and must meet the water efficiency and performance criteria and
+9 other requirements of that specification.
+10
+11 SECTION 4. Act subject to petition - effective date -
+12 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+13 the expiration of the ninety-day period after final adjournment of the
+14 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+15 2026); except that, if a referendum petition is filed pursuant to section 1
+16 (3) of article V of the state constitution against this act or an item, section,
+17 or part of this act within such period, then the act, item, section, or part
+18 will not take effect unless approved by the people at the general election
+19 to be held in November 2026 and, in such case, will take effect on the
+20 date of the official declaration of the vote thereon by the governor.
+21 (2) This act applies to conduct occurring on or after the applicable
+22 effective date of this act.
+-4- 1034

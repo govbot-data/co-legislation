@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0333.01 Jery Payne x2157 HOUSE BILL 26-1286
+House Committees Senate Committees
+Transportation, Housing & Local Government
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING A REQUIREMENT THAT A COMMERCIAL MOTOR VEHICLE
+102 HAVE A HUMAN PRESENT WHEN THE COMMERCIAL MOTOR
+103 VEHICLE IS BEING DRIVEN BY AN AUTOMATED DRIVING SYSTEM,
+104 AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits using an automated driving system to drive a
+commercial motor vehicle unless an individual who holds a commercial
+driver's license is in the vehicle, monitors the vehicle's driving, and
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,9
+yaM
+6202
+,7
+yaM
+HOUSE SPONSORSHIP
+Lieder and Richardson, Bacon, Barron, Brown, Camacho, Carter, Clifford, Duran, Feret,
+Flanell, Froelich, Garcia, Garcia Sander, Goldstein, Hamrick, Hartsook, Jackson, Joseph,
+Lukens, Mabrey, Martinez, Mauro, Nguyen, Paschal, Ricks, Rutinel, Rydin, Slaugh, Smith,
+Soper, Titone, Velasco, Willford, Winter T., Woodrow, Woog, Zokaie, Espenoza, Lindsay,
+Phillips, Sirota, Story
+SENATE SPONSORSHIP
+Kolker and Liston,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+intervenes, if necessary, to avoid illegal or unsafe driving. If the
+commercial vehicle is transporting hazardous materials, the individual
+must be in the driver's seat. The penalty is $1,000 for a first offense, is
+$2,000 for a second offense, and doubles for each subsequent offense.
+The bill does not apply to a light-duty vehicle or a truck-mounted
+attenuator.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 42-4-242, amend (1)
+3 as follows:
+4 42-4-242. Automated driving systems - safe harbor.
+5 (1) SUBJECT TO SECTION 42-2-410, a person may use an automated
+6 driving system to drive a motor vehicle or to control a function of a motor
+7 vehicle if the system is capable of complying with every state and federal
+8 law that applies to the function that the system is operating.
+9 SECTION 2. In Colorado Revised Statutes, add 42-2-410 as
+10 follows:
+11 42-2-410. Automated driving systems for commercial motor
+12 vehicles - exceptions - definitions - repeal.
+13 (1) A PERSON SHALL NOT USE AN AUTOMATED DRIVING SYSTEM ON
+14 A HIGHWAY TO DRIVE A COMMERCIAL MOTOR VEHICLE THAT HAS A
+15 MANUFACTURER'S GROSS VEHICLE WEIGHT RATING OR GROSS
+16 COMBINATION WEIGHT RATING OF TWENTY-SIX THOUSAND ONE POUNDS OR
+17 MORE UNLESS AN INDIVIDUAL WHO HOLDS THE APPROPRIATE COMMERCIAL
+18 DRIVER'S LICENSE WITH ANY REQUIRED ENDORSEMENT FOR THE
+19 COMMERCIAL VEHICLE:
+20 (a) IS PHYSICALLY PRESENT IN THE CAB OF THE COMMERCIAL
+21 MOTOR VEHICLE AND PREPARED TO INTERVENE, IF NECESSARY, TO AVOID
+22 ILLEGAL OR UNSAFE DRIVING OF THE COMMERCIAL MOTOR VEHICLE;
+-2- 1286
+
+1 (b) IS SEATED IN THE DRIVER'S SEAT OF THE COMMERCIAL MOTOR
+2 VEHICLE IF HAZARDOUS MATERIALS ARE BEING TRANSPORTED;
+3 (c) MONITORS THE PERFORMANCE OF THE COMMERCIAL MOTOR
+4 VEHICLE WHILE DRIVING ON THE ROADWAY; AND
+5 (d) INTERVENES, IF NECESSARY, TO AVOID ILLEGAL OR UNSAFE
+6 DRIVING OF THE COMMERCIAL MOTOR VEHICLE.
+7 (2) THIS SECTION DOES NOT AFFECT THE DUTY OF A PERSON TO
+8 COMPLY WITH PART 3 OF ARTICLE 20 OF THIS TITLE 42.
+9 (3) A PERSON THAT VIOLATES THIS SECTION COMMITS A CLASS A
+10 TRAFFIC INFRACTION AND IS SUBJECT TO:
+11 (a) A PENALTY OF ONE THOUSAND DOLLARS AND A SURCHARGE OF
+12 ONE HUNDRED FIFTY DOLLARS FOR A FIRST CONVICTION;
+13 (b) A PENALTY OF TWO THOUSAND DOLLARS AND A SURCHARGE OF
+14 ONE HUNDRED FIFTY DOLLARS FOR A SECOND CONVICTION; OR
+15 (c) (I) A SURCHARGE OF ONE HUNDRED FIFTY DOLLARS; AND
+16 (II) A PENALTY THAT DOUBLES THE PENALTY DESCRIBED IN
+17 SUBSECTION (3)(b) OF THIS SECTION FOR EACH SUBSEQUENT CONVICTION
+18 AFTER THE SECOND CONVICTION.
+19 (4) THIS SECTION DOES NOT APPLY TO A LIGHT-DUTY VEHICLE OR
+20 A TRUCK-MOUNTED ATTENUATOR.
+21 (5) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+22 REQUIRES:
+23 (a) "COMMERCIAL MOTOR VEHICLE" HAS THE SAME MEANING AS
+24 "COMMERCIAL VEHICLE" AS SET FORTH IN SECTION 42-4-235 (1)(a).
+25 (b) "TRUCK-MOUNTED ATTENUATOR" MEANS A HEAVY-DUTY
+26 TRUCK FITTED WITH AN ENERGY-ABSORBING CRASH DEVICE THAT ACTS AS
+27 A MOBILE BARRIER TO BE THE FIRST POINT OF CONTACT IN A REAR-END
+-3- 1286
+
+1 COLLISION AND THAT IS USED TO PROTECT PERSONNEL IN A HIGHWAY
+2 CONSTRUCTION OR MAINTENANCE ZONE.
+3 (6) (a) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2031.
+4 (b) THE CHIEF OF THE COLORADO STATE PATROL SHALL ANALYZE
+5 THIS SECTION'S EFFECTS ON COMMERCIAL VEHICLE SAFETY ON HIGHWAYS.
+6 BY NOVEMBER 1, 2030, THE CHIEF OF THE COLORADO STATE PATROL
+7 SHALL, BASED ON THE REVIEW, ISSUE A REPORT TO THE HOUSE OF
+8 REPRESENTATIVES TRANSPORTATION, HOUSING, AND LOCAL GOVERNMENT
+9 COMMITTEE AND THE SENATE TRANSPORTATION AND ENERGY COMMITTEE,
+10 OR THEIR SUCCESSOR COMMITTEES. THE REPORT MUST MAKE
+11 RECOMMENDATIONS AS WHETHER TO CONTINUE THIS SECTION, AND, IF THE
+12 RECOMMENDATION IS TO CONTINUE THIS SECTION, ANY RECOMMENDED
+13 LEGISLATION TO IMPROVE THIS SECTION.
+14
+15 SECTION 3. Appropriation. For the 2026-27 state fiscal year,
+16 $14,357 is appropriated to the department of revenue. This appropriation
+17 is from the Colorado DRIVES vehicle services account in the highway
+18 users tax fund created in section 42-1-211 (2), C.R.S. To implement this
+19 act, the department may use this appropriation as follows:
+20 (a) $10,400 for DRIVES maintenance and support;
+21 (b) $984 for use by the division of motor vehicles for personal
+22 services related to driver services;
+23 (c) $1,353 for use by the executive director's office for personal
+24 services related to administration and support; and
+25 (d) $1,620 for payments to OIT.
+26 SECTION 4. Applicability. This act applies to offenses
+27 committed on or after the effective date of this act.
+-4- 1286
+
+1 SECTION 5. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-5- 1286

@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+CORRECTED INTRODUCED
+LLS NO. 26-0055.03 Owen Hatch x2698 HOUSE BILL 26-1143
+HOUSE SPONSORSHIP
+Ricks and Joseph,
+SENATE SPONSORSHIP
+Weissman,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING INFORMATION COLLECTED FOR A BACKGROUND CHECK
+102 BY ENTITIES THAT PROVIDE NON-EMPLOYMENT-BASED
+103 EDUCATIONAL OPPORTUNITIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits an entity from requiring an individual to provide
+a social security number for a background check for a
+non-employment-based educational opportunity unless the entity also
+accepts an individual taxpayer identification number in lieu of a social
+security number, including in clinical educational experiences for
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+health-related academic programs, subject to certain exceptions.
+The attorney general is authorized to bring a civil action to enforce
+the provisions of the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado's prosperity depends on policies that ensure
+5 individuals can participate fully in education, training, volunteer service,
+6 and civic life while maintaining strong protections for vulnerable
+7 populations;
+8 (b) State and federal agencies, including the Colorado bureau of
+9 investigation and the federal bureau of investigation, conduct name-based
+10 and fingerprint-based background checks that do not require a social
+11 security number and are sufficient to identify criminal history and protect
+12 public safety;
+13 (c) Despite this, some public and private entities require a social
+14 security number for non-employment-based background checks,
+15 preventing otherwise qualified individuals from accessing
+16 non-employment-based educational opportunities, such as required
+17 clinical placements, internships, apprenticeships, volunteer opportunities,
+18 and other educational or training experiences;
+19 (d) These barriers disproportionately affect individuals who
+20 lawfully lack a social security number, delaying or preventing completion
+21 of educational programs and entry into high-demand professions without
+22 advancing public safety;
+23 (e) Allowing the use of an individual taxpayer identification
+24 number as an alternative identifier preserves the integrity of background
+-2- HB26-1143
+
+1 screening processes while expanding access to opportunity; and
+2 (f) Lifting these barriers still maintains existing criminal
+3 background screening standards and does not alter employment-related
+4 background check requirements.
+5 (2) Therefore, the general assembly declares that:
+6 (a) It is the public policy of the state that safety and not
+7 immigration status should determine access to educational and training
+8 opportunities; and
+9 (b) Removing unnecessary barriers to non-employment-based
+10 educational and training experiences strengthens Colorado's workforce,
+11 protects vulnerable populations, and advances the state's commitment to
+12 opportunity, dignity, and shared prosperity.
+13 SECTION 2. In Colorado Revised Statutes, add 8-2-128.5 as
+14 follows:
+15 8-2-128.5. Prohibitions of non-employer - requiring social
+16 security number - exceptions - definitions.
+17 (1) (a) AN ENTITY THAT REQUIRES AN APPLICANT TO PROVIDE A
+18 SOCIAL SECURITY NUMBER FOR A BACKGROUND CHECK AS A CONDITION TO
+19 PARTICIPATE IN OR OTHERWISE AVAIL THEMSELF OF A
+20 NON-EMPLOYMENT-BASED EDUCATIONAL OPPORTUNITY SHALL ALSO
+21 ACCEPT AN INDIVIDUAL TAXPAYER IDENTIFICATION NUMBER IN LIEU OF A
+22 SOCIAL SECURITY NUMBER.
+23 (b) NON-EMPLOYMENT-BASED EDUCATIONAL OPPORTUNITIES
+24 COVERED BY THIS SECTION INCLUDE, BUT ARE NOT LIMITED TO, AN UNPAID
+25 VOLUNTEER ROLE; UNPAID INTERNSHIP; UNPAID PRE-APPRENTICESHIP; AND
+26 UNPAID CLINICAL EXPERIENCE IN A HOSPITAL OR CLINIC, INCLUDING
+27 NON-EMPLOYMENT-BASED EDUCATIONAL OPPORTUNITIES REQUIRED FOR
+-3- HB26-1143
+
+1 GRADUATION OR LICENSURE IN A HEALTH-RELATED ACADEMIC PROGRAM.
+2 (c) THIS SECTION DOES NOT APPLY TO POSITIONS THAT CONSTITUTE
+3 EMPLOYMENT AS DESCRIBED IN SECTION 8-70-115.
+4 (2) NOTWITHSTANDING SUBSECTION (1) OF THIS SECTION, AN
+5 APPLICANT MAY BE REQUIRED TO DISCLOSE THEIR SOCIAL SECURITY
+6 NUMBER:
+7 (a) TO AN ENTITY REQUIRED TO COLLECT THE SOCIAL SECURITY
+8 NUMBER:
+9 (I) BY STATE OR FEDERAL LAW OR RULE;
+10 (II) BY A GOVERNMENTAL OR ACCREDITATION ORGANIZATION'S
+11 MANDATORY PROGRAM OF LEGAL COMPLIANCE TO CHECK ANY
+12 GOVERNMENTAL BACKGROUND CHECK DATABASE;
+13 (III) TO COMPLY WITH REQUIREMENTS FOR A FEDERAL OR STATE
+14 GRANT; OR
+15 (IV) TO REIMBURSE AN APPLICANT FOR EXPENSES INCURRED IN
+16 THE ACTUAL PERFORMANCE OF THEIR DUTIES ONLY IF THE
+17 REIMBURSEMENT CANNOT BE PROCESSED WITH AN INDIVIDUAL TAXPAYER
+18 IDENTIFICATION NUMBER OR EMPLOYER IDENTIFICATION NUMBER IN
+19 ACCORDANCE WITH APPLICABLE FEDERAL OR STATE TAX LAW THAT
+20 REQUIRES USING THE SOCIAL SECURITY NUMBER; OR
+21 (b) IF THE APPLICANT IS APPLYING FOR A
+22 NON-EMPLOYMENT-BASED EDUCATIONAL OPPORTUNITY THAT REQUIRES
+23 A PERSON TO SIGN CHECKS OR ENGAGE IN OTHER TRANSACTIONS
+24 INVOLVING THE ENTITY'S ASSETS OR ACCOUNTS AND THE FINANCIAL
+25 INSTITUTION HOLDING THOSE ASSETS OR ACCOUNTS DOES NOT ACCEPT AN
+26 INDIVIDUAL TAXPAYER IDENTIFICATION NUMBER OR EMPLOYER
+27 IDENTIFICATION NUMBER IN PLACE OF A SOCIAL SECURITY NUMBER TO
+-4- HB26-1143
+
+1 VERIFY THE IDENTITY OF AUTHORIZED PERSONS.
+2 (3) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+3 REQUIRES, "ENTITY" MEANS:
+4 (a) A STATE INSTITUTION OF HIGHER EDUCATION AS DEFINED IN
+5 SECTION 23-18-102 OR A LOCAL DISTRICT COLLEGE AUTHORIZED
+6 PURSUANT TO ARTICLE 71 OF TITLE 23; A NONPROFIT ORGANIZATION THAT
+7 IS EXEMPT FROM TAXATION UNDER SECTION 501 (c)(3) OF THE FEDERAL
+8 "INTERNAL REVENUE CODE OF 1986"; A VOLUNTEER ORGANIZATION; OR
+9 THE FOLLOWING ENTITIES AS LICENSED OR CERTIFIED AS DESCRIBED IN
+10 SECTION 25-1.5-103: A HOSPITAL, CLINIC, CLINICAL PARTNERSHIP, URGENT
+11 CARE CENTER, RETAIL HEALTH CLINIC, TELEMEDICINE SERVICE, OR
+12 CONCIERGE MEDICAL PROVIDER; AND
+13 (b) A SCHOOL THAT SERVES STUDENTS IN ANY OF GRADES
+14 KINDERGARTEN THROUGH TWELVE AND ENROLLS STUDENTS WHO SEEK A
+15 NON-EMPLOYMENT-BASED OPPORTUNITY AT THE SCHOOL.
+16 (4) THIS SECTION DOES NOT PROHIBIT AN ENTITY FROM COMPLYING
+17 WITH 8 U.S.C. SEC. 1621.
+18 (5) (a) AN ENTITY THAT DOES NOT ACCEPT AN INDIVIDUAL
+19 TAXPAYER IDENTIFICATION NUMBER IN VIOLATION OF THIS SECTION IS
+20 SUBJECT TO A CIVIL PENALTY OF TWO THOUSAND DOLLARS FOR THE FIRST
+21 VIOLATION AND FIVE THOUSAND DOLLARS FOR EACH SUBSEQUENT
+22 VIOLATION.
+23 (b) THE ATTORNEY GENERAL IS AUTHORIZED TO ENFORCE THIS
+24 SECTION.
+25 (c) A CIVIL PENALTY COLLECTED PURSUANT TO THIS SUBSECTION
+26 (5) MUST BE TRANSFERRED TO THE STATE TREASURER, WHO SHALL CREDIT
+27 IT TO THE IMMIGRATION LEGAL DEFENSE FUND ESTABLISHED PURSUANT TO
+-5- HB26-1143
+
+1 SECTION 8-3.8-101.
+2 (6) AN ENTITY THAT CONDUCTS A FINGERPRINT-BASED
+3 BACKGROUND CHECK OF AN APPLICANT FOR A NON-EMPLOYMENT-BASED
+4 EDUCATIONAL OPPORTUNITY SHALL COMPLY WITH THE REQUIREMENTS
+5 FOR EMPLOYERS DESCRIBED IN SECTION 6-1-1314.
+6 SECTION 3. In Colorado Revised Statutes, 24-31-101, amend
+7 (1)(v) and (1)(w); and add (1)(x) as follows:
+8 24-31-101. Powers and duties of attorney general.
+9 (1) The attorney general:
+10 (v) May expend money, manage staff, and perform other
+11 administrative functions essential for the operation of a district attorney's
+12 office when appointed by executive order of the governor; and
+13 (w) May conduct jail assessments in collaboration with the jail
+14 standards advisory committee, created pursuant to section 30-10-530,
+15 pursuant to section 24-31-118; AND
+16 (x) MAY BRING A CIVIL ACTION TO ENFORCE SECTION 8-2-128.5.
+17 SECTION 4. Applicability. This act applies to contracts entered
+18 into and background checks requested on or after the effective date of this
+19 act.
+20 SECTION 5. Safety clause. The general assembly finds,
+21 determines, and declares that this act is necessary for the immediate
+22 preservation of the public peace, health, or safety or for appropriations for
+23 the support and maintenance of the departments of the state and state
+24 institutions.
+-6- HB26-1143

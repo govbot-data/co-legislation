@@ -1,0 +1,386 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0488.03 Pierce Lively x2059 HOUSE BILL 26-1221
+House Committees Senate Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE ADJUSTMENT OF CERTAIN TAX EXPENDITURES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill adjusts 3 existing tax expenditures.
+! Section 2 of the bill limits the alternative minimum tax
+credit to income tax years commencing prior to January 1,
+2026;
+! Section 4 requires a corporation, for purposes of
+determining their state taxable income for state income tax
+years commencing on or after January 1, 2027, to add to
+their federal taxable income the amount, if any, that the ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,1
+yaM
+HOUSE SPONSORSHIP
+Zokaie and Sirota,
+SENATE SPONSORSHIP
+Amabile and Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+taxpayer claimed as a deduction on the taxpayer's federal
+tax return pursuant to the employee remuneration deduction
+allowed pursuant to section 162 (m) of the internal revenue
+code; and
+! Section 5 limits the period of time that net operating losses
+generated in income tax years commencing on or after
+January 1, 2027, can be carried forward from 20 years to 10
+years and limits the amount of losses that may be claimed
+to 70% rather than 80%.
+Section 3 creates a new tax credit. The new tax credit allows
+taxpayers to claim a refundable tax credit, in addition to the child tax
+credit and the family affordability tax credit, in an amount determined by
+the amount and age of the taxpayer's children and the taxpayer's income.
+The total amount of the new tax credit is adjusted annually based on
+legislative council staff projections, such that the total amount of the new
+tax credit claimed in an income tax year is projected to be the same as the
+amount of revenue raised in sections 2, 4, and 5.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The general assembly has an ongoing responsibility to review,
+5 evaluate, and update the state tax code within constitutional limitations
+6 to ensure that the state tax code is effective, equitable, and aligned with
+7 Colorado's priorities;
+8 (b) (I) (A) The Colorado executive compensation income tax
+9 deduction has changed frequently in recent years due to changes in the
+10 federal tax code;
+11 (B) A taxpayer can claim the executive compensation income tax
+12 deduction regardless of whether the executives earning that compensation
+13 reside or work in Colorado; and
+14 (C) To ensure that the state tax code is effective, equitable, and
+15 aligned with Colorado's priorities, and insulated from changes in the
+16 federal tax code, the executive compensation income tax deduction
+-2- 1221
+
+1 should be limited to only an income tax deduction for a set amount of
+2 executive compensation.
+3 (II) (A) The Colorado net operating loss income tax deduction,
+4 like the Colorado executive compensation income tax deduction, has
+5 changed frequently in recent years due to changes in the federal tax code;
+6 (B) C corporations that have the majority of their activities and
+7 investment outside of Colorado may claim the Colorado net operating
+8 loss income tax deduction; and
+9 (C) To ensure that the state tax code is effective, equitable, and
+10 aligned with Colorado's priorities, and insulated from changes in the
+11 federal tax code, the net operating loss income tax deduction should be
+12 limited.
+13
+14 (c) (I) Colorado state income tax is determined based on the
+15 amount of a person's federal taxable income;
+16 (II) Recent federal law modified the computation of federal
+17 taxable income and so impacted Colorado state income tax revenue;
+18 (III) The net impact of the recent federal modification to the
+19 computation of federal taxable income was a reduction in state income
+20 tax revenue;
+21 (IV) The amount and availability of the family affordability tax
+22 credit is determined in part by the amount of state income tax revenue;
+23 (V) Therefore, by modifying the computation of federal taxable
+24 income, federal law impacted the amount and availability of the family
+25 affordability tax credit; and
+26 (VI) At least in part due to the enactment of recent federal law, the
+27 family affordability tax credit will not be available for the 2026 state
+-3- 1221
+
+1 income tax year and will be available in a reduced amount for income tax
+2 years 2027 and 2028;
+3 (d) (I) In establishing the family affordability tax credit, the
+4 general assembly found and declared that:
+5 (A) Colorado families struggle to afford many necessary goods
+6 and services, such as child care, housing, and health care. Eighty-three
+7 percent of Colorado parents worry that their children won't be able to
+8 afford to live in the state in the future;
+9 (B) Targeted tax credits are a proven tool to lift families out of
+10 poverty. Research has shown that families that claim these types of tax
+11 credits, such as the state and federal child tax credit and the state and
+12 federal earned income tax credit, have better health, improved schooling
+13 outcomes, and increased adult earning potential. As the cost of raising
+14 children has increased, a family affordability tax credit is critical for the
+15 well-being of many children and families across Colorado.
+16 (C) According to the Institute on Taxation and Economic Policy,
+17 "[t]o cut child poverty rates by half, the majority of states would require
+18 a base credit value of between three thousand dollars and four thousand
+19 five hundred dollars per child plus a twenty percent boost for young
+20 children." When coupled with the state and federal earned income tax
+21 credit and the state and federal child tax credit, the additional investment
+22 provided by the family affordability tax credit would establish Colorado
+23 as a national leader in equitable economic policy.
+24 (D) Colorado is dealing with rising costs and funding shortfalls in
+25 many areas across our state, and it is necessary to provide tax credits to
+26 the people who need it most in a way that will do the most good.
+27 Establishing the family affordability tax credit is a proven way to do that;
+-4- 1221
+
+1 and
+2 (E) By prioritizing the state's lowest-income families, expanding
+3 the child age eligibility, and including more families, the state can provide
+4 research-backed investments for families. Through thoughtful and
+5 strategic investment, Colorado can cut child poverty nearly in half.
+6 (II) Therefore, it is a priority of Colorado to provide a tax credit
+7 that targets the same taxpayers that the family affordability tax credit
+8 targeted, to offset the reduction in the family affordability tax credit.
+9 (e) (I) This House Bill 26-1221 constitutes a single comprehensive
+10 tax policy change that better aligns the state tax code with Colorado's
+11 decision to prioritize low- and middle-income families with children by,
+12 at least partially, mitigating the effect of recent federal law on the family
+13 affordability tax credit by creating a tax credit that targets the same
+14 population targeted by the family affordability tax credit while also
+15 mitigating the reduction to wealthy taxpayers and corporations' tax
+16 burdens as a result of recent federal law;
+17 (II) The income tax credit created in this House Bill 26-1221
+18 reduces state tax revenue in an amount equal to or greater than the
+19 amount of state revenue gain attributable to the changes made in this
+20 House Bill 26-1221;
+21 (III) Any net district revenue gain resulting from the tax policy
+22 change in this House Bill 26-1221 is incidental and de minimis; and
+23 (IV) Therefore, consistent with the Colorado Supreme Court's
+24 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that a tax
+25 policy change that causes either no net district tax revenue gain or a net
+26 district tax revenue gain that is only incidental and de minimis does not
+27 require voter approval under section 20 (4)(a) of article X of the state
+-5- 1221
+
+1 constitution, this House Bill 26-1221 is not a tax policy change that
+2 requires voter approval.
+3
+4 SECTION 2. In Colorado Revised Statutes, add 39-22-131 as
+5 follows:
+6 39-22-131. Family affordability credit - tax preference
+7 performance statement - legislative declaration - definitions.
+8 (1) (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+9 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+10 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+11 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY HEREBY FINDS AND
+12 DECLARES THAT THE PURPOSES OF THE INCOME TAX CREDIT CREATED IN
+13 THIS SECTION ARE THE SAME AS THE FAMILY AFFORDABILITY TAX CREDIT:
+14 TO SUBSTANTIALLY REDUCE CHILD POVERTY, MAKE COLORADO MORE
+15 AFFORDABLE FOR FAMILIES, AND HELP FAMILIES AFFORD EXPENSES
+16 ASSOCIATED WITH HAVING CHILDREN BY PROVIDING TAX RELIEF FOR
+17 CERTAIN INDIVIDUALS.
+18 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR, IN
+19 CONSULTATION WITH THE DEPARTMENT, SHALL MEASURE THE
+20 EFFECTIVENESS OF THE INCOME TAX CREDIT CREATED IN THIS SECTION IN
+21 COMBINATION WITH THE FAMILY AFFORDABILITY TAX CREDIT AND, IN THE
+22 SAME MANNER AS THE GENERAL ASSEMBLY AND THE STATE AUDITOR
+23 MEASURE THE EFFECTIVENESS OF THE FAMILY AFFORDABILITY TAX CREDIT
+24 BY DETERMINING THE NUMBER OF COLORADO FAMILIES THAT, AFTER
+25 CLAIMING A CREDIT PURSUANT TO THIS SECTION AND THE FAMILY
+26 AFFORDABILITY CREDIT, NO LONGER FALL BELOW THE FEDERAL POVERTY
+27 LEVEL IN THE TAX YEAR IN WHICH THEY CLAIMED THE CREDITS.
+-6- 1221
+
+1 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+2 REQUIRES:
+3 (a) "CREDIT" MEANS THE CREDIT AGAINST INCOME TAX CREATED
+4 IN THIS SECTION.
+5 (b) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+6 (c) "ELIGIBLE CHILD" MEANS A QUALIFYING CHILD, AS DEFINED IN
+7 SECTION 152 (c) OF THE "INTERNAL REVENUE CODE OF 1986"; EXCEPT
+8 THAT THE AGE REQUIREMENTS ARE AS SET FORTH IN SUBSECTIONS
+9 (3)(a)(I), (3)(a)(II), (3)(b)(I), AND (3)(b)(II) OF THIS SECTION.
+10 (d) "FEDERAL POVERTY LEVEL" MEANS THE POVERTY LINE THAT
+11 IS REQUIRED TO BE UPDATED ANNUALLY WITHIN THE FEDERAL POVERTY
+12 GUIDELINES ADOPTED BY THE UNITED STATES DEPARTMENT OF HEALTH
+13 AND HUMAN SERVICES PURSUANT TO 42 U.S.C. SEC. 9902 (2).
+14 (e) "INFLATION" MEANS THE ANNUAL PERCENTAGE CHANGE IN THE
+15 UNITED STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS
+16 CONSUMER PRICE INDEX FOR DENVER-AURORA-LAKEWOOD FOR ALL
+17 ITEMS PAID BY ALL URBAN CONSUMERS, OR ITS APPLICABLE SUCCESSOR
+18 INDEX.
+19 (f) "JOINT FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+20 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+21 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+22 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+23 39-22-130 (7) TO BE NECESSARY FOR TWO RESIDENT INDIVIDUALS WHO
+24 FILE A JOINT RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+25 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+26 COMMENCING ON JANUARY 1, 2026.
+27 (g) "SINGLE FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+-7- 1221
+
+1 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+2 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+3 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+4 39-22-130 (7) TO BE NECESSARY FOR A SINGLE RESIDENT INDIVIDUAL WHO
+5 FILES A SINGLE RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+6 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+7 COMMENCING ON JANUARY 1, 2026.
+8 (3) (a) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY
+9 SECTION 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT
+10 ALLOWED BY SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING
+11 ON OR AFTER JANUARY 1, 2027, A RESIDENT INDIVIDUAL WHO FILES A
+12 SINGLE RETURN IS ALLOWED A CREDIT AGAINST THE INCOME TAXES
+13 IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+14 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+15 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+16 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+17 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+18 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+19 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+20 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+21 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(a)(I) OF THIS
+22 SECTION.
+23 (b) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY SECTION
+24 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT ALLOWED BY
+25 SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+26 JANUARY 1, 2027, TWO RESIDENT INDIVIDUALS WHO FILE A JOINT RETURN
+27 ARE ALLOWED A FAMILY AFFORDABILITY TAX CREDIT AGAINST THE
+-8- 1221
+
+1 INCOME TAXES DUE IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+2 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUALS WHO IS
+3 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+4 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+5 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+6 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUALS WHO IS
+7 SIX YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+8 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+9 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(b)(I) OF THIS
+10 SECTION.
+11 (4) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, FOR
+12 INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, THE
+13 CREDIT AMOUNTS IN:
+14 (I) SUBSECTION (3)(a)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+15 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+16 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+17 DOLLARS BY WHICH A RESIDENT INDIVIDUAL'S ADJUSTED GROSS INCOME
+18 EXCEEDS THE SINGLE FILER ADJUSTED BASE INCOME; AND
+19 (II) SUBSECTION (3)(b)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+20 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+21 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+22 DOLLARS BY WHICH TWO RESIDENT INDIVIDUALS' ADJUSTED GROSS
+23 INCOME EXCEEDS THE JOINT FILER ADJUSTED BASE INCOME.
+24 (b) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+25 1, 2027, THE DEPARTMENT SHALL ADJUST THE JOINT FILER ADJUSTED
+26 BASED INCOME AND SINGLE FILER ADJUSTED BASE INCOME TO REFLECT
+27 INFLATION FOR EACH INCOME TAX YEAR IN WHICH THE CREDIT DESCRIBED
+-9- 1221
+
+1 IN THIS SECTION IS ALLOWED IF CUMULATIVE INFLATION SINCE THE LAST
+2 ADJUSTMENT, WHEN APPLIED TO THE CURRENT LIMITS, RESULTS IN AN
+3 INCREASE OF AT LEAST ONE THOUSAND DOLLARS WHEN THE ADJUSTED
+4 LIMITS ARE ROUNDED TO THE NEAREST ONE THOUSAND DOLLARS.
+5 (5) BEGINNING WITH THE QUARTERLY DECEMBER REVENUE
+6 FORECAST THAT LEGISLATIVE COUNCIL STAFF PRESENTS IN DECEMBER OF
+7 2027, AND FOR EACH QUARTERLY DECEMBER REVENUE FORECAST
+8 THEREAFTER, AS PART OF THE QUARTERLY DECEMBER REVENUE
+9 FORECAST, LEGISLATIVE COUNCIL STAFF SHALL DETERMINE:
+10 (a) FOR THE CURRENT INCOME TAX YEAR, A PROJECTION OF THE
+11 AMOUNT OF REVENUE GAIN DIRECTLY ATTRIBUTABLE TO THE CHANGES
+12 MADE IN THIS HOUSE BILL 26-1221, NOTWITHSTANDING THE TAX CREDIT
+13 CREATED IN THIS SECTION;
+14 (b) A DOLLAR AMOUNT OF THE CREDIT AVAILABLE PURSUANT TO
+15 SUBSECTIONS (3)(a)(I) AND (3)(b)(I) OF THIS SECTION, WHICH DOLLAR
+16 AMOUNT MUST BE THE SAME FOR BOTH SUBSECTIONS (3)(a)(I) AND
+17 (3)(b)(I) OF THIS SECTION, SUCH THAT THE STAFF OF THE LEGISLATIVE
+18 COUNCIL PROJECTS, FOR THE CURRENT STATE INCOME TAX YEAR, THAT
+19 THE TOTAL DOLLAR AMOUNT OF CREDITS CLAIMED PURSUANT TO
+20 SUBSECTION (3) WILL EQUAL THE DOLLAR AMOUNT OF REVENUE GAIN
+21 THAT STAFF OF THE LEGISLATIVE COUNCIL DETERMINES, PURSUANT TO
+22 SUBSECTION (5)(a) OF THIS SECTION, IS DIRECTLY ATTRIBUTABLE TO THE
+23 CHANGES MADE IN THIS HOUSE BILL 26-1221, NOTWITHSTANDING THE
+24 TAX CREDIT CREATED IN THIS SECTION.
+25 (6) NO LATER THAN TWO WEEKS BEFORE THE QUARTERLY
+26 DECEMBER REVENUE FORECAST THAT LEGISLATIVE COUNCIL STAFF
+27 PRESENTS IN DECEMBER OF 2027, AND EACH DECEMBER REVENUE
+-10- 1221
+
+1 FORECAST THEREAFTER, THE DEPARTMENT SHALL DELIVER A REPORT TO
+2 THE STAFF OF THE LEGISLATIVE COUNCIL THAT DESCRIBES THE REVENUE
+3 GAIN DIRECTLY ATTRIBUTABLE TO THE CHANGES MADE IN THIS HOUSE
+4 BILL 26-1221 FOR THE PREVIOUS INCOME TAX YEAR, NOTWITHSTANDING
+5 THE TAX CREDIT CREATED IN THIS SECTION.
+6 (7) IN THE CASE OF A PART-YEAR RESIDENT, THE CREDIT ALLOWED
+7 UNDER THIS SECTION IS APPORTIONED IN THE RATIO DETERMINED UNDER
+8 SECTION 39-22-110 (1).
+9 (8) THE CREDIT ALLOWED UNDER THIS SECTION IS NOT
+10 CONSIDERED TO BE INCOME OR RESOURCES FOR THE PURPOSE OF
+11 DETERMINING ELIGIBILITY FOR THE PAYMENT OF PUBLIC ASSISTANCE
+12 BENEFITS AND MEDICAL ASSISTANCE BENEFITS AUTHORIZED UNDER STATE
+13 LAW OR FOR A PAYMENT MADE UNDER ANY OTHER PUBLICLY FUNDED
+14 PROGRAM.
+15 (9) THE AMOUNT OF THE CREDIT ALLOWED UNDER THIS SECTION
+16 THAT EXCEEDS THE RESIDENT INDIVIDUAL'S INCOME TAXES DUE IS
+17 REFUNDED TO THE INDIVIDUAL.
+18 (10) THE DEPARTMENT IS AUTHORIZED AND ENCOURAGED TO
+19 DEVELOP A MEANS OF REFUNDING THE CREDITS ALLOWED BY THIS SECTION
+20 TO RESIDENT INDIVIDUALS WHO QUALIFY FOR THE CREDITS IN TWELVE
+21 EQUAL MONTHLY REFUNDS RATHER THAN ANNUALLY.
+22 (11) NOTWITHSTANDING SECTION 39-21-304 (4), THE CREDIT DOES
+23 NOT REPEAL AFTER A SPECIFIED PERIOD OF TAX YEARS.
+24 SECTION 3. In Colorado Revised Statutes, 39-22-304, add
+25 (2)(m) as follows:
+26 39-22-304. Net income of corporation - legislative declaration
+27 - definitions - repeal.
+-11- 1221
+
+1 (2) There shall be added to federal taxable income:
+2 (m) FOR STATE INCOME TAX YEARS COMMENCING ON OR AFTER
+3 JANUARY 1, 2027, THE AMOUNT, IF ANY, IN EXCESS OF TWO HUNDRED AND
+4 FIFTY THOUSAND DOLLARS THAT THE TAXPAYER CLAIMED AS A
+5 DEDUCTION ON THE TAXPAYER'S FEDERAL TAX RETURN PURSUANT TO THE
+6 EMPLOYEE REMUNERATION DEDUCTION ALLOWED PURSUANT TO SECTION
+7 162 (m) OF THE INTERNAL REVENUE CODE.
+8 SECTION 4. In Colorado Revised Statutes, 39-22-504, amend
+9 (1)(b) and (3)(b); and add (1)(c) and (3)(c) as follows:
+10 39-22-504. Net operating losses.
+11 (1) (b) For losses incurred after December 31, 2017, AND ON OR
+12 BEFORE DECEMBER 31, 2026, the eighty percent limitation set forth in
+13 section 172 (a)(2) of the internal revenue code shall apply without regard
+14 to the amendments made in section 2303 of the March 2020 "Coronavirus
+15 Aid, Relief, and Economic Security Act", Pub.L. 116-136.
+16 (c) FOR LOSSES INCURRED AFTER DECEMBER 31, 2026, THE EIGHTY
+17 PERCENT LIMITATION SET FORTH IN SECTION 172 (a)(2) OF THE INTERNAL
+18 REVENUE CODE SHALL BE APPLIED AS A SEVENTY PERCENT LIMITATION
+19 BUT SHALL OTHERWISE APPLY WITHOUT REGARD TO THE AMENDMENTS
+20 MADE IN SECTION 2303 OF THE MARCH 2020 "CORONAVIRUS AID, RELIEF,
+21 AND ECONOMIC SECURITY ACT", PUB.L. 116-136.
+22 (3) (b) Net operating losses of corporations generated in income
+23 tax years commencing on or after January 1, 2021, AND BEFORE JANUARY
+24 1, 2027, may be carried forward for twenty years. Net operating losses of
+25 corporations may not be carried back to an earlier tax year.
+26 (c) NET OPERATING LOSSES OF CORPORATIONS GENERATED IN
+27 INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, MAY BE
+-12- 1221
+
+1 CARRIED FORWARD FOR TEN YEARS. NET OPERATING LOSSES OF
+2 CORPORATIONS MAY NOT BE CARRIED BACK TO AN EARLIER TAX YEAR.
+3 SECTION 5. Act subject to petition - effective date. This act
+4 takes effect at 12:01 a.m. on the day following the expiration of the
+5 ninety-day period after final adjournment of the general assembly (August
+6 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+7 referendum petition is filed pursuant to section 1 (3) of article V of the
+8 state constitution against this act or an item, section, or part of this act
+9 within such period, then the act, item, section, or part will not take effect
+10 unless approved by the people at the general election to be held in
+11 November 2026 and, in such case, will take effect on the date of the
+12 official declaration of the vote thereon by the governor.
+-13- 1221

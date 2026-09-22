@@ -1,0 +1,1029 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0782.02 Chelsea Princell x4335 HOUSE BILL 26-1325
+House Committees Senate Committees
+Health & Human Services Health & Human Services
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING NATURAL MEDICINE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill establishes the ibogaine research pilot program (pilot
+program) in the behavioral health administration (BHA) to research the
+safety and effectiveness of using ibogaine to treat mental health
+conditions and substance use disorders.
+The bill requires the BHA to establish a committee to review pilot
+program site applications and make recommendations to the BHA on
+which applicants to accept. The BHA may select up to 5 ibogaine pilot
+sites.
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,31
+yaM
+6202
+,21
+yaM
+6202
+,9
+yaM
+6202
+,7
+yaM
+HOUSE SPONSORSHIP
+Caldwell and Feret, Bacon, Barron, Boesenecker, Brown, Clifford, Duran, Flanell,
+Froelich, Gonzalez R., Lieder, McCormick, Nguyen, Phillips, Rutinel, Rydin, Soper, Winter
+T.
+SENATE SPONSORSHIP
+Ball and Pelton R., Catlin, Coleman, Cutter, Danielson, Gonzales J., Hinrichsen, Kipp,
+Lindstedt, Marchman, Sullivan, Wallace
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill allows the BHA to seek, accept, and expend gifts, grants,
+and donations and establishes the ibogaine research pilot program cash
+fund (cash fund). Money from the cash fund may be used to administer
+the pilot program and award grants to the selected ibogaine pilot sites to
+help with financing needs.
+The bill allows the state licensing authority for natural medicine
+or natural medicine product (state licensing authority) to adopt rules
+related to the administration, manufacturing, and use of ibogaine.
+Under current law, the division of natural medicine advisory board
+consists of 15 voting members; 8 of whom must have general expertise
+and experience related to natural medicine and 7 of whom must have
+specialized expertise and experience in various areas of natural medicine.
+The bill amends the expertise and experience requirements to apply
+equally to all 15 voting members.
+The bill adds that a facilitator of natural medicine services is not
+liable for a physical or psychological injury that a participant may
+experience as a result of the facilitator's performance or supervision of the
+natural medicine services that a participant receives, unless the injury is
+the result of the facilitator's intentional misconduct, gross negligence, or
+a deviation from the recognized standard of care.
+The bill sets requirements for how the state licensing authority
+must prioritize reviewing applications for licensure to facilitate natural
+medicine services and allows the state licensing authority to set different
+licensing fees depending on the type of natural medicine the applicant is
+seeking licensure for.
+The bill allows the state licensing authority to accept gifts, grants,
+and donations from public or private sources and requires gifts, grants, or
+donations received to be deposited in the regulated natural medicine
+division cash fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado is facing a severe and worsening mental health crisis
+5 due to high rates of mental health conditions and substance use disorders,
+6 including opioid use disorder;
+7 (b) Existing treatment approaches for treating mental health
+8 conditions and substance use disorders are often inadequate for long-term
+-2- 1325
+
+1 remission and recovery, necessitating the exploration of innovative
+2 options;
+3 (c) Ibogaine is a psychoactive indole alkaloid derived from the
+4 root bark of the tabernanthe iboga plant and other plants, such as the
+5 voacanga africana plant, that have shown significant potential as
+6 life-saving treatment options for substance use disorders and mental
+7 health conditions;
+8 (d) A carefully regulated, medically supervised, and therapeutic
+9 framework for administering ibogaine is necessary to make ibogaine
+10 accessible, facilitate rigorous research, and ensure patient safety;
+11 (e) The mental health and well-being of veterans is a priority of
+12 the general assembly, and ibogaine treatment has shown promise in
+13 treating severe service-related post-traumatic stress disorder and other
+14 mental health conditions related to combat deployments; and
+15 (f) Establishing a research pilot program to explore the therapeutic
+16 uses of ibogaine, better understand potential risks of ibogaine use, and lay
+17 the groundwork for a future comprehensive regulatory program is
+18 necessary to find additional treatment options for people suffering from
+19 a mental health condition or a substance use disorder.
+20 SECTION 2. In Colorado Revised Statutes, add 27-60-207 as
+21 follows:
+22 27-60-207. Ibogaine research pilot program - creation - federal
+23 approval - fund - rules - reporting - definitions - repeal.
+24 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+25 REQUIRES:
+26 (a) "BENEFIT-SHARING PLAN" MEANS AN ARRANGEMENT WITH
+27 INDIGENOUS COMMUNITIES TRADITIONALLY CONNECTED TO THE USE OF
+-3- 1325
+
+1 IBOGAINE OR IBOGA THAT IS INTENDED TO SHARE IN THE BENEFITS THAT
+2 ARISE FROM THE RESEARCH, THERAPEUTIC USE, OR COMMERCIALIZATION
+3 OF IBOGAINE OR IBOGA. BENEFITS MAY INCLUDE:
+4 (I) FINANCIAL BENEFIT SHARING;
+5 (II) COLLABORATIVE RESEARCH OR DATA SHARING;
+6 (III) CONSERVATION SUPPORT FOR PLANT SPECIES AND HABITATS;
+7 (IV) COMMUNITY-IDENTIFIED DEVELOPMENT PRIORITIES;
+8 (V) CULTURAL OR EDUCATIONAL EXCHANGES; AND
+9 (VI) UTILIZING A SOURCE FOR IBOGAINE THAT ENGAGES IN
+10 BENEFIT-SHARING AND ETHICAL AND SUSTAINABLE CULTIVATION
+11 PRACTICES.
+12 (b) "FUND" MEANS THE IBOGAINE RESEARCH PILOT PROGRAM CASH
+13 FUND CREATED IN SUBSECTION (10) OF THIS SECTION.
+14 (c) "IBOGAINE PILOT SITE" MEANS A FACILITATION SITE SELECTED
+15 AND AUTHORIZED BY THE BHA TO ADMINISTER THE PILOT PROGRAM.
+16 (d) "PILOT PROGRAM" MEANS THE IBOGAINE RESEARCH PILOT
+17 PROGRAM ESTABLISHED IN SUBSECTION (2) OF THIS SECTION.
+18 (2) THERE IS ESTABLISHED IN THE BHA THE IBOGAINE RESEARCH
+19 PILOT PROGRAM FOR THE PURPOSE OF SUPPORTING RESEARCH ON THE
+20 SAFETY AND EFFECTIVENESS OF USING IBOGAINE TO TREAT MENTAL
+21 HEALTH CONDITIONS AND SUBSTANCE USE DISORDERS.
+22 (3) THE BHA SHALL OPERATE THE PILOT PROGRAM. IN OPERATING
+23 THE PILOT PROGRAM, THE BHA:
+24 (a) MAY APPROVE UP TO FIVE IBOGAINE PILOT SITES;
+25 (b) MAY REQUIRE A MEMORANDUM OF UNDERSTANDING WITH
+26 EACH PILOT SITE TO ENSURE PROPER ADMINISTRATION OF THE PILOT
+27 PROGRAM;
+-4- 1325
+
+1 (c) IN PARTNERSHIP WITH THE IBOGAINE PILOT SITES, AND IN
+2 COORDINATION WITH OTHER APPROPRIATE STATE AGENCIES, MAY SEEK
+3 FEDERAL AUTHORIZATION PURSUANT TO 21 U.S.C. SEC. 872(e) OR OTHER
+4 APPLICABLE FEDERAL LAW FOR PURPOSES OF EXPANDING OR ADVANCING
+5 IBOGAINE RESEARCH EFFORTS;
+6 (d) SHALL ASSIST THE IBOGAINE PILOT SITES TO COMPLETE AND
+7 SUBMIT AN INVESTIGATIONAL NEW DRUG APPLICATION, OR REVISE AND
+8 EXPAND UPON AN EXISTING INVESTIGATIONAL NEW DRUG APPLICATION
+9 WITH THE UNITED STATES FOOD AND DRUG ADMINISTRATION IN
+10 ACCORDANCE WITH 21 CFR PART 312;
+11 (e) SHALL CONSIDER WHETHER TO OBTAIN FEDERAL RESEARCH
+12 PROGRAM STATUS UNDER 21 U.S.C. SEC. 872 OR OTHER APPLICABLE
+13 FEDERAL LAW FOR THE PURPOSES OF EXPANDING OR ADVANCING
+14 RESEARCH EFFORTS OF THE PILOT SITES;
+15 (f) MAY NEGOTIATE A MEMORANDUM OF UNDERSTANDING WITH
+16 THE UNITED STATES DRUG ENFORCEMENT ADMINISTRATION, UNITED
+17 STATES DEPARTMENT OF HEALTH AND HUMAN SERVICES, UNITED STATES
+18 FOOD AND DRUG ADMINISTRATION, UNITED STATES ATTORNEY GENERAL,
+19 OR ANY OTHER APPROPRIATE FEDERAL AGENCY, AS NECESSARY TO ENSURE
+20 FEDERAL COMPLIANCE AND PROPER ADMINISTRATION OF THE PILOT
+21 PROGRAM;
+22 (g) MAY CONTRACT WITH INDIVIDUALS WITH EXPERTISE IN
+23 BEHAVIORAL HEALTH, NURSING, RESEARCHING A SCHEDULE I CONTROLLED
+24 SUBSTANCE, DRUG DEVELOPMENT, INSTITUTIONAL REVIEW BOARD AND
+25 UNITED STATES FOOD AND DRUG ADMINISTRATION REGULATORY
+26 COMPLIANCE, AND PHYSICIAN CONSULTATION SERVICES TO ASSIST IN THE
+27 ADMINISTRATION OF THE PILOT PROGRAM;
+-5- 1325
+
+1 (h) MAY ASSIST IBOGAINE PILOT SITES WITH FUNDING
+2 OPPORTUNITIES, INCLUDING IDENTIFYING AND APPLYING FOR STATE,
+3 FEDERAL, OR PRIVATE GRANTS;
+4 (i) MAY AWARD GRANTS TO SELECTED IBOGAINE PILOT SITES TO
+5 ASSIST WITH OPERATIONAL COSTS; AND
+6 (j) MAY COLLABORATE AND ENTER INTO AGREEMENTS WITH
+7 OTHER STATES, STATE AGENCIES, FEDERALLY RECOGNIZED TRIBES, AND
+8 PUBLIC OR PRIVATE ENTITIES TO PARTICIPATE IN MULTI-STATE CONSORTIA
+9 OR SIMILAR EFFORTS, INCLUDING THE SHARING OF DATA, FUNDING,
+10 RESEARCH, CLINICAL PROTOCOLS, AND REGULATORY BEST PRACTICES
+11 RELATED TO IBOGAINE AND IBOGAINE-RELATED THERAPIES.
+12 (4) (a) THE BHA SHALL ESTABLISH A PROCESS TO SOLICIT AND
+13 SELECT IBOGAINE PILOT SITES.
+14 (b) THE BHA SHALL ESTABLISH A PILOT PROPOSAL REVIEW
+15 COMMITTEE TO REVIEW APPLICATIONS RECEIVED FROM THE SOLICITATION
+16 PROCESS REQUIRED IN SUBSECTION (4)(a) OF THIS SECTION AND MAKE A
+17 RECOMMENDATION TO THE BHA ON THE SELECTION OR DENIAL OF EACH
+18 APPLICATION. THE BHA SHALL NOTIFY EACH APPLICANT OF THE
+19 SELECTION DECISION WITHIN NINETY DAYS AFTER THE APPLICATION
+20 DEADLINE SET BY THE BHA.
+21 (5) TO BE ELIGIBLE AS AN IBOGAINE PILOT SITE, AN APPLICANT
+22 MUST:
+23 (a) DEMONSTRATE AN INTENT TO PURSUE THE FEDERAL APPROVAL
+24 TO OPERATE AN IBOGAINE PILOT SITE TO STUDY SAFETY AND TREATMENT
+25 EFFECTIVENESS OF THE USE OF IBOGAINE TO TREAT MENTAL HEALTH
+26 CONDITIONS AND SUBSTANCE USE DISORDERS; AND
+27 (b) ESTABLISH A BENEFIT-SHARING PLAN, WHICH MAY BE
+-6- 1325
+
+1 DEVELOPED IN CONSULTATION WITH INDIGENOUS COMMUNITIES OR THEIR
+2 RECOGNIZED GOVERNING INSTITUTIONS TRADITIONALLY CONNECTED TO
+3 IBOGAINE OR IBOGA, THAT DIRECTLY BENEFITS THOSE COMMUNITIES AND
+4 SHARES IN THE BENEFITS ARISING FROM RESEARCH, THERAPEUTIC USE, OR
+5 COMMERCIALIZATION OF IBOGAINE OR IBOGA. THE BENEFIT-SHARING PLAN
+6 MUST INCLUDE DOCUMENTATION OF THE SOURCING OF IBOGAINE OR
+7 IBOGA.
+8 (c) IN DEVELOPING A BENEFIT-SHARING PLAN PURSUANT TO THIS
+9 SUBSECTION (5), APPLICANTS MAY CONSIDER INTERNATIONALLY
+10 RECOGNIZED PRINCIPLES RELATED TO EQUITABLE BENEFIT SHARING THAT
+11 MAY ARISE FROM THE USE OF RESOURCES AND TRADITIONAL KNOWLEDGE.
+12 (6) (a) THE COMMISSIONER SHALL ADOPT RULES THAT ARE
+13 NECESSARY TO ESTABLISH AND ADMINISTER THE IBOGAINE PILOT
+14 PROGRAM. AT A MINIMUM, THE COMMISSIONER SHALL ADOPT RULES ON
+15 THE FOLLOWING:
+16 (I) THE APPLICATION PROCESS FOR PROSPECTIVE IBOGAINE PILOT
+17 SITE APPLICANTS;
+18 (II) CRITERIA FOR AWARDING GRANTS TO IBOGAINE PILOT SITES TO
+19 ASSIST THE IBOGAINE PILOT SITE WITH FUNDING;
+20 (III) DATA AND RESEARCH COLLECTION BY THE IBOGAINE PILOT
+21 SITES ON THE USE AND EFFECTIVENESS OF IBOGAINE IN TREATING MENTAL
+22 HEALTH CONDITIONS AND SUBSTANCE USE DISORDERS;
+23 (IV) INFORMATION SHARING BETWEEN THE IBOGAINE PILOT SITES
+24 AND THE BHA;
+25 (V) ADVERSE EVENT REPORTING; AND
+26 (VI) OTHER RULES THAT ARE NECESSARY FOR THE SAFE AND
+27 EFFECTIVE OPERATION OF THE IBOGAINE PILOT SITES AND ADMINISTRATION
+-7- 1325
+
+1 OF THE IBOGAINE RESEARCH PILOT PROGRAM ESTABLISHED BY THIS
+2 SECTION.
+3 (b) WITH THE EXCEPTION OF THE REQUIREMENTS OF SUBSECTION
+4 (6)(a) OF THIS SECTION, THE COMMISSIONER SHALL NOT ADOPT RULES
+5 THAT ARE DUPLICATIVE OF FEDERAL LAW.
+6 (7) ON OR BEFORE A DATE SET BY THE BHA AND ANNUALLY
+7 THEREAFTER THAT THE PILOT PROGRAM IS OPERATIONAL, EACH IBOGAINE
+8 PILOT SITE MUST SUBMIT THE DATA AND RESEARCH AS REQUIRED
+9 PURSUANT TO SUBSECTION (6)(a)(III) OF THIS SECTION FOR THE
+10 PROCEEDING YEAR TO THE BHA.
+11 (8) AT LEAST ANNUALLY, BUT NOT MORE THAN QUARTERLY,
+12 BEGINNING ONE MONTH AFTER THE DATE SET BY THE BHA DESCRIBED IN
+13 SUBSECTION (7) OF THIS SECTION WHILE THE PILOT PROGRAM IS
+14 OPERATIONAL, THE BHA MUST REVIEW THE DATA AND RESEARCH
+15 SUBMITTED BY THE IBOGAINE PILOT SITES, AS REQUIRED BY SUBSECTION
+16 (7) OF THIS SECTION, AND POST A REPORT DETAILING THE IBOGAINE PILOT
+17 SITE FINDINGS ON THE BHA'S WEBSITE.
+18 (9) THE BHA MAY SEEK, ACCEPT, AND EXPEND GIFTS, GRANTS, OR
+19 DONATIONS RECEIVED FROM PRIVATE OR PUBLIC SOURCES FOR THE
+20 PURPOSES OF THIS SECTION. THE BHA SHALL TRANSMIT ALL MONEY
+21 RECEIVED THROUGH GIFTS, GRANTS, OR DONATIONS TO THE STATE
+22 TREASURER, WHO SHALL CREDIT THE MONEY TO THE IBOGAINE RESEARCH
+23 PILOT PROGRAM CASH FUND CREATED IN SUBSECTION (10) OF THIS
+24 SECTION. THE BHA MAY ACCEPT DONATIONS OF IN-KIND SERVICES FOR
+25 PURPOSES OF THIS SECTION.
+26 (10) THE IBOGAINE RESEARCH PILOT PROGRAM CASH FUND IS
+27 CREATED IN THE STATE TREASURY. THE FUND CONSISTS OF GIFTS, GRANTS,
+-8- 1325
+
+1 AND DONATIONS CREDITED TO THE FUND PURSUANT TO SUBSECTION (9) OF
+2 THIS SECTION AND ANY OTHER MONEY THAT THE GENERAL ASSEMBLY MAY
+3 APPROPRIATE OR TRANSFER TO THE FUND. THE STATE TREASURER SHALL
+4 CREDIT ALL INTEREST AND INCOME DERIVED FROM THE DEPOSIT AND
+5 INVESTMENT OF MONEY IN THE FUND TO THE FUND. MONEY IN THE FUND
+6 IS CONTINUOUSLY APPROPRIATED TO THE BHA FOR THE PURPOSE OF
+7 ADMINISTERING THE IBOGAINE RESEARCH PILOT PROGRAM AND AWARDING
+8 GRANTS TO SELECTED IBOGAINE PILOT SITES.
+9 (11) THE OPERATION OF AN IBOGAINE PILOT SITE IN ACCORDANCE
+10 WITH THIS SECTION IS CONTINGENT ON FEDERAL APPROVAL.
+11 (12) THIS SECTION DOES NOT PRECLUDE A PERSON FROM
+12 ADMINISTERING IBOGAINE OUTSIDE OF THE PILOT PROGRAM IN
+13 COMPLIANCE WITH FEDERAL LAW OR AS PERMITTED PURSUANT TO THE
+14 "NATURAL MEDICINE HEALTH ACT OF 2022", ARTICLE 170 OF TITLE 12,
+15 AND THE "COLORADO NATURAL MEDICINE CODE", ARTICLE 50 OF TITLE
+16 44.
+17 (13) AN INDIVIDUAL OR ENTITY PARTICIPATING IN THE PILOT
+18 PROGRAM MUST NOT BE PROSECUTED OR OTHERWISE DISCIPLINED FOR
+19 ACTIONS OR CONDUCT PERMITTED PURSUANT TO THIS SECTION.
+20 (14) (a) A PHYSICIAN OR HEALTH-CARE PROFESSIONAL
+21 ADMINISTERING IBOGAINE TO PARTICIPANTS AS PART OF THE PILOT
+22 PROGRAM, OR AN IBOGAINE PILOT SITE, IS NOT LIABLE FOR MONEY
+23 DAMAGES IN A CIVIL MALPRACTICE ACTION A PHYSICAL OR
+24 PSYCHOLOGICAL INJURY THAT A PARTICIPANT MAY EXPERIENCE AS A
+25 RESULT OF BEING ADMINISTERED IBOGAINE AS A PARTICIPANT IN THE PILOT
+26 PROGRAM, UNLESS THE INJURY WAS THE DIRECT RESULT OF THE
+27 PHYSICIAN'S OR HEALTH-CARE PROFESSIONAL'S INTENTIONAL
+-9- 1325
+
+1 MISCONDUCT, GROSS NEGLIGENCE, OR A DEVIATION FROM THE GENERALLY
+2 ACCEPTED STANDARDS OF PRACTICE.
+3 (b) THIS SUBSECTION (14) DOES NOT APPLY TO ADMINISTRATIVE
+4 PROCEEDINGS.
+5 (15) THE BHA SHALL WORK TO SECURE FEDERAL RESEARCH AND
+6 DEVELOPMENT FUNDING AVAILABLE THROUGH THE ADVANCED RESEARCH
+7 PROJECTS AGENCY FOR HEALTH WITHIN THE FEDERAL DEPARTMENT OF
+8 HEALTH AND HUMAN SERVICES, OR OTHER AVAILABLE FEDERAL FUNDING,
+9 IN ORDER TO ADVANCE RESEARCH EFFORTS ON THE USE OF IBOGAINE AS A
+10 TREATMENT FOR SERIOUS MENTAL ILLNESSES.
+11 (16) SUBSECTIONS (1), (2), (3), (4), (5), (6), (7), (8), (11), (12),
+12 (13), (14), AND (15) OF THIS SECTION TAKE EFFECT IF THE BHA RECEIVES
+13 ONE HUNDRED FIFTY THOUSAND DOLLARS IN GIFTS, GRANTS, OR
+14 DONATIONS, OR IF THE BHA RECEIVES IN-KIND DONATIONS FOR WHICH
+15 THE VALUE IS EQUAL TO ONE HUNDRED FIFTY THOUSAND DOLLARS,
+16 BEFORE JANUARY 1, 2028, FOR THE PURPOSE OF IMPLEMENTING THIS
+17 SECTION. THE COMMISSIONER OF THE BHA SHALL NOTIFY THE REVISOR OF
+18 STATUTES IN WRITING OF THE DATE ON WHICH THE CONDITION SPECIFIED
+19 IN THIS SUBSECTION (16) HAS OCCURRED BY EMAILING THE NOTICE TO
+20 REVISOROFSTATUTES.GA@COLEG.GOV. SUBSECTIONS (1), (2), (3), (4), (5),
+21 (6), (7), (8), (11), (12), (13), (14), AND (15) OF THIS SECTION TAKE EFFECT
+22 ON THE DATE IDENTIFIED IN THE NOTICE TO THE REVISOR OF STATUTES
+23 THAT THE BHA HAS RECEIVED ONE HUNDRED FIFTY THOUSAND DOLLARS
+24 IN GIFTS, GRANTS, OR DONATIONS, OR AN IN-KIND DONATION FOR WHICH
+25 THE VALUE IS EQUAL TO ONE HUNDRED FIFTY THOUSAND DOLLARS, FOR
+26 THE PURPOSE OF THIS SECTION, OR, IF THE NOTICE TO THE REVISOR OF
+27 STATUTES DOES NOT SPECIFY THAT DATE, ON THE DATE OF THE NOTICE TO
+-10- 1325
+
+1 THE REVISOR OF STATUTES.
+2 (17) (a) THE BHA MUST RECEIVE ADDITIONAL GIFTS, GRANTS, OR
+3 DONATIONS IN THE AMOUNT NECESSARY TO COVER THE TOTAL REMAINING
+4 COST OF OPERATING THE PILOT PROGRAM FOR THE DURATION OF THE PILOT
+5 PROGRAM, OR IN-KIND DONATIONS FOR WHICH THE VALUE IS EQUAL TO
+6 THE AMOUNT NECESSARY TO COVER THE TOTAL REMAINING COST OF
+7 OPERATING THE PILOT PROGRAM FOR THE DURATION OF THE PILOT
+8 PROGRAM, WITHIN THREE HUNDRED SIXTY-FIVE DAYS FOLLOWING THE
+9 DATE ON WHICH SUBSECTIONS (1), (2), (3), (4), (5), (6), (7), (8), (11), (12),
+10 (13), (14), AND (15) OF THIS SECTION TAKE EFFECT.
+11 (b) THIS SECTION IS REPEALED IF THE BHA DOES NOT RECEIVE
+12 ADDITIONAL GIFTS, GRANTS, OR DONATIONS IN THE AMOUNT NECESSARY
+13 TO COVER THE TOTAL REMAINING COST OF OPERATING THE PILOT
+14 PROGRAM FOR THE DURATION OF THE PILOT PROGRAM, OR IN-KIND
+15 DONATIONS FOR WHICH THE VALUE IS EQUAL TO THE AMOUNT NECESSARY
+16 TO COVER THE TOTAL REMAINING COST OF OPERATING THE PILOT
+17 PROGRAM FOR THE DURATION OF THE PILOT PROGRAM, WITHIN THREE
+18 HUNDRED SIXTY-FIVE DAYS FOLLOWING THE DATE ON WHICH THE REVISOR
+19 OF STATUTES RECEIVES NOTICE PURSUANT TO SUBSECTION (16) OF THIS
+20 SECTION. THE COMMISSIONER OF THE BHA SHALL NOTIFY THE REVISOR OF
+21 STATUTES OF THE DATE ON WHICH THE CONDITION SPECIFIED IN THIS
+22 SUBSECTION (17)(b) HAS OCCURRED BY EMAILING THE NOTICE TO
+23 REVISOROFSTATUTES.GA@COLEG.GOV.
+24 (18) (a) IF, ON OR BEFORE JANUARY 1, 2028, THE MONEY IN THE
+25 FUND HAS NEVER REACHED OR EXCEEDED ONE HUNDRED FIFTY THOUSAND
+26 DOLLARS, OR ADDITIONAL GIFTS, GRANTS, OR DONATIONS IN THE AMOUNT
+27 NECESSARY TO COVER THE TOTAL REMAINING COST OF THE PILOT
+-11- 1325
+
+1 PROGRAM ARE NOT RECEIVED WITHIN THREE HUNDRED SIXTY-FIVE DAYS
+2 FOLLOWING THE DATE ON WHICH THE REVISOR OF STATUTES RECEIVES
+3 NOTICE PURSUANT TO SUBSECTION (16) OF THIS SECTION, THE STATE
+4 TREASURER SHALL RETURN FROM THE FUND TO THE GRANTOR OR DONOR
+5 THE AMOUNT OF THE GRANTOR'S OR DONOR'S GIFTS, GRANTS, OR
+6 DONATIONS AND, NOTWITHSTANDING SUBSECTION (17) OF THIS SECTION,
+7 THE BHA SHALL NOT ACCEPT ADDITIONAL GIFTS, GRANTS, OR DONATIONS
+8 FOR THE PURPOSES OF THIS SECTION.
+9 (b) IF ANY MONEY REMAINS IN THE FUND AFTER THE STATE
+10 TREASURER RETURNS MONEY TO DONORS OR GRANTORS PURSUANT TO
+11 SUBSECTION (18)(a) OF THIS SECTION, AS APPLICABLE, THE STATE
+12 TREASURER SHALL, PRIOR TO THE REPEAL OF THE FUND, TRANSFER ALL
+13 UNEXPENDED AND UNENCUMBERED MONEY IN THE FUND TO THE
+14 REGULATED NATURAL MEDICINE CASH FUND CREATED IN SECTION
+15 44-50-601.
+16 SECTION 3. In Colorado Revised Statutes, 12-170-104, amend
+17 (1), (12)(b)(II), and (12)(c) as follows:
+18 12-170-104. Definitions.
+19 As used in this article 170, unless the context otherwise requires:
+20 (1) "Administration session" means a session conducted at a
+21 healing center, or another location as allowed by this article 170 and
+22 article 50 of title 44, during which a participant consumes and
+23 experiences MAY PURCHASE REGULATED NATURAL MEDICINE AND
+24 REGULATED NATURAL MEDICINE PRODUCT AND CONSUME AND
+25 EXPERIENCE the effects of regulated natural medicine or regulated natural
+26 medicine product under the supervision of a facilitator.
+27 (12) (b) In addition to the substances listed in subsection (12)(a)
+-12- 1325
+
+1 of this section, "natural medicine" includes:
+2 (II) Ibogaine, if recommended by the board and approved by the
+3 director and the executive director of the state licensing authority; AND
+4 IBOGAINE DERIVED FROM A SEMI-SYNTHETIC PROCESS USING THE
+5 TABERNANTHE IBOGA PLANT OR VOACANGA AFRICANA PLANT, IF
+6 APPROVED BY THE BOARD AS A NATURAL MEDICINE AND TO THE EXTENT
+7 PERMITTED BY THE STATE LICENSING AUTHORITY, FOR USE IN THE
+8 ADMINISTRATION SESSIONS CONDUCTED IN ACCORDANCE WITH THIS
+9 ARTICLE 170 AND ARTICLE 50 OF TITLE 44; or
+10 (c) "Natural medicine" does not mean a synthetic or synthetic
+11 analog of the substances listed in subsections (12)(a) and (12)(b) of this
+12 section, including a derivative of a naturally occurring compound of
+13 natural medicine that is produced using chemical synthesis, chemical
+14 modification, or chemical conversion, EXCEPT FOR IBOGAINE DERIVED
+15 FROM A SEMI-SYNTHETIC PROCESS USING THE TABERNANTHE IBOGA
+16 PLANT, VOACANGA AFRICANA PLANT, OR ANOTHER SOURCE THAT IS
+17 RECOMMENDED BY THE BOARD, PURSUANT TO SECTION 12-170-106, FOR
+18 USE AS A NATURAL MEDICINE AND TO THE EXTENT PERMITTED BY THE
+19 STATE LICENSING AUTHORITY, FOR USE IN ADMINISTRATION SESSIONS,
+20 PURSUANT TO THIS ARTICLE 170 AND ARTICLE 50 OF TITLE 44.
+21 SECTION 4. In Colorado Revised Statutes, 12-170-105, amend
+22 (1)(a) introductory portion and (1)(a)(II)(I); and add (1)(a)(I.5) as
+23 follows:
+24 12-170-105. Director powers and duties - prohibition - rules.
+25 (1) In addition to any other powers and duties granted or imposed
+26 on the director pursuant to this article 170 or by any other law, the
+27 director has the following powers and duties:
+-13- 1325
+
+1 (a) To promulgate ADOPT rules pursuant to section 12-20-204
+2 concerning the following subjects:
+3 (I.5) REQUIREMENTS FOR THE USE AND ADMINISTRATION OF
+4 IBOGAINE, INCLUDING:
+5 (A) REQUIRING MEDICAL PRESCREENING, WHICH MAY INCLUDE AN
+6 ELECTROCARDIOGRAM, BLOOD TESTS, GENETIC TESTS, AND ANY OTHER
+7 MEDICAL TEST, THE RESULTS OF WHICH MAY BE USED TO HELP REDUCE THE
+8 RISKS RELATED TO IBOGAINE ADMINISTRATION FOR A PARTICIPANT;
+9 (B) REQUIRING CONTINUOUS MEDICAL MONITORING DURING AN
+10 IBOGAINE ADMINISTRATION SESSION;
+11 (C) REQUIRING APPROPRIATE OVERSIGHT BY TRAINED AND
+12 EXPERIENCED MEDICAL PROFESSIONALS DURING AN IBOGAINE
+13 ADMINISTRATION SESSION; AND
+14 (D) REQUIRING EXTENDED INTEGRATION OR AFTERCARE, AS
+15 APPROPRIATE, WHICH MAY UTILIZE REFERRALS, MEDICAL AND MENTAL
+16 HEALTH PROFESSIONALS, AND CERTIFIED PEER SUPPORT SPECIALISTS;
+17 (II) Requirements for the licensing of facilitators, practice of
+18 facilitation, and professional conduct of facilitators, including:
+19 (I) Parameters for a facilitator's permissible and prohibited
+20 financial interests in a healing center, license pursuant to this article 170,
+21 or license pursuant to article 50 of title 44; except that a facilitator may
+22 not have a financial interest in more than five natural medicine business
+23 licenses pursuant to article 50 of title 44;
+24 SECTION 5. In Colorado Revised Statutes, 12-170-106, amend
+25 (1), (2), (4)(c), and (5)(f); repeal (3); and add (4)(d), (4)(e), and (4)(f) as
+26 follows:
+27 12-170-106. Board - creation - appointment - duties - report.
+-14- 1325
+
+1 (1) There is created within the division a natural medicine
+2 advisory board, which consists of fifteen VOTING members AND ONE
+3 NONVOTING MEMBER DESCRIBED IN SUBSECTION (3) OF THIS SECTION, to
+4 advise the division and the state licensing authority concerning the
+5 implementation of this article 170 and article 50 of title 44. THE BOARD
+6 IS ADVISORY IN NATURE AND SHALL NOT EXERCISE LICENSING,
+7 ENFORCEMENT, RULE-MAKING, OR OPERATIONAL AUTHORITY.
+8 (2) (a) The governor shall appoint initial board members on or
+9 before January 31, 2023, with consent of the senate. The members must
+10 include: THE GOVERNOR SHALL APPOINT THE FIFTEEN VOTING MEMBERS
+11 TO THE BOARD.
+12 (a) (b) Seven members with significant expertise and experience
+13 in one or more of the following areas: Natural medicine therapy,
+14 medicine, and research; mycology and natural medicine cultivation;
+15 licensee qualifications; emergency medical services and services provided
+16 by first responders; mental and behavioral health care; health-care
+17 insurance and health-care policy; and public health, drug policy, and harm
+18 reduction; and IN MAKING APPOINTMENTS TO THE BOARD, THE GOVERNOR
+19 SHALL ENSURE THAT THE BOARD REFLECTS A DIVERSE RANGE OF
+20 PROFESSIONAL EXPERTISE, LIVED EXPERIENCE, AND PERSPECTIVES
+21 NECESSARY TO ADVISE ON THE SAFE, EFFECTIVE, AND EQUITABLE
+22 IMPLEMENTATION OF NATURAL MEDICINES AUTHORIZED PURSUANT TO
+23 THIS ARTICLE 170.
+24 (b) (c) Eight members with significant expertise and experience
+25 in one or more of the following areas: Religious use of natural medicines;
+26 issues confronting veterans; traditional tribal or Indigenous use of natural
+27 medicines; levels and disparities in access to health-care services among
+-15- 1325
+
+1 different communities; and past criminal justice reform efforts in
+2 Colorado. At least one of the eight members must have expertise or
+3 experience in traditional, tribal, or Indigenous use of natural medicines.
+4 MEMBERS APPOINTED TO THE BOARD MUST HAVE RELEVANT EXPERIENCE
+5 TO THE NATURAL MEDICINE CURRENTLY BEING REGULATED OR UNDER
+6 CONSIDERATION BY THE BOARD. RELEVANT EXPERIENCE MAY CONSIST OF
+7 WORK OR EXPERTISE IN THE FOLLOWING AREAS:
+8 (I) MEDICAL, CLINICAL, SCIENTIFIC, PHARMACOLOGICAL,
+9 TOXICOLOGICAL, OR RESEARCH RELATED TO NATURAL MEDICINE;
+10 (II) PHYSICAL HEALTH CARE, MENTAL HEALTH CARE, BEHAVIORAL
+11 HEALTH CARE, OR SUBSTANCE USE DISORDER TREATMENT;
+12 (III) EMERGENCY MEDICAL SERVICES, FIRST RESPONDER SERVICES,
+13 OR ACUTE CARE MEDICINE;
+14 (IV) PUBLIC HEALTH, DRUG POLICY, HARM REDUCTION, OR
+15 HEALTH-CARE POLICY;
+16 (V) NATURAL MEDICINE CULTIVATION, SOURCING, PROCESSING,
+17 MANUFACTURING, SUPPORTIVE CARE PROVIDED PRIOR TO AND FOLLOWING
+18 THE ADMINISTRATION OF NATURAL MEDICINE, OR QUALITY CONTROL OF
+19 NATURAL MEDICINE;
+20 (VI) REGULATORY COMPLIANCE, PROFESSIONAL LICENSURE,
+21 HEALTH-CARE REGULATION, OR LABORATORY STANDARDS;
+22 (VII) RELIGIOUS, SPIRITUAL, TRADITIONAL, TRIBAL, OR
+23 INDIGENOUS USE OF NATURAL MEDICINE;
+24 (VIII) ISSUES IMPACTING VETERANS OR OTHER POPULATIONS
+25 DISPROPORTIONATELY IMPACTED BY SUBSTANCE USE DISORDER OR
+26 MENTAL HEALTH CONDITIONS;
+27 (IX) HEALTH-CARE ACCESS, HEALTH EQUITY, OR DISPARITIES IN
+-16- 1325
+
+1 ACCESS TO CARE;
+2 (X) CRIMINAL JUSTICE REFORM, DRUG POLICY REFORM, OR
+3 IMPACTS OF PRIOR DRUG ENFORCEMENT POLICIES; OR
+4 (XI) ISSUES AFFECTING THE ECOLOGY OR CULTURE OF INDIGENOUS
+5 PEOPLE WHO HAVE HISTORICALLY USED NATURAL MEDICINE.
+6 (d) NOTHING IN SUBSECTION (2)(c) OF THIS SECTION REQUIRES THE
+7 BOARD TO REPRESENT ALL AREAS OF EXPERTISE LISTED IN SUBSECTION
+8 (2)(c) OF THIS SECTION.
+9 (e) SUBSECTION (2)(c) OF THIS SECTION DOES NOT LIMIT THE
+10 GOVERNOR'S DISCRETION TO APPOINT MEMBERS WHOSE QUALIFICATIONS
+11 ARE PARTICULARLY RELEVANT TO A SPECIFIC NATURAL MEDICINE THAT IS
+12 BEING REGULATED OR IS UNDER CONSIDERATION BY THE BOARD.
+13 (3) The board includes the executive director of the department of
+14 revenue, or the executive director's designee, serving as a nonvoting
+15 member.
+16 (4) (c) Except for the executive director of the state licensing
+17 authority, or the executive director's designee, Members of the board may
+18 serve up to two consecutive terms. Members are subject to removal for
+19 misconduct, incompetence, neglect of duty, or unprofessional conduct.
+20 (d) MEMBERS ARE SUBJECT TO REMOVAL FOR MISCONDUCT,
+21 INCOMPETENCE, NEGLECT OF DUTY, OR UNPROFESSIONAL CONDUCT, AND
+22 THE GOVERNOR MAY REMOVE A MEMBER FROM THE BOARD IF THE
+23 GOVERNOR DETERMINES THAT CHANGES TO THE BOARD'S COMPOSITION
+24 ARE NECESSARY TO ENSURE THE BOARD POSSESSES THE EXPERTISE
+25 REQUIRED TO FULFILL ITS ADVISORY ROLE WITH RESPECT TO A NATURAL
+26 MEDICINE BEING REGULATED OR UNDER CONSIDERATION BY THE BOARD.
+27 (e) THE GOVERNOR SHALL FILL A VACANCY THAT OCCURS ON THE
+-17- 1325
+
+1 BOARD WITHIN ONE HUNDRED TWENTY DAYS AFTER THE VACANCY ARISES.
+2 (f) A MEMBER APPOINTED PURSUANT TO SUBSECTION (4)(e) OF
+3 THIS SECTION SERVES FOR THE DURATION OF THE TERM BEING FILLED,
+4 SUBJECT TO SUBSECTION (4)(d) OF THIS SECTION.
+5 (5) The board shall make recommendations to the director and
+6 state licensing authority related to, but not limited to, the following areas:
+7 (f) The addition of other types of natural medicine to this article
+8 170 and article 50 of title 44 pursuant to section 12-170-104 (12)(b)(I),
+9 (12)(b)(II), or (12)(b)(III) based on available medical, psychological, and
+10 scientific studies, research, and other information related to the safety and
+11 efficacy of each natural medicine, and shall prioritize considering the
+12 addition of ibogaine pursuant to section 12-170-104 (12)(b)(II), to this
+13 article 170, and to article 50 of title 44, INCLUDING ADDITIONAL GENERA
+14 OR SPECIES OF PLANTS THAT MAY BE CULTIVATED AND MANUFACTURED
+15 TO CREATE SEMI-SYNTHETIC IBOGAINE SUCH AS THE GENERA
+16 TABERNANTHE PLANT, VOACANGA AFRICANA PLANT, AND
+17 TABERNAEMONTANA PLANT;
+18 SECTION 6. In Colorado Revised Statutes, 12-170-113, add (3)
+19 as follows:
+20 12-170-113. Protections.
+21 (3) (a) A FACILITATOR IS NOT LIABLE FOR MONEY DAMAGES IN A
+22 CIVIL MALPRACTICE ACTION FOR A PHYSICAL OR PSYCHOLOGICAL INJURY
+23 THAT A PARTICIPANT MAY EXPERIENCE AS A RESULT OF THE FACILITATOR'S
+24 PERFORMANCE OR SUPERVISION OF NATURAL MEDICINE SERVICES FOR A
+25 PARTICIPANT, UNLESS THE INJURY WAS THE DIRECT RESULT OF THE
+26 FACILITATOR'S INTENTIONAL MISCONDUCT, GROSS NEGLIGENCE, OR A
+27 DEVIATION FROM THE GENERALLY ACCEPTED STANDARDS OF PRACTICE.
+-18- 1325
+
+1 (b) THIS SUBSECTION (3) DOES NOT APPLY TO ADMINISTRATIVE
+2 PROCEEDINGS.
+3 SECTION 7. In Colorado Revised Statutes, 44-50-103, amend
+4 (13)(b)(II) and (13)(c) as follows:
+5 44-50-103. Definitions.
+6 As used in this article 50, unless the context otherwise requires:
+7 (13) (b) In addition to the substances listed in subsection (13)(a)
+8 of this section, "natural medicine" includes:
+9 (II) Ibogaine, if recommended by the board and approved by the
+10 director and the executive director of the state licensing authority for
+11 inclusion, AND IBOGAINE DERIVED FROM A SEMI-SYNTHETIC PROCESS
+12 USING THE TABERNANTHE IBOGA PLANT OR VOACANGA AFRICANA PLANT,
+13 IF APPROVED BY THE BOARD AS A NATURAL MEDICINE AND, TO THE
+14 EXTENT PERMITTED BY THE STATE LICENSING AUTHORITY, FOR USE IN
+15 ADMINISTRATION SESSIONS CONDUCTED IN ACCORDANCE WITH THIS
+16 ARTICLE 50 AND ARTICLE 170 OF TITLE 12; or
+17 (c) "Natural medicine" does not mean a synthetic or synthetic
+18 analog of the substances listed in subsections (13)(a) and (13)(b) of this
+19 section, including a derivative of a naturally occurring compound of
+20 natural medicine that is produced using chemical synthesis, chemical
+21 modification, or chemical conversion, EXCEPT FOR IBOGAINE DERIVED
+22 FROM A SEMI-SYNTHETIC PROCESS USING THE TABERNANTHE IBOGA
+23 PLANT, VOACANA AFRICANA PLANT, OR ANOTHER SOURCE THAT IS
+24 RECOMMENDED BY THE BOARD, PURSUANT TO SECTION 12-170-106, FOR
+25 USE AS A NATURAL MEDICINE AND, TO THE EXTENT PERMITTED BY THE
+26 STATE LICENSING AUTHORITY, FOR USE IN ADMINISTRATION SESSIONS
+27 CONDUCTED IN ACCORDANCE WITH THIS ARTICLE 50 AND ARTICLE 170 OF
+-19- 1325
+
+1 THIS TITLE 12.
+2 SECTION 8. In Colorado Revised Statutes, 18-18-434, amend
+3 (5)(c)(IV) and (12)(d); and add (5)(c)(VI), (5)(c)(VII), and (5.5) as
+4 follows:
+5 18-18-434. Offenses relating to natural medicine and natural
+6 medicine product - definitions.
+7 (5) (c) Nothing in this section permits a person to:
+8 (IV) Dispense, distribute, or possess with intent to dispense or
+9 distribute natural medicine or natural medicine product as a part of a
+10 business promotion or commercial activity, except as provided by article
+11 170 of title 12 and article 50 of title 44; or
+12 (VI) ADVERTISE BONA FIDE HARM REDUCTION SERVICES OR BONA
+13 FIDE SUPPORT SERVICES OFFERED FOR REMUNERATION EXCEPT AS
+14 PROVIDED FOR IN SECTION (12)(d) OF THIS SECTION;
+15 (VII) ADVERTISE NATURAL MEDICINE OR NATURAL MEDICINE
+16 PRODUCT; OR
+17 (VIII) USE HARM REDUCTION SERVICES OR SUPPORT SERVICES TO
+18 CONDUCT SALES OF NATURAL MEDICINE. PROHIBITED SALES ACTIVITIES
+19 RELATED TO HARM REDUCTION SERVICES OR SUPPORT SERVICES INCLUDE
+20 BUT ARE NOT LIMITED TO:
+21 (A) OPERATING A RETAIL STORE, VENDOR TABLE, VENDOR BOOTH,
+22 OR OTHER COMMERCIAL BUSINESS THAT DISPENSES FOR REMUNERATION
+23 ANY AMOUNT OF NATURAL MEDICINE OR NATURAL MEDICINE PRODUCT
+24 NOT INTENDED FOR CONSUMPTION UNDER SUPERVISION BY THE NATURAL
+25 PERSON OR ENTITY THAT DISPENSES THE NATURAL MEDICINE OR NATURAL
+26 MEDICINE PRODUCT;
+27 (B) SALES OF SERVICES OR ITEMS THAT INCLUDE THE TRANSFER OF
+-20- 1325
+
+1 NATURAL MEDICINE, WHICH DOES NOT PRECLUDE REMUNERATION FOR
+2 BONA FIDE HARM REDUCTION SERVICES OR BONA FIDE SUPPORT SERVICES;
+3 (C) PAYING RECURRING FEES TO ACQUIRE NATURAL MEDICINE OR
+4 NATURAL MEDICINE PRODUCTS; AND
+5 (D) ONLINE SALES THAT INCLUDE NATURAL MEDICINE OR
+6 NATURAL MEDICINE PRODUCTS.
+7 (5.5) BONA FIDE HARM REDUCTION SERVICES OR BONA FIDE
+8 SUPPORT SERVICES WITHOUT THE EXCHANGE OR SHARING OF NATURAL
+9 MEDICINE OR NATURAL MEDICINE PRODUCTS ARE NOT SUBJECT TO THIS
+10 SECTION.
+11 (12) As used in this section, unless the context otherwise requires:
+12 (d) "Personal use" means the consumption or use of natural
+13 medicine or natural medicine product; or the amount of natural medicine
+14 or natural medicine product a person may lawfully possess, cultivate, or
+15 manufacture that is necessary to share with another person who is
+16 twenty-one years of age or older within the context of counseling,
+17 spiritual guidance, beneficial community-based use and healing,
+18 supported use, or related services. "Personal use" does not mean the sale
+19 of natural medicine or natural medicine product for remuneration; the
+20 possession, cultivation, or manufacture of natural medicine or natural
+21 medicine product with intent to sell the natural medicine or natural
+22 medicine product for remuneration; or the possession, cultivation,
+23 manufacture, or distribution of natural medicine or natural medicine
+24 product for business or commercial purposes, except as provided by
+25 article 170 of title 12 and article 50 of title 44. Nothing in this section
+26 precludes remuneration for bona fide harm reduction services or bona
+27 fide support services used concurrently with the sharing of CONSUMPTION
+-21- 1325
+
+1 OF SHARED ntural medicine or natural medicine product, provided that IF
+2 there is no advertisement related to the sharing of natural medicine,
+3 natural medicine product, or the services provided, SERVICES OFFERED, nd
+4 provided that IF the individual providing the services informs an
+5 individual engaging in the services that the individual is not a licensed
+6 facilitator pursuant to article 170 of title 12.
+7 SECTION 9. In Colorado Revised Statutes, 44-50-103, amend
+8 (1); and add (11.5) and (24.5) as follows:
+9 44-50-103. Definitions.
+10 As used in this article 50, unless the context otherwise requires:
+11 (1) "Administration session" means a session conducted at a
+12 healing center, or other location if permitted by this article 50 or rules
+13 promulgated ADOPTED pursuant to this article 50, during which a
+14 participant consumes and experiences MAY PURCHASE REGULATED
+15 NATURAL MEDICINE AND REGULATED NATURAL MEDICINE PRODUCT AND
+16 CONSUME AND EXPERIENCE the effects of natural medicine under the
+17 supervision of a facilitator.
+18 (11.5) "LIMITED REGULATED NATURAL MEDICINE SALES LICENSE"
+19 MEANS A LICENSE ISSUED TO AN OWNER AUTHORIZING THE LICENSE TO
+20 CO-LOCATE WITH A HEALING CENTER IN WHICH THERE IS AT LEAST ONE
+21 PERSON LICENSED AS AN OWNER ASSOCIATED WITH BOTH THE LIMITED
+22 REGULATED NATURAL MEDICINE SALES LICENSE AND THE HEALING
+23 CENTER.
+24 (24.5) "TEMPORARY PREMISES" MEANS THE PHYSICAL LOCATION
+25 WHERE A NATURAL MEDICINE HEALING CENTER, LICENSED PURSUANT TO
+26 THIS ARTICLE 50, IS AUTHORIZED TO PROVIDE NATURAL MEDICINE
+27 SERVICES UNDER THE TERMS OF A TEMPORARY PREMISES PERMIT.
+-22- 1325
+
+1 SECTION 10. In Colorado Revised Statutes, 44-50-104, amend
+2 (2) as follows:
+3 44-50-104. Applicability.
+4 (2) A person applying for licensure pursuant to this article 50 must
+5 complete forms as provided by the state licensing authority and must pay
+6 the application fee and the licensing fee, which must be credited to the
+7 regulated natural medicine division cash fund established pursuant to
+8 section 44-50-601. The state licensing authority shall prioritize reviewing
+9 applications from applicants who have established residency in Colorado.
+10 IN THE FOLLOWING ORDER:
+11 (a) APPLICANTS WHO PARTICIPATED IN THE PILOT PROGRAM TO
+12 ADMINISTER IBOGAINE PURSUANT TO SECTION 27-60-207;
+13 (b) APPLICANTS WHO HAVE ESTABLISHED RESIDENCY IN
+14 COLORADO; AND
+15 (c) APPLICANTS WHO DEMONSTRATE PRIORITY REVIEW STATUS AS
+16 ESTABLISHED BY THE STATE LICENSING AUTHORITY IN RULE.
+17 SECTION 11. In Colorado Revised Statutes, 44-50-202, amend
+18 (1)(a); and add (10) as follows:
+19 44-50-202. Powers and duties of state licensing authority -
+20 report - rules.
+21 (1) The state licensing authority shall:
+22 (a) Beginning on or before December 31, 2024, grant or refuse
+23 state licenses for the cultivation, manufacturing, testing, storage,
+24 distribution, transport, transfer, and dispensation of regulated natural
+25 medicine or regulated natural medicine product; suspend, fine, restrict, or
+26 revoke such THE licenses, whether active, expired, or surrendered, upon
+27 a violation of this article 50 or a rule promulgated ADOPTED pursuant to
+-23- 1325
+
+1 this article 50; and impose any penalty authorized by this article 50 or a
+2 rule promulgated ADOPTED pursuant to this article 50. The state licensing
+3 authority may take any action with respect to a registration or permit
+4 pursuant to this article 50 as it may with respect to a license issued
+5 pursuant to this article 50, in accordance with the procedures established
+6 pursuant to this article 50.
+7 (I) THE INCORPORATION OF ADDITIONAL NATURAL MEDICINES, AS
+8 RECOMMENDED BY THE BOARD AND APPROVED BY THE DIRECTOR AND
+9 EXECUTIVE DIRECTOR OF THE STATE LICENSING AUTHORITY, IS SUBJECT TO
+10 AVAILABLE FUNDING TO COVER THE DIRECT AND INDIRECT COSTS OF
+11 ADMINISTERING THIS ARTICLE 50 . THE STATE LICENSING AUTHORITY IS
+12 NOT REQUIRED TO INCORPORATE ADDITIONAL NATURAL MEDICINES IF
+13 THERE IS NOT SUFFICIENT FUNDING TO FINANCE PROGRAM
+14 ADMINISTRATION.
+15 (II) ONCE SUFFICIENT FUNDING IS SECURED FOR PROGRAM
+16 IMPLEMENTATION, THE STATE LICENSING AUTHORITY, IN CONSULTATION
+17 WITH THE BOARD, THE DEPARTMENT OF REGULATORY AGENCIES, THE
+18 BEHAVIORAL HEALTH ADMINISTRATION, AND THE DEPARTMENT OF PUBLIC
+19 HEALTH AND ENVIRONMENT, SHALL DETERMINE THE PROGRAM SCOPE FOR
+20 IMPLEMENTATION.
+21 (10) THE STATE LICENSING AUTHORITY IS NOT REQUIRED TO
+22 CONDUCT ROUTINE, PERIODIC, OR PRE-OPERATIONAL INSPECTIONS AS A
+23 CONDITION OF LICENSURE UNLESS EXPRESSLY REQUIRED BY THIS ARTICLE
+24 50.
+25 SECTION 12. In Colorado Revised Statutes, 44-50-203, amend
+26 (1)(e), (2)(r), and (2)(s)(III); and add (1)(p), (1)(q), (2)(t), (2)(u), (2.5),
+27 (4)(c), (5), and (6) as follows:
+-24- 1325
+
+1 44-50-203. State licensing authority - rules.
+2 (1) Mandatory rule-making. Rules adopted pursuant to section
+3 44-50-202 (1)(b) must include the following subjects:
+4 (e) Permissible and prohibited financial interests in a license
+5 issued pursuant to this article 50 or a license issued pursuant to article 170
+6 of title 12; except that an individual shall not have a financial interest in
+7 more than five natural medicine business licenses;
+8 (p) LICENSE PRIVILEGES AND RESTRICTIONS OF A LIMITED
+9 REGULATED NATURAL MEDICINE SALES LICENSE, WHICH INCLUDES
+10 ALLOWING THE LICENSEE TO STORE, DISTRIBUTE, TRANSPORT, PURCHASE,
+11 POSSESS, AND TRANSFER REGULATED NATURAL MEDICINE AND REGULATED
+12 NATURAL MEDICINE PRODUCT AND TO TRANSFER FOR REMUNERATION
+13 REGULATED NATURAL MEDICINE OR REGULATED NATURAL MEDICINE
+14 PRODUCTS TO A PARTICIPANT ONLY FOR PURPOSES OF CONSUMPTION
+15 DURING A FACILITATED ADMINISTRATION SESSION AT A CO-LOCATED
+16 HEALING CENTER'S LICENSED PREMISES;
+17 (q) ELIGIBILITY REQUIREMENTS FOR AN APPLICANT TO OBTAIN A
+18 LIMITED REGULATED NATURAL MEDICINE SALES LICENSE, INCLUDING, BUT
+19 NOT LIMITED TO:
+20 (I) REQUIRING A LIMITED REGULATED NATURAL MEDICINE SALES
+21 LICENSE TO HAVE AND MAINTAIN COMMON OWNERSHIP WITH THE
+22 CO-LOCATED HEALING CENTER LICENSE ISSUED PURSUANT TO SECTION
+23 44-50-401 AND ANY RULES ADOPTED BY THE STATE LICENSING
+24 AUTHORITY; AND
+25 (II) ESTABLISHING APPLICATION AND LICENSE FEES TO COVER THE
+26 DIRECT AND INDIRECT COSTS OF IMPLEMENTING THE LIMITED REGULATED
+27 NATURAL MEDICINE SALES LICENSE CREATED PURSUANT TO SECTION
+-25- 1325
+
+1 44-50-401(6), WHICH FEES SHALL BE DEPOSITED IN THE NATURAL
+2 MEDICINE CASE FUND CREATED IN SECTION 44-50-601.
+3 (2) Permissive rule-making. Rules adopted pursuant to section
+4 44-50-202 (1)(b) may include, but need not be limited to, the following
+5 subjects:
+6 (r) Such other matters as are necessary for the fair, impartial,
+7 stringent, and comprehensive administration of this article 50; and
+8 (s) Requirements that healing centers collect data and information
+9 related to regulated natural medicine services and provide the data and
+10 information to the department of public health and environment in
+11 accordance with section 44-50-401 (6), which data and information must
+12 include:
+13 (III) Other information as determined by the state licensing
+14 authority in consultation with the department of public health and
+15 environment;
+16 (t) APPLICATION PROCEDURES AND LICENSE REQUIREMENTS FOR
+17 A HEALING CENTER TO OPERATE A TEMPORARY PREMISES, IN ACCORDANCE
+18 WITH SECTION 44-50-401(6), AND MAY INCLUDE:
+19 (I) ESTABLISHING THE LOCATION ELIGIBILITY REQUIREMENTS FOR
+20 A TEMPORARY PREMISES;
+21 (II) ESTABLISHING MINIMUM SECURITY AND SURVEILLANCE
+22 REQUIREMENTS FOR A TEMPORARY PREMISES, WHICH MUST REFLECT THE
+23 TEMPORARY NATURE OF THE USE AND ANY PUBLIC HEALTH AND SAFETY
+24 CONSIDERATIONS FOR ADMINISTRATION OF NATURAL MEDICINE SERVICES;
+25 (III) ESTABLISHING MINIMUM RECORD KEEPING REQUIREMENTS,
+26 WHICH MAY INCLUDE AUTHORIZING LICENSEES OPERATING A TEMPORARY
+27 PREMISES TO MAINTAIN REQUIRED RECORDS AT THE HEALING CENTER
+-26- 1325
+
+1 LICENSEE'S LICENSED PREMISES;
+2 (IV) ESTABLISHING NOTIFICATION REQUIREMENTS FOR WHEN A
+3 HEALING CENTER MUST REPORT TO THE STATE LICENSING AUTHORITY
+4 INFORMATION THAT RELATES TO THE LICENSEE'S USE OF AN APPROVED
+5 TEMPORARY PREMISES;
+6 (V) ESTABLISHING CRITERIA UNDER WHICH A HEALING CENTER
+7 MAY APPLY AND BE APPROVED FOR MORE THAN ONE TEMPORARY
+8 PREMISES IN A SINGLE APPLICATION; AND
+9 (VI) ADJUSTING THE AMOUNTS OF THE APPLICATION AND PERMIT
+10 FEES FOR A TEMPORARY PREMISES TO REFLECT THE DIRECT AND INDIRECT
+11 COSTS OF ADMINISTERING THE TEMPORARY PREMISES PERMIT; AND
+12 (u) REQUIREMENTS FOR THE CULTIVATION, MANUFACTURE,
+13 TESTING, OR DISPENSING OF IBOGAINE, INCLUDING:
+14 (I) LIMITING PRODUCTS CONTAINING IBOGAINE, AS NECESSARY,
+15 DUE TO ITS HEALTH AND SAFETY RISKS; AND
+16 (II) ESTABLISHING MINIMUM MANUFACTURING AND TESTING
+17 STANDARDS FOR IBOGAINE AND IBOGAINE PRODUCTS, INCLUDING
+18 REQUIREMENTS THAT LICENSEES MAINTAIN RECORDS REGARDING
+19 CULTIVATED AND MANUFACTURED PRODUCTS SOURCE MATERIAL,
+20 ADDITIVES AND INGREDIENTS, AND ANY CONDUCTED TEST RESULTS, AND
+21 REQUIREMENTS THAT PRODUCTS PROVIDED TO HEALING CENTERS BE
+22 LABELED WITH THE SAME INFORMATION.
+23 (2.5) THE STATE LICENSING AUTHORITY MAY TEMPORARILY WAIVE
+24 OR ADJUST STATUTORY OR REGULATORY TESTING REQUIREMENTS FOR
+25 REGULATED NATURAL MEDICINE AND REGULATED NATURAL MEDICINE
+26 PRODUCTS. ANY WAIVER OR ADJUSTMENT OF STATUTORY OR REGULATORY
+27 TESTING REQUIREMENTS ARE ONLY PERMITTED IF THERE IS NO NATURAL
+-27- 1325
+
+1 MEDICINE TESTING FACILITY CERTIFIED OR LICENSED TO CONDUCT
+2 REQUIRED TESTING AND MUST INCLUDE:
+3 (a) PROCEDURES FOR LICENSEES TO SUBMIT REPRESENTATIVE TEST
+4 SAMPLES TO AN UNLICENSED, THIRD-PARTY TESTING LABORATORY;
+5 (b) MINIMUM QUALIFICATIONS THAT THE UNLICENSED
+6 THIRD-PARTY TESTING LABORATORY MUST MEET TO RECEIVE TEST
+7 SAMPLES;
+8 (c) MINIMUM STANDARDS FOR CERTIFICATES OF ANALYSIS THAT
+9 A LICENSEE MUST DEMONSTRATE THE UNLICENSED, THIRD-PARTY TESTING
+10 LABORATORY CAN MEET;
+11 (d) FREQUENCY OF TESTING; AND
+12 (e) LICENSEE NOTIFICATION AND RECORD KEEPING REQUIREMENTS
+13 FOR REGULATED NATURAL MEDICINE AND REGULATED NATURAL MEDICINE
+14 PRODUCTS TESTED BY UNLICENSED, THIRD-PARTY TESTING LABORATORIES.
+15
+16 (4) (c) THE STATE LICENSING AUTHORITY MAY ESTABLISH
+17 DIFFERENT APPLICATION FEES FOR LICENSES BASED ON THE TYPE OF
+18 NATURAL MEDICINE THAT THE LICENSEE SEEKS TO CULTIVATE,
+19 MANUFACTURE, TEST, OR DISPENSE.
+20 (5) (a) A LICENSEE SEEKING TO CULTIVATE, MANUFACTURE, TEST,
+21 DISPENSE, OR ADMINISTER IBOGAINE SHALL, IN CONSULTATION WITH
+22 INDIGENOUS COMMUNITIES OR THEIR AUTHORIZED REPRESENTATIVE,
+23 ESTABLISH A BENEFIT-SHARING PLAN THAT DIRECTLY BENEFITS THOSE
+24 COMMUNITIES. A LICENSEE MAY USE OR RELY ON A THIRD PARTY FOR
+25 CONSULTATION.
+26 (b) A LICENSEE SHALL MAINTAIN DOCUMENTATION
+27 DEMONSTRATING THE CONSULTATION PROCESS AND THE DEVELOPMENT OF
+-28- 1325
+
+1 THE BENEFIT-SHARING PLAN AND MAKE THE DOCUMENTATION PUBLICLY
+2 AVAILABLE UPON REQUEST.
+3 (c) FOR PURPOSES OF THIS SUBSECTION (5), "BENEFIT-SHARING
+4 PLAN" MEANS AN ARRANGEMENT WITH INDIGENOUS COMMUNITIES
+5 TRADITIONALLY CONNECTED TO THE USE OF IBOGAINE OR IBOGA THAT IS
+6 INTENDED TO SHARE IN THE BENEFITS THAT ARISE FROM THE RESEARCH,
+7 THERAPEUTIC USE, OR COMMERCIALIZATION OF IBOGAINE OR IBOGA.
+8 BENEFITS MAY INCLUDE:
+9 (I) FINANCIAL BENEFIT SHARING;
+10 (II) COLLABORATIVE RESEARCH OR DATA SHARING;
+11 (III) CONSERVATION SUPPORT FOR PLANT SPECIES AND HABITATS;
+12 (IV) COMMUNITY-IDENTIFIED DEVELOPMENT PRIORITIES;
+13 (V) CULTURAL OR EDUCATIONAL EXCHANGES; AND
+14 (VI) UTILIZING A SOURCE FOR IBOGAINE THAT ENGAGES IN
+15 BENEFIT-SHARING AND ETHICAL AND SUSTAINABLE CULTIVATION
+16 PRACTICES.
+17 (6) NOTHING IN THIS SECTION SHALL BE INTERPRETED TO REQUIRE
+18 INDIGENOUS COMMUNITIES TO DISCLOSE OR SHARE TRADITIONAL
+19 KNOWLEDGE, CEREMONIAL PRACTICES, OR CULTURAL EXPRESSIONS.
+20 SECTION 13. In Colorado Revised Statutes, 44-50-301, amend
+21 (2)(a)(IV) and (2)(a)(V); and add (2)(a)(VI) as follows:
+22 44-50-301. Classes of licenses.
+23 (2) (a) The following are natural medicine business licenses:
+24 (IV) Natural medicine testing facility license; and
+25 (V) Any natural medicine business license determined necessary
+26 by the state licensing authority LIMITED REGULATED NATURAL MEDICINE
+27 SALES LICENSES; AND
+-29- 1325
+
+1 (VI) ANY NATURAL MEDICINE BUSINESS LICENSE DETERMINED
+2 NECESSARY BY THE STATE LICENSING AUTHORITY.
+3 SECTION 14. In Colorado Revised Statutes, 44-50-401, amend
+4 (2); and add (7) as follows:
+5 44-50-401. Natural medicine healing center license - data
+6 collection - rules.
+7 (2) A natural medicine healing center licensee may transfer
+8 regulated natural medicine or regulated natural medicine product to
+9 another natural medicine healing center licensee, LIMITED REGULATED
+10 NATURAL MEDICINE SALES LICENSEE, or a facilitator pursuant to rules
+11 promulgated ADOPTED by the state licensing authority.
+12 (7) (a) A HEALING CENTER MAY APPLY FOR A TEMPORARY
+13 PREMISES PERMIT AT A SEPARATE LOCATION. THE DEPARTMENT MAY ISSUE
+14 A TEMPORARY PREMISES PERMIT TO A LICENSED NATURAL MEDICINE
+15 HEALING CENTER IF THE FOLLOWING CONDITIONS ARE MET:
+16 (I) THE HEALING CENTER SUBMITS A COMPLETE APPLICATION AND
+17 PAYS ALL APPLICATION AND PERMIT FEES TO THE DEPARTMENT;
+18 (II) THE LOCATION IS APPROVED BY THE DEPARTMENT SUBJECT TO
+19 THE REQUIREMENTS IN SECTION 44-50-302;
+20 (III) THE LICENSEE'S USE OF THE TEMPORARY PREMISES DOES NOT
+21 EXCEED THE DURATION APPROVED UNDER THE PERMIT;
+22 (IV) THE APPLICANT DEMONSTRATES THE LICENSED NATURAL
+23 MEDICINE HEALING CENTER IS ENTITLED TO USE THE LOCATION AS A
+24 TEMPORARY PREMISES; AND
+25 (V) THE TEMPORARY PREMISES OTHERWISE COMPLIES WITH THIS
+26 ARTICLE 50 AND ALL OTHER RULES ADOPTED BY THE DEPARTMENT.
+27 (b) A NATURAL MEDICINE HEALING CENTER'S TEMPORARY
+-30- 1325
+
+1 PREMISES IS NOT REQUIRED TO BE LOCATED IN THE SAME LOCAL
+2 JURISDICTION AS THE LICENSED PREMISES.
+3 (c) THE STATE LICENSING AUTHORITY SHALL NOT ISSUE A
+4 TEMPORARY PREMISES PERMIT FOR A LOCATION AT WHICH THE
+5 DISTRIBUTION, TRANSFER, AND DISPENSATION OF REGULATED NATURAL
+6 MEDICINE OR REGULATED NATURAL MEDICINE PRODUCT IS NOT PERMITTED
+7 UNDER THE ZONING CODE OF THE LOCAL JURISDICTION.
+8 (8) A LIMITED REGULATED NATURAL MEDICINE SALES LICENSE
+9 MAY BE ISSUED ONLY TO A PERSON THAT APPLIES FOR AND IS APPROVED
+10 TO OPERATE A HEALING CENTER LICENSE AND IS SUBJECT TO THE
+11 FOLLOWING REQUIREMENTS:
+12 (a) THE LICENSE MUST BE CO-LOCATED WITH A HEALING CENTER
+13 AT WHICH AN ADMINISTRATION SESSION IS HELD, WHERE REGULATED
+14 NATURAL MEDICINE OR REGULATED NATURAL MEDICINE PRODUCT IS SOLD
+15 TO A PARTICIPANT.
+16 (b) THE LICENSE MUST HAVE COMMON OWNERSHIP WITH THE
+17 CO-LOCATED HEALING CENTER. FOR PURPOSES OF THIS SECTION, COMMON
+18 OWNERSHIP MEANS THERE IS AT LEAST ONE PERSON LICENSED AS AN
+19 OWNER ASSOCIATED WITH BOTH THE LIMITED REGULATED NATURAL
+20 MEDICINE SALES LICENSE AND THE HEALING CENTER.
+21 (c) THE LICENSE MAY BE EXERCISED TO STORE, PURCHASE,
+22 POSSESS, AND TRANSFER REGULATED NATURAL MEDICINE AND REGULATED
+23 NATURAL MEDICINE PRODUCT AND INVOICE A PARTICIPANT FOR
+24 REGULATED NATURAL MEDICINE AND REGULATED NATURAL MEDICINE
+25 PRODUCT TO BE USED SOLELY IN THE CONTEXT OF AN ADMINISTRATION
+26 SESSION AT A CO-LOCATED HEALING CENTER AND TO CONDUCT
+27 TRANSACTIONS ON BEHALF OF A FACILITATOR FOR THE NATURAL MEDICINE
+-31- 1325
+
+1 SERVICES PROVIDED IN ACCORDANCE WITH ARTICLE 170 OF TITLE 12.
+2 (d) THE LICENSE IS NOT REQUIRED TO COMPLY WITH SUBSECTION
+3 (1) OF THIS SECTION SEPARATE FROM THE COMMONLY OWNED,
+4 CO-LOCATED HEALING CENTER LICENSE.
+5 (e) ANY OTHER REQUIREMENTS ESTABLISHED BY RULES OF THE
+6 STATE LICENSING AUTHORITY PURSUANT TO THIS ARTICLE 50.
+7 (9) A HEALTH CENTER LICENSEE SHALL NOT SELL REGULATED
+8 NATURAL MEDICINE OR REGULATED NATURAL MEDICINE PRODUCT UNLESS
+9 A CO-LOCATED LIMITED REGULATED NATURAL MEDICINE SALES LICENSEE
+10 CONDUCTS THE TRANSACTION IN ACCORDANCE WITH THE PROVISIONS OF
+11 SUBSECTION (8) OF THIS SECTION.
+12 SECTION 15. In Colorado Revised Statutes, 44-50-402, amend
+13 (1) as follows:
+14 44-50-402. Natural medicine cultivation facility license.
+15 (1) A natural medicine cultivation facility license may be issued
+16 pursuant to state licensing authority rules and only to a person who
+17 cultivates regulated natural medicine for transfer and distribution to
+18 natural medicine healing center licensees, natural medicine product
+19 manufacturer licensees, A LIMITED REGULATED NATURAL MEDICINE SALES
+20 LICENSEE, other natural medicine cultivation facility licensees, or other
+21 persons licensed under PURSUANT TO article 170 of title 12 or this article
+22 50.
+23 SECTION 16. In Colorado Revised Statutes, 44-50-601, amend
+24 (1)(a) as follows:
+25 44-50-601. Regulated natural medicine cash fund - created -
+26 rules - fees.
+27 (1) (a) All Money collected by the state licensing authority
+-32- 1325
+
+1 pursuant to this article 50 or rules promulgated ADOPTED pursuant to this
+2 article 50 must be transmitted to the state treasurer, who shall credit the
+3 same to the regulated natural medicine division cash fund, which is
+4 hereby created IN THE STATE TREASURY. The regulated natural medicine
+5 division cash fund, referred to in this section as the "fund", consists of:
+6 (I) The money collected by the state licensing authority; and
+7 (II) GIFTS, GRANTS, OR DONATIONS FROM PUBLIC OR PRIVATE
+8 SOURCES;
+9 (III) MONEY TRANSFERRED FROM THE IBOGAINE RESEARCH PILOT
+10 PROGRAM CASH FUND, ESTABLISHED IN SECTION 27-60-207 (10); AND
+11 (II) (IV) Any additional general fund money appropriated to the
+12 fund that is necessary for the operation of the state licensing authority.
+13 SECTION 17. In Colorado Revised Statutes, add 44-50-702 as
+14 follows:
+15 44-50-702. Unlawful exercise of the privileges of a license.
+16 (1) IF THE DIRECTOR OF THE NATURAL MEDICINE DIVISION
+17 DETERMINES BASED UPON CREDIBLE EVIDENCE FROM A COMPLAINT OR
+18 INVESTIGATION THAT A PERSON IS ACTING OR HAS ACTED WITHOUT THE
+19 LICENSE REQUIRED TO OPERATE A NATURAL MEDICINE BUSINESS OR TO
+20 OWN, GROW, HARVEST, TRANSFER, MANUFACTURE, SUPERVISE, PROVIDE,
+21 OR ADMINISTER NATURAL MEDICINE, THE DIRECTOR MAY ISSUE AN ORDER
+22 TO CEASE AND DESIST THE ACTIVITY. THE ORDER MUST SET FORTH THE
+23 STATUTES AND RULES ALLEGED TO HAVE BEEN VIOLATED, THE FACTS
+24 ALLEGED TO CONSTITUTE THE VIOLATION, AND THE REQUIREMENT THAT
+25 ALL UNLAWFUL ACTS OR UNLICENSED ACTIVITY IMMEDIATELY CEASE.
+26 (2) WITHIN FOURTEEN DAYS AFTER SERVICE OF THE ORDER TO
+27 CEASE AND DESIST ISSUED PURSUANT TO SUBSECTION (1) OF THIS SECTION,
+-33- 1325
+
+1 THE RESPONDENT MAY REQUEST A HEARING BEFORE THE HEARINGS
+2 DIVISION ON THE QUESTION OF WHETHER THEIR ACTS OR PRACTICES WERE
+3 IN VIOLATION OF THIS TITLE 44 OR UNLICENSED ACTIVITY OCCURRED.
+4 (3) THE HEARING MUST BE CONDUCTED PURSUANT TO SECTIONS
+5 24-4-104 AND 24-4-105.
+6 (4) JUDICIAL REVIEW OF FINAL AGENCY ACTION REGARDING THE
+7 CEASE AND DESIST MUST BE CONDUCTED PURSUANT TO SECTION 24-4-106.
+8 SECTION 18. Act subject to petition - effective date. This act
+9 takes effect at 12:01 a.m. on the day following the expiration of the
+10 ninety-day period after final adjournment of the general assembly (August
+11 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+12 referendum petition is filed pursuant to section 1 (3) of article V of the
+13 state constitution against this act or an item, section, or part of this act
+14 within such period, then the act, item, section, or part will not take effect
+15 unless approved by the people at the general election to be held in
+16 November 2026 and, in such case, will take effect on the date of the
+17 official declaration of the vote thereon by the governor.
+-34- 1325

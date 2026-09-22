@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0782.02 Chelsea Princell x4335 HOUSE BILL 26-1325
+HOUSE SPONSORSHIP
+Caldwell and Feret,
+SENATE SPONSORSHIP
+Ball,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING NATURAL MEDICINE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill establishes the ibogaine research pilot program (pilot
+program) in the behavioral health administration (BHA) to research the
+safety and effectiveness of using ibogaine to treat mental health
+conditions and substance use disorders.
+The bill requires the BHA to establish a committee to review pilot
+program site applications and make recommendations to the BHA on
+which applicants to accept. The BHA may select up to 5 ibogaine pilot
+sites.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill allows the BHA to seek, accept, and expend gifts, grants,
+and donations and establishes the ibogaine research pilot program cash
+fund (cash fund). Money from the cash fund may be used to administer
+the pilot program and award grants to the selected ibogaine pilot sites to
+help with financing needs.
+The bill allows the state licensing authority for natural medicine
+or natural medicine product (state licensing authority) to adopt rules
+related to the administration, manufacturing, and use of ibogaine.
+Under current law, the division of natural medicine advisory board
+consists of 15 voting members; 8 of whom must have general expertise
+and experience related to natural medicine and 7 of whom must have
+specialized expertise and experience in various areas of natural medicine.
+The bill amends the expertise and experience requirements to apply
+equally to all 15 voting members.
+The bill adds that a facilitator of natural medicine services is not
+liable for a physical or psychological injury that a participant may
+experience as a result of the facilitator's performance or supervision of the
+natural medicine services that a participant receives, unless the injury is
+the result of the facilitator's intentional misconduct, gross negligence, or
+a deviation from the recognized standard of care.
+The bill sets requirements for how the state licensing authority
+must prioritize reviewing applications for licensure to facilitate natural
+medicine services and allows the state licensing authority to set different
+licensing fees depending on the type of natural medicine the applicant is
+seeking licensure for.
+The bill allows the state licensing authority to accept gifts, grants,
+and donations from public or private sources and requires gifts, grants, or
+donations received to be deposited in the regulated natural medicine
+division cash fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado is facing a severe and worsening mental health crisis
+5 due to high rates of mental health conditions and substance use disorders,
+6 including opioid use disorder;
+7 (b) Existing treatment approaches for treating mental health
+8 conditions and substance use disorders are often inadequate for long-term
+-2- HB26-1325
+
+1 remission and recovery, necessitating the exploration of innovative
+2 options;
+3 (c) Ibogaine is a psychoactive indole alkaloid derived from the
+4 root bark of the tabernanthe iboga plant and other plants, such as the
+5 voacanga africana plant, that have shown significant potential as
+6 life-saving treatment options for substance use disorders and mental
+7 health conditions;
+8 (d) A carefully regulated, medically supervised, and therapeutic
+9 framework for administering ibogaine is necessary to make ibogaine
+10 accessible, facilitate rigorous research, and ensure patient safety;
+11 (e) The mental health and well-being of veterans is a priority of
+12 the general assembly, and ibogaine treatment has shown promise in
+13 treating severe service-related post-traumatic stress disorder and other
+14 mental health conditions related to combat deployments; and
+15 (f) Establishing a research pilot program to explore the therapeutic
+16 uses of ibogaine, better understand potential risks of ibogaine use, and lay
+17 the groundwork for a future comprehensive regulatory program is
+18 necessary to find additional treatment options for people suffering from
+19 a mental health condition or a substance use disorder.
+20 SECTION 2. In Colorado Revised Statutes, add 27-60-207 as
+21 follows:
+22 27-60-207. Ibogaine research pilot program - creation - federal
+23 approval - fund - rules - reporting - definitions.
+24 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+25 REQUIRES:
+26 (a) "FUND" MEANS THE IBOGAINE RESEARCH PILOT PROGRAM CASH
+27 FUND CREATED IN SUBSECTION (10) OF THIS SECTION.
+-3- HB26-1325
+
+1 (b) "IBOGAINE PILOT SITE" MEANS A FACILITATION SITE SELECTED
+2 AND AUTHORIZED BY THE BHA TO ADMINISTER THE PILOT PROGRAM.
+3 (c) "PILOT PROGRAM" MEANS THE IBOGAINE RESEARCH PILOT
+4 PROGRAM ESTABLISHED IN SUBSECTION (2) OF THIS SECTION.
+5 (2) THERE IS ESTABLISHED IN THE BHA THE IBOGAINE RESEARCH
+6 PILOT PROGRAM FOR THE PURPOSE OF SUPPORTING RESEARCH ON THE
+7 SAFETY AND EFFECTIVENESS OF USING IBOGAINE TO TREAT MENTAL
+8 HEALTH CONDITIONS AND SUBSTANCE USE DISORDERS.
+9 (3) THE BHA SHALL OPERATE THE PILOT PROGRAM. IN OPERATING
+10 THE PILOT PROGRAM, THE BHA:
+11 (a) MAY APPROVE UP TO FIVE IBOGAINE PILOT SITES;
+12 (b) MAY ENTER INTO A MEMORANDUM OF UNDERSTANDING WITH
+13 EACH PILOT SITE TO ENSURE PROPER ADMINISTRATION OF THE PILOT
+14 PROGRAM;
+15 (c) IN PARTNERSHIP WITH THE IBOGAINE PILOT SITES, AND IN
+16 COORDINATION WITH OTHER APPROPRIATE STATE AGENCIES, MAY SEEK
+17 FEDERAL AUTHORIZATION PURSUANT TO 21 U.S.C. SEC. 872(e) OR OTHER
+18 APPLICABLE FEDERAL LAW FOR PURPOSES OF EXPANDING OR ADVANCING
+19 IBOGAINE RESEARCH EFFORTS;
+20 (d) SHALL ASSIST THE IBOGAINE PILOT SITES TO COMPLETE AND
+21 SUBMIT AN INVESTIGATIONAL NEW DRUG APPLICATION, OR REVISE AND
+22 EXPAND UPON AN EXISTING INVESTIGATIONAL NEW DRUG APPLICATION
+23 WITH THE UNITED STATES FOOD AND DRUG ADMINISTRATION IN
+24 ACCORDANCE WITH 21 CFR PART 312;
+25 (e) SHALL CONSIDER WHETHER TO OBTAIN FEDERAL RESEARCH
+26 PROGRAM STATUS UNDER 21 U.S.C. SEC. 872 OR OTHER APPLICABLE
+27 FEDERAL LAW FOR THE PURPOSES OF EXPANDING OR ADVANCING
+-4- HB26-1325
+
+1 RESEARCH EFFORTS OF THE PILOT SITES;
+2 (f) MAY NEGOTIATE A MEMORANDUM OF UNDERSTANDING WITH
+3 THE UNITED STATES DRUG ENFORCEMENT ADMINISTRATION, UNITED
+4 STATES DEPARTMENT OF HEALTH AND HUMAN SERVICES, UNITED STATES
+5 FOOD AND DRUG ADMINISTRATION, UNITED STATES ATTORNEY GENERAL,
+6 OR ANY OTHER APPROPRIATE FEDERAL AGENCY, AS NECESSARY TO ENSURE
+7 FEDERAL COMPLIANCE AND PROPER ADMINISTRATION OF THE PILOT
+8 PROGRAM;
+9 (g) MAY CONTRACT WITH INDIVIDUALS WITH EXPERTISE IN
+10 BEHAVIORAL HEALTH, NURSING, RESEARCHING A SCHEDULE I CONTROLLED
+11 SUBSTANCE, DRUG DEVELOPMENT, INSTITUTIONAL REVIEW BOARD AND
+12 UNITED STATES FOOD AND DRUG ADMINISTRATION REGULATORY
+13 COMPLIANCE, AND PHYSICIAN CONSULTATION SERVICES TO ASSIST IN THE
+14 ADMINISTRATION OF THE PILOT PROGRAM;
+15 (h) MAY ASSIST IBOGAINE PILOT SITES WITH FUNDING
+16 OPPORTUNITIES, INCLUDING IDENTIFYING AND APPLYING FOR STATE,
+17 FEDERAL, OR PRIVATE GRANTS; AND
+18 (i) MAY AWARD GRANTS TO SELECTED IBOGAINE PILOT SITES TO
+19 ASSIST WITH OPERATIONAL COSTS.
+20 (4) (a) THE BHA SHALL ESTABLISH A PROCESS TO SOLICIT AND
+21 SELECT IBOGAINE PILOT SITES.
+22 (b) THE BHA SHALL ESTABLISH A PILOT PROPOSAL REVIEW
+23 COMMITTEE TO REVIEW APPLICATIONS RECEIVED FROM THE SOLICITATION
+24 PROCESS REQUIRED IN SUBSECTION (4)(a) OF THIS SECTION AND MAKE A
+25 RECOMMENDATION TO THE BHA ON THE SELECTION OR DENIAL OF EACH
+26 APPLICATION. THE BHA SHALL NOTIFY EACH APPLICANT OF THE
+27 SELECTION DECISION WITHIN NINETY DAYS AFTER THE APPLICATION
+-5- HB26-1325
+
+1 DEADLINE SET BY THE BHA.
+2 (5) TO BE ELIGIBLE AS AN IBOGAINE PILOT SITE, AN APPLICANT
+3 MUST:
+4 (a) DEMONSTRATE AN INTENT TO PURSUE THE FEDERAL APPROVAL
+5 TO OPERATE AN IBOGAINE PILOT SITE TO STUDY SAFETY AND TREATMENT
+6 EFFECTIVENESS OF THE USE OF IBOGAINE TO TREAT MENTAL HEALTH
+7 CONDITIONS AND SUBSTANCE USE DISORDERS; AND
+8 (b) ESTABLISH A BENEFIT-SHARING PLAN THAT BENEFITS THE
+9 INDIGENOUS PEOPLE AND CULTURES THAT HAVE TRADITIONALLY WORKED
+10 WITH IBOGAINE OR THE TABERNANTHE IBOGA PLANT.
+11 (6) (a) THE COMMISSIONER SHALL ADOPT RULES THAT ARE
+12 NECESSARY TO ESTABLISH AND ADMINISTER THE IBOGAINE PILOT
+13 PROGRAM. AT A MINIMUM, THE COMMISSIONER SHALL ADOPT RULES ON
+14 THE FOLLOWING:
+15 (I) THE APPLICATION PROCESS FOR PROSPECTIVE IBOGAINE PILOT
+16 SITE APPLICANTS;
+17 (II) CRITERIA FOR AWARDING GRANTS TO IBOGAINE PILOT SITES TO
+18 ASSIST THE IBOGAINE PILOT SITE WITH FUNDING;
+19 (III) DATA AND RESEARCH COLLECTION BY THE IBOGAINE PILOT
+20 SITES ON THE USE AND EFFECTIVENESS OF IBOGAINE IN TREATING MENTAL
+21 HEALTH CONDITIONS AND SUBSTANCE USE DISORDERS;
+22 (IV) INFORMATION SHARING BETWEEN THE IBOGAINE PILOT SITES
+23 AND THE BHA;
+24 (V) ADVERSE EVENT REPORTING; AND
+25 (VI) OTHER RULES THAT ARE NECESSARY FOR THE SAFE AND
+26 EFFECTIVE OPERATION OF THE IBOGAINE PILOT SITES AND ADMINISTRATION
+27 OF THE IBOGAINE RESEARCH PILOT PROGRAM ESTABLISHED BY THIS
+-6- HB26-1325
+
+1 SECTION.
+2 (b) WITH THE EXCEPTION OF THE REQUIREMENTS OF SUBSECTION
+3 (6)(a) OF THIS SECTION, THE COMMISSIONER SHALL NOT ADOPT RULES
+4 THAT ARE DUPLICATIVE OF FEDERAL LAW.
+5 (7) ON OR BEFORE A DATE SET BY THE BHA AND ANNUALLY
+6 THEREAFTER THAT THE PILOT PROGRAM IS OPERATIONAL, EACH IBOGAINE
+7 PILOT SITE MUST SUBMIT THE DATA AND RESEARCH AS REQUIRED
+8 PURSUANT TO SUBSECTION (6)(a)(III) OF THIS SECTION FOR THE
+9 PROCEEDING YEAR TO THE BHA.
+10 (8) AT LEAST ANNUALLY, BUT NOT MORE THAN QUARTERLY,
+11 BEGINNING ONE MONTH AFTER THE DATE SET BY THE BHA DESCRIBED IN
+12 SUBSECTION (7) OF THIS SECTION WHILE THE PILOT PROGRAM IS
+13 OPERATIONAL, THE BHA MUST REVIEW THE DATA AND RESEARCH
+14 SUBMITTED BY THE IBOGAINE PILOT SITES, AS REQUIRED BY SUBSECTION
+15 (7) OF THIS SECTION, AND POST A REPORT DETAILING THE IBOGAINE PILOT
+16 SITE FINDINGS ON THE BHA'S WEBSITE.
+17 (9) THE BHA MAY SEEK, ACCEPT, AND EXPEND GIFTS, GRANTS, OR
+18 DONATIONS RECEIVED FROM PRIVATE OR PUBLIC SOURCES FOR THE
+19 PURPOSES OF THIS SECTION. THE BHA SHALL TRANSMIT ALL MONEY
+20 RECEIVED THROUGH GIFTS, GRANTS, OR DONATIONS TO THE STATE
+21 TREASURER, WHO SHALL CREDIT THE MONEY TO THE IBOGAINE RESEARCH
+22 PILOT PROGRAM CASH FUND CREATED IN SUBSECTION (10) OF THIS
+23 SECTION. THE BHA MAY ACCEPT DONATIONS OF IN-KIND SERVICES FOR
+24 PURPOSES OF THIS SECTION.
+25 (10) THE IBOGAINE RESEARCH PILOT PROGRAM CASH FUND IS
+26 CREATED IN THE STATE TREASURY. THE FUND CONSISTS OF GIFTS, GRANTS,
+27 AND DONATIONS CREDITED TO THE FUND PURSUANT TO SUBSECTION (9) OF
+-7- HB26-1325
+
+1 THIS SECTION AND ANY OTHER MONEY THAT THE GENERAL ASSEMBLY MAY
+2 APPROPRIATE OR TRANSFER TO THE FUND. THE STATE TREASURER SHALL
+3 CREDIT ALL INTEREST AND INCOME DERIVED FROM THE DEPOSIT AND
+4 INVESTMENT OF MONEY IN THE FUND TO THE FUND. MONEY IN THE FUND
+5 IS CONTINUOUSLY APPROPRIATED TO THE BHA FOR THE PURPOSE OF
+6 ADMINISTERING THE IBOGAINE RESEARCH PILOT PROGRAM AND AWARDING
+7 GRANTS TO SELECTED IBOGAINE PILOT SITES.
+8 (11) THE OPERATION OF AN IBOGAINE PILOT SITE IN ACCORDANCE
+9 WITH THIS SECTION IS CONTINGENT ON FEDERAL APPROVAL.
+10 (12) THIS SECTION DOES NOT PRECLUDE A PERSON FROM
+11 ADMINISTERING IBOGAINE OUTSIDE OF THE PILOT PROGRAM IN
+12 COMPLIANCE WITH FEDERAL LAW OR AS PERMITTED PURSUANT TO THE
+13 "NATURAL MEDICINE HEALTH ACT OF 2022", ARTICLE 170 OF TITLE 12.
+14 (13) AN INDIVIDUAL OR ENTITY PARTICIPATING IN THE PILOT
+15 PROGRAM MUST NOT BE PROSECUTED OR OTHERWISE DISCIPLINED FOR
+16 ACTIONS OR CONDUCT PERMITTED PURSUANT TO THIS SECTION.
+17 (14) A PHYSICIAN OR HEALTH-CARE PROFESSIONAL
+18 ADMINISTERING IBOGAINE TO PARTICIPANTS AS PART OF THE PILOT
+19 PROGRAM, OR AN IBOGAINE PILOT SITE, IS NOT LIABLE FOR A PHYSICAL OR
+20 PSYCHOLOGICAL INJURY THAT A PARTICIPANT MAY EXPERIENCE AS A
+21 RESULT OF BEING ADMINISTERED IBOGAINE AS A PARTICIPANT IN THE PILOT
+22 PROGRAM, UNLESS THE INJURY WAS THE DIRECT RESULT OF THE
+23 PHYSICIAN'S OR HEALTH-CARE PROFESSIONAL'S INTENTIONAL
+24 MISCONDUCT, GROSS NEGLIGENCE, OR A DEVIATION FROM THE
+25 RECOGNIZED STANDARD OF CARE.
+26 SECTION 3. In Colorado Revised Statutes, 12-170-104, amend
+27 (12)(b)(II) and (12)(c) as follows:
+-8- HB26-1325
+
+1 12-170-104. Definitions.
+2 As used in this article 170, unless the context otherwise requires:
+3 (12) (b) In addition to the substances listed in subsection (12)(a)
+4 of this section, "natural medicine" includes:
+5 (II) Ibogaine, if recommended by the board and approved by the
+6 director and the executive director of the state licensing authority; AND
+7 IBOGAINE DERIVED FROM A SEMI-SYNTHETIC PROCESS USING THE
+8 TABERNANTHE IBOGA PLANT OR VOACANGA AFRICANA PLANT, IF
+9 APPROVED BY THE BOARD AS A NATURAL MEDICINE AND TO THE EXTENT
+10 PERMITTED BY THE STATE LICENSING AUTHORITY, FOR USE IN THE
+11 REGULATED PROGRAMS; or
+12 (c) "Natural medicine" does not mean a synthetic or synthetic
+13 analog of the substances listed in subsections (12)(a) and (12)(b) of this
+14 section, including a derivative of a naturally occurring compound of
+15 natural medicine that is produced using chemical synthesis, chemical
+16 modification, or chemical conversion, EXCEPT FOR IBOGAINE DERIVED
+17 FROM A SEMI-SYNTHETIC PROCESS USING THE TABERNANTHE IBOGA PLANT
+18 OR VOACANGA AFRICANA PLANT THAT IS APPROVED BY THE BOARD FOR
+19 USE AS A NATURAL MEDICINE AND TO THE EXTENT PERMITTED BY THE
+20 STATE LICENSING AUTHORITY, FOR USE IN THE REGULATED PROGRAMS.
+21 SECTION 4. In Colorado Revised Statutes, 12-170-106, amend
+22 (1), (2), and (4)(c); and add (4)(d), (4)(e), and (4)(f) as follows:
+23 12-170-106. Board - creation - appointment - duties - report.
+24 (1) There is created within the division a natural medicine
+25 advisory board, which consists of fifteen VOTING members AND ONE
+26 NONVOTING MEMBER DESCRIBED IN SUBSECTION (3) OF THIS SECTION, to
+27 advise the division and the state licensing authority concerning the
+-9- HB26-1325
+
+1 implementation of this article 170 and article 50 of title 44. THE BOARD
+2 IS ADVISORY IN NATURE AND SHALL NOT EXERCISE LICENSING,
+3 ENFORCEMENT, RULE-MAKING, OR OPERATIONAL AUTHORITY.
+4 (2) (a) The governor shall appoint initial board members on or
+5 before January 31, 2023, with consent of the senate. The members must
+6 include: THE GOVERNOR SHALL APPOINT THE FIFTEEN VOTING MEMBERS
+7 TO THE BOARD.
+8 (a) (b) Seven members with significant expertise and experience
+9 in one or more of the following areas: Natural medicine therapy,
+10 medicine, and research; mycology and natural medicine cultivation;
+11 licensee qualifications; emergency medical services and services provided
+12 by first responders; mental and behavioral health care; health-care
+13 insurance and health-care policy; and public health, drug policy, and harm
+14 reduction; and IN MAKING APPOINTMENTS TO THE BOARD, THE GOVERNOR
+15 SHALL ENSURE THAT THE BOARD REFLECTS A DIVERSE RANGE OF
+16 PROFESSIONAL EXPERTISE, LIVED EXPERIENCE, AND PERSPECTIVES
+17 NECESSARY TO ADVISE ON THE SAFE, EFFECTIVE, AND EQUITABLE
+18 IMPLEMENTATION OF NATURAL MEDICINES AUTHORIZED PURSUANT TO
+19 THIS ARTICLE 170.
+20 (b) (c) Eight members with significant expertise and experience
+21 in one or more of the following areas: Religious use of natural medicines;
+22 issues confronting veterans; traditional tribal or Indigenous use of natural
+23 medicines; levels and disparities in access to health-care services among
+24 different communities; and past criminal justice reform efforts in
+25 Colorado. At least one of the eight members must have expertise or
+26 experience in traditional, tribal, or Indigenous use of natural medicines.
+27 MEMBERS APPOINTED TO THE BOARD MUST HAVE RELEVANT EXPERIENCE
+-10- HB26-1325
+
+1 TO THE NATURAL MEDICINE CURRENTLY BEING REGULATED OR UNDER
+2 CONSIDERATION BY THE BOARD. RELEVANT EXPERIENCE MAY CONSIST OF
+3 WORK OR EXPERTISE IN THE FOLLOWING AREAS:
+4 (I) MEDICAL, CLINICAL, SCIENTIFIC, PHARMACOLOGICAL,
+5 TOXICOLOGICAL, OR RESEARCH RELATED TO NATURAL MEDICINE;
+6 (II) PHYSICAL HEALTH CARE, MENTAL HEALTH CARE, BEHAVIORAL
+7 HEALTH CARE, OR SUBSTANCE USE DISORDER TREATMENT;
+8 (III) EMERGENCY MEDICAL SERVICES, FIRST RESPONDER SERVICES,
+9 OR ACUTE CARE MEDICINE;
+10 (IV) PUBLIC HEALTH, DRUG POLICY, HARM REDUCTION, OR
+11 HEALTH-CARE POLICY;
+12 (V) NATURAL MEDICINE CULTIVATION, SOURCING, PROCESSING,
+13 MANUFACTURING, SUPPORTIVE CARE PROVIDED PRIOR TO AND FOLLOWING
+14 THE ADMINISTRATION OF NATURAL MEDICINE, OR QUALITY CONTROL OF
+15 NATURAL MEDICINE;
+16 (VI) REGULATORY COMPLIANCE, PROFESSIONAL LICENSURE,
+17 HEALTH-CARE REGULATION, OR LABORATORY STANDARDS;
+18 (VII) RELIGIOUS, SPIRITUAL, TRADITIONAL, TRIBAL, OR
+19 INDIGENOUS USE OF NATURAL MEDICINE;
+20 (VIII) ISSUES IMPACTING VETERANS OR OTHER POPULATIONS
+21 DISPROPORTIONATELY IMPACTED BY SUBSTANCE USE DISORDER OR
+22 MENTAL HEALTH CONDITIONS;
+23 (IX) HEALTH-CARE ACCESS, HEALTH EQUITY, OR DISPARITIES IN
+24 ACCESS TO CARE;
+25 (X) CRIMINAL JUSTICE REFORM, DRUG POLICY REFORM, OR
+26 IMPACTS OF PRIOR DRUG ENFORCEMENT POLICIES; OR
+27 (XI) ISSUES AFFECTING THE ECOLOGY OR CULTURE OF INDIGENOUS
+-11- HB26-1325
+
+1 PEOPLE WHO HAVE HISTORICALLY USED NATURAL MEDICINE.
+2 (d) NOTHING IN SUBSECTION (2)(c) OF THIS SECTION REQUIRES THE
+3 BOARD TO REPRESENT ALL AREAS OF EXPERTISE LISTED IN SUBSECTION
+4 (2)(c) OF THIS SECTION.
+5 (e) SUBSECTION (2)(c) OF THIS SECTION DOES NOT LIMIT THE
+6 GOVERNOR'S DISCRETION TO APPOINT MEMBERS WHOSE QUALIFICATIONS
+7 ARE PARTICULARLY RELEVANT TO A SPECIFIC NATURAL MEDICINE THAT IS
+8 BEING REGULATED OR IS UNDER CONSIDERATION BY THE BOARD.
+9 (4) (c) Except for the executive director of the state licensing
+10 authority, or the executive director's designee, members of the board may
+11 serve up to two consecutive terms. Members are subject to removal for
+12 misconduct, incompetence, neglect of duty, or unprofessional conduct.
+13 (d) MEMBERS ARE SUBJECT TO REMOVAL FOR MISCONDUCT,
+14 INCOMPETENCE, NEGLECT OF DUTY, OR UNPROFESSIONAL CONDUCT, AND
+15 THE GOVERNOR MAY REMOVE A MEMBER FROM THE BOARD IF THE
+16 GOVERNOR DETERMINES THAT CHANGES TO THE BOARD'S COMPOSITION
+17 ARE NECESSARY TO ENSURE THE BOARD POSSESSES THE EXPERTISE
+18 REQUIRED TO FULFILL ITS ADVISORY ROLE WITH RESPECT TO A NATURAL
+19 MEDICINE BEING REGULATED OR UNDER CONSIDERATION BY THE BOARD.
+20 (e) THE GOVERNOR SHALL FILL A VACANCY THAT OCCURS ON THE
+21 BOARD WITHIN ONE HUNDRED TWENTY DAYS AFTER THE VACANCY ARISES.
+22 (f) A MEMBER APPOINTED PURSUANT TO SUBSECTION (4)(e) OF
+23 THIS SECTION SERVES FOR THE DURATION OF THE TERM BEING FILLED,
+24 SUBJECT TO SUBSECTION (4)(d) OF THIS SECTION.
+25 SECTION 5. In Colorado Revised Statutes, 12-170-113, add (3)
+26 as follows:
+27 12-170-113. Protections.
+-12- HB26-1325
+
+1 (3) A FACILITATOR IS NOT LIABLE FOR A PHYSICAL OR
+2 PSYCHOLOGICAL INJURY THAT A PARTICIPANT MAY EXPERIENCE AS A
+3 RESULT OF THE FACILITATOR'S PERFORMANCE OR SUPERVISION OF
+4 NATURAL MEDICINE SERVICES FOR A PARTICIPANT, UNLESS THE INJURY
+5 WAS THE DIRECT RESULT OF THE FACILITATOR'S INTENTIONAL
+6 MISCONDUCT, GROSS NEGLIGENCE, OR A DEVIATION FROM THE
+7 RECOGNIZED STANDARD OF CARE.
+8 SECTION 6. In Colorado Revised Statutes, 44-50-104, amend
+9 (2) as follows:
+10 44-50-104. Applicability.
+11 (2) A person applying for licensure pursuant to this article 50 must
+12 complete forms as provided by the state licensing authority and must pay
+13 the application fee and the licensing fee, which must be credited to the
+14 regulated natural medicine division cash fund established pursuant to
+15 section 44-50-601. The state licensing authority shall prioritize reviewing
+16 applications from applicants who have established residency in Colorado.
+17 IN THE FOLLOWING ORDER:
+18 (a) APPLICANTS WHO PARTICIPATE IN THE PILOT PROGRAM TO
+19 ADMINISTER IBOGAINE PURSUANT TO SECTION 27-60-207 AND ARE A
+20 PARTY TO A MEMORANDUM OF UNDERSTANDING WITH THE BEHAVIORAL
+21 HEALTH ADMINISTRATION;
+22 (b) APPLICANTS WHO HAVE ESTABLISHED RESIDENCY IN
+23 COLORADO; AND
+24 (c) APPLICANTS WHO DEMONSTRATE PRIORITY REVIEW STATUS AS
+25 ESTABLISHED BY THE STATE LICENSING AUTHORITY IN RULE.
+26 SECTION 7. In Colorado Revised Statutes, 44-50-203, amend
+27 (2)(r) and (2)(s)(III); and add (2)(t), (4)(c), and (5) as follows:
+-13- HB26-1325
+
+1 44-50-203. State licensing authority - rules.
+2 (2) Permissive rule-making. Rules adopted pursuant to section
+3 44-50-202 (1)(b) may include, but need not be limited to, the following
+4 subjects:
+5 (r) Such Other matters as are necessary for the fair, impartial,
+6 stringent, and comprehensive administration of this article 50; and
+7 (s) Requirements that healing centers collect data and information
+8 related to regulated natural medicine services and provide the data and
+9 information to the department of public health and environment in
+10 accordance with section 44-50-401 (6), which data and information must
+11 include:
+12 (III) Other information as determined by the state licensing
+13 authority in consultation with the department of public health and
+14 environment; AND
+15 (t) REQUIREMENTS FOR THE USE AND ADMINISTRATION OF
+16 IBOGAINE, INCLUDING:
+17 (I) REQUIRING MEDICAL PRESCREENING, WHICH MAY INCLUDE AN
+18 ELECTROCARDIOGRAM, BLOOD TESTS, GENETIC TESTS, AND ANY OTHER
+19 MEDICAL TEST, THE RESULTS OF WHICH MAY BE USED TO HELP REDUCE THE
+20 RISKS RELATED TO IBOGAINE ADMINISTRATION FOR A PARTICIPANT;
+21 (II) REQUIRING CONTINUOUS MEDICAL MONITORING DURING AN
+22 IBOGAINE ADMINISTRATION SESSION;
+23 (III) REQUIRING APPROPRIATE OVERSIGHT BY TRAINED AND
+24 EXPERIENCED MEDICAL PROFESSIONALS DURING AN IBOGAINE
+25 ADMINISTRATION SESSION;
+26 (IV) ESTABLISHING SPECIFIC STAFF-TO-PARTICIPANT RATIOS;
+27 (V) LIMITING PRODUCTS CONTAINING IBOGAINE, AS NECESSARY,
+-14- HB26-1325
+
+1 DUE TO ITS HEALTH AND SAFETY RISKS; AND
+2 (VI) ESTABLISHING MINIMUM MANUFACTURING AND TESTING
+3 STANDARDS OR EXPECTATIONS FOR IBOGAINE AND IBOGAINE PRODUCTS,
+4 INCLUDING REQUIREMENTS THAT CULTIVATED AND MANUFACTURED
+5 PRODUCTS INCLUDE INFORMATION ABOUT SOURCE MATERIAL, AND
+6 REQUIREMENTS FOR ADDITIVES AND INGREDIENTS.
+7 (4) (c) THE STATE LICENSING AUTHORITY MAY ESTABLISH
+8 DIFFERENT APPLICATION FEES FOR LICENSES BASED ON THE TYPE OF
+9 NATURAL MEDICINE THAT THE LICENSEE SEEKS TO ADMINISTER OR
+10 DISPENSE.
+11 (5) A LICENSEE SEEKING TO CULTIVATE, MANUFACTURE, TEST,
+12 DISPENSE, OR ADMINISTER IBOGAINE SHALL, BASED ON CONSULTATION
+13 WITH THE INDIGENOUS COMMUNITIES THAT HAVE TRADITIONALLY USED
+14 IBOGA OR IBOGAINE, ESTABLISH A PLAN THAT BENEFITS THOSE
+15 INDIGENOUS COMMUNITIES. THE LICENSEE SHALL MAINTAIN RECORDS OF
+16 THE PLAN AND MAKE THE PLAN PUBLICLY AVAILABLE, UPON REQUEST.
+17 SECTION 8. In Colorado Revised Statutes, 44-50-601, amend
+18 (1)(a) as follows:
+19 44-50-601. Regulated natural medicine cash fund - created -
+20 rules - fees.
+21 (1) (a) All Money collected by the state licensing authority
+22 pursuant to this article 50 or rules promulgated ADOPTED pursuant to this
+23 article 50 must be transmitted to the state treasurer, who shall credit the
+24 same to the regulated natural medicine division cash fund, which is
+25 hereby created IN THE STATE TREASURY. The regulated natural medicine
+26 division cash fund, referred to in this section as the "fund", consists of:
+27 (I) The money collected by the state licensing authority; and
+-15- HB26-1325
+
+1 (II) GIFTS, GRANTS, OR DONATIONS FROM PUBLIC OR PRIVATE
+2 SOURCES; AND
+3 (II) (III) Any additional general fund money appropriated to the
+4 fund that is necessary for the operation of the state licensing authority.
+5 SECTION 9. Act subject to petition - effective date. This act
+6 takes effect at 12:01 a.m. on the day following the expiration of the
+7 ninety-day period after final adjournment of the general assembly (August
+8 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+9 referendum petition is filed pursuant to section 1 (3) of article V of the
+10 state constitution against this act or an item, section, or part of this act
+11 within such period, then the act, item, section, or part will not take effect
+12 unless approved by the people at the general election to be held in
+13 November 2026 and, in such case, will take effect on the date of the
+14 official declaration of the vote thereon by the governor.
+-16- HB26-1325

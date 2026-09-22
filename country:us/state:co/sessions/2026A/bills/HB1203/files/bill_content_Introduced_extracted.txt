@@ -1,0 +1,478 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0593.04 Rebecca Bayetti x4348 HOUSE BILL 26-1203
+HOUSE SPONSORSHIP
+Marshall and Bacon, Clifford, Garcia, Jackson, Joseph, Mabrey, Martinez, Nguyen,
+Rutinel, Smith, Velasco, Woodrow
+SENATE SPONSORSHIP
+(None), Hinrichsen
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING THE MODIFICATION OF COUNTY COMMISSIONER
+102 ELECTIONS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Currently, in a county with a population of 70,000 or more, the
+board of county commissioners (board) may consist of 3 or 5
+commissioners. If the board consists of 3 commissioners, the county is
+divided into 3 districts, with one commissioner elected from each district
+by voters in the district or voters of the whole county. Alternatively, the
+board may consist of 5 commissioners, in which case the county may be
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+divided into 3 or 5 districts, and the commissioners may be elected
+pursuant to numerous methods, including by district, at large, or by some
+combination of both methods.
+The bill eliminates this discretionary system and instead requires
+any county with a population of 70,000 or more (covered county) to elect
+5 commissioners by one of the following 2 methods:
+! 5 commissioners resident in 5 districts elected only by
+voters resident in those districts; or
+! 5 commissioners elected at large using a ranked voting
+method.
+The board of a covered county is required to adopt a resolution
+designating the 2 alternative methods of electing the 5 county
+commissioners no later than its first regularly scheduled meeting in the
+calendar year 2027 or its first regularly scheduled meeting in the month
+following becoming a covered county. The board is required to refer the
+resolution to the electors of the county at the first general election
+following its adoption for those electors to select their preferred method
+of electing the 5 commissioners. A covered county that already elects its
+commissioners according to one of the 2 alternative methods of election
+is not required to pass a resolution.
+A home rule county that elects more than half of its county
+commissioners by district or using a ranked voting method is exempt
+from the requirements of the bill.
+The bill also makes conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-4-205, amend (3)
+3 as follows:
+4 1-4-205. County commissioners.
+5 (3) (a) In each county having a population of seventy thousand or
+6 more, the board of county commissioners may MUST consist either of
+7 three members, any two of whom shall constitute a quorum for the
+8 transaction of business, or of five members, any three of whom shall
+9 constitute CONSTITUTES a quorum for the transaction of business; EXCEPT
+10 THAT THE REQUIREMENT TO HAVE A BOARD OF COUNTY COMMISSIONERS
+11 CONSIST OF FIVE MEMBERS DOES NOT APPLY TO A HOME RULE COUNTY
+-2- HB26-1203
+
+1 THAT MEETS THE DESCRIPTION IN SECTION 30-10-306.8 (7).
+2 (b) If the board consists of three commissioners, they shall be
+3 elected as provided in subsection (2) of this section and as provided in
+4 section 30-10-306.7 (5), C.R.S.
+5 (c) In any county having a population of seventy thousand or
+6 more, the membership of the board of county commissioners may be
+7 increased from three to five members pursuant to section 30-10-306.5,
+8 C.R.S., or decreased from five to three members pursuant to section
+9 30-10-306.7 (2)(a)(II), C.R.S.
+10 SECTION 2. In Colorado Revised Statutes, 1-4-601, add (2)(a.5)
+11 as follows:
+12 1-4-601. Designation of candidates for primary election -
+13 definition.
+14 (2) (a.5) (I) NOTWITHSTANDING SUBSECTION (2)(a) OF THIS
+15 SECTION, FOR PARTY CANDIDATES FOR MULTIPLE SEATS ON A BOARD OF
+16 COUNTY COMMISSIONERS ELECTED IN THE SAME BALLOT CONTEST,
+17 ASSEMBLY DELEGATES MAY VOTE FOR AS MANY SEATS AS ARE TO BE
+18 FILLED AT THE NEXT GENERAL ELECTION. EVERY CANDIDATE RECEIVING
+19 A VOTE ON THIRTY PERCENT OR MORE OF THE BALLOTS OF ALL DULY
+20 ACCREDITED ASSEMBLY DELEGATES WHO ARE PRESENT AND VOTING ON
+21 THAT OFFICE MUST BE CERTIFIED BY AFFIDAVIT OF THE PRESIDING OFFICER
+22 AND SECRETARY OF THE ASSEMBLY. IF FEWER CANDIDATES RECEIVE A
+23 VOTE ON THIRTY PERCENT OR MORE OF THE BALLOTS OF ALL DULY
+24 ACCREDITED ASSEMBLY DELEGATES WHO ARE PRESENT AND VOTING THAN
+25 THE NUMBER OF SEATS TO FILL AT THE GENERAL ELECTION, THEN THE
+26 CANDIDATES RECEIVING THE HIGHEST NUMBER OF VOTES, UNTIL THE
+27 NUMBER OF CANDIDATES IS ONE MORE THAN THE NUMBER OF SEATS TO
+-3- HB26-1203
+
+1 FILL, MUST BE CERTIFIED AS CANDIDATES FOR THAT OFFICE BY AFFIDAVIT
+2 OF THE PRESIDING OFFICER AND SECRETARY OF THE ASSEMBLY.
+3 (II) THE CERTIFICATE OF DESIGNATION BY ASSEMBLY MUST STATE
+4 THE NAME OF THE OFFICE FOR WHICH EACH PERSON IS A CANDIDATE AND
+5 THE CANDIDATE'S NAME AND ADDRESS, MUST DESIGNATE IN NOT MORE
+6 THAN THREE WORDS THE NAME OF THE POLITICAL PARTY THAT THE
+7 CANDIDATE REPRESENTS, AND MUST CERTIFY THAT THE CANDIDATE HAS
+8 BEEN A MEMBER OF THE POLITICAL PARTY FOR THE PERIOD OF TIME
+9 REQUIRED BY PARTY RULE OR BY SUBSECTION (4) OF THIS SECTION IF THE
+10 PARTY HAS NO SUCH RULE. THE CANDIDATE'S AFFILIATION, AS SHOWN IN
+11 THE STATEWIDE VOTER REGISTRATION SYSTEM, IS PRIMA FACIE EVIDENCE
+12 OF POLITICAL PARTY MEMBERSHIP. THE CERTIFICATE OF DESIGNATION
+13 MUST INDICATE THE ORDER OF THE VOTE RECEIVED AT THE ASSEMBLY BY
+14 CANDIDATES FOR EACH OFFICE, BUT NO ASSEMBLY SHALL DECLARE THAT
+15 ANY ONE CANDIDATE HAS RECEIVED THE NOMINATION OF THE ASSEMBLY.
+16 THE CERTIFICATE OF DESIGNATION MUST BE FILED IN ACCORDANCE WITH
+17 SECTION 1-4-604. IF TWO OR MORE CANDIDATES RECEIVING DESIGNATION
+18 UNDER THIS SUBSECTION (2)(a.5) HAVE RECEIVED AN EQUAL NUMBER OF
+19 VOTES, THE ORDER OF CERTIFICATION OF DESIGNATION IS DETERMINED BY
+20 LOT BY THE CANDIDATES. THE ASSEMBLY SHALL SELECT A VACANCY
+21 COMMITTEE FOR VACANCIES IN DESIGNATION OR NOMINATION ONLY.
+22 SECTION 3. In Colorado Revised Statutes, 1-4-801, amend
+23 (2)(e) introductory portion, (2)(e)(II) introductory portion, (2)(e)(II)(B),
+24 and (2)(f) as follows:
+25 1-4-801. Designation of party candidates by petition.
+26 (2) The signature requirements for the petition are as follows:
+27 (e) Where the electors of the county have voted to increase WHEN
+-4- HB26-1203
+
+1 A COUNTY HAVING A POPULATION OF SEVENTY THOUSAND OR MORE
+2 INCREASES the membership of the board of county commissioners from
+3 three to five pursuant to section 30-10-306.5, C.R.S., or to decrease the
+4 membership of the board from five to three pursuant to section
+5 30-10-306.7, C.R.S., TO COMPLY WITH SECTIONS 1-4-205 (3) AND
+6 30-10-306.8, for the next two primary elections immediately following an
+7 election at which the voters have approved the change in the membership
+8 of the board, the signature requirements for the petition are as follows:
+9 (II) Where any one or more commissioners to be elected to the
+10 board of county commissioners will be voted on only by the electors
+11 residing in a particular county commissioner district, the determination of
+12 the required number of signers must begin with a calculation of the
+13 average of all votes cast in each commissioner district in the county
+14 during the prior two contested or uncontested primary elections for the
+15 political party's candidates in the county commissioner districts that held
+16 a primary election in either of those elections. Upon a determination of
+17 the average, that number must then be divided by the total number of
+18 commissioner districts in the county where commissioners are voted on
+19 only by the electors residing in the district. whether three or five After
+20 completing this calculation, every petition must require signers equal in
+21 number to twenty percent of the number realized. If no primary election
+22 was held in either year, the calculation must be based on the most recent
+23 preceding general election for which the party had a candidate on the
+24 ballot, and every petition must require signers equal in number to the
+25 following calculation:
+26 (B) Divide the number found in sub-subparagraph (A) of this
+27 subparagraph (II) SUBSECTION (2)(e)(II)(A) OF THIS SECTION by the total
+-5- HB26-1203
+
+1 number of commissioner districts in the county where commissioners are
+2 voted on only by the electors residing in the district. whether three or five
+3 (f) Following the first two primary elections that are conducted
+4 after a change in the membership of the board of county commissioners
+5 pursuant to section 30-10-306.5 or 30-10-306.7, C.R.S. SECTIONS 1-4-205
+6 (3) AND 30-10-306.8, in accordance with the requirements of paragraph
+7 (e) of this subsection (2) SUBSECTION (2)(e) OF THIS SECTION, the
+8 signature requirements for a petition for a county commissioner candidate
+9 who is affiliated with a major political party must follow the procedures
+10 specified in paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF
+11 THIS SECTION.
+12 SECTION 4. In Colorado Revised Statutes, 1-4-802, amend (2)
+13 introductory portion, (2)(b)(II), and (2)(c); and repeal (3) as follows:
+14 1-4-802. Petitions for nominating minor political party and
+15 unaffiliated candidates for a partisan office.
+16 (2) Where the electors of the county have voted to increase WHEN
+17 A COUNTY HAVING A POPULATION OF SEVENTY THOUSAND OR MORE
+18 INCREASES the membership of the board of county commissioners from
+19 three to five pursuant to section 30-10-306.5, C.R.S., or to decrease the
+20 membership of the board from five to three pursuant to section
+21 30-10-306.7, C.R.S., TO COMPLY WITH SECTIONS 1-4-205 (3) AND
+22 30-10-306.8, for the next two general elections immediately following an
+23 election at which the voters have approved a THE change in the
+24 membership of the board, the signature requirements for the petition to
+25 select candidates who do not wish to affiliate with a major political party
+26 are as follows:
+27 (b) Where any one or more commissioners to be elected to the
+-6- HB26-1203
+
+1 board of county commissioners will be voted on only by the electors
+2 residing in a particular county commissioner district, every petition must
+3 require signers equal in number to the lesser of either:
+4 (II) The number realized by first determining two percent of the
+5 average of all votes cast in each county commissioner district for which
+6 there was a race on the ballot during the most recent general election, and
+7 then dividing that number by the total number of commissioner districts
+8 in the county where commissioners are voted on only by the electors
+9 residing in a district. whether three or five
+10 (c) Following the first two general elections that are conducted
+11 after a THE change in the membership of the board of county
+12 commissioners, pursuant to section 30-10-306.5 or 30-10-306.7, C.R.S.,
+13 the signature requirements for a petition for a county commissioner
+14 candidate who does not wish to affiliate with a major political party must
+15 follow the procedures specified in: subparagraph (VI) of paragraph (c) of
+16 subsection (1)
+17 (I) SUBSECTION (1)(c)(VI) of this section, IF THE COUNTY
+18 COMMISSIONERS ARE ELECTED BY DISTRICT ONLY AS DESCRIBED IN
+19 SECTION 30-10-306.8 (3); OR
+20 (II) SUBSECTION (1)(c)(VII) OF THIS SECTION, IF THE COUNTY
+21 COMMISSIONERS ARE ELECTED AT LARGE BY A RANKED VOTING METHOD
+22 AS DESCRIBED IN SECTION 30-10-306.8 (4).
+23 (3) Following the first two general elections that are conducted
+24 after a change in the membership of the board of county commissioners
+25 pursuant to section 30-10-306.5 or 30-10-306.7, C.R.S., the signature
+26 requirements for a petition for a county commissioner candidate who does
+27 not wish to affiliate with a major political party must follow the
+-7- HB26-1203
+
+1 procedures specified in subparagraph (VI) of paragraph (c) of subsection
+2 (1) of this section.
+3 SECTION 5. In Colorado Revised Statutes, 30-10-306, amend
+4 (1) and (2) as follows:
+5 30-10-306. Commissioners' districts - vacancies - definitions.
+6 (1) Each county HAVING A POPULATION OF LESS THAN SEVENTY
+7 THOUSAND must be divided into three compact districts by the board of
+8 county commissioners. Each district must be as nearly equal in population
+9 as possible based on the redistricting population data prepared by staff of
+10 the legislative council and office of legislative legal services, or any
+11 successor offices, in accordance with section 2-2-902. In no event shall
+12 there be more than five percent deviation between the most populous and
+13 the least populous district in each county, at the time such district
+14 boundaries are adopted. Each district must be numbered consecutively
+15 and must not be subject to alteration more often than once every two
+16 years. One county commissioner must be elected from each of such
+17 districts DISTRICT by the voters of the whole county. If any county
+18 commissioner, during his or her THEIR term of office, moves from the
+19 district in which he or she THEY resided when elected, his or her THE
+20 COMMISSIONER'S office thereupon becomes vacant. All proceedings by the
+21 board of county commissioners in formation of such districts not
+22 inconsistent with this section are confirmed and validated.
+23 (2) Each county having a population of seventy thousand or more
+24 that has chosen to increase the members of the board of county
+25 commissioners from three to five must be divided into three or five
+26 districts. by the board of county commissioners according to the method
+27 of election described in section 30-10-306.5 (5) or (6) or section
+-8- HB26-1203
+
+1 30-10-306.7. When applicable, the board of county commissioners shall
+2 divide the county into districts in accordance with the final redistricting
+3 plan approved in accordance with section 30-10-306.4. The districts must
+4 be as nearly equal in population as possible based on the redistricting
+5 population data prepared by staff of the legislative council and office of
+6 legislative legal services, or any successor offices, in accordance with
+7 section 2-2-902. In no event shall there be more than five percent
+8 deviation between the most populous and the least populous district in
+9 each county, at the time such district boundaries are adopted. Each district
+10 must be numbered consecutively and is not subject to alteration more
+11 often than once every two years; except that, notwithstanding subsection
+12 (3) of this section, the board may alter the districts to conform to precinct
+13 boundaries that are changed in accordance with section 1-5-103 (1), based
+14 on the division of the state into congressional districts or an approved
+15 plan for redistricting of the members of the general assembly when
+16 necessary to ensure that no precinct is located in more than one district.
+17 County commissioners are elected at large or from districts according to
+18 the method of election described in section 30-10-306.5 (5) or (6) or
+19 section 30-10-306.7 SECTION 30-10-306.8 (3) OR (4). If any county
+20 commissioner required to be resident in a district moves during his or her
+21 THEIR term of office from the district in which he or she THEY resided
+22 when elected, his or her THE COMMISSIONER'S office thereupon becomes
+23 vacant. All proceedings by the board of county commissioners in
+24 formation of such districts not inconsistent with this section are
+25 confirmed and validated.
+26 SECTION 6. In Colorado Revised Statutes, repeal 30-10-306.5
+27 and 30-10-306.7.
+-9- HB26-1203
+
+1 SECTION 7. In Colorado Revised Statutes, add 30-10-306.8 as
+2 follows:
+3 30-10-306.8. Methods of election for five county
+4 commissioners in a county with a population of seventy thousand or
+5 more - elections - redistricting.
+6 (1) IN ANY COUNTY HAVING A POPULATION OF SEVENTY
+7 THOUSAND OR MORE, THE MEMBERSHIP OF THE BOARD OF COUNTY
+8 COMMISSIONERS CONSISTS OF FIVE MEMBERS ELECTED PURSUANT TO THIS
+9 SECTION. THE FIVE MEMBERS OF THE BOARD OF COUNTY COMMISSIONERS
+10 MUST BE ELECTED BY ONE OF THE FOLLOWING METHODS:
+11 (a) BY DISTRICT ONLY, AS DESCRIBED IN SUBSECTION (3) OF THIS
+12 SECTION; OR
+13 (b) AT LARGE BY A RANKED VOTING METHOD, AS DESCRIBED IN
+14 SUBSECTION (4) OF THIS SECTION.
+15 (2) (a) (I) IN ANY COUNTY HAVING A POPULATION OF SEVENTY
+16 THOUSAND OR MORE, THE BOARD OF COUNTY COMMISSIONERS SHALL
+17 ADOPT A RESOLUTION DESIGNATING THE TWO ALTERNATIVE METHODS OF
+18 ELECTING ITS FIVE COUNTY COMMISSIONERS SET FORTH IN SUBSECTIONS
+19 (3) AND (4) OF THIS SECTION. THE BOARD OF COUNTY COMMISSIONERS
+20 SHALL PASS THE RESOLUTION NO LATER THAN ITS FIRST REGULARLY
+21 SCHEDULED MEETING IN CALENDAR YEAR 2027 OR ITS FIRST REGULARLY
+22 SCHEDULED MEETING IN THE MONTH FOLLOWING AN INCREASE IN THE
+23 COUNTY'S POPULATION, AS DEFINED IN SECTION 30-10-306 (6)(f), TO
+24 SEVENTY THOUSAND OR MORE.
+25 (II) THE BOARD OF COUNTY COMMISSIONERS SHALL REFER THE
+26 RESOLUTION REQUIRED BY THIS SUBSECTION (2)(a) TO THE REGISTERED
+27 ELECTORS OF THE COUNTY AT THE FIRST GENERAL ELECTION FOLLOWING
+-10- HB26-1203
+
+1 ITS ADOPTION SO THAT THE VOTERS MAY CHOOSE WHICH OF THE TWO
+2 ALTERNATIVE METHODS OF ELECTING COUNTY COMMISSIONERS THEY
+3 PREFER. THEREAFTER, THE BOARD OF COUNTY COMMISSIONERS SHALL
+4 TAKE ACTION TO ENSURE THAT COUNTY COMMISSIONERS ARE ELECTED AT
+5 THE NEXT GENERAL ELECTION ACCORDING TO THE METHOD OF ELECTION
+6 IN THE REFERRED RESOLUTION THAT RECEIVED THE LARGEST NUMBER OF
+7 VOTES CAST.
+8 (b) A COUNTY HAVING A POPULATION OF SEVENTY THOUSAND OR
+9 MORE THAT ALREADY ELECTS ITS FIVE COUNTY COMMISSIONERS
+10 ACCORDING TO ONE OF THE TWO ALTERNATIVE METHODS OF ELECTION SET
+11 FORTH IN SUBSECTION (3) OR (4) OF THIS SECTION IS NOT REQUIRED TO
+12 PASS THE RESOLUTION OTHERWISE REQUIRED BY SUBSECTION (2)(a) OF
+13 THIS SECTION.
+14 (c) (I) A BOARD OF COUNTY COMMISSIONERS MAY ADOPT A
+15 RESOLUTION CHANGING THE METHOD OF ELECTING THE MEMBERS OF THE
+16 BOARD FROM ONE ALTERNATIVE METHOD OF ELECTION PROVIDED IN
+17 SUBSECTION (3) OR (4) OF THIS SECTION TO THE OTHER METHOD, AND
+18 SHALL REFER THE RESOLUTION TO THE REGISTERED ELECTORS OF THE
+19 COUNTY AT THE FIRST GENERAL ELECTION FOLLOWING ITS ADOPTION. IF
+20 A MAJORITY OF VOTES CAST ARE IN FAVOR OF THE RESOLUTION, THE
+21 BOARD OF COUNTY COMMISSIONERS SHALL TAKE SUCH ACTION AS IS
+22 NECESSARY TO ENSURE THAT THE COUNTY COMMISSIONERS ARE ELECTED
+23 AT THE NEXT GENERAL ELECTION ACCORDING TO THE PROCEDURE FOR
+24 ELECTION CONTAINED IN THE RESOLUTION.
+25 (II) ALTERNATIVELY, A PETITION SIGNED BY AT LEAST EIGHT
+26 PERCENT OF THE TOTAL NUMBER OF QUALIFIED ELECTORS OF A COUNTY
+27 VOTING FOR ALL CANDIDATES FOR THE OFFICE OF SECRETARY OF STATE AT
+-11- HB26-1203
+
+1 THE LAST PRECEDING GENERAL ELECTION IS SUFFICIENT TO PLACE ON THE
+2 BALLOT AT A GENERAL ELECTION THE QUESTION OF WHETHER TO CHANGE
+3 THE METHOD OF ELECTING MEMBERS OF THE BOARD FROM ONE
+4 ALTERNATIVE METHOD OF ELECTION PROVIDED IN SUBSECTION (3) OR (4)
+5 OF THIS SECTION TO THE OTHER METHOD. THE PETITION MUST SPECIFY THE
+6 CURRENT METHOD OF ELECTION AND THE PROPOSED ALTERNATIVE
+7 METHOD OF ELECTION. THE PETITION MUST BE DELIVERED TO THE COUNTY
+8 CLERK AND RECORDER PRIOR TO THE NINETIETH DAY BEFORE THE NEXT
+9 GENERAL ELECTION WITH A REQUEST THAT THE QUESTION BE PLACED ON
+10 THE BALLOT FOR REFERRAL TO THE REGISTERED ELECTORS OF THE COUNTY
+11 AT THE NEXT GENERAL ELECTION.
+12 (3) (a) FIVE COUNTY COMMISSIONERS RESIDENT IN FIVE DISTRICTS
+13 MAY BE ELECTED BY VOTERS RESIDENT IN THOSE DISTRICTS, AS SPECIFIED
+14 IN THIS SUBSECTION (3). EACH COUNTY COMMISSIONER SEAT TO WHICH A
+15 COMMISSIONER WAS ELECTED BY VOTERS RESIDENT IN THE DISTRICT
+16 PURSUANT TO THIS SUBSECTION (3) MUST BE FILLED BY THE DISTRICT
+17 METHOD OF ELECTION. IF ANY COUNTY COMMISSIONER, DURING THE
+18 COMMISSIONER'S TERM OF OFFICE, MOVES FROM THE DISTRICT IN WHICH
+19 THE COMMISSIONER RESIDED WHEN ELECTED, THE COMMISSIONER'S OFFICE
+20 BECOMES VACANT.
+21 (b) IF A COUNTY ADOPTS THE DISTRICT METHOD OF ELECTION
+22 PURSUANT TO THIS SUBSECTION (3) BUT IS NOT DIVIDED INTO FIVE COUNTY
+23 COMMISSIONER DISTRICTS, THE BOARD OF COUNTY COMMISSIONERS SHALL
+24 CHANGE THE BOUNDARIES OF THE COMMISSIONERS' DISTRICTS TO CREATE
+25 FIVE DISTRICTS IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION
+26 30-10-306 (2) AND THE COUNTY'S FINAL REDISTRICTING PLAN APPROVED
+27 IN ACCORDANCE WITH SECTION 30-10-306.4.
+-12- HB26-1203
+
+1 (c) (I) IF THE FIRST GENERAL ELECTION AFTER THE VOTERS'
+2 SELECTION OF THE DISTRICT METHOD OF ELECTION IS HELD IN 2028 OR ANY
+3 FOURTH YEAR THEREAFTER, THREE MEMBERS RESIDENT IN DISTRICTS MUST
+4 BE ELECTED TO FOUR-YEAR TERMS AT THAT GENERAL ELECTION AND TWO
+5 MEMBERS RESIDENT IN DISTRICTS MUST BE ELECTED TO TWO-YEAR TERMS
+6 UNTIL THE NEXT GENERAL ELECTION, AT WHICH TWO MEMBERS RESIDENT
+7 IN DISTRICTS MUST BE ELECTED TO FOUR-YEAR TERMS. THEREAFTER,
+8 THREE MEMBERS RESIDENT IN DISTRICTS MUST BE ELECTED AT THE
+9 GENERAL ELECTIONS WHICH OCCUR EACH FOUR YEARS AFTER THE FIRST
+10 GENERAL ELECTION FOLLOWING THE SELECTION OF THE DISTRICT METHOD
+11 OF ELECTION, AND TWO MEMBERS RESIDENT IN DISTRICTS MUST BE
+12 ELECTED AT THE GENERAL ELECTION WHICH OCCURS TWO YEARS AFTER
+13 THE FIRST GENERAL ELECTION FOLLOWING THE SELECTION OF THE
+14 DISTRICT METHOD OF ELECTION AND EVERY FOURTH YEAR THEREAFTER.
+15 (II) IF THE FIRST GENERAL ELECTION AFTER THE VOTERS'
+16 SELECTION OF THE DISTRICT METHOD OF ELECTION IS HELD IN 2030 OR ANY
+17 FOURTH YEAR THEREAFTER, TWO MEMBERS RESIDENT IN DISTRICTS MUST
+18 BE ELECTED TO FOUR-YEAR TERMS AT THAT GENERAL ELECTION AND
+19 THREE MEMBERS RESIDENT IN DISTRICTS MUST BE ELECTED TO TWO-YEAR
+20 TERMS UNTIL THE NEXT GENERAL ELECTION, AT WHICH THREE MEMBERS
+21 RESIDENT IN DISTRICTS MUST BE ELECTED TO FOUR-YEAR TERMS.
+22 THEREAFTER, TWO MEMBERS RESIDENT IN DISTRICTS MUST BE ELECTED AT
+23 THE GENERAL ELECTIONS WHICH OCCUR EACH FOUR YEARS AFTER THE
+24 FIRST GENERAL ELECTION FOLLOWING THE SELECTION OF THE DISTRICT
+25 METHOD OF ELECTION, AND THREE MEMBERS RESIDENT IN DISTRICTS MUST
+26 BE ELECTED AT THE GENERAL ELECTION WHICH OCCURS TWO YEARS AFTER
+27 THE FIRST GENERAL ELECTION FOLLOWING THE SELECTION OF THE
+-13- HB26-1203
+
+1 DISTRICT METHOD OF ELECTION AND EVERY FOURTH YEAR THEREAFTER.
+2 (III) BY MARCH 1 OF THE YEAR OF THE FIRST GENERAL ELECTION
+3 AFTER THE VOTERS' SELECTION OF THE DISTRICT METHOD OF ELECTION,
+4 THE BOARD OF COUNTY COMMISSIONERS SHALL DESIGNATE THE DISTRICTS
+5 FROM WHICH A COMMISSIONER IS TO BE ELECTED TO AN INITIAL TWO-YEAR
+6 TERM DESCRIBED IN THIS SUBSECTION (3)(c).
+7 (4) (a) FIVE COUNTY COMMISSIONERS MAY BE ELECTED BY THE
+8 RANKED VOTING METHOD OF ELECTION AS SPECIFIED IN THIS SUBSECTION
+9 (4). A COUNTY COMMISSIONER MUST BE ELECTED USING THE SINGLE
+10 TRANSFERABLE VOTE METHOD DESCRIBED IN SECTION 1-7-1003 (4) TO
+11 ELECT TWO OR THREE COMMISSIONERS AT LARGE IN ONE ELECTION. IF
+12 ONLY ONE COUNTY COMMISSIONER IS TO BE ELECTED IN AN ELECTION, THE
+13 COUNTY COMMISSIONER MUST BE ELECTED USING THE INSTANT RUNOFF
+14 VOTING METHOD DESCRIBED IN SECTION 1-7-1003 (3). EACH COUNTY
+15 COMMISSIONER SEAT TO WHICH A COMMISSIONER WAS ELECTED AT LARGE
+16 BY THE RANKED VOTING METHOD OF ELECTION PURSUANT TO THIS
+17 SUBSECTION (4) MUST BE FILLED BY THE RANKED VOTING METHOD OF
+18 ELECTION.
+19 (b) (I) IF THE FIRST GENERAL ELECTION AFTER THE ADOPTION OF
+20 THE RANKED VOTING METHOD OF ELECTION SET FORTH IN THIS
+21 SUBSECTION (4) IS HELD IN 2028 OR ANY FOURTH YEAR THEREAFTER,
+22 THREE MEMBERS MUST BE ELECTED AT LARGE TO FOUR-YEAR TERMS AT
+23 THAT ELECTION AND TWO MEMBERS MUST BE ELECTED AT LARGE TO
+24 TWO-YEAR TERMS UNTIL THE NEXT GENERAL ELECTION, AT WHICH TWO
+25 MEMBERS MUST BE ELECTED AT LARGE TO FOUR-YEAR TERMS.
+26 THEREAFTER, THREE MEMBERS MUST BE ELECTED AT LARGE AT THE
+27 GENERAL ELECTIONS THAT OCCUR EVERY FOUR YEARS AFTER THE FIRST
+-14- HB26-1203
+
+1 GENERAL ELECTION FOLLOWING THE ADOPTION OF THE RANKED VOTING
+2 METHOD OF ELECTION, AND TWO MEMBERS MUST BE ELECTED AT LARGE
+3 AT THE GENERAL ELECTIONS THAT OCCUR EVERY FOUR YEARS AFTER THE
+4 GENERAL ELECTION THAT OCCURS TWO YEARS AFTER THE FIRST GENERAL
+5 ELECTION FOLLOWING THE ADOPTION OF THE RANKED VOTING METHOD OF
+6 ELECTION.
+7 (II) IF THE FIRST GENERAL ELECTION AFTER THE ADOPTION OF THE
+8 RANKED VOTING METHOD OF ELECTION SET FORTH IN THIS SUBSECTION (4)
+9 IS HELD IN 2030 OR ANY FOURTH YEAR THEREAFTER, TWO MEMBERS MUST
+10 BE ELECTED AT LARGE TO FOUR-YEAR TERMS AT THAT ELECTION AND
+11 THREE MEMBERS MUST BE ELECTED AT LARGE TO TWO-YEAR TERMS UNTIL
+12 THE NEXT GENERAL ELECTION, AT WHICH THREE MEMBERS MUST BE
+13 ELECTED AT LARGE TO FOUR-YEAR TERMS. THEREAFTER, TWO MEMBERS
+14 MUST BE ELECTED AT LARGE AT THE GENERAL ELECTIONS THAT OCCUR
+15 EVERY FOUR YEARS AFTER THE FIRST GENERAL ELECTION FOLLOWING THE
+16 ADOPTION OF THE RANKED VOTING METHOD OF ELECTION, AND THREE
+17 MEMBERS MUST BE ELECTED AT LARGE AT THE GENERAL ELECTIONS THAT
+18 OCCUR EVERY FOUR YEARS AFTER THE GENERAL ELECTION THAT OCCURS
+19 TWO YEARS AFTER THE FIRST GENERAL ELECTION FOLLOWING THE
+20 ADOPTION OF THE RANKED VOTING METHOD OF ELECTION.
+21 (III) BY MARCH 1 OF THE YEAR OF THE FIRST GENERAL ELECTION
+22 AFTER THE VOTERS' SELECTION OF THE RANKED VOTING METHOD OF
+23 ELECTION, THE BOARD OF COUNTY COMMISSIONERS SHALL DESIGNATE THE
+24 AT-LARGE POSITIONS FROM WHICH A COMMISSIONER IS TO BE ELECTED TO
+25 AN INITIAL TWO-YEAR TERM AS DESCRIBED IN THIS SUBSECTION (4)(b).
+26 (5) ALL PROCEEDINGS BY A BOARD OF COUNTY COMMISSIONERS IN
+27 ELECTING FIVE COUNTY COMMISSIONERS IN A MANNER CONSISTENT WITH
+-15- HB26-1203
+
+1 SUBSECTION (3) OR (4) OF THIS SECTION ARE CONFIRMED AND VALIDATED.
+2 (6) SIGNATURE REQUIREMENTS GOVERNING PETITIONS FOR A RACE
+3 INVOLVING A SEAT ON THE BOARD OF COUNTY COMMISSIONERS ARE AS
+4 SPECIFIED IN SECTION 1-4-801 FOR MAJOR POLITICAL PARTY CANDIDATES
+5 AND SECTION 1-4-802 FOR CANDIDATES WHO DO NOT WISH TO AFFILIATE
+6 WITH A MAJOR POLITICAL PARTY.
+7 (7) A HOME RULE COUNTY IS EXEMPT FROM THE REQUIREMENTS OF
+8 THIS SECTION IF THE HOME RULE COUNTY:
+9 (a) ELECTS MORE THAN HALF OF ITS COUNTY COMMISSIONERS BY
+10 A DISTRICT METHOD OF ELECTION, SUCH THAT THE COUNTY
+11 COMMISSIONERS ARE RESIDENT IN DISTRICTS AND ARE ELECTED BY VOTERS
+12 RESIDENT IN THOSE DISTRICTS; OR
+13 (b) ELECTS MORE THAN HALF OF ITS COUNTY COMMISSIONERS AT
+14 LARGE USING A RANKED VOTING METHOD OF ELECTION.
+15 SECTION 8. Act subject to petition - effective date. This act
+16 takes effect at 12:01 a.m. on the day following the expiration of the
+17 ninety-day period after final adjournment of the general assembly (August
+18 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+19 referendum petition is filed pursuant to section 1 (3) of article V of the
+20 state constitution against this act or an item, section, or part of this act
+21 within such period, then the act, item, section, or part will not take effect
+22 unless approved by the people at the general election to be held in
+23 November 2026 and, in such case, will take effect on the date of the
+24 official declaration of the vote thereon by the governor.
+-16- HB26-1203

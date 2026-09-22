@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0461.01 Sarah Lozano x3858 HOUSE BILL 26-1034
+HOUSE SPONSORSHIP
+Johnson and Lukens,
+SENATE SPONSORSHIP
+Pelton R.,
+House Committees Senate Committees
+Agriculture, Water & Natural Resources
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO ENVIRONMENTAL STANDARDS FOR
+102 CERTAIN IRRIGATION EQUIPMENT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+House Bill 23-1161 established environmental standards for
+irrigation controllers and spray sprinkler bodies that are sold or leased in
+the state on and after January 1, 2026, and are not specifically excluded
+from the federal WaterSense program (program).
+The bill repeals the environmental standard for irrigation
+controllers. The bill also modifies the environmental standard for spray
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+sprinkler bodies to:
+! No longer require that spray sprinkler bodies include a
+check valve; and
+! Require that spray sprinkler bodies are certified to the
+program, rather than requiring that spray sprinkler bodies
+meet the water efficiency and performance criteria of the
+program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-7.5-102, repeal
+3 (10) and (38) as follows:
+4 6-7.5-102. Definitions.
+5 As used in this article 7.5, unless the context otherwise requires
+6 and except as determined by rule pursuant to section 6-7.5-106 (1):
+7 (10) "Check valve" means a component that is internal to a spray
+8 sprinkler body and prevents system drainage during periods of
+9 nonoperation.
+10 (38) "Irrigation controller" means a standalone controller, an
+11 add-on device, or a plug-in device that is used to operate an automatic
+12 irrigation system such as a lawn sprinkler or drip irrigation system
+13 designed and intended for nonagricultural purposes. "Irrigation
+14 controller" includes:
+15 (a) A soil moisture-based irrigation controller that inhibits or
+16 allows an irrigation event based on a reading from a soil moisture sensor
+17 mechanism; and
+18 (b) A weather-based irrigation controller that uses current weather
+19 data as a basis for scheduling irrigation.
+20 SECTION 2. In Colorado Revised Statutes, 6-7.5-104, repeal
+21 (1)(j.7) as follows:
+22 6-7.5-104. Scope and applicability.
+-2- HB26-1034
+
+1 (1) Subject to subsection (2) of this section and as further
+2 specified in section 6-7.5-105, this article 7.5 applies to the following
+3 products sold as new in Colorado:
+4 (j.7) Irrigation controllers;
+5 SECTION 3. In Colorado Revised Statutes, 6-7.5-105, amend
+6 (5)(k); and repeal (5)(h) as follows:
+7 6-7.5-105. Standards - effective dates.
+8 (5) On and after January 1, 2026, a person shall not sell, offer to
+9 sell, lease, or offer to lease any of the following new products in Colorado
+10 unless the efficiency of the new product meets or exceeds the following
+11 efficiency standards, as applicable:
+12 (h) Irrigation controllers must comply with the following
+13 requirements:
+14 (I) Weather-based irrigation controllers included within the scope
+15 of the WaterSense program product specification for weather-based
+16 irrigation controllers must meet the water efficiency and performance
+17 criteria and other requirements for that specification; and
+18 (II) Soil moisture-based irrigation controllers included within the
+19 scope of the WaterSense program product specification for soil
+20 moisture-based irrigation controllers must meet the water efficiency and
+21 performance criteria and other requirements for that specification.
+22 (k) Spray sprinkler bodies that are not specifically excluded from
+23 the scope of the WaterSense program product specification for spray
+24 sprinkler bodies must include an integral pressure regulator and a check
+25 valve and must meet the water efficiency and performance criteria and
+26 other requirements of MUST BE CERTIFIED TO that specification.
+27 SECTION 4. Act subject to petition - effective date -
+-3- HB26-1034
+
+1 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+2 the expiration of the ninety-day period after final adjournment of the
+3 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+4 2026); except that, if a referendum petition is filed pursuant to section 1
+5 (3) of article V of the state constitution against this act or an item, section,
+6 or part of this act within such period, then the act, item, section, or part
+7 will not take effect unless approved by the people at the general election
+8 to be held in November 2026 and, in such case, will take effect on the
+9 date of the official declaration of the vote thereon by the governor.
+10 (2) This act applies to conduct occurring on or after the applicable
+11 effective date of this act.
+-4- HB26-1034

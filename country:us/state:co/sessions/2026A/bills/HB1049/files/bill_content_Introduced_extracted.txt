@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0261.01 Owen Hatch x2698 HOUSE BILL 26-1049
+HOUSE SPONSORSHIP
+Bottoms,
+SENATE SPONSORSHIP
+Baisley,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING PROHIBITING THE USE OF ANOTHER INDIVIDUAL'S
+102 PERSONALLY IDENTIFYING FEATURE WITHOUT PERMISSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill criminalizes the use of an individual's fingerprint,
+voiceprint, retina, iris, or facial map (personally identifying feature) in an
+advertisement, deepfake, image, video, voice recording, or other digital
+depiction, without the individual's permission (unlawful use of a
+personally identifying feature). Unlawful use of a personally identifying
+feature is a class 5 felony, and unlawful use of a personally identifying
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+feature with the intent to harm the individual or another individual is a
+class 4 felony.
+An individual harmed by an unlawful use of a personally
+identifying feature may bring a civil cause of action and collect damages
+and reasonable attorney fees.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 18-5-906 as
+3 follows:
+4 18-5-906. Unlawful use of personally identifying features -
+5 civil action - exceptions - definitions.
+6 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+7 REQUIRES:
+8 (a) "HARM" MEANS A PHYSICAL, EMOTIONAL, OR FINANCIAL HARM.
+9 (b) "PERSONALLY IDENTIFYING FEATURE" MEANS AN INDIVIDUAL'S:
+10 (I) FINGERPRINT;
+11 (II) VOICEPRINT;
+12 (III) SCAN OR RECORD OF THEIR EYE RETINA OR IRIS; AND
+13 (IV) FACIAL MAP, FACIAL GEOMETRY, OR FACIAL TEMPLATE.
+14 (c) "USE" MEANS TO TAKE, CAPTURE, CREATE, INCLUDE IN, OR BE
+15 A PART OF:
+16 (I) AN ADVERTISEMENT;
+17 (II) A DEEPFAKE, AS DEFINED IN SECTION 1-46-102;
+18 (III) AN IMAGE;
+19 (IV) A VIDEO;
+20 (V) A VOICE RECORDING; OR
+21 (VI) ANY OTHER DIGITAL DEPICTION.
+22 (2) A PERSON COMMITS UNLAWFUL USE OF A PERSONALLY
+23 IDENTIFYING FEATURE IF THE PERSON:
+-2- HB26-1049
+
+1 (a) USES A PERSONALLY IDENTIFYING FEATURE OF AN INDIVIDUAL
+2 WITHOUT PERMISSION; OR
+3 (b) USES A PERSONALLY IDENTIFYING FEATURE OF AN INDIVIDUAL
+4 WITHOUT PERMISSION TO INTENTIONALLY HARM THE INDIVIDUAL WHOSE
+5 PERSONALLY IDENTIFYING FEATURE IS UNLAWFULLY USED.
+6 (3) (a) UNLAWFUL USE OF A PERSONALLY IDENTIFYING FEATURE
+7 IN VIOLATION OF SUBSECTION (2)(a) OF THIS SECTION IS A CLASS 5 FELONY.
+8 (b) UNLAWFUL USE OF A PERSONALLY IDENTIFYING FEATURE IN
+9 VIOLATION OF SUBSECTION (2)(b) OF THIS SECTION IS A CLASS 4 FELONY.
+10 (4) AN INDIVIDUAL HARMED IN VIOLATION OF THIS SECTION MAY
+11 BRING A CIVIL ACTION FOR DAMAGES AND REASONABLE ATTORNEY FEES.
+12 UNLAWFUL USE PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION IS A
+13 LEGALLY COGNIZABLE HARM. AN INDIVIDUAL MAY INCLUDE IN THEIR
+14 CIVIL ACTION A CLAIM FOR ANY AMOUNT OF DAMAGES.
+15 (5) (a) THIS SECTION DOES NOT APPLY TO AN IMAGE, VIDEO, VOICE
+16 RECORDING, OR OTHER DIGITAL DEPICTION DISTRIBUTED TO THE PUBLIC IN
+17 CONNECTION WITH A CRIMINAL INVESTIGATION OR TAKEN BY A PERSON IN
+18 THE ACT OF REPORTING OR DOCUMENTING CRIMINAL CONDUCT.
+19 (b) THIS SECTION DOES NOT APPLY TO A CITY, COUNTY, CITY AND
+20 COUNTY, OR STATE GOVERNMENT, OR AN EMPLOYEE THEREOF, IN
+21 CONNECTION WITH AN OFFICIAL ACT OF THE CITY, COUNTY, CITY AND
+22 COUNTY, OR STATE GOVERNMENT, OR AN EMPLOYEE THEREOF IN THE
+23 PERFORMANCE OF THEIR OFFICIAL DUTIES.
+24 (c) THIS SECTION DOES NOT APPLY:
+25 (I) IN CONNECTION WITH ANY NEWS, PUBLIC AFFAIRS, OR SPORTS
+26 BROADCAST OR ACCOUNT;
+27 (II) FOR THE PURPOSES OF COMMENT, CRITICISM, SCHOLARSHIP,
+-3- HB26-1049
+
+1 SATIRE, OR PARODY;
+2 (III) TO A REPRESENTATION OF THE INDIVIDUAL WHOSE
+3 PERSONALLY IDENTIFYING FEATURE IS BEING USED AS THE INDIVIDUAL'S
+4 SELF IN AN AUDIOVISUAL WORK, AS DEFINED PURSUANT TO 17 U.S.C. SEC.
+5 101, UNLESS THE AUDIOVISUAL WORK CONTAINING THE USE IS INTENDED
+6 TO CREATE, AND DOES CREATE, THE FALSE IMPRESSION THAT THE WORK IS
+7 AN AUTHENTIC RECORDING IN WHICH THE INDIVIDUAL PARTICIPATED;
+8 (IV) TO A FLEETING OR INCIDENTAL USE OF A PERSONALLY
+9 IDENTIFYING FEATURE;
+10 (V) TO AN ADVERTISEMENT OR COMMERCIAL ANNOUNCEMENT FOR
+11 AN AUDIOVISUAL WORK DESCRIBED IN THIS SUBSECTION (5)(c); AND
+12 (VI) TO ANY OTHER ACTIVITY PROTECTED PURSUANT TO THE FIRST
+13 AMENDMENT TO THE UNITED STATES CONSTITUTION.
+14 SECTION 2. Applicability. This act applies to offenses
+15 committed on or after the effective date of this act.
+16 SECTION 3. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-4- HB26-1049

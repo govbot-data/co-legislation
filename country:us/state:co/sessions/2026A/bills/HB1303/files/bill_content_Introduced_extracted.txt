@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0705.01 Eden Rolland x2373 HOUSE BILL 26-1303
+HOUSE SPONSORSHIP
+Bradley and Carter, Espenoza
+SENATE SPONSORSHIP
+Ball and Catlin, Exum, Rich
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING TECHNICAL CHANGES TO ENERGY AND CARBON
+102 MANAGEMENT STATUTES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Statutory Revision Committee. The bill makes 2 revisions to
+energy and carbon management statutes. First, the bill amends the
+terminology used to describe an examination that welders working on oil
+and gas process lines are required to pass to obtain certification. Current
+law requires the energy and carbon management commission
+(commission) to adopt rules to require certification for welders working
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+on oil and gas process lines, including rules that require passing an exam.
+Current law refers to the exam as "the International Code Council Exam
+F31, national standard journeyman mechanical, or an analogous successor
+exam" (F31 exam). The F31 exam is not applicable to welders. The bill
+changes the reference to instead refer to certain other examinations that
+are applicable to welders in the oil and gas industry.
+Second, in certain instances, the bill changes "oil and gas
+operations" to "energy and carbon management operations" to ensure
+uniformity of terminology and to align statutory references to
+"operations" to those operations that are within the scope of the
+commission's regulatory authority.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 34-60-106, amend
+3 (20)(d)(III) as follows:
+4 34-60-106. Additional powers of commission - fees - rules -
+5 definitions - repeal.
+6 (20) The commission shall adopt rules to require certification for
+7 workers in the following fields:
+8 (d) Welders working on oil and gas process lines, including:
+9 (III) Passage of the International Code Council Exam F31,
+10 national standard journeyman mechanical, or an analogous successor
+11 exam, For any person working on pressurized process lines in upstream
+12 and midstream operations, PASSAGE OF:
+13 (A) THE AMERICAN PETROLEUM INSTITUTE STANDARD 1104,
+14 WELDING OF PIPELINES AND RELATED FACILITIES, OR AN ANALOGOUS
+15 SUCCESSOR CERTIFICATION;
+16 (B) THE AMERICAN SOCIETY OF MECHANICAL ENGINEERS
+17 SECTION IX, WELDING, BRAZING, AND FUSING QUALIFICATIONS, OR AN
+18 ANALOGOUS SUCCESSOR QUALIFICATION; OR
+19 (C) A NATIONALLY RECOGNIZED EXAMINATION, CERTIFICATION,
+-2- HB26-1303
+
+1 OR QUALIFICATION, OTHER THAN THOSE SPECIFIED IN SUBSECTIONS
+2 (20)(d)(III)(A) AND (20)(d)(III)(B) OF THIS SECTION, THAT IS APPLICABLE
+3 FOR THE CERTIFICATION OF WELDERS WORKING ON OIL AND GAS PROCESS
+4 LINES.
+5 SECTION 2. In Colorado Revised Statutes, 34-60-121, amend
+6 (6), (7)(b), and (7)(c) as follows:
+7 34-60-121. Violations - investigations - penalties - rules -
+8 definition - legislative declaration.
+9 (6) If the commission determines, after a hearing conducted in
+10 accordance with section 34-60-108, that an energy and carbon
+11 management operator has failed to perform any corrective action imposed
+12 under subsection (4) of this section or failed to comply with a
+13 cease-and-desist order issued under subsection (5) of this section, the
+14 commission may issue an order suspending, modifying, or revoking the
+15 operator's permit or permits or suspending or revoking the operator's
+16 license to conduct oil and gas ENERGY AND CARBON MANAGEMENT
+17 operations or may take other appropriate action. An energy and carbon
+18 management operator subject to an order that suspends, modifies, or
+19 revokes a permit or that suspends or revokes the operator's license to
+20 conduct oil and gas ENERGY AND CARBON MANAGEMENT operations shall
+21 continue the affected operations only for the purpose of bringing the
+22 affected operations into compliance with the permit or modified permit
+23 and must bring the affected operations into compliance under the
+24 supervision of the commission. Once the affected operations are in
+25 compliance to the satisfaction of the commission and any penalty not
+26 subject to judicial review or appeal has been paid, the commission may
+27 reinstate the permit or the license to conduct oil and gas ENERGY AND
+-3- HB26-1303
+
+1 CARBON MANAGEMENT operations.
+2 (7) (b) If the commission finds, after the hearing conducted
+3 pursuant to subsection (7)(a) of this section, that the energy and carbon
+4 management operator is responsible under the legal standards specified
+5 in subsection (7)(a) of this section, the commission may issue an order
+6 that prohibits the issuance of any new permits to the energy and carbon
+7 management operator, suspends any or all of the energy and carbon
+8 management operator's certificates of clearance, suspends the operator's
+9 license to conduct oil and gas ENERGY AND CARBON MANAGEMENT
+10 operations, or any combination of the three. If the energy and carbon
+11 management operator demonstrates to the satisfaction of the commission
+12 that the operator has brought each of the violations into compliance and
+13 that any penalty not subject to judicial review or appeal has been paid, the
+14 commission may vacate the order.
+15 (c) In a hearing conducted pursuant to this subsection (7), the
+16 commission may consider as evidence violations for which enforcement
+17 was commenced prior to May 16, 2024, in determining whether to
+18 prohibit the issuance of any new permits to the operator, suspend any or
+19 all of the operator's certificates of clearance, suspend the operator's
+20 license to conduct oil and gas ENERGY AND CARBON MANAGEMENT
+21 operations, or any combination of the three.
+22 SECTION 3. Act subject to petition - effective date. This act
+23 takes effect at 12:01 a.m. on the day following the expiration of the
+24 ninety-day period after final adjournment of the general assembly (August
+25 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+26 referendum petition is filed pursuant to section 1 (3) of article V of the
+27 state constitution against this act or an item, section, or part of this act
+-4- HB26-1303
+
+1 within such period, then the act, item, section, or part will not take effect
+2 unless approved by the people at the general election to be held in
+3 November 2026 and, in such case, will take effect on the date of the
+4 official declaration of the vote thereon by the governor.
+-5- HB26-1303

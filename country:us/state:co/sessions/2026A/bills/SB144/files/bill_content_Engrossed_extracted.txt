@@ -1,0 +1,3124 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0603.01 Alison Killen x4350 SENATE BILL 26-144
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE COLLECTION OF DELINQUENT PROPERTY TAXES BY
+102 TAX LIEN SALE, AND, IN CONNECTION THEREWITH, MODIFYING
+103 THE STRUCTURE AND AUTHORITY FOR TREASURERS TO CHARGE
+104 CERTAIN FEES, AMENDING THE PROCESS FOR THE SALE OF TAX
+105 LIENS, AND RECREATING AND REENACTING WITH AMENDMENTS
+106 THE PROCESS FOR OBTAINING A TREASURER'S DEED AFTER
+107 PUBLIC AUCTION OF A PROPERTY SUBJECT TO TAX LIEN.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,7
+lirpA
+SENATE SPONSORSHIP
+Frizell and Lindstedt,
+HOUSE SPONSORSHIP
+Winter T. and Camacho,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Section 1 of the bill modifies the fees of county treasurers by
+specifying fee amounts treasurers are required or allowed to collect in
+connection with the public auction and related proceedings for issuance
+of a treasurer's deed described in section 50. The bill adds, commencing
+on or before December 31, 2026, and every fifth year thereafter, an
+upward adjustment of the maximum dollar amount of all treasurer fees.
+The fees described in sections 1 and 50 apply to services performed or
+transactions occurring on or after June 1, 2026.
+Sections 2 through 49 make technical modifications to the
+provisions governing county treasurer tax lien sales for the collection of
+delinquent property taxes. The bill clarifies certain definitions and
+standardizes the use of defined terms. The bill modifies certain provisions
+and repeals obsolete provisions in conformity with the new process to
+obtain a treasurer's deed for a property subject to a tax lien set forth in
+section 50.
+Section 50 recreates, with changes, the public auction process
+established in 2024 that is required prior to the issuance of a treasurer's
+deed to protect against an unconstitutional taking of a taxpayer's property,
+or property value, in excess of their tax debt. The bill models the public
+auction process on the public trustee foreclosure process. The bill creates
+new definitions and modifies and expands the provisions for a public
+auction, including related rights, limitations, and records. The modified
+process applies to a treasurer's deed issued on or after June 1, 2026,
+regardless of the date of the tax lien sale, application for treasurer's deed,
+or commencement of any related proceeding.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-21-403, add (2.5)
+3 as follows:
+4 24-21-403. Core goals - powers and duties - rules.
+5 (2.5) THE SURCHARGE DESCRIBED IN SUBSECTION (2) OF THIS
+6 SECTION IS NOT APPLICABLE ON ANY DOCUMENT FILED OR RECORDED BY
+7 THE COUNTY CLERK AND RECORDER IF THE DOCUMENT IS EXEMPTED FROM
+8 FEES PURSUANT TO SECTION 30-1-103 (1).
+9 SECTION 2. In Colorado Revised Statutes, 30-1-102, amend (1)
+10 introductory portion, (1)(i), (1)(l), (1)(n), (1)(r); repeal (1)(k) and (1)(t);
+11 and add (1)(u), (1.7), and (4) as follows:
+-2- 144
+
+1 30-1-102. Fees of county treasurer - repeal.
+2 (1) EXCEPT AS PROVIDED IN SUBSECTION (1.7) OF THIS SECTION,
+3 the county treasurer shall charge and receive the following fees:
+4 (i) For each certificate of purchase delivered, four FROM A TAX
+5 LIEN SALE, FIVE dollars;
+6 (k) For processing an application for treasurer's deed, thirty-five
+7 dollars if the application is not advertised and seventy-five dollars if the
+8 application is advertised;
+9 (l) For the assignment of a certificate of purchase, made to the
+10 county, city, town, or city and county at any tax sale, to a person desiring
+11 to purchase land PROPERTY covered by such certificate, four FIVE dollars;
+12 (n) For each certificate of redemption delivered, seven TEN
+13 dollars;
+14 (r) For preparation of a distraint warrant, fifteen dollars AND FOR
+15 DELIVERY OF A DISTRAINT WARRANT OR POSTING OF A PROPERTY, FIFTY
+16 DOLLARS, PLUS MILEAGE OR THE ACTUAL COST OF DELIVERY OR POSTING,
+17 WHICHEVER IS GREATER;
+18 (t) For the notice, computation, and recording provided in section
+19 32-1-1604, C.R.S., thirty dollars.
+20 (u) FOR EACH COPY OF A RECEIPT ISSUED FOR A PRIOR TAX YEAR,
+21 NO MORE THAN FIVE DOLLARS.
+22 (1.7) (a) THE COUNTY TREASURER IS ENTITLED TO CHARGE AND
+23 RECEIVE THE FOLLOWING FEES IN ADMINISTERING ARTICLE 11.5 OF TITLE
+24 39:
+25 (I) FOR PROCESSING AN APPLICATION FOR A TREASURER'S DEED,
+26 THREE HUNDRED DOLLARS;
+27 (II) FOR PROCESSING AN ASSIGNMENT OF A CERTIFICATE OF
+-3- 144
+
+1 PURCHASE, NO MORE THAN TWENTY-FIVE DOLLARS;
+2 (III) FOR ACCEPTING AND FILING AN INTENT TO REPURCHASE FROM
+3 A LAWFUL HOLDER IN A PUBLIC AUCTION, ONE HUNDRED DOLLARS;
+4 (IV) FOR PROCESSING A NOTICE OF INTENT TO REDEEM, NO MORE
+5 THAN TWENTY-FIVE DOLLARS;
+6 (V) FOR PROCESSING AND ISSUING A CERTIFICATE OF REDEMPTION,
+7 THIRTY DOLLARS;
+8 (VI) FOR THE ISSUANCE OF A TREASURER'S DEED, SIXTY DOLLARS;
+9 (VII) FOR PROCESSING A WITHDRAWAL OF AN APPLICATION FOR
+10 TREASURER'S DEED, SEVENTY DOLLARS;
+11 (VIII) FOR PROCESSING AN ADMINISTRATIVE WITHDRAWAL, ONE
+12 HUNDRED DOLLARS;
+13 (IX) FOR PROCESSING A RESCISSION OF PUBLIC AUCTION, ONE
+14 HUNDRED DOLLARS;
+15 (X) FOR RECOMMENCING A PUBLIC AUCTION HELD IN VIOLATION
+16 OF AN AUTOMATIC STAY, ONE HUNDRED DOLLARS;
+17 (XI) FOR RECOMMENCING A PUBLIC AUCTION AFTER A
+18 BANKRUPTCY PROCEEDING WHERE PUBLICATIONS WERE NOT COMPLETE,
+19 ONE HUNDRED FIFTY DOLLARS;
+20 (XII) FOR RECOMMENCING A PUBLIC AUCTION AFTER SET ASIDE,
+21 ONE HUNDRED DOLLARS;
+22 (XIII) FOR ISSUING A CERTIFICATE OF LAWFUL HOLDER
+23 REPURCHASE, SIXTY DOLLARS; AND
+24 (XIV) FOR PROCESSING A PUBLIC AUCTION, IF THE HOLDER OF A
+25 CERTIFICATE OF OPTION FOR A TREASURER'S DEED IS NOT THE LAWFUL
+26 HOLDER, NO MORE THAN THREE HUNDRED DOLLARS.
+27
+-4- 144
+
+1 (b) THE COUNTY TREASURER MAY CHARGE A LESSER FEE THAN IS
+2 SET FORTH IN SUBSECTION (1.7)(a) OF THIS SECTION, WHEN THE
+3 VALUATION FOR ASSESSMENT FOR THE PROPERTY SUBJECT TO PUBLIC
+4 AUCTION, AS DETERMINED AT THE TIME OF RECORDING THE APPLICATION
+5 FOR PUBLIC AUCTION, IS LESS THAN FIVE HUNDRED DOLLARS, OR IF THE
+6 PROPERTY IS A MOBILE HOME, MANUFACTURED HOME, MODULAR HOME, OR
+7 TINY HOME.
+8 (4) (a) ON OR BEFORE DECEMBER 31, 2026, AND BY DECEMBER 31
+9 OF EVERY SECOND YEAR THEREAFTER, THE DIRECTOR OF RESEARCH OF THE
+10 LEGISLATIVE COUNCIL APPOINTED PURSUANT TO SECTION 2-3-304 (1)
+11 SHALL ADJUST THE MAXIMUM DOLLAR AMOUNT OF THE FEES THAT MAY BE
+12 CHARGED BY A COUNTY TREASURER PURSUANT TO SUBSECTIONS (1) AND
+13 (1.7) OF THIS SECTION, EFFECTIVE JANUARY 1, 2027, AND ON JANUARY 1
+14 OF EVERY SECOND YEAR THEREAFTER, IN ACCORDANCE WITH THE
+15 PERCENTAGE CHANGE OVER THE PERIOD IN THE UNITED STATES
+16 DEPARTMENT OF LABOR, BUREAU OF LABOR STATISTICS, CONSUMER PRICE
+17 INDEX, OR A SUCCESSOR INDEX, FOR DENVER-AURORA-LAKEWOOD FOR
+18 ALL ITEMS PAID FOR BY URBAN CONSUMERS AND POST THE ADJUSTED
+19 MAXIMUM ALLOWABLE FEE AMOUNTS, ROUNDED UPWARD TO THE
+20 NEAREST WHOLE DOLLAR, ON THE GENERAL ASSEMBLY'S WEBSITE.
+21 (b) ON JANUARY 1, 2027, AND ON JANUARY 1 OF EVERY SECOND
+22 YEAR THEREAFTER, EACH COUNTY TREASURER SHALL POST THE ADJUSTED
+23 FEE AMOUNTS ESTABLISHED BY THE DIRECTOR OF RESEARCH OF THE
+24 LEGISLATIVE COUNCIL PURSUANT TO SUBSECTION (4)(a) OF THIS SECTION
+25 ON THE COUNTY'S WEBSITE.
+26 SECTION 3. In Colorado Revised Statutes, 30-1-103, amend (3)
+27 as follows:
+-5- 144
+
+1 30-1-103. Fees of county clerk and recorders - report - repeal.
+2 (3) (a) County governments shall be exempt from all fees
+3 authorized to be collected under the provisions of this section whenever
+4 the county or any agency thereof is the grantor or grantee of the document
+5 being recorded or whenever a delegate child support enforcement unit
+6 files or records documents for the purpose of collecting child support,
+7 child support arrears, maintenance, maintenance when combined with
+8 child support, retroactive support, or child support debt.
+9 (b) SURCHARGES ARE NOT APPLICABLE BY THE CLERK AND
+10 RECORDER IF THE DOCUMENT IS EXEMPTED FROM RECORDING OR FILING
+11 FEES.
+12 SECTION 4. In Colorado Revised Statutes, 39-10-114, amend
+13 (2)(b) as follows:
+14 39-10-114. Abatement - cancellation of taxes.
+15 (2) (b) When any real property has been stricken off to a county
+16 by virtue of a tax LIEN sale and there has been no transfer by the county
+17 of a certificate of purchase thereon, the TREASURER MAY DETERMINE THE
+18 taxes on such property may be determined to be ARE uncollectible after
+19 a period of six FIVE years from the date of THE TAXES becoming
+20 delinquent, and they may be canceled by the board of county
+21 commissioners MAY CANCEL THE TAXES. Such The cancellation of the
+22 taxes on a property shall not affect the rights of the county under article
+23 11 of this title TITLE 39 to subsequently transfer any tax sale certificate OF
+24 PURCHASE nor its THE COUNTY'S right to receive a tax TREASURER'S deed
+25 UNDER ARTICLE 11.5 OF THIS TITLE 39 and to exercise its rights thereunder
+26 with respect to such THE property FOR WHICH TAXES ARE CANCELLED BY
+27 THE BOARD OF COUNTY COMMISSIONERS.
+-6- 144
+
+1 SECTION 5. In Colorado Revised Statutes, 30-10-421, add (1.6)
+2 as follows:
+3 30-10-421. Filing surcharge.
+4 (1.6) THE SURCHARGE DESCRIBED IN SUBSECTION (1) OF THIS
+5 SECTION IS NOT APPLICABLE ON ANY DOCUMENT FILED OR RECORDED BY
+6 THE COUNTY CLERK AND RECORDER IF THE DOCUMENT IS EXEMPTED FROM
+7 FEES PURSUANT TO SECTION 30-1-103(1).
+8 SECTION 6. In Colorado Revised Statutes, 39-11-100.3, amend
+9 (1), (2), and (4); and add (2.5), (2.7), and (5) as follows:
+10 39-11-100.3. Definitions.
+11 As used in this article, unless the context otherwise requires:
+12 (1) "Date of sale" means the date on which a public auction begins
+13 TAX LIEN SALE ENDS.
+14 (2) "Electronic funds transfer" means a transfer of funds initiated
+15 by using an electronic terminal, telephonic instrument, or computer or
+16 magnetic tape to order or authorize a financial institution to credit or debit
+17 an account MEANS, INCLUDING AUTOMATED CLEARING HOUSE, CREDIT OR
+18 DEBIT CARD, OR WIRE TRANSFER. "Electronic funds transfer" does not
+19 include a transaction originated by check, draft, or similar paper
+20 instrument.
+21 (2.5) "IMMEDIATE FAMILY" MEANS A SPOUSE, PARENT,
+22 GRANDPARENT, CHILD, GRANDCHILD, OR SIBLING OF AN INDIVIDUAL AND
+23 INCLUDES A SPOUSE OF ANY IMMEDIATE FAMILY MEMBER.
+24 (2.7) "INVESTOR" MEANS AN INDIVIDUAL, BUSINESS ENTITY,
+25 TRUST, OR OTHER ENTITY THAT MAY PURCHASE A TAX LIEN ON PROPERTY
+26 AT A TAX LIEN SALE.
+27 (4) "Public auction" means the sale of lands or town lots under
+-7- 144
+
+1 this article at a venue or through a medium that allows members of the
+2 public to bid and purchase the lands or town lots. "PROPERTY" OR
+3 "PROPERTIES" MEANS LANDS OR TOWN LOTS THAT MAY BE SUBJECT TO A
+4 TAX LIEN, INCLUDING REAL PROPERTY, MANUFACTURED HOMES, MOBILE
+5 HOMES, MODULAR HOMES, TINY HOMES, OR SEVERED MINERALS OR MINING
+6 CLAIMS.
+7 (5) "TAX LIEN SALE" OR "SALE" MEANS A PUBLIC SALE CONDUCTED
+8 BY THE COUNTY TREASURER PURSUANT TO THIS ARTICLE 11 AT WHICH A
+9 TAX LIEN FOR DELINQUENT PROPERTY TAXES IS SOLD AND A CERTIFICATE
+10 OF PURCHASE IS ISSUED TO THE SUCCESSFUL BIDDER.
+11 SECTION 7. In Colorado Revised Statutes, amend 39-11-101 as
+12 follows:
+13 39-11-101. Notice to delinquent owner.
+14 The treasurer shall make a list of all lands and town lots PROPERTY
+15 the tax liens on which are subject to TAX LIEN sale, describing such land
+16 and town lots PROPERTY as the same are IS described on the tax roll.
+17 Except as otherwise provided in section 39-2-117 (1)(a), no later than
+18 September 1 of each year, the treasurer shall send a notice by FIRST CLASS
+19 mail, at TO the person's last-known MAILING address, to each person by
+20 whom taxes for the previous year are known to be due and unpaid. The
+21 notice shall MUST indicate the amount of the person's delinquency and
+22 state that if the amount of the delinquency is not paid by the date
+23 specified in the notice, which shall not be less than fifteen CALENDAR
+24 days from the date of mailing of the notice, the treasurer will advertise
+25 and sell a tax lien on the person's property on the date specified in the
+26 notice at public auction TAX LIEN SALE for the delinquent taxes, interest,
+27 and applicable fees. If such list is not made until after September 1, the
+-8- 144
+
+1 TAX LIEN sale held thereunder shall not be void by reason thereof.
+2 SECTION 8. In Colorado Revised Statutes, 39-11-102, amend
+3 (2); and repeal (3) as follows:
+4 39-11-102. Treasurer to publish and post notice.
+5 (2) The notice of TAX LIEN sale at public auction shall MUST
+6 contain:
+7 (a) A description of the lands and town lots PROPERTIES on which
+8 the tax liens are subject to sale;
+9 (b) The date, time, and place of the tax lien sale, including the
+10 electronic address if the public auction TAX LIEN SALE is conducted by
+11 means of the internet or other electronic medium;
+12 (c) The location of computer workstations that are available to the
+13 public and information about how to obtain instructions on accessing the
+14 public auction TAX LIEN SALE and submitting bids if the public auction
+15 TAX LIEN SALE is conducted by means of the internet or other electronic
+16 medium; and
+17 (d) If the public auction TAX LIEN SALE is conducted by means of
+18 the internet or other electronic medium, a statement that the bidding rules
+19 for the public auction TAX LIEN SALE will be posted on the internet or
+20 other electronic medium used to conduct the public auction TAX LIEN
+21 SALE at least two weeks before the date of sale.
+22 (3) (a) Publication in a newspaper under subsection (1) of this
+23 section is not required for a mobile home if:
+24 (I) A distraint warrant has been delivered to the owner of the
+25 mobile home or to his or her agent in accordance with section
+26 39-10-111.5 (3); and
+27 (II) The county treasurer publishes the notice described in
+-9- 144
+
+1 subsection (2) of this section on the treasurer's website.
+2 (b) For purposes of this section, "mobile home" includes a
+3 manufactured home.
+4 SECTION 9. In Colorado Revised Statutes, 39-11-104, amend
+5 (1) as follows:
+6 39-11-104. Publisher's affidavit - form.
+7 (1) Every publisher or printer who publishes such list and notice,
+8 immediately after the last publication thereof, shall transmit to the
+9 treasurer of the proper county an affidavit of such publication made by
+10 such publisher, printer, or some other person to whom the fact of
+11 publication is known, and no publisher or printer shall MAY be paid for
+12 such publication if he THE PUBLISHER OR PRINTER fails to transmit such
+13 affidavit within fourteen CALENDAR days after the last publication.
+14 SECTION 10. In Colorado Revised Statutes, amend 39-11-106
+15 as follows:
+16 39-11-106. Advertising and tax lien sale fees.
+17 (1) To the amount of delinquent taxes there shall MUST be added
+18 a fee to cover the cost of advertising, as provided in section 30-1-102.
+19 C.R.S. If the public auction TAX LIEN SALE is conducted by means of the
+20 internet or other electronic medium, the treasurer may add a fee to cover
+21 the cost of conducting the public auction TAX LIEN SALE.
+22 (2) The treasurer of each county shall deliver his THE
+23 TREASURER'S list of all lots or tracts of land PROPERTY for which tax liens
+24 are to be advertised for sale to the publisher or printer at least ten
+25 CALENDAR days before the date of the first publication.
+26 SECTION 11. In Colorado Revised Statutes, amend 39-11-107
+27 as follows:
+-10- 144
+
+1 39-11-107. Erroneous assessments - abatement.
+2 It is the duty of the treasurer of each county, before making sale of
+3 tax liens on any lots or land PROPERTY for unpaid taxes, to carefully
+4 examine and compare the delinquent list with the assessment roll and
+5 block books in his THE TREASURER'S office, and to omit from such sale
+6 the tax liens on all lots and lands PROPERTY doubly or erroneously
+7 assessed, insofar as he THE TREASURER is able to ascertain the same, and
+8 to make an itemized report to the board of county commissioners of his
+9 THE county showing such double or erroneous assessment. The board of
+10 county commissioners, on receipt of such itemized report, by resolution
+11 to be entered in its proceedings, shall abate the taxes levied upon such
+12 double or erroneous assessments.
+13 SECTION 12. In Colorado Revised Statutes, amend 39-11-108
+14 as follows:
+15 39-11-108. Manner of conducting tax lien sale - definitions.
+16 (1) On the day designated in the notice of sale, the treasurer shall
+17 commence the public auction SALE of the tax liens on those lands and
+18 town lots PROPERTIES on which the taxes, interest, and fees have not been
+19 paid and shall continue the same from day to day, Saturdays and Sundays
+20 excepted, until the tax liens on each parcel are sold. Where two or more
+21 lots or tracts of land PROPERTIES are valued and assessed as one parcel,
+22 the treasurer shall sell a single tax lien on such land or tract PROPERTIES.
+23 The public auction shall TAX LIEN SALE MUST be held at the treasurer's
+24 office or at another location in the county designated by the treasurer, and
+25 all lands and town lots PROPERTIES offered at the public auction SALE on
+26 the same date of sale shall MUST be offered for public auction SALE at the
+27 same location; except that the public auction SALE may be conducted by
+-11- 144
+
+1 means of the internet or other electronic medium.
+2 (2) A public auction TAX LIEN SALE conducted by means of the
+3 internet or other electronic medium to sell lands and town lots PROPERTY
+4 under this article shall ARTICLE 11 MUST allow members of the public to
+5 submit bids by computer and permit the treasurer to accept bids for as
+6 long as the treasurer deems necessary. The county and its employees
+7 acting in their official capacity in preparing, conducting, and executing
+8 a TAX LIEN sale of lands and town lots PROPERTY under this article
+9 ARTICLE 11 are not liable for the failure of a device that prevents a person
+10 from participating in a sale under this article ARTICLE 11. As used in this
+11 subsection (2), "device" includes, but is not limited to, computer
+12 hardware, a computer network, a computer software application, and an
+13 internet website.
+14 (3) If there is no bid for any tax lien offered, the offering of such
+15 tax lien shall MUST remain open until all the tax liens are offered for sale
+16 and the sale is ended or until the treasurer is satisfied that no more sales
+17 can be effected, whereupon it is the treasurer's duty to strike off to the
+18 county, city, town, or city and county the tax liens on those lands and
+19 town lots PROPERTIES remaining unsold, for the amount of such taxes,
+20 delinquent interest, and fees thereon. When the treasurer strikes off a tax
+21 lien on any tract of land or town lot PROPERTY, the treasurer shall issue to
+22 the county, city, town, or city and county a certificate of purchase. No
+23 taxes levied against any lands PROPERTIES for which a county has
+24 purchased a tax lien under the provisions of this section shall be ARE
+25 payable until the same have been derived by the county from the sale of
+26 a tax lien on such lands PROPERTIES or from the redemption of such lands
+27 PROPERTIES.
+-12- 144
+
+1 SECTION 13. In Colorado Revised Statutes, amend 39-11-109
+2 as follows:
+3 39-11-109. Time of tax lien sale.
+4 The public auction SALE of tax liens on lands PROPERTY upon
+5 which taxes remain delinquent shall MUST commence on or before the
+6 second Monday in December of each year.
+7 SECTION 14. In Colorado Revised Statutes, amend 39-11-110
+8 as follows:
+9 39-11-110. When tax lien sale can be held.
+10 If, from any cause, the tax lien on real property cannot be duly
+11 advertised and offered for sale at public auction on or before the second
+12 Monday of December, it is the duty of the treasurer to SHALL hold the
+13 public auction TAX LIEN SALE on any subsequent day in which it can be
+14 held, allowing time for the publication of notice as provided in section
+15 39-11-102.
+16 SECTION 15. In Colorado Revised Statutes, amend 39-11-111
+17 as follows:
+18 39-11-111. Method of payment.
+19 When the treasurer sells any tax lien on any lands or lots PROPERTY
+20 for delinquent taxes, the treasurer may accept payment of the purchase
+21 price in the form of cash, negotiable paper, BANK CHECK, POST OFFICE
+22 MONEY ORDER, CASHIER'S CHECK, or electronic funds transfer, subject to
+23 the treasurer's bidding rules.
+24 SECTION 16. In Colorado Revised Statutes, amend 39-11-112
+25 as follows:
+26 39-11-112. Erroneous name or assessment in wrong county -
+27 effect.
+-13- 144
+
+1 (1) When tax liens on any lands or town lots PROPERTIES are
+2 offered for sale for any delinquent taxes, it shall IS not be necessary to sell
+3 the same as the property of any person. No sale of any tax lien on any
+4 land or town lots PROPERTY for delinquent taxes shall be IS considered
+5 invalid because charged on the roll in any other name than that of the
+6 rightful owner, or charged as unknown; but the tax lien and such land or
+7 lots PROPERTY in other respects shall MUST be sufficiently described on
+8 the tax roll to identify the same, and the taxes for such land or lots shall
+9 PROPERTY MUST be due and unpaid at the time of such THE TAX LIEN sale.
+10 (2) When any land PROPERTY lying in one county is erroneously
+11 taxed and a tax lien on such land PROPERTY is sold for delinquent taxes
+12 in another county, the county so erroneously taxing and selling a tax lien
+13 on such land PROPERTY for delinquent taxes shall be IS liable to the owner
+14 of such land THE PROPERTY for any expense or damage caused to such
+15 owner by such THE erroneous TAX LIEN sale.
+16 SECTION 17. In Colorado Revised Statutes, amend 39-11-113
+17 as follows:
+18 39-11-113. Abbreviations, letters, and figures may be used.
+19 In all advertisements for the sale of tax liens on real property for
+20 delinquent taxes and in entries required to be made by the assessor,
+21 county clerk and recorder, treasurer, or other officers in lists, books, rolls,
+22 certificates, receipts, deeds, or notices, letters, figures, and abbreviations
+23 may be used to denote townships, ranges, sections, parts of sections, lots,
+24 blocks, dates and amounts of taxes, delinquent interest, and costs.
+25 SECTION 18. In Colorado Revised Statutes, 39-11-114, amend
+26 (1) introductory portion, (1)(b), and (2); and repeal (1)(h), (1)(i), (1)(j),
+27 and (3) as follows:
+-14- 144
+
+1 39-11-114. Record of sales of tax liens on property.
+2 (1) The treasurer shall make a correct record of all sales of tax
+3 liens on real estate PROPERTY for delinquent taxes in a well-bound book
+4 or other permanent record to be kept by the treasurer for that purpose.
+5 Said book shall MUST contain:
+6 (b) The description of each tract of land or town lot for which a
+7 tax lien is sold A DESCRIPTION OF THE PROPERTY ON WHICH THE TAX LIENS
+8 ARE SUBJECT TO SALE;
+9 (h) The name of person redeeming and date of redemption;
+10 (i) The total amount paid for redemption;
+11 (j) The name of person to whom conveyed and date of deed.
+12 (2) The treasurer shall also note in the tax list, opposite the
+13 description of the property for which a tax lien is sold, the fact and date
+14 of such THE TAX LIEN sale.
+15 (3) (a) Upon recordation of the tax sale, the treasurer shall also
+16 make a separate list of all mobile homes for which tax liens are sold at the
+17 sale and file such list with the department of revenue. Such list shall
+18 include the mobile home's identification number, year and make, parcel
+19 number, and all pertinent tax sale information. For maintaining this
+20 recorded tax sale information on mobile homes, the executive director of
+21 the department of revenue may impose a fee of five dollars which shall
+22 become part of the mobile home tax sale redemption cost.
+23 (b) Notwithstanding the amount specified for the fee in this
+24 section, the executive director of the department of revenue by rule or as
+25 otherwise provided by law may reduce the amount of the fee if necessary
+26 pursuant to section 24-75-402 (3), C.R.S., to reduce the uncommitted
+27 reserves of the fund to which all or any portion of the fee is credited.
+-15- 144
+
+1 After the uncommitted reserves of the fund are sufficiently reduced, the
+2 executive director by rule or as otherwise provided by law may increase
+3 the amount of the fee as provided in section 24-75-402 (4), C.R.S.
+4 SECTION 19. In Colorado Revised Statutes, 39-11-115, amend
+5 (1), (2) introductory portion, and (4) as follows:
+6 39-11-115. To whom tax lien shall be sold.
+7 (1) When the taxes levied for the preceding year or years on any
+8 lands PROPERTIES remain unpaid, the tax liens on such lands offered at
+9 public auction PROPERTIES OFFERED AT TAX LIEN SALE at the times
+10 provided by law shall MUST be sold to the persons who pay therefor the
+11 taxes, delinquent interest, and fees then due thereon or who further pay
+12 the largest amount in excess of said taxes, delinquent interest, and fees.
+13 The excess amount shall MUST be credited to the county general fund.
+14 Each tax lien shall MUST be sold for an entire piece of property. The
+15 taxes, delinquent interest, and fees shall draw interest at the rates fixed by
+16 law, and, when the tax liens on any lands PROPERTIES are bid in by the
+17 county, city, town, or city and county, the amount for which they are bid
+18 in shall draw interest at the same rates. Real Property for which a tax lien
+19 is sold may be redeemed in the manner provided by law.
+20 (2) In order that the public auction TAX LIEN SALE may be
+21 conducted in an efficient and equitable manner, the treasurer is hereby
+22 granted broad powers to set bidding rules governing the public auction
+23 TAX LIEN SALE. Such powers shall include, but need not be ARE NOT
+24 limited to, the following:
+25 (4) The treasurer shall announce bidding rules at the beginning of
+26 the public auction TAX LIEN SALE, and the rules announced shall apply to
+27 all bidders throughout the public auction SALE. If the public auction TAX
+-16- 144
+
+1 LIEN SALE is conducted by means of the internet or other electronic
+2 medium, the treasurer shall cause POST the internet bidding rules to be
+3 posted on the medium for at least two weeks before the date of sale. The
+4 internet bidding rules posted shall apply to all bidders throughout the
+5 public auction SALE.
+6 SECTION 20. In Colorado Revised Statutes, amend 39-11-116
+7 as follows:
+8 39-11-116. Procedure when purchaser fails to pay.
+9 If a person bidding fails to pay the amount due, the treasurer may
+10 again offer the tax lien on such land PROPERTY for sale if the public
+11 auction TAX LIEN SALE has not closed, and, if it THE SALE has closed, the
+12 treasurer may again advertise it specially in the same manner as in the
+13 original advertisement and for not less than one week, after which the
+14 treasurer may again offer and sell the tax liens on such lands or lots THE
+15 PROPERTY as provided in section 39-11-115; or at the treasurer's option,
+16 the treasurer may recover the amount bid by civil action brought in the
+17 name of the county in any court of competent jurisdiction. In a public
+18 auction TAX LIEN SALE conducted by means of the internet or other
+19 electronic medium, if a person bidding fails to pay the amount due, the
+20 treasurer may offer the tax lien, without additional advertisement, to
+21 another bidder, whether or not the public auction TAX LIEN SALE has
+22 closed; or at the treasurer's option, the treasurer may recover the amount
+23 bid by civil action brought in the name of the county in any court of
+24 competent jurisdiction. The treasurer may prohibit a person who fails to
+25 pay the amount due from bidding on sales under this article for up to five
+26 years.
+27 SECTION 21. In Colorado Revised Statutes, amend 39-11-117
+-17- 144
+
+1 as follows:
+2 39-11-117. Certificate of purchase.
+3 The treasurer shall prepare, sign, and retain for safekeeping or
+4 deliver to the purchaser of a tax lien on any real property sold for the
+5 payment of delinquent taxes a certificate of purchase describing the
+6 property on which the taxes and fees were paid by the purchaser, as the
+7 same PROPERTY was described in the record of sales, and also stating the
+8 rate of interest and the total amount of all taxes, delinquent interest, and
+9 fees on each tract or lot PROPERTY for which the tax lien was sold, as
+10 described in the record of sales, and that payment thereof has been made,
+11 with columns for subsequent taxes. For each certificate so delivered, the
+12 purchaser shall pay a fee to the treasurer as provided in section 30-1-102.
+13 C.R.S.
+14 SECTION 22. In Colorado Revised Statutes, amend 39-11-119
+15 as follows:
+16 39-11-119. Subsequent payment by holder.
+17 Any person desiring to pay any subsequent taxes on any lands or
+18 town lots PROPERTIES for which such THE person holds the tax certificates
+19 OF PURCHASE shall produce such certificates to the treasurer, or, if
+20 certificates are retained by the treasurer, the TREASURER SHALL NOTIFY
+21 THE person shall be notified by the treasurer of the amount due. Upon
+22 receipt of payment, the treasurer shall record the amount of the
+23 subsequent tax and the date of payment on the permanent record. The
+24 treasurer may receive a fee for such services, as provided in section
+25 30-1-102 (1)(j). C.R.S.
+26 SECTION 23. In Colorado Revised Statutes, amend 39-11-120
+27 as follows:
+-18- 144
+
+1 39-11-120. Certificate of purchase - application for tax lien for
+2 treasurer's deed - lost or wrongfully withheld - county held.
+3 (1) Before July 1, 2024, any time after the expiration of the term
+4 of three years from the date of the sale of any tax lien on any land, or
+5 interest therein or improvements thereon, for delinquent taxes, on demand
+6 of the purchaser or lawful holder of the certificate of such tax lien, other
+7 than the county wherein such property is situated, and on presentation of
+8 such certificate of purchase or properly authenticated order of the board
+9 of county commissioners, where the certificate has been lost or
+10 wrongfully withheld from the owner, and upon proof of compliance with
+11 section 39-11-128, the treasurer shall make out a deed for each such lot,
+12 parcel, interest, or improvement for which a tax lien was sold and which
+13 remains unredeemed and deliver the same to such purchaser or lawful
+14 holder of such certificate or order.
+15 (2) The treasurer shall be entitled to a fee for each such deed made
+16 and acknowledged by him and a fee for the acknowledgment thereof, as
+17 provided in section 30-1-102, C.R.S.
+18 (3) Whenever any certificate given by the treasurer for a tax lien
+19 on any land, interest, or improvement PROPERTY sold for delinquent taxes
+20 is lost or wrongfully withheld from the rightful owner thereof and such
+21 land, interest, or improvement THE PROPERTY has not been redeemed, the
+22 board of county commissioners may receive evidence of such THE loss or
+23 wrongful detention and, upon satisfactory proof of such fact, may cause
+24 a certificate of such proof and finding, properly attested by the county
+25 clerk and recorder under the seal of the county, to be delivered to such
+26 THE rightful claimant, and THE COUNTY CLERK AND RECORDER SHALL
+27 DULY MAKE a record thereof shall be duly made by the county clerk and
+-19- 144
+
+1 recorder in the recorded proceedings of such THE board.
+2 (4) Before July 1, 2024, Whenever any tax lien on any lot or
+3 parcel of land, interest therein, or improvement thereon PROPERTY is bid
+4 in by or for the county, city, town, or city and county at any tax LIEN sale,
+5 and a certificate of purchase is made to such THE county, city, town, or
+6 city and county therefor, the treasurer of such THE county, city, town, or
+7 city and county may sell, assign, and deliver any such THE certificate to
+8 any person who desires to purchase the same upon payment to the
+9 treasurer of the amount for which said tax lien was bid in by the county,
+10 city, town, or city and county with interest and costs accrued thereon from
+11 the date of sale, together with a fee for making such assignment, as
+12 provided in section 30-1-102, and the taxes assessed thereon since the
+13 date of such THE TAX LIEN sale or, in case of a county, city, town, or city
+14 and county, for such THE sum as the board of county commissioners or
+15 other board authorized to perform the duties of a board of county
+16 commissioners at any regular or special meeting may decide and
+17 authorize by order duly entered in the recorded proceedings of such THE
+18 board. Before July 1, 2024, whenever any tax lien on any lot or parcel of
+19 land, interest therein, or improvement thereon is bid in by or for a city,
+20 town, or city and county, as the case may be, such city, town, or city and
+21 county shall be entitled to a deed, as provided for purchasers at tax sales.
+22 SECTION 24. In Colorado Revised Statutes, amend 39-11-122
+23 as follows:
+24 39-11-122. Transfer of certificates of purchase by counties.
+25 Any county in this state having in its possession or under its
+26 control certificates of purchase resulting from the sale of a tax lien on
+27 land PROPERTY for the nonpayment of general taxes may assign, sell, or
+-20- 144
+
+1 transfer such THOSE certificates OF PURCHASE in such manner, at such
+2 times, and on such terms as may be determined by resolution of the board
+3 of county commissioners of such THE county. Thereafter such THE county
+4 shall MUST execute and deliver such THE instruments as may be necessary
+5 TO fully to convey all of the right, title, and interest of the county in or to
+6 such THE certificates but no sale of any certificate of purchase issued
+7 upon any real estate upon which taxes in excess of ten thousand dollars
+8 are then due shall be valid unless and until the sale of said certificate and
+9 the terms of said sale are approved by the administrator after notice of
+10 said proposed sale and the terms thereof have been published in at least
+11 one issue of a newspaper published regularly in the county where said
+12 real estate is located, or if no newspaper is published in said county, then
+13 by posting notice of said proposed sale and the terms thereof at the county
+14 courthouse and two other public places in said county OF PURCHASE.
+15 SECTION 25. In Colorado Revised Statutes, amend 39-11-123
+16 as follows:
+17 39-11-123. Transfer of certificates of purchase - irrigation or
+18 drainage district taxes.
+19 Any county in this state having in its possession or under its
+20 control certificates of purchase resulting from the sale of a tax lien on
+21 land PROPERTY for the nonpayment of irrigation or drainage district taxes
+22 or assessments, by agreement with the board of directors of the district
+23 involved, may assign sell, or transfer such THOSE certificates OF
+24 PURCHASE as provided in section 39-11-122.
+25 SECTION 26. In Colorado Revised Statutes, amend 39-11-125
+26 as follows:
+27 39-11-125. Disposal of certificates of purchase by districts.
+-21- 144
+
+1 Any irrigation or drainage district in this state having in its
+2 possession or under its control certificates of purchase resulting from the
+3 sale of a tax lien on land PROPERTY for the nonpayment of irrigation or
+4 drainage district taxes or assessments may assign, sell, or transfer such
+5 THOSE certificates OF PURCHASE in such manner, at such times, and on
+6 such terms as may be determined by resolution adopted by the board of
+7 directors of such THE district, and thereupon such THE district shall
+8 execute and deliver such instruments as may be necessary TO fully to
+9 convey all of its right, title, and interest in or to such THOSE certificates
+10 OF PURCHASE.
+11 SECTION 27. In Colorado Revised Statutes, amend 39-11-126
+12 as follows:
+13 39-11-126. Agreement with county commissioners.
+14 Any irrigation or drainage district having in its possession or under
+15 its control certificates of purchase resulting from the sale of a tax lien on
+16 land PROPERTY for the nonpayment of general taxes may, by agreement
+17 with the board of county commissioners of the county in which the land
+18 PROPERTY is situated, assign sell, or transfer such THOSE certificates OF
+19 PURCHASE as provided in section 39-11-125.
+20 SECTION 28. In Colorado Revised Statutes, amend 39-11-128
+21 as follows:
+22 39-11-128. Condition precedent to deed - notice.
+23 (1) Before July 1, 2024, Before any purchaser LAWFUL HOLDER OF
+24 A CERTIFICATE OF PURCHASE, or assignee of such purchaser A LAWFUL
+25 HOLDER of a CERTIFICATE OF PURCHASE FOR A tax lien on any land, town
+26 or city lot, or mining claim PROPERTY sold for taxes or special
+27 assessments due either to the state or any county or incorporated town or
+-22- 144
+
+1 city within the same at any sale of tax liens for delinquent taxes levied or
+2 assessments authorized by law is entitled to a deed for the land, lot, or
+3 claim so purchased, he PROPERTY SUBJECT TO THE TAX LIEN, THE LAWFUL
+4 HOLDER OR THE LAWFUL HOLDER'S ASSIGNEE shall make request upon FILE
+5 WITH the treasurer who AN APPLICATION FOR A TREASURER'S DEED. UPON
+6 RECEIPT OF AN APPLICATION FOR A TREASURER'S DEED, THE TREASURER
+7 shall then comply with the following: PROCEDURES SET FORTH IN ARTICLE
+8 11.5 OF THIS TITLE 39.
+9 (a) The treasurer shall serve or cause to be served, by personal
+10 service or by either registered or certified mail, a notice of such purchase
+11 on every person in actual possession or occupancy of such land, lot, or
+12 claim, and also on the person in whose name the same was taxed or
+13 specially assessed if, upon diligent inquiry, such person can be found in
+14 the county or if his residence outside the county is known, and upon all
+15 persons having an interest or title of record in or to the same if, upon
+16 diligent inquiry, the residence of such persons can be determined, not
+17 more than five months nor less than three months before the time of
+18 issuance of such deed. In such notice the treasurer shall state when the
+19 applicant or his assignor purchased the tax lien on such land, lot, or claim,
+20 in whose name such property was taxed, the description of the land, lot,
+21 or claim for which a tax lien was purchased, for what year taxed or
+22 specially assessed, and when the time of redemption will expire or when
+23 the tax deed shall be issued.
+24 (b) In all cases or instances where the valuation for assessment of
+25 the property is five hundred dollars or more, the treasurer shall publish
+26 such notice, three times, at intervals of one week, in some daily, weekly,
+27 or semiweekly newspaper published in such county, not more than five
+-23- 144
+
+1 months nor less than three months before the time at which the tax deed
+2 may issue, and he shall send by registered or certified mail a copy of such
+3 notice to each person not found to be served whose address is known or
+4 can be determined upon diligent inquiry. If no such newspaper is
+5 published in the county, then said notice shall be published in the
+6 newspaper that is published in Colorado nearest the county seat of the
+7 county in which such land, lot, or claim is situated. The purchaser or
+8 assignee, at the time of making such request for notification on the
+9 treasurer, shall pay to the treasurer a fee, as provided in section 30-1-102,
+10 C.R.S. The treasurer shall make and carefully preserve among the files of
+11 his office a record of all things done in compliance with this section and
+12 shall certify to the same.
+13 (2) When request is made for a tax deed to lands situated wholly
+14 within the exterior boundary lines of an irrigation district, the holder of
+15 tax sale certificates of purchase to such lands may include in one request
+16 or demand for a tax deed all contiguous tracts for which he holds such
+17 certificates of purchase. When all of such lands for which a tax deed is so
+18 requested or demanded are unoccupied and no taxes have been paid
+19 thereon, or upon any parcel of such lands embraced in such request or
+20 demand, for five consecutive years prior to the making of such request or
+21 demand, the only notice which the treasurer shall be required to give of
+22 the fact that a request or demand for tax deed has been made upon him
+23 shall be a notice of publication as provided in this section, in which as
+24 many tracts or parcels of land shall be described as are embraced in any
+25 one demand or request for deed.
+26 SECTION 29. In Colorado Revised Statutes, repeal 39-11-129.
+27 SECTION 30. In Colorado Revised Statutes, repeal 39-11-130.
+-24- 144
+
+1 SECTION 31. In Colorado Revised Statutes, repeal 39-11-131.
+2 SECTION 32. In Colorado Revised Statutes, repeal 39-11-133.
+3 SECTION 33. In Colorado Revised Statutes, repeal 39-11-134.
+4 SECTION 34. In Colorado Revised Statutes, repeal 39-11-135.
+5 SECTION 35. In Colorado Revised Statutes, repeal 39-11-136.
+6 SECTION 36. In Colorado Revised Statutes, repeal 39-11-137.
+7 SECTION 37. In Colorado Revised Statutes, amend 39-11-138
+8 as follows:
+9 39-11-138. When successor of treasurer shall act.
+10 If any treasurer dies, resigns, or is removed from office or his THE
+11 TREASURER'S term of office expires after selling any tax liens on any real
+12 estate PROPERTY for delinquent taxes and before executing a certificate
+13 OF PURCHASE, CERTIFICATE OF OPTION FOR TREASURER'S DEED, or
+14 TREASURER'S deed for the same, his THE TREASURER'S successor in office
+15 shall execute such THE certificate OF PURCHASE, CERTIFICATE OF OPTION
+16 FOR TREASURER'S DEED, or deed in the same manner that the treasurer
+17 making such THE TAX LIEN sale might have done.
+18 SECTION 38. In Colorado Revised Statutes, amend 39-11-139
+19 as follows:
+20 39-11-139. Posting list of county-held tax liens and
+21 county-acquired treasurer's deeds.
+22 No later than the fifteenth day of January of each year, each county
+23 treasurer shall deliver to the county clerk and recorder of the county
+24 treasurer's county a list showing all tax certificates theretofore OF
+25 PURCHASE issued and held in the name of the county and a list of all
+26 property the title to which has been acquired by the county through
+27 issuance of a tax TREASURER'S deed FOLLOWING PUBLIC AUCTION IN
+-25- 144
+
+1 ACCORDANCE WITH ARTICLE 11.5 OF THIS TITLE 39. A copy of such lists
+2 shall THE LIST DESCRIBED IN THIS SECTION MUST be posted in a
+3 conspicuous place in the courthouse for not less than thirty days.
+4 SECTION 39. In Colorado Revised Statutes, amend 39-11-140
+5 as follows:
+6 39-11-140. Treasurer's deed recorded - entry.
+7 When any tax TREASURER'S deed is filed for record, the county
+8 clerk and recorder shall also enter the name of the grantee in the proper
+9 column of his THE record of land PROPERTY for which a tax lien was sold
+10 for delinquent taxes.
+11 SECTION 40. In Colorado Revised Statutes, amend 39-11-141
+12 as follows:
+13 39-11-141. Action to determine validity of certificate of
+14 purchase.
+15 Whenever any county or city and county in this state holds tax sale
+16 certificates OF PURCHASE which are believed by the board of county
+17 commissioners to be void for irregularity in the assessment of property or
+18 sale of a tax lien on property or otherwise, the board of county
+19 commissioners of the county or city and county may institute an action in
+20 the district court of the county, under the provisions of article 51 of title
+21 13, C.R.S., to have the matter determined as to whether said THOSE
+22 certificates OF PURCHASE are void. Such THESE actions shall MUST be
+23 brought in the name of the board of county commissioners. Any number
+24 of such certificates OF PURCHASE may be included in one action, and the
+25 fee owners of record of the tax liens on the lands PROPERTY on account
+26 of the sale of which the certificates OF PURCHASE were issued shall MUST
+27 be made defendants in the action. If any defendant is a nonresident of the
+-26- 144
+
+1 state or cannot be found, service of summons may be had upon such THAT
+2 defendant in accordance with the provisions of rule 4 of the Colorado
+3 rules of civil procedure. If the court, by its decree, finds and determines
+4 that any such certificate OF PURCHASE is void, then the tax lien on the real
+5 estate PROPERTY on account of the sale of which such THE certificate OF
+6 PURCHASE was issued shall MUST be resold for taxes at the next
+7 succeeding TAX LIEN sale for delinquent taxes; and if the irregularity on
+8 account of which such THE certificate OF PURCHASE was held void is in
+9 the assessment of the property, then the board of county commissioners
+10 shall direct the assessor to reassess the same CERTIFICATE OF PURCHASE,
+11 and, if the delinquent taxes are not thereafter duly paid pursuant to such
+12 THAT reassessment, the tax lien on such THE property shall MUST likewise
+13 be sold at the next delinquent tax LIEN sale following such THE
+14 reassessment. No appeal shall lie LIES from the final decree of the court
+15 in cases brought under this section. No costs of the action shall MAY be
+16 assessed against any defendant who files a disclaimer or fails to appear
+17 in the action.
+18 SECTION 41. In Colorado Revised Statutes, 39-11-142, amend
+19 (1), (2), (4), (6)(a), (6)(c), (6)(d), (6)(e), and (7); and repeal (3) and (5)
+20 as follows:
+21 39-11-142. Disposition of certificates of purchase held by
+22 counties.
+23 (1) Before July 1, 2024, In cases where a tax lien on real estate
+24 PROPERTY has been struck off to the county at A tax sales LIEN SALE and
+25 the county has held the certificate of sale PURCHASE for three years or
+26 more, the board of county commissioners may apply for PUBLIC AUCTION
+27 FOR TREASURER'S DEED and receive a tax TREASURER'S deed in like THE
+-27- 144
+
+1 SAME manner as is provided by law in the case of delinquent tax sale
+2 certificates OF PURCHASE held by individuals. The board of county
+3 commissioners, whenever the county becomes entitled to a tax deed, may
+4 cause the treasurer to issue, serve, and publish notices, pursuant to law,
+5 of application for such tax deed in like manner as in the case of individual
+6 certificate holders INVESTORS IN ACCORDANCE WITH ARTICLE 11.5 OF THIS
+7 TITLE 39.
+8 (2) Before July 1, 2024, In cases where the county has held the tax
+9 certificate OF PURCHASE for five THREE years or more and such real estate
+10 THE PROPERTY is not located within the limits of any incorporated town
+11 or city within the said county, the county may include in one request or
+12 demand any or all separate parcels of real estate PROPERTY for which it
+13 holds tax sale certificates OF PURCHASE for TAX LIEN sales in any one
+14 year, and the board of county commissioners may apply for PUBLIC
+15 AUCTION FOR TREASURER'S DEED and receive tax TREASURER'S deeds
+16 therefor. Before July 1, 2024, in cases where the county has held the tax
+17 certificate for eight years and in the opinion of the board of county
+18 commissioners such real estate is not used, operated, or maintained
+19 wholly or in part in the interest or for the benefit of the public, said board
+20 shall apply for and receive a tax deed therefor.
+21 (3) Before July 1, 2024, upon making application in the case of
+22 tax certificates held by the counties for five years or more, the treasurer
+23 shall not be required to give the notice that a request or demand for tax
+24 deed has been made upon him provided for in section 39-11-128. The
+25 treasurer, in lieu of such notice, at least sixty days before the day said tax
+26 deed issues, shall give notice by registered or certified mail, addressed to
+27 the last-known residence of the person in whose name the real estate is
+-28- 144
+
+1 assessed for the years during which said taxes have not been paid, that a
+2 tax deed has been applied for on the particular described property and that
+3 said tax deed will issue on a day certain. Before July 1, 2024, the treasurer
+4 shall also post in a public place in the office of the treasurer and on the
+5 treasurer's website, at least sixty days before said deed issues, a notice
+6 stating that a deed will be issued to the county on the real estate described
+7 in said notice. Said notice shall contain the name of the person to whom
+8 the property is assessed together with the date said tax deed will issue.
+9 (4) In all cases, the owner of the property shall MUST have the
+10 right of redemption of the property as provided by law.
+11 (5) Any tax deed, when issued to the county, shall be duly
+12 recorded, but no fee shall be required to be paid therefor. Thereafter, the
+13 board of county commissioners shall list such property for sale and post
+14 such list in the county courthouse and, out of the county general fund,
+15 may make such essential repairs thereon and pay such premiums for fire
+16 insurance as are necessary for the protection and preservation of any
+17 improvements on such property. The board of county commissioners,
+18 after a county has acquired such tax deed, in its discretion, may institute
+19 and prosecute suits to quiet the title to any such real estate so acquired
+20 under such tax deeds.
+21 (6) (a) Before July 1, 2024, In all cases where a tax lien on real
+22 property has been struck off to the county at a tax LIEN sale and the
+23 county has held the certificate of sale PURCHASE for thirty FIVE years or
+24 more without obtaining a tax TREASURER'S deed as provided in this
+25 section AND ARTICLE 11.5 OF THIS TITLE 39, then such THE TREASURER
+26 SHALL DECLARE THE certificate OF PURCHASE may be declared void and
+27 of no effect.
+-29- 144
+
+1 (c) Before July 1, 2024, Upon being presented with such THE list
+2 OF TAX LIENS, the board of county commissioners shall determine that the
+3 tax liens were struck off to the county, that such THE certificates of sale
+4 PURCHASE relating thereto have been held by the county for thirty FIVE
+5 years or more, and that no tax TREASURER'S deed has been obtained or
+6 applied for as provided in this section AND ARTICLE 11.5 OF THIS TITLE 39.
+7 Upon making such THAT determination, the board of county
+8 commissioners may declare that such THE certificates OF PURCHASE are
+9 void, and an order to that effect shall MUST be duly entered in the
+10 recorded proceedings of the board, which order shall MUST direct the
+11 treasurer to cancel such certificates of sale PURCHASE.
+12 (d) Upon receipt of an order OR RESOLUTION of the board of
+13 county commissioners declaring that any certificates of sale PURCHASE
+14 are void, the treasurer shall record said THAT order OR RESOLUTION in his
+15 THE PUBLIC records and shall cancel all such certificates OF PURCHASE
+16 specified in said THAT order.
+17 (e) Any action concerning a determination and declaration by a
+18 board of county commissioners made pursuant to this subsection (6) shall
+19 MUST be commenced within one year after the date of the board's order,
+20 or said action shall be forever barred.
+21 (7) It is the duty of The treasurer SHALL at least once each year to
+22 prepare and present, at any regular or special meeting of the board of
+23 county commissioners, a list of all tax liens on all real property struck off
+24 to the county and all certificates of sale PURCHASE relating thereto, which
+25 certificates OF PURCHASE have been held by the county for three years or
+26 more without obtaining a TREASURER'S deed or being otherwise disposed
+27 of under this article 11 or article 11.5 of this title 39.
+-30- 144
+
+1 SECTION 42. In Colorado Revised Statutes, 39-11-143, amend
+2 (1), (2), (2.5), (3), (4), and (6) as follows:
+3 39-11-143. Appraisal - county may retain, lease, or sell -
+4 definitions.
+5 (1) Whenever real property is conveyed by a treasurer to the
+6 county by tax TREASURER'S deed under section 39-11-142 ARTICLE 11.5
+7 OF THIS TITLE 39, the assessor shall annually value the same in the manner
+8 prescribed by law for taxable property and shall notify the board of
+9 county commissioners of such valuation.
+10 (2) The board of county commissioners has the power to retain for
+11 public projects, rent, lease, or sell such real property as provided in this
+12 section.
+13 (2.5) If the board of county commissioners retains such real
+14 property for a present or future public project, as defined in section
+15 30-20-301 (2), C.R.S., it shall pass a resolution describing the project for
+16 which the property is retained. The board of county commissioners may
+17 rent or lease any lot or parcel PROPERTY retained for a present or future
+18 public project in accordance with subsection (3) of this section. For
+19 purposes of this section, using property to generate revenue for the county
+20 is not a public project.
+21 (3) The board of county commissioners may lease such real
+22 property to an affiliated entity, but no lease shall be for a period
+23 exceeding five years. For purposes of this subsection (3), "affiliated
+24 entity" means a nonprofit entity with which the county enters into a
+25 contract for the delivery of goods or services to the county or to third
+26 parties on behalf of the county.
+27 (4) (a) Any such real property that is not retained or leased in
+-31- 144
+
+1 accordance with subsection (2.5) or (3) of this section shall MUST be sold
+2 at public sale by the board of county commissioners within one year after
+3 the property is conveyed to the county; except that the board of county
+4 commissioners may reject any bid that is less than the value of the
+5 property as determined by the assessor. Prior to offering such THE
+6 property for sale, the board of county commissioners shall obtain from the
+7 assessor a certificate as to the current actual value and the valuation for
+8 assessment of the same PROPERTY. A notice of such sale shall MUST be
+9 posted in a public place in the county courthouse at least thirty days
+10 before the date of sale, and such THE notice of sale shall MUST also be
+11 advertised in two issues of a newspaper of general circulation in the
+12 county in which the property is situated, said newspaper notices to MUST
+13 appear one week apart and within the thirty days as above provided. Such
+14 THE notice shall MUST reserve the right upon the part of the board of
+15 county commissioners to reject any bid that is less than the value
+16 determined by the assessor. Said THE notice shall MUST be substantially
+17 in the following form:
+18 NOTICE
+19 Public notice is hereby given that the following real property
+20 acquired by the County of .............., Colorado, by tax TREASURER'S deed,
+21 to wit:
+22 (description of property)
+23 will, according to law, be offered at public sale at the county courthouse,
+24 .............., Colorado, on the .............. day of .............., 20...., at the hour of
+25 .... to the highest and best bidder. The board of county commissioners
+26 reserves the right to reject any bid that is less than the current actual value
+27 fixed by the county assessor.
+-32- 144
+
+1 ..............................................
+2 County Clerk and Recorder.
+3 (a.5) The notice of sale posted pursuant to paragraph (a) of this
+4 subsection (4) shall SUBSECTION (4)(a) OF THIS SECTION MUST contain a
+5 statement substantially in the following form: "If this property is at least
+6 fifty years old, it may be eligible for inclusion in the state register of
+7 historic properties or designation as a landmark. Such THIS property may
+8 be eligible for certain rehabilitation grants and incentives."
+9 (b) Such real THE property shall MUST be sold at public sale for
+10 the highest and best bid for any lots or parcels PROPERTY, as determined
+11 in the discretion of the board of county commissioners; except that the
+12 board of county commissioners may reject any bid that is less than the
+13 value of the property as determined by the assessor. Such real THE
+14 property may be sold in such lots or parcels and upon such terms of
+15 payment as the board of county commissioners deems acceptable, but no
+16 deed shall MAY be issued until the purchaser has made payment in full.
+17 Upon written application of any person, the board of county
+18 commissioners shall offer for sale the property requested by such THE
+19 person to be sold; except that no parcel shall PROPERTY MAY be divided
+20 for the purpose of such THE requested sale unless the board of county
+21 commissioners specifically permits such THE division. The board of
+22 county commissioners may, prior to the sale of any lot or parcel
+23 PROPERTY, reserve or grant streets, alleys, or roads or utilities or other
+24 easements, public or private, under such terms and conditions as it may
+25 deem advisable.
+26 (6) The foregoing provisions of This section shall DOES not apply
+27 to any city and county having a population of more than three hundred
+-33- 144
+
+1 thousand. Sales and leases by such city and county shall MUST be made
+2 in compliance with the applicable provisions of its charter or ordinances.
+3 All sales and leases made before August 1, 1964, by such city and county
+4 of any real estate acquired by it under tax deeds, whether made or
+5 authorized by the board of county commissioners, the mayor of said city
+6 and county, or in purported compliance with its charter or ordinances, are
+7 deemed valid, and such sales and leases are hereby confirmed. All actions
+8 or proceedings to set aside or question the validity of such sales or leases
+9 made before August 1, 1964, by such city and county shall be brought
+10 within six months from said date and not thereafter. This subsection (6)
+11 shall not reinstate any such action or proceeding barred by law before
+12 August 1, 1964.
+13 SECTION 43. In Colorado Revised Statutes, amend 39-11-144
+14 as follows:
+15 39-11-144. County property, prior sales validated.
+16 All sales of such real estate PROPERTY made by the board of county
+17 commissioners of any county shall MUST be deemed valid, and such
+18 THESE sales are hereby confirmed if such sales THEY were made at either
+19 public or private sale whether AND made by deed issued by the treasurer
+20 upon direction of the board of county commissioners or by deed issued by
+21 a duly appointed commissioner to convey upon direction of the board of
+22 county commissioners.
+23 SECTION 44. In Colorado Revised Statutes, amend 39-11-145
+24 as follows:
+25 39-11-145. Proceeds of sales.
+26 All net proceeds from the sale, lease, or other disposition of such
+27 real estate PROPERTY so conveyed to the county by the treasurer shall
+-34- 144
+
+1 COMMISSIONER MUST be paid to the treasurer of such THE county, and the
+2 treasurer shall distribute said THE proceeds to the various taxing
+3 jurisdictions in which such real estate THE PROPERTY is situated in the
+4 same proportion that the ad valorem taxes levied by each taxing
+5 jurisdiction in the preceding calendar year bears to the total of all ad
+6 valorem taxes levied on such real estate THE PROPERTY in the preceding
+7 calendar year.
+8 SECTION 45. In Colorado Revised Statutes, amend 39-11-146
+9 as follows:
+10 39-11-146. Lien of special assessment not affected.
+11 Nothing in sections 39-11-143 to 39-11-145 shall be construed to
+12 affect AFFECTS in any manner or degree whatsoever the lien of any special
+13 assessment to which such real estate PROPERTY and the conveyance
+14 thereof by the treasurer is subject under law.
+15 SECTION 46. In Colorado Revised Statutes, amend 39-11-147
+16 as follows:
+17 39-11-147. Treasurer to report payments.
+18 A complete report of all payments made to and accepted by the
+19 treasurer under sections 39-11-142, 39-11-143, and 39-11-145 shall MUST
+20 be made, by him, a copy of which shall MUST be sent to the board of
+21 county commissioners of his THE county, to the administrator, and to the
+22 controller at the end of each month.
+23 SECTION 47. In Colorado Revised Statutes, amend 39-11-148
+24 as follows:
+25 39-11-148. Limitations on certificates of purchase - special
+26 improvement liens.
+27 (1) No lien upon real property created by a tax certificate or a
+-35- 144
+
+1 certificate of purchase issued by a treasurer on account of any delinquent
+2 property taxes or any special assessment of any kind or nature shall MAY
+3 remain a lien thereon for a period longer than fifteen FIVE years after the
+4 original issuance thereof, except as provided in subsection (3) of this
+5 section. This section shall DOES not apply to any tax certificate or
+6 certificate of purchase issued to and held by the county, city, city and
+7 county, or district levying such THE tax or special assessment; except that,
+8 in the event of an assignment of such tax certificate or THE certificate of
+9 purchase so issued to and held by such THE county, city, city and county,
+10 or district, the lien of such tax certificate or THE certificate of purchase
+11 shall MUST cease fifteen FIVE years after the date of its issuance subject
+12 only to the provisions of subsection (3) of this section.
+13 (2) No treasurer's deed shall MAY issue on AFTER PUBLIC AUCTION
+14 IN CONNECTION WITH any tax LIEN sale evidenced by tax certificate or
+15 certificate of purchase where such tax certificate or THE certificate of
+16 purchase has ceased to be a lien pursuant to the provisions of this section
+17 and application for such PUBLIC AUCTION FOR THE treasurer's deed is not
+18 pending at the time of the expiration of the limitation period provided for
+19 in this section.
+20 (3) In the event of an assignment of a tax certificate or certificate
+21 of purchase held by a county, city, city and county, or district levying
+22 such tax wherein such certificate THAT is fifteen FIVE years old at the time
+23 of assignment or will become fifteen FIVE years old within one year from
+24 the date of such assignment, the assignee thereof shall be IS entitled to a
+25 tax TREASURER'S deed in the manner provided by law if such THE
+26 assignee or other legal holder of such THE certificate institutes
+27 proceedings to procure a tax TREASURER'S deed by making a demand
+-36- 144
+
+1 upon FILING AN APPLICATION FOR PUBLIC AUCTION FOR TREASURER'S DEED
+2 WITH the treasurer for THE same, as provided by law IN ARTICLE 11.5 OF
+3 THIS TITLE 39, within one year from the date of such THE assignment. by
+4 the county, city, city and county, or district levying such tax.
+5 (4) Whenever a lien created by a tax certificate OF PURCHASE has
+6 expired, by reason of the provisions of this section, the treasurer shall
+7 immediately issue a certificate of cancellation describing the real estate
+8 PROPERTY included in the certificate of purchase or tax certificate and
+9 giving the date of cancellation, and he shall also make proper entries in
+10 the book of sales in his THE TREASURER'S office as follows: "Canceled by
+11 provision of section 39-11-148, C.R.S.", with the date of such THE entry.
+12 He THE TREASURER shall also present every such certificate of
+13 cancellation to the county clerk and recorder who shall enter the same in
+14 the record of land PROPERTY for which a tax lien was sold for delinquent
+15 taxes and endorse the date of entry on the certificate of cancellation and
+16 file the same, and such THE certificate and the record thereof shall MUST
+17 be prima facie evidence of the cancellation of the certificate of purchase
+18 or tax certificate and of the release of the lien of such THE certificate on
+19 the lands therein PROPERTY described THEREIN. IF A TAX LIEN WAS SOLD,
+20 IN WHOLE OR IN PART, DUE TO A DELINQUENT SPECIAL ASSESSMENT, THE
+21 TREASURER SHALL NOTIFY THE GOVERNMENTAL ENTITY IMPOSING THE
+22 SPECIAL ASSESSMENT OF THE CANCELLATION OF THE LIEN. Failure to
+23 record such THE certificate of cancellation shall MUST not extend the lien
+24 created by the certificate of purchase. or tax certificate. The treasurer and
+25 county clerk and recorder shall ARE not be entitled to any fees OR
+26 SURCHARGES for the issuing of such A certificate of cancellation nor for
+27 the OR MAKING entries in their books made under the provisions of this
+-37- 144
+
+1 subsection (4).
+2 (5) Whenever a lien created pursuant to a tax certificate OF
+3 PURCHASE becomes unenforceable pursuant to section 31-25-1119,
+4 C.R.S., the treasurer shall immediately issue a certificate of cancellation
+5 describing the real estate PROPERTY included in the certificate of purchase
+6 or tax certificate indicating thereon the date of cancellation and shall
+7 make the appropriate entries in the book of sales in his THE TREASURER'S
+8 office, as follows: "Canceled by provision of sections 31-25-1119 and
+9 39-11-148, C.R.S.", with the date of such THE entry. He THE TREASURER
+10 shall MAY present every such certificate of cancellation to the county
+11 clerk and recorder who shall enter the same in the record of land
+12 PROPERTY for which a tax lien was sold for delinquent taxes and endorse
+13 the date of entry on the said certificate of cancellation and file the same,
+14 and such THE certificate and the record thereof shall be IS prima facie
+15 evidence of the cancellation of the certificate of purchase or tax
+16 certificate and of the release of the lien of such THE certificate on the
+17 lands PROPERTY therein described. Failure to record such THE certificate
+18 of cancellation shall DOES not extend the lien created by the certificate of
+19 purchase. or tax certificate. The treasurer and county clerk and recorder
+20 shall ARE not be entitled to any fees for the issuing and recording of such
+21 A certificate of cancellation nor OR for the MAKING entries in their books
+22 made under the provisions of this subsection (5).
+23 SECTION 48. In Colorado Revised Statutes, amend 39-11-149
+24 as follows:
+25 39-11-149. Sales en masse valid.
+26 If two or more noncontiguous lots, tracts of land, or mining claims
+27 PROPERTIES or portions thereof have not been separately valued and
+-38- 144
+
+1 assessed or, having been separately valued and assessed, whether having
+2 a common ownership or not, have had tax liens thereof sold en masse for
+3 a gross sum for the nonpayment of taxes and charges, thereon, then, after
+4 seven years from the date of any such TAX LIEN sale, such THE assessment
+5 and TAX LIEN sale and any tax sale certificate OF PURCHASE issued thereon
+6 shall MUST be deemed valid and legal and shall be so considered SO in all
+7 actions, suits, or proceedings in which is involved the validity of any such
+8 assessment, TAX LIEN sale, tax sale certificate OF PURCHASE, or treasurer's
+9 deed issued thereon. There is excepted from this section any such action,
+10 suit, or proceeding pending on August 1, 1964, wherein any party thereto
+11 has or may assert the invalidity of any such assessment, sale, tax sale
+12 certificate, or treasurer's deed. IN ACCORDANCE WITH ARTICLE 11.5 OF
+13 THIS TITLE 39. Nothing in this section shall be construed to alter, amend,
+14 or repeal ALTERS, AMENDS, OR REPEALS section 39-11-148.
+15 SECTION 49. In Colorado Revised Statutes, amend 39-11-150
+16 as follows:
+17 39-11-150. Sales of tax liens on severed mineral interests.
+18 Sales of tax liens for delinquent taxes due on severed mineral
+19 interests shall MUST take place at the same place and time and under the
+20 same circumstances as in this article ARTICLE 11, but, where the surface
+21 estate ownership is coterminous with the severed mineral interest, the
+22 owner of the surface estate shall have HAS the right of first refusal to
+23 purchase the tax lien on the severed mineral interest, and the surface
+24 owner shall MUST be allowed to pay all delinquent taxes due and owing
+25 for the severed mineral interest in lieu of the proceeds that would be
+26 collected from a tax sale of a tax lien on the severed mineral interest. The
+27 treasurer shall notify the surface owner, by mail, at his THE OWNER'S
+-39- 144
+
+1 last-known MAILING address, of his THE right of refusal at least ten days
+2 prior to the sale of a tax lien on the severed mineral interest. The surface
+3 owner shall have HAS until two BUSINESS days prior to the TAX LIEN sale
+4 to exercise the right of first refusal. If the surface owner does not exercise
+5 his THE right of first refusal, the tax lien on such severed mineral interest
+6 shall be IS sold. No action for the recovery of a severed mineral interest
+7 for which a tax deed CERTIFICATE OF PURCHASE was issued under the
+8 provisions of this article shall lie ARTICLE 11 LIES unless brought within
+9 the same time period as that limiting actions for the recovery of land
+10 PROPERTY pursuant to section 39-12-101.
+11 SECTION 50. In Colorado Revised Statutes, 39-11-151, amend
+12 (1)(b), (2), and (3); repeal (1)(a); and add (4) as follows:
+13 39-11-151. County officials and employees may not acquire a
+14 tax lien by tax lien sale.
+15 (1) (a) No property for which a tax lien is sold for delinquent taxes
+16 under this article shall be conveyed to an elected or appointed county
+17 official, to a county employee, or to a member of the immediate family of
+18 any such person or to the agent of any such county official or employee,
+19 if the tax lien on such property is sold during the time the official or
+20 employee holds office or is employed.
+21 (b) No tax lien SOLD FOR DELINQUENT TAXES ON A PROPERTY
+22 PURSUANT TO THIS ARTICLE 11 shall MAY be sold to an elected or
+23 appointed county official, to a county employee, or to a member of the
+24 immediate family of such person or to the agent of any such county
+25 official or employee during the time the official or employee holds office
+26 or is employed.
+27 (2) The purchase of any tax lien or the conveyance of any property
+-40- 144
+
+1 by tax deed pursuant to this article is exempt from the provisions of this
+2 section under the following circumstances:
+3 (a) If the property to be conveyed was owned by the county
+4 official or county employee, or by a member of the immediate family of
+5 any such person, immediately prior to the sale of a tax lien on such THE
+6 property for delinquent taxes;
+7 (b) If such THE property is situated within a county other than the
+8 county to which such THE county official or employee is elected,
+9 appointed, or employed; or
+10 (c) If the property to be conveyed is a severed mineral interest
+11 and, at the time of the conveyance SALE, the county official or county
+12 employee is the owner of the surface estate which is coterminous with the
+13 severed mineral interest; OR
+14 (d) IF THE COUNTY OFFICIAL OR EMPLOYEE HAD A LEGAL INTEREST
+15 IN THE PROPERTY PRIOR TO A TAX LIEN SALE ON THE PROPERTY FOR
+16 DELINQUENT TAXES.
+17 (3) Any county official, county employee, or member of the
+18 immediate family of any such person, or the agent of any such county
+19 official or employee, who knowingly purchases any tax lien or receives
+20 a conveyance of property in violation of the provisions of this section
+21 commits a class 2 misdemeanor and shall MUST be punished as provided
+22 in section 18-1.3-501.
+23 (4) THE PURCHASE OF ANY CERTIFICATE OF OPTION FOR
+24 TREASURER'S DEED OR THE CONVEYANCE OF ANY PROPERTY BY
+25 TREASURER'S DEED PURSUANT TO ARTICLE 11.5 OF THIS TITLE 39 IS
+26 EXEMPT FROM THE PROVISIONS OF THIS SECTION.
+27 SECTION 51. In Colorado Revised Statutes, amend 39-11-152
+-41- 144
+
+1 as follows:
+2 39-11-152. Combined sale of delinquent tax liens and special
+3 assessment liens.
+4 Whenever provision is made in this article for the sale of a tax lien
+5 on property, such sale shall MUST include the sale of any lien for
+6 delinquent special assessments on such property which have been
+7 certified to the county treasurer for collection. The separate sale of liens
+8 for delinquent general taxes and for delinquent special assessments on
+9 property is hereby prohibited.
+10 SECTION 52. In Colorado Revised Statutes, repeal 39-12-101
+11 as follows:
+12 39-12-101. Limitation of actions for recovery of land.
+13 No action for the recovery of land for which a tax deed was issued
+14 under the provisions of article 11 of this title for delinquent taxes shall lie
+15 unless the same is brought within five years after the execution and
+16 delivery of the deed therefor by the treasurer, any laws to the contrary
+17 notwithstanding; except that, when any owner of such land, for which a
+18 tax deed has been issued, at the time of the execution and delivery of the
+19 deed by the treasurer is under legal disability, it shall be lawful for him to
+20 bring a suit or action for the recovery of the land within the period during
+21 which he has the right to make redemption of such land from the tax sale
+22 upon which the deed is based. When a recovery of any of such land is
+23 effected in any suit, action, or proceeding, the value of all improvements
+24 made in good faith on such lands, and all sums paid for the tax lien on
+25 said land and for improvements, and all costs incident to the issuance and
+26 recording of the treasurer's deed, and all taxes and assessments paid
+27 thereon after the sale of the tax lien thereof, including the redemption
+-42- 144
+
+1 value of all tax sale certificates redeemed, held, or surrendered for
+2 redemption by the grantee in such treasurer's deed or his heirs or assigns,
+3 shall be ascertained by the court or jury trying the action for recovery and
+4 shall be paid, together with interest thereon at the rate of twelve percent
+5 per annum, by the person recovering said land to the persons entitled
+6 thereto, and the payment of such sum shall be a condition precedent to the
+7 entry of judgment or decree in such suit, action, or proceeding. All such
+8 treasurer's deeds executed by the treasurer purporting to convey lands and
+9 improvements thereon for all purposes shall be deemed to be color of title
+10 from and after the time the same is recorded in the office of the county
+11 clerk and recorder for the county in which said lands are located. The
+12 term "improvements" includes sums and amounts of money expended
+13 thereon in good faith by the grantee and his successors and assigns in
+14 search of minerals and oil, as well as other expenditures for the
+15 improvements of such lands which add to the cost and value thereof.
+16 SECTION 53. In Colorado Revised Statutes, recreate and
+17 reenact, with amendments, article 11.5 of title 39 as follows:
+18 ARTICLE 11.5
+19 Issuance of Treasurer's Deeds
+20 PART 1
+21 PUBLIC AUCTION
+22 39-11.5-101. Definitions.
+23 AS USED IN THIS ARTICLE 11.5, UNLESS THE CONTEXT OTHERWISE
+24 REQUIRES:
+25 (1) "APPLICATION FOR TREASURER'S DEED" MEANS AN
+26 APPLICATION FROM A LAWFUL HOLDER PURSUANT TO SECTION 39-11.5-102
+27 RELATED TO A TAX LIEN UNDER THIS ARTICLE 11.5.
+-43- 144
+
+1 (2) "BUSINESS DAY" MEANS ANY DAY THE TREASURER'S OFFICE IS
+2 OPEN TO THE PUBLIC FOR CONDUCTING OFFICIAL BUSINESS. BUSINESS DAYS
+3 DO NOT INCLUDE WEEKENDS, COLORADO LEGAL HOLIDAYS, OR ANY DAY
+4 THE OFFICE IS CLOSED PURSUANT TO COUNTY POLICY OR EMERGENCY
+5 ORDER.
+6 (3) "CERTIFICATE OF OPTION FOR A TREASURER'S DEED" MEANS A
+7 CERTIFICATE ISSUED BY A TREASURER PURSUANT TO SECTION
+8 39-11.5-401.
+9 (4) "CERTIFICATE OF PURCHASE" MEANS A CERTIFICATE OF
+10 PURCHASE PREPARED BY A TREASURER FOR THE PURCHASER OF A TAX LIEN
+11 IN ACCORDANCE WITH SECTION 39-11-117.
+12 (5) "CERTIFICATE OF REDEMPTION" MEANS A CERTIFICATE OF
+13 REDEMPTION PREPARED BY A TREASURER AFTER PROPERTY SUBJECT TO A
+14 TAX LIEN SALE IS REDEEMED PRIOR TO PUBLIC AUCTION IN ACCORDANCE
+15 WITH SECTION 39-11.5-106.
+16 (6) "CERTIFICATE OF REPURCHASE" MEANS A CERTIFICATE OF
+17 REPURCHASE PREPARED BY A TREASURER WHEN A LAWFUL HOLDER
+18 REPURCHASES A CERTIFICATE OF OPTION FOR A TREASURER'S DEED AFTER
+19 THE PUBLIC AUCTION IN ACCORDANCE WITH SECTION 39-11.5-402.
+20 (7) "CLAIM FOR OVERBID MONEY" MEANS A CLAIM FOR OVERBID
+21 MONEY FORM AS SPECIFIED IN SECTION 39-11.5-303.
+22 (8) "FEES AND COSTS" MEANS ALL FEES PURSUANT TO SECTION
+23 30-1-102 AND ALL CHARGES, EXPENSES, AND COSTS DESCRIBED IN SECTION
+24 39-11.5-108.
+25 (9) "INVESTOR" HAS THE MEANING SET FORTH IN SECTION
+26 39-11-100.3 (2.7).
+27 (10) "JUNIOR LIEN" MEANS A LIEN OR ENCUMBRANCE UPON THE
+-44- 144
+
+1 PROPERTY FOR WHICH THE AMOUNT DUE AND OWING THEREUNDER IS
+2 SUBORDINATE TO THE TAX LIEN THAT WAS DULY RECORDED IN THE OFFICE
+3 OF THE COUNTY CLERK AND RECORDER PRIOR TO THE RECORDING OF THE
+4 APPLICATION FOR PUBLIC AUCTION FOR TREASURER'S DEED.
+5 (11) "JUNIOR LIENOR" MEANS A PERSON WHO IS A BENEFICIARY,
+6 HOLDER, OR GRANTEE OF A JUNIOR LIEN OR THAT PERSON'S ASSIGNEE OR
+7 ATTORNEY.
+8 (12) "LAWFUL HOLDER" MEANS A PERSON IN POSSESSION OF A
+9 CERTIFICATE OF PURCHASE FOR A TAX LIEN ISSUED IN ACCORDANCE WITH
+10 ARTICLE 11 OF THIS TITLE 39, OR THE ASSIGNEE, TRANSFEREE, OR
+11 ATTORNEY FOR SUCH HOLDER.
+12 (13) "MAILING LIST" MEANS A MAILING LIST ASSEMBLED BY THE
+13 TREASURER PURSUANT TO SECTION 39-11.5-105.
+14 (14) "NONMATERIAL MISSTATEMENT" MEANS A MINOR OR
+15 INCONSEQUENTIAL ERROR OR OMISSION THAT DOES NOT SIGNIFICANTLY
+16 AFFECT THE MEANING, VALIDITY, OR ENFORCEABILITY OF A DOCUMENT OR
+17 OTHER RECORD CONTAINING THE NONMATERIAL MISSTATEMENT.
+18 (15) "NOTICE OF PUBLIC AUCTION" MEANS A NOTICE OF PUBLIC
+19 AUCTION CREATED AND SENT BY THE TREASURER IN ACCORDANCE WITH
+20 SECTION 39-11.5-104.
+21 (16) "OVERBID" MEANS THE AMOUNT OF MONEY A PROPERTY IS
+22 SOLD FOR AT A PUBLIC AUCTION IN EXCESS OF THE TOTAL PROPERTY TAX
+23 DEBT AMOUNT, INCLUDING THE AMOUNT OF MONEY OWED TO THE LAWFUL
+24 HOLDER OF THE CERTIFICATE OF PURCHASE AND THE FEES AND COSTS
+25 INCURRED BY THE TREASURER IN COMPLYING WITH THIS ARTICLE 11.5.
+26 (17) "POSTING" MEANS PLACEMENT OF THE NOTICE OF PUBLIC
+27 AUCTION THAT MEETS THE REQUIREMENTS SET FORTH IN SECTION
+-45- 144
+
+1 39-11.5-105 (4), IN A CONSPICUOUS LOCATION ON THE PROPERTY.
+2 (18) "PROPERTY" MEANS A PROPERTY SUBJECT TO A TAX LIEN, THE
+3 CERTIFICATE OF PURCHASE FOR WHICH IS HELD BY THE LAWFUL HOLDER.
+4 (19) "PROPERTY OWNER", "CURRENT OWNER", OR "OWNER" MEANS
+5 A PERSON THAT CURRENTLY HOLDS TITLE TO, OR HAS A RECORDED
+6 CONTRACTUAL RIGHT TO PURCHASE, THE PROPERTY THAT IS SUBJECT TO
+7 A TAX LIEN.
+8 (20) "PUBLIC AUCTION" OR "AUCTION" MEANS A PUBLIC SALE
+9 CONDUCTED BY THE TREASURER PURSUANT TO THIS ARTICLE 11.5.
+10 (21) "PUBLISH", "PUBLICATION", "REPUBLISH", OR
+11 "REPUBLICATION" MEANS PLACEMENT BY A TREASURER OF A LEGAL
+12 NOTICE THAT MEETS THE REQUIREMENTS SET FORTH IN SECTION
+13 24-70-103, CONTAINING A NOTICE OF PUBLIC AUCTION, OMITTING THE
+14 COPIES OF THE STATUTES, IN A NEWSPAPER SELECTED BY THE TREASURER
+15 THAT IS IN THE COUNTY OR COUNTIES WHERE THE PROPERTY TO BE
+16 AUCTIONED IS LOCATED.
+17 (22) "PURCHASER" MEANS A PERSON TO WHOM THE TREASURER
+18 AWARDS THE CERTIFICATE OF OPTION FOR A TREASURER'S DEED AS THE
+19 WINNING BIDDER AT THE PUBLIC AUCTION WHO TIMELY SUBMITS PROPER
+20 FUNDS, OR, IF NO VALID BIDS ARE RECEIVED AT THE PUBLIC AUCTION, THE
+21 LAWFUL HOLDER WHO DOES NOT FILE A WITHDRAWAL OF THE APPLICATION
+22 FOR PUBLIC AUCTION FOR TREASURER'S DEED PURSUANT TO SECTION
+23 39-11.5-401.
+24 (23) "REDEMPTION STATEMENT" MEANS A STATEMENT PROVIDED
+25 TO THE PROPERTY OWNER BY THE TREASURER AS DESCRIBED IN SECTION
+26 39-11.5-106 (2).
+27 (24) "SURFACE OWNER" MEANS A PERSON OR ENTITY THAT HOLDS
+-46- 144
+
+1 TITLE TO, OR A RECORDED CONTRACTUAL RIGHT TO PURCHASE, THE
+2 SURFACE ESTATE OF A PARCEL OF REAL PROPERTY.
+3 (25) "TAX LIEN" MEANS A LIEN ON A PROPERTY SOLD FOR SPECIAL
+4 ASSESSMENTS, TAXES, OR SPECIAL ASSESSMENTS AND TAXES DUE EITHER
+5 TO THE STATE OR ANY COUNTY OR INCORPORATED TOWN OR CITY FOR
+6 WHICH THE TREASURER ISSUED A CERTIFICATE OF PURCHASE TO THE
+7 LAWFUL HOLDER.
+8 (26) "TREASURER" HAS THE MEANING SET FORTH IN SECTION
+9 39-1-102 (17) AS APPLIED TO THE COUNTY IN WHICH A PROPERTY IS
+10 LOCATED.
+11 (27) "TREASURER'S DEED" MEANS A DEED OR, IN THE CASE OF A
+12 MANUFACTURED HOME, MOBILE HOME, MODULAR HOME, OR TINY HOME,
+13 A CERTIFICATE OF OWNERSHIP, ISSUED BY THE TREASURER AS DESCRIBED
+14 IN SECTION 39-11.5-501 IN THE FORM SPECIFIED IN SECTION 39-11.5-502
+15 OR 39-11.5-503.
+16 39-11.5-102. Lawful holder - application for treasurer's deed
+17 - fee.
+18 (1) AFTER AUGUST 1 OF THE THIRD CALENDAR YEAR FOLLOWING
+19 THE DATE OF A TAX LIEN SALE, A LAWFUL HOLDER MAY APPLY FOR A
+20 TREASURER'S DEED FOR THE PROPERTY DESCRIBED IN THE CERTIFICATE OF
+21 PURCHASE IN ACCORDANCE WITH THIS SECTION.
+22 (2) (a) A LAWFUL HOLDER MUST FILE AN APPLICATION FOR
+23 TREASURER'S DEED IN SUBSTANTIALLY THE FOLLOWING FORM:
+24 APPLICATION FOR TREASURER'S DEED
+25 TO THE COUNTY TREASURER OF___________COUNTY, COLORADO:
+26 TREASURER'S DEED NUMBER ___________
+27 THE UNDERSIGNED, AS THE LAWFUL HOLDER OF TREASURER'S TAX
+-47- 144
+
+1 LIEN SALE CERTIFICATE(S) OF PURCHASE NO.(S) ________ ISSUED
+2 PURSUANT TO THE TAX LIEN SALE HELD ON THE ____ DAY OF
+3 ________, 20__, FOR THE TAXES AND/OR SPECIAL ASSESSMENTS IN
+4 THE AMOUNT OF $________ FOR THE TAX YEAR(S) ______ HEREBY
+5 REQUESTS THAT THE COUNTY TREASURER, GIVE NOTICE AND TAKE
+6 SUCH PROCEEDINGS AS ARE REQUIRED BY LAW SO THAT THE
+7 UNDERSIGNED MAY BE ENTITLED TO A TREASURER'S DEED TO THE
+8 PROPERTY DESCRIBED IN THE CERTIFICATE OF PURCHASE, MORE
+9 PARTICULARLY DESCRIBED AS FOLLOWS, TO-WIT:
+10 LEGAL DESCRIPTION:
+11 SITUATED IN THE COUNTY OF ___________, STATE OF COLORADO.
+12 PROPERTY ADDRESS: __________
+13 ACCOUNT/SCHEDULE NUMBER: __________
+14 PARCEL NUMBER: ___________
+15 CURRENT ASSESSED OWNER: ___________
+16 LAWFUL HOLDER NAME: ___________
+17 LAWFUL HOLDER ADDRESS: ___________
+18 LAWFUL HOLDER CITY, STATE, AND ZIP CODE: ___________
+19 LAWFUL HOLDER SIGNATURE: ___________
+20 DATE: ___________
+21 CURRENT YEAR TAXES: _____________
+22 JR LIEN ENDORSEMENTS: ____________
+23 INVESTMENT BALANCE OF TAX LIEN: ____________
+24 (b) A LAWFUL HOLDER MUST SUBMIT CERTIFICATE OF PURCHASE,
+25 OR A RECORDED COPY THEREOF, IF RECORDED BY THE TREASURER AT THE
+26 TIME OF THE TAX LIEN SALE, FOR EACH PROPERTY INCLUDED IN AN
+27 APPLICATION FOR TREASURER'S DEED AND ANY ASSIGNMENTS OF EACH
+-48- 144
+
+1 CERTIFICATE OF PURCHASE IN ACCORDANCE WITH THIS SECTION.
+2 (c) ANY NUMBER OF PROPERTIES NOT EXCEEDING TWENTY-FIVE,
+3 WHETHER CONTIGUOUS OR NONCONTIGUOUS, WHEN HELD UNDER ONE
+4 TITLE OF OWNERSHIP, OR WHETHER INCLUDED IN AN IRRIGATION DISTRICT
+5 OR NOT SO INCLUDED, AND ALTHOUGH TAX LIENS FOR THE PROPERTY WERE
+6 SEPARATELY SOLD AT THE TAX LIEN SALE OR COVERED BY MORE THAN
+7 ONE TAX SALE CERTIFICATE, MAY BE INCLUDED AND DESCRIBED IN ONE
+8 APPLICATION FOR A TREASURER'S DEED AS PROVIDED FOR IN THIS
+9 SUBSECTION (2). THESE PROPERTIES, NOT EXCEEDING TWENTY-FIVE IN
+10 NUMBER, MAY ALSO BE INCLUDED AND DESCRIBED IN A SINGLE
+11 APPLICATION FOR A TREASURER'S DEED NOTICE AND ARE IN CONFORMITY
+12 WITH THIS ARTICLE 11.5 IN ALL OTHER RESPECTS. THE NOTICE OF PUBLIC
+13 AUCTION MUST PROMINENTLY DISPLAY THE NAME OF THE PERSON IN
+14 WHOSE NAME THE PROPERTY WAS TAXED OR SPECIALLY ASSESSED FOR THE
+15 YEAR IN WHICH THE TAX LIEN WAS SOLD. THIS NAME MUST APPEAR AT OR
+16 NEAR THE BEGINNING OF THE NOTICE AND IN CLOSE PROXIMITY TO THE
+17 REFERENCE TO THE TAX LIEN SALE CERTIFICATE NUMBER AND THE
+18 DESCRIPTION OF THE PROPERTY INVOLVED. THE INFORMATION IN THE
+19 NOTICE MUST BE SUFFICIENT TO ALLOW IDENTIFICATION OF THE PROPERTY
+20 WITH THE NAME OF THE PERSON ASSESSED IF ALL CERTIFICATES INCLUDED
+21 IN A SINGLE NOTICE FOR PUBLIC AUCTION ARE HELD BY THE SAME PERSON.
+22 (3) IN THE EVENT THAT THE AMOUNT OF THE TAX LIEN BALANCE
+23 OR ANY NONMATERIAL MISSTATEMENT IS ERRONEOUSLY SET FORTH IN THE
+24 APPLICATION FOR A TREASURER'S DEED, THE ERROR DOES NOT AFFECT THE
+25 VALIDITY OF THE APPLICATION FOR TREASURER'S DEED, THE NOTICE OF
+26 PUBLIC AUCTION, THE PUBLICATION, THE POSTING, THE PUBLIC AUCTION,
+27 THE CERTIFICATE OF OPTION FOR A TREASURER'S DEED DESCRIBED IN
+-49- 144
+
+1 SECTION 39-11.5-401, THE CERTIFICATE OF REDEMPTION DESCRIBED IN
+2 SECTION 39-11.5-106 (4), THE CERTIFICATE OF REPURCHASE DESCRIBED IN
+3 SECTION 39-11.5-402, THE TREASURER'S DEED AS DESCRIBED IN SECTION
+4 39-11.5-501, OR ANY OTHER DOCUMENT EXECUTED IN CONNECTION
+5 THEREWITH.
+6 (4) (a) A LAWFUL HOLDER OF A CERTIFICATE OF PURCHASE WHO
+7 HAS APPLIED FOR A TREASURER'S DEED PURSUANT TO THIS SECTION MAY
+8 ASSIGN OR TRANSFER THE CERTIFICATE OF PURCHASE AT ANY TIME DURING
+9 THE PENDENCY OF THE PUBLIC AUCTION PROCESS. UPON RECEIPT OF
+10 WRITTEN NOTICE SIGNED BY THE LAWFUL HOLDER, OR THE LAWFUL
+11 HOLDER'S ATTORNEY, EVIDENCING THE ASSIGNMENT OR TRANSFER OF THE
+12 CERTIFICATE OF PURCHASE AND IDENTIFYING THE ASSIGNEE OR
+13 TRANSFEREE, THE TREASURER SHALL PROCEED WITH THE PUBLIC AUCTION
+14 AS IF THE ASSIGNEE OR TRANSFEREE WERE THE ORIGINAL APPLICANT.
+15 (b) THE ASSIGNMENT OR TRANSFER OF A CERTIFICATE OF
+16 PURCHASE DURING THE PENDENCY OF THE TREASURER'S DEED PROCESS
+17 MUST BE DEEMED MADE WITHOUT RECOURSE UNLESS OTHERWISE AGREED
+18 IN A WRITTEN STATEMENT SIGNED BY THE ASSIGNOR OR TRANSFEROR. THE
+19 LAWFUL HOLDER OF A CERTIFICATE OF PURCHASE, CERTIFICATE OF OPTION
+20 FOR A TREASURER'S DEED, OR CERTIFICATE OF REPURCHASE WHO ASSIGNS
+21 OR TRANSFERS THEIR CERTIFICATE HAS NO DUTY OR LIABILITY TO THE
+22 ASSIGNEE OR TRANSFEREE OR TO ANY THIRD PARTY FOR ANY ACT OR
+23 OMISSION WITH RESPECT TO THE PROVISIONS OF THIS ARTICLE 11.5 AFTER
+24 THE DATE OF ASSIGNMENT OR TRANSFER.
+25 (5) (a) THE TREASURER MAY REQUIRE THE LAWFUL HOLDER TO
+26 MAKE A DEPOSIT OF UP TO ONE THOUSAND DOLLARS PLUS THE AMOUNT OF
+27 FEES PERMITTED PURSUANT TO SECTION 30-1-102 (1.7), AT THE TIME THE
+-50- 144
+
+1 APPLICATION FOR TREASURER'S DEED IS ACCEPTED, TO BE APPLIED
+2 AGAINST THE FEES AND COSTS OF THE TREASURER IN PROCEEDING
+3 PURSUANT TO THIS ARTICLE 11.5.
+4 (b) THE TREASURER MAY CHARGE AND ACCEPT A LESSER FEE
+5 AMOUNT THAN IS PERMITTED BY SECTION 30-1-102 (1.7)(a)(I), FOR AN
+6 APPLICATION FOR A TREASURER'S DEED WHEN THE ASSESSED VALUE OF
+7 THE PROPERTY IN THE APPLICATION AT THE TIME OF ACCEPTING THE
+8 APPLICATION FOR TREASURER'S DEED IS FIVE HUNDRED DOLLARS OR LESS.
+9 39-11.5-103. Review of application - recording.
+10 (1) THE TREASURER MAY ACCEPT AN APPLICATION FOR A
+11 TREASURER'S DEED. IF ACCEPTED, THE TREASURER SHALL REVIEW THE
+12 APPLICATION AS SOON AS PRACTICABLE BUT NOT LATER THAN FORTY-FIVE
+13 CALENDAR DAYS FROM THE DATE OF ACCEPTANCE TO DETERMINE
+14 WHETHER IT COMPLIES WITH THE REQUIREMENTS OF THIS ARTICLE 11.5.
+15 (2) IF THE TREASURER DETERMINES THAT AN APPLICATION
+16 COMPLIES WITH THE REQUIREMENTS OF THIS ARTICLE 11.5, THE
+17 TREASURER SHALL COLLECT FROM A LAWFUL HOLDER ALL DELINQUENT
+18 TAXES OWED AND ENDORSE ALL SUBSEQUENT CERTIFICATES OF PURCHASE
+19 FOR TAX LIENS ON SUCH PROPERTY AND SHALL VERIFY THAT ALL
+20 SUBSEQUENT TAXES HAVE BEEN PAID IN FULL BY THE LAWFUL HOLDER.
+21 (3) THE TREASURER SHALL RECORD AN APPLICATION FOR A
+22 TREASURER'S DEED AND THE CERTIFICATE OF PURCHASE, AND ALL
+23 ENDORSEMENTS, WITHIN TEN BUSINESS DAYS FOLLOWING THE
+24 TREASURER'S DETERMINATION THAT ALL SUBSEQUENT TAXES HAVE BEEN
+25 PAID IN FULL.
+26 (4) THE RECORDED DOCUMENT MUST BE RETAINED IN THE
+27 COUNTY'S PUBLIC RECORDS IN THE COUNTY WHERE THE PROPERTY IS
+-51- 144
+
+1 LOCATED.
+2 39-11.5-104. Notice of application - title review - mailing list.
+3 (1) (a) NO MORE THAN TEN CALENDAR DAYS AFTER RECORDING AN
+4 APPLICATION FOR A TREASURER'S DEED PURSUANT TO SECTION
+5 39-11.5-102(2), THE TREASURER SHALL MAIL BY FIRST CLASS MAIL A
+6 NOTICE OF APPLICATION FOR A TREASURER'S DEED TO THE OWNER OF
+7 RECORD OF THE PROPERTY ADDRESS SET FORTH IN THE APPLICATION FOR
+8 A TREASURER'S DEED.
+9 (b) THE TREASURER SHALL NOTIFY THE OWNER OF A
+10 MANUFACTURED HOME, MOBILE HOME, MODULAR HOME, OR TINY HOME
+11 AND ANY LIENHOLDER OF RECORD, BY FIRST CLASS MAIL TO THE OWNER'S
+12 LAST-KNOWN MAILING ADDRESS, THAT AN APPLICATION FOR A
+13 TREASURER'S DEED FOR THE HOME HAS BEEN RECORDED BY THE
+14 TREASURER ON BEHALF OF THE LAWFUL HOLDER OF THE CERTIFICATE OF
+15 PURCHASE PURSUANT TO SECTION 39-11.5-103. THE TREASURER SHALL
+16 THEREAFTER PROCEED IN LIKE MANNER AS IS PROVIDED BY LAW IN THE
+17 CASE OF CERTIFICATES OF PURCHASE HELD BY AN INVESTOR.
+18 (c) IF THE PROPERTY DESCRIBED IN THE APPLICATION FOR A
+19 TREASURER'S DEED CONSISTS OF A SEVERED MINERAL INTEREST AND THE
+20 TAX LIEN IS HELD BY THE COUNTY, THE TREASURER SHALL PROCEED IN THE
+21 MANNER PROVIDED IN THIS ARTICLE 11.5, EXCEPT THAT ALL FEES MAY BE
+22 WAIVED.
+23 (2) NOT MORE THAN THIRTY CALENDAR DAYS AFTER RECORDING
+24 THE APPLICATION FOR A TREASURER'S DEED AS SET FORTH IN SECTION
+25 39-11.5-103, THE TREASURER SHALL ORDER A TITLE SEARCH OR BEGIN A
+26 REVIEW OF RELEVANT COUNTY RECORDS OF THE COUNTY CLERK AND
+27 RECORDER CONCERNING THE PROPERTY.
+-52- 144
+
+1 (3) THE TITLE SEARCH DESCRIBED IN SUBSECTION (2) OF THIS
+2 SECTION MUST BE RECEIVED OR A REVIEW OF RELEVANT COUNTY RECORDS
+3 OF THE COUNTY CLERK AND RECORDER CONCERNING THE PROPERTY MUST
+4 BE COMPLETED NO LATER THAN ONE HUNDRED EIGHTY CALENDAR DAYS
+5 FROM THE DATE OF THE RECORDING OF THE APPLICATION OF PUBLIC
+6 AUCTION.
+7 (4) NOT MORE THAN THIRTY BUSINESS DAYS AFTER EITHER
+8 RECEIVING THE TITLE COMPANY'S SEARCH OR COMPLETING A REVIEW OF
+9 RELEVANT COUNTY RECORDS OF THE COUNTY CLERK AND RECORDER
+10 CONCERNING THE PROPERTY, THE TREASURER SHALL CREATE A MAILING
+11 LIST CONTAINING THE NAMES AND ADDRESSES OF:
+12 (a) THE OWNER OF THE PROPERTY AT THE TIME OF THE TAX LIEN
+13 SALE, AT THE PROPERTY ADDRESS, AND THE LAST-KNOWN MAILING
+14 ADDRESS ASSOCIATED WITH THE PROPERTY AS SHOWN IN THE RECORDS OF
+15 THE TREASURER;
+16 (b) THE OWNER OF THE PROPERTY AT THE TIME OF THE TAX LIEN
+17 SALE, AT THE OWNER'S LAST-KNOWN MAILING ADDRESS AS SHOWN IN THE
+18 RECORDS OF THE TREASURER, IF DIFFERENT THAN THE PROPERTY ADDRESS;
+19 (c) THE LAWFUL HOLDER OF THE CERTIFICATE OF PURCHASE, OR
+20 ANY ASSIGNEES OR TRANSFEREES OF THE CERTIFICATE OF PURCHASE;
+21 (d) THE OCCUPANT OF THE PROPERTY, ADDRESSED TO "OCCUPANT"
+22 AT THE ADDRESS OF THE PROPERTY, IF THE PROPERTY IS COMMERCIAL,
+23 RESIDENTIAL, AGRICULTURAL REAL PROPERTY, OR A MANUFACTURED
+24 HOME, MOBILE HOME, MODULAR HOME, OR TINY HOME;
+25 (e) THE LESSEE OF THE PROPERTY, ADDRESSED TO "LESSEE" AT THE
+26 ADDRESS OF THE PROPERTY, IF THE PROPERTY IS COMMERCIAL,
+27 RESIDENTIAL, AGRICULTURAL REAL PROPERTY, OR A MANUFACTURED
+-53- 144
+
+1 HOME, MOBILE HOME, MODULAR HOME, OR TINY HOME AND IF THE LEASE
+2 IS RECORDED;
+3 (f) THE CURRENT OWNER OF THE PROPERTY, IF DIFFERENT THAN
+4 THE OWNER, AT THE TIME OF THE TAX LIEN SALE; AND
+5 (g) ALL JUNIOR LIENORS, AS SHOWN IN THE RECORDS OF THE
+6 COUNTY CLERK AND RECORDER, WHOSE LIENS WERE DULY RECORDED IN
+7 THE RECORDS OF THE COUNTY CLERK AND RECORDER, PRIOR TO THE
+8 RECORDING OF THE APPLICATION FOR TREASURER'S DEED.
+9 (5) IF A RECORDED INSTRUMENT DOES NOT SPECIFY THE ADDRESS
+10 OF THE PARTY PURPORTING TO HAVE AN INTEREST IN THE PROPERTY
+11 UNDER THE RECORDED INSTRUMENT, THAT PARTY IS NOT ENTITLED TO
+12 NOTICE AND ANY INTEREST IN THE PROPERTY UNDER SUCH INSTRUMENT
+13 IS EXTINGUISHED UPON THE EXECUTION AND DELIVERY OF A TREASURER'S
+14 DEED PURSUANT TO SECTION 39-11.5-501.
+15 (6) IF ANY NOTICE SENT PURSUANT TO THIS SECTION IS RETURNED
+16 AS UNDELIVERABLE, THE COUNTY TREASURER SHALL CONDUCT A
+17 REASONABLE SEARCH TO LOCATE AND NOTIFY THE INTENDED RECIPIENT
+18 WITHIN THIRTY CALENDAR DAYS OF RECEIPT OF THE RETURNED MAIL AS
+19 UNDELIVERABLE.
+20
+21 39-11.5-105. Notice of public auction - mailing - publication -
+22 posting.
+23 (1) NO MORE THAN TEN BUSINESS DAYS AFTER THE TREASURER
+24 HAS CREATED THE MAILING LIST PURSUANT TO SECTION 39-11.5-104, THE
+25 TREASURER SHALL MAIL BY FIRST CLASS MAIL A NOTICE OF PUBLIC
+26 AUCTION TO THE PERSONS SET FORTH IN THE MAILING LIST.
+27 (2) THE NOTICE OF PUBLIC AUCTION REQUIRED TO BE MAILED
+-54- 144
+
+1 PURSUANT TO THIS SECTION MUST CONTAIN:
+2 (a) THE YEAR FOR WHICH THE UNPAID TAXES WERE PURCHASED;
+3 (b) THE DATE OF TAX LIEN SALE;
+4 (c) THE NAME OF THE ORIGINAL PURCHASER AT THE TAX LIEN
+5 SALE;
+6 (d) ANY ASSIGNMENTS OF THE CERTIFICATE OF PURCHASE;
+7 (e) THE NAME OF THE OWNER OF THE PROPERTY AT THE TIME OF
+8 THE TAX LIEN SALE;
+9 (f) THE NAME OF THE LAWFUL HOLDER AT TIME OF RECORDING OF
+10 APPLICATION FOR TREASURER'S DEED;
+11 (g) THE LEGAL DESCRIPTION OF THE PROPERTY AND SITE ADDRESS,
+12 IF APPLICABLE;
+13 (h) THE DATE AND TIME OF THE ORIGINALLY SCHEDULED PUBLIC
+14 AUCTION;
+15 (i) THE LOCATION OF THE PUBLIC AUCTION, INCLUDING THE
+16 INFORMATION REQUIRED BY SUBSECTION (3) OF THIS SECTION, IF
+17 APPLICABLE;
+18 (j) THE PUBLICATION DATE, IF APPLICABLE; AND
+19 (k) LEGIBLE COPIES OF SECTIONS 39-11.5-106, 39-11.5-110,
+20 39-11.5-112, AND 39-11.5-301.
+21 (3) IF THE PUBLIC AUCTION IS CONDUCTED BY MEANS OF THE
+22 INTERNET OR OTHER ELECTRONIC MEDIUM, THEN THE NOTICE OF PUBLIC
+23 AUCTION REQUIRED TO BE MAILED PURSUANT TO THIS SECTION MUST
+24 INCLUDE A STATEMENT OF OR DIRECTIONS WHERE TO OBTAIN THE
+25 FOLLOWING:
+26 (a) THE WEB ADDRESS FOR THE PUBLIC AUCTION;
+27 (b) THE LOCATION OF COMPUTER WORKSTATIONS AVAILABLE TO
+-55- 144
+
+1 THE PUBLIC;
+2 (c) INSTRUCTIONS ON ACCESSING THE PUBLIC AUCTION AND
+3 SUBMITTING BIDS; AND
+4 (d) BIDDING RULES FOR THE PUBLIC AUCTION WILL BE POSTED ON
+5 THE TREASURER'S WEBSITE OR THE ELECTRONIC MEDIUM USED TO
+6 CONDUCT THE AUCTION AT LEAST FOURTEEN CALENDAR DAYS BEFORE THE
+7 DATE OF THE PUBLIC AUCTION.
+8 (4) (a) NO LESS THAN THIRTY CALENDAR DAYS PRIOR TO THE FIRST
+9 SCHEDULED PUBLIC AUCTION DATE, IF THE VALUATION FOR ASSESSMENT
+10 OF THE PROPERTY THAT IS THE SUBJECT OF THE PUBLIC AUCTION, AT THE
+11 TIME OF THE RECORDING OF THE APPLICATION FOR TREASURER'S DEED, IS
+12 FIVE HUNDRED DOLLARS OR MORE, THE TREASURER SHALL COMMENCE
+13 PUBLICATION OF THE NOTICE OF PUBLIC AUCTION, OMITTING THE
+14 STATUTES, FOR THREE WEEKS, WHICH MEANS PUBLICATION ONCE EACH
+15 WEEK FOR THREE SUCCESSIVE WEEKS IN A NEWSPAPER THAT IS PUBLISHED
+16 DAILY, WEEKLY, OR SEMIWEEKLY IN THE COUNTY WHERE THE PROPERTY
+17 IS LOCATED.
+18 (b) IF THERE IS NOT A NEWSPAPER THAT SATISFIES THE CRITERIA
+19 IDENTIFIED IN SUBSECTION (4)(a) OF THIS SECTION, THE TREASURER SHALL
+20 POST THE NOTICE OF PUBLIC AUCTION, OMITTING THE STATUTES REQUIRED
+21 BY SUBSECTION (2)(k) OF THIS SECTION, CONSPICUOUSLY IN THE OFFICES
+22 OF THE COUNTY CLERK AND RECORDER, THE TREASURER, AND THE
+23 ASSESSOR, IN AT LEAST TWO OTHER PUBLIC PLACES IN THE COUNTY SEAT,
+24 AND SHALL POST THE NOTICE ON THE TREASURER'S WEBSITE.
+25 (c) THE FEES AND COSTS ALLOWED FOR PUBLICATION OF THE
+26 NOTICE OF PUBLIC AUCTION MUST BE AS PROVIDED BY LAW FOR THE
+27 PUBLICATION OF LEGAL NOTICES OR ADVERTISING.
+-56- 144
+
+1 (d) THE NOTICE OF PUBLIC AUCTION MUST BE IN SUBSTANTIALLY
+2 THE FOLLOWING FORMAT:
+3 NOTICE OF PUBLIC AUCTION
+4 NOTICE IS GIVEN THAT ON [DATE], AT [LOCATION], THE COUNTY
+5 TREASURER WILL CONDUCT A PUBLIC AUCTION FOR A TREASURER'S
+6 DEED DUE TO DELINQUENT PROPERTY TAXES.
+7 [INSERT LEGAL DESCRIPTION]
+8 [INSERT PROPERTY ADDRESS]
+9 INTERESTED BIDDERS MUST REGISTER. MORE INFORMATION AT
+10 (WEBSITE OR TREASURER'S OFFICE PHONE NUMBER).
+11 (5) (a) NO MORE THAN TEN BUSINESS DAYS AFTER MAILING THE
+12 NOTICE OF PUBLIC AUCTION, IF THE ASSESSED VALUE OF THE PROPERTY
+13 THAT IS THE SUBJECT OF THE PUBLIC AUCTION, AT THE TIME OF THE
+14 RECORDING OF THE APPLICATION FOR TREASURER'S DEED, IS LESS THAN
+15 FIVE HUNDRED DOLLARS, OR THE PROPERTY IS A MANUFACTURED HOME,
+16 MOBILE HOME, MODULAR HOME, OR TINY HOME, THEN THE TREASURER
+17 SHALL POST THE NOTICE OF PUBLIC AUCTION, OMITTING THE STATUTES
+18 REQUIRED BY SUBSECTION (2)(k) OF THIS SECTION, ON THE TREASURER'S
+19 WEBSITE.
+20 (b) NO MORE THAN TEN BUSINESS DAYS AFTER MAILING THE
+21 NOTICE OF PUBLIC AUCTION, IF AN APPLICATION FOR TREASURER'S DEED
+22 CONSISTS OF MULTIPLE PROPERTIES NOT EXCEEDING TWENTY-FIVE,
+23 CONTIGUOUS OR NONCONTIGUOUS, AND THE ASSESSED VALUE OF EACH
+24 PROPERTY INDIVIDUALLY, AT THE TIME OF THE RECORDING OF THE
+25 APPLICATION FOR TREASURER'S DEED, IS LESS THAN FIVE HUNDRED
+26 DOLLARS, THE TREASURER SHALL POST THE NOTICE OF PUBLIC AUCTION,
+27 OMITTING THE STATUTES REQUIRED BY SUBSECTION (2)(k) OF THIS
+-57- 144
+
+1 SECTION, ON THE TREASURER'S WEBSITE.
+2 (6) NO LESS THAN THIRTY CALENDAR DAYS PRIOR TO THE FIRST
+3 SCHEDULED PUBLIC AUCTION DATE, THE TREASURER SHALL POST, IN A
+4 CONSPICUOUS LOCATION ON A PROPERTY; EXCEPT THAT THE TREASURER
+5 IS NOT REQUIRED TO MAKE THE POST REQUIRED BY THIS SUBSECTION (6)
+6 IF A PROPERTY IS SEVERED MINERAL RIGHTS. FOR A MANUFACTURED
+7 HOME, MOBILE HOME, MODULAR HOME, OR TINY HOME, THE TREASURER
+8 SHALL PROVIDE NOTICE, INCLUDING A STATEMENT OF TAXES DUE FOR THE
+9 OWNER TO REDEEM, IN ACCORDANCE WITH SUBSECTION (2) OF THIS
+10 SECTION.
+11 (7) THE TREASURER SHALL MAKE, OR CAUSE TO BE MADE, AN
+12 AFFIDAVIT SHOWING THE POSTING OF THE NOTICE OF PUBLIC AUCTION
+13 PURSUANT TO THIS SECTION. THE TREASURER SHALL RETAIN AFFIDAVITS
+14 IN THE TREASURER'S RECORDS PURSUANT TO THE COUNTY RETENTION
+15 POLICY.
+16 39-11.5-106. Property owner redemption procedure.
+17 (1) (a) A PROPERTY OWNER IS ENTITLED TO REDEEM A PROPERTY
+18 IF, NO LATER THAN SEVEN CALENDAR DAYS PRIOR TO THE CURRENTLY
+19 SCHEDULED PUBLIC AUCTION DATE, THE PROPERTY OWNER FILES AN
+20 INTENT TO REDEEM THE PROPERTY WITH THE TREASURER.
+21 (b) IF A PROPERTY OWNER IS DECEASED OR INCAPACITATED ON OR
+22 AFTER THE DATE AND TIME OF THE RECORDING OF THE APPLICATION FOR
+23 TREASURER'S DEED, THE PROPERTY OWNER'S HEIRS, PERSONAL
+24 REPRESENTATIVE, LEGAL GUARDIAN, OR CONSERVATOR, WHETHER OR NOT
+25 THAT PERSON'S INTEREST IS SHOWN IN THE RECORDS, UPON PROVIDING
+26 SATISFACTORY PROOF TO A TREASURER, MAY FILE AN INTENT TO REDEEM
+27 AND OR REDEEM THE CERTIFICATE OF PURCHASE AS PROVIDED IN THIS
+-58- 144
+
+1 SECTION.
+2 (2) (a) NO LATER THAN THREE BUSINESS DAYS FOLLOWING THE
+3 TIMELY FILING OF AN INTENT TO REDEEM, THE TREASURER SHALL PROVIDE
+4 A REDEMPTION STATEMENT TO A PROPERTY OWNER PURSUANT TO THIS
+5 SECTION IN A STATEMENT SPECIFYING THE AMOUNT, ITEMIZED AND IN
+6 SUBSTANTIALLY THE SAME FORM AS A BID PURSUANT TO SECTION
+7 39-11.5-107; AND
+8 (b) A FEE NOT EXCEEDING TWENTY-FIVE DOLLARS MAY BE
+9 CHARGED TO A PROPERTY OWNER FOR FILING AN INTENT TO REDEEM OR
+10 REQUESTING AN UPDATED REDEMPTION STATEMENT UNDER THIS SECTION.
+11 (3) (a) A REDEMPTION STATEMENT IS EFFECTIVE FOR TEN BUSINESS
+12 DAYS OR UNTIL NOON THE DAY BEFORE THE CURRENTLY SCHEDULED
+13 PUBLIC AUCTION DATE, WHICHEVER OCCURS FIRST.
+14 (b) A PROPERTY OWNER MAY REDEEM A PROPERTY AT ANY TIME
+15 BEFORE THE EXPIRATION OF A REDEMPTION STATEMENT BY PAYING THE
+16 TREASURER, BY THE METHOD OF PAYMENT SPECIFIED BY THE
+17 TREASURER, THE AMOUNT REQUIRED TO REDEEM AS SPECIFIED IN
+18 SUBSECTION (2) OF THIS SECTION.
+19 (c) UPON RECEIPT OF THE REDEMPTION PAYMENT, THE TREASURER
+20 SHALL NOTIFY THE LAWFUL HOLDER OF THE REDEMPTION AND EXECUTE A
+21 WITHDRAWAL OF THE APPLICATION FOR TREASURER'S DEED PURSUANT TO
+22 SECTION 39-11.5-111 (3).
+23 (d) NO LATER THAN THE TENTH BUSINESS DAY AFTER RECEIVING
+24 THE REDEMPTION PAYMENT, THE TREASURER SHALL RECORD THE
+25 WITHDRAWAL OF THE APPLICATION FOR TREASURER'S DEED ALONG WITH
+26 THE CERTIFICATE OF REDEMPTION IN THE COUNTY RECORDS.
+27 (e) THE TREASURER SHALL DISBURSE ALL REDEMPTION PROCEEDS
+-59- 144
+
+1 TO THE PERSONS ENTITLED TO RECEIVE THEM.
+2 (4) NO MORE THAN TEN BUSINESS DAYS AFTER RECEIVING THE
+3 REDEMPTION PAYMENT, THE TREASURER SHALL RECORD A CERTIFICATE OF
+4 REDEMPTION PURSUANT TO THIS SUBSECTION (4) IF A CERTIFICATE OF
+5 PURCHASE OR TAX LIEN WAS RECORDED SEPARATELY AT THE TIME OF THE
+6 TAX LIEN SALE.
+7 (5) ALL FEES AND COSTS OF THE TREASURER FOR ACTIONS
+8 PERFORMED UNDER THIS SECTION AND THE COST OF RECORDING THE
+9 CERTIFICATE OF REDEMPTION AND WITHDRAWAL OF THE APPLICATION OF
+10 PUBLIC AUCTION ARE PART OF THE TREASURER'S COSTS FOR PURPOSES OF
+11 THIS ARTICLE 11.5.
+12 (6) IF AN AGGRIEVED PERSON CONTESTS THE AMOUNT SET FORTH
+13 IN THE REDEMPTION STATEMENT PREPARED THE BY TREASURER PURSUANT
+14 TO SUBSECTION (2) OF THIS SECTION AND A COURT DETERMINES THAT THE
+15 TREASURER MADE A MATERIAL MISSTATEMENT IN THE REDEMPTION
+16 STATEMENT WITH RESPECT TO THE AMOUNT DUE AND OWING TO THE
+17 LAWFUL HOLDER, THE COURT SHALL, IN ADDITION TO OTHER RELIEF,
+18 AWARD TO THE AGGRIEVED PERSON THE AGGRIEVED PERSON'S COURT
+19 COSTS AND REASONABLE ATTORNEY FEES AND COSTS.
+20 (7) (a) A PROPERTY OWNER SHALL REDEEM THE ENTIRE PROPERTY.
+21 NO PARTIAL REDEMPTION SHALL BE PERMITTED UNDER THIS SECTION.
+22 (b) THE PRIORITY OF LIENS OTHER THAN THE TAX LIEN FOR
+23 PURPOSES OF THIS SECTION MUST BE DETERMINED WITHOUT
+24 CONSIDERATION OF THE FACT THAT ANOTHER LIEN RELATES TO ONLY A
+25 PORTION OF THE PROPERTY OR TO A PARTIAL INTEREST THEREIN.
+26 (8) FOLLOWING EXPIRATION OF THE PERIOD FOR WHICH THE
+27 REDEMPTION STATEMENT IS EFFECTIVE, BUT NO LESS THAN SEVEN
+-60- 144
+
+1 CALENDAR DAYS PRIOR TO THE DATE OF THE PUBLIC AUCTION, THE
+2 PROPERTY OWNER MAY MAKE A WRITTEN REQUEST TO THE TREASURER
+3 FOR AN UPDATE OF THE AMOUNT NECESSARY TO REDEEM. UPON RECEIPT
+4 BY THE TREASURER OF A WRITTEN REQUEST FOR UPDATED REDEMPTION
+5 FIGURES, SUBSECTION (3) OF THIS SECTION APPLIES.
+6 39-11.5-107. Bid required - form of bid.
+7 (1) (a) A TREASURER SHALL PREPARE, NO LATER THAN SEVEN
+8 CALENDAR DAYS PRIOR TO THE SCHEDULED AUCTION DATE, A BID FORM
+9 FOR A LAWFUL HOLDER'S APPROVAL. THE BID FORM MUST BE APPROVED BY
+10 A LAWFUL HOLDER AND SUBMITTED TO THE TREASURER NO LATER THAN
+11 NOON ON THE SECOND BUSINESS DAY PRIOR TO THE SCHEDULED PUBLIC
+12 AUCTION, AS PROVIDED IN THIS SECTION, AND MUST SET FORTH ALL MONEY
+13 DUE AND OWING TO THE LAWFUL HOLDER, INCLUDING ALL TREASURER
+14 FEES AND COSTS.
+15 (b) IF A LAWFUL HOLDER DOES NOT SUBMIT AN APPROVED BID
+16 FORM BY THE DEADLINE SPECIFIED IN SUBSECTION (1)(a) OF THIS SECTION,
+17 A TREASURER SHALL PREPARE AND SUBMIT A BID FORM SETTING FORTH
+18 ALL MONEY DUE AND OWING TO THE LAWFUL HOLDER, INCLUDING ALL
+19 TREASURER FEES AND COSTS.
+20 (2) A LAWFUL HOLDER NEED NOT PERSONALLY ATTEND A PUBLIC
+21 AUCTION.
+22 (3) A BID MUST SPECIFY THE FOLLOWING AMOUNTS, ITEMIZED IN
+23 SUBSTANTIALLY THE FOLLOWING FORM:
+24 BID
+25 TREASURER OF THE COUNTY (OR CITY AND COUNTY)
+26 OF_____________ , STATE OF COLORADO.
+27 DATE: _______________
+-61- 144
+
+1 TREASURER'S DEED NUMBER: _____________
+2 LAWFUL HOLDER/TREASURER, WHOSE MAILING ADDRESS
+3 IS_______________________ , BIDS THE SUM OF $____________
+4 IN YOUR PUBLIC AUCTION TO BE HELD ON THE ____ DAY
+5 OF__________ , 20__ .
+6 STREET ADDRESS OF PROPERTY BEING SOLD, IF APPLICABLE:
+7 ______________________
+8 THE FOLLOWING IS AN ITEMIZATION OF ALL AMOUNTS DUE THE
+9 LAWFUL HOLDER OF THE TAX LIEN.
+10 STATUTORY RATE OF INTEREST ON TAX LIEN AS OF THE DATE OF
+11 PUBLIC AUCTION: __________
+12 (INAPPLICABLE ITEMS MAY BE OMITTED):
+13 AMOUNT DUE ON TAX LIEN $ ______________________
+14 INTEREST $______________________
+15 ENDORSEMENT(S) $ ______________________
+16 CURRENT YEARS TAXES $______________________
+17 CATEGORY SUBTOTAL $ ______________________
+18 TREASURER FEES AND COSTS:
+19 TREASURER STATUTORY FEE $ ______________________
+20 TREASURER SOFTWARE COSTS $___________________
+21 TITLE COMMITMENTS OR ABSTRACTOR COSTS
+22 $______________________
+23 MAILINGS $______________________
+24 PUBLICATION COSTS $ ______________________
+25 POSTING COSTS $ ______________________
+26 ELECTRONIC AUCTION COSTS $ ______________________
+27 CERTIFICATE OF OPTION FOR A TREASURER'S DEED RECORDING
+-62- 144
+
+1 COST $ ________________
+2 TREASURER DEED FEE $ ______________________
+3 DEED RECORDING COST $ ______________________
+4 OTHER (DESCRIBE) $______________________
+5 CATEGORY SUBTOTAL: $ ______________________
+6 BID $ ______________________ (TOTAL DUE LAWFUL HOLDER)
+7 NAME OF THE LAWFUL HOLDER OR ATTORNEY FOR THE HOLDER: (IF
+8 BID SUBMITTED BY LAWFUL HOLDER OR AN ATTORNEY FOR THE
+9 LAWFUL HOLDER)
+10 LAWFUL HOLDER/OR ATTORNEY: ______________
+11 ATTORNEY REGISTRATION NUMBER: __________
+12 ATTORNEY ADDRESS: __________
+13 ATTORNEY BUSINESS TELEPHONE: __________
+14 (4) UPON RECEIPT OF AN APPROVED BID FORM FROM A LAWFUL
+15 HOLDER, OR SUBMISSION OF A BID FORM BY A TREASURER PURSUANT TO
+16 SUBSECTION (1)(b) OF THIS SECTION, A TREASURER SHALL MAKE SUCH
+17 INFORMATION AVAILABLE TO THE GENERAL PUBLIC.
+18 (5) A TREASURER SHALL ENTER A BID BY READING THE BID
+19 AMOUNT SET FORTH ON THE BID FORM AND THE NAME OF THE PERSON
+20 THAT SUBMITTED THE BID, OR BY POSTING OR PROVIDING THAT BID
+21 INFORMATION AT THE TIME AND PLACE DESIGNATED FOR THE PUBLIC
+22 AUCTION.
+23 (6) A LAWFUL HOLDER MUST BID NO LESS THAN THE AMOUNT OF
+24 THE TOTAL DEBT, AS DETERMINED BY THE TREASURER, FOR THE
+25 CERTIFICATE OF PURCHASE BEING SOLD. THE FAILURE OF A LAWFUL
+26 HOLDER TO BID THE AMOUNT REQUIRED BY THIS SECTION DOES NOT
+-63- 144
+
+1 AFFECT THE VALIDITY OF THE AUCTION.
+2 (7) OTHER THAN A BID BY A LAWFUL HOLDER NOT EXCEEDING THE
+3 TOTAL AMOUNT DUE, AS SHOWN ON THE BID FORM PURSUANT TO
+4 SUBSECTION (3) OF THIS SECTION, THE PAYMENT OF ANY AMOUNT BID AT
+5 AN AUCTION MUST BE RECEIVED BY A TREASURER NO LATER THAN THE
+6 DATE AND TIME OF THE AUCTION, OR AT AN ALTERNATIVE TIME AFTER THE
+7 AUCTION AND ON THE DAY OF THE AUCTION, AS SPECIFIED IN WRITING BY
+8 THE TREASURER. A BID PAYMENT MUST BE MADE IN THE FORM SPECIFIED
+9 BY THE TREASURER. IF A TREASURER HAS NOT RECEIVED FULL PAYMENT
+10 OF THE BID AMOUNT FROM THE HIGHEST BIDDER AT AN AUCTION IN
+11 ACCORDANCE WITH THIS SUBSECTION (7), THE NEXT HIGHEST BIDDER WHO
+12 TIMELY TENDERS THE FULL AMOUNT OF THE BID UNDER THIS SUBSECTION
+13 (7) IS DEEMED THE SUCCESSFUL BIDDER AT THE AUCTION PURSUANT TO
+14 SECTION 39-11.5-110 (4).
+15 (8) A TREASURER MAY ESTABLISH WRITTEN POLICIES RELATING TO
+16 ALL ASPECTS OF A PUBLIC AUCTION THAT ARE CONSISTENT WITH THE
+17 PROVISIONS OF THIS ARTICLE 11.5. THE WRITTEN POLICIES MUST BE MADE
+18 AVAILABLE TO THE GENERAL PUBLIC.
+19 (9) IF A PROPERTY IS SOLD TO A THIRD-PARTY BIDDER OR A
+20 LAWFUL HOLDER AS A COMPETITIVE BIDDER, A TREASURER MAY COLLECT
+21 UP TO THREE HUNDRED DOLLARS FROM THE SUCCESSFUL BIDDER FOR
+22 PERFORMING ACTIONS RELATED TO PROCESSING THE PUBLIC AUCTION
+23 PURSUANT TO SECTION 30-1-102 (1.7)(a)(XIV).
+24 (10) IF A LAWFUL HOLDER IS THE HIGHEST BIDDER WITH A BID
+25 AMOUNT THAT EXCEEDS THE TOTAL AMOUNT DUE TO THE LAWFUL HOLDER
+26 AS SHOWN ON THE BID FORM CREATED PURSUANT TO THIS SECTION, A
+27 LAWFUL HOLDER IS REQUIRED TO PAY ONLY THE EXCESS OF THE BID OVER
+-64- 144
+
+1 THE AMOUNT DUE. A LAWFUL HOLDER SHALL PAY THE EXCESS AMOUNT TO
+2 THE TREASURER WITHIN THREE BUSINESS DAYS AFTER THE PUBLIC
+3 AUCTION.
+4 39-11.5-108. Fees and costs.
+5 (1) ALL FEES PURSUANT TO SECTION 30-1-102 AND COSTS
+6 INCURRED UNDER THIS ARTICLE 11.5 ARE FEES AND COSTS OF THE PUBLIC
+7 AUCTION CHARGEABLE AS ADDITIONAL AMOUNTS OWING UNDER THE
+8 CERTIFICATE OF PURCHASE. THE AMOUNTS MUST BE DEDUCTED FROM THE
+9 PROCEEDS OF ANY PUBLIC AUCTION OR, IF THERE ARE NO CASH PROCEEDS
+10 FROM A PUBLIC AUCTION ADEQUATE TO PAY THE FEES AND COSTS TO THE
+11 EXTENT OF THE INADEQUACY, THE LAWFUL HOLDER MUST PAY THE FEES
+12 AND COSTS. THE TREASURER MAY DECLINE TO ISSUE A TREASURER'S DEED
+13 PURSUANT TO SECTION 39-11.5-501 UNTIL ALL MONEY DUE TO THE
+14 TREASURER HAS BEEN PAID.
+15 (2) FEES AND COSTS INCLUDE, BUT ARE NOT LIMITED TO, THE
+16 FOLLOWING AMOUNTS OF MONEY THAT HAVE BEEN PAID OR INCURRED:
+17 (a) COSTS AND EXPENSES ALLOWABLE UNDER THE TAX LIEN;
+18 (b) ALL EXPENSES ACTUALLY INCURRED BY THE TREASURER
+19 CONDUCTING THE PUBLIC AUCTION, PUBLICATION COSTS, POSTING COSTS,
+20 STATUTORY NOTICE COSTS AND POSTAGE, AND TITLE FEES;
+21 (c) ANY GENERAL OR SPECIAL TAXES OR DITCH OR WATER
+22 ASSESSMENTS LEVIED OR ACCRUED AGAINST THE PROPERTY AND ANY
+23 GOVERNMENTAL OR QUASI-GOVERNMENTAL LIEN, FINE, PENALTY, OR
+24 ASSESSMENT AGAINST THE PROPERTY, IF PAID PURSUANT TO THIS ARTICLE
+25 11.5; AND
+26 (d) SUMS DUE ON ANY PRIOR LIEN OR ENCUMBRANCE ON THE
+27 PROPERTY THAT CONSTITUTES A LIEN PRIOR TO THE TAX LIEN BEING
+-65- 144
+
+1 AUCTIONED; EXCEPT THAT, ANY PRINCIPAL THAT WOULD NOT HAVE BEEN
+2 DUE PRIOR TO THE PUBLIC AUCTION MUST NOT BE INCLUDED IN THE SUM
+3 DUE PURSUANT TO THIS SUBSECTION (2)(d) UNLESS PAID PURSUANT TO
+4 THIS ARTICLE 11.5.
+5 (3) IN THE CASE OF A PROPERTY OWNER REDEMPTION MADE
+6 PURSUANT TO SECTION 39-11.5-106, LAWFUL HOLDERS' FEES AND COSTS
+7 SPECIFYING THE AMOUNT, ITEMIZED IN SUBSTANTIALLY THE SAME FORM
+8 AS A BID PURSUANT TO SECTION 39-11.5-107 INCLUDING TREASURER FEES
+9 AND COSTS MUST BE INCLUDED IN THE STATEMENT OF REDEMPTION.
+10 39-11.5-109. Public auction - timing of - electronic bid.
+11 (1) THE INITIAL PUBLIC AUCTION HELD PURSUANT TO THIS ARTICLE
+12 11.5 MUST BE SCHEDULED FOR NO LESS THAN THIRTY CALENDAR DAYS
+13 NOR MORE THAN SIXTY CALENDAR DAYS AFTER THE DATE OF MAILING THE
+14 NOTICE OF PUBLIC AUCTION.
+15 (2) IF A PUBLIC AUCTION IS CONDUCTED ELECTRONICALLY, A BID
+16 MUST BE INCREASED ELECTRONICALLY IN INCREMENTS INCORPORATED IN
+17 AN ELECTRONIC PROGRAM USED BY THE TREASURER TO CONDUCT THE
+18 ELECTRONIC AUCTION UP TO THE MAXIMUM BID IF ONE OR MORE THIRD
+19 PARTIES SUBMIT COMPETING BIDS FOR THE PROPERTY.
+20 39-11.5-110. Public auction - location - announcement -
+21 records - definition.
+22 (1) (a) THE TREASURER SHALL CONDUCT THE PUBLIC AUCTION AT
+23 ANY DOOR OR ENTRANCE TO, OR IN ANY ROOM IN ANY BUILDING
+24 TEMPORARILY OR PERMANENTLY USED AS, A COURTHOUSE OR AT OR
+25 WITHIN ANY BUILDING WHERE THE OFFICE OF THE COUNTY CLERK AND
+26 RECORDER OR THE OFFICE OF THE TREASURER IS LOCATED, WHICH PLACE
+27 MUST BE SPECIFICALLY DESIGNATED IN THE NOTICE OF PUBLIC AUCTION;
+-66- 144
+
+1 EXCEPT THAT A PUBLIC AUCTION MAY ALSO BE CONDUCTED BY MEANS OF
+2 THE INTERNET OR OTHER ELECTRONIC MEDIUM. THE COUNTY, THE
+3 TREASURER, AND EMPLOYEES OF THE COUNTY OR THE TREASURER, ACTING
+4 IN THEIR OFFICIAL CAPACITIES IN PREPARING, CONDUCTING, AND
+5 EXECUTING A PUBLIC AUCTION UNDER THIS ARTICLE 11.5 BY MEANS OF
+6 THE INTERNET OR ANOTHER ELECTRONIC MEDIUM, ARE NOT LIABLE FOR
+7 THE FAILURE OF A DEVICE THAT PREVENTS A PERSON FROM PARTICIPATING
+8 IN A PUBLIC AUCTION UNDER THIS ARTICLE 11.5.
+9 (b) AS USED IN SUBSECTION (1)(a) OF THIS SECTION, "DEVICE"
+10 INCLUDES, BUT IS NOT LIMITED TO, ANY COMPUTER HARDWARE, COMPUTER
+11 NETWORK, COMPUTER SOFTWARE APPLICATION, OR WEBSITE.
+12 (c) A NOTICE OF PUBLIC AUCTION MUST DESIGNATE THE ACTUAL
+13 PLACE OF THE AUCTION OR, IF THE PUBLIC AUCTION IS CONDUCTED BY
+14 MEANS OF THE INTERNET OR ANOTHER ELECTRONIC MEDIUM, THE
+15 INFORMATION PRESCRIBED BY SECTION 39-11.5-105 (3).
+16 (2) (a) AT A PUBLIC AUCTION, A TREASURER MUST READ ONLY THE
+17 TREASURER'S DEED NUMBER; THE NAME OF THE LAWFUL HOLDER; THE
+18 STREET ADDRESS OR, IF NONE, THE LEGAL DESCRIPTION OF THE PROPERTY;
+19 THE FIRST AND LAST PUBLICATION DATES OF THE NOTICE OF PUBLIC
+20 AUCTION, IF APPLICABLE; AND, IN ACCORDANCE WITH THE BID FORM
+21 SUBMITTED PURSUANT TO SECTION 39-11.5-107 (3), THE AMOUNT OF THE
+22 BID AND THE NAME OF THE PERSON WHO SUBMITTED THE BID.
+23 (b) IN LIEU OF READING THE INFORMATION REQUIRED BY
+24 SUBSECTION (2)(a) OF THIS SECTION, A TREASURER MAY POST THE
+25 INFORMATION AT THE LOCATION OF THE PUBLIC AUCTION, PROVIDE A
+26 WRITTEN COPY OF THE INFORMATION TO ALL PERSONS PRESENT AT THE
+27 PUBLIC AUCTION, OR POST THE INFORMATION ON THE INTERNET OR OTHER
+-67- 144
+
+1 ELECTRONIC MEDIUM, IF THE PUBLIC AUCTION IS CONDUCTED BY MEANS
+2 OF THE INTERNET OR ANOTHER ELECTRONIC MEDIUM.
+3 (3) (a) A TREASURER, ACTING IN THEIR INDIVIDUAL CAPACITY,
+4 MUST NOT BID AT A PUBLIC AUCTION HELD PURSUANT TO THIS SECTION.
+5 (b) THIS SUBSECTION (3) DOES NOT APPLY WHERE THE PROPERTY
+6 SUBJECT TO TAX LIEN IS MINERAL RIGHTS AND A TREASURER IS THE
+7 SURFACE OWNER OF SAID MINERAL RIGHTS.
+8 (4) AT ANY TIME BEFORE THE COMMENCEMENT OF A PUBLIC
+9 AUCTION, A TREASURER MAY, FOR GOOD CAUSE SHOWN, PROHIBIT A
+10 PERSON FROM PARTICIPATING IN A PUBLIC AUCTION. GOOD CAUSE MAY
+11 INCLUDE, BUT IS NOT LIMITED TO, FAILURE TO COMPLY WITH AUCTION
+12 PROCEDURES OR POLICIES ESTABLISHED BY THE TREASURER, OR ENGAGING
+13 IN DISRUPTIVE, ABUSIVE, FRAUDULENT, OR THREATENING BEHAVIOR. A
+14 TREASURER MAY PROHIBIT A PERSON FROM PARTICIPATING IN ANY PUBLIC
+15 AUCTION CONDUCTED UNDER THIS ARTICLE 11.5 FOR A PERIOD OF NOT
+16 MORE THAN FIVE YEARS.
+17 (5) (a) IF A PERSON BIDDING FAILS TO PAY THE AMOUNT DUE, A
+18 TREASURER MAY OFFER A CERTIFICATE OF OPTION FOR A TREASURER'S
+19 DEED, WITHOUT ADDITIONAL ADVERTISEMENT, TO ANOTHER BIDDER,
+20 WHETHER OR NOT THE PUBLIC AUCTION HAS CLOSED; OR MAY AGAIN
+21 OFFER AND SELL A CERTIFICATE OF PURCHASE ON SUCH PROPERTY; OR, AT
+22 A TREASURER'S OPTION, THE TREASURER MAY RECOVER THE AMOUNT BID
+23 BY CIVIL ACTION BROUGHT IN THE NAME OF THE COUNTY IN ANY COURT OF
+24 COMPETENT JURISDICTION.
+25 (b) IN A PUBLIC AUCTION CONDUCTED BY MEANS OF THE INTERNET
+26 OR OTHER ELECTRONIC MEDIUM, IF A PERSON BIDDING FAILS TO PAY THE
+27 AMOUNT DUE, A TREASURER MAY OFFER THE CERTIFICATE OF OPTION FOR
+-68- 144
+
+1 A TREASURER'S DEED, WITHOUT ADDITIONAL ADVERTISEMENT, TO
+2 ANOTHER BIDDER, WHETHER OR NOT THE PUBLIC AUCTION HAS CLOSED; OR
+3 MAY AGAIN OFFER AND SELL A CERTIFICATE OF PURCHASE ON THE
+4 PROPERTY; OR AT A TREASURER'S DISCRETION, THE TREASURER MAY
+5 RECOVER THE AMOUNT BID BY CIVIL ACTION BROUGHT IN THE NAME OF
+6 THE COUNTY IN ANY COURT OF COMPETENT JURISDICTION.
+7 (c) A TREASURER MAY PROHIBIT A PERSON WHO FAILS TO PAY THE
+8 AMOUNT DUE FROM BIDDING ON PUBLIC AUCTIONS UNDER THIS ARTICLE
+9 11.5 FOR NOT MORE THAN FIVE YEARS.
+10 (6) WHENEVER A TREASURER SELLS PROPERTY, THE TREASURER
+11 SHALL CREATE AND SEND FOR RECORDING IN THE RECORDS OF THE OFFICE
+12 OF THE CLERK A CERTIFICATE OF OPTION FOR TREASURER'S DEED
+13 PURSUANT TO SECTION 39-11.5-401.
+14 39-11.5-111. Continuance of public auction - effect of
+15 bankruptcy - withdrawal of application.
+16 (1) (a) FOR ANY REASON DEEMED BY A TREASURER TO BE GOOD
+17 CAUSE OR UPON WRITTEN REQUEST BY A LAWFUL HOLDER, AT ANY TIME
+18 BEFORE COMMENCEMENT OF A PUBLIC AUCTION, A TREASURER MAY
+19 CONTINUE A PUBLIC AUCTION TO A LATER DATE BY MAKING, AT THE TIME
+20 AND PLACE DESIGNATED FOR THE PUBLIC AUCTION, AN ORAL
+21 ANNOUNCEMENT OF THE TIME AND PLACE OF SUCH CONTINUANCE, OR BY
+22 POSTING OR PROVIDING A NOTICE OF THE CONTINUANCE AT THE TIME AND
+23 PLACE DESIGNATED FOR THE PUBLIC AUCTION, WHICH NOTICE MUST
+24 INCLUDE THE TIME AND PLACE TO WHICH THE PUBLIC AUCTION IS
+25 CONTINUED. EXCEPT AS PROVIDED IN SUBSECTION (2)(b)(I) OF THIS
+26 SECTION, A PUBLIC AUCTION THAT IS NOT HELD ON THE THEN-SCHEDULED
+27 PUBLIC AUCTION DATE AND IS NOT CONTINUED FROM THE
+-69- 144
+
+1 THEN-SCHEDULED PUBLIC AUCTION DATE PURSUANT TO THIS SUBSECTION
+2 (1)(a) IS DEEMED TO HAVE BEEN CONTINUED FOR A PERIOD OF ONE WEEK,
+3 AND FROM WEEK TO WEEK THEREAFTER IN LIKE MANNER, UNTIL THE
+4 PUBLIC AUCTION IS HELD OR OTHERWISE CONTINUED PURSUANT TO THIS
+5 SUBSECTION (1)(a). A TREASURER MUST NOT CONTINUE A PUBLIC AUCTION
+6 TO A DATE LATER THAN TWELVE MONTHS FROM THE ORIGINALLY
+7 DESIGNATED DATE IN THE NOTICE OF PUBLIC AUCTION, EXCEPT AS
+8 PROVIDED IN SUBSECTION (2) OF THIS SECTION.
+9 (b) AT THE REQUEST OF A LAWFUL HOLDER OR UPON A
+10 TREASURER'S OWN INITIATIVE, A TREASURER SHALL CORRECT ANY ERRORS
+11 IN A PUBLISHED NOTICE OF PUBLIC AUCTION AND SHALL CONTINUE THE
+12 THEN-SCHEDULED PUBLIC AUCTION TO A FUTURE DATE WITHIN THE PERIOD
+13 OF CONTINUANCE ALLOWED BY THIS SUBSECTION (1) TO PERMIT A
+14 CORRECTED NOTICE OF PUBLIC AUCTION TO BE PUBLISHED OR THE
+15 ORIGINAL NOTICE OF PUBLIC AUCTION TO BE REPUBLISHED PURSUANT TO
+16 SECTION 39-11.5-105 (4). IF A TREASURER FAILED TO PUBLISH THE NOTICE
+17 OF PUBLIC AUCTION AS REQUIRED BY SECTION 39-11.5-105 (4), THE
+18 TREASURER SHALL CONTINUE THE THEN-SCHEDULED PUBLIC AUCTION TO
+19 A FUTURE DATE WITHIN THE PERIOD OF CONTINUANCE ALLOWED BY
+20 SUBSECTION (1)(a) OF THIS SECTION. A FUTURE PUBLIC AUCTION DATE TO
+21 WHICH A TREASURER CONTINUES A PUBLIC AUCTION PURSUANT TO THIS
+22 SUBSECTION (1)(b) MUST BE NO LATER THAN THIRTY CALENDAR DAYS
+23 AFTER THE THIRD PUBLICATION OF A CORRECTED NOTICE OF PUBLIC
+24 AUCTION OR REPUBLICATION OF THE NOTICE OF PUBLIC AUCTION. THE
+25 TREASURER SHALL MAIL BY FIRST CLASS MAIL A COPY OF THE NOTICE OF
+26 PUBLIC AUCTION, OR CORRECTED NOTICE OF PUBLIC AUCTION IF THE
+27 ORIGINAL NOTICE OF PUBLIC AUCTION WAS ERRONEOUS, TO THE PERSONS
+-70- 144
+
+1 AND ADDRESSES ON THE MAILING LIST NO MORE THAN TEN CALENDAR
+2 DAYS AFTER THE FIRST CORRECTED PUBLICATION OR REPUBLICATION AND
+3 NO LESS THAN FORTY-FIVE CALENDAR DAYS PRIOR TO THE NEWLY
+4 SCHEDULED PUBLIC AUCTION IN THE SAME MANNER AS SET FORTH IN
+5 SECTION 39-11.5-105.
+6 (2) (a) IF ALL PUBLICATIONS OF A NOTICE OF PUBLIC AUCTION
+7 PRESCRIBED BY SECTION 39-11.5-105 (4) OR 13-56-201 (1) HAVE BEEN
+8 COMPLETED BEFORE ANY INJUNCTION OR BANKRUPTCY PETITION IS FILED
+9 WHICH AUTOMATICALLY STAYS THE TREASURER FROM CONDUCTING THE
+10 PUBLIC AUCTION, THE TREASURER SHALL ANNOUNCE, POST, OR PROVIDE
+11 NOTICE OF THAT FACT ON THE THEN-SCHEDULED PUBLIC AUCTION DATE,
+12 TAKE NO ACTION AT THE THEN-SCHEDULED PUBLIC AUCTION, AND ALLOW
+13 THE PUBLIC AUCTION TO BE AUTOMATICALLY CONTINUED FROM WEEK TO
+14 WEEK IN ACCORDANCE WITH SUBSECTION (1)(a) OF THIS SECTION, UNLESS
+15 OTHERWISE REQUESTED IN WRITING PRIOR TO ANY SUCH PUBLIC AUCTION
+16 BY THE LAWFUL HOLDER.
+17 (b) (I) IF THE PUBLICATIONS OF A NOTICE OF PUBLIC AUCTION
+18 PRESCRIBED BY SECTION 39-11.5-105 (4) OR 13-56-201 (1) HAVE NOT
+19 COMMENCED, OR IF ALL THE PUBLICATIONS HAVE NOT BEEN COMPLETED,
+20 BEFORE THE DATE THAT AN INJUNCTION OR A BANKRUPTCY PETITION IS
+21 FILED WHICH AUTOMATICALLY STAYS THE TREASURER FROM CONDUCTING
+22 THE PUBLIC AUCTION, THE TREASURER SHALL IMMEDIATELY CANCEL ANY
+23 REMAINING PUBLICATIONS OF THE NOTICE OF PUBLIC AUCTION AND, ON
+24 THE DATE SET FOR THE PUBLIC AUCTION, ANNOUNCE, POST, OR PROVIDE A
+25 NOTICE THAT THE PUBLIC AUCTION HAS BEEN ENJOINED OR HAS BEEN
+26 STAYED BY THE AUTOMATIC STAY PROVISIONS OF THE FEDERAL
+27 BANKRUPTCY CODE OF 1978, TITLE 11 OF THE UNITED STATES CODE, AS
+-71- 144
+
+1 AMENDED. THE PUBLIC AUCTION MAY NOT BE CONTINUED UNDER
+2 SUBSECTION (1)(a) OF THIS SECTION.
+3 (II) (A) UPON THE TERMINATION OF ANY INJUNCTION OR UPON THE
+4 ENTRY OF A BANKRUPTCY COURT ORDER DISMISSING THE BANKRUPTCY
+5 CASE, ABANDONING THE PROPERTY BEING SOLD, CLOSING THE
+6 BANKRUPTCY CASE, OR GRANTING RELIEF FROM THE AUTOMATIC STAY
+7 PROVISIONS OF THE FEDERAL BANKRUPTCY CODE OF 1978, TITLE 11 OF THE
+8 UNITED STATES CODE, AS AMENDED, AND UPON RECEIPT OF A REQUEST OF
+9 A LAWFUL HOLDER TO RESTART THE TREASURER'S DEED PROCESS, THE
+10 TREASURER SHALL RERECORD THE APPLICATION FOR TREASURER'S DEED
+11 AND PROCEED WITH ALL ADDITIONAL TREASURER'S DEED PROCEDURES
+12 PROVIDED BY THIS ARTICLE 11.5 AS THOUGH THE TREASURER'S DEED
+13 PROCESS HAD JUST COMMENCED.
+14 (B) IF A REQUEST TO RESTART THE PUBLIC AUCTION IS NOT
+15 RECEIVED BY A TREASURER WITHIN ONE YEAR FROM THE DATE OF THE
+16 TERMINATION OF ANY INJUNCTION OR THE ENTRY OF A BANKRUPTCY
+17 COURT ORDER DISMISSING THE BANKRUPTCY CASE, ABANDONING THE
+18 PROPERTY BEING SOLD, CLOSING THE BANKRUPTCY CASE, OR GRANTING
+19 RELIEF FROM THE AUTOMATIC STAY, THE PUBLIC AUCTION IS DEEMED
+20 WITHDRAWN ACCORDING TO SUBSECTION (3)(b) OF THIS SECTION.
+21 (III) IF A PUBLIC AUCTION IS HELD IN VIOLATION OF THE
+22 AUTOMATIC STAY PROVISIONS OF THE FEDERAL BANKRUPTCY CODE OF
+23 1978, TITLE 11 OF THE UNITED STATES CODE, AS AMENDED, AND AN
+24 ORDER IS SUBSEQUENTLY ENTERED BY A BANKRUPTCY COURT OF
+25 COMPETENT JURISDICTION DISMISSING THE BANKRUPTCY, ABANDONING
+26 THE PROPERTY BEING SOLD, OR CLOSING THE BANKRUPTCY CASE, OR AN
+27 ORDER IS SUBSEQUENTLY ENTERED GRANTING RELIEF FROM THE
+-72- 144
+
+1 AUTOMATIC STAY PROVIDED BY THE FEDERAL BANKRUPTCY CODE, THEN
+2 THE CERTIFICATE OF PURCHASE MUST IMMEDIATELY BE DEEMED
+3 REINSTATED, AND THE CERTIFICATE OF PURCHASE MUST HAVE THE SAME
+4 PRIORITY AS IF THE PUBLIC AUCTION HAD NOT OCCURRED. IMMEDIATELY
+5 UPON REINSTATEMENT, THE APPLICATION FOR TREASURER'S DEED SHALL
+6 BE DEEMED REVIVED.
+7 (IV) IF A LAWFUL HOLDER NOTIFIES A TREASURER IN WRITING OF
+8 THE ENTRY OF AN ORDER DISMISSING THE BANKRUPTCY CASE,
+9 ABANDONING THE PROPERTY BEING SOLD, CLOSING THE BANKRUPTCY
+10 CASE, OR GRANTING RELIEF FROM THE AUTOMATIC STAY PROVIDED BY THE
+11 FEDERAL BANKRUPTCY CODE OF 1978, TITLE 11 OF THE UNITED STATES
+12 CODE, AS AMENDED, NO LATER THAN FIFTY CALENDAR DAYS PRIOR TO THE
+13 LAST POSSIBLE PUBLIC AUCTION DATE PURSUANT TO SUBSECTIONS (1)(a)
+14 AND (2)(e) OF THIS SECTION, THE TREASURER SHALL SET A NEW PUBLIC
+15 AUCTION DATE AT LEAST TWENTY-FOUR CALENDAR DAYS BUT NOT MORE
+16 THAN FORTY-NINE CALENDAR DAYS AFTER THE DATE ON WHICH THE
+17 TREASURER RECEIVES THIS NOTICE. NO LATER THAN TEN BUSINESS DAYS
+18 AFTER RECEIVING THE NOTICE, THE TREASURER SHALL MAIL BY FIRST
+19 CLASS MAIL AN AMENDED NOTICE OF PUBLIC AUCTION CONTAINING THE
+20 DATE OF THE RESCHEDULED PUBLIC AUCTION TO EACH PERSON APPEARING
+21 ON THE MAILING LIST. NO LATER THAN TWENTY CALENDAR DAYS AFTER
+22 RECEIVING THE NOTICE, BUT NO LESS THAN TEN CALENDAR DAYS PRIOR TO
+23 THE NEW PUBLIC AUCTION, THE TREASURER SHALL PUBLISH THE AMENDED
+24 NOTICE OF PUBLIC AUCTION, OMITTING THE COPIES OF THE STATUTES ONE
+25 TIME ONLY IN A NEWSPAPER OF GENERAL CIRCULATION IN THE COUNTY
+26 WHERE THE PROPERTY IS LOCATED, SUBJECT TO THE FOLLOWING
+27 LIMITATIONS:
+-73- 144
+
+1 (A) IF THE ASSESSED VALUE OF A PROPERTY AT THE TIME OF THE
+2 RERECORDING OF AN APPLICATION FOR TREASURER'S DEED IS LESS THAN
+3 FIVE HUNDRED DOLLARS, NO PUBLICATION IS REQUIRED; OR
+4 (B) IF THERE IS NO NEWSPAPER OF GENERAL CIRCULATION IN A
+5 COUNTY WHERE A PROPERTY IS LOCATED, A TREASURER SHALL POST A
+6 NOTICE CONSPICUOUSLY IN THE OFFICES OF THE COUNTY CLERK AND
+7 RECORDER, THE TREASURER, AND THE ASSESSOR, AND IN AT LEAST TWO
+8 OTHER PUBLIC PLACES IN THE COUNTY SEAT.
+9 (V) IF A LAWFUL HOLDER DOES NOT NOTIFY A TREASURER IN
+10 WRITING OF THE ENTRY OF AN ORDER DISMISSING THE BANKRUPTCY CASE,
+11 ABANDONING THE PROPERTY BEING SOLD, CLOSING THE BANKRUPTCY
+12 CASE, OR GRANTING RELIEF FROM THE AUTOMATIC STAY PROVIDED BY THE
+13 FEDERAL BANKRUPTCY CODE OF 1978, TITLE 11 OF THE UNITED STATES
+14 CODE, AS AMENDED, WITHIN THE TIME ALLOWED UNDER SUBSECTION
+15 (2)(b)(IV) OF THIS SECTION, THE TREASURER SHALL ADMINISTRATIVELY
+16 WITHDRAW THE APPLICATION FOR TREASURER'S DEED PURSUANT TO
+17 SUBSECTION (3)(b) OF THIS SECTION UPON RECEIPT OF THE ORDER
+18 DISMISSING THE BANKRUPTCY CASE, ABANDONING THE PROPERTY BEING
+19 SOLD, CLOSING THE BANKRUPTCY CASE, OR GRANTING RELIEF FROM THE
+20 AUTOMATIC STAY PROVIDED BY THE FEDERAL BANKRUPTCY CODE OF
+21 1978, TITLE 11 OF THE UNITED STATES CODE, AS AMENDED.
+22 (VI) ALL FEES AND COSTS OF PROVIDING AND PUBLISHING THE
+23 AMENDED NOTICE OF PUBLIC AUCTION AND PUBLICATION ARE PART OF THE
+24 TREASURER'S DEED COSTS.
+25 (c) IF A PUBLIC AUCTION IS SET ASIDE BY COURT ORDER, UNLESS
+26 THE COURT ORDER SPECIFIES OTHERWISE, THE FOLLOWING PROCEDURES
+27 APPLY:
+-74- 144
+
+1 (I) UPON RECEIPT OF THE COURT ORDER, THE TREASURER'S FEE
+2 SPECIFIED IN SECTION 30-1-102 (1.7)(a)(XII), AND THE COSTS OF
+3 RECORDING THE COURT ORDER AS SPECIFIED IN THIS SUBSECTION (2)(c),
+4 THE TREASURER SHALL ATTACH TO THE ORDER A COPY OF THE
+5 CERTIFICATE OF OPTION FOR A TREASURER'S DEED, ANY ASSIGNMENTS
+6 THEREOF, AND, IF APPLICABLE, THE TREASURER'S DEED, EACH MARKED
+7 "NULL AND VOID", AND RECORD THE ORDER TOGETHER WITH THESE
+8 DOCUMENTS.
+9 (II) UPON RECORDING OF THE COURT ORDER, THE CERTIFICATE OF
+10 OPTION FOR A TREASURER'S DEED IS DEEMED CANCELED AS IF THE PUBLIC
+11 AUCTION HAD NOT OCCURRED, AND THE CERTIFICATE OF PURCHASE IS
+12 DEEMED FULLY REINSTATED WITH THE SAME LIEN PRIORITY AS IF THE
+13 PUBLIC AUCTION HAD NOT OCCURRED.
+14 (III) WITHIN TEN CALENDAR DAYS AFTER RECEIVING ALL
+15 DOCUMENTS, FEES, AND COSTS SPECIFIED IN THIS SUBSECTION (2)(c), THE
+16 TREASURER SHALL MAIL BY FIRST CLASS MAIL A COPY OF THE COURT
+17 ORDER TO EACH PERSON ENTITLED TO RECEIVE THE NOTICE OF PUBLIC
+18 AUCTION PURSUANT TO SECTION 39-11.5-104.
+19 (IV) (A) AFTER THE RECORDING OF A COURT ORDER, THE LAWFUL
+20 HOLDER OR THE ASSIGNEE MAY NOTIFY THE TREASURER IN WRITING TO
+21 RESCHEDULE THE PUBLIC AUCTION WITHIN ONE YEAR OF THE ISSUANCE OF
+22 THE ORDER. THE TREASURER SHALL SET A NEW PUBLIC AUCTION DATE AT
+23 LEAST THIRTY CALENDAR DAYS BUT NOT MORE THAN FORTY-FIVE
+24 CALENDAR DAYS AFTER THE DATE ON WHICH THE TREASURER RECEIVES
+25 NOTICE TO SCHEDULE A NEW PUBLIC AUCTION SUBJECT TO THE
+26 REQUIREMENTS OF SUBSECTIONS (1)(a) AND (2)(e) OF THIS SECTION, BUT
+27 NOT EARLIER THAN THE SCHEDULED AUCTION DATE AS OF THE DATE OF
+-75- 144
+
+1 THE COURT ORDER.
+2 (B) NO MORE THAN TEN CALENDAR DAYS AFTER RECEIVING
+3 NOTICE TO SCHEDULE A NEW PUBLIC AUCTION, THE TREASURER SHALL
+4 MAIL BY FIRST CLASS MAIL A NOTICE OF PUBLIC AUCTION SETTING FORTH
+5 THE RESCHEDULED PUBLIC AUCTION DATE TO EACH PERSON ENTITLED TO
+6 RECEIVE THE NOTICE OF PUBLIC AUCTION PURSUANT TO SECTION
+7 39-11.5-104.
+8 (C) NO MORE THAN TWENTY CALENDAR DAYS AFTER RECEIVING
+9 NOTICE TO SCHEDULE A NEW PUBLIC AUCTION, BUT NO LESS THAN TEN
+10 CALENDAR DAYS PRIOR TO THE NEW PUBLIC AUCTION DATE, THE
+11 TREASURER SHALL PUBLISH THE NOTICE OF PUBLIC AUCTION ONE TIME
+12 ONLY. THE PUBLICATION MUST BE IN THE FORMAT SPECIFIED FOR
+13 PUBLICATION BY SECTION 39-11.5-105 (4) AND IS SUBJECT TO THE SAME
+14 LIMITATIONS SET FORTH IN SUBSECTIONS (2)(b)(IV)(A) AND (2)(b)(IV)(B)
+15 OF THIS SECTION.
+16 (D) ALL FEES AND COSTS OF A TREASURER FOR ACTIONS
+17 PERFORMED UNDER THIS SECTION AND THE COST OF RECORDING THE
+18 COURT ORDER AND DOCUMENTS INCORPORATED INTO THE COURT ORDER
+19 BY ATTACHMENT ARE PART OF THE TREASURER'S DEED COSTS.
+20 (E) AFTER A PUBLIC AUCTION HAS BEEN SET ASIDE AND
+21 SUBSEQUENTLY RESCHEDULED PURSUANT TO THIS SUBSECTION (2)(c)(IV),
+22 THE PUBLIC AUCTION MAY BE CONTINUED IN ACCORDANCE WITH
+23 SUBSECTIONS (1)(a) AND (2)(e) OF THIS SECTION.
+24 (F) IF A WRITTEN REQUEST TO RESCHEDULE A PUBLIC AUCTION IN
+25 ACCORDANCE WITH THIS SUBSECTION (2) IS NOT RECEIVED BY THE
+26 TREASURER WITHIN ONE YEAR OF THE ISSUANCE OF AN ORDER, AN
+27 APPLICATION FOR TREASURER'S DEED MUST BE WITHDRAWN ACCORDING
+-76- 144
+
+1 TO SUBSECTION (3)(b) OF THIS SECTION.
+2 (V) NOTHING IN THIS SECTION PREVENTS A LAWFUL HOLDER FROM
+3 SEEKING A RESCISSION OF SALE PURSUANT TO SECTION 39-11.5-114 IF THE
+4 REQUIREMENTS IN THAT SECTION ARE MET.
+5 (d) THE PERIOD FOR WHICH A PUBLIC AUCTION MAY BE CONTINUED
+6 UNDER THIS SUBSECTION (2) MUST BE IN ADDITION TO THE TWELVE-MONTH
+7 PERIOD OF CONTINUANCE PROVIDED BY SUBSECTION (1) OF THIS SECTION.
+8 (3) (a) IF A LAWFUL HOLDER FILES WITH A TREASURER, PRIOR TO
+9 A PUBLIC AUCTION, A WRITTEN WITHDRAWAL OF AN APPLICATION FOR
+10 TREASURER'S DEED, THE TREASURER'S DEED PROCEEDINGS TERMINATE.
+11 THE TREASURER SHALL RECORD THE WITHDRAWAL AND COLLECT ALL FEES
+12 AND COSTS OWED AND INCURRED, INCLUDING A WITHDRAWAL FEE IN THE
+13 AMOUNT AUTHORIZED BY SECTION 30-1-102 (1.7)(a)(VIII).
+14 (b) IF THERE IS NO PUBLIC AUCTION AND IF A WITHDRAWAL IS NOT
+15 FILED WITHIN FORTY-FIVE CALENDAR DAYS AFTER THE LAST POSSIBLE
+16 PUBLIC AUCTION DATE PERMITTED BY LAW, A TREASURER MAY TRANSMIT
+17 BY MAIL OR ELECTRONIC TRANSMISSION TO A LAWFUL HOLDER A NOTICE
+18 THAT A WITHDRAWAL OF THEIR APPLICATION FOR TREASURER'S DEED MAY
+19 BE RECORDED BY THE TREASURER UNLESS A RESPONSE IS RECEIVED BY THE
+20 TREASURER WITHIN THIRTY CALENDAR DAYS AFTER THE DATE THE
+21 TREASURER'S NOTICE IS TRANSMITTED. IF A RESPONSE IS RECEIVED BY THE
+22 TREASURER AND NO WITHDRAWAL IS FILED WITHIN FORTY-FIVE DAYS
+23 AFTER THE NOTICE IS TRANSMITTED, THE TREASURER MAY RECORD A
+24 WITHDRAWAL OF THE APPLICATION FOR TREASURER'S DEED. IF NO
+25 RESPONSE IS RECEIVED BY THE TREASURER WITHIN THIRTY CALENDAR
+26 DAYS AFTER THE NOTICE IS TRANSMITTED, THE TREASURER MAY RECORD
+27 A WITHDRAWAL OF THE APPLICATION FOR TREASURER'S DEED AT ANY TIME
+-77- 144
+
+1 AFTER THE EXPIRATION OF THE THIRTY-DAY NOTICE PERIOD. IF A
+2 WITHDRAWAL IS RECORDED DURING THE PENDENCY OF AN AUTOMATIC
+3 STAY IMPOSED ON A PUBLIC AUCTION BASED ON ANY PROCEEDING FILED
+4 UNDER THE FEDERAL BANKRUPTCY CODE OF 1978, TITLE 11 OF THE
+5 UNITED STATES CODE, AS AMENDED, THE WITHDRAWAL IS VOID AND OF
+6 NO FORCE AND EFFECT, AND THE TREASURER SHALL MAIL BY FIRST CLASS
+7 MAIL TO ALL PERSONS ON THE MAILING LIST A NOTICE THAT THE
+8 WITHDRAWAL OF APPLICATION FOR TREASURER'S DEED OCCURRED DURING
+9 THE PENDENCY OF AN INJUNCTION OR BANKRUPTCY STAY AND IS VOID AND
+10 OF NO FORCE AND EFFECT. THE TREASURER SHALL CAUSE THE NOTICE TO
+11 BE RECORDED IN THE OFFICE OF THE COUNTY CLERK AND RECORDER OF
+12 THE COUNTY WHERE THE PROPERTY DESCRIBED IN THE NOTICE IS
+13 LOCATED. THE LAWFUL HOLDER SHALL PAY ALL UNPAID FEES AND COSTS
+14 OWED AND INCURRED BY THE TREASURER, AS WELL AS A WITHDRAWAL FEE
+15 IN THE AMOUNT AUTHORIZED BY SECTION 30-1-102 (1.7)(a)(VIII). THE
+16 AMOUNT DUE MUST ACCRUE INTEREST AT THE RATE PROVIDED BY LAW.
+17 UNTIL ALL AMOUNTS DUE AND OWING ARE PAID, A TREASURER IS
+18 ENTITLED TO HOLD ALL DOCUMENTATION IN THE TREASURER'S POSSESSION
+19 AND TO WITHHOLD ALL OTHER SERVICES REQUESTED BY A LAWFUL
+20 HOLDER WITH RESPECT TO A CERTIFICATE OF OPTION FOR A TREASURER'S
+21 DEED.
+22 39-11.5-112. Treatment of overbid - agreement to assist in
+23 recovery of overbid.
+24 (1) UPON THE EXPIRATION OF THE CLAIM FOR OVERBID MONEY
+25 PERIOD PROVIDED IN SECTION 39-11.5-301, ANY REMAINING OVERBID
+26 MUST BE PAID IN ORDER OF RECORDING PRIORITY TO JUNIOR LIENORS, WHO
+27 HAVE DULY FILED A CLAIM FOR OVERBID MONEY PURSUANT TO SECTION
+-78- 144
+
+1 39-11.5-303, IN EACH CASE UP TO THE UNPAID AMOUNT OF EACH SUCH
+2 JUNIOR LIENOR'S LIEN PLUS ALLOWABLE FEES AND COSTS. A JUNIOR
+3 LIENOR HOLDING A LIEN THAT IS NOT ENTITLED TO CLAIM AN OVERBID
+4 MONEY BY VIRTUE OF BEING RECORDED AFTER THE APPLICATION FOR
+5 TREASURER'S DEED OR A LIENOR THAT HAS NOT TIMELY FILED A CLAIM FOR
+6 OVERBID MONEY PURSUANT TO SECTION 39-11.5-303 DOES NOT HAVE ANY
+7 CLAIM TO ANY PORTION OF THE OVERBID. AFTER PAYMENT TO ALL JUNIOR
+8 LIENORS ENTITLED TO RECEIVE A PORTION OF THE OVERBID PURSUANT TO
+9 THIS SECTION, ANY REMAINING OVERBID MONEY MUST BE PAID TO THE
+10 PROPERTY OWNER.
+11 (2) (a) IF A TREASURER MAINTAINS A WEBSITE FOR THEIR OFFICE,
+12 THE TREASURER SHALL INCLUDE THE FOLLOWING STATEMENT ON THE
+13 WEBSITE:
+14 NOTICE TO A PROPERTY OWNER: IF YOUR PROPERTY GOES
+15 TO A PUBLIC AUCTION AND IS PURCHASED FOR MORE THAN THE
+16 TOTAL OWED TO THE LAWFUL HOLDER AND TO ALL OTHER JUNIOR
+17 LIEN HOLDERS, PLEASE CONTACT THE TREASURER'S OFFICE AFTER
+18 THE PUBLIC AUCTION BECAUSE YOU MAY HAVE MONEY DUE TO
+19 YOU.
+20 (b) TO PAY THE PROPERTY OWNER AS REQUIRED PURSUANT TO THIS
+21 SUBSECTION (2), A TREASURER SHALL SEND A NOTICE TO THE PROPERTY
+22 OWNER. IF THE AMOUNT OF REMAINING OVERBID IS EQUAL TO OR GREATER
+23 THAN TWENTY-FIVE DOLLARS, THE TREASURER SHALL MAKE REASONABLE
+24 EFFORTS TO IDENTIFY THE PROPERTY OWNER'S CURRENT MAILING
+25 ADDRESS. THE TREASURER SHALL MAIL BY FIRST-CLASS MAIL TO THE
+26 PROPERTY OWNER A NOTICE REGARDING THE REMAINING OVERBID TO THE
+27 BEST AVAILABLE ADDRESS NO LATER THAN THIRTY CALENDAR DAYS
+-79- 144
+
+1 AFTER THE EXPIRATION OF THE CLAIM FOR OVERBID MONEY PERIOD AS
+2 PROVIDED IN SECTION 39-11.5-303 (2).
+3 (c) ANY AGREEMENT TO PAY COMPENSATION TO RECOVER OR
+4 ASSIST IN RECOVERING AN UNCLAIMED OVERBID TRANSFERRED TO THE
+5 ADMINISTRATOR UNDER THIS SECTION OR TO THE COUNTY TREASURER PER
+6 A COUNTY RESOLUTION IS ENFORCEABLE IF THE COMPENSATION TO BE PAID
+7 UNDER THE TERMS OF THE AGREEMENT DOES NOT EXCEED TEN PERCENT
+8 OF THE AMOUNT OF THE OVERBID MONEY AND IF ENTERED INTO AT LEAST
+9 TWO YEARS AFTER THE DATE OF THE TRANSFER.
+10 (3) (a) THE TREASURER SHALL HOLD ANY UNCLAIMED REMAINING
+11 OVERBID FROM A PUBLIC AUCTION IN ESCROW FOR TWO YEARS FROM THE
+12 DATE OF THE PUBLIC AUCTION. THE TREASURER IS ANSWERABLE TO ANY
+13 PERSON LEGALLY ENTITLED TO THE MONEY WITHOUT INTEREST AT ANY
+14 TIME WITHIN THE TWO-YEAR PERIOD. ANY INTEREST EARNED ON THE
+15 ESCROWED MONEY MUST BE PAID TO THE COUNTY AT LEAST ANNUALLY.
+16 REMAINING OVERBID CLAIMS THAT ARE FOR LESS THAN TWENTY-FIVE
+17 DOLLARS AND THAT ARE NOT CLAIMED WITHIN SIX MONTHS FROM THE
+18 DATE OF THE PUBLIC AUCTION MUST BE PAID TO THE GENERAL FUND OF
+19 THE COUNTY, AND THE MONEY PAID TO THE GENERAL FUND OF THE
+20 COUNTY BECOMES THE PROPERTY OF THE COUNTY. REMAINING OVERBID
+21 CLAIMS FOR AMOUNTS THAT ARE EQUAL TO OR GREATER THAN
+22 TWENTY-FIVE DOLLARS AND THAT ARE NOT CLAIMED WITHIN TWO YEARS
+23 FROM THE DATE OF THE PUBLIC AUCTION MAY BE UNCLAIMED PROPERTY
+24 FOR PURPOSES OF THE "REVISED UNIFORM UNCLAIMED PROPERTY ACT",
+25 ARTICLE 13 OF TITLE 38, AND MUST BE TRANSFERRED TO THE STATE
+26 TREASURER IN ACCORDANCE WITH ARTICLE 13 OF TITLE 38. AFTER
+27 UNCLAIMED REMAINING OVERBID MONEY IS TRANSFERRED TO THE STATE
+-80- 144
+
+1 TREASURER OR TO THE GENERAL FUND OF THE COUNTY, THE TREASURER
+2 IS DISCHARGED FROM ANY FURTHER LIABILITY OR RESPONSIBILITY FOR THE
+3 MONEY.
+4 (b) IF THE UNCLAIMED REMAINING OVERBID MONEY EXCEEDS FIVE
+5 HUNDRED DOLLARS AND HAS NOT BEEN CLAIMED BY ANY PERSON
+6 ENTITLED THERETO WITHIN SIXTY CALENDAR DAYS AFTER THE EXPIRATION
+7 OF THE CLAIM FOR OVERBID MONEY PERIOD PROVIDED BY SECTION
+8 39-11.5-303 (2), THE TREASURER SHALL, WITHIN NINETY CALENDAR DAYS
+9 AFTER THE EXPIRATION OF THE CLAIM FOR OVERBID MONEY PERIOD,
+10 PUBLISH A NOTICE, ONE TIME ONLY, IN A NEWSPAPER OF GENERAL
+11 CIRCULATION IN THE COUNTY WHERE THE PROPERTY IS LOCATED. THE
+12 NOTICE MUST CONTAIN THE NAME OF THE PROPERTY OWNER, THE
+13 PROPERTY OWNER'S ADDRESS AS GIVEN IN THE CERTIFICATE OF PURCHASE,
+14 AND THE LEGAL DESCRIPTION AND STREET ADDRESS, IF ANY, OF THE
+15 PROPERTY SOLD AT THE PUBLIC AUCTION. THE NOTICE MUST STATE THAT
+16 AN OVERBID WAS REALIZED FROM THE PUBLIC AUCTION AND THAT, UNLESS
+17 THE OVERBID IS CLAIMED BY THE PROPERTY OWNER OR OTHER PERSON
+18 ENTITLED THERETO WITHIN TWO YEARS AFTER THE PUBLIC AUCTION, THE
+19 MONEY WILL BE TRANSFERRED TO THE STATE TREASURER FOR
+20 DISPOSITION IN ACCORDANCE WITH THE "REVISED UNIFORM UNCLAIMED
+21 PROPERTY ACT", ARTICLE 13 OF TITLE 38. THE TREASURER SHALL ALSO
+22 MAIL BY FIRST-CLASS MAIL A COPY OF THE NOTICE TO THE PROPERTY
+23 OWNER AT THE BEST AVAILABLE ADDRESS.
+24 (c) THE FEES AND COSTS OF PUBLICATION AND MAILING REQUIRED
+25 PURSUANT TO THIS SUBSECTION (3) MUST BE PAID FROM THE OVERBID
+26 ESCROWED BY THE TREASURER.
+27 39-11.5-113. Use of electronic documents authorized.
+-81- 144
+
+1 CONSISTENT WITH THE "UNIFORM ELECTRONIC TRANSACTIONS
+2 ACT", ARTICLE 71.3 OF TITLE 24, ANY DOCUMENT OR RECORD RELATED TO
+3 A PUBLIC AUCTION MAY BE ACCEPTED BY THE TREASURER IN AN
+4 ELECTRONIC FORMAT OR MAY BE MADE AVAILABLE TO THE PUBLIC BY THE
+5 TREASURER IN AN ELECTRONIC FORMAT. THE TREASURER SHALL
+6 ESTABLISH AND UNIFORMLY APPLY WRITTEN POLICIES FOR DETERMINING
+7 WHETHER AND THE EXTENT TO WHICH THE TREASURER SHALL ACCEPT
+8 DOCUMENTS OR RECORDS IN ELECTRONIC FORM; EXCEPT THAT, THE
+9 TREASURER SHALL NOT REQUIRE THE USE OF AN ELECTRONIC FORMAT FOR
+10 ANY PURPOSE UNDER THIS ARTICLE 11.5 EXCEPT AS NECESSARY FOR SALES
+11 CONDUCTED BY MEANS OF THE INTERNET OR ANOTHER ELECTRONIC
+12 MEDIUM.
+13 39-11.5-114. Rescission of public auction.
+14 (1) (a) IF THE SUCCESSFUL PURCHASER AT A PUBLIC AUCTION IS A
+15 LAWFUL HOLDER, THEN THE LAWFUL HOLDER MAY RESCIND THE PUBLIC
+16 AUCTION WITHOUT OBTAINING A COURT ORDER BY FILING WITH THE
+17 TREASURER NO LATER THAN THREE BUSINESS DAYS AFTER THE DATE OF
+18 THE PUBLIC AUCTION A NOTICE OF RESCISSION OF PUBLIC AUCTION
+19 STATING THAT THE PUBLIC AUCTION IS BEING RESCINDED. THE NOTICE OF
+20 RESCISSION MUST INCLUDE THE TREASURER'S DEED NUMBER, THE DATE OF
+21 THE PUBLIC AUCTION, THE NAME OF THE PERSON TO WHOM THE
+22 CERTIFICATE OF OPTION FOR A TREASURER'S DEED WAS ISSUED, THE NAME
+23 OF THE ASSIGNEE, IF ANY, THE RECORDING DATE AND RECEPTION NUMBER
+24 OR BOOK AND PAGE NUMBER FOR THE RECORDED CERTIFICATE OF OPTION
+25 FOR A TREASURER'S DEED, AND THE LEGAL DESCRIPTION OF THE PROPERTY
+26 SOLD. THE NOTICE MUST BE SIGNED AND PROPERLY ACKNOWLEDGED BY
+27 THE LAWFUL HOLDER OR ASSIGNEE OR SIGNED BY THEIR ATTORNEY.
+-82- 144
+
+1 (b) UPON RECEIPT OF A NOTICE OF RESCISSION OF A PUBLIC
+2 AUCTION, ANY ASSIGNMENT OF THE CERTIFICATE OF OPTION FOR A
+3 TREASURER'S DEED, THE TREASURER'S FEE FOR THE RESCISSION SPECIFIED
+4 IN SECTION 30-1-102 (1.7)(a)(IX), AND THE COSTS OF RECORDING THE
+5 NOTICE OF RESCISSION OF A PUBLIC AUCTION, THE TREASURER SHALL
+6 RECORD THE NOTICE OF RESCISSION OF THE PUBLIC AUCTION IN THE
+7 COUNTY RECORDS.
+8 (2) UPON RECORDING OF A NOTICE OF RESCISSION OF PUBLIC
+9 AUCTION BY A TREASURER, A CERTIFICATE OF OPTION FOR A TREASURER'S
+10 DEED IS DEEMED CANCELED AS IF THE PUBLIC AUCTION HAD NOT
+11 OCCURRED, AND THE CERTIFICATE OF PURCHASE IS DEEMED FULLY
+12 REINSTATED WITH THE SAME LIEN PRIORITY AS IF THE PUBLIC AUCTION
+13 HAD NOT OCCURRED. THE TREASURER SHALL CONFIRM THE
+14 REINSTATEMENT BY ENDORSEMENT ON THE CERTIFICATE OF PURCHASE
+15 SUBMITTED PURSUANT TO SECTION 39-11.5-102.
+16 (3) WITHIN TEN CALENDAR DAYS AFTER RECEIPT OF ALL
+17 DOCUMENTS AND FEES AND COSTS SPECIFIED IN SUBSECTION (1)(b) OF THIS
+18 SECTION, THE TREASURER SHALL MAIL BY FIRST-CLASS MAIL A COPY OF
+19 THE NOTICE OF RESCISSION OF THE PUBLIC AUCTION TO EACH PERSON WHO
+20 WAS ENTITLED TO RECEIVE THE NOTICE OF THE PUBLIC AUCTION PURSUANT
+21 TO SECTION 39-11.5-104.
+22 (4) (a) AFTER THE RECORDING OF A NOTICE OF RESCISSION OF
+23 PUBLIC AUCTION, A LAWFUL HOLDER OR THE ASSIGNEE MAY NOTIFY THE
+24 TREASURER IN WRITING TO RESCHEDULE THE PUBLIC AUCTION. THE
+25 TREASURER SHALL SET A NEW PUBLIC AUCTION AT LEAST THIRTY
+26 CALENDAR DAYS BUT NOT MORE THAN FORTY-FIVE CALENDAR DAYS
+27 AFTER THE DATE ON WHICH THE TREASURER RECEIVES NOTICE TO
+-83- 144
+
+1 SCHEDULE A NEW PUBLIC AUCTION, SUBJECT TO THE REQUIREMENTS OF
+2 SECTION 39-11.5-109.
+3 (b) NO LATER THAN TEN CALENDAR DAYS AFTER RECEIVING
+4 NOTICE TO SCHEDULE A NEW PUBLIC AUCTION, THE TREASURER SHALL
+5 MAIL BY FIRST-CLASS MAIL A NOTICE OF PUBLIC AUCTION SETTING FORTH
+6 THE RESCHEDULED PUBLIC AUCTION DATE TO EACH PERSON WHO WAS
+7 ENTITLED TO RECEIVE THE NOTICE OF PUBLIC AUCTION PURSUANT TO
+8 SECTION 39-11.5-104.
+9 (c) NO MORE THAN TWENTY CALENDAR DAYS AFTER RECEIVING
+10 NOTICE TO SCHEDULE A NEW PUBLIC AUCTION, BUT NO LESS THAN TEN
+11 CALENDAR DAYS PRIOR TO THE NEWLY SCHEDULED PUBLIC AUCTION DATE,
+12 THE TREASURER SHALL PUBLISH THE NOTICE OF PUBLIC AUCTION ONE TIME
+13 ONLY, SUBJECT TO THE FOLLOWING LIMITATIONS:
+14 (I) IF THE ASSESSED VALUE OF A PROPERTY AT THE TIME A
+15 TREASURER RECEIVES NOTICE TO SCHEDULE A NEW PUBLIC AUCTION IS
+16 LESS THAN FIVE HUNDRED DOLLARS, NO PUBLICATION IS REQUIRED; OR
+17 (II) IF THERE IS NO NEWSPAPER OF GENERAL CIRCULATION IN THE
+18 COUNTY WHERE THE PROPERTY IS LOCATED, THEN THE TREASURER SHALL
+19 POST THE NOTICE FOR PUBLIC AUCTION CONSPICUOUSLY IN THE OFFICES OF
+20 THE COUNTY CLERK AND RECORDER, THE TREASURER, AND THE ASSESSOR
+21 AND IN AT LEAST TWO OTHER PUBLIC PLACES IN THE COUNTY SEAT.
+22 (d) ALL FEES AND COSTS OF A TREASURER FOR ACTIONS
+23 PERFORMED UNDER THIS SECTION AND THE COST OF RECORDING THE
+24 NOTICE OF RESCISSION OF PUBLIC AUCTION MUST BE PART OF THE
+25 TREASURER'S DEED COSTS.
+26 (e) AFTER A PUBLIC AUCTION HAS BEEN RESCINDED AND
+27 RESCHEDULED PURSUANT TO THIS SUBSECTION (4), THE PUBLIC AUCTION
+-84- 144
+
+1 MAY BE CONTINUED IN ACCORDANCE WITH SECTION 39-11.5-111 (1)(a).
+2 (f) IF A WRITTEN REQUEST TO RESCHEDULE THE PUBLIC AUCTION
+3 IS NOT RECEIVED BY A TREASURER WITHIN ONE YEAR OF THE RECORDING
+4 OF A NOTICE OF RESCISSION, AN APPLICATION FOR TREASURER'S DEED
+5 MUST BE WITHDRAWN.
+6 (5) NOTHING IN THIS SECTION PREVENTS ANY PERSON FROM
+7 SEEKING A RESCISSION OF A PUBLIC AUCTION THROUGH A COURT OF
+8 COMPETENT JURISDICTION.
+9 (6) CLAIMS FOR DAMAGES BY ANY PERSON ARISING OUT OF A
+10 RESCISSION OF A PUBLIC AUCTION PURSUANT TO THIS SECTION ARE
+11 LIMITED TO THE REASONABLE ACTUAL EXPENSES OF THE PERSON AND
+12 MUST NOT INCLUDE ANY SPECULATIVE OR EXPECTATION DAMAGES,
+13 AWARDS, OR CLAIMS OF ANY KIND, WHETHER LEGAL OR EQUITABLE.
+14 (7) THE ENDORSEMENT OF THE TREASURER PURSUANT TO
+15 SUBSECTION (2) OF THIS SECTION MUST BE IN SUBSTANTIALLY THE
+16 FOLLOWING FORM:
+17 THE UNDERSIGNED, AS TREASURER FOR THE COUNTY OF
+18 _______________, STATE OF COLORADO, BY THIS ENDORSEMENT,
+19 HEREBY CONFIRMS THE REINSTATEMENT OF THIS CERTIFICATE OF
+20 PURCHASE IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION
+21 39-11.5-113, COLORADO REVISED STATUTES.
+22 DATE:
+23 SIGNATURE:
+24 TREASURER
+25 FOR THE COUNTY OF ____________,
+26 STATE OF COLORADO.
+27 39-11.5-115. Unclaimed refunds - disposition.
+-85- 144
+
+1 MONEY PAYABLE AS A REFUND FOR OVERPAYMENT OF A
+2 REDEMPTION PURSUANT TO PART 1 OF THIS ARTICLE 11.5 THAT REMAINS
+3 UNCLAIMED BY THE PROPERTY OWNER FOR TWO YEARS AFTER THE MONEY
+4 BECAME PAYABLE IS PRESUMED ABANDONED AND MAY BE REPORTED AND
+5 PAID TO THE STATE TREASURER IN ACCORDANCE WITH SECTIONS
+6 38-13-401 AND 38-13-603.
+7 39-11.5-116. Abbreviations, letters, and figures may be used.
+8 IN ALL ADVISEMENTS FOR THE PUBLIC AUCTION AND IN ENTRIES
+9 REQUIRED TO BE MADE BY THE ASSESSOR, COUNTY CLERK AND RECORDER,
+10 TREASURER, OR OTHER COUNTY OFFICERS IN LISTS, BOOKS, ROLLS,
+11 CERTIFICATES, RECEIPTS, DEEDS, OR NOTICES, THE ASSESSOR, COUNTY
+12 CLERK AND RECORDER, TREASURER, OR OTHER COUNTY OFFICER MAY USE
+13 LETTERS, FIGURES, AND ABBREVIATIONS TO DENOTE TOWNSHIPS, RANGES,
+14 SECTIONS, PARTS OF SECTIONS, LOTS, BLOCKS, DATES AND AMOUNTS OF
+15 TAXES, DELINQUENT INTEREST, AND COSTS.
+16 PART 2
+17 SEVERED MINERALS - RIGHT OF FIRST REFUSAL
+18 39-11.5-201. County-held severed mineral rights - procedure
+19 - form.
+20 (1) ANY COUNTY IN THIS STATE HAVING IN ITS POSSESSION
+21 CERTIFICATES OF PURCHASE RESULTING FROM A TAX LIEN SALE FOR
+22 NONPAYMENT ON SEVERED MINERALS MAY AFTER THREE YEARS FILE AN
+23 APPLICATION FOR TREASURER'S DEED IN THE SAME MANNER AS A LAWFUL
+24 HOLDER OF A CERTIFICATE OF PURCHASE.
+25 (2) NO LESS THAN THIRTY CALENDAR DAYS PRIOR TO AN
+26 ORIGINALLY SCHEDULED PUBLIC AUCTION DATE, A TREASURER MAY MAIL
+27 BY FIRST-CLASS MAIL A COPY OF A NOTICE OF PUBLIC AUCTION ALONG
+-86- 144
+
+1 WITH A RIGHT OF FIRST REFUSAL FORM TO THE RECORD OWNER OF THE
+2 SURFACE PROPERTY. THE RIGHT OF FIRST REFUSAL FORM MUST BE
+3 SUBSTANTIALLY IN THE FOLLOWING FORM:
+4 NOTICE BY SURFACE OWNER TO EXERCISE RIGHT OF FIRST
+5 REFUSAL
+6 TO ___________________ COUNTY TREASURER
+7 UNDER THE RIGHT OF FIRST REFUSAL GRANTED TO ME BY
+8 SECTION 39-11.5-201, COLORADO REVISED STATUTES, I
+9 _____________ (FULL NAME) DO NOW EXERCISE THE OPTION TO
+10 PURCHASE THE SEVERED MINERALS WITH THE FOLLOWING LEGAL
+11 DESCRIPTION: INSERT LEGAL DESCRIPTION
+12 LOCATED AT _______________________ (ADDRESS), IF
+13 APPLICABLE
+14 IN THE AMOUNT OF $________________ (INSERT FULL AMOUNT
+15 DUE TO REDEEM SEVERED MINERAL RIGHTS)
+16 WHICH I SHALL PAY ON OR BEFORE ________________ DATE
+17 (DATE SHALL BE SET AT TEN BUSINESS DAYS OR NOON THE DAY
+18 BEFORE THE CURRENTLY SCHEDULED PUBLIC AUCTION,
+19 WHICHEVER OCCURS FIRST).
+20 WITNESS MY SIGNATURE THIS ______ DAY OF
+21 __________________, 20___.
+22 ___________________
+23 SIGNATURE OF SURFACE OWNER(S)
+24 (3) (a) A SURFACE OWNER HAS FOURTEEN CALENDAR DAYS FROM
+25 THE DATE OF THE MAILING BY THE TREASURER TO FILE THE FORM
+26 EXERCISING THE RIGHT OF FIRST REFUSAL.
+27 (b) IF NO RESPONSE IS RECEIVED FROM A SURFACE OWNER BY THE
+-87- 144
+
+1 DEADLINE IN THIS SECTION, THE OPTION OF FIRST REFUSAL EXPIRES.
+2 (c) UPON RECEIPT OF A RIGHT OF FIRST REFUSAL PAYMENT, A
+3 TREASURER SHALL EXECUTE AND RECORD A WITHDRAWAL OF THE
+4 APPLICATION FOR TREASURER'S DEED PURSUANT TO SECTION 39-11.5-111
+5 (3).
+6 (d) NO MORE THAN TEN BUSINESS DAYS AFTER RECEIPT OF A RIGHT
+7 OF FIRST REFUSAL PAYMENT, A TREASURER SHALL EXECUTE AND RECORD
+8 A CERTIFICATE OF REDEMPTION PURSUANT TO SECTION 39-11.5-106 (4).
+9 (e) NO MORE THAN TEN BUSINESS DAYS AFTER RECEIPT OF A RIGHT
+10 OF FIRST REFUSAL PAYMENT, A TREASURER SHALL EXECUTE AND RECORD
+11 A TREASURER'S DEED PURSUANT TO SECTION 39-11.5-501.
+12 (f) ALL FEES AND COSTS OF A TREASURER FOR ACTIONS
+13 PERFORMED UNDER THIS SECTION AND THE COST OF RECORDING THE
+14 CERTIFICATE OF REDEMPTION, WITHDRAWAL OF THE APPLICATION FOR
+15 TREASURER'S DEED, AND TREASURER'S DEED MAY BE WAIVED BY THE
+16 TREASURER.
+17 (4) IF AN AGGRIEVED PERSON CONTESTS THE AMOUNT SET FORTH
+18 IN THE RIGHT OF FIRST REFUSAL STATEMENT PREPARED BY A TREASURER
+19 PURSUANT TO SUBSECTION (2) OF THIS SECTION AND A COURT DETERMINES
+20 THAT THE TREASURER MADE A MATERIAL MISSTATEMENT ON THE FIRST
+21 REFUSAL STATEMENT WITH RESPECT TO THE AMOUNT DUE AND OWING TO
+22 THE COUNTY, THE COURT SHALL, IN ADDITION TO OTHER RELIEF, AWARD
+23 TO THE AGGRIEVED PERSON THE AGGRIEVED PERSON'S COURT COSTS AND
+24 REASONABLE ATTORNEY FEES AND COSTS.
+25 (5) A SURFACE OWNER SHALL PURCHASE THE ENTIRE SEVERED
+26 MINERAL PROPERTY LOCATED BENEATH THEIR PROPERTY. NO PARTIAL
+27 PURCHASE IS PERMITTED UNDER THIS SECTION. THE PRIORITY OF LIENS FOR
+-88- 144
+
+1 PURPOSES OF THIS SECTION MUST BE DETERMINED WITHOUT
+2 CONSIDERATION OF THE FACT THAT THE LIEN RELATES TO ONLY A PORTION
+3 OF THE PROPERTY OR TO A PARTIAL INTEREST THEREIN.
+4 PART 3
+5 REPURCHASE - CLAIM FOR OVERBID MONEY
+6 39-11.5-301. Repurchase - procedure.
+7 (1) A LAWFUL HOLDER IS ENTITLED TO REPURCHASE A CERTIFICATE
+8 OF OPTION FOR A TREASURER'S DEED IF THE FOLLOWING REQUIREMENTS
+9 ARE MET TO THE SATISFACTION OF THE TREASURER:
+10 (a) THE LAWFUL HOLDER WAS NOT THE SUCCESSFUL PURCHASER
+11 AT THE PUBLIC AUCTION;
+12 (b) NO LATER THAN THREE BUSINESS DAYS AFTER THE DATE OF
+13 THE PUBLIC AUCTION, THE LAWFUL HOLDER FILED A NOTICE OF INTENT TO
+14 REPURCHASE; AND
+15 (c) A FEE PURSUANT TO SECTION 30-1-102 (1.7)(a)(III) IS
+16 RECEIVED BY THE TREASURER IN THE FORM SPECIFIED BY THE TREASURER.
+17 (2) NO MORE THAN ONE BUSINESS DAY AFTER AN INTENT TO
+18 REPURCHASE IS RECEIVED, A TREASURER SHALL NOTIFY THE CERTIFICATE
+19 OF OPTION FOR A TREASURER'S DEED HOLDER THAT AN INTENT TO
+20 REPURCHASE HAS BEEN FILED.
+21 (3) NO LATER THAN NOON TWO BUSINESS DAYS FOLLOWING A
+22 NOTIFICATION OF THE CERTIFICATE OF OPTION FOR A TREASURER'S DEED
+23 HOLDER OF THE FILING OF AN INTENT TO REPURCHASE, A CERTIFICATE OF
+24 OPTION FOR A TREASURER'S DEED HOLDER MUST PROVIDE A SIGNED AND
+25 ACKNOWLEDGED REPURCHASE STATEMENT TO THE TREASURER LIMITED
+26 TO:
+27 (a) THE AMOUNT INDICATED ON THE CERTIFICATE OF OPTION FOR
+-89- 144
+
+1 A TREASURER'S DEED THAT EXCEEDS THE TOTAL DEBT OWED TO THE
+2 LAWFUL HOLDER;
+3 (b) INTEREST CALCULATED FROM THE DATE OF THE PUBLIC
+4 AUCTION THROUGH THE END OF THE EIGHTH BUSINESS DAY AFTER THE
+5 PUBLIC AUCTION, THE AMOUNT OF WHICH IS BASED ON THE INTEREST RATE
+6 USED ON THE BID PURSUANT TO SECTION 39-11.5-107 (3); AND
+7 (c) ANY FEES AND COSTS INCURRED AS DEEMED REASONABLE BY
+8 THE TREASURER.
+9 (4) IF A CERTIFICATE OF OPTION FOR A TREASURER'S DEED HOLDER
+10 FAILS TO PROVIDE A REPURCHASE STATEMENT TO A TREASURER BY THE
+11 DEADLINE, THE TREASURER SHALL PROVIDE A REPURCHASE STATEMENT TO
+12 A LAWFUL HOLDER LIMITED TO THE AMOUNTS REQUIRED IN SUBSECTIONS
+13 (3)(a) AND (3)(b) OF THIS SECTION, BY THE END OF THE SECOND BUSINESS
+14 DAY AFTER THE NOTIFICATION OF THE CERTIFICATE OF OPTION FOR A
+15 TREASURER'S DEED HOLDER PURSUANT TO SUBSECTION (3) OF THIS
+16 SECTION. THE REPURCHASE STATEMENT MAY BE SENT TO A LAWFUL
+17 HOLDER BY MAIL, FACSIMILE, OR OTHER ELECTRONIC MEANS.
+18 (5) AT ANY TIME AFTER A TREASURER HAS PROVIDED A LAWFUL
+19 HOLDER THE REPURCHASE STATEMENT, BUT NO LATER THAN NOON ON THE
+20 EIGHTH BUSINESS DAY FOLLOWING THE PUBLIC AUCTION, THE LAWFUL
+21 HOLDER MAY REPURCHASE THE CERTIFICATE OF OPTION FOR A
+22 TREASURER'S DEED BY PAYING THE TREASURER THE AMOUNT REQUIRED TO
+23 REPURCHASE IN THE FORM SPECIFIED BY THE TREASURER.
+24 (6) UPON RECEIPT OF THE REPURCHASE FUNDS, THE TREASURER
+25 SHALL:
+26 (a) NOTIFY THE CERTIFICATE OF OPTION FOR A TREASURER'S DEED
+27 HOLDER;
+-90- 144
+
+1 (b) EXECUTE AND RECORD A CERTIFICATE OF REPURCHASE
+2 PURSUANT TO SECTION 39-11.5-402; AND
+3 (c) DISBURSE ALL REPURCHASE PROCEEDS TO THE CERTIFICATE OF
+4 OPTION FOR A TREASURER'S DEED HOLDER IN THE AMOUNT ON THE
+5 REPURCHASE STATEMENT WITH INTEREST THROUGH THE DATE
+6 REPURCHASE PROCEEDS WERE RECEIVED FROM THE LAWFUL HOLDER. ANY
+7 ADDITIONAL INTEREST PAID MUST BE REFUNDED TO THE LAWFUL HOLDER.
+8 (7) ALL FEES AND COSTS OF A TREASURER FOR ACTIONS
+9 PERFORMED UNDER THIS SECTION AND THE COST OF RECORDING THE
+10 CERTIFICATE OF REPURCHASE ARE PART OF THE TREASURER'S DEED COSTS.
+11 (8) IF AN AGGRIEVED PERSON CONTESTS THE AMOUNT SET FORTH
+12 IN THE STATEMENT PREPARED BY A TREASURER PURSUANT TO SUBSECTION
+13 (4) OF THIS SECTION AND A COURT DETERMINES THAT THE TREASURER
+14 MADE A MATERIAL MISSTATEMENT ON THE REPURCHASE STATEMENT WITH
+15 RESPECT TO THE AMOUNT DUE AND OWING TO THE HOLDER OF THE
+16 CERTIFICATE OF OPTION FOR A TREASURER'S DEED, THE COURT SHALL, IN
+17 ADDITION TO OTHER RELIEF, AWARD TO THE AGGRIEVED PERSON THE
+18 AGGRIEVED PERSON'S COURT COSTS AND REASONABLE ATTORNEY FEES
+19 AND COSTS.
+20 (9) (a) A LAWFUL HOLDER SHALL REPURCHASE THE ENTIRE
+21 PROPERTY. NO PARTIAL REPURCHASE SHALL BE PERMITTED UNDER THIS
+22 SECTION.
+23 (b) THE PRIORITY OF LIENS FOR PURPOSES OF THIS SECTION MUST
+24 BE DETERMINED WITHOUT CONSIDERATION OF THE FACT THAT THE OTHER
+25 LIEN RELATES TO ONLY A PORTION OF THE PROPERTY OR TO A PARTIAL
+26 INTEREST THEREIN.
+27 39-11.5-302. Effect of repurchase.
+-91- 144
+
+1 IF THE LAWFUL HOLDER MAKES A REPURCHASE, THE CERTIFICATE
+2 OF REPURCHASE, DULY RECORDED, OPERATES AS AN ASSIGNMENT TO THE
+3 LAWFUL HOLDER OF THE ESTATE AND INTEREST ACQUIRED BY THE
+4 PURCHASER AT THE PUBLIC AUCTION, SUBJECT TO THE RIGHTS OF OMITTED
+5 PARTIES, AS DEFINED IN SECTION 39-11.5-505, AND PERSONS WHO MAY BE
+6 ENTITLED SUBSEQUENTLY TO FILE A CLAIM FOR OVERBID MONEY.
+7 39-11.5-303. Claim for overbid money - procedure.
+8 (1) A JUNIOR LIENOR IS ENTITLED TO MAKE A CLAIM FOR OVERBID
+9 MONEY IF THE FOLLOWING REQUIREMENTS ARE MET TO THE SATISFACTION
+10 OF THE TREASURER:
+11 (a) THE JUNIOR LIENOR'S LIEN APPEARS BY INSTRUMENTS THAT
+12 WERE DULY RECORDED IN THE OFFICE OF THE CLERK AND RECORDER OF
+13 THE COUNTY PRIOR TO THE RECORDING OF THE APPLICATION FOR
+14 TREASURER'S DEED. IF A JUNIOR LIEN WAS RECORDED IN AN INCORRECT
+15 COUNTY, THE JUNIOR LIENHOLDER'S RIGHTS UNDER THIS SECTION ARE
+16 VALID ONLY IF THE LIEN IS RERECORDED IN THE CORRECT COUNTY AT
+17 LEAST FIFTEEN CALENDAR DAYS PRIOR TO THE ACTUAL DATE OF THE
+18 PUBLIC AUCTION.
+19 (b) IF A JUNIOR LIEN IS ASSIGNED, THE RIGHTS OF THE ASSIGNEE OF
+20 THE JUNIOR LIEN TO MAKE A CLAIM FOR OVERBID MONEY ARE VALID ONLY
+21 IF THE ASSIGNMENT OF THE JUNIOR LIEN AS DESCRIBED IN SUBSECTION
+22 (1)(a) OF THIS SECTION IS DULY RECORDED IN THE OFFICE OF THE CLERK
+23 AND RECORDER OF THE COUNTY AT LEAST FIFTEEN CALENDAR DAYS PRIOR
+24 TO THE ACTUAL DATE OF THE PUBLIC AUCTION;
+25 (c) THE JUNIOR LIENOR HAS, WITHIN EIGHT BUSINESS DAYS AFTER
+26 THE PUBLIC AUCTION, FILED A CLAIM FOR OVERBID MONEY WITH THE
+27 TREASURER; AND
+-92- 144
+
+1 (d) THE JUNIOR LIENOR HAS ATTACHED TO THE CLAIM FOR
+2 OVERBID MONEY:
+3 (I) THE ORIGINAL OR A RECORDED COPY OF THE INSTRUMENT AND
+4 ANY ASSIGNMENT OF THE JUNIOR LIEN TO THE PERSON ATTEMPTING TO
+5 CLAIM OVERBID MONEY. IF THE ORIGINAL INSTRUMENT IS DELIVERED TO
+6 THE TREASURER, THE TREASURER SHALL RETURN THE INSTRUMENT TO THE
+7 JUNIOR LIENOR AND RETAIN A COPY.
+8 (II) A SIGNED AND PROPERLY ACKNOWLEDGED STATEMENT, OR A
+9 SIGNED STATEMENT BY THE JUNIOR LIENOR'S ATTORNEY, SETTING FORTH
+10 THE AMOUNT OF THE LIENOR'S JUNIOR LIEN, INCLUDING PER DIEM
+11 INTEREST, THROUGH THE END OF THE EIGHTH BUSINESS DAY AFTER THE
+12 PUBLIC AUCTION WITH THE SAME SPECIFICITY AND ITEMIZATION AS
+13 REQUIRED IN SECTION 39-11.5-107.
+14 (2) NO FEE MAY BE CHARGED TO A JUNIOR LIENHOLDER FOR FILING
+15 A CLAIM FOR OVERBID MONEY PURSUANT TO THIS SECTION.
+16 (3) ANYTIME AFTER THE NINTH BUSINESS DAY BUT NO LATER THAN
+17 THE FIFTEENTH BUSINESS DAY FROM THE DATE OF THE PUBLIC AUCTION,
+18 ANY REMAINING OVERBID MONEY MUST BE PAID IN ORDER OF RECORDING
+19 PRIORITY TO JUNIOR LIENORS, DETERMINED AS OF THE RECORDING OF THE
+20 APPLICATION FOR TREASURER'S DEED, WHO HAVE DULY FILED A CLAIM FOR
+21 OVERBID MONEY, IN EACH CASE UP TO THE UNPAID AMOUNT OF THE LIEN
+22 PLUS FEES AND COSTS. AFTER PAYMENT TO ALL JUNIOR LIENORS ENTITLED
+23 TO RECEIVE A PORTION OF THE OVERBID PURSUANT TO THIS SECTION, ANY
+24 REMAINING OVERBID MONEY MUST BE PAID TO THE PROPERTY OWNER.
+25 (4) ANY REDEMPTION RIGHTS GRANTED UNDER FEDERAL LAW ARE
+26 SEPARATE AND DISTINCT FROM A CLAIM FOR OVERBID MONEY RIGHTS
+27 GRANTED PURSUANT TO THIS PART 3. ALL LIENS THAT ARE JUNIOR TO THE
+-93- 144
+
+1 CERTIFICATE OF PURCHASE PURSUANT TO THIS ARTICLE 11.5 MUST BE
+2 DIVESTED BY THE PUBLIC AUCTION UNDER THIS ARTICLE 11.5, SUBJECT TO
+3 THE CLAIM FOR OVERBID MONEY PROVIDED IN THIS PART 3. THE
+4 TREASURER CONDUCTING A PUBLIC AUCTION UNDER THIS ARTICLE 11.5 IS
+5 NOT DESIGNATED TO RECEIVE REDEMPTIONS UNDER FEDERAL LAW.
+6 39-11.5-304. Lessee, easement holder, and installment contract
+7 vendor considered as lienors - installment land contract vendee
+8 considered as owner.
+9 (1) (a) FOR THE PURPOSES OF THIS ARTICLE 11.5, A LESSEE OF OR
+10 THE HOLDER OF AN EASEMENT ENCUMBERING PROPERTY IS CONSIDERED
+11 A JUNIOR LIENOR, BUT WITHOUT ANY LIEN AMOUNT, AND IS SUBJECT TO
+12 ALL REQUIREMENTS IN THIS ARTICLE 11.5 WITH RESPECT TO JUNIOR
+13 LIENORS.
+14 (b) THE NOTICE TO THE LESSEE OR LESSEES WHO HAVE
+15 UNRECORDED POSSESSORY INTERESTS IN THE PROPERTY BEING SOLD AS
+16 PROVIDED FOR BY THIS ARTICLE 11.5 AND ARTICLE 37 OF THIS TITLE 39 BY
+17 VIRTUE OF ANY TAX LIEN SALE OR BY VIRTUE OF AN EXECUTION AND LEVY
+18 MUST BE MAILED TO THE LESSEE OR LESSEES OF A SINGLE-FAMILY
+19 RESIDENCE OR A MULTIPLE-UNIT RESIDENTIAL DWELLING. THE NOTICE
+20 MUST BE IN WRITING AND SENT BY FIRST-CLASS MAIL. NOTICE IS
+21 COMPLETE UPON MAILING TO THE LESSEE AT THE ADDRESS OF THE
+22 PREMISES OR BY ADDRESSING SUCH NOTICE TO "LESSEE" FOLLOWED BY
+23 THE ADDRESS.
+24 (c) NOTHING IN THIS SECTION AFFECTS ANY RIGHTS UNDER THIS
+25 ARTICLE 11.5 OF A LESSEE WHOSE RESIDENTIAL LEASE IS RECORDED.
+26 (2) FOR THE PURPOSES OF THIS ARTICLE 11.5, AN INSTALLMENT
+27 LAND CONTRACT VENDOR OF PROPERTY IS CONSIDERED A JUNIOR LIENOR
+-94- 144
+
+1 FOR THE UNPAID PORTION OF THE PURCHASE PRICE, INTEREST, AND OTHER
+2 AMOUNTS PROVIDED UNDER THE INSTALLMENT LAND CONTRACT AND IS
+3 SUBJECT TO ALL REQUIREMENTS IN THIS ARTICLE 11.5 WITH RESPECT TO
+4 JUNIOR LIENORS; BUT THE INSTALLMENT LAND CONTRACT VENDOR SHALL
+5 NOT BE CONSIDERED AN OWNER AS TO ANY PORTION OF SUCH PROPERTY.
+6 (3) FOR THE PURPOSES OF THIS ARTICLE 11.5, AN INSTALLMENT
+7 LAND CONTRACT VENDEE OF PROPERTY IS CONSIDERED AN OWNER EXCEPT
+8 AS TO ANY PORTION OF SUCH PROPERTY THAT THE VENDEE MAY
+9 THEREAFTER HAVE TRANSFERRED, AS EVIDENCED BY A RECORDED
+10 INSTRUMENT, AND THE VENDEE IS SUBJECT TO ALL REQUIREMENTS IN THIS
+11 ARTICLE 11.5 WITH RESPECT TO OWNERS.
+12 PART 4
+13 CERTIFICATE OF OPTION FOR A TREASURER'S DEED
+14 39-11.5-401. Certificate of option for a treasurer's deed -
+15 issuance - priority.
+16 (1) NO LATER THAN THREE BUSINESS DAYS FROM THE DATE OF A
+17 PUBLIC AUCTION, A TREASURER SHALL EXECUTE AND RECORD IN EACH
+18 COUNTY WHERE A PROPERTY OR A PORTION THEREOF IS LOCATED A
+19 CERTIFICATE OF OPTION FOR A TREASURER'S DEED CONTAINING:
+20 (a) THE NAMES OF THE PROPERTY OWNER;
+21 (b) THE DESCRIPTION OF THE PROPERTY;
+22 (c) THE SUM PAID FOR THE PROPERTY;
+23 (d) THE NAME AND MAILING ADDRESS OF THE PURCHASER;
+24 (e) A STATEMENT THAT THE PURCHASER OR ASSIGNEE OF THE
+25 CERTIFICATE OF OPTION FOR A TREASURER'S DEED IS ENTITLED TO A
+26 TREASURER'S DEED AT THE EXPIRATION OF THE REPURCHASE PERIOD
+27 PROVIDED UNDER PART 3 OF THIS ARTICLE 11.5 UNLESS A REPURCHASE IS
+-95- 144
+
+1 MADE;
+2 (f) THE TREASURER'S DEED NUMBER;
+3 (g) THE DATE OF THE PUBLIC AUCTION; AND
+4 (h) AN ATTACHED EXHIBIT THAT IS A COPY OF THE MAILING LIST
+5 CREATED FOR THE PUBLIC AUCTION PURSUANT TO SECTION 39-11.5-105
+6 AND ANY AMENDMENT TO THAT MAILING LIST, WHICH EXHIBIT MUST BE
+7 RECORDED WITH THE CERTIFICATE OF OPTION FOR TREASURER'S DEED.
+8 (2) THE FAILURE OF A TREASURER TO COMPLY WITH THIS SECTION
+9 DOES NOT AFFECT THE VALIDITY OF A PUBLIC AUCTION OR VESTING OF
+10 TITLE IN THE NAME OF THE HOLDER OF THE CERTIFICATE OF OPTION FOR A
+11 TREASURER'S DEED OR CERTIFICATE OF REPURCHASE.
+12 (3) THE LIEN REPRESENTED BY A CERTIFICATE OF OPTION FOR A
+13 TREASURER'S DEED HAS THE SAME PRIORITY AS THE CERTIFICATE OF
+14 PURCHASE SOLD AT A TAX LIEN SALE.
+15 39-11.5-402. Certificate of repurchase - issuance.
+16 (1) NO LATER THAN THREE BUSINESS DAYS FOLLOWING A
+17 TREASURER'S RECEIPT OF REPURCHASE MONEY PAID PURSUANT TO SECTION
+18 39-11.5-301, THE TREASURER SHALL EXECUTE AND RECORD IN EACH
+19 COUNTY WHERE THE PROPERTY, OR A PORTION THEREOF, IS LOCATED A
+20 CERTIFICATE OF REPURCHASE CONTAINING:
+21 (a) THE NAME OF THE PURCHASER;
+22 (b) THE NAME AND ADDRESS OF THE LAWFUL HOLDER;
+23 (c) THE REPURCHASE AMOUNT PAID;
+24 (d) THE DATE OF THE PUBLIC AUCTION;
+25 (e) THE LEGAL DESCRIPTION OF THE PROPERTY;
+26 (f) THE TREASURER'S DEED NUMBER; AND
+27 (g) A STATEMENT THAT THE LAWFUL HOLDER OR ASSIGNEE OF THE
+-96- 144
+
+1 CERTIFICATE OF REPURCHASE SHALL BE ENTITLED TO A TREASURER'S DEED
+2 UNDER PART 3 OF THIS ARTICLE 11.5.
+3 (2) THE FAILURE OF A TREASURER TO COMPLY WITH THIS SECTION
+4 DOES NOT AFFECT THE VALIDITY OF THE PUBLIC AUCTION OR THE RIGHTS
+5 OF THE GRANTEE OF A TREASURER'S DEED.
+6 39-11.5-403. Certificate of repurchase - assignment.
+7 (1) (a) A CERTIFICATE OF OPTION FOR A TREASURER'S DEED OR A
+8 CERTIFICATE OF REPURCHASE THAT IS ISSUED TO ANY PERSON UNDER THIS
+9 PART 4 IS ASSIGNABLE BY ENDORSEMENT THEREON OR BY SEPARATE
+10 ASSIGNMENT, AND THE ASSIGNEE MUST BE TREATED FOR ALL PURPOSES AS
+11 THE ORIGINAL HOLDER OF THE CERTIFICATE OF OPTION FOR A TREASURER'S
+12 DEED OR CERTIFICATE OF REPURCHASE.
+13 (b) A SEPARATE ASSIGNMENT OF A CERTIFICATE OF OPTION FOR A
+14 TREASURER'S DEED OR CERTIFICATE OF REPURCHASE MUST CONTAIN:
+15 (I) THE NAME AND ADDRESS OF THE ASSIGNEE;
+16 (II) THE NAME AND ADDRESS OF THE ASSIGNOR;
+17 (III) THE LEGAL DESCRIPTION OF THE PROPERTY SUBJECT TO THE
+18 ASSIGNED CERTIFICATE;
+19 (IV) THE NAME OF THE PROPERTY OWNER; AND
+20 (V) THE TREASURER'S DEED NUMBER.
+21 (2) A FEE NOT TO EXCEED TWENTY-FIVE DOLLARS MAY BE
+22 CHARGED BY THE TREASURER TO THE ASSIGNOR OR ASSIGNEE FOR FILING
+23 AN ENDORSEMENT OR SEPARATE ASSIGNMENT WITH THE TREASURER
+24 UNDER THIS SECTION.
+25 39-11.5-404. Certificate as prima facie evidence.
+26 A CERTIFICATE OF OPTION FOR A TREASURER'S DEED OR
+27 CERTIFICATE OF REPURCHASE OR A RECORDED COPY THEREOF IS DEEMED
+-97- 144
+
+1 TO BE PRIMA FACIE EVIDENCE OF ALL STATEMENTS OR RECITALS
+2 CONTAINED THEREIN.
+3 PART 5
+4 ISSUANCE OF TREASURER'S DEED AND NATURE OF TITLE
+5 39-11.5-501. Title vests upon expiration of repurchase period
+6 - treasurer's deed - definition.
+7 (1) UPON THE EXPIRATION OF THE REPURCHASE PERIOD ALLOWED
+8 TO THE LAWFUL HOLDER UNDER PART 3 OF THIS ARTICLE 11.5 OR, UPON
+9 THE CLOSE OF THE EIGHTH BUSINESS DAY AFTER THE PUBLIC AUCTION,
+10 TITLE TO THE PROPERTY VESTS IN THE HOLDER OF THE CERTIFICATE OF
+11 OPTION FOR A TREASURER'S DEED, OR IN THE HOLDER OF THE CERTIFICATE
+12 OF REPURCHASE IN THE CASE OF A REPURCHASE. SUBJECT TO THE RIGHT TO
+13 CLAIM OVERBID MONEY PURSUANT TO SECTION 39-11.5-303 AND THE
+14 PROVISIONS OF SECTION 38-41-212 (2), THE TITLE IS FREE AND CLEAR OF
+15 ALL LIENS AND ENCUMBRANCES JUNIOR TO THE CERTIFICATE OF
+16 PURCHASE. NO LATER THAN TEN BUSINESS DAYS AFTER BOTH TITLE VESTS
+17 AND THE TREASURER HAS RECEIVED ALL STATUTORY FEES AND COSTS, THE
+18 TREASURER SHALL EXECUTE AND RECORD A TREASURER'S DEED PURSUANT
+19 TO SECTION 39-11.5-502 TO THE HOLDER OF THE CERTIFICATE OF OPTION
+20 FOR A TREASURER'S DEED OR, IN THE CASE OF REPURCHASE, TO THE
+21 HOLDER OF THE CERTIFICATE OF REPURCHASE, CONFIRMING THE TRANSFER
+22 OF TITLE TO THE PROPERTY. FAILURE OF THE TREASURER TO EXECUTE AND
+23 RECORD THE TREASURER'S DEED OR TO RECORD THE TREASURER'S DEED
+24 WITHIN THE TIME SPECIFIED IN THIS SUBSECTION (1) DOES NOT AFFECT THE
+25 VALIDITY OF THE TREASURER'S DEED OR THE VESTING OF TITLE.
+26 (2) NOTWITHSTANDING ANY PROVISION OF LAW TO THE
+27 CONTRARY, A TREASURER MAY NOT INCLUDE AN ASSIGNEE AS A GRANTEE
+-98- 144
+
+1 IN A TREASURER'S DEED, UNLESS THE FOLLOWING REQUIREMENTS ARE
+2 MET:
+3 (a) THE TREASURER HAS RECEIVED A RECORDED COPY OF THE
+4 ASSIGNMENT EXECUTED IN ACCORDANCE WITH SECTION 39-11.5-403
+5 WITHIN TEN BUSINESS DAYS FROM THE DATE OF THE PUBLIC AUCTION; AND
+6 (b) THE ASSIGNMENT WAS DATED, SIGNED, AND NOTARIZED OR
+7 RECORDED PRIOR TO THE TIME TITLE VESTS.
+8 (3) EXECUTION OF A TREASURER'S DEED PURSUANT TO THIS
+9 SECTION DOES NOT AFFECT THE EXISTENCE OF ANY PUBLIC OR PRIVATE
+10 ROADS, RIGHTS-OF-WAY, CONSERVATION EASEMENTS, OTHER EASEMENTS,
+11 OR EQUITABLE SERVITUDES THAT RUN WITH PROPERTY AND HAVE BOTH
+12 BENEFITS AND BURDENS, ALL AS CLAIMED OR EXISTING PRIOR TO THE
+13 EXECUTION OF THE TREASURER'S DEED.
+14 (4) AS USED IN THIS SECTION, "REPURCHASE PERIODS" MEANS THE
+15 PERIODS OF TIME DURING WHICH THE LAWFUL HOLDER MAY REPURCHASE
+16 THE CERTIFICATE OF OPTION FOR A TREASURER'S DEED, AS DESCRIBED IN
+17 SECTION 39-11.5-301 (5).
+18 39-11.5-502. Form of treasurer's deed.
+19 THE TREASURER'S DEED EXECUTED BY A TREASURER AFTER A
+20 PUBLIC AUCTION MAY BE IN SUBSTANTIALLY THE FOLLOWING FORM:
+21 THE FOLLOWING DESCRIBED REAL PROPERTY IS THE SUBJECT OF
+22 THIS TREASURER'S DEED:
+23 TREASURER'S DEED NUMBER: ____________
+24 LEGAL DESCRIPTION:
+25 ALSO KNOWN BY STREET ADDRESS AS:
+26 ASSESSOR SCHEDULE/ACCOUNT NO: ________________
+27 ORIGINAL ASSESSED OWNER: _____________________
+-99- 144
+
+1 THE TAXES ASSESSED UPON THIS PROPERTY FOR THE YEARS
+2 - REMAINED DUE AND UNPAID AT THE DATE OF THE PUBLIC
+3 TAX LIEN SALE ("SALE");
+4 THE __________ COUNTY TREASURER, BY VIRTUE OF THE
+5 AUTHORITY VESTED IN THEM BY LAW, CONDUCTED THE TAX LIEN
+6 SALE ON _____________(MONTH, DAY, YEAR) IN SUBSTANTIAL
+7 CONFORMITY WITH STATUTORY REQUIREMENTS;
+8 A TAX LIEN CERTIFICATE OF PURCHASE WAS ISSUED
+9 TO_______________, ("LAWFUL HOLDER") FOR THIS PROPERTY
+10 FOR THE PAYMENT OF THE TAXES, DELINQUENT INTEREST, AND
+11 COSTS THEN DUE AND REMAINING UNPAID;
+12 MORE THAN THREE YEARS HAVE ELAPSED SINCE THE DATE OF
+13 THE TAX LIEN SALE, THE PROPERTY OWNER'S STATUTORY
+14 REDEMPTION PERIOD HAS EXPIRED, AND THE PROPERTY HAS NOT
+15 BEEN REDEEMED;
+16 THE LAWFUL HOLDER FILED AN APPLICATION FOR TREASURER'S
+17 DEED FOR THE ABOVE-DESCRIBED PROPERTY ON
+18 _______________ (MONTH, DAY, YEAR). THE APPLICATION WAS
+19 RECORDED ON ________________ (MONTH, DAY, YEAR), IN THE
+20 REAL ESTATE RECORDS OF _____________ COUNTY, COLORADO
+21 AT RECEPTION NO. _________________;
+22 THE TREASURER PROVIDED NOTICE OF THE PUBLIC AUCTION AS
+23 REQUIRED BY LAW AND THEN PROCEEDED TO HOLD A PUBLIC
+24 AUCTION ON ___________________ (MONTH, DAY, YEAR). AT
+25 THE PUBLIC AUCTION, ________________________
+26 ("PURCHASER"), WHOSE ADDRESS IS ___________________,
+27 COUNTY OF _____________, STATE OF ______________, BID
+-100- 144
+
+1 THE SUM OF $___________ FOR SAID PROPERTY. BEING THE
+2 PERSON WHO SUBMITTED THE WINNING BID AT THE PUBLIC
+3 AUCTION AND WHO TIMELY SUBMITTED PROPER FUNDS, THE
+4 TREASURER AWARDED A CERTIFICATE OF OPTION FOR A
+5 TREASURER'S DEED TO THE PURCHASER;
+6 THE LAWFUL HOLDER SUBSEQUENTLY REPURCHASED THE
+7 CERTIFICATE OF OPTION FOR A TREASURER'S DEED BY PAYING TO
+8 THE TREASURER THE AMOUNT THE PURCHASER PAID AT THE
+9 PUBLIC AUCTION, WITH INTEREST FROM THE DATE OF SALE,
+10 ALONG WITH ALL APPLICABLE FEES OR COSTS. THE REPURCHASE
+11 WAS MADE ON_______________ (MONTH, DAY, YEAR) AND,
+12 AFTER THE REPURCHASE OF THE ABOVE-DESCRIBED PROPERTY,
+13 THE LAWFUL HOLDER IS ENTITLED TO A TREASURER'S DEED; OR
+14 ON ________________(MONTH, DAY,
+15 YEAR),_________________("PURCHASER") ASSIGNED THE
+16 CERTIFICATE OF OPTION FOR A TREASURER'S DEED ON THE
+17 PROPERTY, ALONG WITH ALL RIGHTS, TITLE, AND INTEREST, TO
+18 ________________("ASSIGNEE") LOCATED
+19 _________________________ (ASSIGNEE MAILING ADDRESS).
+20 THEN, ________________(MONTH, DAY, YEAR),
+21 ______________(ASSIGNEE), ASSIGNED THE SAME CERTIFICATE
+22 OF OPTION FOR A TREASURER'S DEED AND ALL ASSOCIATED
+23 RIGHTS, TITLE, AND INTEREST TO __________________(SECOND
+24 ASSIGNEE), LOCATED AT
+25 _________________________________ (SECOND ASSIGNEE
+26 MAILING ADDRESS), IF APPLICABLE.
+27 ALL STATUTORY PROVISIONS PRESCRIBING THE PREREQUISITES
+-101- 144
+
+1 TO OBTAINING A TREASURER'S DEED HAVE BEEN FULFILLED AT
+2 THIS TIME.
+3 NOW, THEREFORE, IN CONSIDERATION OF THE ABOVE, I,
+4 _____________________, TREASURER OF __________ COUNTY
+5 CONVEY TO ____________________________ (NAME OR
+6 PURCHASER, LAWFUL HOLDER, OR ASSIGNEE) WHOSE ADDRESS IS
+7 ___________________, COUNTY OF _____________, STATE OF
+8 ____________ ALL RIGHT, TITLE, AND INTEREST IN THE
+9 PROPERTY, SUBJECT TO ANY ENCUMBRANCES AND RESTRICTIONS
+10 OF RECORD.
+11 EXECUTED ON:___________________
+12 _____________________, TREASURER OF __________ COUNTY,
+13 STATE OF COLORADO
+14 (SEAL)
+15 ____________________________________________(SIGNAT
+16 URE)
+17 BY:
+18 WHEN RECORDED, RETURN TO COUNTY TREASURER
+19 39-11.5-503. Treasurer's deed as evidence of compliance.
+20 A TREASURER'S DEED EXECUTED BY A TREASURER OR OTHER
+21 OFFICIAL PURSUANT TO THIS ARTICLE 11.5 IS PRIMA FACIE EVIDENCE OF
+22 COMPLIANCE WITH ALL STATUTORY REQUIREMENTS FOR THE PUBLIC
+23 AUCTION AND EXECUTION OF THE TREASURER'S DEED AND EVIDENCE OF
+24 THE TRUTH OF THE RECITALS CONTAINED IN THE TREASURER'S DEED.
+25 39-11.5-504. Effect of treasurer's deed on certain classes of
+26 persons.
+27 (1) ALL EXECUTED CERTIFICATES OF PURCHASE BY A TREASURER
+-102- 144
+
+1 MAY BE REQUESTED TO HAVE A TREASURER'S DEED IN THE MANNER
+2 PROVIDED BY SECTION 39-11.5-102, NOTWITHSTANDING THE FACT THAT
+3 PROPERTY MAY BE OWNED OR CONSIST OF THE ESTATE OF A DECEASED
+4 PERSON, A MENTALLY INCOMPETENT PERSON, OR AN INCAPACITATED
+5 PERSON AND NOTWITHSTANDING THE DEATH, MENTAL INCOMPETENCY, OR
+6 INCAPACITY OF ONE OR MORE OF THE OWNERS OF THE PROPERTY COVERED
+7 BY THE CERTIFICATE OF PURCHASE.
+8 (2) ANY SUCH TREASURER'S DEED PROCESS IS GOOD AGAINST A
+9 MENTALLY INCOMPETENT OR AN INCAPACITATED PERSON AND AGAINST
+10 THE HEIRS-AT-LAW, LEGATEES, DEVISEES, CREDITORS, CONSERVATORS,
+11 GUARDIANS, PERSONAL REPRESENTATIVES, EXECUTORS, AND
+12 ADMINISTRATORS OF ANY DECEDENT OR MENTALLY INCOMPETENT OR
+13 INCAPACITATED PERSON AND ALL PERSONS CLAIMING BY, THROUGH, OR
+14 UNDER THE DECEDENT OR MENTALLY INCOMPETENT OR INCAPACITATED
+15 PERSON. THE TREASURER SHALL GIVE NOTICE OF SUCH TREASURER'S DEED
+16 PROCEEDINGS, AS PROVIDED BY LAW, TO THE PROPERTY OWNER AT THE
+17 ADDRESS, AS THOUGH LIVING AND MENTALLY COMPETENT, TO ALL
+18 PERSONS HAVING INTERESTS THEN OF RECORD, AND TO THE LESSEE OR
+19 LESSEES OF THE PREMISES AS PROVIDED IN SECTION 39-11.5-104 (4). THE
+20 TREASURER SHALL NOT BE REQUIRED TO GIVE NOTICE OF SUCH
+21 TREASURER'S DEED PROCEEDINGS TO ANY HEIR-AT-LAW, LEGATEE,
+22 DEVISEE, CREDITOR, CONSERVATOR, GUARDIAN, PERSONAL
+23 REPRESENTATIVE, EXECUTOR, OR ADMINISTRATOR OF ANY DECEDENT OR
+24 MENTALLY INCOMPETENT OR INCAPACITATED PERSON OR TO ANY PERSON
+25 CLAIMING BY, THROUGH, OR UNDER ANY DECEDENT OR MENTALLY
+26 INCOMPETENT OR INCAPACITATED PERSON UNLESS THE CLAIM OR
+27 INTEREST OF THE PERSON THEN APPEARS ON RECORD.
+-103- 144
+
+1 (3) THE INTEREST AND CLAIM IN AND TO THE REAL ESTATE OF ALL
+2 MENTALLY INCOMPETENT OR INCAPACITATED PERSONS AND OF ALL
+3 PERSONS CLAIMING BY, THROUGH, OR UNDER ANY MENTALLY
+4 INCOMPETENT OR INCAPACITATED PERSON, OR DECEDENT, INCLUDING
+5 MINORS AND INCAPACITATED PERSONS, IS TERMINATED AND CONCLUDED
+6 BY THE TREASURER'S DEED PROCESS UNLESS THEY REDEEM FROM THE
+7 TREASURER WITHIN THE TIME PRESCRIBED BY LAW.
+8 39-11.5-505. Omitted party - definitions.
+9 (1) AS USED IN THIS SECTION, "OMITTED PARTY" MEANS ANY
+10 PERSON WHO, PRIOR TO THE RECORDING OF AN APPLICATION FOR
+11 TREASURER'S DEED FOR A PROPERTY, HAS EITHER ACQUIRED A RECORD
+12 INTEREST IN THE PROPERTY OR HAS OBTAINED A VALID POSSESSORY
+13 INTEREST IN AND IS IN ACTUAL POSSESSION OF THE PROPERTY, WHICH
+14 INTEREST IS JUNIOR TO THE CERTIFICATE OF PURCHASE AND WOULD
+15 OTHERWISE BE EXTINGUISHED BY THE TREASURER'S DEED.
+16 (2) (a) THE INTEREST OF AN OMITTED PARTY IN PROPERTY THAT IS
+17 THE SUBJECT OF A TREASURER'S DEED PROCESS MAY BE TERMINATED IF
+18 THE OMITTED PARTY, OR ANYONE CLAIMING BY, THROUGH, OR UNDER AN
+19 OMITTED PARTY, IN A CIVIL ACTION COMMENCED AT ANY TIME AFTER A
+20 PUBLIC AUCTION, BY ANY INTERESTED PERSON, AS DEFINED IN SUBSECTION
+21 (2)(c) OF THIS SECTION, BY AN OMITTED PARTY, OR BY ANYONE CLAIMING
+22 BY, THROUGH, OR UNDER AN OMITTED PARTY, IS AFFORDED RIGHTS TO
+23 CLAIM OVERBID MONEY UPON SUCH TERMS THAT THE COURT MAY DEEM
+24 EQUITABLE UNDER THE CIRCUMSTANCES, WHICH TERMS SHALL NOT,
+25 HOWEVER, BE MORE FAVORABLE THAN THE PERSON'S STATUTORY RIGHTS.
+26 THE COURT SHALL GIVE FULL CONSIDERATION TO WHETHER THE OMITTED
+27 PARTY OR ANYONE CLAIMING BY, THROUGH, OR UNDER AN OMITTED
+-104- 144
+
+1 PARTY WAS GIVEN OR HAD ACTUAL NOTICE OR KNOWLEDGE OF THE
+2 TREASURER'S DEED PROCESS AND WAS GIVEN AN OPPORTUNITY TO
+3 EXERCISE STATUTORY RIGHTS TO CLAIM OVERBID MONEY.
+4 (b) FOR PURPOSES OF THIS SECTION, THE LIEN THAT IS THE SUBJECT
+5 OF THE PUBLIC AUCTION SHALL NOT BE EXTINGUISHED BY MERGER WITH
+6 THE TITLE TO THE PROPERTY ACQUIRED PURSUANT TO SECTION
+7 39-11.5-501 UNTIL THE INTEREST OF ANY OMITTED PARTY HAS BEEN
+8 AFFIRMED PURSUANT TO SUBSECTION (3) OF THIS SECTION OR HAS BEEN
+9 TERMINATED AS PROVIDED IN SUBSECTION (2)(a) OF THIS SECTION OR BY
+10 OPERATION OF LAW. AN OMITTED PARTY, OR ANYONE CLAIMING BY,
+11 THROUGH, OR UNDER AN OMITTED PARTY, CANNOT EXTINGUISH THE LIEN
+12 THAT IS SUBJECT TO THE PUBLIC AUCTION BY ENFORCEMENT OF THE LIEN
+13 OF THE OMITTED PARTY.
+14 (c) AS USED IN THIS SECTION, "INTERESTED PERSON" MEANS A
+15 LAWFUL HOLDER OF A CERTIFICATE OF PURCHASE, A HOLDER OF A
+16 CERTIFICATE OF OPTION FOR A TREASURER'S DEED OR CERTIFICATE OF
+17 REPURCHASE ISSUED PURSUANT TO SECTION 39-11.5-401 OR 39-11.5-402,
+18 A PROPERTY OWNER PURSUANT TO SECTION 39-11.5-501, OR A PERSON
+19 CLAIMING AN INTEREST IN THE PROPERTY BY, THROUGH, OR UNDER SUCH
+20 LAWFUL HOLDER OR PROPERTY OWNER.
+21 (d) AN OMITTED PARTY, OR ANYONE CLAIMING BY, THROUGH, OR
+22 UNDER AN OMITTED PARTY, ONLY HAS A REMEDY TO CLAIM OVERBID
+23 MONEY AS SET FORTH IN THIS SUBSECTION (2). AN INTERESTED PERSON IS
+24 NOT ABLE TO EXTINGUISH AN OMITTED PARTY'S INTEREST EXCEPT AS SET
+25 FORTH IN THIS SUBSECTION (2) OR BY WRITTEN WAIVER OR AGREEMENT
+26 SIGNED BY THE OMITTED PARTY OR ANYONE CLAIMING BY, THROUGH, OR
+27 UNDER AN OMITTED PARTY.
+-105- 144
+
+1 (3) IF AN INTERESTED PERSON FILES WITH A TREASURER AT ANY
+2 TIME AFTER A PUBLIC AUCTION A DOCUMENT AFFIRMING AN OMITTED
+3 PARTY'S INTEREST IN A PROPERTY, SUBJECT TO THE TERMS, CONDITIONS,
+4 AND PROVISIONS OF THE RECORDED INSTRUMENT FROM WHICH THE
+5 OMITTED PARTY'S INTEREST IS DERIVED, OR IN THE CASE OF AN OMITTED
+6 PARTY THAT IS A LESSEE, SUBJECT TO THE TERMS AND CONDITIONS OF THE
+7 LEASE, WHETHER WRITTEN OR ORAL, THE INTEREST OF THE OMITTED
+8 PARTY IN THE PROPERTY SHALL NOT BE AFFECTED BY THE PUBLIC
+9 AUCTION, AND THE OMITTED PARTY SHALL HAVE NO CLAIM TO ANY
+10 OVERBID MONEY.
+11 PART 6
+12 CURATIVE PROVISIONS
+13 39-11.5-601. Curative provisions.
+14 (1) IF A TREASURER FAILS TO COMPLY WITH ANY OF THE NOTICE
+15 DEADLINES SET FORTH IN THIS ARTICLE 11.5, UNLESS THE PUBLIC AUCTION
+16 HAS ALREADY BEEN WITHDRAWN BY THE LAWFUL HOLDER OR THEIR
+17 ATTORNEY, FOLLOWING WRITTEN NOTICE TO THE LAWFUL HOLDER OR
+18 THEIR ATTORNEY, THE TREASURER MAY RERECORD THE APPLICATION FOR
+19 TREASURER'S DEED, AND THE TREASURER SHALL THEREAFTER COMPLY
+20 WITH ALL THE NOTICE DEADLINES FROM THE LAST RECORDING DATE AS
+21 SET FORTH ON THE RERECORDED APPLICATION FOR TREASURER'S DEED AS
+22 THOUGH THE TREASURER'S DEED PROCESS HAD BEEN COMMENCED ON
+23 THAT DATE.
+24 (2) IN THE EVENT OF AN ERROR CONTAINED IN ANY CERTIFICATE
+25 OF OPTION FOR A TREASURER'S DEED, CERTIFICATE OF REPURCHASE,
+26 TREASURER'S DEED, OR OTHER RECORDED DOCUMENT PREPARED BY THE
+27 OFFICE OF THE TREASURER, THE TREASURER MAY CORRECT SUCH ERROR
+-106- 144
+
+1 BY EXECUTING AND RECORDING A SCRIVENER'S ERROR AFFIDAVIT AS SET
+2 FORTH IN SECTION 38-35-109 (5).
+3 39-11.5-602. Interaction with other law.
+4 NOTWITHSTANDING ANY LAW TO THE CONTRARY, ON OR AFTER
+5 JUNE 1, 2026, A PURCHASER, LAWFUL HOLDER, OR TREASURER SHALL
+6 FOLLOW THE PROCEDURES ESTABLISHED IN THIS ARTICLE 11.5 AND SHALL
+7 NOT FOLLOW THE PROCEDURES ESTABLISHED IN ARTICLE 11 OF THIS TITLE
+8 39 CONCERNING THE ISSUANCE OF A DEED. NOTWITHSTANDING ANY LAW
+9 TO THE CONTRARY, ON OR AFTER JUNE 1, 2026, A TREASURER SHALL NOT
+10 ISSUE A DEED PURSUANT TO ARTICLE 11 OF THIS TITLE 39.
+11 SECTION 54. Effective date. This act takes effect June 1, 2026.
+12 SECTION 55. Applicability. (1) This act applies to any fee
+13 imposed, assessed, or collected by a county treasurer on or after June 1,
+14 2026.
+15 (2) The reenacted and amended article 11.5 of title 39, Colorado
+16 Revised Statutes, as set forth in this act, applies to any treasurer's deed
+17 issued on or after June 1, 2026, regardless of the date of the tax lien sale,
+18 application for treasurer's deed, or commencement of any related
+19 proceeding.
+20 SECTION 56. Safety clause. The general assembly finds,
+21 determines, and declares that this act is necessary for the immediate
+22 preservation of the public peace, health, or safety or for appropriations for
+23 the support and maintenance of the departments of the state and state
+24 institutions.
+-107- 144

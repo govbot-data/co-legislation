@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-1004.01 Yelana Love x2295 SENATE BILL 26-175
+SENATE SPONSORSHIP
+Snyder and Catlin,
+HOUSE SPONSORSHIP
+Mauro and Richardson,
+Senate Committees House Committees
+Business, Labor, & Technology
+A BILL FOR AN ACT
+101 CONCERNING THE ADJUSTMENT OF AN EMPLOYER'S EXPERIENCE
+102 MODIFICATION FACTOR IN WORKERS' COMPENSATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates a process for employers and licensed insurance
+producers to update an employer's experience modification factor when:
+! An open claim is reported by an insurance carrier to the
+rating bureau with a higher open claim amount than the
+amount after the claim was closed; and
+! The lower claim amount would reduce an employer's
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+experience modification factor at least .05 compared to the
+previously released experience modification factor or from
+above 1.0 to 1.0 or below.
+The employer must notify the insurance carrier between the time
+the claim is reported to a rating bureau and 31 days after the employer's
+rating effective date. The insurance carrier is required to credit the
+employer for a premium change resulting from the revised experience
+modification factor.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 8-44-109.5 as
+3 follows:
+4 8-44-109.5. Experience modification factor - adjustment.
+5 (1) (a) EACH INSURANCE CARRIER AUTHORIZED TO TRANSACT
+6 BUSINESS IN THIS STATE, INCLUDING PINNACOL ASSURANCE, THAT
+7 INSURES AN EMPLOYER AGAINST LIABILITY FOR COMPENSATION UNDER
+8 ARTICLES 40 TO 47 OF THIS TITLE 8 UPON NOTIFICATION BY AN EMPLOYER
+9 OR A LICENSED INSURANCE PRODUCER SHALL NOTIFY THE EMPLOYER'S
+10 AUTHORIZED RATING ORGANIZATION TO REVISE THE EMPLOYER'S
+11 EXPERIENCE MODIFICATION FACTOR TO REFLECT THE ACTUAL DOLLAR
+12 AMOUNT PAID FOR A CLOSED CLAIM INSTEAD OF THE ACTUAL DOLLAR
+13 AMOUNT PAID PLUS RESERVES DETERMINED PRIOR TO THE CLOSURE OF THE
+14 CLAIM.
+15 (b) THE EMPLOYER OR LICENSED INSURANCE PRODUCER MUST
+16 NOTIFY THE INSURANCE CARRIER BETWEEN THE TIME THE CLAIM IS
+17 REPORTED TO A RATING BUREAU AND THIRTY-ONE DAYS AFTER THE
+18 EMPLOYER'S RATING EFFECTIVE DATE.
+19 (2) AN EMPLOYER OR LICENSED INSURANCE PRODUCER MAY
+20 NOTIFY AN INSURANCE CARRIER TO MODIFY AN EXPERIENCE MODIFICATION
+21 FACTOR PURSUANT TO THIS SECTION ONLY WHEN:
+-2- SB26-175
+
+1 (a) AN OPEN CLAIM IS REPORTED BY THE INSURANCE CARRIER TO
+2 THE RATING BUREAU WITH A HIGHER OPEN CLAIM AMOUNT THAN THE
+3 AMOUNT AFTER THE CLAIM WAS CLOSED; AND
+4 (b) THE LOWER CLAIM AMOUNT WOULD REDUCE AN EMPLOYER'S
+5 EXPERIENCE MODIFICATION FACTOR:
+6 (I) AT LEAST .05 COMPARED TO THE PREVIOUSLY RELEASED
+7 EXPERIENCE MODIFICATION FACTOR; OR
+8 (II) FROM ABOVE 1.0 TO 1.0 OR BELOW.
+9 (3) THE AUTHORIZED RATING ORGANIZATION SHALL ADJUST THE
+10 EXPERIENCE MODIFICATION FACTOR WITHIN THIRTY DAYS AFTER
+11 NOTIFICATION FROM THE INSURANCE CARRIER PURSUANT TO SUBSECTION
+12 (1) OF THIS SECTION. THE INSURANCE CARRIER SHALL CREDIT AN
+13 EMPLOYER FOR A PREMIUM CHANGE CALCULATED AS A RESULT OF THE
+14 UPDATED EXPERIENCE MODIFICATION FACTOR WITHIN THE EMPLOYER'S
+15 POLICY PERIOD.
+16 SECTION 2. Act subject to petition - effective date -
+17 applicability. (1) This act takes effect January 1, 2027; except that, if a
+18 referendum petition is filed pursuant to section 1 (3) of article V of the
+19 state constitution against this act or an item, section, or part of this act
+20 within the ninety-day period after final adjournment of the general
+21 assembly, then the act, item, section, or part will not take effect unless
+22 approved by the people at the general election to be held in November
+23 2026 and, in such case, will take effect January 1, 2027, or on the date of
+24 the official declaration of the vote thereon by the governor, whichever is
+25 later.
+26 (2) This act applies to claims closed on or after the applicable
+27 effective date of this act.
+-3- SB26-175

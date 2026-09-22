@@ -1,0 +1,273 @@
+Title: 
+Official Title: 
+Source: versions - Signed Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 26-1225
+BY REPRESENTATIVE(S) Smith and Willford, Bacon, Brown, Duran,
+English, Froelich, Goldstein, Jackson, Joseph, Lindsay, McCormick,
+Nguyen, Paschal, Ricks, Sirota, Camacho, McCluskie;
+also SENATOR(S) Ball and Bright, Bridges, Cutter, Kipp, Lindstedt,
+Marchman, Coleman.
+CONCERNING REQUIREMENTS TO FOSTER DISTRIBUTED ENERGY RESOURCES
+IN THE STA TE.
+Be it enacted by the General Assembly oft he State ofC olorado:
+SECTION 1. Short title. The short title of this act is the
+"Advancing Grid Resilience Using Distributed Energy Resources Act".
+SECTION 2. Legislative declaration. ( 1) The general assembly
+finds and declares that:
+(a) Demand for electricity is rapidly increasing, and the ability of
+electric utilities to affordably satisfy demand while preserving reliability is
+increasingly important;
+(b) Distributed energy resources, including community solar,
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+dispatchable distributed generation, and distributed energy storage, play an
+important role in satisfying increasing electricity demand in a reliable and
+affordable manner;
+( c) Since 2011, the state has consistently encouraged the deployment
+of community solar gardens to ensure that Coloradans without access to
+onsite generation can participate in distributed energy programs and that
+ratepayers with low incomes, in particular, can benefit from bill credits that
+reduce monthly utility bills;
+( d) Dispatchable distributed generation facilities, including
+resources paired with energy storage, are increasingly recognized as
+cost-effective resources that support grid reliability and resilience;
+( e) State policy has supported the development of distributed energy
+resources as part of a diversified and resilient electric grid, while federal
+policy changes have created uncertainty for certain resource types;
+(f) The enactment of H.R. 1 of the 119th Congress (2025-2026),
+Pub.L. 119-21, in 2025 modified federal tax incentives for certain electricity
+generation resources, creating new market conditions that affect the
+deployment of distributed energy resources;
+(g) Certain federal tax credits applicable to distributed energy
+resource projects are scheduled to phase out or expire beginning in 2029,
+depending on project completion timelines;
+(h) Federal tax policy has historically played a role in enabling
+cost-effective deployment of distributed energy resources;
+(i) Community solar and dispatchable distributed generation
+facilities require multiple years to design, finance, permit, and interconnect
+to the electric grid;
+U) The interconnection process can take multiple years, delaying
+deployment of needed distributed energy resources and increasing project
+costs;
+(k) A significant portion ofp roject time lines is attributable to utility
+interconnection studies and necessary system upgrades required for safe and
+PAGE 2-HOUSE BILL 26-1225
+
+reliable integration;
+(I) Policies and processes that facilitate more timely and
+cost-effective interconnection can accelerate deployment of distributed
+energy resources and enhance grid reliability and affordability;
+(m) Maintaining the value of bill credits for subscribers to
+distributed energy resource programs, particularly for ratepayers with low
+incomes, is important amid rising cost pressures; and
+(n) Adjustments to state policy are necessary to ensure that
+distributed energy resource programs continue to provide benefits to the
+electric grid and to ratepayers under evolving federal and market conditions.
+(2) Therefore, it is the intent of the general assembly to:
+(a) Make adjustments to state law to facilitate the timely and
+cost-effective deployment ofd istributed energy resources while maintaining
+the value ofs uch resources for community solar subscribers and particularly
+for ratepayers with low incomes; and
+(b) Ensure that processes designed to accelerate interconnection
+protect communities and workers.
+SECTION 3. In Colorado Revised Statutes, 40-2-127, add
+(2)(b )(I.5) and ( 5)(b )(II)(J) as follows:
+40-2-127. Community energy funds -community solar gardens
+- definitions - rules - legislative declaration - applicability - repeal.
+(2) Definitions. As used in this section, unless the context otherwise
+reqmres:
+(b) In addition:
+(l.5) "INCOME-QUALIFIED SUBSCRIBER" HASTHEMEANINGSETFORTH
+IN SECTION 40-2-127.2 (l)(f).
+(5) Purchases of the output from community solar gardens.
+PAGE 3-HOUSE BILL 26-1225
+
+(b) (II) (J) ON AND AFTER OCTOBER 1, 2026, A SUBSCRIBER
+ORGANIZATION MAY DIRECT THE QUALIFYING RETAIL UTILITY TO PROVIDE
+THE SUBSCRIBER ORGANIZATION'S INCOME-QUALIFIED SUBSCRIBERS WITH A
+FIXED BILL CREDIT PURSUANT TO SUBSECTION ( 5)(b) (II)(C ) OF THIS SECTION
+AND TO PROVIDE THE SUBSCRIBER ORGANIZATION'S OTHER SUBSCRIBERS
+WITH A BILL CREDIT THAT CHANGES ANNUALLY PURSUANT TO SUBSECTION
+(5)(b)(Il)(B) OF THIS SECTION. THE QUALIFYING RETAIL UTILITY SHALL
+ADJUST THE VALUE OF THE FIXED BILL CREDIT AVAILABLE TO AN
+INCOME-QUALIFIED SUBSCRIBER BY ADJUSTING THE FIXED BILL CREDIT
+ANNUALLY TO ENSURE THAT THE CREDIT REMAINS ALIGNED WITH CHANGES
+IN ELECTRICITY RAT ES OVER TIME. THE SUBSCRIBER ORGANIZATION SHALL
+CHOOSE THE INITIAL VALUE OF THE FIXED BILL CREDIT FOR AN
+INCOME-QUALIFIED SUBSCRIBER FROM ANY OF THE PREVIOUS THREE YEARS.
+THE INITIAL VALUE APPLIES FOR AN INITIAL PERIOD OF TIME, AS DETERMINED
+BY THE COMMISSION. AFTER THE INITIAL PERIOD, THE CREDIT SHALL BE
+ADJUSTED ANNUALLY IN A MANNER DETERMINED BY THE COMMISSION.
+SECTION 4. In Colorado Revised Statutes, 40-2-135, amend (6);
+and add (7) and (8) as follows:
+40-2-135. Retail distributed generation - customers' rights -
+working group - accelerated interconnection - rules - penalties.
+(6) (a) A public utility may recover its prudently incurred costs to
+facilitate a timely interconnection, which costs may include the cost of
+equipment that the public utility procures for future upgrades needed to
+interconnect retail distributed generation resources. A public utility may
+recover the costs of any such equipment inventory as capital work in
+progress if the inventory is projected to be used within five years of AFTER
+its procurement and with a return at the most recently authorized weighted
+average cost of capital.
+(b) A PUBLIC UTILITY SHALL NOT REQUIRE AN INTERCONNECTION
+CUSTOMER TO PAY THE COSTS ASSOCIATED WITH REASONABLE AND
+NECESSARY INTERCONNECTION FACILITIES AND UPGRADES UNTIL THIRTY
+DAYS BEFORE THE PUBLIC UTILITY INCURS THE COSTS. A PUBLIC UTILITY
+MAY REQUIRE AN INTERCONNECTION CUSTOMER TO PROVIDE SECURITY FOR
+THE ESTIMATED FULL COSTS OF INTERCONNECTION AT THE TIME BOTH
+PARTIES EXECUTE AN INTERCONNECTION AGREEMENT. A PUBLIC UTILITY
+SHALL PROVIDE SECURITY OPTIONS TO THE INTERCONNECTION CUSTOMER,
+PAGE 4-HOUSE BILL 26-1225
+
+INCLUDING ACCEPTANCE OF A LETTER OF CREDIT FROM A QUALIFIED
+PROVIDER.
+(7) (a) ON OR BEFORE AUGUST 15, 2026, A PUBLIC UTILITY WITH
+MORE THAN FIVE HUNDRED THOUSAND CUSTOMERS IN THE STA TE SHALL
+CONVENE A WORKING GROUP TO ACCELERATE DISTRIBUTED GENERATION
+INTERCONNECTION. THE WORKING GROUP MUST INCLUDE STAKEHOLDERS
+FROM THE PUBLIC UTILITY, STAFF OF THE COMMISSION, THE OFFICE OF THE
+UTILITY CONSUMER ADVOCATE CREATED IN SECTION 40-6.5-102, TRADE
+ASSOCIATIONS, AND PROJECT DEVELOPERS.
+(b) THE WORKING GROUP SHALL:
+(I) DISCUSS, IF APPLICABLE:
+(A) A CLUSTER AND BATCH STUDY PROCESS FOR INTERCONNECTION
+STUDIES DESIGNED TO ACCELERATE INTERCONNECTION FOR ALL PROJECTS
+IN THE PUBLIC UTILITY'S INTERCONNECTION QUEUE; AND
+(B) A PROCESS FOR THE PUBLIC UTILITY TO ACCEPT A SURETY BOND
+IN LIEU OF A LETTER OF CREDIT OR CASH FOR INTERCONNECTION UPGRADE
+WORK;AND
+(II) DISCUSS, AND THE PUBLIC UTILITY SHALL IMPLEMENT, A PROCESS
+FOR THIRD-PARTY INTERCONNECTION STUDIES AND UPGRADES, WHICH
+PROCESS MUST INCLUDE A LIST OF THIRD-PARTY CONTRACTORS THAT ARE
+APPROVED BY THE PUBLIC UTILITY AND A PROCESS FOR CONTRACTORS TO BE
+ADDED AND REMOVED FROM THE LIST AS APPLICABLE.
+( c) IF AN INTERCONNECTION CUSTOMER ELECTS TO USE A
+THIRD-PARTY CONTRACTOR TO PERFOR..\1 INTERCONNECTION STUDIES OR
+UPGRADE WORK CONSISTENT WITH THE PUBLIC UTILITY'S INTERNAL
+PROCESSES:
+(I) THE INTERCONNECTION CUSTOMER SHALL USE A CONTRACTOR
+THAT IS APPROVED BY THE PUBLIC UTILITY PURSUANT TO SUBSECTION
+(7)(b )(II) OF THIS SECTION;
+(II) THE PUBLIC UTILITY IS NOT LIABLE FOR AND SHALL NOT
+WARRANTY DESIGNS, CONSTRUCTION, OR WORK PERFORMED BY THE
+PAGE 5-HOUSE BILL 26-1225
+
+THIRD-PARTY CONTRACTOR THAT RESULTS IN DAMAGES, INJURY, OR DEATH;
+(III) ANY RELIABILITY IMPACTS FROM THIRD-PARTY CONTRACTOR
+DESIGNS, CONSTRUCTION, OR OTHER UPGRADE WORK ARE INCLUDED AND
+SPECIFICALLY DESIGNATED IN RELIABILITY METRIC MEASUREMENTS
+REQUIRED BY THE COMMISSION;
+(IV) THE THIRD-PARTY CONTRACTOR SHALL SUBMIT ANY DESIGNS
+OR AS-BUILT ORA WINGS TO THE PUBLIC UTILITY WITHIN THREE BUSINESS
+DAYS AFTER COMPLETION TO ALLOW THE PUBLIC UTILITY TO MAINTAIN
+ACCURATE GEOGRAPHIC INFORMATION SYSTEM MAPPING;
+(V) THE THIRD-PARTY CONTRACTOR SHALL PROVIDE ALL
+INTERCONNECTION STUDIES AND OTHER DESIGN WORK TO THE PUBLIC
+UTILITY, AND THE PUBLIC UTILITY MAY REVIEW AND REQUEST
+MODIFICATIONS, INCLUDING REQUESTING ADDITIONAL ANALYSIS TO ENSURE
+ACCURACY AND COMPLETION;
+(VI) THE PUBLIC UTILITY SHALL INSPECT ANY CONSTRUCTION WORK
+PERFORMED BY THE THIRD-PARTY CONTRACTOR. THE THIRD-PARTY
+CONTRACTOR SHALL OBTAIN THE PUBLIC UTILITY'S CONFIRMATION THAT THE
+WORK IS COMPLETE PRIOR TO DEEMING ANY CONSTRUCTION WORK FINAL
+AND COMPLETED. INSPECTIONS ARE AT THE EXPENSE OF THE THIRD-PARTY
+CONTRACTOR. THE THIRD-PARTY CONTRACTOR SHALL PERFORM ANY
+ADDITIONAL WORK REQUIRED TO ADDRESS SAFETY OR RELIABILITY
+CONCERNS AT THE THIRD-PARTY CONTRACTOR'S EXPENSE.
+(VII) NEITHER THE PUBLIC UTILITY NOR RATEPAYERS ARE
+RESPONSIBLE FOR COSTS ASSOCIATED WITH REPAIRS OR CORRECTIONS TO
+THIRD-PARTY WORK. COSTS AS SOCIAT ED WITH REPAIRS OR CORRECTIONS TO
+THIRD-PARTY WORK ARE THE RESPONSIBILITY OF THE THIRD-PARTY
+CONTRACTOR.
+(d) ON OR BEFORE DECEMBER 15, 2026, THE PUBLIC UTILITY SHALL
+FILE A NOTICE WITH THE COMMISSION THAT INCLUDES A REPORT ON ANY
+RECOMMENDATIONS OF THE WORKING GROUP AND INDICATE WHICH, IF ANY,
+RECOMMENDATIONS ARE UNANIMOUSLY APPROVED BY THE WORKING
+GROUP. THE REPORT MUST ALSO INDICATE WHICH RECOMMENDATIONS
+REQUIRE OR MAY REQUIRE COMMISSION APPROVAL. THE PUBLIC UTILITY
+SHALL MAKE APPROPRIATE FILINGS TO IMPLEMENT ANY RECOMMENDATIONS
+PAGE 6-HOUSE BILL 26-1225
+
+THAT REQUIRE COMMISSION APPROVAL ON OR BEFORE JANUARY 1, 2027.
+(8) ALL INTERCONNECTION UPGRADES AND RELATED UTILITY
+CONSTRUCTION WORK PERFORMED BY A THIRD-PARTY CONTRACTOR MUST
+MEET APPLICABLE SAFETY, RELIABILITY, LABOR, AND TECHNICAL
+ST AND ARDS, INCLUDING THE APPLICABLE LABOR REQUIREMENTS SET FORTH
+IN SECTION 40-2-132.5 (5).
+SECTION 5. In Colorado Revised Statutes, 40-2-130.5, amend
+(l)(a) introductory portion and (l)(a)(II) as follows:
+40-2-130.5. Dispatchable distributed generation -energy storage
+- definitions - program capacity - program administration - rules.
+( 1) Definitions. As used in this section, unless the context otherwise
+reqmres:
+(a) "Dispatchable distributed generation" means distributed
+generation paired with EITHER a co-located energy storage system OR A
+STANDALONE ENERGY STORAGE SYSTEM that is:
+(II) Measured by the capacity of the distributed generation ENERGY
+STORAGE SYSTEM in alternating current.
+SECTION 6. In Colorado Revised Statutes, 40-2-124, amend
+(l)(i)(VI) as follows:
+40-2-124. Renewable energy standards - qualifying retail and
+wholesale utilities - definitions - net metering - legislative declaration
+- rules.
+( 1) Each provider of retail electric service in the state of Colorado,
+other than municipally owned utilities that serve forty thousand customers
+or fewer, is a qualifying retail utility. Each qualifying retail utility, with the
+exception of cooperative electric associations that have voted to exempt
+themselves from commission jurisdiction pursuant to section 40-9.5-104
+and municipally owned utilities, is subject to the rules established under this
+article 2 by the commission. No additional regulatory authority is provided
+to the commission other than that specifically contained in this section. In
+accordance with article 4 of title 24, the commission shall revise or clarify
+PAGE 7-HOUSE BILL 26-122~
+
+existing rules to establish the following:
+U) Rules to accommodate aggregation and interconnection of retail
+distributed generation, including:
+(VI) Requiring qualifying retail utilities to adopt procedures
+designed to ensure that, for all renewable distributed generation or storage
+facilities included in their net metering service:
+(A) The size of any off-site, single-mete1 installation does not
+exceed five hund1ed kilowatts,
+(B) The size ofa ny off-site, nrulti-mete1 installation does not exceed
+tht cc hund1 ed kilowatts pet mete1, and
+(C) For any off-site facility exceeding th1ee hund1ed kilowatts
+COVERED BY THIS SECTION, the installation and any necessary repair or
+maintenance work is performed by a licensed master electrician, licensed
+journeyman electrician, or licensed residential wireman or by properly
+supervised apprentices, in addition to complying with all applicable
+interconnection rules. THE COMMISSION SHALL EVALUATE THE SIZE OF
+OFF-SITE FACILITY AND INSTALLATION LIMITATIONS AS PART OF A FUTURE
+RENEWABLE ENERGY STANDARD COMPLIANCE PLAN.
+SECTION 7. Act subject to petition - effective date. This act
+takes effect at 12:01 a.m. on the day following the expiration of the
+ninety-day period after final adjournment of the general assembly (August
+12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+referendum petition is filed pursuant to section 1 (3) of article V of the state
+constitution against this act or an item, section, or part of this act within
+such period, then the act, item, section, or part will not take effect unless
+PAGE 8-HOUSE BILL 26-1225
+
+approved by the people at the general election to be held in November 2026
+and, in such case, will take effect on the date of the official declaration of
+the vote thereon by the governor.
+J u ~ James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+v~~
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+-s~
+F
+APPROVED O\'I VY'10V1JU\rl 1.c-1- 2.o.2-v ed- 12., \S:
+( ate and Time)
+PAGE 9-HOUSE BILL 26-1225
