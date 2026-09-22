@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0295.02 Jennifer Berman x3286 HOUSE BILL 26-1012
+HOUSE SPONSORSHIP
+Zokaie and Brown,
+SENATE SPONSORSHIP
+Lindstedt and Weissman,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING CONSUMER PROTECTIONS TO PROMOTE FAIR MARKET
+102 PRICING PRACTICES IN THE STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+In 2025, the general assembly enacted House Bill 25-1090, which
+requires clear and conspicuous disclosures regarding the maximum total
+price charged for goods, services, and property. The bill adds a
+requirement that a person selling goods for delivery must disclose, at the
+point of sale, a comparison of the total price for the delivered goods and
+the total price for the goods available for purchase on site at a store.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill also prohibits a person from charging unreasonably
+excessive prices to a captive consumer and defines "captive consumer"
+as a consumer who is at a location at which a seller of ancillary goods or
+services does not have competitors regarding the ancillary goods or
+services being sold. A person that charges unreasonably excessive prices
+to a captive consumer engages in an unfair or deceptive trade practice in
+violation of the "Colorado Consumer Protection Act".
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) At certain locations in the state, such as airports, event venues,
+5 and hospitals, there is not a competitive market for ancillary goods and
+6 services sold at those locations, and consumers at those locations are
+7 captive to a seller's prices because the consumers' only choice is to pay
+8 the price for an ancillary good or service or not purchase the good or
+9 service;
+10 (b) These "captive consumers" lack the ability to shop around for
+11 a better price for a good or service; and
+12 (c) While the existing prohibitions against unfair or deceptive
+13 trade practices under the "Colorado Consumer Protection Act" apply to
+14 excessive prices charged to captive consumers, a specific provision
+15 making it an unfair or deceptive trade practice to charge captive
+16 consumers with excessive prices should be added in the act to clarify the
+17 existing law.
+18 SECTION 2. In Colorado Revised Statutes, 6-1-737, amend
+19 (2)(c)(I); and add (1)(c.5), (1)(f.3), (1)(f.5), (1)(h.5), and (2)(c.5) as
+20 follows:
+21 6-1-737. Requirement to disclose certain pricing information
+22 - delivery service platforms - landlords and tenants - remedies - rules
+-2- HB26-1012
+
+1 - definitions.
+2 (1) As used in this section, unless the context otherwise requires:
+3 (c.5) "DELIVERY SERVICE PLATFORM" MEANS AN ONLINE
+4 APPLICATION, AN INTERNET SERVICE, OR OTHER ONLINE SYSTEM THAT A
+5 PERSON USES TO FACILITATE, MANAGE, OR FACILITATE AND MANAGE THE
+6 DELIVERY OF GOODS OR SERVICES.
+7 (f.3) "GROCERY STORE" HAS THE MEANING SET FORTH IN SECTION
+8 25-4-1602 (5.5).
+9 (f.5) "IN-STORE PRICE" MEANS THE TOTAL PRICE FOR A GOOD THAT
+10 A CONSUMER WOULD PAY ON SITE AT THE STORE FROM WHICH THE GOOD
+11 IS BEING DELIVERED.
+12 (h.5) "ON-APP PRICE" MEANS THE TOTAL PRICE FOR A GOOD THAT
+13 IS SELECTED FOR PURCHASE AND DELIVERY THROUGH A DELIVERY SERVICE
+14 PLATFORM.
+15 (2) (c) (I) Notwithstanding any provision of this section to the
+16 contrary, a delivery network company is compliant COMPLIES with
+17 subsections (2)(a) and (3)(b) of this section if the delivery network
+18 company does not use deceptive, unfair, and unconscionable acts or
+19 practices related to the pricing of goods, services, or property and:
+20 (A) Clearly and conspicuously discloses, at the point when a
+21 consumer views and selects a vendor or goods or services for purchase,
+22 that an additional flat fee, variable fee, or percentage fee is charged,
+23 including the amount of or, in the case of a variable fee that is dependent
+24 on consumer selections or distance and time, the factors determining the
+25 fee, any mandatory fees associated with the transaction, and that the total
+26 price of the services may vary;
+27 (B) Provides an accurate description of the recipients and
+-3- HB26-1012
+
+1 purposes of the additional flat fee, variable fee, or percentage fee in
+2 concise language; and
+3 (C) WITH RESPECT TO GOODS, CLEARLY AND CONSPICUOUSLY
+4 DISCLOSES, AT THE POINT WHEN THE CONSUMER VIEWS AND SELECTS A
+5 GOOD FOR PURCHASE, A COMPARISON OF THE ON-APP PRICE FOR THE GOOD
+6 AND THE IN-STORE PRICE FOR THE GOOD; AND
+7 (C) (D) Displays, after a consumer selects a vendor or goods or
+8 services for purchase but before completing the transaction, a subtotal
+9 page that itemizes the price of the goods or services for purchase; and the
+10 additional flat fee, variable fee, or percentage fee that is included in the
+11 total price; AND, FOR GOODS PURCHASED, A COMPARISON OF THE
+12 CUMULATIVE ON-APP PRICE FOR ALL GOODS SELECTED FOR PURCHASE AND
+13 THE CUMULATIVE IN-STORE PRICE FOR ALL GOODS SELECTED FOR
+14 PURCHASE.
+15 (c.5) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE
+16 CONTRARY, A PERSON, INCLUDING A GROCERY STORE, COMPLIES WITH
+17 SUBSECTIONS (2)(a) AND (3)(b) OF THIS SECTION IF THE PERSON DOES NOT
+18 USE DECEPTIVE, UNFAIR, AND UNCONSCIONABLE ACTS OR PRACTICES
+19 RELATED TO THE PRICING OF GOODS AND COMPLIES WITH SUBSECTIONS
+20 (2)(c)(I)(C) AND (2)(c)(I)(D) OF THIS SECTION WITH RESPECT TO THE
+21 PERSON'S DELIVERY SERVICE PLATFORM.
+22 SECTION 3. In Colorado Revised Statutes, add 6-1-741 as
+23 follows:
+24 6-1-741. Price gouging captive consumers prohibited -
+25 definitions - rules.
+26 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+27 REQUIRES:
+-4- HB26-1012
+
+1 (a) (I) "CAPTIVE CONSUMER" MEANS A CONSUMER WHO IS AT A
+2 LOCATION IN THE STATE AT WHICH A SELLER OF ANCILLARY GOODS OR
+3 SERVICES DOES NOT HAVE COMPETITORS REGARDING THE ANCILLARY
+4 GOODS OR SERVICES BEING SOLD.
+5 (II) "CAPTIVE CONSUMER" INCLUDES A CONSUMER LOCATED:
+6 (A) AT AN AIRPORT;
+7 (B) IN A HOSPITAL OR AN EMERGENCY ROOM;
+8 (C) AT AN EVENT VENUE WITH A SEATING OR STANDING CAPACITY
+9 OF TWO THOUSAND OR MORE INDIVIDUALS;
+10 (D) AT AN ORGANIZED OUTDOOR EVENT, SUCH AS A FAIR OR
+11 FESTIVAL, FOR WHICH MORE THAN TWO THOUSAND ATTENDEES ARE
+12 EXPECTED; OR
+13 (E) IN A CORRECTIONAL FACILITY.
+14 (b) "CAPTIVE CONSUMER LOCATION" MEANS A LOCATION AT
+15 WHICH CAPTIVE CONSUMERS ARE PRESENT.
+16 (c) "CORRECTIONAL FACILITY" HAS THE MEANING SET FORTH IN
+17 SECTION 24-4.1-302 (1.3).
+18 (2) (a) A PERSON IS PRESUMED TO BE ENGAGED IN AN UNFAIR OR
+19 DECEPTIVE TRADE PRACTICE IF THE PERSON CHARGES A CAPTIVE
+20 CONSUMER A PRICE FOR AN ANCILLARY GOOD OR SERVICE THAT IS MORE
+21 THAN THE AVERAGE PRICE OFFERED FOR A COMPARABLE GOOD OR SERVICE
+22 SOLD IN THE COUNTY IN WHICH THE CAPTIVE CONSUMER PURCHASES THE
+23 ANCILLARY GOOD OR SERVICE.
+24 (b) IF THE PRICE OF AN ANCILLARY GOOD OR SERVICE SOLD TO A
+25 CAPTIVE CONSUMER EXCEEDS THE AVERAGE PRICE FOR COMPARABLE
+26 GOODS OR SERVICES SOLD OR OFFERED FOR SALE IN THE SAME COUNTY,
+27 THE SELLER OF THE ANCILLARY GOOD OR SERVICE MAY REBUT THE
+-5- HB26-1012
+
+1 PRESUMPTION THAT THE SELLER ENGAGED IN AN UNFAIR OR DECEPTIVE
+2 TRADE PRACTICE BY DEMONSTRATING THAT THE PRICE OF THE ANCILLARY
+3 GOOD OR SERVICE WAS NOT UNREASONABLY EXCESSIVE.
+4 (3) A VIOLATION OF THIS SECTION IS AN UNFAIR OR DECEPTIVE
+5 TRADE PRACTICE PURSUANT TO SECTION 6-1-105 (1)(qqqq) AND IS
+6 PRESUMED TO HAVE A SIGNIFICANT PUBLIC IMPACT.
+7 (4) THE ATTORNEY GENERAL MAY ADOPT RULES TO IMPLEMENT
+8 THIS SECTION, INCLUDING RULES TO ESTABLISH GUIDELINES FOR
+9 DETERMINING WHAT AMOUNTS TO AN UNREASONABLY EXCESSIVE PRICE
+10 IN CIRCUMSTANCES INVOLVING SALES TO CAPTIVE CONSUMERS.
+11 SECTION 4. In Colorado Revised Statutes, 6-1-105, add
+12 (1)(qqqq) as follows:
+13 6-1-105. Unfair or deceptive trade practices - definitions.
+14 (1) A person engages in a deceptive trade practice when, in the
+15 course of the person's business, vocation, or occupation, the person:
+16 (qqqq) VIOLATES SECTION 6-1-741.
+17 SECTION 5. Act subject to petition - effective date -
+18 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+19 the expiration of the ninety-day period after final adjournment of the
+20 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+21 2026); except that, if a referendum petition is filed pursuant to section 1
+22 (3) of article V of the state constitution against this act or an item, section,
+23 or part of this act within such period, then the act, item, section, or part
+24 will not take effect unless approved by the people at the general election
+25 to be held in November 2026 and, in such case, will take effect on the
+26 date of the official declaration of the vote thereon by the governor.
+-6- HB26-1012
+
+1 (2) This act applies to conduct occurring on or after the applicable
+2 effective date of this act.
+-7- HB26-1012

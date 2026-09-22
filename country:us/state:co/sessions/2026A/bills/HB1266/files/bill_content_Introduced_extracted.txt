@@ -1,0 +1,1338 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0778.01 Caroline Martin x5902 HOUSE BILL 26-1266
+HOUSE SPONSORSHIP
+Woog,
+SENATE SPONSORSHIP
+Pelton B.,
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING THE REPEAL OF RETAIL DELIVERY FEES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+A retail delivery is a retail sale of tangible personal property that
+is subject to state sales tax by a retailer for delivery by a motor vehicle to
+the purchaser at any location in the state. As authorized by current law,
+retail delivery fees are imposed on each retail delivery by the:
+! State;
+! Community access enterprise;
+! Clean fleet enterprise;
+! Statewide bridge and tunnel enterprise;
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Clean transit enterprise; and
+! Nonattainment area air pollution mitigation enterprise.
+Effective 90 days after the final adjournment of the general
+assembly in 2026, the bill eliminates the retail delivery fees.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-38.5-301, repeal
+3 (1)(a), (1)(b), (1)(c), (1)(d), and (2) as follows:
+4 24-38.5-301. Legislative declaration. (1) The general assembly
+5 hereby finds and declares that:
+6 (a) Retail deliveries are increasing and are expected to continue
+7 to increase in urban and rural communities;
+8 (b) The motor vehicles used to make retail deliveries are some of
+9 the most polluting vehicles on the road, which has resulted in additional
+10 and increasing air and greenhouse gas pollution at the local community
+11 level from idling delivery vehicles in neighborhoods;
+12 (c) The adverse environmental and health impacts of increased
+13 local emissions from motor vehicles used to make retail deliveries can be
+14 mitigated and offset by investing in the charging and fueling
+15 infrastructure needed to support widespread public adoption of electric
+16 motor vehicles and zero emission vehicles and by replacing the state's
+17 dirtiest passenger vehicles with zero emission vehicles;
+18 (d) Instead of reducing the impacts of retail deliveries by limiting
+19 retail delivery activity through regulation, it is more appropriate to
+20 continue to allow persons who receive retail deliveries to benefit from the
+21 convenience afforded by unfettered retail deliveries and instead impose
+22 a small fee on each retail delivery and use fee revenue to fund necessary
+23 mitigation activities;
+-2- HB26-1266
+
+1 (2) The general assembly further finds and declares that:
+2 (a) To incentivize, support, and accelerate the construction of
+3 electric motor vehicle charging and fueling infrastructure in communities
+4 throughout the state; incentivize, support, and accelerate the adoption of
+5 electric motor vehicles by businesses, including transportation network
+6 companies, governmental entities, and individuals; and thereby increase
+7 access to electric motor vehicles, minimize and mitigate the
+8 environmental and health impacts caused by transportation-related
+9 emissions of air pollutants and greenhouse gases, and allow the state and
+10 its citizens to reap the environmental, health, business and governmental
+11 operational efficiency, and personal motor vehicle total ownership cost
+12 savings benefits of widespread adoption of electric motor vehicles, it is
+13 necessary, appropriate, and in the best interest of the state to create a
+14 community access enterprise that can provide specialized business
+15 services, including impact remediation services, that help communities,
+16 businesses, and governmental entities construct the electric motor vehicle
+17 charging and fueling infrastructure needed to support widespread
+18 adoption of electric motor vehicles, including light-duty, medium-duty,
+19 and heavy-duty motor vehicles and motor vehicles used to make retail
+20 deliveries, and thereby assuage range anxiety concerns, supply chain
+21 disruption concerns, and any other concerns that currently disincentivize
+22 the widespread adoption of electric motor vehicles;
+23 (b) The specific focus of the enterprise is the equitable reduction
+24 and mitigation of the adverse environmental and health impacts of air
+25 pollution and greenhouse gas emissions at the community level through
+26 support of the adoption of electric motor vehicles and electric alternatives
+27 to motor vehicles at the community level, including but not limited to
+-3- HB26-1266
+
+1 within disproportionately impacted communities throughout the state;
+2 (c) The enterprise provides impact remediation services when, in
+3 exchange for the payment of community access retail delivery fees by or
+4 on behalf of purchasers of tangible personal property for retail delivery,
+5 it acts to mitigate the impacts of residential and commercial deliveries on
+6 the state's transportation infrastructure, air quality, and emissions by:
+7 (I) Funding the construction of electric motor vehicle charging
+8 infrastructure that supports the use of clean and quiet electric motor
+9 vehicles, including motor vehicles used to make retail deliveries;
+10 (II) Specifically supporting and incentivizing the retirement of old
+11 and inefficient motor vehicles powered by internal combustion engines
+12 and the adoption of electric motor vehicles, electric alternatives to motor
+13 vehicles, and transit use in communities, including but not limited to
+14 disproportionately impacted communities, that generally bear the greatest
+15 burden of the environmental and health impacts of transportation
+16 emissions due to disparities in transportation pollution exposure;
+17 (III) Providing outreach, education, planning funds, or training to
+18 support the successful applications for funding and the performance of
+19 entities receiving funds;
+20 (IV) Contributing to the comprehensive regulatory scheme
+21 required for the planning, funding, development, construction,
+22 maintenance, and supervision of a sustainable transportation system; and
+23 (V) Providing additional remediation services to offset impacts
+24 caused by fee payers as may be provided by law;
+25 (d) By providing remediation services as authorized by this
+26 section, the enterprise provides a benefit to fee payers when it remediates
+27 the impacts they cause and therefore operates as a business in accordance
+-4- HB26-1266
+
+1 with the determination of the Colorado supreme court in Colorado Union
+2 of Taxpayers Foundation v. City of Aspen, 2018 CO 36;
+3 (e) Consistent with the determination of the Colorado supreme
+4 court in Nicholl v. E-470 Public Highway Authority, 896 P.2d 859 (Colo.
+5 1995), that the power to impose taxes is inconsistent with enterprise status
+6 under section 20 of article X of the state constitution, it is the conclusion
+7 of the general assembly that the revenue collected by the enterprise is
+8 generated by fees, not taxes, because the community access retail delivery
+9 fee imposed by the enterprise as authorized by section 24-38.5-303 (7) is:
+10 (I) Imposed for the specific purpose of allowing the enterprise to
+11 defray the costs of providing the remediation services specified in this
+12 section, including mitigating impacts to air quality and greenhouse gas
+13 emissions caused by the activities on which the fee is assessed, and
+14 contributes to the implementation of the comprehensive regulatory
+15 scheme required for the planning, funding, development, construction,
+16 maintenance, and supervision of a sustainable transportation system; and
+17 (II) Collected at rates that are reasonably calculated based on the
+18 impacts caused by fee payers and the cost of remediating those impacts;
+19 and
+20 (f) So long as the enterprise qualifies as an enterprise for purposes
+21 of section 20 of article X of the state constitution, the revenue from the
+22 community access retail delivery fee collected by the enterprise is not
+23 state fiscal year spending, as defined in section 24-77-102 (17), or state
+24 revenues, as defined in section 24-77-103.6 (6)(c), and does not count
+25 against either the state fiscal year spending limit imposed by section 20
+26 of article X of the state constitution or the excess state revenues cap, as
+27 defined in section 24-77-103.6 (6)(b)(I)(D).
+-5- HB26-1266
+
+1 SECTION 2. In Colorado Revised Statutes, 24-38.5-302, repeal
+2 (11), (17), and (18) as follows:
+3 24-38.5-302. Definitions. As used in this part 3, unless the
+4 context otherwise requires:
+5 (11) "Inflation" means the average annual percentage change in
+6 the United States department of labor, bureau of labor statistics, consumer
+7 price index for Denver-Aurora-Lakewood for all items and all urban
+8 consumers, or its applicable predecessor or successor index, for the five
+9 years ending on the last December 31 before the state fiscal year for
+10 which an inflation adjustment to be made to the community access retail
+11 delivery fee imposed pursuant to section 24-38.5-303 (7) begins.
+12 (17) "Retail delivery" has the same meaning as set forth in section
+13 43-4-218 (2)(e).
+14 (18) "Retailer" has the same meaning as set forth in section
+15 39-26-102 (8).
+16 SECTION 3. In Colorado Revised Statutes, 24-38.5-303, amend
+17 (5)(a) and (6)(f); and repeal (3)(a), (6)(g), and (7) as follows:
+18 24-38.5-303. Community access enterprise - creation - board
+19 - powers and duties - fund - transparency and reporting.
+20 (3) The business purpose of the enterprise is to support the
+21 widespread adoption of electric motor vehicles, including motor vehicles
+22 that originally were powered exclusively by internal combustion engines
+23 but have been converted into electric motor vehicles, in an equitable
+24 manner by directly investing in transportation infrastructure, making
+25 grants or providing rebates or other financing options to fund the
+26 construction of electric motor vehicle charging infrastructure throughout
+27 the state, and incentivizing the acquisition and use of electric motor
+-6- HB26-1266
+
+1 vehicles and electric alternatives to motor vehicles in communities,
+2 including but not limited to disproportionately impacted communities,
+3 and by owners of older, less fuel efficient, and higher polluting vehicles.
+4 To allow the enterprise to accomplish this business purpose and fully
+5 exercise its powers and duties through the board, the enterprise may:
+6 (a) Impose a community access retail delivery fee as authorized
+7 by subsection (7) of this section;
+8 (5) (a) The community access enterprise fund is hereby created in
+9 the state treasury. The fund consists of community access retail delivery
+10 fee revenue credited to the fund pursuant to subsection (7) of this section,
+11 any monetary gifts, grants, donations, or other payments received by the
+12 enterprise, any federal money that may be credited to the fund, and any
+13 other money that the general assembly may appropriate or transfer to the
+14 fund. The state treasurer shall credit all interest and income derived from
+15 the deposit and investment of money in the fund to the fund. Money in the
+16 fund is continuously appropriated to the enterprise and may be expended
+17 to provide grants and rebates, pay its reasonable and necessary operating
+18 expenses, including the repayment of any loan received pursuant to
+19 subsection (5)(b) of this section, and otherwise exercise its powers and
+20 perform its duties as authorized by this part 3.
+21 (6) In addition to any other powers and duties specified in this
+22 section, the board has the following general powers and duties:
+23 (f) To publish grant and similar program processes by which the
+24 enterprise accepts applications, the criteria used for evaluating
+25 applications, and a list of grantees pursuant to subsection (8) of this
+26 section; AND
+27 (g) To promulgate rules for the sole purpose of setting the amount
+-7- HB26-1266
+
+1 of the community access retail delivery fee at or below the maximum
+2 amount authorized in this section; and
+3 (7) (a) In furtherance of its business purpose, beginning in state
+4 fiscal year 2022-23, the enterprise shall impose, and the department of
+5 revenue shall collect on behalf of the enterprise, a community access
+6 retail delivery fee on each retail delivery. Each retailer who makes a retail
+7 delivery shall either collect and remit or elect to pay the community
+8 access retail delivery fee in the manner prescribed by the department in
+9 accordance with section 43-4-218 (6). For the purpose of minimizing
+10 compliance costs for retailers and administrative costs for the state, the
+11 department of revenue shall collect and administer the community access
+12 retail delivery fee on behalf of the enterprise in the same manner in which
+13 it collects and administers the retail delivery fee imposed by section
+14 43-4-218 (3).
+15 (b) For retail deliveries of tangible personal property purchased
+16 during state fiscal year 2022-23, the enterprise shall impose the
+17 community access retail delivery fee in a maximum amount of six and
+18 nine-tenths cents.
+19 (c) (I) Except as otherwise provided in subsection (7)(c)(II) of this
+20 section, for retail deliveries of tangible personal property purchased
+21 during state fiscal year 2023-24 or during any subsequent state fiscal year,
+22 the enterprise shall impose the community access retail delivery fee in a
+23 maximum amount that is the maximum amount for the prior state fiscal
+24 year adjusted for inflation. The enterprise shall notify the department of
+25 revenue of the amount of the community access retail delivery fee to be
+26 collected for retail deliveries of tangible personal property purchased
+27 during each state fiscal year no later than March 15 of the calendar year
+-8- HB26-1266
+
+1 in which the state fiscal year begins, and the department of revenue shall
+2 publish the amount no later than April15 of the calendar year in which the
+3 state fiscal year begins.
+4 (II) The enterprise is authorized to adjust the amount of the
+5 community access retail delivery fee for retail deliveries of tangible
+6 personal property purchased during a state fiscal year only if the
+7 department of revenue adjusts the amount of the retail delivery fee
+8 imposed by section 43-4-218 (3) for retail deliveries of tangible personal
+9 property purchased during the state fiscal year.
+10 SECTION 4. In Colorado Revised Statutes, 25-7.5-101, amend
+11 (2)(d); and repeal (1) and (2)(e) as follows:
+12 25-7.5-101. Legislative declaration.
+13 (1) The general assembly hereby finds and declares that:
+14 (a) An increasing number of fleet motor vehicles are on the road
+15 to meet increasing demands for retail deliveries and rides arranged
+16 through transportation network companies;
+17 (b) These fleet vehicles are some of the most polluting vehicles on
+18 the road, which has resulted in additional and increasing air and
+19 greenhouse gas pollution and related adverse environmental and health
+20 impacts across the state;
+21 (c) The adverse environmental and health impacts of increased
+22 emissions from fleet motor vehicles used to make retail deliveries and
+23 provide rides arranged through transportation network companies can be
+24 mitigated and offset by supporting the widespread adoption of electric
+25 motor vehicles for use in motor vehicle fleets;
+26 (d) Instead of reducing the impacts of retail deliveries and rides
+27 arranged through transportation network companies by limiting retail
+-9- HB26-1266
+
+1 delivery and transportation network company ride activity through
+2 regulation, it is more appropriate to continue to allow persons who
+3 receive retail deliveries and benefit from the convenience afforded by
+4 unfettered retail deliveries and to allow transportation network companies
+5 that arrange prearranged rides to continue to provide that service without
+6 undue restrictions and instead impose a small fee on each retail delivery
+7 and ride and use fee revenue to fund necessary mitigation activities; and
+8 (e) It is necessary, appropriate, and in the best interest of the state
+9 and all Coloradans to incentivize and support the use of electric motor
+10 vehicles and, to the extent temporarily necessitated by the limitations of
+11 current electric motor vehicle technology and availability for certain fleet
+12 uses, compressed natural gas motor vehicles that are fueled by recovered
+13 methane and that produce fewer emissions than gasoline or diesel
+14 powered motor vehicles, by businesses and governmental entities that use
+15 fleets of motor vehicles, including fleets composed of personal motor
+16 vehicles owned by individual contractors who provide prearranged rides
+17 for transportation network companies or make retail deliveries, and to
+18 enable the state to achieve its stated electric motor vehicle adoption goals
+19 because increased usage of electric motor vehicles in motor vehicle fleets:
+20 (I) Generally reduces emissions of air pollutants, including ozone
+21 precursors, particulate matter pollutants, other hazardous air pollutants,
+22 and greenhouse gases, that contribute to adverse environmental effects
+23 such as climate change and adverse human health effects, including but
+24 not limited to asthma, reduced lung capacity, increased susceptibility to
+25 respiratory illnesses, chronic bronchitis, heart disease, and lung cancer,
+26 and helps the state meet its statewide greenhouse gas pollution reduction
+27 targets established in section 25-7-102 (2)(g), comply with air quality
+-10- HB26-1266
+
+1 attainment standards, and reduce adverse environmental and health
+2 impacts across the state and in communities, including but not limited to
+3 disproportionately impacted communities;
+4 (II) Specifically reduces higher localized emissions of such air
+5 pollutants in communities, including but not limited to disproportionately
+6 impacted communities, where:
+7 (A) Fleet yards, warehouses, distribution centers, refineries, fuel
+8 depots, waste facilities, and major interstate highways are located;
+9 (B) Usage of fleet motor vehicles is concentrated; and
+10 (C) Residents experience increased risks of air-pollution-related
+11 health impacts such as asthma, reduced lung capacity, increased
+12 susceptibility to respiratory illnesses, heart disease, and lung cancer; and
+13 (III) By reducing fuel and maintenance costs, helps businesses and
+14 governmental entities operate more efficiently over time, allowing the
+15 cost savings to be reinvested in business growth or used for beneficial
+16 public purposes.
+17 (2) The general assembly further finds and declares that:
+18 (d) By providing remediation services as authorized by this
+19 section, the enterprise provides a benefit to fee payers when it remediates
+20 the impacts they cause and therefore operates as a business in accordance
+21 with the determination of the Colorado supreme court in Colorado Union
+22 of Taxpayers Foundation v. City of Aspen, 2018 CO 36; AND
+23 (e) Consistent with the determination of the Colorado supreme
+24 court in Nicholl v. E-470 Public Highway Authority, 896 P.2d 859 (Colo.
+25 1995), that the power to impose taxes is inconsistent with enterprise status
+26 under section 20 of article X of the state constitution, it is the conclusion
+27 of the general assembly that the revenue collected by the enterprise is
+-11- HB26-1266
+
+1 generated by fees, not taxes, because the fees imposed by the enterprise
+2 as authorized by section 25-7.5-103 (7) and (8) are:
+3 (I) Imposed for the specific purpose of allowing the enterprise to
+4 defray the costs of providing the remediation services specified in this
+5 section, including mitigating impacts to air quality and greenhouse gas
+6 emissions caused by the activities on which the fee is assessed, and
+7 contributes to the implementation of the comprehensive regulatory
+8 scheme required for the planning, funding, development, construction,
+9 maintenance, and supervision of a sustainable transportation system; and
+10 (II) Collected at rates that are reasonably calculated based on the
+11 impacts caused by fee payers and the cost of remediating those impacts;
+12 and
+13 SECTION 5. In Colorado Revised Statutes, 25-7.5-102, amend
+14 (13); and repeal (21) as follows:
+15 25-7.5-102. Definitions.
+16 As used in this article 7.5, unless the context otherwise requires:
+17 (13) "Inflation" means the average annual percentage change in
+18 the United States department of labor, bureau of labor statistics, consumer
+19 price index for Denver-Aurora-Lakewood for all items and all urban
+20 consumers, or its applicable predecessor or successor index, for the five
+21 years ending on the last December 31 before a state fiscal year for which
+22 an inflation adjustment to be made to the clean fleet per ride fee imposed
+23 by section 25-7.5-103 (7) or the clean fleet retail delivery fee imposed by
+24 section 25-7.5-103 (8) begins.
+25 (21) "Retail delivery" has the same meaning as set forth in section
+26 43-4-218 (2)(e).
+27 SECTION 6. In Colorado Revised Statutes, 25-7.5-103, amend
+-12- HB26-1266
+
+1 (3)(a), (5)(a), and (6)(h); and repeal (8) as follows:
+2 25-7.5-103. Clean fleet enterprise - creation - board - powers
+3 and duties - fees - fund. (3) The business purpose of the enterprise is to
+4 incentivize and support the use of electric motor vehicles, including
+5 motor vehicles that originally were powered exclusively by internal
+6 combustion engines but have been converted into electric motor vehicles,
+7 and, to the extent temporarily necessitated by the limitations of current
+8 electric motor vehicle technology for certain fleet uses, compressed
+9 natural gas motor vehicles that are fueled by recovered methane, by
+10 businesses and governmental entities that own or operate fleets of motor
+11 vehicles, including fleets composed of personal motor vehicles owned or
+12 leased by individual contractors who provide prearranged rides for
+13 transportation network companies or deliver goods for a third-party
+14 delivery service. To allow the enterprise to accomplish this purpose and
+15 fully exercise its powers and duties through the board, the enterprise may:
+16 (a) Impose a clean fleet per ride fee and a clean fleet retail
+17 delivery fee as authorized by subsections (7) and (8) SUBSECTION (7) of
+18 this section;
+19 (5) (a) The clean fleet enterprise fund is hereby created in the state
+20 treasury. The fund consists of clean fleet per ride fee revenue and clean
+21 fleet retail delivery fee revenue credited to the fund pursuant to
+22 subsections (7) and (8) SUBSECTION (7) of this section, any monetary
+23 gifts, grants, donations, or other payments received by the enterprise, any
+24 federal money that may be credited to the fund, and any other money that
+25 the general assembly may appropriate or transfer to the fund. The state
+26 treasurer shall credit all interest and income derived from the deposit and
+27 investment of money in the fund to the fund. Money in the fund is
+-13- HB26-1266
+
+1 continuously appropriated to the enterprise for the purposes set forth in
+2 this article 7.5 and to pay the enterprise's reasonable and necessary
+3 operating expenses, including the repayment of any loan received
+4 pursuant to subsection (5)(b) of this section.
+5 (6) In addition to any other powers and duties specified in this
+6 section, the board has the following general powers and duties:
+7 (h) To promulgate ADOPT rules for the sole purpose of setting the
+8 amounts AMOUNT of the clean fleet per ride fee and the clean fleet retail
+9 delivery fee at or below the maximum amounts AMOUNT authorized in
+10 this section; and
+11 (8) (a) In furtherance of its business purpose, beginning in state
+12 fiscal year 2022-23, the enterprise shall impose, and the department of
+13 revenue shall collect on behalf of the enterprise, a clean fleet retail
+14 delivery fee on each retail delivery. Each retailer who makes a retail
+15 delivery shall either collect and remit or elect to pay the clean fleet retail
+16 delivery fee in the manner prescribed by the department in accordance
+17 with section 43-4-218 (6). For the purpose of minimizing compliance
+18 costs for retailers and administrative costs for the state, the department of
+19 revenue shall collect and administer the clean fleet retail delivery fee on
+20 behalf of the enterprise in the same manner in which it collects and
+21 administers the retail delivery fee imposed by section 43-4-218 (3).
+22 (b) For retail deliveries of tangible personal property purchased
+23 during state fiscal year 2022-23, the enterprise shall impose the clean fleet
+24 retail delivery fee in a maximum amount of five and three-tenths cents.
+25 (c) (I) Except as otherwise provided in subsection (8)(c)(II) of this
+26 section, for retail deliveries of tangible personal property purchased
+27 during state fiscal year 2023-24 or during any subsequent state fiscal year,
+-14- HB26-1266
+
+1 the enterprise shall impose the clean fleet retail delivery fee in a
+2 maximum amount that is the maximum amount for the prior state fiscal
+3 year adjusted for inflation. The enterprise shall notify the department of
+4 revenue of the amount of the clean fleet retail delivery fee to be collected
+5 for retail deliveries of tangible personal property purchased during each
+6 state fiscal year no later than March 15 of the calendar year in which the
+7 state fiscal year begins, and the department of revenue shall publish the
+8 amount no later than April15 of the calendar year in which the state fiscal
+9 year begins.
+10 (II) The enterprise is authorized to adjust the amount of the clean
+11 fleet retail delivery fee for retail deliveries of tangible personal property
+12 purchased during a state fiscal year only if the department of revenue
+13 adjusts the amount of the retail delivery fee imposed by section 43-4-218
+14 (3) for retail deliveries of tangible personal property purchased during the
+15 state fiscal year.
+16 SECTION 7. In Colorado Revised Statutes, 39-21-119.5, amend
+17 (2)(s) and (2)(t); and repeal (2)(u) as follows:
+18 39-21-119.5. Mandatory electronic filing of returns -
+19 mandatory electronic payment - penalty - waiver - definitions.
+20 (2) Except as provided in subsection (6) of this section, the
+21 executive director may, as specified in subsection (3) of this section,
+22 require the electronic filing of returns and require the payment of any tax
+23 or fee due by electronic funds transfer for the following:
+24 (s) Any prepaid wireless 911 charge report required to be filed and
+25 payment required to be made pursuant to section 29-11-102.5 (3); AND
+26 (t) Any prepaid telephone disability access charge report required
+27 to be filed and payment required to be made pursuant to section
+-15- HB26-1266
+
+1 40-17-104. and
+2 (u) Any retail delivery fee or enterprise retail delivery fees return
+3 required to be filed pursuant to section 43-4-218 (6).
+4 SECTION 8. In Colorado Revised Statutes, 39-26-102, amend
+5 (7)(a) introductory portion as follows:
+6 39-26-102. Definitions. As used in this article 26, unless the
+7 context otherwise requires:
+8 (7) (a) "Purchase price" means the price to the consumer,
+9 exclusive of any direct tax imposed by the federal government or by this
+10 article 26, exclusive of any retail delivery fee and enterprise retail
+11 delivery fees imposed or collected as specified in section 43-4-218, and,
+12 in the case of all retail sales involving the exchange of property, also
+13 exclusive of the fair market value of the property exchanged at the time
+14 and place of the exchange, if:
+15 SECTION 9. In Colorado Revised Statutes, 39-37-103, repeal
+16 (15)(a)(IV) as follows:
+17 39-37-103. Definitions.
+18 As used in this article 37, unless the context otherwise requires:
+19 (15) (a) "Purchase price" means the aggregate consideration
+20 valued in money paid or delivered or promised to be paid or delivered by
+21 the user or consumer in consummation of a sale, exclusive of:
+22 (IV) Any retail delivery fee and enterprise retail delivery fees
+23 imposed or collected as specified in section 43-4-218;
+24 SECTION 10. In Colorado Revised Statutes, 43-4-205, repeal
+25 (6.8)(b) as follows:
+26 43-4-205. Allocation of fund - repeal.
+27 (6.8) (b) (I) Revenue from the retail delivery fee imposed pursuant
+-16- HB26-1266
+
+1 to section 43-4-218 (3) that is credited to the highway users tax fund as
+2 required by section 43-4-218 (5)(a)(I) must be allocated and expended as
+3 follows:
+4 (A) Forty percent must be paid to the state highway fund and
+5 expended as provided in section 43-4-206;
+6 (B) Thirty-three percent must be paid to the county treasurers of
+7 the respective counties, subject to annual appropriation by the general
+8 assembly, and allocated and expended as provided in section 43-4-207;
+9 and
+10 (C) Twenty-seven percent must be paid to the cities and
+11 incorporated towns, subject to annual appropriation by the general
+12 assembly, and must be allocated and expended as provided in section
+13 43-4-208 (2)(b) and (6)(a).
+14 (II) Revenue from the retail delivery fee may be expended for the
+15 purposes specified in subsection (6)(b) of this section and may also be
+16 expended for transit-related projects needed to integrate different
+17 transportation modes within a multimodal transportation system.
+18 SECTION 11. In Colorado Revised Statutes, repeal 43-4-218 as
+19 follows:
+20 43-4-218. Additional funding - retail delivery fee - fund
+21 created - simultaneous collection of enterprise fees - rules - legislative
+22 declaration - definitions.
+23 (1) The general assembly hereby finds and declares that:
+24 (a) In recent years, the number of retail deliveries of tangible
+25 personal property, including restaurant food, has rapidly increased, and
+26 this rapid growth is expected to continue;
+27 (b) The world economic forum estimates that by 2030 there will
+-17- HB26-1266
+
+1 be over thirty percent more delivery vehicles on roads to deliver
+2 seventy-eight percent more packages, which will increase usage of the
+3 highways, roads, and streets of the state by motor vehicles used to make
+4 retail deliveries, traffic congestion, and retail-delivery-related emissions;
+5 (c) This additional usage has accelerated and is expected to
+6 continue to accelerate deterioration of surface transportation system
+7 infrastructure, and has required and is expected to continue to require the
+8 state, counties, and municipalities to perform more maintenance and
+9 reconstruction of state highways, county roads, and city streets;
+10 (d) This additional usage has also increased and is expected to
+11 continue to increase motor-vehicle-related emissions of air pollutants,
+12 including ozone precursors, particulate matter pollutants, other hazardous
+13 air pollutants, and greenhouse gases, that contribute to adverse
+14 environmental effects, including but not limited to climate change, and
+15 adverse human health effects;
+16 (d.3) There are administrative costs for a retailer when the state
+17 imposes a fee on retail deliveries, and the benefits from the fee revenue
+18 need to be balanced with the potential economic impacts on the retailers;
+19 (d.7) Fees on retail deliveries should only be imposed on retailers
+20 that are large enough to absorb these administrative costs without
+21 significant economic harm;
+22 (e) It is therefore necessary and appropriate:
+23 (I) To impose a retail delivery fee as specified in this section and
+24 to credit the proceeds of the fee to the highway users tax fund created in
+25 section 43-4-201 for allocation to the state, counties, and municipalities
+26 and to the multimodal transportation and mitigation options fund created
+27 in section 43-4-1103 (1)(a);
+-18- HB26-1266
+
+1 (II) To authorize the community access enterprise created in
+2 section 24-38.5-303 (1) to impose a community access retail delivery fee
+3 as specified in section 24-38.5-303 (7), authorize the clean fleet enterprise
+4 created in section 25-7.5-103 (1)(a) to impose a clean fleet retail delivery
+5 fee as specified in section 25-7.5-103 (8), authorize the statewide bridge
+6 and tunnel enterprise created in section 43-4-805 (2)(a)(I) to impose a
+7 bridge and tunnel retail delivery fee as specified in section 43-4-805
+8 (5)(g.7), authorize the clean transit enterprise created in section
+9 43-4-1203 (1)(a) to impose a clean transit retail delivery fee as specified
+10 in section 43-4-1203 (7), and authorize the nonattainment area air
+11 pollution mitigation enterprise created in section 43-4-1303 (1)(a) to
+12 impose an air pollution mitigation retail delivery fee as specified in
+13 section 43-1-1303 (8) to help fund the enterprises' pursuit of their
+14 respective business purposes;
+15 (III) For the purpose of minimizing compliance costs for fee
+16 payers and administrative costs for the state, to require the department of
+17 revenue to collect the retail delivery fees imposed by the enterprises on
+18 behalf of the enterprises when it collects the retail delivery fee imposed
+19 by subsection (3) of this section and to distribute the enterprise fee
+20 revenue to the enterprises; and
+21 (IV) To create an exemption from the retail delivery fees for
+22 retailers with retail sales of five hundred thousand dollars or less.
+23 (2) As used in this section, unless the context otherwise requires:
+24 (a) "Enterprise retail delivery fees" means:
+25 (I) The community access retail delivery fee imposed by the
+26 community access enterprise created in section 24-38.5-303 (1), as
+27 specified in section 24-38.5-303 (7);
+-19- HB26-1266
+
+1 (II) The clean fleet retail delivery fee imposed by the clean fleet
+2 enterprise created in section 25-7.5-103 (1)(a), as specified in section
+3 25-7.5-103 (8);
+4 (III) The bridge and tunnel retail delivery fee imposed by the
+5 statewide bridge and tunnel enterprise created in section 43-4-805
+6 (2)(a)(I), as specified in section 43-4-805 (5)(g.7);
+7 (IV) The clean transit retail delivery fee imposed by the clean
+8 transit enterprise created in section 43-4-1203 (1)(a) as specified in
+9 section 43-4-1203 (7); and
+10 (V) The air pollution mitigation retail delivery fee imposed by the
+11 nonattainment area air pollution mitigation enterprise created in section
+12 43-4-1303 (1)(a) as specified in section 43-1-1303 (8).
+13 (b) "Inflation" means the average annual percentage change in the
+14 United States department of labor, bureau of labor statistics, consumer
+15 price index for Denver-Aurora-Lakewood for all items and all urban
+16 consumers, or its applicable predecessor or successor index, for the five
+17 years ending on the last December 31 before the calendar year in which
+18 a state fiscal year for which an inflation adjustment to the retail delivery
+19 fee imposed by subsection (3) of this section is to be made begins.
+20 (c) "Motor vehicle" has the same meaning as set forth in section
+21 42-1-102 (58). The term does not include a personal delivery device.
+22 (d) "Personal delivery device" means an autonomously operated
+23 robot that is:
+24 (I) Designed and manufactured for the purpose of transporting
+25 tangible personal property primarily on sidewalks, crosswalks, and other
+26 public rights-of-way that are typically used by pedestrians;
+27 (II) Weighs no more than five hundred fifty pounds, excluding
+-20- HB26-1266
+
+1 any tangible personal property being transported; and
+2 (III) Operates at speeds of less than ten miles per hour when on
+3 sidewalks, crosswalks, and other public rights-of-way that are typically
+4 used by pedestrians.
+5 (e) "Retail delivery" means a retail sale of tangible personal
+6 property by a retailer for delivery by a motor vehicle owned or operated
+7 by the retailer or any other person to the purchaser at a location in this
+8 state, which sale includes at least one item of tangible personal property
+9 that is subject to taxation under article 26 of title 39. Each such retail sale
+10 is a single retail delivery regardless of the number of shipments necessary
+11 to deliver the items of tangible personal property purchased.
+12 (f) "Retailer" has the same meaning as set forth in section
+13 39-26-102 (8).
+14 (g) "Retail sale" has the same meaning as set forth in section
+15 39-26-102 (9).
+16 (h) "Tangible personal property" has the same meaning as set
+17 forth in section 39-26-102 (15).
+18 (3) (a) A retail delivery fee in an amount set forth in this
+19 subsection (3)(a) and subsection (3)(b) of this section is imposed on each
+20 retail delivery. Except as otherwise provided in subsection (6)(b)(II) of
+21 this section, for retail deliveries of tangible personal property purchased
+22 during state fiscal year 2022-23, each retailer who makes a retail delivery
+23 shall add to the price of the retail delivery, collect from the purchaser, and
+24 pay to the department of revenue at the time and in the manner prescribed
+25 by the department in accordance with subsection (6) of this section a
+26 retail delivery fee in the amount of eight and four-tenths cents.
+27 (b) (I) Except as otherwise provided in subsection (6)(b)(II) of this
+-21- HB26-1266
+
+1 section, for retail deliveries of tangible personal property purchased
+2 during state fiscal year 2023-24 or during any subsequent state fiscal year,
+3 each retailer who makes a retail delivery shall add to the price of the retail
+4 delivery, collect from the purchaser, and pay to the department of revenue
+5 at the time and in the manner prescribed by the department in accordance
+6 with subsection (6) of this section a retail delivery fee equal to the amount
+7 of the retail delivery fee for retail deliveries of tangible personal property
+8 purchased during the prior state fiscal year adjusted for inflation. The
+9 department of revenue shall annually calculate the inflation adjusted
+10 amount of the retail delivery fee to be imposed on retail deliveries of
+11 tangible personal property purchased during each state fiscal year and
+12 shall publish the amount no later than April 15 of the calendar year in
+13 which the state fiscal year begins.
+14 (II) The department of revenue shall adjust the amount of the
+15 retail delivery fee for retail deliveries of tangible personal property
+16 purchased during a state fiscal year only if inflation is positive and
+17 cumulative inflation from the time of the last adjustment in the amount of
+18 the retail delivery fee, when applied to the sum of the current retail
+19 delivery fee and all current enterprise retail delivery fees and rounded to
+20 the nearest whole cent, will result in an increase of at least one whole cent
+21 in the total amount of the retail delivery fee and all enterprise retail
+22 delivery fees imposed on each retail delivery. The amount of cumulative
+23 inflation to be applied to the sum of the current retail delivery fee and all
+24 current enterprise retail delivery fees and rounded to the nearest whole
+25 cent is the lesser of actual cumulative inflation or five percent.
+26 (c) A retail delivery that includes only tangible personal property,
+27 the sale of which is exempt from state sales tax under article 26 of title
+-22- HB26-1266
+
+1 39, is exempt from the retail delivery fee and from the enterprise retail
+2 delivery fees. A retail delivery made to a purchaser who is exempt from
+3 paying state sales tax under article 26 of title 39 is exempt from the retail
+4 delivery fee and from the enterprise retail delivery fees.
+5 (d) (I) Notwithstanding any other provision of law, a retail
+6 delivery by a qualified business made on or after July 1, 2022, is exempt
+7 from the retail delivery fee imposed by this subsection (3) and the
+8 enterprise retail delivery fees.
+9 (II) There are no refunds under section 39-26-703 of any retail
+10 delivery fees for a retail delivery made on or after July 1, 2022, but before
+11 July 1, 2023, on the basis of the exemption set forth in subsection
+12 (3)(d)(I) of this section.
+13 (III) As used in this subsection (3)(d), "qualified business" means
+14 a retailer that in the previous calendar year made retail sales of tangible
+15 personal property, commodities, or services in the state totaling five
+16 hundred thousand dollars or less. If the retailer had no retail sales in the
+17 state in the previous calendar year, then the retailer is deemed to be a
+18 "qualified business" for the current calendar year, until the first day of the
+19 month after the ninetieth day after the retailer has made retail sales of
+20 tangible personal property, commodities, or services in the state that total
+21 more than five hundred thousand dollars.
+22 (4) (a) For the purpose of minimizing compliance costs for
+23 retailers and administrative costs for the state, the department of revenue
+24 shall, when it collects the retail delivery fee imposed by subsection (3) of
+25 this section, also collect on behalf of the community access enterprise
+26 created in section 24-38.5-303 (1), the clean fleet enterprise created in
+27 section 25-7.5-103 (1)(a), the statewide bridge and tunnel enterprise
+-23- HB26-1266
+
+1 created in section 43-4-805 (2)(a)(I), the clean transit enterprise created
+2 in section 43-1-1203 (1)(a), and the nonattainment area air pollution
+3 mitigation enterprise created in section 43-4-1303 (1)(a), the enterprise
+4 retail delivery fees.
+5 (b) When collecting the retail delivery fee and, in accordance with
+6 subsection (4)(a) of this section, the enterprise retail delivery fees, the
+7 department of revenue shall retain an amount that does not exceed the
+8 total cost of collecting, administering, and enforcing the retail delivery fee
+9 and the enterprise retail delivery fees and shall transmit the amount
+10 retained to the state treasurer, who shall credit it to the retail delivery fees
+11 fund, which is hereby created in the state treasury. All money in the retail
+12 delivery fees fund is continuously appropriated to the department of
+13 revenue to defray the costs incurred by the department in collecting,
+14 enforcing, and administering the retail delivery fee and the enterprise
+15 retail delivery fees.
+16 (5) (a) The department of revenue shall transmit all net revenue
+17 collected from the retail delivery fee imposed by subsection (3) of this
+18 section to the state treasurer, who shall credit the net revenue as follows:
+19 (I) Seventy-one and one-tenth percent shall be credited to the
+20 highway users tax fund created in section 43-4-201 and allocated from the
+21 highway users tax fund to the state, counties, and municipalities as
+22 required by section 43-4-205 (6.8); and
+23 (II) Twenty-eight and nine-tenths percent shall be credited to the
+24 multimodal transportation and mitigation options fund created in section
+25 43-4-1103 (1)(a);
+26 (b) The department of revenue shall transmit all net revenue
+27 collected from enterprise retail delivery fees to the state treasurer who
+-24- HB26-1266
+
+1 shall credit the net revenue as follows:
+2 (I) All net community access retail delivery fee revenue shall be
+3 credited to the community access enterprise fund created in section
+4 24-38.5-303 (5);
+5 (II) All net clean fleet retail delivery fee revenue shall be credited
+6 to the clean fleet enterprise fund created in section 25-7.5-103 (5);
+7 (III) All net bridge and tunnel retail delivery fee revenue shall be
+8 credited to the statewide bridge and tunnel enterprise special revenue
+9 fund created in section 43-4-805 (3)(a);
+10 (IV) All net clean transit retail delivery fee revenue shall be
+11 credited to the clean transit enterprise fund created in section 43-4-1203
+12 (5); and
+13 (V) All net air pollution mitigation retail delivery fee revenue
+14 shall be credited to the nonattainment area air pollution mitigation
+15 enterprise fund created in section 43-4-1303 (5).
+16 (6) (a) Except as otherwise provided in this subsection (6), the
+17 collection, administration, and enforcement of the retail delivery fee
+18 imposed by subsection (3) of this section and the enterprise retail delivery
+19 fees shall be performed by the executive director of the department of
+20 revenue in the same manner as the collection, administration, and
+21 enforcement of state sales tax pursuant to article 26 of title 39.
+22 (b) (I) Except as otherwise provided in subsection (6)(b)(II) of this
+23 section, every retailer who makes a retail delivery shall add the retail
+24 delivery fee imposed by subsection (3) of this section and the enterprise
+25 retail delivery fees to the price or charge for the retail delivery showing
+26 the total of the fees as one item called "retail delivery fees" that is
+27 separate and distinct from the price and any other taxes or fees imposed
+-25- HB26-1266
+
+1 on the retail delivery. If added, the fees constitute a part of the retail
+2 delivery price or charge, are a debt from the purchaser to the retailer until
+3 paid, and are recoverable at law in the same manner as other debts.
+4 (II) A retailer may elect to pay the retail delivery fee imposed by
+5 subsection (3) of this section and the enterprise retail delivery fees for a
+6 retail delivery on behalf of a purchaser. If a retailer elects to pay these
+7 fees, then:
+8 (A) The retailer shall not add the fees to the price or charge for the
+9 retail delivery showing the total of the fees as one item called "retail
+10 delivery fees" that is separate and distinct from the price and any other
+11 taxes or fees imposed on the retail delivery;
+12 (B) The purchaser is neither liable nor responsible for the payment
+13 of the fees; and
+14 (C) The purchaser is not entitled to a refund for fees that are paid
+15 for a retail delivery that is exempt under subsection (3)(c) or (3)(d) of this
+16 section. A retailer may claim a refund under section 39-26-703 for the
+17 exempt fees paid; except that section 39-26-703 (2.5)(b)(I)(B) shall not
+18 apply in this circumstance.
+19 (c) Every retailer who makes a retail delivery is liable and
+20 responsible for the payment of an amount equivalent to the total amount
+21 of the retail delivery fee imposed by subsection (3) of this section and the
+22 enterprise retail delivery fees for each retail delivery made irrespective of
+23 the requirements of subsection (6)(b) of this section. The burden of
+24 proving that a retailer is exempt from collecting or electing to pay the fees
+25 on any retail delivery and paying the fees to the executive director of the
+26 department of revenue is on the retailer under such reasonable
+27 requirements of proof as the executive director may prescribe. The retailer
+-26- HB26-1266
+
+1 is entitled, as collecting agent for the state, to apply and credit the amount
+2 of the retailer's collections, if any, against the amount to be paid pursuant
+3 to this subsection (6)(c).
+4 (d) (I) A retailer who collects the retail delivery fee imposed by
+5 subsection (3) of this section and the enterprise retail delivery fees shall
+6 remit the fees to the department of revenue at the same time and in the
+7 same manner as the retailer remits sales tax revenue collected to the
+8 department as required by article 26 of title 39 unless the department
+9 requires or authorizes the fees to be remitted at another time or in another
+10 manner.
+11 (II) A retailer who elects to pay the retail delivery fee imposed by
+12 subsection (3) of this section and the enterprise retail delivery fees on
+13 behalf of a purchaser in accordance with subsection (6)(b)(II) of this
+14 section shall remit the fees to the department of revenue as if the fees had
+15 been collected from the purchaser on the date of the retail delivery, as
+16 specified in subsection (6)(d)(I) of this section.
+17 (e) All money paid to a retailer as a retail delivery fee imposed by
+18 subsection (3) of this section, or as one or more of the enterprise retail
+19 delivery fees, shall be and remains public money, the property of the state
+20 of Colorado, in the hands of the retailer, and the retailer shall hold the
+21 money in trust for the sole use and benefit of the state of Colorado until
+22 paid to the executive director of the department of revenue, and, for
+23 failure to pay the money to the executive director, a retailer shall be
+24 punished as provided by law. If any retailer collects fees in excess of the
+25 amount imposed by this section and sections 24-38.5-303 (7), 25-7.5-103
+26 (8), 43-4-1203 (7), and 43-4-1303 (8), the retailer shall remit to the
+27 executive director of the department of revenue the full amount of the
+-27- HB26-1266
+
+1 fees and also the full amount of the excess.
+2 (f) The department of revenue shall waive any processing costs,
+3 as defined in section 39-21-119.5 (7)(d)(II), for electronic payment of the
+4 retail delivery fee imposed by subsection (3) of this section and the
+5 enterprise retail delivery fees if:
+6 (I) The processing costs would exceed the amount of the retail
+7 delivery fees the retailer is remitting; and
+8 (II) The electronic payment is by automated clearing house (ACH)
+9 debit.
+10 (7) The department of revenue may promulgate rules to implement
+11 this section.
+12 SECTION 12. In Colorado Revised Statutes, 43-4-805, amend
+13 (2)(b)(I), (2)(c), (3)(a), (5)(r)(I), and (5)(r)(III)(A); and repeal (1)(b) and
+14 (5)(g.7) as follows:
+15 43-4-805. Statewide bridge enterprise - creation - board -
+16 funds - powers and duties - legislative declaration - definitions.
+17 (1) The general assembly hereby finds and declares that:
+18 (b) Due to the limited availability of state and federal funding and
+19 the need to accomplish the financing, repair, reconstruction, and
+20 replacement of designated bridges; the completion of preventative
+21 maintenance bridge projects; and the completion of tunnel projects as
+22 promptly and efficiently as possible, it is necessary to create a statewide
+23 bridge and tunnel enterprise and to authorize the enterprise to:
+24 (I) Enter into agreements with the commission or the department
+25 to finance, repair, reconstruct, and replace designated bridges, complete
+26 preventative maintenance bridge projects, and complete tunnel projects
+27 in the state; and
+-28- HB26-1266
+
+1 (II) Impose a bridge safety surcharge, a bridge and tunnel impact
+2 fee and a bridge and tunnel retail delivery fee at rates reasonably
+3 calculated to defray the costs of completing designated bridge projects,
+4 preventative maintenance bridge projects, and tunnel projects and
+5 distribute the burden of defraying the costs in a manner based on the
+6 benefits received by persons paying the fees and using designated bridges
+7 and tunnels, and receiving retail deliveries, receive and expend revenue
+8 generated by the surcharge and fees and other money, issue revenue
+9 bonds and other obligations, contract with the state, if required approvals
+10 are obtained, to receive one or more loans of money received by the state
+11 under the terms of one or more financed purchase of an asset or certificate
+12 of participation agreements authorized by this part 8, expend revenue
+13 generated by the surcharge to repay any such loan or loans received, and
+14 exercise other powers necessary and appropriate to carry out its purposes;
+15 and
+16 (2) (b) The business purpose of the bridge enterprise is to finance,
+17 repair, reconstruct, and replace any designated bridge in the state,
+18 complete preventative maintenance bridge projects, and complete tunnel
+19 projects and, as agreed upon by the enterprise and the commission, or the
+20 department to the extent authorized by the commission, to maintain the
+21 bridges it finances, repairs, reconstructs, and replaces. To allow the
+22 bridge enterprise to accomplish this purpose and fully exercise its powers
+23 and duties through the bridge enterprise board, the bridge enterprise may:
+24 (I) Impose a bridge safety surcharge AND a bridge and tunnel
+25 impact fee and a bridge and tunnel retail delivery fee as authorized by
+26 subsections (5)(g) AND (5)(g.5) and (5)(g.7) of this section;
+27 (c) The bridge enterprise constitutes an enterprise for purposes of
+-29- HB26-1266
+
+1 section 20 of article X of the state constitution so long as it retains the
+2 authority to issue revenue bonds and receives less than ten percent of its
+3 total revenues in grants from all Colorado state and local governments
+4 combined. So long as it constitutes an enterprise pursuant to this
+5 subsection (2)(c), the bridge enterprise shall not be subject to any
+6 provisions of section 20 of article X of the state constitution. Consistent
+7 with the determination of the Colorado supreme court in Nicholl v. E-470
+8 Public Highway Authority, 896 P.2d 859 (Colo. 1995), that the power to
+9 impose taxes is inconsistent with "enterprise" status under section 20 of
+10 article X of the state constitution, the general assembly finds and declares
+11 that a bridge safety surcharge OR a bridge and tunnel impact fee or a
+12 bridge and tunnel retail delivery fee imposed by the bridge enterprise as
+13 authorized by subsection (5)(g) OR (5)(g.5) or (5)(g.7) of this section is
+14 not a tax but is instead a fee imposed by the bridge enterprise to defray
+15 the cost of completing designated bridge projects, preventative
+16 maintenance bridge projects, and tunnel projects that the enterprise
+17 provides as a specific service to the persons upon whom the fee is
+18 imposed and at rates reasonably calculated based on the benefits received
+19 by such persons.
+20 (3) (a) The statewide bridge and tunnel enterprise special revenue
+21 fund, referred to in this part 8 as the "bridge special fund", is hereby
+22 created in the state treasury. All revenue received by the bridge enterprise,
+23 including, but not limited to, revenue from a bridge safety surcharge
+24 imposed as authorized by subsection (5)(g) of this section, revenue from
+25 a bridge and tunnel impact fee imposed as authorized by subsection
+26 (5)(g.5) of this section, revenue from a bridge and tunnel retail delivery
+27 fee imposed as authorized by subsection (5)(g.7) of this section, and any
+-30- HB26-1266
+
+1 money loaned to the enterprise by the state pursuant to subsection (5)(r)
+2 of this section, shall be deposited into the bridge special fund. The bridge
+3 enterprise board may establish separate accounts within the bridge special
+4 fund as needed in connection with any specific designated bridge project,
+5 preventative maintenance bridge project, or tunnel project. The bridge
+6 enterprise also may deposit or permit others to deposit other money into
+7 the bridge special fund, but in no event may revenue from any tax
+8 otherwise available for general purposes be deposited into the bridge
+9 special fund. The state treasurer, after consulting with the bridge
+10 enterprise board, shall invest any money in the bridge special fund,
+11 including any surplus or reserves, but excluding any proceeds from the
+12 sale of bonds or earnings on such proceeds invested pursuant to section
+13 43-4-807 (2), that are not needed for immediate use. Such money may be
+14 invested in the types of investments authorized in sections 24-36-109,
+15 24-36-112, and 24-36-113.
+16 (5) In addition to any other powers and duties specified in this
+17 section, the bridge enterprise board has the following powers and duties:
+18 (g.7) (I) In furtherance of its business purpose, beginning in state
+19 fiscal year 2022-23, the bridge enterprise shall impose, and the
+20 department of revenue shall collect on behalf of the bridge enterprise, a
+21 bridge and tunnel retail delivery fee on each retail delivery. Each retailer
+22 who makes a retail delivery shall either collect and remit or elect to pay
+23 the bridge and tunnel retail delivery fee in the manner prescribed by the
+24 department in accordance with section 43-4-218 (6). For the purpose of
+25 minimizing compliance costs for retailers and administrative costs for the
+26 state, the department of revenue shall collect and administer the bridge
+27 and tunnel retail delivery fee on behalf of the bridge enterprise in the
+-31- HB26-1266
+
+1 same manner in which it collects and administers the retail delivery fee
+2 imposed by section 43-4-218 (3).
+3 (II) For retail deliveries of tangible personal property purchased
+4 during state fiscal year 2022-23, the bridge enterprise shall impose the
+5 bridge and tunnel retail delivery fee in a maximum amount of two and
+6 seven-tenths cents.
+7 (III) (A) Except as otherwise provided in subsection
+8 (5)(g.7)(III)(B) of this section, for retail deliveries of tangible personal
+9 property purchased during state fiscal year 2023-24 or during any
+10 subsequent state fiscal year, the bridge enterprise shall impose the bridge
+11 and tunnel retail delivery fee in a maximum amount that is the maximum
+12 amount for the prior state fiscal year adjusted for inflation. The bridge
+13 enterprise shall notify the department of revenue of the amount of the
+14 bridge and tunnel retail delivery fee to be collected for retail deliveries of
+15 tangible personal property purchased during each state fiscal year no later
+16 than March 15 of the calendar year in which the state fiscal year begins,
+17 and the department of revenue shall publish the amount no later than
+18 April15 of the calendar year in which the state fiscal year begins.
+19 (B) The bridge enterprise is authorized to adjust the amount of the
+20 bridge and tunnel retail delivery fee for retail deliveries of tangible
+21 personal property purchased during a state fiscal year only if the
+22 department of revenue adjusts the amount of the retail delivery fee
+23 imposed by section 43-4-218 (3) for retail deliveries of tangible personal
+24 property purchased during the state fiscal year.
+25 (IV) As used in this subsection (5)(g.7):
+26 (A) "Inflation" means the average annual percentage change in the
+27 United States department of labor, bureau of labor statistics, consumer
+-32- HB26-1266
+
+1 price index for Denver-Aurora-Lakewood for all items and all urban
+2 consumers, or its applicable predecessor or successor index, for the five
+3 years ending on the last December 31 before a state fiscal year for which
+4 an inflation adjustment to be made to the bridge and tunnel retail delivery
+5 fee imposed pursuant to this subsection (5)(g.7) begins.
+6 (B) "Retail delivery" has the same meaning as set forth in section
+7 43-4-218 (2)(e).
+8 (C) "Retailer" has the same meaning as set forth in section
+9 39-26-102 (8).
+10 (r) (I) To contract with the state to borrow money under the terms
+11 of one or more loan contracts entered into by the state and the bridge
+12 enterprise pursuant to subsection (5)(r)(III) of this section, to expend any
+13 money borrowed from the state for the purpose of completing designated
+14 bridge projects, preventative maintenance bridge projects, and tunnel
+15 projects and for any other authorized purpose that constitutes the
+16 construction, supervision, and maintenance of the public highways of this
+17 state for purposes of section 18 of article X of the state constitution, and
+18 to use revenue generated by any bridge safety surcharge OR bridge and
+19 tunnel impact fee or bridge and tunnel retail delivery fee imposed
+20 pursuant to subsection (5)(g) OR (5)(g.5) or (5)(g.7) of this section and
+21 any other legally available money of the bridge enterprise to repay the
+22 money borrowed and any other amounts payable under the terms of the
+23 loan contract.
+24 (III) (A) If the state treasurer receives a list from the governor
+25 pursuant to subsection (5)(r)(II) of this section, the state, acting by and
+26 through the state treasurer, may enter into a loan contract with the bridge
+27 enterprise and may raise the money needed to make a loan pursuant to the
+-33- HB26-1266
+
+1 terms of the loan contract by selling or leasing one or more of the state
+2 buildings or other state capital facilities on the list. The state treasurer
+3 shall have sole discretion to enter into a loan contract on behalf of the
+4 state and to determine the amount of a loan; except that the principal
+5 amount of a loan shall not exceed the maximum amount specified by the
+6 governor pursuant to subsection (5)(r)(II) of this section. The state
+7 treasurer shall also have sole discretion to determine the timing of the
+8 entry of the state into any loan contract or the sale or lease of one or more
+9 state buildings or other state capital facilities. The loan contract shall
+10 require the bridge enterprise to pledge to the state all or a portion of the
+11 revenues of any bridge safety surcharge OR bridge and tunnel impact fee
+12 or bridge and tunnel retail delivery fee imposed pursuant to subsection
+13 (5)(g) OR (5)(g.5) or (5)(g.7) of this section for the repayment of the loan
+14 and may also require the bridge enterprise to pledge to the state any other
+15 legally available revenue of the bridge enterprise. Any loan contract
+16 entered into by the state, acting by and through the state treasurer, and the
+17 bridge enterprise pursuant to this subsection (5)(r)(III)(A) and any pledge
+18 of revenue by the bridge enterprise pursuant to such a loan contract shall
+19 be only for the benefit of, and enforceable only by, the state and the
+20 bridge enterprise. Specifically, but without limiting the generality of said
+21 limitation, no such loan contract or pledge shall be for the benefit of, or
+22 enforceable by, a seller under a financed purchase of an asset or
+23 certificate of participation agreement entered into pursuant to this
+24 subsection (5)(r)(III), an owner of any instrument evidencing rights to
+25 receive rentals or other payments made and to be made under such a
+26 financed purchase of an asset or certificate of participation agreement as
+27 authorized by subsection (5)(r)(IV)(B) of this section, a party to any
+-34- HB26-1266
+
+1 ancillary agreement or instrument entered into pursuant to subsection
+2 (5)(r)(V) of this section, or a party to any interest rate exchange
+3 agreement entered into pursuant to subsection (5)(r)(VII)(A) of this
+4 section.
+5 SECTION 13. In Colorado Revised Statutes, 43-4-1101, amend
+6 (1) introductory portion as follows:
+7 43-4-1101. Legislative declaration.
+8 (1) The general assembly hereby finds and declares that it is
+9 necessary, appropriate, and in the best interest of the state to use a portion
+10 of the general fund money that is dedicated for transportation purposes
+11 pursuant to section 24-75-219 to fund multimodal transportation projects
+12 and operations throughout the state and to use a portion of the money that
+13 is generated by the retail delivery fee imposed on the delivery of retail
+14 goods transported to the delivery site by motor vehicle pursuant to section
+15 43-4-218 (3) to fund transportation-related greenhouse gas mitigation
+16 expenses throughout the state as authorized by this part 11 because, in
+17 addition to the general benefits that it provides to all Coloradans, a
+18 complete and integrated multimodal transportation system that includes
+19 greenhouse gas mitigation projects and services:
+20 SECTION 14. In Colorado Revised Statutes, 43-4-1201, amend
+21 (2)(g); and repeal (1)(a), (1)(b), (1)(c), (1)(d), (1)(f), (2)(e) and (2)(f) as
+22 follows:
+23 43-4-1201. Legislative declaration. (1) The general assembly
+24 hereby finds and declares that:
+25 (a) Retail deliveries are increasing and are expected to continue
+26 to increase in communities across the state;
+27 (b) The motor vehicles used to make retail deliveries are some of
+-35- HB26-1266
+
+1 the most polluting vehicles on the road, which has resulted in additional
+2 and increasing air and greenhouse gas pollution;
+3 (c) The adverse environmental and health impacts of increased
+4 emissions from motor vehicles used to make retail deliveries can be
+5 mitigated and offset by supporting the widespread adoption of electric
+6 buses for transit fleets and reducing vehicle miles traveled by encouraging
+7 people to choose clean, efficient, public transit options instead of personal
+8 motor vehicle travel;
+9 (d) Instead of reducing the impacts of retail deliveries by limiting
+10 retail delivery activity through regulation, it is more appropriate to
+11 continue to allow persons who receive retail deliveries to benefit from the
+12 convenience afforded by unfettered retail deliveries and instead impose
+13 a small fee on each retail delivery and use fee revenue to fund necessary
+14 mitigation activities;
+15 (f) By reducing motor vehicle emissions, transit fleet
+16 electrification effectively remediates some of the impacts of retail
+17 deliveries by offsetting a portion of the increased motor vehicle emissions
+18 resulting from such deliveries.
+19 (2) The general assembly further finds and declares that:
+20 (e) Consistent with the determination of the Colorado supreme
+21 court in Nicholl v. E-470 Public Highway Authority, 896 P.2d 859 (Colo.
+22 1995), that the power to impose taxes is inconsistent with enterprise status
+23 under section 20 of article X of the state constitution, it is the conclusion
+24 of the general assembly that the revenue collected by the enterprise is
+25 generated by fees, not taxes, because the clean transit retail delivery fee
+26 imposed by the enterprise as authorized by section 43-4-1203 (7) and the
+27 production fee for clean transit are:
+-36- HB26-1266
+
+1 (I) Imposed for the specific purpose of allowing the enterprise to
+2 defray the costs of providing the remediation services specified in this
+3 section, including mitigating impacts to air quality and greenhouse gas
+4 emissions caused by the activities on which the fee is assessed, and
+5 contributes to the implementation of the comprehensive regulatory
+6 scheme required for the planning, funding, development, construction,
+7 maintenance, and supervision of a sustainable transportation system
+8 specified in this section; and
+9 (II) Collected at rates that are reasonably calculated based on the
+10 impacts caused by fee payers and the cost of remediating those impacts;
+11 (f) So long as the enterprise qualifies as an enterprise for purposes
+12 of section 20 of article X of the state constitution, the revenue from the
+13 clean transit retail delivery fee collected by the enterprise is not state
+14 fiscal year spending, as defined in section 24-77-102 (17), or state
+15 revenues, as defined in section 24-77-103.6 (6)(c), and does not count
+16 against either the state fiscal year spending limit imposed by section 20
+17 of article X of the state constitution or the excess state revenues cap, as
+18 defined in section 24-77-103.6 (6)(b)(I)(D); and
+19 (g) The addition of the production fee for clean transit continues
+20 to serve the enterprise's primary business purposes set forth in section
+21 43-4-1203 (3)(a). If the addition COLLECTION of the production fee for
+22 clean transit combined with the clean transit retail delivery fee THAT WAS
+23 COLLECTED BY THE ENTERPRISE PRIOR TO THE REPEAL OF THAT FEE BY
+24 THIS HOUSE BILL 26-____, ENACTED IN 2026, is estimated to result in the
+25 collection of fees and surcharges that exceed one hundred million dollars
+26 in the enterprise's first five fiscal years, the board shall adjust the fees
+27 PRODUCTION FEE, lower the fees FEE, or stop collecting the fees FEE in
+-37- HB26-1266
+
+1 order to not collect fees or surcharges that exceed one hundred million
+2 dollars in the enterprise's first five fiscal years, which five-year period, for
+3 the purpose of section 24-77-108, ends on June 30, 2026. Therefore, the
+4 enterprise, originally created in section 43-4-1203, is in compliance with
+5 section 24-77-108.
+6 SECTION 15. In Colorado Revised Statutes, 43-4-1202, repeal
+7 (11), (15), and (16), as follows:
+8 43-4-1202. Definitions. As used in this part 12, unless the context
+9 otherwise requires:
+10 (11) "Inflation" means the average annual percentage change in
+11 the United States department of labor, bureau of labor statistics, consumer
+12 price index for Denver-Aurora-Lakewood for all items and all urban
+13 consumers, or its applicable predecessor or successor index, for the five
+14 years ending on the last December 31 before a state fiscal year for which
+15 an inflation adjustment to be made to the clean transit retail delivery fee
+16 imposed pursuant to section 43-4-1203 (7) begins.
+17 (15) "Retail delivery" has the same meaning as set forth in section
+18 43-4-218 (2)(e).
+19 (16) "Retailer" has the same meaning as set forth in section
+20 39-26-102 (8).
+21 SECTION 16. In Colorado Revised Statutes, 43-4-1203, amend
+22 (3)(a)(I), (5)(a), and (6)(g); and repeal (3)(b)(I) and (7) as follows:
+23 43-4-1203. Clean transit enterprise - creation - board - powers
+24 and duties - rules - fees - fund.
+25 (3) (a) The primary business purposes of the enterprise are to:
+26 (I) Reduce and mitigate the adverse environmental and health
+27 impacts of air pollution and greenhouse gas emissions produced by motor
+-38- HB26-1266
+
+1 vehicles used to make retail deliveries by supporting the replacement of
+2 existing gasoline and diesel transit vehicles with electric motor vehicles,
+3 including motor vehicles that originally were powered exclusively by
+4 internal combustion engines but have been converted into electric motor
+5 vehicles; providing the associated charging infrastructure for electric
+6 transit fleet motor vehicles; supporting facility modifications that allow
+7 for the safe operation and maintenance of electric transit motor vehicles;
+8 and funding planning studies that enable transit agencies to plan for
+9 transit vehicle electrification; and
+10 (b) To allow the enterprise to accomplish the business purposes
+11 described in subsection (3)(a) of this section and fully exercise its powers
+12 and duties through the board, the enterprise may:
+13 (I) Impose a clean transit retail delivery fee as authorized by
+14 subsection (7) of this section;
+15 (5) (a) The clean transit enterprise fund is hereby created in the
+16 state treasury. The fund consists of clean transit retail delivery fee
+17 revenue credited to the fund pursuant to subsection (7) of this section, any
+18 monetary gifts, grants, donations, or other money received by the
+19 enterprise, any federal money that may be credited to the fund, and any
+20 other money that the general assembly may appropriate or transfer to the
+21 fund. The state treasurer shall credit all interest and income derived from
+22 the deposit and investment of money in the fund to the fund. Subject to
+23 annual appropriation by the general assembly, the enterprise may expend
+24 money from the fund to provide grants, pay its reasonable and necessary
+25 operating expenses, including repayment of any loan received by the
+26 enterprise pursuant to subsection (5)(b) of this section, and otherwise
+27 exercise its powers and perform its duties as authorized by this part 3.
+-39- HB26-1266
+
+1 (6) In addition to any other powers and duties specified in this
+2 section, the board has the following general powers and duties:
+3 (g) To promulgate ADOPT rules to set the amount of the clean
+4 transit retail delivery fee at or below the maximum amount authorized in
+5 this section and to govern the process by which the enterprise accepts
+6 applications for, awards, and oversees grants, loans, and rebates pursuant
+7 to subsection (8) of this section; and
+8 (7) (a) In furtherance of its business purpose, beginning in state
+9 fiscal year 2022-23, the enterprise shall impose, and the department of
+10 revenue shall collect on behalf of the enterprise, a clean transit retail
+11 delivery fee on each retail delivery. Each retailer who makes a retail
+12 delivery shall either collect and remit or elect to pay the clean transit retail
+13 delivery fee in the manner prescribed by the department in accordance
+14 with section 43-4-218 (6). For the purpose of minimizing compliance
+15 costs for retailers and administrative costs for the state, the department of
+16 revenue shall collect and administer the clean transit retail delivery fee on
+17 behalf of the enterprise in the same manner in which it collects and
+18 administers the retail delivery fee imposed by section 43-4-218 (3).
+19 (b) For retail deliveries of tangible personal property purchased
+20 during state fiscal year 2022-23, the enterprise shall impose the clean
+21 transit retail delivery fee in a maximum amount of three cents.
+22 (c) (I) Except as otherwise provided in subsection (7)(c)(II) of this
+23 section, for retail deliveries of tangible personal property purchased
+24 during state fiscal year 2023-24 or during any subsequent state fiscal year,
+25 the enterprise shall impose the clean transit retail delivery fee in a
+26 maximum amount that is the maximum amount for the prior state fiscal
+27 year adjusted for inflation. The enterprise shall notify the department of
+-40- HB26-1266
+
+1 revenue of the amount of the clean transit retail delivery fee to be
+2 collected for retail deliveries of tangible personal property purchased
+3 during each state fiscal year no later than March 15 of the calendar year
+4 in which the state fiscal year begins, and the department of revenue shall
+5 publish the amount no later than April 15 of the calendar year in which
+6 the state fiscal year begins.
+7 (II) The enterprise is authorized to adjust the amount of the clean
+8 transit retail delivery fee for retail deliveries of tangible personal property
+9 purchased during a state fiscal year only if the department of revenue
+10 adjusts the amount of the retail delivery fee imposed by section 43-4-218
+11 (3) for retail deliveries of tangible personal property purchased during the
+12 state fiscal year.
+13 SECTION 17. In Colorado Revised Statutes, 43-4-1302, amend
+14 (15); and repeal (19), (20), and (23) as follows:
+15 43-4-1302. Definitions. As used in this part 13, unless the context
+16 otherwise requires:
+17 (15) "Inflation" means the average annual percentage change in
+18 the United States department of labor, bureau of labor statistics, consumer
+19 price index for Denver-Aurora-Lakewood for all items and all urban
+20 consumers, or its applicable predecessor or successor index, for the five
+21 years ending on the last December 31 before a state fiscal year for which
+22 an inflation adjustment to be made to the air pollution mitigation per ride
+23 fee imposed by section 43-4-1303 (7) or the air pollution mitigation retail
+24 delivery fee imposed by section 43-4-1303 (8) begins.
+25 (19) "Retail delivery" has the same meaning as set forth in section
+26 43-4-218 (2)(e).
+27 (20) "Retailer" has the same meaning as set forth in section
+-41- HB26-1266
+
+1 39-26-102 (8).
+2 (23) "Tangible personal property has the same meaning as set
+3 forth in section 39-26-102 (15).
+4 SECTION 18. In Colorado Revised Statutes, 43-4-1303, amend
+5 (3) introductory portion, (3)(a), (5)(a), and (6)(h); and repeal (8) as
+6 follows:
+7 43-4-1303. Nonattainment area air pollution mitigation
+8 enterprise - creation - board - powers and duties - rules - fees - fund.
+9 (3) The business purpose of the enterprise is to mitigate the
+10 environmental and health impacts of increased air pollution from motor
+11 vehicle emissions in nonattainment areas that results from the rapid and
+12 continuing growth in retail deliveries made by motor vehicles and in
+13 prearranged rides provided by transportation network companies by
+14 providing funding for eligible projects that reduce traffic, including
+15 demand management projects that encourage alternatives to driving alone
+16 or that directly reduce air pollution, such as retrofitting of construction
+17 equipment, construction of roadside vegetation barriers, and planting trees
+18 along medians. To allow the enterprise to accomplish this purpose and
+19 fully exercise its powers and duties through the board, the enterprise may:
+20 (a) Impose an air pollution mitigation per ride fee and an air
+21 pollution mitigation retail delivery fee as authorized by subsections (7)
+22 and (8) SUBSECTION (7) of this section;
+23 (5) (a) The nonattainment area air pollution mitigation enterprise
+24 fund is hereby created in the state treasury. The fund consists of air
+25 pollution mitigation per ride fee revenue and air pollution mitigation retail
+26 delivery fee revenue credited to the fund pursuant to subsections (7) and
+27 (8) SUBSECTION (7) of this section, any monetary gifts, grants, donations,
+-42- HB26-1266
+
+1 or other payments received by the enterprise, any federal money that may
+2 be credited to the fund, and any other money that the general assembly
+3 may appropriate or transfer to the fund. The state treasurer shall credit all
+4 interest and income derived from the deposit and investment of money in
+5 the fund to the fund. Money in the fund is continuously appropriated to
+6 the enterprise for the purposes set forth in this part 13 and to pay the
+7 enterprise's reasonable and necessary operating expenses, including the
+8 repayment of any loan received pursuant to subsection (5)(b) of this
+9 section.
+10 (6) In addition to any other powers and duties specified in this
+11 section, the board has the following general powers and duties:
+12 (h) To promulgate ADOPT rules for the sole purpose of setting the
+13 amounts AMOUNT of the air pollution mitigation per ride fee and the air
+14 pollution mitigation retail delivery fee at or below the maximum amounts
+15 authorized in this section; and
+16 (8) (a) In furtherance of its business purpose, beginning in state
+17 fiscal year 2022-23, the enterprise shall impose, and the department of
+18 revenue shall collect on behalf of the enterprise, an air pollution
+19 mitigation retail delivery fee on each retail delivery. Each retailer who
+20 makes a retail delivery shall either collect and remit or elect to pay the air
+21 pollution mitigation retail delivery fee in the manner prescribed by the
+22 department in accordance with section 43-4-218 (6). For the purpose of
+23 minimizing compliance costs for retailers and administrative costs for the
+24 state, the department of revenue shall collect and administer the air
+25 pollution mitigation retail delivery fee on behalf of the enterprise in the
+26 same manner in which it collects and administers the retail delivery fee
+27 imposed by section 43-4-218 (3).
+-43- HB26-1266
+
+1 (b) For retail deliveries of tangible personal property purchased
+2 during state fiscal year 2022-23, the enterprise shall impose the air
+3 pollution mitigation retail delivery fee in a maximum amount of
+4 seven-tenths of one cent.
+5 (c) (I) Except as otherwise provided in subsection (8)(c)(II) of this
+6 section, for retail deliveries of tangible personal property purchased
+7 during state fiscal year 2023-24 or during any subsequent state fiscal year,
+8 the enterprise shall impose the air pollution mitigation retail delivery fee
+9 in a maximum amount that is the maximum amount for the prior state
+10 fiscal year adjusted for inflation. The enterprise shall notify the
+11 department of revenue of the amount of the air pollution mitigation retail
+12 delivery fee to be collected for retail deliveries of tangible personal
+13 property purchased during each state fiscal year no later than March 15
+14 of the calendar year in which the state fiscal year begins, and the
+15 department of revenue shall publish the amount no later than April15 of
+16 the calendar year in which the state fiscal year begins.
+17 (II) The enterprise is authorized to adjust the amount of the air
+18 pollution mitigation retail delivery fee for retail deliveries of tangible
+19 personal property purchased during a state fiscal year only if the
+20 department of revenue adjusts the amount of the retail delivery fee
+21 imposed by section 43-4-218 (3) for retail deliveries of tangible personal
+22 property purchased during the state fiscal year.
+23 SECTION 19. In Colorado Revised Statutes, 39-37-103, repeal
+24 (15)(a)(IV) as follows:
+25 39-37-103. Definitions. As used in this article 37, unless the
+26 context otherwise requires:
+27 (15) (a) "Purchase price" means the aggregate consideration
+-44- HB26-1266
+
+1 valued in money paid or delivered or promised to be paid or delivered by
+2 the user or consumer in consummation of a sale, exclusive of:
+3 (IV) Any retail delivery fee and enterprise retail delivery fees
+4 imposed or collected as specified in section 43-4-218;
+5 SECTION 20. In Colorado Revised Statutes, 43-4-1103, amend
+6 (1)(a), (2)(d)(I), and (2)(d)(II) as follows:
+7 43-4-1103. Multimodal transportation options fund - creation
+8 - revenue sources for fund - use of fund.
+9 (1) (a) The multimodal transportation and mitigation options fund
+10 is hereby created in the state treasury. The fund consists of money
+11 transferred from the general fund to the fund pursuant to section
+12 24-75-219 retail delivery fee revenue credited to the fund pursuant to
+13 section 43-4-218 (5)(a)(II), and any other money that the general
+14 assembly may appropriate or transfer to the fund. The state treasurer shall
+15 credit all interest and income derived from the deposit and investment of
+16 money in the fund to the fund.
+17 (2) (d) (I) On and after October 1, 2022, unless the department has
+18 both adopted implementing guidelines and procedures that satisfy the
+19 requirements of section 43-1-128 (3) and updated its ten-year vision plan
+20 to comply with the implementing guidelines and procedures, expenditures
+21 from the funds made available for multimodal projects pursuant to
+22 sections 24-75-219 (7)(c)(I) and (7)(f)(II) and 43-4-218 (5)(a)(II) for state
+23 multimodal projects shall only be made for multimodal projects that the
+24 department, in consultation with the department of public health and
+25 environment, determines will help bring the ten-year vision plan into
+26 compliance with the requirements of section 43-1-128 (3).
+27 (II) On and after October 1, 2022, unless the department has
+-45- HB26-1266
+
+1 adopted implementing guidelines and procedures that satisfy the
+2 requirements of section 43-1-128 (3) and a metropolitan planning
+3 organization that is in an area or includes an area that has been out of
+4 attainment for national ambient air quality standards for ozone for two
+5 years or more has updated its regional transportation plan to comply with
+6 the implementing guidelines and procedures, expenditures from the funds
+7 made available for multimodal projects pursuant to sections 24-75-219
+8 (7)(c)(I) and (7)(f)(II) and 43-4-218 (5)(a)(II) for local multimodal
+9 projects within the territory of the metropolitan planning organization
+10 shall only be made for multimodal projects that the department, in
+11 consultation with the department of public health and environment,
+12 determines will help bring the regional transportation plan into
+13 compliance with the requirements of section 43-1-128 (3).
+14 SECTION 21. Act subject to petition - effective date. This act
+15 takes effect at 12:01 a.m. on the day following the expiration of the
+16 ninety-day period after final adjournment of the general assembly; except
+17 that, if a referendum petition is filed pursuant to section 1 (3) of article V
+18 of the state constitution against this act or an item, section, or part of this
+19 act within such period, then the act, item, section, or part will not take
+20 effect unless approved by the people at the general election to be held in
+21 November 2026 and, in such case, will take effect on the date of the
+22 official declaration of the vote thereon by the governor.
+-46- HB26-1266

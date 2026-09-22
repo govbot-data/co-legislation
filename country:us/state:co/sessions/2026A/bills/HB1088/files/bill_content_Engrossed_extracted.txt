@@ -1,0 +1,342 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0617.01 Jery Payne x2157 HOUSE BILL 26-1088
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING ENTITY FILINGS MADE WITH THE SECRETARY OF STATE,
+102 AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill authorizes the secretary of state (secretary) to:
+! Mark as void or remove from the system an entity filing if
+an electronic payment for the entity filing fee is reversed or
+is not completed;
+! Suspend or dismiss a complaint if the secretary determines
+that a relationship exists between the complainant and the
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,6
+hcraM
+HOUSE SPONSORSHIP
+Clifford and Taggart,
+SENATE SPONSORSHIP
+Cutter,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+person that is the subject of the complaint alleging a
+fraudulent filing; and
+! Mark a business record with a notice that an entity is
+unauthorized or fraudulent without referring a complaint
+about the entity to the attorney general if the secretary
+receives a notice from the attorney general that the entity
+being listed as the registered agent was created or
+registered without authorization or for fraudulent purposes.
+The bill prohibits using a fraudulent entity as a registered agent in
+a business entity filing.
+Current law provides an administrative process for determining if
+an entity filing is made fraudulently or otherwise violates the law when
+a complaint is made. If such a determination is made, the entity filings
+may be canceled and the filers penalized. The procedures require the
+attorney general to notify the entity's registered agent. If the entity does
+not reply within 21 days after the notification, another notice is mailed,
+and if the entity does not reply to that notice within 21 days, the complaint
+is deemed to be conceded. The bill:
+! Authorizes the attorney general to provide written notice to
+any other point of contact that the attorney general
+determines through investigation to be a means to reach the
+entity, if the address of the registered agent is the same as
+the address of the complainant;
+! Repeals the second 21-day notice period; and
+! Authorizes a person that is injured by such a violation to
+bring an action to dissolve the entity.
+Under current law, actions to dissolve an entity must be brought
+in the district court for the county where the entity's principal office is
+located; if the entity has no principal office in this state, where the
+registered agent is located; or, if the entity has no registered agent, in
+Denver. The bill authorizes the action to be brought in Denver when the
+dissolution is based on a fraudulent filing.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 7-90-303, add (5) as
+3 follows:
+4 7-90-303. Filing, service, and copying fees - subpoenas.
+5 (5) IF PAYMENT FOR A DOCUMENT SUBMITTED TO THE SECRETARY
+6 OF STATE FOR FILING IS NOT SUCCESSFULLY PROCESSED, INCLUDING
+7 REVERSAL OF THE ELECTRONIC PAYMENT, THE DOCUMENT HAS NOT BEEN
+-2- 1088
+
+1 SUCCESSFULLY FILED, NOTWITHSTANDING THE TIME OR DATE INITIALLY
+2 STAMPED ON THE DOCUMENT. THE SECRETARY OF STATE MAY EITHER:
+3 (a) MARK THE DOCUMENT AS VOID AND ADJUST THE ENTITY'S
+4 RESULTING STATUS; OR
+5 (b) REMOVE THE DOCUMENT FROM THE ONLINE FILING SYSTEM.
+6 SECTION 2. In Colorado Revised Statutes, 7-90-314, amend
+7 (1)(b), (1)(c), (3)(a), (4)(a), (4)(f), and (5); repeal (4)(e); and add (1)(d),
+8 (4)(g)(VIII), and (4)(g)(IX) as follows:
+9 7-90-314. Fraudulent filings - complaint - review - referral to
+10 attorney general - referral to administrative law judge - marking
+11 filing as fraudulent - deceptive trade practice - definition.
+12 (1) Fraudulent filings. The following actions are prohibited:
+13 (b) Including an address in a document filed in the secretary of
+14 state's office under this part 3 without the consent of the owner of or
+15 occupant of the included address; and
+16 (c) Delivering a document regarding an entity to the secretary of
+17 state's office if the individual who makes the delivery lacks the necessary
+18 written consent or authority to do so; AND
+19 (d) USING A FRAUDULENT ENTITY, INCLUDING AN ENTITY THAT IS
+20 HELD TO BE FRAUDULENT UNDER SUBSECTION (4)(g)(V) OF THIS SECTION,
+21 AS A REGISTERED AGENT.
+22 (3) Review - secretary of state.
+23 (a) Upon receipt of a complaint submitted pursuant to subsection
+24 (2) of this section, the secretary of state shall review the complaint and
+25 evaluate whether the complaint indicates a violation of subsection (1) of
+26 this section and satisfies the requirements of subsection (2) of this
+27 section. If so, the secretary of state, using electronic means, shall:
+-3- 1088
+
+1 (I) Refer the complaint to the attorney general for review and
+2 investigation under the "Colorado Consumer Protection Act", article 1 of
+3 title 6; AND
+4 (II) FOR COMPLAINTS ALLEGING THAT THE FILING WAS MADE IN
+5 VIOLATION OF SUBSECTION (1)(a) OF THIS SECTION, MARK THE BUSINESS
+6 RECORD WITH A NOTICE THAT THE ENTITY IS HAS RECEIVED A COMPLAINT
+7 OR IS UNDER INVESTIGATION.
+8
+9 (4) Review - attorney general - hearing and findings -
+10 administrative law judge - definition.
+11 (a) Upon receipt of a complaint referred by the secretary of state
+12 in accordance with subsection (3)(a) of this section, the attorney general
+13 shall review the complaint and determine whether the complaint should
+14 be investigated. If the attorney general determines that the complaint
+15 should be investigated, the attorney general:
+16 (I) Shall mail a written notice and demand to the street address or
+17 mailing address, if different from the street address, as well as to the
+18 email address, if available, of the registered agent of record listed in the
+19 secretary of state's online filing system for the entity at issue; EXCEPT
+20 THAT, IF THE ADDRESS OF THE REGISTERED AGENT IS THE SAME AS THE
+21 ADDRESS OF THE COMPLAINANT, THE ATTORNEY GENERAL MAY PROVIDE
+22 WRITTEN NOTICE TO ANY OTHER POINT OF CONTACT THAT THE ATTORNEY
+23 GENERAL DETERMINES THROUGH INVESTIGATION TO BE A MEANS TO
+24 REACH THE ENTITY AT ISSUE;
+25 (I.5) and, if a telephone number is available, the attorney general
+26 shall MAY contact the registered agent by telephone IF A TELEPHONE
+27 NUMBER IS AVAILABLE; and
+-4- 1088
+
+1 (II) May provide written or verbal notice and demand to any other
+2 point of contact that the attorney general determines through investigation
+3 to be a means by which to reach the entity at issue.
+4 (e) If, within twenty-one days after mailing a notice and demand,
+5 the attorney general does not receive a response in writing or otherwise,
+6 the attorney general shall send a second notice and demand, consistent
+7 with the requirements of this subsection (4), and allow twenty-one days
+8 for a response, which must comply with subsection (4)(c) of this section.
+9 (f) (I) If the attorney general does not receive a response within
+10 twenty-one days after mailing a second notice and demand as described
+11 in subsection (4)(e) IN ACCORDANCE WITH SUBSECTION (4)(c) of this
+12 section, each allegation in the notice and demand is deemed conceded by
+13 the person that did not respond, and the attorney general may certify that
+14 fact to the secretary of state. Upon receiving the certification, the
+15 secretary of state shall take the appropriate remedial action under
+16 subsections (4)(g)(V) and (4)(g)(VI) of this section based on the
+17 conceded notice and demand.
+18 (II) As used in this subsection (4)(f), "conceded notice and
+19 demand" means a notice and demand described in subsection (4)(e)
+20 SUBSECTION (4)(c) of this section sent by the attorney general to which
+21 the attorney general did not receive a response and in which, pursuant to
+22 subsection (4)(f)(I) of this section, each allegation is deemed conceded by
+23 the person that did not respond.
+24 (g) (VIII) IN THE SITUATION DESCRIBED IN THE INTRODUCTORY
+25 PORTION OF SUBSECTION (4)(g)(V) OF THIS SECTION, THE SECRETARY OF
+26 STATE MAY TAKE ANY OF THE ACTIONS DESCRIBED IN SUBSECTIONS
+27 (4)(g)(V)(A) TO (4)(g)(V)(C) OF THIS SECTION AGAINST ANY OTHER
+-5- 1088
+
+1 ENTITY THAT USES AN ENTITY AS THE REGISTERED AGENT THAT HAS BEEN
+2 CONCEDED OR HAS BEEN FOUND TO BE FRAUDULENT OR UNAUTHORIZED
+3 AS THE REGISTERED AGENT.
+4 (IX) IF A DOCUMENT SUBMITTED TO THE SECRETARY OF STATE FOR
+5 FILING INCLUDES A REFERENCE TO THE SECRETARY OF STATE, THE
+6 SECRETARY OF STATE'S ADDRESS OR VARIATIONS OF EITHER THE NAME OR
+7 ADDRESS, THE SECRETARY OF STATE MAY, WITHOUT THE NEED FOR A FILED
+8 COMPLAINT, TAKE ANY OF THE ACTIONS DESCRIBED IN SUBSECTIONS
+9 (4)(g)(V)(A) TO (4)(g)(V)(C) OF THIS SECTION CONCERNING THE ENTITY
+10 OR FILING.
+11 (5) Enforcement - deceptive trade practice - private right of
+12 action.
+13 (a) A violation of subsection (1) of this section is a deceptive trade
+14 practice under section 6-1-105 (1)(ppp) and is subject to enforcement by
+15 the department of law in addition to the enforcement described in this
+16 section. A determination by the administrative law judge as provided by
+17 subsection (4)(g)(IV) of this section or a failure to timely respond to a
+18 notice and demand as provided by subsection (4)(f) of this section
+19 constitutes a prima facie showing that subsection (1) of this section was
+20 violated.
+21 (b) A PERSON THAT IS INJURED BY AN ENTITY THAT HAS VIOLATED
+22 SUBSECTION (1) OF THIS SECTION MAY BRING AN ACTION TO DISSOLVE THE
+23 ENTITY IN ACCORDANCE WITH PART 7 OF ARTICLE 56 OF THIS TITLE 7, PART
+24 8 OF ARTICLE 80 OF THIS TITLE 7, PART 3 OF ARTICLE 114 OF THIS TITLE 7,
+25 PART 3 OF ARTICLE 134 OF THIS TITLE 7, OR THE COMMON LAW OF
+26 COLORADO, AS APPLICABLE. THE COURT MAY DISSOLVE THE ENTITY IF THE
+27 COURT FINDS THAT:
+-6- 1088
+
+1 (I) THE ENTITY OBTAINED ITS ARTICLES OF INCORPORATION OR
+2 ORGANIZATION THROUGH FRAUD; OR
+3 (II) THE ENTITY HAS CONTINUED TO EXCEED OR ABUSE THE
+4 AUTHORITY CONFERRED UPON IT BY LAW.
+5 SECTION 3. In Colorado Revised Statutes, 7-56-715, amend (1)
+6 as follows:
+7 7-56-715. Procedure for judicial dissolution.
+8 (1) (a) A proceeding to dissolve a cooperative brought by the
+9 attorney general shall MUST be brought:
+10 (I) In the district court for the county in this state in which the
+11 street address of the cooperative's principal office is located; or,
+12 (II) If the cooperative has no principal office in this state, in the
+13 district court for the county in which the street address of its registered
+14 agent is located; or,
+15 (III) If the cooperative has no registered agent, in the district court
+16 for the city and county of Denver; OR
+17 (IV) IF THE DISSOLUTION IS BASED ON A FRAUDULENT FILING WITH
+18 THE SECRETARY OF STATE, IN THE DISTRICT COURT FOR THE CITY AND
+19 COUNTY OF DENVER.
+20 (b) IF SUBSECTION (1)(a) OF THIS SECTION DOES NOT APPLY, a
+21 proceeding brought by any other party named in section 7-56-714 shall
+22 MUST be brought:
+23 (I) In the district court for the county in this state in which the
+24 street address of the cooperative's principal office is located; or,
+25 (II) If the cooperative has no principal office in this state, in the
+26 district court for the county in which the street address of its registered
+27 agent is located; or
+-7- 1088
+
+1 (III) If the cooperative has no registered agent, in the district court
+2 for the city and county of Denver.
+3 SECTION 4. In Colorado Revised Statutes, 7-80-811, amend (1)
+4 as follows:
+5 7-80-811. Procedure for judicial dissolution.
+6 (1) (a) A judicial proceeding by the attorney general to dissolve
+7 a limited liability company shall MUST be brought:
+8 (I) In the district court for the county in this state in which the
+9 street address of the limited liability company's principal office or the
+10 street address of its registered agent is located; or,
+11 (II) If the limited liability company has no principal office in this
+12 state and no registered agent, in the district court for the city and county
+13 of Denver; OR
+14 (III) IF THE DISSOLUTION IS BASED ON A FRAUDULENT FILING WITH
+15 THE SECRETARY OF STATE, IN THE DISTRICT COURT FOR THE CITY AND
+16 COUNTY OF DENVER.
+17 (b) IF SUBSECTION (1)(a) OF THIS SECTION DOES NOT APPLY, a
+18 judicial proceeding brought by any other A party named in section
+19 7-80-810 to dissolve a limited liability company shall MUST be brought:
+20 (I) In the district court for the county in this state in which the
+21 street address of the limited liability company's principal office is located;
+22 or,
+23 (II) If it THE LIMITED LIABILITY COMPANY has no principal office
+24 in this state, in the district court for the county in which the street address
+25 of its registered agent is located; or
+26 (III) If the limited liability company has no registered agent, in the
+27 district court for the city and county of Denver.
+-8- 1088
+
+1 SECTION 5. In Colorado Revised Statutes, 7-114-302, amend
+2 (1) as follows:
+3 7-114-302. Procedure for judicial dissolution.
+4 (1) (a) A proceeding by the attorney general to dissolve a
+5 corporation shall MUST be brought:
+6 (I) In the district court for the county in this state in which the
+7 street address of the corporation's principal office or the street address of
+8 its registered agent is located; or,
+9 (II) If the corporation has no principal office in this state and no
+10 registered agent, in the district court for the city and county of Denver; OR
+11 (III) IF THE DISSOLUTION IS BASED ON A FRAUDULENT FILING WITH
+12 THE SECRETARY OF STATE, IN THE DISTRICT COURT FOR THE CITY AND
+13 COUNTY OF DENVER.
+14 (b) IF SUBSECTION (1)(a) OF THIS SECTION DOES NOT APPLY, a
+15 proceeding brought by any other A party named in section 7-114-301 shall
+16 MUST be brought:
+17 (I) In the district court for the county in this state in which the
+18 street address of the corporation's principal office is located; or,
+19 (II) If it THE CORPORATION has no principal office in this state, in
+20 the district court for the county in which the street address of its
+21 registered agent is located; or
+22 (III) If the corporation has no registered agent, in the district court
+23 for the city and county of Denver.
+24 SECTION 6. In Colorado Revised Statutes, 7-134-302, amend
+25 (1) as follows:
+26 7-134-302. Procedure for judicial dissolution.
+27 (1) (a) A proceeding by the attorney general to dissolve a
+-9- 1088
+
+1 nonprofit corporation shall MUST be brought:
+2 (I) In the district court for the county in this state in which the
+3 street address of the nonprofit corporation's principal office or the street
+4 address of its registered agent is located; or,
+5 (II) If the nonprofit corporation has no principal office in this state
+6 and no registered agent, in the district court for the city and county of
+7 Denver; OR
+8 (III) IF THE DISSOLUTION IS BASED ON A FRAUDULENT FILING WITH
+9 THE SECRETARY OF STATE, IN THE DISTRICT COURT FOR THE CITY AND
+10 COUNTY OF DENVER.
+11 (b) IF SUBSECTION (1)(a) OF THIS SECTION DOES NOT APPLY, a
+12 proceeding brought by any other party named in section 7-134-301 shall
+13 MUST be brought:
+14 (I) In the district court for the county in this state in which the
+15 street address of the nonprofit corporation's principal office is located; or,
+16 (II) If it THE NONPROFIT CORPORATION has no principal office in
+17 this state, in the district court for the county in which the street address of
+18 its registered agent is located; or
+19 (III) If the nonprofit corporation has no registered agent, in the
+20 district court for the city and county of Denver.
+21 SECTION 7. Appropriation. (1) For the 2026-27 state fiscal
+22 year, $193,954 is appropriated to the department of state. This
+23 appropriation is from the department of state cash fund created in section
+24 24-21-104 (3)(b), C.R.S. To implement this act, the department may use
+25 this appropriation as follows:
+26 (a) $37,860 for use by the business and licensing division for
+27 personal services, which amount is based on an assumption that the
+-10- 1088
+
+1 division will require an additional 0.8 FTE;
+2 (b) $5,400 for use by the business and licensing division for
+3 operating expenses;
+4 (c) $147,686 for use by the information technology division for
+5 personal services, which amount is based on an assumption that the
+6 division will require an additional 0.3 FTE; and
+7 (d) $3,008 for use by the information technology division for
+8 operating expenses.
+9 SECTION 8. Act subject to petition - effective date -
+10 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+11 the expiration of the ninety-day period after final adjournment of the
+12 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+13 2026); except that, if a referendum petition is filed pursuant to section 1
+14 (3) of article V of the state constitution against this act or an item, section,
+15 or part of this act within such period, then the act, item, section, or part
+16 will not take effect unless approved by the people at the general election
+17 to be held in November 2026 and, in such case, will take effect on the
+18 date of the official declaration of the vote thereon by the governor.
+19 (2) This act applies to complaints filed on or after the applicable
+20 effective date of this act.
+-11- 1088

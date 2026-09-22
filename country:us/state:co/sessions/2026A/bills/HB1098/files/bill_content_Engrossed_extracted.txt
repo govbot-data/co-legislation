@@ -1,0 +1,511 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0489.01 Sam Anderson x4218 HOUSE BILL 26-1098
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO THE "COLORADO PUBLIC TRUSTEE
+102 ACT" RELATED TO FORECLOSURE PROCEDURES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes modifications related to foreclosure procedures in
+the "Colorado Public Trustee Act" to:
+! Set the salary of the public trustee in counties where the
+county treasurer serves as the public trustee;
+! Eliminate the requirement that a public trustee make certain
+statements to the board of county commissioners under
+ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,62
+yraurbeF
+HOUSE SPONSORSHIP
+Brooks and Stewart R.,
+SENATE SPONSORSHIP
+Frizell and Kipp,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+oath;
+! Repeal the requirement that a public trustee appointed by
+the governor be subject to the state "Procurement Code";
+! Clarify the source of funds used to pay a public trustee;
+! Repeal the definition of "certified copy" and references
+thereto;
+! Define "nonmaterial misstatement";
+! Clarify the date by which the public trustee or sheriff
+conducting a foreclosure (officer) must mail the combined
+notice of sale, right to cure, and right to redeem to persons
+on an amended mailing list;
+! Clarify that a junior lienor is entitled to cure the default if
+the junior lienor files with the officer;
+! Specify that unclaimed remaining amount for which a
+property is sold at a foreclosure sale that is in excess of the
+bid amount may be transferred to the state treasurer for
+disposition or held by the county treasurer pursuant to the
+terms of a county resolution regarding unclaimed funds;
+! Add a requirement regarding redemption that specifies that
+if a lien is assigned, the holder's rights are valid only if the
+assignment of the lien is duly recorded at least 15 calendar
+days prior to the date of sale;
+! Clarify an omitted party's rights after a foreclosure sale;
+and
+! Specify when an omitted party's interest may be terminated.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 38-37-104, amend
+3 (2) and (3), and repeal (8) as follows:
+4 38-37-104. Duties of public trustees - fees, expenses, and
+5 salaries - reports - definition.
+6 (2) (a) The salary of the public trustee in the different counties of
+7 the state shall be fixed at the following amounts, to wit: In counties of the
+8 second class, twenty-six thousand dollars per annum for full-time public
+9 trustees and, in counties of the third class, six thousand five hundred
+10 dollars per annum FOR PUBLIC TRUSTEES IN ALL COUNTIES WHEREIN THE
+11 COUNTY TREASURER SERVES AS THE PUBLIC TRUSTEE, THE SALARY SHALL
+-2- 1098
+
+1 BE FIXED AT TWELVE THOUSAND FIVE HUNDRED DOLLARS PER ANNUM.
+2 (b) For public trustees whose terms begin on or after July 1, 1998,
+3 but prior to January 1, 2003, the salary of the public trustee in the
+4 different counties of the state shall be fixed at the following amounts, to
+5 wit: In counties of the second class, thirty-two thousand dollars per
+6 annum for full-time public trustees and, in counties of the third class,
+7 eight thousand dollars per annum; except that, in the city and county of
+8 Broomfield, such salary shall be as set forth in its annual budget.
+9 (b.3) (I) For public trustees whose terms begin on or after January
+10 1, 2003, except as otherwise provided in subparagraph (II), (III), or (IV)
+11 of this paragraph (b.3), the salary of the public trustee in the different
+12 counties of the state shall be fixed at the following amounts, to wit: In
+13 counties of the second class, forty-eight thousand five hundred dollars per
+14 annum, and in counties of the third class, twelve thousand five hundred
+15 dollars per annum.
+16 (II) For public trustees who are serving in office on or after March
+17 13, 2008, the salary of the public trustee in the different counties of the
+18 state shall be fixed at the following amounts, to wit: In counties of the
+19 second class, fifty-six thousand five hundred dollars per annum; and in
+20 counties of the third class, twelve thousand five hundred dollars per
+21 annum.
+22 (III) For public trustees in counties of the second class who are
+23 serving in office on or after February 1, 2009, the salary shall be fixed at
+24 sixty-four thousand five hundred dollars per annum.
+25 (IV) For public trustees in counties of the second class who are
+26 serving in office on or after February 1, 2010, the salary shall be fixed at
+27 seventy-two thousand five hundred dollars per annum.
+-3- 1098
+
+1 (V) For public trustees in counties of the second class wherein the
+2 county treasurer serves as the public trustee, the salary shall be fixed at
+3 twelve thousand five hundred dollars per annum.
+4 (b.5) Repealed.
+5 (c) Such salaries shall be paid MONTHLY FROM THE GENERAL
+6 FUND AS PART OF THE COUNTY'S STANDARD PAYROLL PROCESS. ON A
+7 QUARTERLY BASIS, THE PUBLIC TRUSTEE SHALL REIMBURSE THE COUNTY
+8 GENERAL FUND FOR THE MONTHLY SALARIES from the fees collected by
+9 the public trustee as provided in this section and not otherwise OR FROM
+10 THE PUBLIC TRUSTEE SPECIAL RESERVE ACCOUNT. IF THERE ARE NOT
+11 SUFFICIENT FUNDS AVAILABLE, THEN THE PUBLIC TRUSTEE SHALL
+12 REIMBURSE THE GENERAL FUND ACCOUNT AS SOON AS ENOUGH FEES HAVE
+13 BEEN COLLECTED.
+14 (3) The public trustee of each county shall quarterly make and file
+15 with the board of county commissioners of the county a full and complete
+16 statement under oath of all transactions of the office of the public trustee
+17 and shall, upon the approval of said report, pay to the county treasurer all
+18 sums that the public trustee has received as fees in excess of the amount
+19 of salary then due to the public trustee and in excess of all necessary and
+20 reasonable expenses for staff wages and any benefits provided pursuant
+21 to county personnel policy and other expenses incidental to the conduct
+22 of the office of the public trustee for the quarter ending at the time of
+23 such report, which moneys MONEY shall, by the county treasurer, be
+24 placed to the credit of a fund to be known as the public trustee salary
+25 fund. The public trustee shall, before remitting such excess funds, retain
+26 such excess funds in a special reserve fund, which fund shall be
+27 maintained in a separate interest-bearing account as permitted under
+-4- 1098
+
+1 section 38-37-113, until such special reserve fund, including accrued
+2 interest, reaches an amount equal to the public trustee's total operating
+3 expenses and authorized salary for the previous fiscal year, as filed
+4 pursuant to this subsection (3). If, in any particular quarter, the public
+5 trustee's operating expenses and authorized salary exceed the fees
+6 collected in the quarter, the public trustee may draw on the special reserve
+7 fund to cover the public trustee's operating expenses and authorized salary
+8 for that quarter. At such time as the special reserve fund has reached the
+9 permitted amount, excess funds shall be paid to the county treasurer to be
+10 placed in the public trustee salary fund. At the expiration of each year, the
+11 county treasurer shall, out of any moneys MONEY in the public trustee
+12 salary fund and not otherwise, pay to the public trustee such an amount,
+13 if any, as may be still due to the public trustee on account of the public
+14 trustee's salary for that year just expired, such payment to be made only
+15 upon the certificate of the board stating the amount of such salary still
+16 remaining due and unpaid, and the balance of said fund shall thereupon
+17 be transferred to the general fund of the county.
+18 (8) Each public trustee who is appointed by the governor shall be
+19 subject to the state "Procurement Code", articles 101 to 112 of title 24,
+20 C.R.S., for any purchase of twenty thousand dollars or more and for any
+21 multiple year purchase agreement; except that, if the procurement rules
+22 established for the county in which the public trustee serves require an
+23 open and competitive bidding process, the public trustee may apply the
+24 county procurement rules.
+25 SECTION 2. In Colorado Revised Statutes, 38-38-100.3, repeal
+26 (3); and add (15.5) as follows:
+27 38-38-100.3. Definitions.
+-5- 1098
+
+1 As used in articles 37 to 39 of this title 38, unless the context
+2 otherwise requires:
+3 (3) "Certified copy" means, with respect to a recorded document,
+4 a copy of the document certified by the clerk and recorder of the county
+5 where the document was recorded.
+6 (15.5) "NONMATERIAL MISSTATEMENT" MEANS AN ERROR,
+7 INACCURACY, OR OMISSION THAT IS MINOR OR INCONSEQUENTIAL AND
+8 DOES NOT SIGNIFICANTLY AFFECT THE UNDERSTANDING, VALIDITY, OR
+9 ENFORCEABILITY OF THE DOCUMENT.
+10 SECTION 3. In Colorado Revised Statutes, 38-38-101, amend
+11 (1)(b)(III), (1)(c)(I), (2), and (5) as follows:
+12 38-38-101. Holder of evidence of debt may elect to foreclose.
+13 (1) Documents required. Whenever a holder of an evidence of
+14 debt declares a violation of a covenant of a deed of trust and elects to
+15 publish all or a portion of the property therein described for sale, the
+16 holder or the attorney for the holder shall file the following with the
+17 public trustee of the county where the property is located:
+18 (b) The original evidence of debt, including any modifications to
+19 the original evidence of debt, together with the original indorsement or
+20 assignment thereof, if any, to the holder of the evidence of debt or other
+21 proper indorsement or assignment in accordance with subsection (6) of
+22 this section or, in lieu of the original evidence of debt, one of the
+23 following:
+24 (III) A certified RECORDED copy of a monetary judgment entered
+25 by a court of competent jurisdiction;
+26 (c) The original recorded deed of trust securing the evidence of
+27 debt and any original recorded modifications of the deed of trust or any
+-6- 1098
+
+1 recorded partial releases of the deed of trust, or in lieu thereof, one of the
+2 following:
+3 (I) Certified Copies of the recorded deed of trust and any recorded
+4 modifications of the deed of trust or recorded partial releases of the deed
+5 of trust; or
+6 (2) Foreclosure by qualified holder without original evidence
+7 of debt, original or recorded copy of deed of trust, or proper
+8 indorsement.
+9 (a) A qualified holder, whether acting for itself or as agent,
+10 nominee, or trustee under section 38-38-100.3 (20), that elects to
+11 foreclose without the original evidence of debt pursuant to subparagraph
+12 (II) of paragraph (b) of subsection (1) SUBSECTION (1)(b)(II) of this
+13 section, or without the original recorded deed of trust or a certified
+14 RECORDED copy thereof pursuant to subparagraph (II) of paragraph (c) of
+15 subsection (1) SUBSECTION (1)(c)(II) of this section, or without the proper
+16 indorsement or assignment of an evidence of debt under paragraph (b) of
+17 subsection (1) SUBSECTION (1)(b) of this section shall, by operation of
+18 law, be deemed to have agreed to indemnify and defend any person liable
+19 for repayment of any portion of the original evidence of debt in the event
+20 that the original evidence of debt is presented for payment to the extent
+21 of any amount, other than the amount of a deficiency remaining under the
+22 evidence of debt after deducting the amount bid at sale, and any person
+23 who sustains a loss due to any title defect that results from reliance upon
+24 a sale at which the original evidence of debt was not presented. The
+25 indemnity granted by this subsection (2) shall be IS limited to actual
+26 economic loss suffered together with any court costs and reasonable
+27 attorney fees and costs incurred in defending a claim brought as a direct
+-7- 1098
+
+1 and proximate cause of the failure to produce the original evidence of
+2 debt, but such indemnity shall not include, and no claimant shall be IS
+3 entitled to, any special, incidental, consequential, reliance, expectation,
+4 or punitive damages of any kind. A qualified holder acting as agent,
+5 nominee, or trustee shall be IS liable for the indemnity pursuant to this
+6 subsection (2).
+7 (b) In the event that a qualified holder or the attorney for the
+8 holder commences a foreclosure without production of the original
+9 evidence of debt, COPY OF RECORDED MODIFICATION, proper indorsement
+10 or assignment, or the original recorded deed of trust or a certified
+11 RECORDED copy thereof, the qualified holder or the attorney for the holder
+12 may submit the original evidence of debt, COPY OF RECORDED
+13 MODIFICATION, proper indorsement or assignment, or the original
+14 recorded deed of trust or a certified RECORDED copy thereof to the officer
+15 prior to the sale. In such event, the sale shall be IS conducted and
+16 administered as if the original evidence of debt, COPY OF RECORDED
+17 MODIFICATION, proper indorsement or assignment, or the original
+18 recorded deed of trust or a certified RECORDED copy thereof had been
+19 submitted at the time of commencement of such proceeding, and any
+20 indemnities deemed to have been given by the qualified holder under
+21 paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF THIS SECTION
+22 shall be null and ARE void as to the instrument produced under this
+23 paragraph (b) SUBSECTION (2)(b).
+24 (c) In the event that a foreclosure is conducted where the original
+25 evidence of debt, proper indorsement or assignment, or original recorded
+26 deed of trust or certified RECORDED copy thereof has not been produced,
+27 the only claims shall be ARE against the indemnitor as provided in
+-8- 1098
+
+1 paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF THIS SECTION
+2 and not against the foreclosed property or the attorney for the holder of
+3 the evidence of debt. Nothing in this section shall preclude PRECLUDES a
+4 person liable for repayment of the evidence of debt from pursuing
+5 remedies allowed by law.
+6 (5) Error in notice. In the event that the amount of the
+7 outstanding principal balance due and owing upon the secured
+8 indebtedness OR ANY NONMATERIAL MISSTATEMENT is erroneously set
+9 forth in the notice of election and demand or the combined notice, the
+10 error shall not affect the validity of the notice of election and demand, the
+11 combined notice, the publication, the sale, the certificate of purchase
+12 described in section 38-38-401, the certificate of redemption described in
+13 section 38-38-402, the confirmation deed as defined in section
+14 38-38-100.3 (5), or any other document executed in connection therewith.
+15 SECTION 4. In Colorado Revised Statutes, 38-38-103, amend
+16 (2)(a) as follows:
+17 38-38-103. Combined notice - publication - providing
+18 information.
+19 (2) (a) The holder of the evidence of debt or the attorney for the
+20 holder shall deliver an amended mailing list to the officer as needed. If an
+21 OFFICER RECEIVES AN amended mailing list is received after the officer
+22 has sent the mailing described in paragraph (b) of subsection (1)
+23 SUBSECTION (1)(b) of this section, the officer shall continue the sale to no
+24 less than sixty-five calendar days after receipt of the amended mailing
+25 list. The officer shall send the notice pursuant to subsection (4) of this
+26 section to the persons on the amended mailing list no less than forty-five
+27 calendar days prior to the actual NEWLY SCHEDULED date of sale.
+-9- 1098
+
+1 SECTION 5. In Colorado Revised Statutes, 38-38-104, amend
+2 (1)(d) as follows:
+3 38-38-104. Right to cure when default is nonpayment - right
+4 to cure for certain technical defaults.
+5 (1) Unless the order authorizing the sale described in section
+6 38-38-105 contains a determination that there is a reasonable probability
+7 that a default in the terms of the evidence of debt, deed of trust, or other
+8 lien being foreclosed other than nonpayment of sums due thereunder has
+9 occurred, any of the following persons is entitled to cure the default if the
+10 person files with the officer, no later than fifteen calendar days prior to
+11 the date of sale, a written notice of intent to cure together with evidence
+12 of the person's right to cure to the satisfaction of the officer:
+13 (d) A holder of an interest junior to the lien being foreclosed by
+14 virtue of being a lienor or lessee of, or a holder of an easement or license
+15 on, the property or a contract vendee of the property, if the instrument
+16 evidencing the interest was recorded in the records prior to the date and
+17 time of the recording of the notice of election and demand or lis pendens.
+18 A JUNIOR LIENOR, AS DEFINED IN SECTION 38-38-100.3. If, prior to the date
+19 and time of the recording of the notice of election and demand or lis
+20 pendens, a lien is recorded in an incorrect county, the holder's rights
+21 under this section shall ARE only be valid if the lien is rerecorded in the
+22 correct county at least fifteen calendar days prior to the actual date of
+23 sale.
+24 SECTION 6. In Colorado Revised Statutes, 38-38-106, amend
+25 (7)(a)(II) as follows:
+26 38-38-106. Bid required - form of bid.
+27 (7) (a) (II) If the holder of the evidence of debt is the highest
+-10- 1098
+
+1 bidder with a bid that exceeds the total amount due shown on the bid
+2 pursuant to subsection (2) of this section, the holder of the evidence of
+3 debt is only required to pay the excess of the amount bid over the amount
+4 due the holder of the evidence of debt, as shown on the bid submitted
+5 pursuant to subsection (2) of this section. THE HOLDER SHALL PAY THE
+6 EXCESS OF THE AMOUNT BID TO THE OFFICE WITHIN THREE BUSINESS DAYS
+7 AFTER THE SALE.
+8 SECTION 7. In Colorado Revised Statutes, 38-38-108, amend
+9 (2)(a)(I)(A) as follows:
+10 38-38-108. Date of sale.
+11 (2) (a) (I) If it is not evident from the legal description contained
+12 in the deed of trust or other lien being foreclosed whether the property
+13 described therein is agricultural property, the officer shall make that
+14 determination no less than ten calendar days nor more than twenty
+15 calendar days after the recording of the notice of election and demand;
+16 except that the officer may make the determination at any earlier time
+17 upon presentation of acceptable evidence that the property is not
+18 agricultural property. The officer shall accept the following as evidence
+19 that the property is not agricultural property:
+20 (A) A certified copy of the subdivision plat containing the
+21 property or any portion thereof recorded in the office of the clerk and
+22 recorder of the county where the property or any portion thereof is
+23 located; or
+24 SECTION 8. In Colorado Revised Statutes, 38-38-109, amend
+25 (1)(b) and (2)(a) as follows:
+26 38-38-109. Continuance of sale - effect of bankruptcy -
+27 withdrawal of sale.
+-11- 1098
+
+1 (1) Continuance.
+2 (b) At the request of the holder of the evidence of debt or the
+3 attorney for the holder or upon the officer's own initiative, the officer
+4 shall correct any errors in a published combined notice and shall continue
+5 the then-scheduled date of sale to a future date within the period of
+6 continuance allowed by paragraph (a) of this subsection (1) SUBSECTION
+7 (1)(a) OF THIS SECTION to permit a corrected combined notice to be
+8 published or the original combined notice to be republished pursuant to
+9 section 38-38-103 (5). If the officer failed to publish the combined notice
+10 as required by section 38-38-103 (5), the officer shall continue the
+11 then-scheduled date of sale to a future date within the period of
+12 continuance allowed by paragraph (a) of this subsection (1) SUBSECTION
+13 (1)(a) OF THIS SECTION. The future date of sale to which the sale is
+14 continued pursuant to this paragraph (b) SUBSECTION (1)(b) shall be no
+15 later than thirty calendar days after the fifth publication of the corrected
+16 combined notice or republished combined notice. The officer shall mail
+17 a copy of the combined notice, or corrected combined notice if the
+18 original combined notice was erroneous, to the persons and addresses on
+19 the most recent amended mailing list no later than ten calendar days after
+20 the first correct publication or republication and no less than forty-five
+21 calendar days prior to the actual NEWLY SCHEDULED date of sale in the
+22 same manner as set forth in section 38-38-103. If there is no amended
+23 mailing list, the officer shall mail a copy of the combined notice, or
+24 corrected combined notice if the original combined notice was erroneous,
+25 to the persons as set forth in the mailing list.
+26 (2) Effect of bankruptcy proceedings.
+27 (a) If all publications of the combined notice prescribed by section
+-12- 1098
+
+1 38-38-103 (5) or 13-56-201 (1) C.R.S., have been completed before a
+2 ANY INJUNCTION OR bankruptcy petition has been filed that automatically
+3 stays the officer from conducting the sale, the officer shall announce,
+4 post, or provide notice of that fact on the then-scheduled date of sale, take
+5 no action at the then-scheduled sale, and allow the sale to be
+6 automatically continued from week to week in accordance with paragraph
+7 (a) of subsection (1) SUBSECTION (1)(a) of this section, unless otherwise
+8 requested in writing prior to any such date of sale by the holder of the
+9 evidence of debt or the attorney for the holder.
+10 SECTION 9. In Colorado Revised Statutes, 38-38-111, amend
+11 (3)(a)(II) and (3)(b) as follows:
+12 38-38-111. Treatment of an overbid - agreements to assist in
+13 recovery of overbid prohibited - penalty - definition.
+14 (3) (a) (II) When the property is sold by the public trustee, any
+15 unclaimed remaining overbid from a foreclosure sale shall be IS held by
+16 the public trustee in escrow. The remaining overbid shall be IS held for
+17 six months from the date of the sale. The public trustee is answerable for
+18 the funds without interest at any time within the six-month TWO-YEAR
+19 period to any person legally entitled to the funds. Any interest earned on
+20 the escrowed funds must be paid to the county at least annually.
+21 Unclaimed remaining overbids that are less than twenty-five dollars and
+22 that are not claimed within six months from the date of sale must be paid
+23 to the general fund of the county, and such money paid to the general
+24 fund of the county becomes the property of the county. Unclaimed
+25 remaining overbids that are equal to or greater than twenty-five dollars
+26 and that are not claimed within six months TWO YEARS from the date
+27 of the sale are unclaimed property for purposes of the "Revised Uniform
+-13- 1098
+
+1 Unclaimed Property Act", article 13 of this title 38, and must be
+2 transferred to the administrator in accordance with article 13 SHALL BE
+3 TRANSFERRED TO THE STATE TREASURER FOR DISPOSITION IN
+4 ACCORDANCE WITH THE "REVISED UNIFORM UNCLAIMED PROPERTY ACT",
+5 ARTICLE 13 OF THIS TITLE 38. After unclaimed remaining overbids are
+6 transferred to the administrator or to the general fund of the county, the
+7 public trustee is discharged from any further liability or responsibility for
+8 the money.
+9 (b) If the unclaimed remaining overbids exceed five hundred
+10 dollars and have not been claimed by any person entitled thereto within
+11 sixty calendar days after the expiration of all redemption periods as
+12 provided by section 38-38-302, the public trustee shall, within ninety
+13 calendar days after the expiration of all redemption periods, commence
+14 publication of a notice for four weeks, which means publication once
+15 each week for five successive weeks, in a newspaper of general
+16 circulation in the county where the subject property is located. The notice
+17 must contain the name of the borrower, the borrower's address as given
+18 in the recorded instrument evidencing the borrower's interest, and the
+19 legal description and street address, if any, of the property sold at the sale
+20 and must state that an overbid was realized from the sale and that, unless
+21 the funds are claimed by the borrower or other person entitled thereto
+22 within six months after TWO YEARS FROM the date of sale, the funds shall
+23 be transferred to the state treasurer for disposition in accordance with the
+24 "Revised Uniform Unclaimed Property Act", article 13 of this title 38.
+25 The public trustee shall also mail a copy of the notice to the borrower at
+26 the best available address.
+27 SECTION 10. In Colorado Revised Statutes, amend 38-13-214
+-14- 1098
+
+1 as follows:
+2 38-13-214. Foreclosure sale - overbid.
+3 Any overbid, as defined in section 38-38-100.3, that is equal to or
+4 greater than twenty-five dollars and that remains unclaimed for six
+5 months TWO YEARS after the date of sale is presumed abandoned.
+6 SECTION 11. In Colorado Revised Statutes, 38-38-302, add
+7 (1)(c.5) as follows:
+8 38-38-302. Redemption by lienor - procedure - definition.
+9 (1) Requirements for redemption. A lienor or assignee of a lien
+10 is entitled to redeem if the following requirements are met to the
+11 satisfaction of the officer:
+12 (c.5) IF A LIEN IS ASSIGNED, THE HOLDER'S RIGHTS UNDER THIS
+13 SECTION ARE VALID ONLY IF THE ASSIGNMENT OF THE LIEN IS DULY
+14 RECORDED IN THE OFFICE OF THE CLERK AND RECORDER OF THE COUNTY
+15 AT LEAST FIFTEEN CALENDAR DAYS PRIOR TO THE ACTUAL DATE OF SALE.
+16 SECTION 12. In Colorado Revised Statutes, amend 38-38-405
+17 as follows:
+18 38-38-405. Certificate as prima facie evidence.
+19 A certificate of purchase, certificate of redemption, confirmation
+20 deed, or a certified RECORDED copy thereof shall be deemed to be prima
+21 facie evidence of all statements or recitals contained therein.
+22 SECTION 13. In Colorado Revised Statutes, 38-38-506, amend
+23 (2)(a), (2)(d), and (3) as follows:
+24 38-38-506. Omitted parties - definitions.
+25 (2) (a) The interest of an omitted party in the property that is the
+26 subject of a sale may be terminated if the omitted party, or anyone
+27 claiming by, through, or under an omitted party, in a civil action
+-15- 1098
+
+1 commenced at any time WITHIN THREE HUNDRED SIXTY-FIVE CALENDAR
+2 DAYS OF THE RECORDING OF THE NOTICE OF ELECTION AND DEMAND OR
+3 ONE HUNDRED EIGHTY CALENDAR DAYS AFTER THE ACTUAL FORECLOSURE
+4 SALE, WHICHEVER IS GREATER, by any interested person as defined in
+5 paragraph (c) of this subsection (2) SUBSECTION (2)(c) OF THIS SECTION,
+6 by an omitted party, or by anyone claiming by, through, or under an
+7 omitted party, is afforded rights of cure if the omitted party would have
+8 been entitled to cure pursuant to section 38-38-104, or is afforded
+9 redemption rights if the omitted party would have been entitled to redeem
+10 pursuant to section 38-38-302, upon such terms as the court may deem
+11 equitable under the circumstances, which terms shall not, however, be
+12 more favorable than the person's statutory rights. The court shall give full
+13 consideration to whether the omitted party or anyone claiming by,
+14 through, or under an omitted party was given or had actual notice or
+15 knowledge OR CONSTRUCTIVE NOTICE of the foreclosure and was given
+16 an opportunity to exercise statutory rights to cure or redeem.
+17 (d) An omitted party, or anyone claiming by, through, or under an
+18 omitted party, shall not have a remedy to cure or redeem, except as set
+19 forth in this subsection (2). An interested party shall not be able to
+20 extinguish an omitted party's interest except as set forth in this subsection
+21 (2) or by written waiver or agreement signed by the omitted party or
+22 anyone claiming by, through, or under an omitted party.
+23 (3) If an interested person files with the officer at any time WITHIN
+24 THREE HUNDRED SIXTY-FIVE CALENDAR DAYS OF THE RECORDING OF THE
+25 NOTICE OF ELECTION AND DEMAND OR ONE HUNDRED EIGHTY CALENDAR
+26 DAYS AFTER THE ACTUAL FORECLOSURE SALE, WHICHEVER IS GREATER, a
+27 document affirming an omitted party's interest in the property, subject to
+-16- 1098
+
+1 the terms, conditions, and provisions of the recorded instrument from
+2 which such omitted party's interest is derived, or in the case of an omitted
+3 party that is a lessee, subject to the terms and conditions of the lease,
+4 whether written or oral, the interest of such omitted party in the property
+5 shall not be affected by the foreclosure, and such omitted party shall have
+6 no right to cure or redeem.
+7 SECTION 14. In Colorado Revised Statutes, 38-39-102, amend
+8 (1)(b) as follows:
+9 38-39-102. When deed of trust shall be released - definitions.
+10 (1) (b) Immediately Upon execution of the release of the deed of
+11 trust by the public trustee, the public trustee shall cause, AS SOON AS
+12 PRACTICABLE, the release to be recorded in the records of the county clerk
+13 and recorder.
+14 SECTION 15. Effective date. This act takes effect July 1, 2026.
+15 SECTION 16. Safety clause. The general assembly finds,
+16 determines, and declares that this act is necessary for the immediate
+17 preservation of the public peace, health, or safety or for appropriations for
+18 the support and maintenance of the departments of the state and state
+19 institutions.
+-17- 1098

@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0061.01 Christopher McMichael x4775 SENATE BILL 26-002
+SENATE SPONSORSHIP
+Kipp and Exum,
+HOUSE SPONSORSHIP
+Willford,
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING ENERGY AFFORDABILITY, AND, IN CONNECTION
+102 THEREWITH, ESTABLISHING A FIRST ALLOTMENT OF
+103 RESIDENTIAL ELECTRICITY SERVICE PROGRAM THAT PROVIDES
+104 INCOME-QUALIFIED UTILITY CUSTOMERS A MINIMUM LEVEL OF
+105 ELECTRICITY SERVICE AT A MARGINAL COST RATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires an investor-owned electric utility (utility) to
+submit a proposal to the public utilities commission (PUC) that
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+establishes a first allotment of residential electricity service (FARE
+service) program.
+The FARE service program provides a minimum level of
+electricity at a marginal cost rate for income-qualified utility customers.
+A FARE service proposal that a utility submits to the PUC must include:
+! The amount of electricity that qualifies as a minimum level
+of electricity for an average income-qualified utility
+customer based on monthly usage to support a customer's
+basic needs;
+! A marginal cost rate on a per-kilowatt-hour basis for
+delivering electricity to a customer, which marginal cost
+rate must be lower than the residential customer rate that
+the income-qualified utility customer would normally be
+charged; and
+! A description of the process by which an income-qualified
+utility customer may enroll in the FARE service program.
+The PUC shall approve a utility's FARE service proposal if the
+PUC determines that the proposed FARE service would be in the public
+interest.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Public utilities have operated in Colorado to provide electricity
+5 service for over 100 years;
+6 (b) As public utilities, investor-owned electric utilities are granted
+7 certain privileges for providing electricity service to the public, such as
+8 operating as a monopoly within their service territories, the ability to
+9 recover costs from ratepayers, and an almost guaranteed rate of return;
+10 (c) Demands for and the use of electricity have changed
+11 dramatically over the past 100 years, and now electricity service is not a
+12 luxury but an integral and necessary part of daily life;
+13 (d) However, expectations upon investor-owned electric utilities
+14 have not changed to reflect the integral nature that electricity serves in
+-2- SB26-002
+
+1 modern life so that everyone can afford and have access to reliable
+2 electricity;
+3 (e) Thus, it is necessary for the general assembly to regulate
+4 public utilities so that all citizens of Colorado, regardless of income, can
+5 afford electricity service; and
+6 (f) It is in the public interest for investor-owned electric utilities
+7 to provide the first allotment of residential electricity service to
+8 income-qualified utility customers, which service represents a minimum
+9 level of electricity at a marginal cost rate to customers.
+10 SECTION 2. In Colorado Revised Statutes, add 40-3-122 as
+11 follows:
+12 40-3-122. First allotment of residential electricity (FARE)
+13 service - marginal cost rate - income-qualified utility customers -
+14 minimum level of electricity - commission approval - rules -
+15 definitions.
+16 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+17 OTHERWISE REQUIRES:
+18 (a) "FIRST ALLOTMENT OF RESIDENTIAL ELECTRICITY SERVICE" OR
+19 "FARE SERVICE" MEANS A MINIMUM LEVEL OF ELECTRICITY PROVIDED AT
+20 A MARGINAL COST RATE TO INCOME-QUALIFIED UTILITY CUSTOMERS.
+21 (b) "INCOME-QUALIFIED UTILITY CUSTOMER" HAS THE MEANING
+22 SET FORTH IN SECTION 40-3-106 (1)(d)(II).
+23 (c) "INVESTOR-OWNED ELECTRIC UTILITY" MEANS A RETAIL
+24 ELECTRIC UTILITY IN THE STATE THAT IS REGULATED BY THE COMMISSION
+25 AND IS NOT A COOPERATIVE ELECTRIC ASSOCIATION OR A MUNICIPALLY
+26 OWNED UTILITY.
+27 (d) "MARGINAL COST RATE" MEANS THE RATE CHARGED TO AN
+-3- SB26-002
+
+1 INCOME-QUALIFIED UTILITY CUSTOMER THAT IS APPROVED BY THE
+2 COMMISSION AS PART OF A UTILITY'S FARE SERVICE PROPOSAL AND
+3 ACCOUNTS FOR THE MARGINAL COSTS, ON A PER-UNIT-OF-SERVICE BASIS,
+4 THAT AN INVESTOR-OWNED ELECTRIC UTILITY INCURS TO PROVIDE THAT
+5 UNIT OF SERVICE TO AN INCOME-QUALIFIED UTILITY CUSTOMER OVER A
+6 CONTRACT PERIOD AS IF THE INCOME-QUALIFIED UTILITY CUSTOMER WERE
+7 A NEW CUSTOMER, WHICH COSTS INCLUDE:
+8 (I) FUEL;
+9 (II) PURCHASED POWER;
+10 (III) OPERATION AND MAINTENANCE COSTS;
+11 (IV) CAPITAL ADDITIONS;
+12 (V) OVERHEAD;
+13 (VI) TAXES; AND
+14 (VII) FEES.
+15 (e) "MINIMUM LEVEL OF ELECTRICITY" MEANS THE MINIMUM
+16 AMOUNT OF ELECTRICITY, MEASURED IN KILOWATT-HOURS, THAT AN
+17 AVERAGE INCOME-QUALIFIED UTILITY CUSTOMER IN AN INVESTOR-OWNED
+18 ELECTRIC UTILITY'S SERVICE TERRITORY WOULD LIKELY USE IN AN
+19 AVERAGE MONTH TO SUPPORT THE CUSTOMER'S BASIC LIVING NEEDS, AS
+20 PROPOSED BY AN INVESTOR-OWNED ELECTRIC UTILITY AND APPROVED BY
+21 THE COMMISSION.
+22 (2) (a) NOTWITHSTANDING ANY OTHER PROVISION OF ARTICLES 1
+23 TO 7 OF THIS TITLE 40 TO THE CONTRARY, AN INVESTOR-OWNED ELECTRIC
+24 UTILITY SHALL PROVIDE FARE SERVICE TO INCOME-QUALIFIED UTILITY
+25 CUSTOMERS IN THE INVESTOR-OWNED ELECTRIC UTILITY'S SERVICE
+26 TERRITORY.
+27 (b) AN INVESTOR-OWNED ELECTRIC UTILITY MAY CHARGE AN
+-4- SB26-002
+
+1 INCOME-QUALIFIED UTILITY CUSTOMER ENROLLED IN THE UTILITY'S FARE
+2 SERVICE PROGRAM THE UTILITY'S APPROVED RESIDENTIAL ELECTRICITY
+3 RATE FOR ANY AMOUNT OF ELECTRICITY USED BY THE CUSTOMER THAT IS
+4 ABOVE THE MINIMUM LEVEL OF ELECTRICITY.
+5 (3) (a) AS PART OF AN INVESTOR-OWNED ELECTRIC UTILITY'S FIRST
+6 RATE CASE FILED WITH THE COMMISSION ON OR AFTER JANUARY 1, 2027,
+7 THE INVESTOR-OWNED ELECTRIC UTILITY SHALL SUBMIT A PROPOSAL TO
+8 PROVIDE FARE SERVICE TO INCOME-QUALIFIED UTILITY CUSTOMERS IN
+9 THE INVESTOR-OWNED ELECTRIC UTILITY'S SERVICE TERRITORY.
+10 (b) THE FARE SERVICE PROPOSAL SUBMITTED BY AN
+11 INVESTOR-OWNED ELECTRIC UTILITY PURSUANT TO SUBSECTION (3)(a) OF
+12 THIS SECTION MUST INCLUDE:
+13 (I) THE AMOUNT OF ELECTRICITY THAT QUALIFIES AS A MINIMUM
+14 LEVEL OF ELECTRICITY FOR AN AVERAGE INCOME-QUALIFIED UTILITY
+15 CUSTOMER IN THE UTILITY'S SERVICE TERRITORY BASED ON THE AVERAGE
+16 MONTHLY USAGE BY AN INCOME-QUALIFIED UTILITY CUSTOMER TO
+17 SUPPORT THE CUSTOMER'S BASIC LIVING NEEDS;
+18 (II) A MARGINAL COST RATE ON A PER-KILOWATT-HOUR BASIS FOR
+19 DELIVERING ELECTRICITY TO AN INCOME-QUALIFIED UTILITY CUSTOMER
+20 IN THE UTILITY'S SERVICE TERRITORY; AND
+21 (III) A DESCRIPTION OF THE PROCESS BY WHICH AN
+22 INCOME-QUALIFIED UTILITY CUSTOMER MAY ENROLL IN AND RECEIVE
+23 SERVICE THROUGH THE FARE SERVICE PROGRAM OFFERED BY THE
+24 INVESTOR-OWNED ELECTRIC UTILITY.
+25 (4) (a) THE MARGINAL COST RATE INCLUDED IN A FARE SERVICE
+26 PROPOSAL MUST BE LOWER THAN THE RATE OR RATES THAT THE
+27 INCOME-QUALIFIED UTILITY CUSTOMER WOULD BE OR CURRENTLY IS
+-5- SB26-002
+
+1 SUBJECT TO UNDER THE RESIDENTIAL RATE SET FORTH IN THE
+2 INVESTOR-OWNED ELECTRIC UTILITY'S TARIFFS IN EFFECT AT THE TIME THE
+3 INCOME-QUALIFIED UTILITY CUSTOMER APPLIES TO RECEIVE THE FARE
+4 SERVICE FROM THE INVESTOR-OWNED ELECTRIC UTILITY.
+5 (b) THE MARGINAL COST RATE INCLUDED IN THE FARE SERVICE
+6 MUST BE COMPARABLE TO THE INVESTOR-OWNED ELECTRIC UTILITY'S
+7 MARGINAL COST OF PROVIDING SERVICE TO A NEW INCOME-QUALIFIED
+8 UTILITY CUSTOMER.
+9 (c) THE IMPLEMENTATION OF THE FARE SERVICE MUST NOT
+10 DIRECTLY INCREASE THE COST OF UTILITY SERVICE FOR CUSTOMERS OF
+11 THE INVESTOR-OWNED ELECTRIC UTILITY.
+12 (d) IF AN INVESTOR-OWNED ELECTRIC UTILITY INCLUDES
+13 CALCULATIONS AND ANALYSES IN THE UTILITY'S FARE SERVICE PROPOSAL
+14 THAT INDICATE THAT THE COST OF UTILITY SERVICE FOR OTHER
+15 CUSTOMERS WILL INCREASE AS A DIRECT RESULT OF THE UTILITY
+16 IMPLEMENTING THE FARE SERVICE, THE COMMISSION, IN ITS
+17 DETERMINATION OF THE UTILITY'S ANTICIPATED PROFIT FOR THE RATE
+18 CASE PERIOD, SHALL CALCULATE THAT ANTICIPATED PROFIT BASED ON AN
+19 ANTICIPATED PROFIT AMOUNT REDUCED BY THE DOCUMENTED
+20 COST-OF-SERVICE IMPACT ON OTHER CUSTOMERS RESULTING FROM THE
+21 IMPLEMENTATION OF THE UTILITY'S FARE SERVICE.
+22 (5) THE COMMISSION SHALL APPROVE A FARE SERVICE PROPOSAL
+23 SUBMITTED IN COMPLIANCE WITH SUBSECTIONS (3) AND (4) OF THIS
+24 SECTION IF THE COMMISSION DETERMINES THAT THE PROPOSAL IS IN THE
+25 PUBLIC INTEREST.
+26 (6) (a) THE COMMISSION MAY APPROVE AN INVESTOR-OWNED
+27 ELECTRIC UTILITY'S FARE SERVICE PROPOSAL AND SET A MINIMUM AND
+-6- SB26-002
+
+1 MAXIMUM AMOUNT FOR THE MARGINAL COST RATE THAT IS CONSISTENT
+2 WITH THE REQUIREMENTS OF SUBSECTIONS (2), (3), AND (4) OF THIS
+3 SECTION.
+4 (b) THE COMMISSION MAY ADOPT ANY RULES NECESSARY TO
+5 IMPLEMENT THIS SECTION.
+6 (7) RATES CHARGED TO INCOME-QUALIFIED UTILITY CUSTOMERS
+7 UNDER AN INVESTOR-OWNED ELECTRIC UTILITY'S APPROVED FARE
+8 SERVICE SHALL NOT BE DEEMED UNFAIR, UNJUST, OR DISCRIMINATORY IN
+9 VIOLATION OF SECTION 40-3-101 (1).
+10 SECTION 3. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-7- SB26-002

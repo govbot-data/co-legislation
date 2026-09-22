@@ -1,0 +1,409 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0121.01 Shelby Ross x4510 HOUSE BILL 26-1063
+HOUSE SPONSORSHIP
+Bradfield and Rydin, Jackson
+SENATE SPONSORSHIP
+Amabile and Michaelson Jenet,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING TREATING INDIVIDUALS WITH A BEHAVIORAL HEALTH
+102 DISORDER, AND, IN CONNECTION THEREWITH, REIMBURSING
+103 LICENSED PROVIDERS WHO ADMINISTER MEDICATION-ASSISTED
+104 TREATMENT AND PROVIDING PROTECTIONS RELATED TO SECURE
+105 TRANSPORTATION FOR PERSONS EXPERIENCING A BEHAVIORAL
+106 HEALTH CRISIS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Legislative Oversight Committee Concerning the Treatment
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+of Persons with Behavioral Health Disorders in the Criminal and
+Juvenile Justice Systems. Current law requires the department of health
+care policy and financing to provide medicaid reimbursement to opioid
+treatment programs for administering medication-assisted treatment
+(MAT) in a jail setting. Section 1 of the bill expands medicaid
+reimbursement to include licensed providers who administer MAT in a
+jail setting.
+Current law excludes personnel employed by or contracted with a
+law enforcement agency from the definition of "secure transportation".
+Section 2 removes this exclusion to allow entities that contract with law
+enforcement agencies to provide secure transportation.
+Sections 3 and 4 transfer the licensing authority for secure
+transportation providers from the counties to the department of public
+health and environment beginning January 1, 2027.
+Sections 6 through 10 make changes to the secure transportation
+requirements and petition filing requirements related to emergency mental
+health holds and short-term and long-term certifications, including:
+! Expanding the transportation provider types that may be
+contacted for assistance in detaining and transporting a
+person to a facility for an emergency mental health hold to
+include a behavioral health crisis response team, a private
+ambulance service provider, a private emergency medical
+services provider, and a secure transportation provider;
+! Requiring a certified peace officer to advise the person
+being taken into protective custody that the person is not
+under arrest and has not committed a crime;
+! Requiring the petition for a court-ordered evaluation to
+include any known history of the respondent's history of
+assault or possession of weapons and whether the
+respondent has a prior history of an emergency mental
+health hold or short-term or long-term certification; and
+! Creating a right for a person detained for an emergency
+mental health hold to not be transported by a certified
+peace officer if an alternative secure transportation option
+is available.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 25.5-4-505.5, amend
+3 (5) as follows:
+4 25.5-4-505.5. Federal authorization related to persons involved
+5 in the criminal justice system - report - rules - legislative declaration.
+-2- HB26-1063
+
+1 (5) (a) The state department shall only reimburse an opioid
+2 treatment program, as defined in section 27-80-203, A PROVIDER
+3 LICENSED AND AUTHORIZED TO PRESCRIBE, DISPENSE, COMPOUND, OR
+4 ADMINISTER MEDICATION-ASSISTED TREATMENT for administering
+5 medication-assisted treatment in a jail setting. At a minimum, an opioid
+6 treatment program that administers medication-assisted treatment shall:
+7 (I) Employ a physician medical director;
+8 (II) Ensure the individual receiving medication-assisted treatment
+9 undergoes a minimum observation period after receiving
+10 medication-assisted treatment as determined by behavioral health
+11 administration rule pursuant to section 27-80-204; and
+12 (III) Meet all critical incident reporting requirements as
+13 determined by behavioral health administration rule pursuant to section
+14 27-80-204.
+15 (b) The state department shall ensure as part of the state
+16 department's quality oversight that opioid treatment programs that
+17 LICENSED PROVIDERS WHO administer medication-assisted treatment in a
+18 jail setting maintain emergency policies and procedures that address
+19 adverse outcomes.
+20 SECTION 2. In Colorado Revised Statutes, 25-3.5-103, amend
+21 (11.4)(c) as follows:
+22 25-3.5-103. Definitions.
+23 As used in this article 3.5, unless the context otherwise requires:
+24 (11.4) (c) "Secure transportation" does not include urgent
+25 transportation services provided by law enforcement or personnel
+26 employed by or contracted with a law enforcement agency to individuals
+27 experiencing a behavioral health crisis; except that any member of a
+-3- HB26-1063
+
+1 co-responder team who is not law enforcement or personnel employed by
+2 or contracted with a law enforcement agency and who holds a valid
+3 license for secure transportation by the county in which the secure
+4 transportation originates, in a vehicle with a valid permit issued by the
+5 county in which the secure transportation originates, and which meets the
+6 minimum requirements for secure transportation established by rule
+7 pursuant to section 25-3.5-311 may provide urgent secure transportation
+8 services.
+9 SECTION 3. In Colorado Revised Statutes, 25-3.5-309, amend
+10 (1)(a) as follows:
+11 25-3.5-309. Secure transportation - license required - fees -
+12 exceptions.
+13 (1) (a) After January 1, 2023 JANUARY 1, 2027, an entity shall not
+14 provide public or private secure transportation services, as defined in
+15 section 25-3.5-103 (11.4), in this state unless that THE entity holds a valid
+16 license issued by the board of county commissioners of the county
+17 DEPARTMENT AND THE ENTITY HAS OBTAINED AUTHORIZATION TO
+18 OPERATE FROM THE LOCAL LICENSING AUTHORITY FOR THE COUNTY OR
+19 CITY AND COUNTY in which the secure transportation service is based;
+20 except that entities described in subsection (2) of this section may provide
+21 secure transportation services.
+22 SECTION 4. In Colorado Revised Statutes, 25-3.5-310, amend
+23 (1) and (2) as follows:
+24 25-3.5-310. Secure transportation - issuance of licenses and
+25 permits - term - requirements.
+26 (1) (a) After receipt of an original application for a license to
+27 provide public or private secure transportation services, the board of
+-4- HB26-1063
+
+1 county commissioners of the county in which the secure transportation
+2 service is based DEPARTMENT shall review the application, the applicant's
+3 record, and the applicant's equipment, as well as the applicant's training
+4 and operating procedures. In order to be approved for a license, the
+5 applicant must provide evidence that the applicant's equipment and
+6 training and operating procedures meet or exceed the minimum
+7 requirements established by the state board of health pursuant to section
+8 25-3.5-311. The board of county commissioners of any county may
+9 impose, by resolution, additional requirements for secure transportation
+10 that is based in that county.
+11 (b) If an applicant is approved pursuant to subsection (1)(a) of this
+12 section, the board of county commissioners of the county in which the
+13 secure transportation service is based DEPARTMENT shall issue a license,
+14 valid for three years, to the applicant to provide secure transportation
+15 services. The board of county commissioners of the county in which the
+16 secure transportation service is based shall also issue a permit, valid for
+17 twelve months after the date of issuance, for each vehicle used by the
+18 licensee if the vehicles and equipment meet or exceed the minimum
+19 requirements established by the state board of health pursuant to section
+20 25-3.5-311.
+21 (2) Any license or permit issued pursuant to this section, unless
+22 revoked by the DEPARTMENT OR board of county commissioners of the
+23 county in which the secure transportation service is based, may be
+24 renewed by filing an application, as applicable for an original license or
+25 permit. Applications for permit renewal must be filed annually, but not
+26 less than thirty days before the date the permit expires.
+27 SECTION 5. In Colorado Revised Statutes, 27-65-102, add
+-5- HB26-1063
+
+1 (30.5) as follows:
+2 27-65-102. Definitions.
+3 As used in this article 65, unless the context otherwise requires:
+4 (30.5) "SECURE TRANSPORT PERSONNEL" MEANS THE FOLLOWING
+5 PERSONNEL IN ORDER OF PRIORITY:
+6 (a) A SECURE TRANSPORTATION PROVIDER;
+7 (b) A BEHAVIORAL HEALTH CRISIS RESPONSE TEAM;
+8 (c) A PRIVATE AMBULANCE PROVIDER; OR
+9 (d) A PRIVATE EMERGENCY MEDICAL SERVICES PROVIDER.
+10 SECTION 6. In Colorado Revised Statutes, 27-65-106, amend
+11 (1)(a), (2), (4)(a)(III), (4)(a)(IV), (4)(a)(V), (4)(d), (10)(a)(XVI), and
+12 (10)(a)(XVII); and add (4)(a)(VI), (8)(f), and (10)(a)(XVIII) as follows:
+13 27-65-106. Emergency mental health hold - screening -
+14 court-ordered evaluation - discharge instructions - respondent's
+15 rights.
+16 (1) An emergency mental health hold may be invoked under one
+17 of the following conditions:
+18 (a) (I) When a certified peace officer has probable cause to
+19 believe a person has a mental health disorder and, as a result of the mental
+20 health disorder, is an imminent danger to the person's self or others or is
+21 gravely disabled, the certified peace officer may take the person into
+22 protective custody and transport the person to a facility designated by the
+23 commissioner for an emergency mental health hold. If such a facility is
+24 not available, the certified peace officer may transport the person to an
+25 emergency medical services facility. TO THE EXTENT POSSIBLE, THE
+26 CERTIFIED PEACE OFFICER SHALL ADVISE THE PERSON THAT THE PEACE
+27 OFFICER IS TAKING THE PERSON INTO PROTECTIVE CUSTODY AND
+-6- HB26-1063
+
+1 TRANSPORTING THE PERSON TO A FACILITY FOR AN EMERGENCY MENTAL
+2 HEALTH HOLD AND THAT THE PERSON IS NOT UNDER ARREST AND HAS NOT
+3 COMMITTED A CRIME. The certified peace officer may request assistance
+4 from a behavioral health crisis response team for assistance in detaining
+5 and transporting the person or an emergency medical services provider in
+6 transporting the person; or SECURE TRANSPORT PERSONNEL FOR
+7 ASSISTANCE IN TRANSPORTING THE PERSON.
+8 (II) When an intervening professional reasonably believes that a
+9 person appears to have a mental health disorder and, as a result of the
+10 mental health disorder, appears to be an imminent danger to the person's
+11 self or others or appears to be gravely disabled, the intervening
+12 professional may cause the person to be taken into protective custody and
+13 transported to a facility designated by the commissioner for an emergency
+14 mental health hold. If such a facility is not available, the certified peace
+15 officer may transport the person to an emergency medical services
+16 facility. IF REASONABLE, the intervening professional may SHALL request
+17 assistance from a certified peace officer, a secure transportation provider,
+18 or a behavioral health crisis response team SECURE TRANSPORT
+19 PERSONNEL for assistance in detaining and transporting the person. or
+20 assistance from an emergency medical services provider in transporting
+21 the person. IF THE INTERVENING PROFESSIONAL DETERMINES THAT
+22 TRANSPORTATION BY A CERTIFIED PEACE OFFICER IS REQUIRED, THE
+23 INTERVENING PROFESSIONAL SHALL REQUEST TRANSPORTATION
+24 ASSISTANCE FROM A PEACE OFFICER AND DOCUMENT AND ARTICULATE
+25 THE REASONING FOR THE DETERMINATION. IF SUCH A FACILITY IS NOT
+26 AVAILABLE, THE CERTIFIED PEACE OFFICER MAY TRANSPORT THE PERSON
+27 TO AN EMERGENCY MEDICAL SERVICES FACILITY.
+-7- HB26-1063
+
+1 (2) When a person is taken into custody pursuant to subsection (1)
+2 of this section, the person must not be detained in a jail, lockup, or other
+3 place used for the confinement of persons charged with or convicted of
+4 penal offenses. Unless otherwise required by law, a certified peace officer
+5 may transport the person to an emergency medical services facility or
+6 facility designated by the commissioner even if a warrant has been issued
+7 for the person's arrest if the certified peace officer believes it is in the best
+8 interest of the person. The person must not be held on an emergency
+9 mental health hold for longer than seventy-two hours after the hold is
+10 placed or ordered. Nothing in this section prohibits an emergency medical
+11 services facility OR AN AMBULANCE SERVICE PROVIDER from involuntarily
+12 holding the person in order to stabilize the person as required pursuant to
+13 the federal "Emergency Medical Treatment and Labor Act", 42 U.S.C.
+14 sec. 1395dd, or if the treating professional determines that the individual's
+15 physical or mental health disorder impairs the person's ability to make an
+16 informed decision to refuse care and the provider determines that further
+17 care is indicated.
+18 (4) (a) The petition for a court-ordered evaluation filed pursuant
+19 to subsection (1)(b) of this section must contain the following:
+20 (III) Allegations of fact indicating that the respondent may have
+21 a mental health disorder and, as a result of the mental health disorder, be
+22 a danger to the respondent's self or others or be gravely disabled and
+23 showing reasonable grounds to warrant an evaluation, INCLUDING ANY
+24 KNOWN HISTORY OF ASSAULT OR POSSESSION OF WEAPONS;
+25 (IV) The name and address of every person known or believed by
+26 the petitioner to be legally responsible for the care, support, and
+27 maintenance of the respondent, if available; and
+-8- HB26-1063
+
+1 (V) The name, address, and telephone number of the attorney, if
+2 any, who has most recently represented the respondent; AND
+3 (VI) THE RESPONDENT'S PRIOR HISTORY OF AN EMERGENCY
+4 MENTAL HEALTH HOLD OR SHORT-TERM OR LONG-TERM CERTIFICATION,
+5 IF KNOWN.
+6 (d) Whenever it appears, by petition and screening pursuant to this
+7 section, to the satisfaction of the court that probable cause exists to
+8 believe that the respondent has a mental health disorder and, as a result
+9 of the mental health disorder, is a danger to the respondent's self or others
+10 or is gravely disabled and that efforts have been made to secure the
+11 cooperation of the respondent but the respondent has refused or failed to
+12 accept evaluation voluntarily, the court shall issue an order for evaluation
+13 authorizing a certified peace officer or secure transportation provider to
+14 take the respondent into custody and SECURE TRANSPORT PERSONNEL TO
+15 transport the respondent to a facility designated by the commissioner for
+16 an emergency mental health hold. IF THE COURT DETERMINES THAT
+17 SECURE TRANSPORT PERSONNEL ARE NOT AVAILABLE TO TRANSPORT THE
+18 RESPONDENT TO A DESIGNATED FACILITY, THE COURT MAY ORDER A
+19 CERTIFIED PEACE OFFICER TO TAKE THE RESPONDENT INTO CUSTODY AND
+20 TRANSPORT THE RESPONDENT TO THE DESIGNATED FACILITY. A COPY OF
+21 THE PETITION AND ORDER FOR EVALUATION MUST BE GIVEN TO THE
+22 SECURE TRANSPORT PERSONNEL OR CERTIFIED PEACE OFFICER AS SOON AS
+23 POSSIBLE BUT NO LATER THAN TWENTY-FOUR HOURS AFTER THE ORDER IS
+24 ISSUED. At the time the respondent is taken into custody, a copy of the
+25 petition and the order for evaluation must be given to the respondent and
+26 promptly thereafter to the one lay person designated by the respondent
+27 and to the person in charge of the facility named in the order or the
+-9- HB26-1063
+
+1 respondent's designee. If the respondent refuses to accept a copy of the
+2 petition and the order for evaluation, such refusal must be documented in
+3 the petition and the order for evaluation.
+4 (8) (f) THE FACILITY MAY DISCLOSE THE DISPOSITION OF THE
+5 PERSON DETAINED FOR AN EMERGENCY MENTAL HEALTH HOLD TO LAW
+6 ENFORCEMENT.
+7 (10) (a) A person detained for an emergency mental health hold
+8 pursuant to this section has the following rights:
+9 (XVI) To have personal privacy to the extent possible during the
+10 course of treatment; and
+11 (XVII) To have the ability to meet with visitors in accordance
+12 with the facility's current visitor guidelines; AND
+13 (XVIII) TO NOT BE TRANSPORTED BY A CERTIFIED PEACE OFFICER
+14 IF AN ALTERNATIVE SECURE TRANSPORTATION OPTION IS AVAILABLE.
+15 SECTION 7. In Colorado Revised Statutes, 27-65-107, amend
+16 (2) as follows:
+17 27-65-107. Emergency transportation - application - screening
+18 - respondent's rights.
+19 (2) When a person is transported against the person's will pursuant
+20 to subsection (1) of this section, the facility shall require an application,
+21 in writing, stating the circumstances under which the person's condition
+22 was called to the attention of the certified peace officer or emergency
+23 medical services provider and further stating sufficient facts, obtained
+24 from personal observations or obtained from others whom the certified
+25 peace officer or emergency medical services provider reasonably believes
+26 to be reliable, to establish that the person is experiencing a behavioral
+27 health crisis or is gravely disabled and, as a result, it is believed that
+-10- HB26-1063
+
+1 without professional intervention the person may be a danger to the
+2 person's self or others. The application must indicate the name of the
+3 person, and the time the person was transported, AND, IF APPLICABLE, THE
+4 REASON WHY AN ALTERNATIVE TO A CERTIFIED PEACE OFFICER WAS NOT
+5 USED WHEN TRANSPORTING THE PERSON. A copy of the application must
+6 be furnished to the person being transported.
+7 SECTION 8. In Colorado Revised Statutes, 27-65-109, amend
+8 (8) as follows:
+9 27-65-109. Certification for short-term treatment - procedure.
+10 (8) Whenever it appears to the court, by reason of a report by the
+11 treating professional person or the BHA or any other report satisfactory
+12 to the court, that a respondent detained for evaluation and treatment or
+13 certified for short-term treatment should be transferred to another facility
+14 for treatment and the safety of the respondent or the public requires that
+15 the respondent be transported by a secure transportation provider, or a law
+16 enforcement agency, the court may issue an order directing the law
+17 enforcement agency where the respondent resides or A secure
+18 transportation provider to deliver the respondent to the designated facility.
+19 IF THE COURT DETERMINES THAT A SECURE TRANSPORTATION PROVIDER
+20 IS NOT AVAILABLE TO TRANSPORT THE RESPONDENT TO THE DESIGNATED
+21 FACILITY, THE COURT MAY ISSUE AN ORDER DIRECTING THE LAW
+22 ENFORCEMENT AGENCY WHERE THE RESPONDENT RESIDES TO TRANSPORT
+23 THE RESPONDENT TO THE DESIGNATED FACILITY.
+24 SECTION 9. In Colorado Revised Statutes, 27-65-110, amend
+25 (6) as follows:
+26 27-65-110. Long-term care and treatment of persons with
+27 mental health disorders - procedure.
+-11- HB26-1063
+
+1 (6) A respondent certified for long-term care and treatment may
+2 be discharged from the facility upon the signature of the treating
+3 professional person and medical director of the facility, and the facility
+4 shall notify the BHA prior to the respondent's discharge. The facility shall
+5 make the respondent's discharge instructions available to the respondent,
+6 the respondent's attorney, the respondent's lay person, and the
+7 respondent's legal guardian, if applicable, within one week after
+8 discharge, if requested. A facility that is transferring a respondent to a
+9 different facility or to an outpatient program shall provide all treatment
+10 records to the facility or provider accepting the respondent at least
+11 twenty-four hours prior to the transfer. IF THE TREATING PROFESSIONAL
+12 OR MEDICAL DIRECTOR OF THE FACILITY DETERMINES THE SAFETY OF THE
+13 RESPONDENT REQUIRES THAT THE RESPONDENT BE TRANSPORTED BY A
+14 SECURE TRANSPORTATION PROVIDER, THE FACILITY SHALL ATTEMPT TO
+15 UTILIZE ANY AVAILABLE TRANSPORTATION PROVIDER PRIOR TO
+16 REQUESTING TRANSPORTATION BY A LAW ENFORCEMENT AGENCY.
+17 SECTION 10. In Colorado Revised Statutes, 27-65-111, amend
+18 (3), (6)(i), and (6)(j); and add (6)(k) as follows:
+19 27-65-111. Certification on an outpatient basis - short-term
+20 and long-term care.
+21 (3) The facility responsible for providing services to a respondent
+22 on a certification on an outpatient basis shall proactively reach out to the
+23 respondent to engage the respondent in treatment. If the respondent
+24 refuses treatment or court-ordered medication and is decompensating
+25 psychiatrically AND THE COURT DETERMINES THAT AN ALTERNATIVE TO
+26 LAW ENFORCEMENT FOR SECURE TRANSPORTATION DOES NOT EXIST OR IS
+27 NOT AVAILABLE WITHIN A REASONABLE AMOUNT OF TIME, the court may
+-12- HB26-1063
+
+1 order a certified peace officer or secure transportation provider to
+2 transport the respondent to an appropriate, least restrictive designated
+3 facility in collaboration with the BHA and the provider holding the
+4 certification. The respondent does not need to be imminently dangerous
+5 to the respondent's self or others for the provider to request, and the court
+6 to order, transportation to a facility for the respondent to receive treatment
+7 and court-ordered medications. The facility responsible for providing
+8 services to a respondent on a certification on an outpatient basis shall
+9 provide the court information on the facility's proactive outreach to the
+10 respondent and the professional person's and psychiatric advanced
+11 practice registered nurse's basis for medical opinion, AND WHAT
+12 ALTERNATIVES TO LAW ENFORCEMENT FOR SECURE TRANSPORTATION
+13 EXIST. IF A CERTIFIED PEACE OFFICER IS ORDERED TO TAKE THE
+14 RESPONDENT INTO CUSTODY AND TRANSPORT THE RESPONDENT, THE
+15 COURT SHALL NOTIFY THE CERTIFIED PEACE OFFICER OF ANY KNOWN PRIOR
+16 HISTORY OF AN EMERGENCY MENTAL HEALTH HOLD OR SHORT-TERM OR
+17 LONG-TERM CERTIFICATION, OR ANY KNOWN PRIOR HISTORY RELATED TO
+18 ASSAULT OR POSSESSION OF A WEAPON.
+19 (6) A respondent subject to a short-term or long-term certification
+20 on an outpatient basis has the following rights, in addition to those
+21 enumerated in section 27-65-119:
+22 (i) To have access to a representative within the facility who
+23 provides assistance to file a grievance; and
+24 (j) To have the right to file a motion with the court at any time to
+25 contest the certification; AND
+26 (k) TO NOT BE TRANSPORTED BY A CERTIFIED PEACE OFFICER IF AN
+27 ALTERNATIVE SECURE TRANSPORTATION OPTION IS AVAILABLE.
+-13- HB26-1063
+
+1 SECTION 11. Act subject to petition - effective date. This act
+2 takes effect at 12:01 a.m. on the day following the expiration of the
+3 ninety-day period after final adjournment of the general assembly (August
+4 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+5 referendum petition is filed pursuant to section 1 (3) of article V of the
+6 state constitution against this act or an item, section, or part of this act
+7 within such period, then the act, item, section, or part will not take effect
+8 unless approved by the people at the general election to be held in
+9 November 2026 and, in such case, will take effect on the date of the
+10 official declaration of the vote thereon by the governor.
+-14- HB26-1063

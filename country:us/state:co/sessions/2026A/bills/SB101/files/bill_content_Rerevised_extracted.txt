@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0285.01 Clare Haffner x6137 SENATE BILL 26-101
+Senate Committees House Committees
+Transportation & Energy Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ASSIST LOCAL GOVERNMENTS IN
+102 COMPLYING WITH LANDFILL METHANE EMISSION REDUCTION
+103 REGULATIONS ADOPTED BY THE AIR QUALITY CONTROL
+104 COMMISSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the air quality control commission
+(commission) in the department of public health and environment is
+directed to adopt emission control regulations for significant sources of
+ESUOH
+ESUOH
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,03
+lirpA
+6202
+,92
+lirpA
+6202
+,02
+lirpA
+6202
+,71
+lirpA
+SENATE SPONSORSHIP
+Pelton B. and Roberts, Ball, Benavidez, Catlin, Coleman, Jodeh, Kirkmeyer, Simpson,
+Snyder
+HOUSE SPONSORSHIP
+Richardson and Lukens, Barron, Boesenecker, Caldwell, Duran, English, Flanell,
+Froelich, Hamrick, Jackson, Johnson, Keltie, McCluskie, McCormick, Nguyen, Ricks,
+Rutinel, Rydin, Smith, Soper, Stewart K., Velasco, Weinberg, Winter T., Woog
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+air pollutants. A solid waste landfill (landfill) is a significant source of air
+pollutants such as methane.
+The bill:
+! Allows a county to utilize money from the community
+impact cash fund, air quality enterprise cash fund, and local
+government mineral impact fund for the purpose of
+complying with landfill methane emission reduction
+requirements adopted by the commission;
+! Requires the air quality enterprise to research best practices
+for reducing methane emissions from landfills;
+! Requires the commission to consider debt service
+availability when developing schedules of compliance for
+landfills;
+! Requires the commission to establish a process for an
+owner or operator of a landfill to request a waiver from
+methane emission reduction requirements;
+! States that a landfill that reaches or exceeds applicable
+methane emission limits on or after the effective date of the
+bill is not subject to methane emission reduction
+requirements until 2 years after the landfill reaches or
+exceeds applicable methane emission limits; and
+! Exempts a local government from paying a noncompliance
+penalty for failure to comply with requirements to reduce
+methane emissions from landfills if the local government
+demonstrates that the failure to comply is due solely to a
+financial inability to comply.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) On December 18, 2025, the air quality control commission in
+5 the department of public health and environment adopted Regulation
+6 Number 31, "Control of Methane Emissions from Municipal Solid Waste
+7 Landfills", 5 CCR 1001-35, to reduce methane emissions and other air
+8 pollutants from municipal solid waste landfills;
+9 (b) Regulation Number 31 requires certain municipal solid waste
+10 landfills to reduce methane emissions through the installation and
+-2- 101
+
+1 operation of gas collection and control systems and improved monitoring
+2 and gas management, thereby supporting cleaner air and lowering
+3 greenhouse gas emissions; and
+4 (c) Compliance with Regulation Number 31 may impose a
+5 financial burden on some entities that own or operate municipal solid
+6 waste landfills.
+7 (2) The general assembly further finds and declares that:
+8 (a) The community impact cash fund was created in section
+9 25-7-129, Colorado Revised Statutes, to provide financial assistance for
+10 environmental mitigation projects through the environmental justice grant
+11 program using air quality-related penalty revenue. The community impact
+12 cash fund is an existing source of state financial assistance intended to
+13 address impacts of air and water quality to local disproportionately
+14 impacted communities and infrastructures.
+15 (b) The local government mineral impact fund, created in section
+16 34-63-102 (5), Colorado Revised Statutes, consists of money that is
+17 distributed by the executive director of the department of local affairs to
+18 counties, federal mineral lease districts, and municipalities in accordance
+19 with guidelines established by the executive director in consultation with
+20 the energy impact assistance advisory committee;
+21 (c) It is the intent of the general assembly that money in the
+22 community impact cash fund and local government mineral impact fund
+23 may be used to assist entities in complying with Regulation Number 31;
+24 (d) In determining any financial assistance for municipal solid
+25 waste landfill methane emission reduction projects, priority should be
+26 given to municipal solid waste landfills that are owned or operated by
+27 local governments in recognition of local governments' limited access to
+-3- 101
+
+1 private capital; and
+2 (e) Clarifying the availability and prioritization of these funding
+3 sources will support timely compliance with Regulation Number 31,
+4 protect public health, and reduce greenhouse gas emissions.
+5 SECTION 2. In Colorado Revised Statutes, 25-7-129, add (3)(g)
+6 as follows:
+7 25-7-129. Disposition of fines - community impact cash fund
+8 - repeal.
+9 (3) (g) (I) PURSUANT TO THE DEPARTMENT OF PUBLIC HEALTH AND
+10 ENVIRONMENT'S AUTHORITY TO EXPEND MONEY FROM THE FUND TO
+11 PROVIDE GRANTS FOR ENVIRONMENTAL MITIGATION PROJECTS IN
+12 DISPROPORTIONATELY IMPACTED COMMUNITIES PURSUANT TO SECTION
+13 25-1-134 (2)(g)(VII), THE DEPARTMENT MAY EXPEND MONEY FROM THE
+14 FUND TO PROVIDE GRANTS FOR MUNICIPAL SOLID WASTE LANDFILL
+15 METHANE EMISSION REDUCTION PROJECTS THAT ARE CONDUCTED IN
+16 ACCORDANCE WITH RULES ADOPTED BY THE COMMISSION UNDER THIS
+17 ARTICLE 7 AND THAT QUALIFY AS ENVIRONMENTAL MITIGATION PROJECTS,
+18 AS DEFINED IN SECTION 25-1-134 (4)(b).
+19 (II) THE ENVIRONMENTAL JUSTICE ADVISORY BOARD, CREATED IN
+20 SECTION 25-1-134 (2)(a), SHALL PRIORITIZE A GRANT REQUEST FOR THE
+21 PURPOSE OF COMPLYING WITH MUNICIPAL SOLID WASTE LANDFILL
+22 METHANE EMISSION REDUCTION REQUIREMENTS FROM A LOCAL
+23 GOVERNMENT THAT OWNS OR OPERATES A MUNICIPAL SOLID WASTE
+24 LANDFILL OVER A GRANT REQUEST FROM A PRIVATE ENTITY THAT OWNS
+25 OR OPERATES A MUNICIPAL SOLID WASTE LANDFILL.
+26 (III) AN ENTITY SHALL USE MONEY EXPENDED BY THE
+27 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT PURSUANT TO
+-4- 101
+
+1 SUBSECTION (3)(g)(I) OF THIS SECTION AS SUPPLEMENTAL FUNDING ONLY
+2 AND NOT AS THE EXCLUSIVE SOURCE OF FUNDING FOR COMPLIANCE WITH
+3 MUNICIPAL SOLID WASTE LANDFILL METHANE EMISSION REDUCTION
+4 REQUIREMENTS. WITH THE EXCEPTION OF SUPPLEMENTAL FUNDING
+5 GRANTS FOR ENVIRONMENTAL MITIGATION PROJECTS PROVIDED PURSUANT
+6 TO SUBSECTION (3)(g)(I) OF THIS SECTION, NOTHING IN THIS SUBSECTION
+7 (3)(g) RELIEVES AN ENTITY OF THE RESPONSIBILITY TO OTHERWISE ENSURE
+8 ADEQUATE FUNDING FOR MUNICIPAL SOLID WASTE LANDFILL METHANE
+9 EMISSION REDUCTION PROJECTS IN COMPLIANCE WITH APPLICABLE
+10 COMMISSION RULES.
+11 SECTION 3. In Colorado Revised Statutes, 24-4-109, amend
+12 (2)(b)(II) introductory portion as follows:
+13 24-4-109. State engagement of disproportionately impacted
+14 communities - definitions.
+15 (2) Definitions.
+16 (b) As used in this section and sections 25-1-134 and 25-7-105
+17 (1)(e), unless the context otherwise requires:
+18 (II) "Disproportionately impacted community" means a
+19 community that is described in subsection (2)(b)(II)(G) or (2)(b)(II)(H)
+20 of this section or that is in a census block group, as determined in
+21 accordance with the most recent five-year United States bureau of the
+22 census American community survey FIVE-YEAR UNITED STATES BUREAU
+23 OF THE CENSUS AMERICAN COMMUNITY SURVEY RELEASED NO LATER
+24 THAN THREE YEARS PRIOR and meets one or more of the following
+25 criteria:
+26 SECTION 4. Act subject to petition - effective date -
+27 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+-5- 101
+
+1 the expiration of the ninety-day period after final adjournment of the
+2 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+3 2026); except that, if a referendum petition is filed pursuant to section 1
+4 (3) of article V of the state constitution against this act or an item, section,
+5 or part of this act within such period, then the act, item, section, or part
+6 will not take effect unless approved by the people at the general election
+7 to be held in November 2026 and, in such case, will take effect on the
+8 date of the official declaration of the vote thereon by the governor.
+9 (2) This act applies to conduct occurring on or after the applicable
+10 effective date of this act.
+-6- 101

@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0915.01 Sarah Lozano x3858 HOUSE BILL 26-1346
+HOUSE SPONSORSHIP
+Titone and Woodrow,
+SENATE SPONSORSHIP
+Kipp,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING ALLOWING THE DEPARTMENT OF THE TREASURY TO SELL
+102 UNSOLD INSURANCE PREMIUM TAX CREDITS TO ENTITIES THAT
+103 ARE NOT INSURANCE COMPANIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+House Bill 25B-1004, enacted in 2025, authorized the department
+of the treasury (department) to sell insurance premium tax credits (tax
+credits) to insurance companies that incur state premium tax liability. The
+bill allows the department, following the department's application process
+for insurance companies to purchase tax credits from the department, to
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+sell tax credits to other entities that contract with the department. An
+entity that contracts with the department to purchase tax credits may
+transfer the tax credits once to an insurance company. The insurance
+company is not permitted to further transfer the tax credits following the
+transfer to the insurance company.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-36-402, amend
+3 (4) as follows:
+4 24-36-402. Definitions.
+5 As used in this part 4, unless the context otherwise requires:
+6 (4) (a) "Qualified taxpayer" means:
+7 (I) An insurance company authorized to do business in Colorado
+8 that has premium tax liability owing to the state and that purchases a tax
+9 credit under this part 4; OR
+10 (II) AN ENTITY, OTHER THAN AN INSURANCE COMPANY,
+11 AUTHORIZED TO DO BUSINESS IN COLORADO THAT CONTRACTS WITH THE
+12 DEPARTMENT TO PURCHASE A TAX CREDIT THAT REMAINS UNSOLD
+13 FOLLOWING THE APPLICATION PROCESS FOR INSURANCE COMPANIES
+14 CONDUCTED BY THE DEPARTMENT PURSUANT TO SECTION 24-36-403.
+15 (b) "Qualified taxpayer" also includes an insurance company that
+16 receives or assumes a tax credit transferred in accordance with section
+17 24-36-403 (7)(e) or 24-36-404 (5).
+18 SECTION 2. In Colorado Revised Statutes, 24-36-404, amend
+19 (5) as follows:
+20 24-36-404. Use of insurance premium tax credits - carry over.
+21 (5) (a) If a qualified taxpayer holding an unclaimed tax credit is
+22 part of a merger, acquisition, or line of business divestiture transaction,
+23 the tax credit may be transferred to and assumed by the resulting entity if
+-2- HB26-1346
+
+1 the resulting entity is an insurance company authorized to do business in
+2 Colorado that has premium tax liability.
+3 (b) AN UNCLAIMED TAX CREDIT PURCHASED BY A QUALIFIED
+4 TAXPAYER DESCRIBED IN SECTION 24-36-402 (4)(a)(II) MAY BE
+5 TRANSFERRED ONCE TO AN INSURANCE COMPANY AUTHORIZED TO DO
+6 BUSINESS IN COLORADO THAT HAS PREMIUM TAX LIABILITY, WHICH
+7 INSURANCE COMPANY SHALL NOT TRANSFER THE TAX CREDIT EXCEPT IN
+8 ACCORDANCE WITH SUBSECTION (5)(a) OF THIS SECTION OR SECTION
+9 24-36-403 (7)(e).
+10 (c) The qualified taxpayer that originally purchased the credit and
+11 the resulting entity OR INSURANCE COMPANY TRANSFEREE, AS APPLICABLE,
+12 shall notify the department in writing of the transfer or assumption of the
+13 credit in accordance with procedures adopted by the department. The
+14 transfer or assumption of the tax credit does not affect the time schedule
+15 for claiming the tax credit as provided in this section.
+16 SECTION 3. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-3- HB26-1346

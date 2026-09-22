@@ -1,0 +1,346 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0073.01 Jennifer Berman x3286 SENATE BILL 26-062
+SENATE SPONSORSHIP
+Cutter and Kipp,
+HOUSE SPONSORSHIP
+Velasco,
+Senate Committees House Committees
+Agriculture & Natural Resources
+A BILL FOR AN ACT
+101 CONCERNING CERTAIN RODENT CONTROL PRODUCTS IN THE STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits a person from selling, distributing, applying, or
+using certain types of rodenticide and rodent glue traps in the state except
+as authorized for restricted and limited use in a public health emergency
+and in accordance with certain use requirements and time periods.
+A person conducting professional rodent control services in the
+state is required to prioritize integrated pest management strategies, which
+involve implementing a combination of nonchemical rodent control
+measures.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) The use of certain rodenticides, including bromethalin, zinc
+5 phosphide, and first- and second-generation anticoagulants known
+6 broadly as "anticoagulant rodenticides" or "ARs", as well as glue traps,
+7 pose an unacceptable risk to human health, particularly to the health of
+8 children 5 years old and younger;
+9 (b) From 2008 to 2015, the United States environmental
+10 protection agency implemented a series of actions that effectively
+11 removed second-generation ARs from consumer markets, beginning with
+12 a 2008 risk-management decision and concluding with a 2015 phaseout
+13 of remaining retail products;
+14 (c) Despite the environmental protection agency's actions, online
+15 availability of second-generation ARs persists. Statistics from America's
+16 Poison Centers indicate that, of approximately 3,100 annually reported
+17 poisonings of humans nationwide by ARs from 2019 to 2023, children 5
+18 years old and younger account for 70% of the exposures.
+19 (d) Between 2019 and 2023, a total of 15,500 human exposures
+20 to ARs were reported nationally. These incidents often require emergency
+21 medical intervention and may pose long-term developmental risks to
+22 those exposed. Yet, ARs remain frequently deployed in residential and
+23 community settings, where children are most vulnerable to their ingestion.
+24 (e) Between 2020 and 2024, Colorado residents reported 762
+25 exposures to ARs in dogs and cats according to the American Society for
+26 the Prevention of Cruelty to Animals Animal Poison Control Center;
+-2- SB26-062
+
+1 (f) Nationwide, AR exposure has led to fatalities in both humans
+2 and companion animals, including documented cases in Colorado;
+3 (g) Because bromethalin has become an increasingly popular, yet
+4 no less dangerous, rodenticide, reported human poisonings have increased
+5 by 240% nationwide between 2012 and 2023, with children under 5 years
+6 old accounting for 67% of documented cases. From 2019 to 2023, there
+7 were 7,074 human exposures to bromethalin reported nationwide.
+8 (h) Colorado's companion animals are also at risk to bromethalin,
+9 with 1,347 exposures in dogs and cats reported to the American Society
+10 for the Prevention of Cruelty to Animals Animal Poison Control Center
+11 from 2020 to 2024;
+12 (i) Clinical signs of bromethalin toxicity include paralysis,
+13 disorientation, and abnormal behavior, with multiple fatalities
+14 documented in Colorado over the past decade. There is no antidote for
+15 people, pets, or wildlife when exposed to bromethalin.
+16 (j) Zinc phosphide, which is primarily used in agricultural areas,
+17 has received the environmental protection agency's highest toxicity rating
+18 of "danger". While the reported cases of human and pet poisonings for
+19 zinc phosphide are lower than those involving ARs or bromethalin, the
+20 rate of fatalities associated with exposure to zinc phosphide is
+21 significantly higher. Nationally, 571 human exposures to zinc phosphide
+22 were reported between 2019 and 2023.
+23 (k) Bromethalin, zinc phosphide, and ARs contribute to
+24 preventable suffering and mortality in nontarget wildlife in the United
+25 States. A University of California Agriculture and Natural Resources
+26 study from 2018, titled "Prevalence of First and Second-generation
+27 Anticoagulant Rodenticide Exposure in California Mountain Lions (Puma
+-3- SB26-062
+
+1 concolor)", found a 94.5% exposure rate for ARs in tested mountain
+2 lions, while a 2017 study published in the Ecotoxicology Journal, titled
+3 "Anticoagulant rodenticide exposure and toxicosis in four species of birds
+4 of prey in Massachusetts, USA, 2012-2016, in relation to use of
+5 rodenticides by pest management professionals", found a 96% exposure
+6 rate for birds of prey.
+7 (l) The documented effects of such exposures in wildlife include
+8 compromised immune function, infertility, impaired mobility, and death;
+9 (m) A study published in the Journal of Wildlife Diseases, titled
+10 "Anticoagulant Rodenticide Exposure and Toxicosis in Coyotes (Canis
+11 latrans) in the Denver Metropolitan Area", found that 100% of coyotes
+12 sampled in the Denver metropolitan area tested positive for exposure to
+13 ARs;
+14 (n) With increasing usage of bromethalin in recent years, studies
+15 have documented bromethalin residue in sampled raptors, foxes, and
+16 other nontarget species, with evidence of such exposure causing
+17 neurotoxicity, disorientation, and death;
+18 (o) The federal centers for disease control and prevention
+19 recommends against the use of glue traps to kill rodents, citing the risk of
+20 disease transmission from trapped animals that excrete urine and feces
+21 while struggling to get free;
+22 (p) Glue traps kill rodents by causing exhaustion, dehydration,
+23 suffocation, or starvation, often lasting over hours or days; and
+24 (q) Glue traps are indiscriminate and often ensnare nontarget
+25 animals, including birds, reptiles, and companion animals.
+26 (2) The general assembly further finds that:
+27 (a) Integrated pest management, which utilizes exclusion,
+-4- SB26-062
+
+1 mechanical or electronic traps, or emerging fertility control technologies,
+2 provides safe, humane, and ecologically sound alternatives for managing
+3 rodent populations; and
+4 (b) Integrated pest management strategies minimize harm to
+5 people, pets, and wildlife, while supporting proven and targeted rodent
+6 management.
+7 (3) Therefore, the general assembly declares that prohibiting the
+8 use of certain rodenticides and glue traps, while promoting the use of
+9 integrated pest management practices across public, private, and
+10 commercial settings in the state, will protect Colorado's children,
+11 safeguard community health, and support humane, science-driven rodent
+12 control.
+13 SECTION 2. In Colorado Revised Statutes, 35-9-103, add (7.5),
+14 (8.2), (9.7), and (13) as follows:
+15 35-9-103. Definitions.
+16 As used in this article 9, unless the context otherwise requires:
+17 (7.5) "FIRST-GENERATION ANTICOAGULANT RODENTICIDE" MEANS
+18 A PESTICIDE PRODUCT CONTAINING ANY OF THE FOLLOWING ACTIVE
+19 INGREDIENTS:
+20 (a) DIPHACINONE;
+21 (b) CHLOROPHACINONE; OR
+22 (c) WARFARIN.
+23 (8.2) "INTEGRATED PEST MANAGEMENT" MEANS A SCIENCE-BASED
+24 STRATEGY THAT FOCUSES ON LONG-TERM PREVENTION OF RODENT
+25 INFESTATIONS OR DAMAGE THAT THE INFESTATIONS CAUSE THROUGH USE
+26 OF A COMBINATION OF TECHNIQUES AND THAT PRIORITIZES NONCHEMICAL
+27 CONTROL MEASURES, INCLUDING EXCLUSION, SANITATION, HABITAT
+-5- SB26-062
+
+1 MODIFICATION, FERTILITY CONTROL, AND MECHANICAL CAPTURE.
+2 (9.7) "NONANTICOAGULANT RODENTICIDE" MEANS A PESTICIDE
+3 PRODUCT CONTAINING ANY OF THE FOLLOWING ACTIVE INGREDIENTS:
+4 (a) BROMETHALIN; OR
+5 (b) ZINC PHOSPHIDE.
+6 (13) "SECOND-GENERATION ANTICOAGULANT RODENTICIDE"
+7 MEANS A PESTICIDE PRODUCT CONTAINING ANY OF THE FOLLOWING
+8 ACTIVE INGREDIENTS:
+9 (a) BRODIFACOUM;
+10 (b) BROMADIOLONE;
+11 (c) DIFENACOUM; OR
+12 (d) DIFETHIALONE.
+13 SECTION 3. In Colorado Revised Statutes, add 35-9-118.3 and
+14 35-9-119.5 as follows:
+15 35-9-118.3. Prohibition on sales of certain rodenticides and
+16 glue traps - prohibition on use - exceptions for restricted and limited
+17 use - labeling requirements - rules - definitions.
+18 (1) A PERSON SHALL NOT SELL, DISTRIBUTE, OR OFFER FOR SALE OR
+19 DISTRIBUTION IN THE STATE, INCLUDING THROUGH THE USE OF THE
+20 INTERNET:
+21 (a) A SECOND-GENERATION ANTICOAGULANT RODENTICIDE;
+22 (b) A FIRST-GENERATION ANTICOAGULANT RODENTICIDE;
+23 (c) A NONANTICOAGULANT RODENTICIDE; OR
+24 (d) A RODENT GLUE TRAP.
+25 (2) (a) EXCEPT AS PROVIDED IN SUBSECTION (3) OF THIS SECTION,
+26 A PERSON SHALL NOT USE ANY OF THE RODENTICIDES DESCRIBED IN
+27 SUBSECTION (1) OF THIS SECTION IN THE STATE.
+-6- SB26-062
+
+1 (b) ON OR BEFORE JANUARY 1, 2027, THE COMMISSIONER SHALL
+2 ADOPT RULES DESIGNATING THE RODENTICIDES DESCRIBED IN SUBSECTION
+3 (1) OF THIS SECTION AS RESTRICTED-USE AND LIMITED-USE PESTICIDES
+4 PURSUANT TO SECTION 35-9-108 (5).
+5 (3) (a) AFTER THE COMMISSIONER ADOPTS RULES PURSUANT TO
+6 SUBSECTION (2)(b) OF THIS SECTION AND PUBLISHES A STATEMENT ON THE
+7 DEPARTMENT OF AGRICULTURE'S PUBLIC WEBSITE NOTIFYING THE PUBLIC
+8 THAT THE RULES HAVE BEEN ADOPTED, A CERTIFIED OPERATOR,
+9 COMMERCIAL APPLICATOR, PUBLIC APPLICATOR, OR QUALIFIED
+10 SUPERVISOR LICENSED PURSUANT TO ARTICLE 10 OF THIS TITLE 35 MAY
+11 ENGAGE IN THE RESTRICTED AND LIMITED USE OF THE RODENTICIDES
+12 DESCRIBED IN SUBSECTION (1) OF THIS SECTION IF THE USE QUALIFIES
+13 UNDER AN EXEMPTION DESCRIBED IN SUBSECTION (3)(d) OF THIS SECTION
+14 AND THE USE MEETS THE FOLLOWING REQUIREMENTS:
+15 (I) THE USE IS ONLY FOR AN INDOOR USE WITHIN A SINGLE
+16 LOCATION;
+17 (II) THE USE IS NOT FOR THE PURPOSE OF ROUTINE PREVENTIVE,
+18 MAINTENANCE, OR PERMANENT BAITING;
+19 (III) AT THE SAME TIME THAT RODENTICIDES ARE USED AT THE
+20 LOCATION, ALL FEASIBLE EXCLUSION AND SANITATION MEASURES SHALL
+21 BE IMPLEMENTED AND MAINTAINED THROUGHOUT THE EXEMPTION
+22 PERIOD, INCLUDING MEASURES TO SEAL ENTRY POINTS, ELIMINATE
+23 CORRECTABLE ATTRACTANTS, AND CORRECT STRUCTURAL DEFICIENCIES.
+24 FAILURE TO IMPLEMENT AND MAINTAIN THE EXCLUSION AND SANITATION
+25 MEASURES INVALIDATES THE EXEMPTION.
+26 (IV) THE OPERATOR, APPLICATOR, OR SUPERVISOR HAS
+27 DEVELOPED AND MAINTAINS PURSUANT TO THE RECORD-KEEPING
+-7- SB26-062
+
+1 REQUIREMENTS SET FORTH IN SECTION 35-10-111 A WRITTEN RATIONALE
+2 EXPLAINING WHY NONRODENTICIDE METHODS OF SOLVING THE PROBLEM
+3 HAVE NOT BEEN SUFFICIENT AND WHY AN EXEMPTION FROM THE
+4 PROHIBITION ON USE OF THE RODENTICIDES DESCRIBED IN SUBSECTION (1)
+5 OF THIS SECTION IS BEING SOUGHT. THE WRITTEN RATIONALE MUST
+6 INCLUDE DOCUMENTED EVIDENCE OF AN ACTIVE RODENT INFESTATION,
+7 COLLECTED THROUGH THE USE OF ELECTRONIC RODENT MONITORING
+8 DEVICES OR OTHER VERIFIABLE MONITORING METHODS, WHICH DEVICES OR
+9 METHODS MUST NOT CONTAIN RODENTICIDES AND MUST BE CAPABLE OF
+10 INDEPENDENTLY VERIFYING RODENT ACTIVITY. THE WRITTEN RATIONALE
+11 MUST INCLUDE DOCUMENTATION OF:
+12 (A) THE INTEGRATED PEST MANAGEMENT STRATEGIES THAT HAVE
+13 ALREADY BEEN IMPLEMENTED AT THE LOCATION;
+14 (B) THE REASONS WHY THE INTEGRATED PEST MANAGEMENT
+15 STRATEGIES HAVE NOT ACHIEVED RODENT CONTROL;
+16 (C) THE SPECIFIC JUSTIFICATION FOR RODENTICIDE USE AS A LAST
+17 RESORT, INCLUDING AN EXPLANATION OF WHY EXCLUSION AND OTHER
+18 NONCHEMICAL METHODS ALONE CANNOT ACHIEVE RODENT CONTROL; AND
+19 (D) THE EXCLUSION AND SANITATION MEASURES UNDERTAKEN
+20 PURSUANT TO SUBSECTION (3)(a)(III) OF THIS SECTION, INCLUDING
+21 PHOTOGRAPHS, WORK ORDERS, INSPECTION REPORTS, OR OTHER
+22 VERIFIABLE EVIDENCE OF THE MEASURES UNDERTAKEN; AND
+23 (V) ELECTRONIC RODENT MONITORING DEVICES OR OTHER
+24 MONITORING METHODS USED SHALL BE KEPT IN PLACE FOR THE DURATION
+25 OF THE EXEMPTION PERIOD AND FOR AT LEAST FOURTEEN DAYS AFTER ALL
+26 OF THE BAIT CONTAINING A RODENTICIDE HAS BEEN REMOVED FROM THE
+27 LOCATION.
+-8- SB26-062
+
+1 (b) THE AUTHORIZATION FOR RESTRICTED AND LIMITED USE OF A
+2 RODENTICIDE DESCRIBED IN SUBSECTION (1) OF THIS SECTION:
+3 (I) IS LIMITED TO THE MINIMUM PERIOD NECESSARY TO ACHIEVE
+4 RODENT CONTROL BUT A MAXIMUM PERIOD NOT TO EXCEED TWO
+5 CONSECUTIVE TWENTY-ONE-DAY PERIODS, FOR A TOTAL OF FORTY-TWO
+6 CONSECUTIVE DAYS. A WRITTEN RATIONALE MAINTAINED IN COMPLIANCE
+7 WITH SUBSECTION (3)(a)(IV) OF THIS SECTION MUST BE UPDATED AT
+8 LEAST EVERY TWENTY-ONE DAYS DURING THE EXEMPTION PERIOD. WHEN
+9 MONITORING DATA INDICATES THAT RODENT ACTIVITY HAS CEASED FOR
+10 A SUSTAINED PERIOD THAT THE OPERATOR, APPLICATOR, OR SUPERVISOR
+11 DEEMS SUFFICIENT TO DEMONSTRATE RODENT CONTROL, THE OPERATOR,
+12 APPLICATOR, OR SUPERVISOR SHALL REMOVE ALL BAIT CONTAINING A
+13 RODENTICIDE FROM THE LOCATION BEFORE THE END OF THE APPLICABLE
+14 EXEMPTION PERIOD.
+15 (II) REQUIRES THAT THE OWNER OF THE PROPERTY ON WHICH
+16 RODENTICIDE USE IS AUTHORIZED POSTS A SIGN VISIBLE FROM A PUBLIC
+17 RIGHT-OF-WAY THAT STATES "RODENTICIDES IN USE FOR PUBLIC HEALTH
+18 EMERGENCY"; AND
+19 (III) REQUIRES THE USE OF INTEGRATED PEST MANAGEMENT
+20 STRATEGIES TO ACCOMPANY THE RESTRICTED AND LIMITED USE OF THE
+21 RODENTICIDE.
+22 (c) FOR AN INDOOR LOCATION AT WHICH THE LIMITED AND
+23 RESTRICTED USE OF THE RODENTICIDES DESCRIBED IN SUBSECTION (1) OF
+24 THIS SECTION HAS BEEN AUTHORIZED PURSUANT TO THIS SUBSECTION (3),
+25 A SUBSEQUENT LIMITED AND RESTRICTED USE OF THE RODENTICIDES IS
+26 NOT AUTHORIZED UNLESS AND UNTIL AT LEAST SIXTY DAYS HAVE ELAPSED
+27 SINCE THE PRIOR EXEMPTION PERIOD EXPIRED AND A DISTINCT RODENT
+-9- SB26-062
+
+1 INFESTATION HAS BEEN DOCUMENTED. ANY SUBSEQUENT USE MUST
+2 COMPLY WITH THE REQUIREMENTS SET FORTH IN THIS SUBSECTION (3).
+3 (d) A CERTIFIED OPERATOR, COMMERCIAL APPLICATOR, PUBLIC
+4 APPLICATOR, OR QUALIFIED SUPERVISOR LICENSED PURSUANT TO ARTICLE
+5 10 OF THIS TITLE 35 MAY USE RODENTICIDES IN ACCORDANCE WITH THIS
+6 SUBSECTION (3) IF THE USE IS NECESSARY TO RESPOND TO A PUBLIC
+7 HEALTH EMERGENCY, AS DETERMINED BY THE DEPARTMENT OF PUBLIC
+8 HEALTH AND ENVIRONMENT OR BY A COUNTY OR DISTRICT BOARD OF
+9 PUBLIC HEALTH. THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT
+10 MAY DEVELOP THE FORM AND MANNER BY WHICH A PUBLIC HEALTH
+11 EMERGENCY DETERMINATION IS MADE PURSUANT TO THIS SUBSECTION
+12 (3)(d).
+13 (4) THE DEPARTMENT OF AGRICULTURE SHALL ESTABLISH
+14 ADDITIONAL LABELING REQUIREMENTS FOR ANTICOAGULANT
+15 RODENTICIDES, INCLUDING A REQUIREMENT THAT THE NAME OF THE
+16 RODENTICIDE BE CLEARLY LABELED ON A BAIT BOX.
+17 (5) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+18 REQUIRES:
+19 (a) "ELECTRONIC RODENT MONITORING DEVICE" MEANS A
+20 NONRODENTICIDE-BASED DEVICE OR SYSTEM THAT:
+21 (I) DETECTS AND RECORDS RODENT ACTIVITY AND PRODUCES
+22 TIME-STAMPED, RETRIEVABLE INFORMATION SUFFICIENT TO
+23 DEMONSTRATE PERIODS OF ACTIVITY OR INACTIVITY; AND
+24 (II) IS MAINTAINED BY THE CERTIFIED OPERATOR, COMMERCIAL
+25 APPLICATOR, PUBLIC APPLICATOR, OR QUALIFIED SUPERVISOR LICENSED
+26 PURSUANT TO ARTICLE 10 OF THIS TITLE 35 THAT IS RESPONSIBLE FOR
+27 RODENT CONTROL.
+-10- SB26-062
+
+1 (b) "USE" HAS THE MEANING SET FORTH IN SECTION 35-10-103
+2 (18).
+3 35-9-119.5. Integrated pest management.
+4 (1) A PERSON CONDUCTING PROFESSIONAL RODENT CONTROL
+5 SERVICES IN THE STATE SHALL PRIORITIZE USING INTEGRATED PEST
+6 MANAGEMENT STRATEGIES. INTEGRATED PEST MANAGEMENT STRATEGIES
+7 INCLUDE IMPLEMENTING THE FOLLOWING STEPS BEFORE RODENTICIDE USE
+8 MAY BE CONSIDERED:
+9 (a) CONFIRMING THAT THE PEST IS A RODENT AND, IF POSSIBLE,
+10 IDENTIFYING THE SPECIES;
+11 (b) INSPECTING THE SITE TO IDENTIFY SIGNS OF RODENT ACTIVITY,
+12 ENTRY POINTS, FOOD SOURCES, LOCATIONS OF HARBORAGE, AND ANY
+13 OTHER CONTRIBUTING CONDITION;
+14 (c) DEPLOYING ELECTRONIC RODENT MONITORING DEVICES, AS
+15 DEFINED IN SECTION 35-9-118.3 (5)(a), OR OTHER VERIFIABLE
+16 MONITORING METHODS TO IDENTIFY AND DOCUMENT RODENT ACTIVITY
+17 AND LOCATIONS AND THE EFFECTIVENESS OF REMEDIATION AND CONTROL
+18 MEASURES DEPLOYED; AND
+19 (d) REMEDIATING CONTRIBUTING CONDITIONS AND DEPLOYING
+20 CONTROL MEASURES, WITH PRIORITY GIVEN TO CONTROL MEASURES
+21 INVOLVING SANITATION, EXCLUSION, OR OTHER CONTROL MEASURES
+22 IDENTIFIED AS NECESSARY TO PHYSICALLY EXCLUDE, DETER, AND
+23 PREVENT RODENT INFESTATIONS OR DAMAGE.
+24 SECTION 4. In Colorado Revised Statutes, 35-9-120, amend (1)
+25 introductory portion and (1)(j.5); and add (1)(l) and (1)(m) as follows:
+26 35-9-120. Prohibited acts - deceptive trade practice.
+27 (1) It is unlawful and a violation of this article ARTICLE 9 for any
+-11- SB26-062
+
+1 A person:
+2 (j.5) To make a false statement in any invoice, record, report, or
+3 application required under this article ARTICLE 9 or any rule promulgated
+4 ADOPTED under this article; or ARTICLE 9;
+5 (l) TO SELL, DISTRIBUTE, OR OFFER FOR SALE OR DISTRIBUTION IN
+6 THE STATE A RODENTICIDE PRODUCT DESCRIBED IN SECTION 35-9-118.3
+7 (1); OR
+8 (m) TO APPLY OR USE A RODENTICIDE PRODUCT DESCRIBED IN
+9 SECTION 35-9-118.3 (1), EXCEPT AS AUTHORIZED PURSUANT TO SECTION
+10 35-9-118.3 (3).
+11 SECTION 5. Applicability. This act applies to conduct occurring
+12 on or after the effective date of this act.
+13 SECTION 6. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations for
+16 the support and maintenance of the departments of the state and state
+17 institutions.
+-12- SB26-062

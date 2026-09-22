@@ -1,0 +1,292 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0691.01 Chelsea Princell x4335 HOUSE BILL 26-1322
+HOUSE SPONSORSHIP
+Valdez and McCormick,
+SENATE SPONSORSHIP
+Cutter and Mullica,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING CIVIL ACTIONS AGAINST CERTAIN INDIVIDUALS
+102 ENGAGING IN CONVERSION THERAPY EFFORTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill establishes a cause of action for claims of injury caused
+by sexual orientation or gender identity change efforts (efforts) against a
+mental health professional and allows the cause of action to be
+commenced at any time without limitation.
+The bill applies to a cause of action brought against a licensed
+mental health professional who conducted the efforts; an individual or
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+entity that hired, supervised, or otherwise exercised authority over the
+mental health professional; and a person who negligently hired,
+supervised, or retained a licensed mental health professional to engage in
+the efforts.
+The bill permits the injured individual, or the individual's personal
+representative or estate if the individual is deceased, to be awarded
+economic, noneconomic, and exemplary damages and sets forth the
+manner in which causation may be established to show a connection
+between the efforts the individual underwent and the harm the individual
+suffers.
+The bill states what an expert witness may address in the expert's
+testimony regarding the efforts the individual underwent and the harm the
+individual suffered.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The American Psychological Association, the American
+5 Psychiatric Association, the American Academy of Pediatrics, the
+6 American Medical Association, the American Counseling Association,
+7 the American Academy of Child and Adolescent Psychiatry, the
+8 American School Counselor Association, the National Association of
+9 Social Workers, and other mental health and medical organizations in the
+10 United States have determined that efforts to change an individual's
+11 sexual orientation or gender identity are harmful and ineffective;
+12 (b) In 2009, the American Psychological Association Task Force
+13 on Appropriate Therapeutic Responses to Sexual Orientation conducted
+14 a systematic review of peer-reviewed research and concluded that sexual
+15 orientation change efforts are unlikely to be successful and involve risk
+16 of harm, including depression, suicidality, and anxiety;
+17 (c) In 2021, the American Psychological Association adopted a
+18 resolution calling for the elimination of sexual orientation and gender
+-2- HB26-1322
+
+1 identity change efforts, concluding that sexual orientation and gender
+2 identity change efforts are harmful and ineffective in changing a person's
+3 sexual orientation or gender identity;
+4 (d) The scientific and clinical consensus establishes that sexual
+5 orientation or gender identity change efforts pose serious risks of harm to
+6 patients, including depression, guilt, helplessness, hopelessness, shame,
+7 social withdrawal, suicidality, substance abuse, stress, self-blame,
+8 decreased self-esteem, feelings of anger and betrayal, loss of religious
+9 faith, alienation from family, problems in sexual and emotional intimacy,
+10 sexual dysfunction, high-risk sexual behaviors, feelings of being
+11 dehumanized, and a sense of having wasted time and resources;
+12 (e) The psychological harm caused by sexual orientation or gender
+13 identity change efforts often do not manifest until years or decades after
+14 the efforts occurred. Survivors frequently fail to recognize such treatment
+15 as harmful and fail to connect their psychological injuries to the treatment
+16 until much later in life or are deterred from coming forward by shame
+17 instilled by the treatment itself.
+18 (f) The dynamics of the therapeutic relationship, including the
+19 trust placed on mental health professionals, the age and vulnerability of
+20 patients, the authority exercised by professionals, and the shame and
+21 internalized stigma resulting from such treatment, create barriers to timely
+22 disclosure and recognition of harm similar to those recognized by this
+23 state in the context of childhood sexual abuse;
+24 (g) The existing statute of limitations for professional negligence
+25 does not adequately account for the delayed recognition of psychological
+26 injury that is characteristic of harm caused by sexual orientation or gender
+27 identity change efforts;
+-3- HB26-1322
+
+1 (h) The psychological harms described in this declaration result
+2 from efforts to direct a patient toward a predetermined outcome regarding
+3 the patient's sexual orientation or gender identity, regardless of the nature
+4 of that predetermined outcome;
+5 (i) In cases involving latent injuries where there is scientific
+6 consensus regarding harmfulness, Colorado courts should allow plaintiffs
+7 to establish causation by demonstrating that exposure to the harmful
+8 conduct was, in reasonable medical probability, a substantial factor
+9 contributing to the risk of developing the injury or illness, without
+10 requiring proof of the precise mechanism by which the harm occurred.
+11 This causation framework is appropriate for claims arising from sexual
+12 orientation or gender identity change efforts, given the scientific
+13 consensus regarding the harmfulness of such efforts and the latent nature
+14 of the resulting psychological injuries.
+15 (j) The general assembly has previously recognized, in enacting
+16 Senate Bill 21-073, that survivors of sexual misconduct frequently do not
+17 recognize or connect their psychological injuries to the underlying
+18 conduct until well into adulthood and that an extended limitations period
+19 is appropriate to account for this delayed recognition. The same
+20 considerations apply to survivors of sexual orientation or gender identity
+21 change efforts.
+22 (k) It is the intent of the general assembly to provide individuals
+23 who suffer harm as a result of sexual orientation or gender identity
+24 change efforts with adequate time to seek civil remedies for the harms
+25 they have suffered.
+26 SECTION 2. In Colorado Revised Statutes, add 13-20-1302 as
+27 follows:
+-4- HB26-1322
+
+1 13-20-1302. Actions based on sexual orientation or gender
+2 identity change efforts - limitation - causation - damages - legislative
+3 intent - definitions.
+4 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+5 REQUIRES:
+6 (a) "LICENSED MENTAL HEALTH PROFESSIONAL" MEANS A MENTAL
+7 HEALTH PROVIDER WHO HOLDS OR HELD A VALID LICENSE, CERTIFICATION,
+8 OR REGISTRATION ISSUED PURSUANT TO ARTICLE 245 OF TITLE 12 AT THE
+9 TIME THE SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS
+10 OCCURRED.
+11 (b) (I) "SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE
+12 EFFORTS" MEANS ANY PRACTICE BY A LICENSED MENTAL HEALTH
+13 PROFESSIONAL THAT SEEKS TO DIRECT A PATIENT TOWARD A
+14 PREDETERMINED SEXUAL ORIENTATION OR GENDER IDENTITY OUTCOME,
+15 INCLUDING EFFORTS TO CHANGE AN INDIVIDUAL'S SEXUAL ORIENTATION
+16 OR GENDER IDENTITY, OR TO ELIMINATE OR REDUCE SEXUAL OR ROMANTIC
+17 ATTRACTIONS OR FEELINGS TOWARD INDIVIDUALS OF A PARTICULAR SEX
+18 OR GENDER, REGARDLESS OF THE SEXUAL ORIENTATION OR GENDER
+19 IDENTITY THE PATIENT IS DIRECTED TOWARD.
+20 (II) "SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE
+21 EFFORTS" DOES NOT INCLUDE:
+22 (A) COUNSELING OR THERAPY THAT PROVIDES ASSISTANCE TO A
+23 PATIENT UNDERGOING GENDER TRANSITION;
+24 (B) COUNSELING OR THERAPY THAT PROVIDES ACCEPTANCE,
+25 SUPPORT, AND UNDERSTANDING OF A PATIENT OR FACILITATES A PATIENT'S
+26 COPING, SOCIAL SUPPORT, AND IDENTITY EXPLORATION AND
+27 DEVELOPMENT, WITHOUT SEEKING TO DIRECT THE PATIENT TOWARD A
+-5- HB26-1322
+
+1 PREDETERMINED SEXUAL ORIENTATION OR GENDER IDENTITY OUTCOME;
+2 (C) COUNSELING OR THERAPY THAT IS NEUTRAL WITH RESPECT TO
+3 SEXUAL ORIENTATION AND GENDER IDENTITY AND THAT DOES NOT SEEK
+4 TO DIRECT THE PATIENT TOWARD A PREDETERMINED SEXUAL ORIENTATION
+5 OR GENDER IDENTITY OUTCOME; OR
+6 (D) COUNSELING OR THERAPY RELATED TO A PATIENT'S SEXUAL
+7 BEHAVIORS, PRACTICES, OR RELATIONSHIPS, PROVIDED THAT THE
+8 COUNSELING OR THERAPY DOES NOT SEEK TO DIRECT THE PATIENT
+9 TOWARD A PREDETERMINED SEXUAL ORIENTATION OR GENDER IDENTITY.
+10 (2) (a) A PERSON WHO SUFFERED AN INJURY AS A RESULT OF
+11 SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS MAY BRING
+12 A CIVIL ACTION FOR DAMAGES AGAINST A PERSON DESCRIBED IN
+13 SUBSECTION (3) OF THIS SECTION.
+14 (b) NOTWITHSTANDING ANY OTHER STATUTE OF LIMITATIONS
+15 SPECIFIED IN ARTICLE 80 OF THIS TITLE 13 OR ANY OTHER PROVISION OF
+16 LAW THAT CAN BE CONSTRUED TO LIMIT THE TIME PERIOD TO COMMENCE
+17 AN ACTION DESCRIBED IN THIS SECTION, A CIVIL ACTION TO RECOVER
+18 DAMAGES FOR THE PROVISION OF SEXUAL ORIENTATION OR GENDER
+19 IDENTITY CHANGE EFFORTS MAY BE COMMENCED AT ANY TIME WITHOUT
+20 LIMITATION.
+21 (3) THIS SECTION APPLIES TO ACTIONS BROUGHT AGAINST THE
+22 FOLLOWING:
+23 (a) A LICENSED MENTAL HEALTH PROFESSIONAL WHO ENGAGES IN
+24 SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS;
+25 (b) A PERSON WHO EMPLOYED, SUPERVISED, OR OTHERWISE
+26 EXERCISED AUTHORITY OVER THE LICENSED MENTAL HEALTH
+27 PROFESSIONAL AND THE PERSON OR ENTITY:
+-6- HB26-1322
+
+1 (I) KNEW OR HAD REASON TO KNOW THAT THE LICENSED MENTAL
+2 HEALTH PROFESSIONAL ENGAGED IN OR WAS LIKELY TO ENGAGE IN SEXUAL
+3 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS; AND
+4 (II) FAILED TO TAKE REASONABLE STEPS TO PREVENT OR STOP THE
+5 LICENSED MENTAL HEALTH PROFESSIONAL FROM ENGAGING IN SEXUAL
+6 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS; OR
+7 (c) A PERSON WHO NEGLIGENTLY HIRED, SUPERVISED, OR
+8 RETAINED A LICENSED MENTAL HEALTH PROFESSIONAL WHO ENGAGED IN
+9 OR WAS LIKELY TO ENGAGE IN SEXUAL ORIENTATION OR GENDER IDENTITY
+10 CHANGE EFFORTS.
+11 (4) IN AN ACTION BROUGHT PURSUANT TO THIS SECTION, THE
+12 PLAINTIFF MAY RECOVER DAMAGES THAT INCLUDE:
+13 (a) ECONOMIC DAMAGES;
+14 (b) NONECONOMIC DAMAGES;
+15 (c) EXEMPLARY DAMAGES IF THE CONDUCT OF THE DEFENDANT
+16 WAS WILLFUL OR WANTON, AS PROVIDED IN SECTION 13-21-102; AND
+17 (d) ANY OTHER DAMAGES DEEMED APPROPRIATE BY THE COURT.
+18 (5) (a) IN AN ACTION BROUGHT PURSUANT TO THIS SECTION,
+19 CAUSATION MAY BE ESTABLISHED AS FOLLOWS:
+20 (I) GENERAL CAUSATION MAY BE ESTABLISHED BY EXPERT
+21 TESTIMONY, SCIENTIFIC LITERATURE, OR OTHER EVIDENCE
+22 DEMONSTRATING THAT SEXUAL ORIENTATION OR GENDER IDENTITY
+23 CHANGE EFFORTS ARE CAPABLE OF CAUSING THE TYPE OF PSYCHOLOGICAL
+24 INJURY OR ILLNESS THE PLAINTIFF SUFFERS; AND
+25 (II) ONCE GENERAL CAUSATION IS ESTABLISHED, THE TRIER OF
+26 FACT MAY INFER SPECIFIC CAUSATION FROM EVIDENCE THAT THE
+27 PLAINTIFF WAS SUBJECTED TO SEXUAL ORIENTATION OR GENDER IDENTITY
+-7- HB26-1322
+
+1 CHANGE EFFORTS AND SUBSEQUENTLY EXPERIENCED THE TYPE OF
+2 PSYCHOLOGICAL INJURY OR ILLNESS THAT SEXUAL ORIENTATION OR
+3 GENDER IDENTITY CHANGE EFFORTS ARE CAPABLE OF CAUSING, UNLESS
+4 THE DEFENDANT ESTABLISHES, BY A PREPONDERANCE OF THE EVIDENCE,
+5 THAT THE PLAINTIFF'S PSYCHOLOGICAL INJURY OR ILLNESS WAS CAUSED
+6 SOLELY BY OTHER FACTORS UNRELATED TO THE SEXUAL ORIENTATION OR
+7 GENDER IDENTITY CHANGE EFFORTS.
+8 (b) IN DETERMINING WHETHER SEXUAL ORIENTATION OR GENDER
+9 IDENTITY CHANGE EFFORTS ARE A SUBSTANTIAL FACTOR IN CAUSING THE
+10 PLAINTIFF'S INJURY, THE TRIER OF FACT MAY CONSIDER THE NATURE,
+11 DURATION, AND INTENSITY OF THE SEXUAL ORIENTATION OR GENDER
+12 IDENTITY CHANGE EFFORTS, THE AGE AND VULNERABILITY OF THE
+13 PLAINTIFF AT THE TIME THE SEXUAL ORIENTATION OR GENDER IDENTITY
+14 CHANGE EFFORTS TOOK PLACE, THE RELATIONSHIP BETWEEN THE
+15 PLAINTIFF AND THE MENTAL HEALTH PROFESSIONAL, THE TEMPORAL
+16 RELATIONSHIP BETWEEN THE SEXUAL ORIENTATION OR GENDER IDENTITY
+17 CHANGE EFFORTS AND THE ONSET OR EXACERBATION OF SYMPTOMS, AND
+18 ANY OTHER RELEVANT FACTORS.
+19 (6) (a) IN AN ACTION BROUGHT PURSUANT TO THIS SECTION,
+20 EXPERT TESTIMONY REGARDING THE GENERAL PSYCHOLOGICAL EFFECTS
+21 OF SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS IS
+22 ADMISSIBLE TO ESTABLISH THE TYPES OF HARM SEXUAL ORIENTATION OR
+23 GENDER IDENTITY CHANGE EFFORTS ARE KNOWN TO CAUSE. EXPERT
+24 TESTIMONY MAY ADDRESS:
+25 (I) THE SCIENTIFIC AND CLINICAL CONSENSUS REGARDING THE
+26 HARMFULNESS OF SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE
+27 EFFORTS;
+-8- HB26-1322
+
+1 (II) THE TYPES OF PSYCHOLOGICAL INJURIES COMMONLY CAUSED
+2 BY SEXUAL ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS;
+3 (III) THE TYPICAL LATENCY PERIOD BETWEEN SEXUAL
+4 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS AND THE
+5 MANIFESTATION OR RECOGNITION OF PSYCHOLOGICAL HARM; AND
+6 (IV) WHETHER INDIVIDUALS WHO UNDERGO SEXUAL ORIENTATION
+7 OR GENDER IDENTITY CHANGE EFFORTS EXPERIENCE DELAYED
+8 RECOGNITION OF HARM, INCLUDING SHAME AND THE DYNAMICS OF THE
+9 THERAPEUTIC RELATIONSHIP.
+10 (b) THIS SUBSECTION (6) DOES NOT LIMIT THE ADMISSIBILITY OF
+11 OTHER RELEVANT EXPERT TESTIMONY ON CAUSATION OR DAMAGES.
+12 (7) (a) THE CAUSE OF ACTION DESCRIBED IN THIS SECTION
+13 SURVIVES THE DEATH OF THE PERSON WHO UNDERWENT SEXUAL
+14 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS AND MAY BE
+15 BROUGHT OR MAINTAINED BY THE PERSON'S PERSONAL REPRESENTATIVE
+16 OR ESTATE. THE PERSON'S DEATH MAY CONSTITUTE AN INJURY FOR THE
+17 PURPOSES OF THIS SECTION.
+18 (b) NOTWITHSTANDING THE STATUTE OF LIMITATIONS DESCRIBED
+19 IN SECTION 13-80-112, AN ACTION BROUGHT AS A SURVIVAL ACTION
+20 PURSUANT TO SUBSECTION (7)(a) OF THIS SECTION MUST BE BROUGHT
+21 WITHIN FIVE YEARS AFTER THE PERSON'S DEATH.
+22 (c) NOTWITHSTANDING THE LIMITATION ON DAMAGES IN SECTION
+23 13-20-101 (1), THE PERSON'S PERSONAL REPRESENTATIVE OR ESTATE MAY
+24 RECOVER ALL DAMAGES AVAILABLE PURSUANT TO SUBSECTION (4) OF THIS
+25 SECTION IN AN ACTION BROUGHT OR MAINTAINED PURSUANT TO THIS
+26 SUBSECTION (7).
+27 (8) THIS SECTION DOES NOT LIMIT OR RESTRICT ANY OTHER CAUSE
+-9- HB26-1322
+
+1 OF ACTION OR REMEDY AVAILABLE TO A PERSON INJURED BY SEXUAL
+2 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS.
+3 (9) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THIS
+4 SECTION BE INTERPRETED BROADLY TO EFFECTUATE ITS REMEDIAL
+5 PURPOSE OF PROVIDING CIVIL REMEDIES TO PERSONS HARMED BY SEXUAL
+6 ORIENTATION OR GENDER IDENTITY CHANGE EFFORTS.
+7 (10) THIS SECTION APPLIES TO CAUSES OF ACTION ACCRUING ON OR
+8 AFTER JULY 1, 2026, AND TO CAUSES OF ACTION ACCRUING BEFORE JULY
+9 1, 2026, IF THE APPLICABLE STATUTE OF LIMITATIONS, AS IT EXISTED PRIOR
+10 TO JULY 1, 2026, HAS NOT YET RUN ON JULY 1, 2026.
+11 SECTION 3. Effective date - applicability. This act takes effect
+12 July 1, 2026, and applies to a cause of action filed on or after said date.
+13 SECTION 4. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations for
+16 the support and maintenance of the departments of the state and state
+17 institutions.
+-10- HB26-1322

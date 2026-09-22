@@ -1,0 +1,260 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0028.01 Richard Sweetman x4333 HOUSE BILL 26-1047
+HOUSE SPONSORSHIP
+Joseph,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING PROTECTIONS FOR RESIDENTIAL TENANTS, AND, IN
+102 CONNECTION THEREWITH, REQUIRING A PLAINTIFF THAT FILES
+103 A COMPLAINT REGARDING THE UNLAWFUL DETENTION OF REAL
+104 PROPERTY TO INCLUDE CERTAIN INFORMATION WITH THE
+105 COMPLAINT; REQUIRING COURT RECORDS OF CERTAIN EVICTION
+106 ACTIONS TO REMAIN SUPPRESSED; REQUIRING A LANDLORD TO
+107 INCLUDE CERTAIN INFORMATION IN, AND TO REDACT PERSONAL
+108 IDENTIFYING INFORMATION FROM, A WRITTEN DEMAND OR
+109 NOTICE; AND REQUIRING A LANDLORD TO PROVIDE A TENANT AT
+110 LEAST ONE RENT PAYMENT OPTION THAT DOES NOT REQUIRE
+111 THE TENANT TO ACCESS AN ONLINE PORTAL OR PAY A
+112 TRANSACTION FEE.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires a plaintiff that files a complaint concerning the
+unlawful detention of real property to include certain documentation with
+the complaint.
+The bill requires that if a landlord posts a written demand or
+notice, the landlord must:
+! Include in the demand or notice certain information; and
+! Redact from the document certain personal identifying
+information.
+Under current law, when a landlord commences an action for
+forcible entry and detainer, any court record of the action is a suppressed
+court record. If the court issues an order granting the landlord possession
+of the premises, the record is no longer a suppressed court record unless
+the parties agree that the record remain suppressed. Under the bill, such
+a court record remains suppressed unless it concerns a substantial
+violation of the lease. A court may publish a judicial opinion concerning
+the action if the names and identifiers of the parties are anonymized.
+The bill requires a landlord to provide a tenant at least one rent
+payment option that does not require the tenant to access an online portal
+or pay a transaction fee.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Access to stable and affordable housing is a fundamental right
+5 and essential to an individual's dignity, security, and ability to thrive, and
+6 eviction practices that are opaque or unfair undermine this foundation for
+7 thousands of Colorado residents;
+8 (b) Evictions and threats of eviction create destabilizing
+9 consequences for individuals and families, including negative health
+10 impacts, increased housing costs, diminished housing quality, loss of
+-2- HB26-1047
+
+1 community, and heightened long-term housing insecurity;
+2 (c) Evictions result not only in the loss of a home but also the loss
+3 of possessions, employment stability, and educational continuity for
+4 children, and an eviction record can prevent families from relocating to
+5 decent and affordable housing in safer neighborhoods; and
+6 (d) Protecting the dignity of tenants throughout the eviction
+7 process is essential to a fair and functional housing system and necessary
+8 to reduce the deep and lasting harms caused by displacement.
+9 (2) The general assembly also finds that:
+10 (a) Colorado has seen a significant rise in eviction filings in recent
+11 years, with approximately 31,500 filings in 2024 and more than 50,000
+12 filings in 2025, including roughly 32,000 nonpayment-of-rent cases and
+13 nearly 13,000 lease-violation cases, revealing a landscape in which
+14 residents with low incomes, seniors, and working families face increasing
+15 risk of displacement;
+16 (b) Eviction filings disproportionately affect Coloradans with
+17 limited financial resources and those without reliable access to online
+18 banking, electronic payment systems, or legal assistance, deepening
+19 existing inequities;
+20 (c) Tenants navigating the judicial system without legal
+21 representation are far more likely to lose their housing, in part because
+22 they lack awareness of their procedural and substantive rights and the
+23 information necessary to defend themselves effectively;
+24 (d) Many tenants do not understand how to access or interpret the
+25 documents underlying their eviction case, making the process less
+26 transparent, less navigable, and more likely to produce avoidable and
+27 life-altering hardship;
+-3- HB26-1047
+
+1 (e) Ensuring that tenants and landlords have timely access to the
+2 documents that give rise to an eviction, including the lease, rent ledger,
+3 and any evidence of alleged violations, allows both parties to understand
+4 the nature of the dispute from the outset;
+5 (f) Requiring landlords to provide these key documents early in
+6 the process promotes fairness, reduces unsupported filings, and improves
+7 communication, efficiency, and accuracy in resolving housing disputes;
+8 (g) When an eviction concludes and a final judgment is entered in
+9 favor of the landlord, it is in the state's interest that the court records of
+10 the eviction remain suppressed because public access to eviction filings,
+11 even after final judgment, creates long-term barriers to securing safe and
+12 stable housing;
+13 (h) Publishing anonymized judicial opinions in eviction cases
+14 strengthens transparency and consistency in Colorado's housing laws and
+15 expands access to legal precedent for the public, advocates, and courts;
+16 and
+17 (i) Distinguishing evictions involving substantial lease violations
+18 from other types of evictions in record-suppression policies protects
+19 tenants from long-term harm while preserving transparency in matters
+20 that implicate community safety.
+21 (3) The general assembly also finds that:
+22 (a) Reliable, accessible, and affordable rent payment methods are
+23 critical to preventing avoidable eviction filings and maintaining stable
+24 housing;
+25 (b) Many low-income households, seniors, rural residents, and
+26 residents who are disabled lack reliable broadband access, preventing
+27 them from using online or app-based payment systems that landlords
+-4- HB26-1047
+
+1 increasingly require;
+2 (c) Requiring tenants to pay rent exclusively online or through
+3 systems that impose fees creates financial strain, increases the likelihood
+4 of missed payments, and leads to preventable eviction filings; and
+5 (d) Requiring landlords to provide at least one free, nonelectronic
+6 method of rent payment ensures that all tenants can meet their obligations
+7 reliably and without facing technological or financial barriers.
+8 (4) Therefore, the general assembly declares that it is essential to:
+9 (a) Ensure transparent, dignified, and fair eviction proceedings for
+10 all tenants and landlords;
+11 (b) Suppress court records of eviction proceedings in order to
+12 protect tenants from long-term housing barriers;
+13 (c) Distinguish evictions for substantial lease violations from
+14 other types of evictions in record-suppression policies; and
+15 (d) Guarantee that all tenants, regardless of income, technological
+16 access, or familiarity with the legal system, have access to court records,
+17 legal precedent, and reliable, free rent payment options in order to
+18 promote stable homes and thriving communities across the state.
+19 SECTION 2. In Colorado Revised Statutes, 13-40-106, add (5)
+20 and (6) as follows:
+21 13-40-106. Written demand.
+22 (5) (a) THE DEMAND OR NOTICE REQUIRED BY SECTION 13-40-104
+23 OR 38-12-1303 MUST INCLUDE:
+24 (I) A COPY OF THE LEASE IF THE PROPERTY IS OCCUPIED PURSUANT
+25 TO A WRITTEN LEASE; AND
+26 (II) FOR A DEMAND RELATING TO THE ALLEGED NONPAYMENT OF
+27 RENT, A CURRENT, UP-TO-DATE RENT LEDGER SHOWING ALL RENT
+-5- HB26-1047
+
+1 PAYMENTS THAT HAVE BEEN MADE BY OR ON BEHALF OF THE TENANT.
+2 (b) A LANDLORD'S FAILURE TO SATISFY A REQUIREMENT
+3 DESCRIBED IN SUBSECTION (5)(a) OF THIS SECTION CONSTITUTES AN
+4 AFFIRMATIVE DEFENSE FOR THE TENANT WHO IS THE SUBJECT OF THE
+5 DEMAND IN ANY ACTION THAT PROCEEDS THEREAFTER TO EVICT THE
+6 TENANT.
+7 (6) IF A LANDLORD POSTS A WRITTEN DEMAND OR NOTICE
+8 REQUIRED BY SECTION 13-40-104 OR 38-12-1303:
+9 (a) THE DEMAND OR NOTICE MUST INCLUDE A CITATION TO THE
+10 SPECIFIC PROVISION WITHIN SECTION 13-40-104 (1) OR 38-12-1303 (2)
+11 THAT DESCRIBES THE BASIS FOR THE DEMAND OR NOTICE; AND
+12 (b) THE LANDLORD SHALL REDACT FROM THE DOCUMENT ANY
+13 SOCIAL SECURITY NUMBERS, DATES OF BIRTH, DRIVER'S LICENSE OR STATE
+14 IDENTIFICATION NUMBERS, AND BANK ACCOUNT, CREDIT CARD, AND DEBIT
+15 CARD NUMBERS.
+16 SECTION 3. In Colorado Revised Statutes, 13-40-110, amend
+17 (3) and (3.5) as follows:
+18 13-40-110. Action - how commenced - report.
+19 (3) The A complaint FILED PURSUANT TO THIS ARTICLE 40 must
+20 include:
+21 (a) A designation of whether the plaintiff elects to participate in
+22 any hearing in person or remotely by phone or video on a platform
+23 designated by the court. Upon filing AFTER THE PLAINTIFF FILES the
+24 complaint, the court shall provide the plaintiff with any necessary
+25 information to facilitate the plaintiff's participation.
+26 (b) A box indicating if WHETHER the eviction is for a residential
+27 or commercial tenancy;
+-6- HB26-1047
+
+1 (c) A COPY OF THE NOTICE TO VACATE OR DEMAND THAT WAS
+2 SERVED PURSUANT TO SECTION 13-40-108; AND
+3 (d) FOR COMPLAINTS FILED RELATING TO AN ALLEGED LEASE
+4 VIOLATION OR A NO-FAULT EVICTION, AS DESCRIBED IN SECTION
+5 38-12-1303, ANY RECORDS IN THE LANDLORD'S POSSESSION THAT PERTAIN
+6 TO THE ALLEGED LEASE VIOLATION OR NO-FAULT EVICTION.
+7 (3.5) If the A RESIDENTIAL tenant provides written or actual notice
+8 to the A landlord that the RESIDENTIAL tenant is a victim-survivor of
+9 unlawful sexual behavior, stalking, domestic violence, or domestic abuse,
+10 AS THOSE TERMS ARE DEFINED IN SECTION 13-40-104, and the
+11 RESIDENTIAL tenant consents to the landlord sharing the information with
+12 the court, the landlord shall disclose the information on the complaint or
+13 with the return of service filed with the court.
+14 SECTION 4. In Colorado Revised Statutes, 13-40-110.5, amend
+15 (3)(a) and (4); and add (7) as follows:
+16 13-40-110.5. Automatic suppression of court records -
+17 definition.
+18 (3) (a) Except as provided in subsection (3)(b) of this section,
+19 when AFTER an order granting the A plaintiff possession of the A premises
+20 is entered in an action to which this section applies:
+21 (I) IF THE RECORD CONCERNS AN ACTION FILED UNDER SECTION
+22 13-40-104 (1)(d.5) FOR A SUBSTANTIAL VIOLATION OF A LEASE, the record
+23 is no longer a suppressed court record, and the court shall make the record
+24 available to the public unless the parties to the action agree that the record
+25 remain suppressed. If the parties agree that the record remain suppressed,
+26 the record remains a suppressed court record.
+27 (II) IF THE RECORD DOES NOT CONCERN AN ACTION UNDER
+-7- HB26-1047
+
+1 SECTION 13-40-104 (1)(d.5) FOR A SUBSTANTIAL VIOLATION OF A LEASE,
+2 THE RECORD REMAINS A SUPPRESSED COURT RECORD.
+3 (4) The names of the parties included in a court record that is
+4 suppressed pursuant to this section may be used by the court for
+5 administrative purposes, but the court shall not, for any reason, publish
+6 the names of the parties online. A COURT MAY PUBLISH A JUDICIAL
+7 OPINION CONCERNING AN ACTION PURSUANT TO THIS ARTICLE 40 IF THE
+8 NAMES AND IDENTIFIERS OF THE PARTIES ARE ANONYMIZED.
+9 (7) IF A RECORD OF AN EVICTION ACTION IS SUPPRESSED PURSUANT
+10 TO THIS SECTION, A TENANT WHO IS PARTY TO THE EVICTION ACTION MAY
+11 DENY OR NOT DISCLOSE THE EXISTENCE OF THE RECORD IF AN INQUIRY IS
+12 MADE DURING THE TENANT SCREENING OR RENTAL APPLICATION PROCESS.
+13 SECTION 5. In Colorado Revised Statutes, amend 38-12-802 as
+14 follows:
+15 38-12-802. Tenant payment - receipts - nonelectronic payment
+16 options.
+17 (1) (a) Upon receiving any payment made in person by a tenant
+18 with cash or a money order, a landlord shall contemporaneously provide
+19 the tenant with a receipt indicating the amount the tenant paid and the
+20 date of payment.
+21 (b) If the A landlord receives a payment that is not delivered in
+22 person by the tenant with cash or a money order, if requested by the
+23 tenant, the landlord shall, within seven days after the request, provide the
+24 tenant with a receipt indicating the amount the tenant paid, the recipient,
+25 and the date of payment, unless there is already an existing procedure that
+26 provides a tenant with a record of the payment received that indicates the
+27 amount the tenant paid, the recipient, and the date of payment.
+-8- HB26-1047
+
+1 (c) A landlord may provide the tenant with an electronic receipt
+2 unless the tenant requests a paper receipt, in which case the landlord shall
+3 provide the tenant with a paper receipt. For purposes of this section, a
+4 receipt may be included as part of a billing statement.
+5 (2) A LANDLORD SHALL PROVIDE A TENANT AT LEAST ONE RENT
+6 PAYMENT OPTION THAT DOES NOT REQUIRE THE TENANT TO ACCESS AN
+7 ONLINE PORTAL OR PAY A TRANSACTION FEE.
+8 SECTION 6. Safety clause. The general assembly finds,
+9 determines, and declares that this act is necessary for the immediate
+10 preservation of the public peace, health, or safety or for appropriations for
+11 the support and maintenance of the departments of the state and state
+12 institutions.
+-9- HB26-1047

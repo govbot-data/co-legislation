@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0738.01 Josh Schultz x5486 SENATE BILL 26-093
+SENATE SPONSORSHIP
+Sullivan,
+HOUSE SPONSORSHIP
+Mauro,
+Senate Committees House Committees
+Business, Labor, & Technology
+A BILL FOR AN ACT
+101 CONCERNING ENSURING COMPLIANCE WITH WORKERS'
+102 COMPENSATION INSURANCE COVERAGE REQUIREMENTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits the state, a county, a municipality, a city and
+county, a district, or other political subdivision of the state (governmental
+entity) from issuing or renewing a building permit, construction permit,
+or contractor's license unless the applicant has first filed with the
+governmental entity's licensing authority or permitting agency a signed
+declaration verifying that the applicant, the general contractor, and every
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+subcontractor at any tier either maintains valid workers' compensation
+insurance coverage or has rejected such coverage. An applicant shall
+provide proof of the workers' compensation insurance coverage or proof
+of rejection of coverage through filing specified documents.
+Prior to commencing any work under a building or construction
+permit, a general contractor or permit holder shall ensure that every
+subcontractor at any tier and any person performing work under the
+permit has provided proof of workers' compensation insurance coverage
+or proof of rejection of coverage.
+If at any time the governmental entity's licensing authority or
+permitting agency finds that a violation of the bill has occurred, the
+governmental entity's licensing authority or permitting agency shall
+revoke or suspend any building permit, construction permit, or
+contractor's license issued to that contractor.
+The director of the division of workers' compensation is authorized
+to adopt rules to implement the bill, including procedures for electronic
+verification of coverage, reporting requirements, and coordination with
+licensing authorities and permitting agencies.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 8-41-213 as
+3 follows:
+4 8-41-213. Declaration of workers' compensation required -
+5 building permit - construction permit - contractor's license - rules -
+6 definitions.
+7 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+8 REQUIRES:
+9 (a) "APPLICANT" MEANS A PERSON APPLYING FOR A PERMIT OR
+10 LICENSE WITH THE LICENSING AUTHORITY OR PERMITTING AGENCY OF A
+11 GOVERNMENTAL ENTITY THAT IS AN EMPLOYER.
+12 (b) "GOVERNMENTAL ENTITY" MEANS THE STATE, A COUNTY, A
+13 MUNICIPALITY, A CITY AND COUNTY, A DISTRICT, OR OTHER POLITICAL
+14 SUBDIVISION OF THE STATE.
+15 (c) "LICENSE" MEANS A CONTRACTOR'S LICENSE.
+-2- SB26-093
+
+1 (d) "PERMIT" MEANS A BUILDING PERMIT OR CONSTRUCTION
+2 PERMIT.
+3 (2) A GOVERNMENTAL ENTITY SHALL NOT ISSUE OR RENEW A
+4 PERMIT OR LICENSE UNLESS THE APPLICANT HAS FIRST FILED WITH THE
+5 GOVERNMENTAL ENTITY'S LICENSING AUTHORITY OR PERMITTING AGENCY
+6 A SIGNED DECLARATION, UNDER PENALTY OF PERJURY, VERIFYING THAT
+7 THE APPLICANT, THE GENERAL CONTRACTOR, AND EVERY
+8 SUBCONTRACTOR AT ANY TIER PERFORMING WORK UNDER A PERMIT
+9 EITHER MAINTAINS VALID WORKERS' COMPENSATION INSURANCE
+10 COVERAGE OR HAS REJECTED SUCH COVERAGE.
+11 (3) ALONG WITH THE DECLARATION REQUIRED UNDER SUBSECTION
+12 (2) OF THIS SECTION, AN APPLICANT SHALL PROVIDE PROOF OF WORKERS'
+13 COMPENSATION INSURANCE COVERAGE OR REJECTION OF WORKERS'
+14 COMPENSATION INSURANCE COVERAGE BY SUBMITTING ONE OF THE
+15 FOLLOWING TO THE LICENSING AUTHORITY OR PERMITTING AGENCY PRIOR
+16 TO THE ISSUANCE OR RENEWAL OF ANY PERMIT OR LICENSE:
+17 (a) A VALID CERTIFICATE OF WORKERS' COMPENSATION
+18 INSURANCE;
+19 (b) A SELF-INSURANCE PERMIT ISSUED BY THE EXECUTIVE
+20 DIRECTOR AS PROVIDED IN SECTION 8-44-201 OR A SELF-INSURANCE
+21 CERTIFICATE OF AUTHORITY FROM THE COMMISSIONER OF INSURANCE AS
+22 PROVIDED IN SECTION 8-44-205; OR
+23 (c) AN APPROVED REJECTION OF COVERAGE FORM ISSUED BY THE
+24 DIVISION PURSUANT TO SECTION 8-41-202 (1) CERTIFYING THAT THE
+25 APPLICANT DOES NOT HAVE EMPLOYEES SUBJECT TO THIS SECTION.
+26 (4) THIS SECTION APPLIES REGARDLESS OF WHETHER THE
+27 GOVERNMENTAL ENTITY REQUIRES A LICENSE. AT THE TIME OF LICENSE OR
+-3- SB26-093
+
+1 PERMIT ISSUANCE OR RENEWAL, A LICENSING AUTHORITY OR PERMITTING
+2 AGENCY SHALL CONFIRM PROOF OF COVERAGE OR REJECTION OF
+3 COVERAGE, EITHER THROUGH THE DOCUMENTS PROVIDED UNDER
+4 SUBSECTION (3) OF THIS SECTION OR BY VERIFYING COVERAGE THROUGH
+5 ELECTRONIC MEANS.
+6 (5) PRIOR TO COMMENCING ANY WORK UNDER A PERMIT, A
+7 GENERAL CONTRACTOR OR PERMIT HOLDER SHALL ENSURE THAT EVERY
+8 PERSON PERFORMING WORK UNDER THE PERMIT HAS PROVIDED TO THE
+9 GENERAL CONTRACTOR OR PERMIT HOLDER PROOF OF WORKERS'
+10 COMPENSATION INSURANCE COVERAGE OR PROOF OF REJECTION OF
+11 COVERAGE AS DESCRIBED IN SUBSECTION (3) OF THIS SECTION. THE
+12 GENERAL CONTRACTOR OR PERMIT HOLDER SHALL RETAIN COPIES OF THE
+13 PROOF OF COVERAGE OR PROOF OF REJECTION OF COVERAGE FOR THE
+14 DURATION OF THE PROJECT AND MAKE THE COPIES AVAILABLE FOR
+15 INSPECTION BY THE LICENSING AUTHORITY, PERMITTING AGENCY, OR
+16 DIVISION UPON REQUEST.
+17 (6) (a) IF A PERSON FILES A COMPLAINT WITH A LICENSING
+18 AUTHORITY OR PERMITTING AGENCY ALLEGING A CONTRACTOR'S
+19 WORKERS' COMPENSATION INSURANCE COVERAGE IS NOT IN COMPLIANCE
+20 WITH REQUIREMENTS OF ARTICLES 40 TO 47 OF THIS TITLE 8, THE
+21 LICENSING AUTHORITY OR PERMITTING AGENCY SHALL INVESTIGATE THE
+22 ALLEGED VIOLATION.
+23 (b) IF AT ANY TIME A LICENSING AUTHORITY OR PERMITTING
+24 AGENCY, UPON INVESTIGATION OF A COMPLAINT OR UPON INDEPENDENT
+25 INVESTIGATION, FINDS THAT A VIOLATION OF THIS SECTION HAS
+26 OCCURRED, THE LICENSING AUTHORITY OR PERMITTING AGENCY SHALL
+27 REVOKE OR SUSPEND ANY PERMIT OR LICENSE ISSUED TO THAT
+-4- SB26-093
+
+1 CONTRACTOR.
+2 (c) SUSPENSION OR REVOCATION PURSUANT TO SUBSECTION (6)(b)
+3 OF THIS SECTION REMAINS IN EFFECT UNTIL THE CONTRACTOR PROVIDES
+4 PROOF OF VALID COVERAGE OR REJECTION OF COVERAGE AND RESOLVES
+5 ANY PENALTIES ISSUED PURSUANT TO SECTION 8-43-409.
+6 (d) (I) A LICENSING AUTHORITY OR PERMITTING AGENCY THAT
+7 SUSPENDS OR REVOKES A PERMIT OR LICENSE UNDER THIS SECTION SHALL
+8 NOTIFY THE DIVISION WITHIN TEN BUSINESS DAYS AFTER THE SUSPENSION
+9 OR REVOCATION.
+10 (II) IF A LICENSING AUTHORITY OR PERMITTING AGENCY
+11 REINSTATES A PERMIT OR LICENSE THAT WAS SUSPENDED OR REVOKED
+12 PURSUANT TO SUBSECTION (6)(d)(I) OF THIS SECTION, THE LICENSING
+13 AUTHORITY OR PERMITTING AGENCY SHALL NOTIFY THE DIVISION WITHIN
+14 TEN BUSINESS DAYS AFTER REINSTATEMENT.
+15 (7) THE DIRECTOR MAY ADOPT RULES TO IMPLEMENT THIS
+16 SECTION, INCLUDING PROCEDURES FOR ELECTRONIC VERIFICATION OF
+17 COVERAGE, REPORTING REQUIREMENTS, AND COORDINATION WITH
+18 LICENSING AUTHORITIES AND PERMITTING AGENCIES.
+19 SECTION 2. Applicability. This act applies to conduct occurring
+20 on or after the effective date of this act, including determinations of
+21 permit or license applications pending on the effective date.
+22 SECTION 3. Safety clause. The general assembly finds,
+23 determines, and declares that this act is necessary for the immediate
+24 preservation of the public peace, health, or safety or for appropriations for
+25 the support and maintenance of the departments of the state and state
+26 institutions.
+-5- SB26-093

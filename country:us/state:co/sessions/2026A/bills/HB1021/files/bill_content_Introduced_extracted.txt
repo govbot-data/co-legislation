@@ -1,0 +1,1071 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0600.01 Conrad Imel x2313 HOUSE BILL 26-1021
+HOUSE SPONSORSHIP
+Bradley and Brooks,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO PROTECT SECOND AMENDMENT RIGHTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill repeals various state laws related to firearms and other
+weapons. Specifically, the bill repeals provisions concerning:
+! Unlawfully carrying a firearm at a polling location or drop
+box offense;
+! The presumption that an individual engages in
+election-related intimidation if the individual carries a
+visible firearm, imitation firearm, or toy firearm while
+interacting with or observing specified election activities;
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Firearm industry standards of responsible conduct enacted
+in Senate Bill 23-168, enacted in 2023, and the bill restores
+the firearms product liability provisions that existed prior
+to the enactment of Senate Bill 23-168;
+! Payment processing for retail sales of firearms;
+! Designating as peace officers the following personnel of
+the firearms dealer division within the department of
+revenue: The director, deputy directors, agents in charge,
+criminal investigator supervisors, and criminal
+investigators;
+! Including in a mandatory criminal protection order a
+requirement for a defendant to relinquish firearms and
+ammunition;
+! The classification of a rapid-fire device as a dangerous
+weapon;
+! Prohibitions on knowingly carrying a firearm in specified
+government buildings and licensed child care centers;
+! Unlawfully carrying a concealed weapon;
+! Unlawfully possessing explosive, incendiary, or other
+dangerous devices in certain legislative buildings;
+! Unlawfully carrying a firearm at a licensed child care
+center; a public or private elementary, middle, junior high,
+high, or vocational school; or a public or private college or
+university;
+! Requirements to store a firearm, including in a vehicle;
+! The requirement for the department of public health and
+environment to conduct a firearms safe storage education
+campaign;
+! Prohibitions on certain conduct involving an unserialized
+firearm, frame, or receiver;
+! The requirement to conduct a background check on the
+transferee in a private firearm transfer;
+! Setting the minimum age to buy a firearm at 21 years old;
+! The 3-day waiting period for firearm sales;
+! Certain prohibited activity involving semiautomatic
+firearms, including the prohibition on purchasing a firearm
+without having completed certain educational
+requirements, and the associated firearms training and
+safety course record system;
+! Ammunition sales;
+! Permitting local entities to prohibit carrying a concealed
+handgun in certain areas;
+! Prohibiting the possession of certain ammunition
+magazines, and marking requirements on certain
+ammunition magazines manufactured in Colorado on or
+-2- HB26-1021
+
+after July 1, 2013;
+! The requirement to have a state permit to deal firearms in
+Colorado and the requirements for dealers and dealers'
+employees;
+! Gun show regulations;
+! Providing materials about gun violence prevention to
+parents with students in K-12 schools;
+! The authority of the Colorado bureau of investigation to
+investigate particular illegal activity involving firearms
+statewide;
+! The voluntary waiver of the right to purchase a firearm;
+and
+! The authority of a local government to enact an ordinance,
+regulation, or other law governing or prohibiting the sale,
+purchase, transfer, or possession of a firearm, ammunition,
+or firearm component or accessory.
+The bill repeals the office of gun violence prevention.
+As part of the repeals described above, the firearms training and
+safety course cash fund is repealed and the voluntary waiver of the right
+to purchase a firearm program, which is funded by gifts, grants, and
+donations, is repealed. The bill directs the state treasurer to return the
+money in the firearms training and safety course cash fund to the persons
+who paid fees into the fund and to return to the grantors and donors the
+balance of the gifts, grants, and donations made in support of the
+voluntary waiver of the right to purchase a firearm program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "Second
+3 Amendment Protection Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) For more than 15 years, the state of Colorado and successive
+7 general assemblies have waged an unrelenting and deliberate assault on
+8 the constitutional right of the people to keep and bear arms. Under the
+9 false pretense of public safety, lawmakers have enacted a steady stream
+10 of punitive, ideologically driven gun control measures designed not to
+11 stop criminals but to exhaust, intimidate, and disarm law-abiding citizens.
+-3- HB26-1021
+
+1 (b) In the 2 most recent regular legislative sessions, the general
+2 assembly passed more than a dozen anti-gun laws that infringe on
+3 individuals' due process rights, destroy family-owned businesses,
+4 criminalize ordinary behavior, and drive hardworking Coloradans out of
+5 the state. These actions represent not governance but hostility toward the
+6 people whose rights this general assembly is sworn to protect.
+7 (c) The founding fathers did not draft the United States
+8 constitution as a suggestion, nor did they leave its meaning open to
+9 political fashion or activist reinterpretation. They wrote it plainly and
+10 deliberately to restrain government power. The second amendment could
+11 not be more clear: "[T]he right of the people to keep and bear arms shall
+12 not be infringed." The rights protected by the second amendment are not
+13 limited, not conditional, and not negotiable.
+14 (d) The second amendment does not exist for sport, recreation, or
+15 even personal defense alone. Its core purpose is to ensure that ultimate
+16 power remains with the people, not centralized in an overreaching
+17 government that believes itself immune from constitutional limits. Every
+18 attempt to weaken, regulate, or nullify rights protected by the second
+19 amendment is an attempt to consolidate power away from the citizenry
+20 and toward the state.
+21 (2) The general assembly further finds that:
+22 (a) An overwhelming majority of firearm restrictions enacted in
+23 Colorado since 2013 are incompatible with the text, history, and tradition
+24 of the second amendment, the constitutional standard affirmed by the
+25 United States supreme court in N.Y. State Rifle & Pistol Association v.
+26 Bruen, 597 U.S. 1 (2022). The legislators and lobbyists responsible for
+27 these laws have demonstrated either willful ignorance or outright
+-4- HB26-1021
+
+1 contempt for that standard.
+2 (b) Colorado's legislative process has been captured by a
+3 well-funded out-of-state anti-gun lobby and its billionaire donors whose
+4 influence drowns out the voices of ordinary Coloradans and pressures
+5 lawmakers to advance unconstitutional policies regardless of their
+6 consequences;
+7 (c) During the very period in which gun control laws have
+8 multiplied, Colorado has experienced a sustained and alarming rise in
+9 violent crime. The state has ranked first in the nation for motor vehicle
+10 theft and has ranked consistently among the most dangerous states in the
+11 country, which is clear evidence that disarming the law-abiding has not,
+12 and will not, stop criminal violence.
+13 (d) Law-abiding firearm carriers stop thousands of crimes
+14 annually, with estimates ranging from 60,000 to 90,000 crimes stopped
+15 each year to estimates of as many as 1.6 to 2.5 million defensive actions
+16 per year involving firearms, based on self-reported surveys;
+17 (e) The people of Colorado have been subjected to escalating
+18 lawlessness, organized criminal activity, and unchecked violence while
+19 simultaneously being stripped of their ability to defend themselves. They
+20 have been told to rely on a system that repeatedly fails them while their
+21 constitutional rights are treated as obstacles rather than guarantees.
+22 (3) The general assembly further declares that:
+23 (a) The laws repealed in this act are blatant violations of the
+24 second amendment; leave Coloradans more vulnerable to both domestic
+25 and foreign threats; embolden criminals while punishing the innocent;
+26 and represent a direct threat to the liberty, security, and self-determination
+27 of the people of this great state; and
+-5- HB26-1021
+
+1 (b) The right to keep and bear arms is not a privilege granted by
+2 government; it is a safeguard against government overreach. Colorado
+3 will no longer be complicit in its erosion.
+4 SECTION 3. In Colorado Revised Statutes, repeal 1-13-724,
+5 1-13-726, article 27 of title 6, 16-2.5-121.5, 18-1-1001 (3)(a)(I)(C) and
+6 (9), 18-12-105, 18-12-105.3, 18-12-105.5, 18-12-111.5, 18-12-112,
+7 18-12-114, 18-12-114.5, 18-12-115, 18-12-116, 18-12-117, part 3 of
+8 article 12 of title 18, 18-12-401 (6), 18-12-401.5, 18-12-405, 18-12-406,
+9 18-12-407, part 5 of article 12 of title 18, 22-1-150, 24-33.5-424.7,
+10 24-35-122, 25-1-131, part 12 of article 20.5 of title 25, and 33-9-115.
+11 SECTION 4. In Colorado Revised Statutes, 1-13-726, repeal
+12 (2)(a), (2)(b), and (4) as follows:
+13 1-13-726. Intimidation of voters or election officials - civil
+14 enforcement - short title - definitions.
+15 (2) Definitions. As used in this section, unless the context
+16 otherwise requires:
+17 (a) "Firearm" has the same meaning as set forth in section
+18 18-1-901 (3)(h).
+19 (b) "Imitation firearm" means an object or device reasonably
+20 capable of being mistaken for a firearm or for a weapon that uses
+21 compressed air or another gas to fire a projectile.
+22 (4) Presumption of engaging in election-related intimidation.
+23 (a) An individual who carries a visible firearm, imitation firearm,
+24 or toy firearm while interacting with or observing any of the activities
+25 described in subsection (3) of this section is presumed, in the absence of
+26 any affirmative showing to the contrary by a preponderance of the
+27 evidence, to have engaged in intimidation prohibited by this section.
+-6- HB26-1021
+
+1 (b) The presumption specified in subsection (4)(a) of this section
+2 does not apply to a law enforcement officer acting within the scope of the
+3 officer's official duties or to a uniformed security guard employed by a
+4 contract security agency, as defined in section 24-33.5-415.4, acting
+5 within the scope of the authority granted by and in the performance of a
+6 contractual agreement for the provision of security services with a person
+7 or entity that owns or controls the facility, building, or location subject to
+8 this section. Accordingly, a plaintiff must allege more than such a law
+9 enforcement officer's or uniformed security guard's possession of a
+10 holstered firearm to state a claim under this section; except that a court
+11 may consider a law enforcement officer's or uniformed security guard's
+12 possession of a firearm in determining whether the law enforcement
+13 officer or uniformed security guard violated subsection (3) of this section.
+14 SECTION 5. In Colorado Revised Statutes, recreate and
+15 reenact, with amendments, part 5 of article 21 of title 13 as follows:
+16 PART 5
+17 PRODUCT LIABILITY ACTIONS -
+18 FIREARMS AND AMMUNITION
+19 13-21-501. Legislative declaration.
+20 (1) THE GENERAL ASSEMBLY DECLARES THAT IT IS THE POLICY IN
+21 THIS STATE THAT PRODUCT LIABILITY FOR INJURY, DAMAGE, OR DEATH
+22 CAUSED BY THE DISCHARGE OF A FIREARM OR AMMUNITION MUST BE
+23 BASED ONLY UPON AN ACTUAL DEFECT IN THE DESIGN OR MANUFACTURE
+24 OF THE FIREARM OR AMMUNITION AND NOT UPON THE INHERENT
+25 POTENTIAL OF A FIREARM OR AMMUNITION TO CAUSE INJURY, DAMAGE, OR
+26 DEATH WHEN DISCHARGED.
+27 (2) THE GENERAL ASSEMBLY FURTHER FINDS THAT IT IS THE
+-7- HB26-1021
+
+1 POLICY OF THIS STATE THAT A CIVIL ACTION IN TORT FOR ANY REMEDY
+2 ARISING FROM PHYSICAL OR EMOTIONAL INJURY, PHYSICAL DAMAGE, OR
+3 DEATH CAUSED BY THE DISCHARGE OF A FIREARM OR AMMUNITION MUST
+4 BE BASED ONLY UPON AN ACTUAL DEFECT IN THE DESIGN OR
+5 MANUFACTURE OF THE FIREARM OR AMMUNITION OR UPON THE
+6 COMMISSION OF A VIOLATION OF A STATE OR FEDERAL STATUTE OR
+7 REGULATION AND NOT UPON ANY OTHER THEORY OF LIABILITY. THE
+8 GENERAL ASSEMBLY ALSO FINDS THAT A FIREARMS OR AMMUNITION
+9 MANUFACTURER, IMPORTER, OR DEALER SHALL NOT BE HELD LIABLE FOR
+10 THE ACTIONS OF ANOTHER PERSON UNDER ANY THEORY OF LIABILITY.
+11 13-21-502. Product liability action - definition.
+12 AS USED IN THIS PART 5, UNLESS THE CONTEXT OTHERWISE
+13 REQUIRES, "PRODUCT LIABILITY ACTION" MEANS A CLAIM FOR DAMAGES
+14 BROUGHT AGAINST A MANUFACTURER, DISTRIBUTOR, IMPORTER, OR
+15 SELLER OF FIREARMS OR AMMUNITION ALLEGING A DEFECT IN THE DESIGN
+16 OR MANUFACTURE OF A FIREARM OR AMMUNITION.
+17 13-21-503. Determination of defect - burden of proof.
+18 (1) IN A PRODUCT LIABILITY ACTION, WHETHER A FIREARM OR
+19 AMMUNITION IS DEEMED DEFECTIVE IN DESIGN MUST NOT BE BASED UPON
+20 ITS POTENTIAL TO CAUSE INJURY, DAMAGE, OR DEATH WHEN DISCHARGED.
+21 (2) THE PLAINTIFF HAS THE BURDEN TO PROVE, IN ADDITION TO
+22 ANY OTHER ELEMENTS REQUIRED TO BE PROVEN:
+23 (a) IN A PRODUCT LIABILITY ACTION ALLEGING A DESIGN DEFECT,
+24 THAT THE ACTUAL DESIGN WAS DEFECTIVE AND THAT THE DEFECTIVE
+25 DESIGN WAS THE PROXIMATE CAUSE OF THE INJURY, DAMAGE, OR DEATH;
+26 AND
+27 (b) IN A PRODUCT LIABILITY ACTION ALLEGING A DEFECT IN
+-8- HB26-1021
+
+1 MANUFACTURE, THAT THE FIREARM OR AMMUNITION WAS MANUFACTURED
+2 AT VARIANCE FROM ITS DESIGN AND THAT THE DEFECTIVE MANUFACTURE
+3 WAS THE PROXIMATE CAUSE OF THE INJURY, DAMAGE, OR DEATH.
+4 (3) THE INHERENT POTENTIAL OF A FIREARM OR AMMUNITION TO
+5 CAUSE INJURY, DAMAGE, OR DEATH WHEN DISCHARGED IS NOT A BASIS FOR
+6 A FINDING THAT THE PRODUCT IS DEFECTIVE IN DESIGN OR MANUFACTURE.
+7 13-21-504. Proximate cause.
+8 (1) IN A PRODUCT LIABILITY ACTION, THE ACTUAL DISCHARGE OF
+9 A FIREARM OR AMMUNITION MUST BE THE PROXIMATE CAUSE OF INJURY,
+10 DAMAGE, OR DEATH RESULTING FROM THE USE OF THE PRODUCT AND NOT
+11 THE INHERENT CAPABILITY OF THE PRODUCT TO CAUSE INJURY, DAMAGE,
+12 OR DEATH.
+13 (2) THE MANUFACTURER'S, IMPORTER'S, OR DISTRIBUTOR'S
+14 PLACEMENT OF A FIREARM OR AMMUNITION IN THE STREAM OF COMMERCE,
+15 EVEN IF THE PLACEMENT IS FOUND TO BE FORESEEABLE, IS NOT CONDUCT
+16 DEEMED SUFFICIENT TO CONSTITUTE THE PROXIMATE CAUSE OF INJURY,
+17 DAMAGE, OR DEATH RESULTING FROM A THIRD PARTY'S USE OF THE
+18 PRODUCT.
+19 (3) IN A PRODUCT LIABILITY ACTION CONCERNING THE
+20 ACCIDENTAL DISCHARGE OF A FIREARM, THE MANUFACTURER'S,
+21 IMPORTER'S, OR DISTRIBUTOR'S PLACEMENT OF THE PRODUCT IN THE
+22 STREAM OF COMMERCE IS NOT CONDUCT DEEMED SUFFICIENT TO
+23 CONSTITUTE PROXIMATE CAUSE, EVEN IF ACCIDENTAL DISCHARGE IS
+24 FOUND TO BE FORESEEABLE.
+25 (4) IN ADDITION TO ANY LIMITATION OF AN ACTION SET FORTH IN
+26 SECTION 13-80-119, IN A PRODUCT LIABILITY ACTION BROUGHT BY THE
+27 PERSON WHO COMMITTED A CRIMINAL ACT, IT IS AN ABSOLUTE DEFENSE
+-9- HB26-1021
+
+1 THAT THE INJURY, DAMAGE, OR DEATH IMMEDIATELY RESULTED FROM THE
+2 USE OF THE FIREARM OR AMMUNITION DURING THE COMMISSION OF THE
+3 CRIMINAL ACT THAT IS A FELONY OR MISDEMEANOR.
+4 13-21-505. Limitations on actions - award of fees.
+5 (1) AN INDIVIDUAL OR PUBLIC OR PRIVATE ENTITY MAY NOT BRING
+6 AN ACTION IN TORT, OTHER THAN A PRODUCT LIABILITY ACTION, AGAINST
+7 A FIREARMS OR AMMUNITION MANUFACTURER, IMPORTER, OR DEALER FOR
+8 ANY REMEDY ARISING FROM PHYSICAL OR EMOTIONAL INJURY, PHYSICAL
+9 DAMAGE, OR DEATH CAUSED BY THE DISCHARGE OF A FIREARM OR
+10 AMMUNITION.
+11 (2) A FIREARMS OR AMMUNITION MANUFACTURER, IMPORTER, OR
+12 DEALER SHALL NOT, IN ANY TYPE OF ACTION, BE HELD LIABLE AS A THIRD
+13 PARTY FOR THE ACTIONS OF ANOTHER PERSON.
+14 (3) THE COURT, UPON THE FILING OF A MOTION TO DISMISS
+15 PURSUANT TO RULE 12 (b) OF THE COLORADO RULES OF CIVIL PROCEDURE,
+16 SHALL DISMISS ANY ACTION BROUGHT AGAINST A FIREARMS OR
+17 AMMUNITION MANUFACTURER, IMPORTER, OR DEALER THAT THE COURT
+18 DETERMINES IS PROHIBITED BY SUBSECTION (1) OR (2) OF THIS SECTION.
+19 UPON DISMISSAL PURSUANT TO THIS SUBSECTION (3), THE COURT SHALL
+20 AWARD REASONABLE ATTORNEY FEES, IN ADDITION TO COSTS, TO EACH
+21 DEFENDANT NAMED IN THE ACTION.
+22 (4) NOTWITHSTANDING SUBSECTION (1) OF THIS SECTION, A
+23 FIREARMS OR AMMUNITION MANUFACTURER, IMPORTER, OR DEALER MAY
+24 BE SUED IN TORT FOR ANY DAMAGES PROXIMATELY CAUSED BY AN ACT OF
+25 THE MANUFACTURER, IMPORTER, OR DEALER IN VIOLATION OF A STATE OR
+26 FEDERAL STATUTE OR REGULATION. IN ANY ACTION BROUGHT PURSUANT
+27 TO THIS SUBSECTION (4), THE PLAINTIFF HAS THE BURDEN OF PROVING BY
+-10- HB26-1021
+
+1 CLEAR AND CONVINCING EVIDENCE THAT THE DEFENDANT VIOLATED THE
+2 STATE OR FEDERAL STATUTE OR REGULATION.
+3 13-21-506. Applicability of this part 5.
+4 THIS PART 5 DOES NOT BAR RECOVERY WHEN THE PLAINTIFF
+5 PROVES THAT THE PROXIMATE CAUSE OF AN INJURY, DAMAGE, OR DEATH
+6 WAS A FIREARM OR AMMUNITION THAT CONTAINED A DEFECT IN
+7 MANUFACTURE CAUSING THE FIREARM OR AMMUNITION TO BE AT
+8 VARIANCE FROM ITS DESIGN OR THAT THE FIREARM OR AMMUNITION WAS
+9 DESIGNED SO THAT IT DID NOT FUNCTION IN THE MANNER REASONABLY
+10 EXPECTED BY THE ORDINARY CONSUMER OF THE PRODUCT.
+11 SECTION 6. In Colorado Revised Statutes, amend 16-2.5-102
+12 as follows:
+13 16-2.5-102. Certified peace officer - P.O.S.T. certification
+14 required.
+15 The following peace officers shall meet all the standards imposed
+16 by law on a peace officer and shall be certified by the P.O.S.T. board: A
+17 chief of police, a police officer, a sheriff, an undersheriff, a deputy
+18 sheriff, a Colorado state patrol officer, a town marshal, a deputy town
+19 marshal, a reserve police officer, a reserve deputy sheriff, a reserve
+20 deputy town marshal, a police officer or reserve police officer employed
+21 by a state institution of higher education, a department of revenue auto
+22 industry division employee identified in section 16-2.5-122, a department
+23 of revenue firearms dealer division employee identified in section
+24 16-2.5-121.5 (2), a Colorado wildlife officer, a Colorado parks and
+25 recreation officer, a Colorado police administrator or police officer
+26 employed by the Colorado mental health institute at Pueblo, an attorney
+27 general criminal investigator, a community parole officer, a public transit
+-11- HB26-1021
+
+1 officer, a municipal court marshal, administrators of judicial security, the
+2 department of corrections inspector general, and a Colorado ranger.
+3 SECTION 7. In Colorado Revised Statutes, 18-12-102, amend
+4 (1) as follows:
+5 18-12-102. Possessing a dangerous or illegal weapon -
+6 affirmative defense - definition.
+7 (1) As used in this section, the term "dangerous weapon" means
+8 a firearm silencer, machine gun, rapid-fire device, short shotgun, or short
+9 rifle.
+10 SECTION 8. In Colorado Revised Statutes, 18-12-112.5, amend
+11 (1)(b) and (3)(a); and repeal (1)(a.3), (1)(a.5), and (1)(c) as follows:
+12 18-12-112.5. Firearms transfers by licensed dealers - sale and
+13 purchase - background check required - penalty - definitions.
+14 (1) (a.3) A person who is a licensed gun dealer shall not make or
+15 facilitate the sale of a firearm to a person who is less than twenty-one
+16 years of age.
+17 (a.5) It is unlawful for a person who is less than twenty-one years
+18 of age to purchase a firearm. This subsection (1)(a.5) and subsection
+19 (1)(a.3) of this section do not apply if:
+20 (I) The person is an active member of the United States armed
+21 forces while on duty and serving in conformance with the policies of the
+22 United States armed forces; or
+23 (II) The person is a peace officer, as described in section
+24 16-2.5-101, while on duty and serving in conformance with the policies
+25 of the employing agency, as set forth in section 16-2.5-101 and section
+26 16-2.5-135; or
+27 (III) An individual certified by the P.O.S.T. board pursuant to
+-12- HB26-1021
+
+1 section 16-2.5-102.
+2 (b) Transferring or selling a firearm in violation of this subsection
+3 (1) is a class 1 misdemeanor.
+4 (c) Purchasing a firearm in violation of this subsection (1) is a
+5 class 2 misdemeanor.
+6 (3) As used in this section, unless the context otherwise requires:
+7 (a) "Licensed gun dealer" has the same meaning set forth in
+8 section 18-12-506 MEANS A FEDERAL FIREARMS LICENSEE AS DEFINED IN
+9 SECTION 18-12-101.
+10 SECTION 9. In Colorado Revised Statutes, 18-12-201, amend
+11 (1)(a), (1)(c), (1)(d), (1)(e), and (2); and recreate and reenact, with
+12 amendments, (1)(b) as follows:
+13 18-12-201. Legislative declaration.
+14 (1) The general assembly finds that:
+15 (a) There exists a widespread inconsistency among jurisdictions
+16 within the state with regard to the issuance of permits to carry concealed
+17 handguns AND IDENTIFICATION OF AREAS OF THE STATE WHERE IT IS
+18 LAWFUL TO CARRY CONCEALED HANDGUNS;
+19 (b) THIS INCONSISTENCY AMONG JURISDICTIONS CREATES PUBLIC
+20 UNCERTAINTY REGARDING THE AREAS OF THE STATE IN WHICH IT IS
+21 LAWFUL TO CARRY CONCEALED HANDGUNS;
+22 (c) Inconsistency regarding issuance of permits results in the
+23 arbitrary and capricious denial of permits to carry concealed handguns
+24 based on the jurisdiction of residence rather than the qualifications for
+25 obtaining a permit;
+26 (d) Officials of local governments are uniquely equipped to make
+27 determinations as to where concealed handguns can be carried in their
+-13- HB26-1021
+
+1 local jurisdictions; and THE CRITERIA AND PROCEDURES FOR THE LAWFUL
+2 CARRYING OF CONCEALED HANDGUNS HISTORICALLY HAS BEEN
+3 REGULATED BY STATE STATUTE AND SHOULD BE CONSISTENT
+4 THROUGHOUT THE STATE TO ENSURE CONSISTENT IMPLEMENTATION OF
+5 STATE LAW; AND
+6 (e) It is necessary that the state occupy the field of regulation of
+7 issuing BEARING CONCEALED HANDGUNS SINCE THE ISSUANCE OF A
+8 concealed handgun permits because PERMIT IS BASED ON AN INDIVIDUAL'S
+9 CONSTITUTIONAL RIGHT OF SELF-PROTECTION AND there is a prevailing
+10 state interest in ensuring that no A citizen is NOT arbitrarily denied a
+11 concealed handgun permit AND THAT THE LAWS CONTROLLING THE USE OF
+12 THE PERMIT ARE CONSISTENT THROUGHOUT THE STATE.
+13 (2) Based on the findings specified in subsection (1) of this
+14 section, the general assembly concludes that:
+15 (a) The criteria and procedures for issuing permits to carry
+16 PERMITTING AND CARRYING OF concealed handguns is a matter of
+17 statewide concern; AND
+18 (b) It is necessary to provide statewide uniform standards for
+19 issuing permits to carry concealed handguns for self-defense. and
+20 (c) Whether concealed handguns can be carried in a specific area
+21 is a matter of state and local concern.
+22 SECTION 10. In Colorado Revised Statutes, 18-12-214, amend
+23 (1)(a) and (3)(a); and repeal (1)(c), (2.5), and (3.5) as follows:
+24 18-12-214. Authority granted by permit - carrying restrictions
+25 - local authority.
+26 (1) (a) A permit to carry a concealed handgun authorizes the
+27 permittee to carry a concealed handgun in all areas of the state, except as
+-14- HB26-1021
+
+1 specifically limited in this section. A permit does not authorize the
+2 permittee to use a handgun in a manner that would violate a provision of
+3 state law. A LOCAL GOVERNMENT DOES NOT HAVE AUTHORITY TO ADOPT
+4 OR ENFORCE AN ORDINANCE OR RESOLUTION THAT CONFLICTS WITH THIS
+5 PART 2.
+6 (c) (I) A local government, including a special district, or the
+7 governing board of an institution of higher education, including the board
+8 of directors of the Auraria higher education center, may enact an
+9 ordinance, resolution, rule, or other regulation that prohibits a permittee
+10 from carrying a concealed handgun in a building or specific area within
+11 the local government's or governing board's jurisdiction, or for a special
+12 district, in a building or specific area under the direct control or
+13 management of the district, including a building or facility managed
+14 pursuant to an agreement between the district and a contractor. An
+15 ordinance, resolution, or other regulation prohibiting a permittee from
+16 carrying a concealed handgun may only impose a civil penalty for a
+17 violation and require the person to leave the premises. For a first offense,
+18 the ordinance, resolution, or other regulation may not impose a fine that
+19 exceeds fifty dollars and may not impose a sentence of incarceration. A
+20 person who does not leave the premises when required may be subject to
+21 criminal penalties.
+22 (II) If a local government or governing board prohibits carrying
+23 a concealed handgun in a building or specific area, the local government
+24 or governing board shall post signs at the public entrances to the building
+25 or specific area informing persons that carrying a concealed handgun is
+26 prohibited in the building or specific area. The notice required by this
+27 section may be included on a sign describing open carry restrictions
+-15- HB26-1021
+
+1 posted in accordance with section 29-11.7-104.
+2 (2.5) A permit issued pursuant to this part 2 does not authorize a
+3 person to carry a concealed handgun into a place where the carrying of
+4 concealed handguns is prohibited by a local ordinance, resolution, rule,
+5 or other regulation.
+6 (3) A permit issued pursuant to this part 2 does not authorize a
+7 person to carry a concealed handgun onto the real property, or into any
+8 improvements erected thereon, of a public elementary, middle, junior
+9 high, or high school; except that:
+10 (a) A permittee may have a handgun on the real property of the
+11 public school so long as the handgun remains in the permittee's vehicle
+12 and, if the permittee leaves the vehicle unattended, the permittee stores
+13 the firearm pursuant to section 18-12-114.5 IS NOT IN THE VEHICLE, THE
+14 HANDGUN IS IN A COMPARTMENT WITHIN THE VEHICLE AND THE VEHICLE
+15 IS LOCKED;
+16 (3.5) A permit issued pursuant to this part 2 does not authorize a
+17 person to carry a concealed handgun:
+18 (a) Onto the real property, or into any improvements erected
+19 thereon, of a licensed child care center, as defined in section 18-12-105.5,
+20 or a public or private college, university, or seminary in violation of
+21 section 18-12-105.5;
+22 (b) In a government building in violation of section 18-12-105.3;
+23 or
+24 (c) At a polling location, drop box, or central count facility, in
+25 violation of section 1-13-724.
+26 SECTION 11. In Colorado Revised Statutes, 24-33.5-412,
+27 amend (1)(r); and repeal (1)(t) and (10) as follows:
+-16- HB26-1021
+
+1 24-33.5-412. Functions of bureau - legislative review -
+2 interagency cooperation with reporting functions - processing time
+3 for criminal history record checks - computer crime - synthetic
+4 cannabinoids enforcement.
+5 (1) The bureau has the following authority:
+6 (r) To conduct criminal history records checks pursuant to section
+7 24-72-305.3; AND
+8 (t) To investigate throughout the state criminal activity involving
+9 firearms described in article 12 of title 18, including investigating illegal
+10 firearm transfers and attempts, as described in section 18-2-101, to
+11 illegally obtain a firearm. The bureau shall communicate with the
+12 appropriate local law enforcement agency to deconflict investigative
+13 operations and determine investigative responsibilities prior to taking
+14 investigative or enforcement action and shall collaborate with the local
+15 district attorney in the jurisdiction where the bureau is conducting an
+16 investigation in the beginning stages of the investigation. This subsection
+17 (1)(t) does not authorize the bureau to investigate other criminal activity
+18 encountered during a firearms-related investigation without consent from,
+19 or in collaboration with, the local law enforcement agency as required by
+20 law.
+21 (10) An agent or other employee of the bureau who is a peace
+22 officer shall wear and activate a body-worn camera in accordance with
+23 section 24-31-902 when conducting any public-facing part of an
+24 investigation pursuant to subsection (1)(t) of this section.
+25 SECTION 12. In Colorado Revised Statutes, 29-11.7-101,
+26 amend (1) introductory portion, (1)(d), (1)(e), and (2); and recreate and
+27 reenact, with amendments, (1)(f) and (1)(g) as follows:
+-17- HB26-1021
+
+1 29-11.7-101. Legislative declaration.
+2 (1) The general assembly hereby finds that:
+3 (d) The state has an interest in the regulation of firearms due to
+4 the ease of transporting firearms between local jurisdictions; and THERE
+5 EXISTS A WIDESPREAD INCONSISTENCY AMONG JURISDICTIONS WITHIN THE
+6 STATE WITH REGARD TO FIREARMS REGULATIONS;
+7 (e) Officials of local governments are uniquely equipped to make
+8 determinations as to regulations necessary in their local jurisdictions. THE
+9 INCONSISTENCY AMONG LOCAL LAWS REGULATING LAWFUL FIREARM
+10 POSSESSION AND OWNERSHIP HAS AN EXTRATERRITORIAL IMPACT ON
+11 STATE CITIZENS AND THE GENERAL PUBLIC BY SUBJECTING THEM TO
+12 CRIMINAL AND CIVIL PENALTIES IN SOME JURISDICTIONS FOR CONDUCT
+13 WHOLLY LAWFUL IN OTHER JURISDICTIONS;
+14 (f) INCONSISTENCY AMONG LOCAL GOVERNMENTS' LAWS
+15 REGULATING THE POSSESSION AND OWNERSHIP OF FIREARMS RESULTS IN
+16 INDIVIDUALS BEING TREATED DIFFERENTLY UNDER THE LAW SOLELY ON
+17 THE BASIS OF WHERE THEY RESIDE, AND AN INDIVIDUAL'S RESIDENCE IN A
+18 PARTICULAR COUNTY OR CITY OR CITY AND COUNTY IS NOT A RATIONAL
+19 CLASSIFICATION WHEN IT IS THE BASIS FOR DENIAL OF EQUAL TREATMENT
+20 UNDER THE LAW;
+21 (g) THE INCONSISTENCY AMONG LOCAL LAW PLACES CITIZENS IN
+22 THE POSITION OF NOT KNOWING WHEN THEY MAY BE VIOLATING THE
+23 LOCAL LAWS AND THEREFORE BEING UNABLE TO AVOID VIOLATING THE
+24 LAW AND BECOMING SUBJECT TO CRIMINAL AND OTHER PENALTIES.
+25 (2) Based on the findings specified in subsection (1) of this
+26 section, the general assembly concludes that: the regulation of firearms
+27 is a matter of state and local concern.
+-18- HB26-1021
+
+1 (a) THE REGULATION OF FIREARMS IS A MATTER OF STATEWIDE
+2 CONCERN; AND
+3 (b) IT IS NECESSARY TO PROVIDE STATEWIDE LAWS CONCERNING
+4 THE POSSESSION AND OWNERSHIP OF A FIREARM TO ENSURE THAT
+5 LAW-ABIDING PERSONS ARE NOT UNFAIRLY PLACED IN THE POSITION OF
+6 UNKNOWINGLY COMMITTING CRIMES INVOLVING FIREARMS.
+7 SECTION 13. In Colorado Revised Statutes, amend 29-11.7-103
+8 as follows:
+9 29-11.7-103. Local regulations governing firearms permitted.
+10 (1) Unless otherwise expressly prohibited pursuant to state law,
+11 A local government may SHALL NOT enact an ordinance, regulation, or
+12 other law governing or prohibiting THAT PROHIBITS the sale, purchase,
+13 transfer, or possession of a firearm, ammunition, or firearm component
+14 or accessory that a person may lawfully sell, purchase, transfer, or possess
+15 under state or federal law. The local ordinance, regulation, or other law
+16 may not impose a requirement on the sale, purchase, transfer, or
+17 possession of a firearm, ammunition, or firearm component or accessory
+18 that is less restrictive than state law, and any less restrictive AN
+19 ordinance, regulation, or other law enacted by a local government before
+20 the effective date of this section, as amended in 2021 2026, THAT
+21 CONFLICTS WITH THIS SECTION is void and unenforceable. A local
+22 ordinance, regulation, or other law governing the sale, purchase, transfer,
+23 or possession of a firearm, ammunition, or firearm component or
+24 accessory may only impose a criminal penalty for a violation upon a
+25 person who knew or reasonably should have known that the person's
+26 conduct was prohibited.
+27 (2) Nothing in this section requires the Colorado bureau of
+-19- HB26-1021
+
+1 investigation to consider anything other than state or federal law in its
+2 background approval process and determinations.
+3 (3) Nothing in this section authorizes a local government to
+4 restrict the manufacture or sale of items pursuant to a United States
+5 military or law enforcement procurement contract.
+6 SECTION 14. In Colorado Revised Statutes, add 24-36-125 as
+7 follows:
+8 24-36-125. Return of money from repealed firearms training
+9 and safety course cash fund - return of gifts, grants, and donations
+10 made for repealed voluntary waiver of the right to purchase a
+11 firearm program - repeal.
+12 (1) THE STATE TREASURER SHALL TRANSFER THE BALANCE OF THE
+13 FIREARMS TRAINING AND SAFETY COURSE CASH FUND CREATED IN SECTION
+14 33-9-115 (5)(b), AS IT EXISTED PRIOR TO ITS REPEAL IN 2026, AS FOLLOWS:
+15 (a) ON OR BEFORE DECEMBER 31, 2026, THE STATE TREASURER
+16 SHALL RETURN ANY FEES PAID INTO THE FUND TO THE INDIVIDUAL WHO
+17 PAID THE FEE. THE STATE TREASURER SHALL WORK WITH THE DIVISION OF
+18 PARKS AND WILDLIFE CREATED IN SECTION 33-9-104 TO IDENTIFY FEE
+19 PAYERS, AND THE DIVISION OF PARKS AND WILDLIFE SHALL ASSIST THE
+20 STATE TREASURER IN CARRYING OUT THIS SUBSECTION (1)(a).
+21 (b) ON JANUARY 15, 2027, THE STATE TREASURER SHALL
+22 TRANSFER THE REMAINING BALANCE OF THE FUND TO THE PARKS AND
+23 OUTDOOR RECREATION CASH FUND CREATED IN SECTION 33-10-111 (1), UP
+24 TO THE AMOUNT TRANSFERRED FROM THE PARKS AND OUTDOOR
+25 RECREATION CASH FUND TO THE FIREARMS TRAINING AND SAFETY COURSE
+26 CASH FUND PURSUANT TO SECTION 33-9-115 (5)(c), AS IT EXISTED PRIOR
+27 TO ITS REPEAL IN 2026.
+-20- HB26-1021
+
+1 (c) IF THERE IS UNEXPENDED AND UNENCUMBERED MONEY IN THE
+2 FIREARMS TRAINING AND SAFETY COURSE CASH FUND AFTER THE
+3 TRANSFER MADE PURSUANT TO SUBSECTION (1)(b) OF THIS SECTION, ON
+4 FEBRUARY 1, 2027, THE STATE TREASURER SHALL TRANSFER ALL
+5 UNEXPENDED AND UNENCUMBERED MONEY IN THE FIREARMS TRAINING
+6 AND SAFETY COURSE CASH FUND TO THE GENERAL FUND.
+7 (2) (a) ON OR BEFORE DECEMBER 31, 2026, THE STATE TREASURER
+8 SHALL RETURN TO EACH GRANTOR OR DONOR THE AMOUNT OF THE
+9 GRANTOR'S OR DONOR'S GIFTS, GRANTS, OR DONATIONS IN SUPPORT OF THE
+10 VOLUNTARY WAIVER OF THE RIGHT TO PURCHASE A FIREARM PROGRAM
+11 CREATED IN SECTION 24-33.5-424.7, AS IT EXISTED PRIOR TO ITS REPEAL
+12 IN 2026. IF THE BALANCE OF THE GIFTS, GRANTS, AND DONATIONS IS
+13 INSUFFICIENT TO RETURN THE FULL AMOUNT OF EACH GIFT, GRANT, OR
+14 DONATION, THE STATE TREASURER SHALL RETURN TO EACH GRANTOR OR
+15 DONOR THE REMAINING BALANCE IN AN AMOUNT THAT IS PROPORTIONAL
+16 TO THE GRANTOR'S OR DONOR'S SHARE OF THE TOTAL AMOUNT OF GIFTS,
+17 GRANTS, OR DONATIONS. THE DEPARTMENT OF PUBLIC SAFETY SHALL
+18 ASSIST THE STATE TREASURER IN CARRYING OUT THIS SUBSECTION (2)(a).
+19 (b) IF ON FEBRUARY 1, 2027, AFTER RETURNING MONEY TO
+20 GRANTORS AND DONORS PURSUANT TO SUBSECTION (2)(a) OF THIS
+21 SECTION, THERE IS UNEXPENDED AND UNENCUMBERED MONEY REMAINING
+22 FROM THE BALANCE OF GIFTS, GRANTS, AND DONATIONS MADE IN SUPPORT
+23 OF THE VOLUNTARY WAIVER OF THE RIGHT TO PURCHASE A FIREARM
+24 PROGRAM, THE STATE TREASURER SHALL TRANSFER ALL OF THE
+25 REMAINING UNEXPENDED AND UNENCUMBERED MONEY TO THE GENERAL
+26 FUND.
+27 (3) THIS SECTION IS REPEALED, EFFECTIVE JUNE 30, 2027.
+-21- HB26-1021
+
+1 SECTION 15. In Colorado Revised Statutes, repeal 11-30-127
+2 as follows:
+3 11-30-127. Merchant code for firearms.
+4 A payment card network, as defined in section 6-27-201 (7), or a
+5 merchant acquirer, as defined in section 6-27-201 (5), shall comply with
+6 part 2 of article 27 of title 6.
+7 SECTION 16. In Colorado Revised Statutes, repeal 11-105-211
+8 as follows:
+9 11-105-211. Merchant code for firearms.
+10 A payment card network, as defined in section 6-27-201 (7), or a
+11 merchant acquirer, as defined in section 6-27-201 (5), shall comply with
+12 part 2 of article 27 of title 6.
+13 SECTION 17. In Colorado Revised Statutes, 13-14-105.5,
+14 amend (4)(c) and (9)(a) introductory portion; and repeal (8)(a) and (8)(c)
+15 as follows:
+16 13-14-105.5. Civil protection orders - prohibition on
+17 possessing or purchasing a firearm.
+18 (4) Relinquishment options. To satisfy the requirement in
+19 subsection (2) of this section, the respondent shall either:
+20 (c) Sell or otherwise transfer the firearm or ammunition to a
+21 private party who may legally possess the firearm or ammunition. except
+22 that a respondent who sells or transfers a firearm pursuant to this
+23 subsection (4)(c) shall satisfy all of the provisions of section 18-12-112
+24 concerning private firearms transfers, including but not limited to the
+25 performance of a criminal background check of the transferee.
+26 (8) Relinquishment to a private party.
+27 (a) If a respondent sells or otherwise transfers a firearm or
+-22- HB26-1021
+
+1 ammunition to a private party who may legally possess the firearm or
+2 ammunition, as described in subsection (4)(c) of this section, the
+3 respondent shall acquire:
+4 (I) From the federally licensed firearms dealer, a written receipt
+5 and signed declaration memorializing the transfer, which receipt must be
+6 dated and signed by the respondent, the transferee, and the federally
+7 licensed firearms dealer; and
+8 (II) From the federally licensed firearms dealer who requests from
+9 the bureau a criminal background check of the transferee, as described in
+10 section 18-12-112, a written statement of the results of the criminal
+11 background check.
+12 (c) Notwithstanding section 18-12-112, if a private party elects to
+13 store a firearm for a respondent pursuant to this section, the private party
+14 shall not return the firearm to the respondent unless the private party
+15 acquires from the federally licensed firearms dealer who requests from
+16 the bureau a background check of the respondent, a written statement of
+17 the results of the background check authorizing the return of the firearm
+18 to the respondent.
+19 (9) Requirement to file signed declaration.
+20 (a) The respondent shall file a copy of the signed declaration
+21 issued pursuant to subsection (6) OR (7)(a)(III) or (8)(a)(I) of this section
+22 and, if applicable, the written statement of the results of a criminal
+23 background check performed on the respondent, as described in
+24 subsection (8)(a)(II) of this section, with the court as proof of the
+25 relinquishment at the same time the respondent files the signed affidavit
+26 pursuant to subsection (5)(b) of this section. The signed declaration and
+27 written statement filed pursuant to this subsection (9) are IS only available
+-23- HB26-1021
+
+1 for inspection by the court and the parties to the proceeding. If a
+2 respondent fails to timely transfer or sell a firearm or file the signed
+3 declaration or written statement as described in this subsection (9):
+4 SECTION 18. In Colorado Revised Statutes, 18-6-801, amend
+5 (8)(d)(III), (8)(e)(III), and (8)(i)(I); and repeal (8)(h)(I) and (8)(h)(III) as
+6 follows:
+7 18-6-801. Domestic violence - sentencing.
+8 (8) (d) Relinquishment options. To satisfy the requirement in
+9 subsection (8)(b) of this section, the defendant shall either:
+10 (III) Sell or otherwise transfer the firearm or ammunition to a
+11 private party who may legally possess the firearm or ammunition. except
+12 that a defendant who sells or transfers a firearm pursuant to this
+13 subsection (8)(d)(III) shall satisfy all of the provisions of section
+14 18-12-112 concerning private firearms transfers, including but not limited
+15 to the performance of a criminal background check of the transferee.
+16 (e) Compliance hearing and affidavit.
+17 (III) If the defendant possessed a firearm at the time of the
+18 qualifying incident giving rise to the duty to relinquish the firearm
+19 pursuant to this section but transferred or sold the firearm to a private
+20 party prior to sentencing, the defendant shall disclose the sale or transfer
+21 of the firearm to the private party in the affidavit described in subsection
+22 (8)(e)(II) of this section. The defendant, within seven business days after
+23 sentencing, shall acquire a written receipt and signed declaration that
+24 complies with subsection (8)(h)(I)(A) of this section MEMORIALIZING THE
+25 SALE OR TRANSFER, and the defendant shall file the signed declaration at
+26 the same time the defendant files the affidavit pursuant to subsection
+27 (8)(e)(II) of this section.
+-24- HB26-1021
+
+1 (h) Relinquishment to a private party.
+2 (I) If a defendant sells or otherwise transfers a firearm or
+3 ammunition to a private party who may legally possess the firearm or
+4 ammunition, as described in subsection (8)(d)(III) of this section, the
+5 defendant shall acquire:
+6 (A) From the federally licensed firearms dealer, a written receipt
+7 and signed declaration memorializing the transfer, which receipt must be
+8 dated and signed by the defendant, the transferee, and the federally
+9 licensed firearms dealer; and
+10 (B) From the federally licensed firearms dealer who requests from
+11 the bureau a criminal background check of the transferee, as described in
+12 section 18-12-112, a written statement of the results of the criminal
+13 background check.
+14 (III) Notwithstanding section 18-12-112, if a private party elects
+15 to store a firearm for a defendant pursuant to this subsection (8), the
+16 private party shall not return the firearm to the defendant unless the
+17 private party acquires from the federally licensed firearms dealer, who
+18 requests from the bureau a criminal background check of the defendant,
+19 a written statement of the results of the criminal background check
+20 authorizing the return of the firearm to the defendant.
+21 (i) Requirement to file signed declaration.
+22 (I) The defendant shall file a copy of the signed declaration issued
+23 pursuant to subsection (8)(f) OR (8)(g)(I)(C) or (8)(h)(I)(A) of this section
+24 and, if applicable, the written statement of the results of a criminal
+25 background check performed on the defendant, as described in subsection
+26 (8)(h)(I)(B) of this section, with the court as proof of the relinquishment
+27 at the same time the defendant files the signed affidavit pursuant to
+-25- HB26-1021
+
+1 subsection (8)(e)(II) of this section. The signed declaration and written
+2 statement filed pursuant to this subsection (8)(i) are IS only available for
+3 inspection by the court and the parties to the proceeding. If a defendant
+4 fails to timely transfer or sell a firearm or file the signed declaration or
+5 written statement as described in this subsection (8)(i)(I):
+6 SECTION 19. In Colorado Revised Statutes, 18-6-803.5, amend
+7 (1)(c)(II) as follows:
+8 18-6-803.5. Crime of violation of a protection order - penalty
+9 - peace officers' duties - definitions.
+10 (1) A person commits the crime of violation of a protection order
+11 if, after the person has been personally served with a protection order that
+12 identifies the person as a restrained person or otherwise has acquired from
+13 the court or law enforcement personnel actual knowledge of the contents
+14 of a protection order that identifies the person as a restrained person, the
+15 person:
+16 (c) (II) Violates a mandatory protection order issued pursuant to
+17 section 18-1-1001, PRIOR TO THE REPEAL OF SECTION 18-1-1001 (9) IN
+18 2026, that includes terms required by section 18-1-1001 (9) by:
+19 (A) Possessing or attempting to purchase or receive a firearm or
+20 ammunition while the protection order is in effect; or
+21 (B) Failing to timely file a signed affidavit or written statement
+22 with the court as described in section 18-1-1001 (9)(i), PRIOR TO ITS
+23 REPEAL IN 2026, or 18-6-801 (8)(i).
+24 SECTION 20. In Colorado Revised Statutes, 18-12-105.6,
+25 amend (1)(a) and (2)(a) as follows:
+26 18-12-105.6. Limitation on local ordinances regarding
+27 firearms in private vehicles.
+-26- HB26-1021
+
+1 (1) The general assembly hereby finds that:
+2 (a) A person carrying a weapon in a private automobile or other
+3 private means of conveyance for hunting or for lawful protection of such
+4 person's or another's person or property as permitted in sections
+5 18-12-105 (2)(b) and 18-12-105.5 (3)(c), may tend to travel within a
+6 county, city and county, or municipal jurisdiction or in or through
+7 different county, city and county, and municipal jurisdictions, en route to
+8 the person's destination;
+9 (2) (a) Based on the findings specified in subsection (1) of this
+10 section, the general assembly concludes that the carrying of weapons in
+11 private automobiles or other private means of conveyance for hunting or
+12 for lawful protection of a person's or another's person or property while
+13 traveling into, through, or within, a municipal, county, or city and county
+14 jurisdiction, regardless of the number of times the person stops in a
+15 jurisdiction, is a matter of statewide concern and except as described in
+16 section 18-12-114.5, is not an offense.
+17 SECTION 21. In Colorado Revised Statutes, amend 18-12-107
+18 as follows:
+19 18-12-107. Penalty for second offense.
+20 Any person who has within five years previously been convicted
+21 of a violation under section 18-12-103 18-12-105, or 18-12-106 shall,
+22 upon conviction for a second or subsequent offense under the same
+23 section, be guilty of a class 5 felony.
+24 SECTION 22. In Colorado Revised Statutes, 18-12-108, amend
+25 (7)(ggg); and repeal (7)(ss), (7)(aaa), (7)(iii), and (7)(jjj) as follows:
+26 18-12-108. Possession of weapons by previous offenders.
+27 (7) In addition to a conviction for felony crime as defined in
+-27- HB26-1021
+
+1 section 24-4.1-302 (1), a felony conviction or adjudication for one of the
+2 following felonies prohibits a person from possessing, using, or carrying
+3 upon the person a firearm, as defined in section 18-1-901 (3)(h), or any
+4 other weapon that is subject to this article 12 pursuant to subsection (1)
+5 or (3) of this section:
+6 (ss) Unlawfully carrying a weapon in violation of section
+7 18-12-105.5;
+8 (aaa) Possessing a large-capacity magazine during the commission
+9 of a crime of violence in violation of section 18-12-302 (1)(c);
+10 (ggg) A special offender in violation of section 18-18-407
+11 (1)(d)(II); AND
+12 (iii) Unlawful conduct involving an unserialized firearm, frame,
+13 or receiver, as described in section 18-12-111.5; and
+14 (jjj) Unlawful manufacture, distribution, transfer, sale, or purchase
+15 of a specified semiautomatic firearm, as described in section 18-12-116.
+16 SECTION 23. In Colorado Revised Statutes, 18-12-111, repeal
+17 (3) and (4) as follows:
+18 18-12-111. Unlawful purchase of firearms - report to law
+19 enforcement - unlawful attempted purchase while subject to a
+20 voluntary waiver - penalties.
+21 (3) (a) If a firearms dealer who holds a state permit to deal
+22 firearms pursuant to section 18-12-401.5 reasonably believes, knows or
+23 should know, or becomes aware after a transfer, that a person, including
+24 an employee, purchased or attempted to purchase a firearm in violation
+25 of subsection (1) of this section, the dealer shall report that information
+26 to a law enforcement agency with jurisdiction over the dealer's place of
+27 business.
+-28- HB26-1021
+
+1 (b) Failure to make the report required by this subsection (3)
+2 within forty-eight hours after the dealer becomes aware of an unlawful
+3 firearm purchase or attempted firearm purchase is a violation of state law
+4 concerning the sale of firearms and is subject to the penalties described
+5 in section 18-12-401.5 (7).
+6 (4) (a) A person who attempts to purchase a firearm while subject
+7 to a voluntary waiver of the right to purchase a firearm described in
+8 section 24-33.5-424.7 commits unlawful attempted firearm purchase
+9 while subject to a voluntary waiver. Unlawful attempted firearm purchase
+10 while subject to a voluntary waiver is a civil infraction and shall be
+11 punished by a fine of up to twenty-five dollars.
+12 (b) Section 18-2-101 does not apply to conduct that constitutes a
+13 civil infraction pursuant to this subsection (4).
+14 SECTION 24. In Colorado Revised Statutes, 18-12-113, amend
+15 (3); and repeal (5) as follows:
+16 18-12-113. Failure to report a lost or stolen firearm -
+17 exception.
+18 (3) This section does not apply to a licensed gun dealer, as defined
+19 in section 18-12-506 FEDERAL FIREARMS LICENSEE.
+20 (5) A person who reports a lost or stolen firearm pursuant to
+21 subsection (1) of this section is immune from criminal prosecution for an
+22 offense in this part 1 related to the storage of firearms and from
+23 prosecution for the civil infraction of unlawful storage of a firearm in a
+24 vehicle as described in section 18-12-114.5.
+25 SECTION 25. In Colorado Revised Statutes, 18-12-202.5,
+26 amend (3)(d) as follows:
+27 18-12-202.5. Concealed handgun training class - refresher
+-29- HB26-1021
+
+1 class - rules.
+2 (3) A concealed handgun training class must include the following
+3 elements:
+4 (d) Instruction regarding federal and state laws pertaining to the
+5 lawful purchase, ownership, transportation, use, and possession of
+6 firearms, including instruction on extreme risk protection orders
+7 described in article 14.5 of title 13, requirements for reporting lost or
+8 stolen firearms described in section 18-12-113, secure firearms storage
+9 requirements described in section 18-12-114, and any other state law
+10 enacted within five years before the class that pertains to the purchase,
+11 ownership, transportation, use, and possession of firearms;
+12 SECTION 26. In Colorado Revised Statutes, 18-12-204, repeal
+13 (3)(b) as follows:
+14 18-12-204. Permit contents - validity - carrying requirements.
+15 (3) (b) The provisions of this subsection (3) shall not be construed
+16 to authorize the carrying of a handgun in violation of the provisions of
+17 section 18-12-105 or 18-12-105.5.
+18 SECTION 27. In Colorado Revised Statutes, 18-12-206, amend
+19 (3)(c) as follows:
+20 18-12-206. Sheriff - issuance or denial of permits - report.
+21 (3) (c) Except for suspected violations of sections 18-12-105 and
+22 18-12-105.5, A peace officer may not use or search a database of
+23 permittees maintained by a law enforcement agency to establish
+24 reasonable suspicion for a traffic stop, or when contacting an individual,
+25 to justify probable cause for a search or seizure of a person or a person's
+26 vehicle or property.
+27 SECTION 28. In Colorado Revised Statutes, amend 18-12-403
+-30- HB26-1021
+
+1 as follows:
+2 18-12-403. Record - failure to make - penalty.
+3 Every individual, firm, or corporation who THAT fails to keep the
+4 record required pursuant to section 18-12-402 or section 18-12-111.5
+5 (7)(b), or who THAT refuses to exhibit the record when requested by a
+6 police officer, and any purchaser, lessee, or exchanger of a pistol or
+7 revolver who, in connection with the making of such THE record, gives
+8 false information, commits a class 2 misdemeanor.
+9 SECTION 29. In Colorado Revised Statutes, 19-2.5-304, amend
+10 (2) introductory portion as follows:
+11 19-2.5-304. Limitations on detention.
+12 (2) A juvenile court shall not order a juvenile who is ten years of
+13 age OLD and older but less than thirteen years of age OLD to detention
+14 unless the juvenile has been arrested for a felony or weapons charge
+15 pursuant to section 18-12-102; 18-12-105, AS IT EXISTED PRIOR TO ITS
+16 REPEAL IN 2026; 18-12-106; or 18-12-108.5. A preadjudication service
+17 program created pursuant to section 19-2.5-606 shall evaluate a juvenile
+18 described in this subsection (2). The evaluation may result in the juvenile:
+19 SECTION 30. In Colorado Revised Statutes, 19-2.5-305, amend
+20 (3)(a)(V) introductory portion and (3)(a)(V)(C) as follows:
+21 19-2.5-305. Detention and shelter - hearing - time limits -
+22 findings - review - guardian ad litem appointed - confinement with
+23 adult offenders - restrictions.
+24 (3) (a) (V) A court shall not order further detention for a juvenile
+25 who is ten years of age OLD and older but less than thirteen years of age
+26 OLD unless the juvenile has been arrested or adjudicated for a felony or
+27 weapons charge pursuant to section 18-12-102; 18-12-105, AS IT EXISTED
+-31- HB26-1021
+
+1 PRIOR TO ITS REPEAL IN 2026; 18-12-106; or 18-12-108.5. The court shall
+2 receive any information having probative value regardless of its
+3 admissibility under the rules of evidence. In determining whether a
+4 juvenile requires detention, the court shall consider the results of the
+5 detention screening instrument. There is a rebuttable presumption that a
+6 juvenile poses a substantial risk of serious harm to others if:
+7 (C) The juvenile is alleged to have committed possessing a
+8 dangerous or illegal weapon, as described in section 18-12-102;
+9 possession of a defaced firearm, as described in section 18-12-103;
+10 unlawfully carrying a concealed weapon, as described in section
+11 18-12-105, AS IT EXISTED PRIOR TO ITS REPEAL IN 2026; unlawfully
+12 carrying a concealed weapon on school, college, or university grounds,
+13 as described in section 18-12-105.5, AS IT EXISTED PRIOR TO ITS REPEAL
+14 IN 2026; prohibited use of weapons, as described in section 18-12-106;
+15 illegal discharge of a firearm, as described in section 18-12-107.5; or
+16 illegal possession of a handgun by a juvenile, as described in section
+17 18-12-108.5.
+18 SECTION 31. In Colorado Revised Statutes, 19-2.5-1123,
+19 amend (2) introductory portion as follows:
+20 19-2.5-1123. Sentencing - mandatory detention - weapons and
+21 crimes of violence.
+22 (2) A juvenile who is less than thirteen years of age OLD may not
+23 be sentenced to detention unless the juvenile has been adjudicated for a
+24 felony or weapons charge pursuant to section 18-12-102; 18-12-105, AS
+25 IT EXISTED PRIOR TO ITS REPEAL IN 2026; 18-12-106; or 18-12-108.5. As
+26 an alternative, the juvenile probation department may conduct a
+27 presentence investigation pursuant to section 19-2.5-1101. The
+-32- HB26-1021
+
+1 investigation may result in the juvenile:
+2 SECTION 32. In Colorado Revised Statutes, 19-2.5-1511,
+3 amend (1)(c) as follows:
+4 19-2.5-1511. Juvenile detention services and facilities to be
+5 provided by department of human services - education - expenses -
+6 definition.
+7 (1) (c) The department of human services is not required to
+8 receive and provide care for any juvenile who is ten years of age OLD and
+9 older but less than thirteen years of age OLD, unless such juvenile has
+10 been arrested or adjudicated for a felony or weapons charge pursuant to
+11 section 18-12-102; 18-12-105, AS IT EXISTED PRIOR TO ITS REPEAL IN
+12 2026; 18-12-106; or 18-12-108.5.
+13 SECTION 33. In Colorado Revised Statutes, 24-33.5-424,
+14 amend (3)(b.3)(X); and repeal (3)(b)(III), (3)(b.3)(XII), and
+15 (3)(b.3)(XIII) as follows:
+16 24-33.5-424. National instant criminal background check
+17 system - state point of contact - fee - grounds for denial of firearm
+18 transfer - appeal - rule-making - unlawful acts - instant criminal
+19 background check cash fund - creation.
+20 (3) (b) (III) In addition to the grounds for denial specified in
+21 subsections (3)(a), (3)(b)(I), and (3)(b.3) of this section, the bureau shall
+22 deny a transfer of a firearm to a person who has voluntarily waived the
+23 right to purchase a firearm, as described in section 24-33.5-424.7, while
+24 the waiver is in effect.
+25 (b.3) In addition to the grounds for denial specified in subsections
+26 (3)(a) and (3)(b) of this section, the bureau shall deny a transfer of a
+27 firearm if the prospective transferee has been convicted of any of the
+-33- HB26-1021
+
+1 following offenses committed on or after June 19, 2021, if the offense is
+2 classified as a misdemeanor, or if the prospective transferee has been
+3 convicted in another state or jurisdiction, including a military or federal
+4 jurisdiction, of an offense that, if committed in Colorado, would
+5 constitute any of the following offenses classified as a misdemeanor
+6 offense, within five years prior to the transfer:
+7 (X) Possession of an illegal weapon, as described in section
+8 18-12-102 (4); OR
+9 (XII) Unlawful conduct involving an unserialized firearm, frame,
+10 or receiver, as described in section 18-12-111.5; or
+11 (XIII) Unlawful manufacture, distribution, transfer, sale, or
+12 purchase of a specified semiautomatic firearm, as described in section
+13 18-12-116.
+14 SECTION 34. In Colorado Revised Statutes, 24-103-907.5,
+15 repeal (3)(a)(I) as follows:
+16 24-103-907.5. State purchases of firearms and ammunition -
+17 contractor or bidder - rules - legislative intent - definitions.
+18 (3) (a) During a governmental body's contracting process, a
+19 governmental body's sourcing method process conducted pursuant to the
+20 code, as applicable, or upon request during the term of a contract with a
+21 governmental body relating to the procurement of firearms or items
+22 regulated pursuant to the "National Firearms Act", a firearms contractor
+23 or a firearms bidder shall, if applicable:
+24 (I) Comply with the requirements of section 18-12-401.5 (1) to
+25 engage in the business of dealing in firearms in the state, if applicable;
+26 SECTION 35. In Colorado Revised Statutes, 24-33.5-2706,
+27 repeal (5)(a)(I)(C) as follows:
+-34- HB26-1021
+
+1 24-33.5-2706. Trauma-informed practices for school safety
+2 drills - work group - creation - purpose - membership - notice to
+3 revisor of statutes - definitions - repeal.
+4 (5) (a) (I) The work group consists of the following nonvoting
+5 members:
+6 (C) A representative from the office of gun violence prevention
+7 created in section 25-20.5-1202, appointed by the executive director of
+8 the department of public health and environment;
+9 SECTION 36. In Colorado Revised Statutes, 29-11.7-105,
+10 amend (4); and repeal (5) as follows:
+11 29-11.7-105. Firearm serial number check - procedure -
+12 processing fee - penalty.
+13 (4) If the federal government allows a federal firearms licensee to
+14 access the federal government's firearm tracing program to allow the
+15 federal firearms licensee to perform a firearm serial number check, the
+16 federal firearms licensee may perform the firearms serial number check
+17 themself. The federal firearms licensee is still subject to the reporting
+18 requirements described in subsection (5) of this section. This subsection
+19 (4) will take effect as soon as the technology and infrastructure for a
+20 federal firearms licensee to perform a firearm serial number search is
+21 available.
+22 (5) (a) If a firearms dealer who holds a state permit to deal
+23 firearms pursuant to section 18-12-401.5 reasonably believes, knows or
+24 should know, or becomes aware that a person sold or attempted to sell a
+25 firearm that is stolen, lost, or involved in an open criminal investigation,
+26 the dealer shall report that information to a law enforcement agency with
+27 jurisdiction over the dealer's place of business.
+-35- HB26-1021
+
+1 (b) Failure to make the report as required by this subsection (5)
+2 within forty-eight hours after the dealer reasonably believes, knows or
+3 should know, or becomes aware of the firearm being stolen, lost, or
+4 involved in an open criminal investigation is subject to the penalties
+5 described in section 18-12-401.5 (7).
+6 SECTION 37. In Colorado Revised Statutes, 39-37-103, amend
+7 (8) as follows:
+8 39-37-103. Definitions.
+9 As used in this article 37, unless the context otherwise requires:
+10 (8) "Firearms dealer" or "gun dealer" means any person who is a
+11 federally licensed firearms dealer as defined in section 18-12-101 (1)(g)
+12 or a licensed gun dealer as defined in section 18-12-506 (6), AS IT
+13 EXISTED PRIOR TO ITS REPEAL IN 2026.
+14 SECTION 38. Safety clause. The general assembly finds,
+15 determines, and declares that this act is necessary for the immediate
+16 preservation of the public peace, health, or safety or for appropriations for
+17 the support and maintenance of the departments of the state and state
+18 institutions.
+-36- HB26-1021

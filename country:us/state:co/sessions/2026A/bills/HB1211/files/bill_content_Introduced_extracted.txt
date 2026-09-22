@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0396.01 Christopher McMichael x4775 HOUSE BILL 26-1211
+HOUSE SPONSORSHIP
+Story and Mabrey,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING THE REGULATION OF BROADBAND SERVICES BY THE
+102 PUBLIC UTILITIES COMMISSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill authorizes the public utilities commission (commission)
+to regulate broadband service and voice-over-internet protocol (VoIP)
+service in the state. The commission may adopt rules related to the
+quality, safety, and resiliency of broadband services in Colorado.
+The commission is authorized to conduct evaluations of broadband
+service facilities and infrastructure and to issue orders that require an
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+internet service provider to take remedial actions to correct unsafe or
+inadequate service. The commission is required to submit to the general
+assembly an annual report regarding the quality, safety, and resiliency of
+broadband and VoIP services.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Broadband Resiliency, Public Safety, and Quality Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Access to high-speed and reliable broadband service is
+7 essential for participation in the economy, education, and civic life;
+8 (b) Colorado must ensure that the state's residents have access to
+9 broadband networks that are resilient, high quality, and safe;
+10 (c) Because voice-over-internet protocol service, or "VoIP
+11 service", has replaced traditional voice telephone service for a large
+12 segment of Colorado's population, ensuring the reliability of VoIP service
+13 is in the public interest; and
+14 (d) There is a need to address ambiguity in VoIP service
+15 regulations in order to establish and enforce appropriate oversight and
+16 regulation of broadband and VoIP services in order to meet the state's
+17 goals of providing high-quality, affordable, and safe broadband and VoIP
+18 services to Colorado residents.
+19 SECTION 3. In Colorado Revised Statutes, add 40-15-210 as
+20 follows:
+21 40-15-210. Regulation of broadband service and
+22 voice-over-internet protocol service by commission - definitions -
+23 rules.
+-2- HB26-1211
+
+1 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+2 OTHERWISE REQUIRES:
+3 (a) "BROADBAND" OR "BROADBAND SERVICE" MEANS BROADBAND
+4 INTERNET SERVICE PROVIDED OVER A BROADBAND NETWORK AND
+5 INCLUDES BROADBAND SERVICE PROVIDED OVER LOW EARTH ORBIT
+6 INTERNET SATELLITES.
+7 (b) "INTERNET SERVICE PROVIDER" MEANS A PERSON, A BUSINESS,
+8 OR AN ORGANIZATION QUALIFIED TO DO BUSINESS IN THE STATE THAT
+9 PROVIDES INDIVIDUALS OR OTHER PERSONS WITH THE ABILITY TO CONNECT
+10 TO THE INTERNET THROUGH USE OF A BROADBAND SERVICE.
+11 (2) THE COMMISSION MAY REGULATE INTERNET SERVICE
+12 PROVIDERS THAT PROVIDE BROADBAND SERVICE OR
+13 VOICE-OVER-INTERNET PROTOCOL SERVICE IN THE STATE IN ACCORDANCE
+14 WITH THIS SECTION BY ADOPTING RULES TO REGULATE BROADBAND
+15 SERVICE AND VOIP SERVICE WITH RESPECT TO:
+16 (a) ESTABLISHING STANDARDS TO ENSURE THE RESILIENCY AND
+17 RELIABILITY OF BROADBAND INFRASTRUCTURE;
+18 (b) REQUIRING INTERNET SERVICE PROVIDERS TO SUBMIT
+19 INFORMATION TO THE COMMISSION RELATED TO BROADBAND NETWORK
+20 RELIABILITY, ADEQUACY, AND RESILIENCY;
+21 (c) REQUIRING INTERNET SERVICE PROVIDERS TO REPORT
+22 OUTAGES;
+23 (d) ESTABLISHING SAFETY STANDARDS FOR BROADBAND
+24 NETWORKS TO ENSURE PUBLIC SAFETY;
+25 (e) REQUIRING INTERNET SERVICE PROVIDERS TO SUBMIT PLANS
+26 RELATED TO EMERGENCY PREPAREDNESS AND POST-EMERGENCY
+27 BROADBAND NETWORK RESTORATION;
+-3- HB26-1211
+
+1 (f) ESTABLISHING MINIMUM POWER BACKUP REQUIREMENTS FOR
+2 INTERNET SERVICE PROVIDERS; AND
+3 (g) REQUIRING INTERNET SERVICE PROVIDERS TO SUBMIT TO THE
+4 COMMISSION DATA AND INFORMATION RELATED TO THE DEPLOYMENT,
+5 AVAILABILITY, PRICING, AND ADOPTION OF BROADBAND SERVICE AND
+6 VOIP SERVICE.
+7 (3) THE COMMISSION MAY CONDUCT EVALUATIONS AND AUDITS
+8 REGARDING THE QUALITY, SAFETY, AND RESILIENCY OF AN INTERNET
+9 SERVICE PROVIDER'S FACILITIES AND INFRASTRUCTURE USED TO PROVIDE
+10 BROADBAND SERVICE OR VOIP SERVICE.
+11 (4) (a) IF THE COMMISSION CONDUCTS AN EVALUATION OR AUDIT
+12 IN ACCORDANCE WITH SUBSECTION (3) OF THIS SECTION AND FINDS THAT
+13 THE PRACTICES, FACILITIES, INFRASTRUCTURE, OR SERVICE OF AN
+14 INTERNET SERVICE PROVIDER IS INADEQUATE TO ENSURE THE BROADBAND
+15 NETWORK'S QUALITY, RELIABILITY, OR SAFETY, OR IS IN VIOLATION OF ANY
+16 RULES ADOPTED PURSUANT TO SUBSECTION (2) OF THIS SECTION, THE
+17 COMMISSION MAY ISSUE AN ORDER TO THE INTERNET SERVICE PROVIDER
+18 TO UNDERTAKE REMEDIAL ACTIONS.
+19 (b) THE REMEDIAL ACTIONS ORDERED BY THE COMMISSION
+20 PURSUANT TO SUBSECTION (4)(a) OF THIS SECTION MAY INCLUDE:
+21 (I) REQUIRING AN INTERNET SERVICE PROVIDER TO CONDUCT
+22 MEASURES TO IMPROVE BROADBAND SERVICE OR CORRECT VIOLATIONS OF
+23 THIS SECTION;
+24 (II) REQUIRING AN INTERNET SERVICE PROVIDER TO SUBMIT PLANS
+25 TO THE COMMISSION THAT DETAIL HOW THE INTERNET SERVICE PROVIDER
+26 WILL RESOLVE ANY BROADBAND SERVICE ISSUES OR HOW THE INTERNET
+27 SERVICE PROVIDER WILL CORRECT ANY VIOLATIONS OF THIS SECTION;
+-4- HB26-1211
+
+1 (III) PROHIBITING AN INTERNET SERVICE PROVIDER FROM
+2 CONDUCTING CERTAIN ACTIONS THAT MAY BE IN VIOLATION OF THIS
+3 SECTION;
+4 (IV) REQUIRING AN INTERNET SERVICE PROVIDER TO BUILD,
+5 IMPROVE, OR REPAIR INFRASTRUCTURE OR FACILITIES RELATED TO
+6 BROADBAND SERVICE THAT MAY BE CAUSING ISSUES OF NETWORK
+7 RELIABILITY, SAFETY, OR AFFORDABILITY OR THAT ARE CAUSING
+8 VIOLATIONS OF THIS SECTION; AND
+9 (V) ISSUING FINES TO AN INTERNET SERVICE PROVIDER THAT
+10 VIOLATES THIS SECTION OR RULES ADOPTED BY THE COMMISSION
+11 PURSUANT TO THIS SECTION.
+12 (c) THE COMMISSION SHALL CREDIT ANY FINES COLLECTED
+13 PURSUANT TO THIS SECTION TO THE GENERAL FUND.
+14 (5) (a) ON AND AFTER SEPTEMBER 1, 2027, AND ON AND AFTER
+15 SEPTEMBER 1 OF EACH YEAR THEREAFTER, THE COMMISSION SHALL
+16 SUBMIT A REPORT TO THE GENERAL ASSEMBLY RELATED TO THE QUALITY,
+17 RESILIENCY, AND SAFETY OF THE STATE'S BROADBAND SERVICE AND VOIP
+18 SERVICE.
+19 (b) THE REPORT CONDUCTED BY THE COMMISSION PURSUANT TO
+20 THIS SUBSECTION (5) MUST INCLUDE THE FOLLOWING INFORMATION, WITH
+21 RESPECT TO THE PRIOR YEAR:
+22 (I) THE AMOUNT OF PEOPLE IN COLORADO THAT ARE RECEIVING
+23 BROADBAND SERVICE FROM INTERNET SERVICE PROVIDERS;
+24 (II) BROADBAND SERVICE PERFORMANCE DATA AND
+25 MEASUREMENTS RELATED TO THE QUALITY, RELIABILITY, SAFETY, AND
+26 AFFORDABILITY OF BROADBAND SERVICE, AS COMPARED TO ESTABLISHED
+27 INDUSTRY STANDARDS FOR BROADBAND SERVICE PERFORMANCE;
+-5- HB26-1211
+
+1 (III) A LIST OF BROADBAND SERVICE OUTAGES THAT OCCURRED
+2 WITHIN EACH INTERNET SERVICE PROVIDER'S SERVICE TERRITORY AND
+3 HOW THE SERVICE OUTAGES WERE RESOLVED;
+4 (IV) ANY VIOLATIONS THAT THE COMMISSION FOUND AGAINST
+5 AND ANY FINES THAT THE COMMISSION ISSUED TO AN INTERNET SERVICE
+6 PROVIDER FOR A VIOLATION OF THIS SECTION OR RULES ADOPTED
+7 PURSUANT TO THIS SECTION AND THE OUTCOME OF THE VIOLATIONS
+8 FOUND; AND
+9 (V) ANY OTHER INFORMATION RELEVANT TO THE QUALITY,
+10 RELIABILITY, SAFETY, AND AFFORDABILITY OF BROADBAND SERVICE, AS
+11 DETERMINED BY THE COMMISSION.
+12 (c) THE COMMISSION SHALL SUBMIT THE REPORT PREPARED
+13 PURSUANT TO THIS SUBSECTION (5) TO THE HOUSE OF REPRESENTATIVES
+14 BUSINESS AFFAIRS AND LABOR COMMITTEE AND THE SENATE BUSINESS,
+15 LABOR, AND TECHNOLOGY COMMITTEE, OR THEIR SUCCESSOR
+16 COMMITTEES.
+17 (d) THE COMMISSION MAY ADOPT ANY RULES NECESSARY RELATED
+18 TO THE SUBMISSION OR COLLECTION OF INFORMATION FROM AN INTERNET
+19 SERVICE PROVIDER IN ORDER TO CONDUCT THE REPORT REQUIRED
+20 PURSUANT TO THIS SUBSECTION (5).
+21 (e) THE REPORTS REQUIRED BY SUBSECTION (5)(a) OF THIS
+22 SECTION ARE EXEMPT FROM SECTION 24-1-136 (11)(a)(I).
+23 SECTION 4. In Colorado Revised Statutes, 40-15-401, amend
+24 (1)(c), (1)(i), and (1)(q); and repeal (1)(r) as follows:
+25 40-15-401. Services, products, and providers exempt from
+26 regulation - definition.
+27 (1) The following products, services, and providers are exempt
+-6- HB26-1211
+
+1 from regulation under this article 15 or under the "Public Utilities Law"
+2 of the state of Colorado:
+3 (c) Commercial mobile radio services; EXCEPT THAT THE
+4 COMMISSION MAY REGULATE BROADBAND SERVICE IN ACCORDANCE WITH
+5 SECTION 40-15-210;
+6 (i) Information services; EXCEPT THAT THE COMMISSION MAY
+7 REGULATE BROADBAND SERVICE IN ACCORDANCE WITH SECTION
+8 40-15-210;
+9 (q) Internet-protocol-enabled services; EXCEPT THAT THE
+10 COMMISSION MAY REGULATE BROADBAND SERVICE IN ACCORDANCE WITH
+11 SECTION 40-15-210;
+12 (r) Voice-over-internet protocol service;
+13 SECTION 5. Act subject to petition - effective date. This act
+14 takes effect at 12:01 a.m. on the day following the expiration of the
+15 ninety-day period after final adjournment of the general assembly (August
+16 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+17 referendum petition is filed pursuant to section 1 (3) of article V of the
+18 state constitution against this act or an item, section, or part of this act
+19 within such period, then the act, item, section, or part will not take effect
+20 unless approved by the people at the general election to be held in
+21 November 2026 and, in such case, will take effect on the date of the
+22 official declaration of the vote thereon by the governor.
+-7- HB26-1211

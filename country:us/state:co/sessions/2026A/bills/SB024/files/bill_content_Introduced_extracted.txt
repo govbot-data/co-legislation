@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0513.01 Jery Payne x2157 SENATE BILL 26-024
+SENATE SPONSORSHIP
+Liston and Michaelson Jenet,
+HOUSE SPONSORSHIP
+Soper,
+Senate Committees House Committees
+Local Government & Housing
+A BILL FOR AN ACT
+101 CONCERNING UNMANNED AIRCRAFT SYSTEMS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the "Unmanned Aircraft Systems Rights and
+Authorities Act". The bill does the following:
+! Authorizes an individual to operate an unmanned aircraft
+system (drone system) for recreational purposes in this
+state;
+! Authorizes a person to operate a drone system for
+commercial purposes within this state if the business is
+lawful and the operation is in compliance with state and
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+federal law;
+! Prohibits the state or a political subdivision of the state
+(local government) from requiring the registration of an
+unmanned aircraft or a drone system beyond what may be
+required by state and federal law;
+! Clarifies that the operation of a drone system in compliance
+with federal law does not, standing alone, give rise to legal
+liability;
+! Establishes and limits the regulatory authority of the state;
+and
+! Establishes and limits the regulatory authority of a local
+government.
+In connection with establishing and limiting the regulatory
+authority of the state, the bill authorizes the state to regulate the use of
+drone systems owned by or used by the state or launching from or landing
+on state property. Exceptions to the state's regulatory authority are made
+for emergencies, maintenance, technical malfunctions, and law
+enforcement.
+In connection with establishing and limiting the regulatory
+authority of local governments, the bill prohibits a local government from
+regulating ownership, operation, design, manufacture, testing,
+maintenance, licensing, registration, certification, or equipment
+requirements or qualifications, training, or certification of a pilot,
+operator, or observer. A local government may regulate the use of drone
+systems owned by or used by the local government or launching from or
+landing on local government property. A local government's resolution or
+ordinance that is general in nature, such as a nuisance regulation, applies
+to a drone system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) The commercial use of unmanned aerial systems, referred to
+5 in this section as "drones", in operations, including agriculture,
+6 infrastructure, inspection, aerial surveying, news gathering, and disaster
+7 relief, is already prevalent in the state and increasing;
+8 (b) This use of commercial drones is expected to grow even
+9 further as the federal government finalized beyond visual line of sight
+-2- SB26-024
+
+1 regulations;
+2 (c) The federal government, through the federal aviation
+3 administration, has the exclusive authority to regulate aviation safety and
+4 use of airspace by aircraft, including drones, in the navigable airspace of
+5 the United States and its regulations preempt state and local regulation of
+6 those fields;
+7 (d) The state and local governments of the state would benefit
+8 from clarity concerning elements of drone use they can regulate;
+9 (e) The expanding nature of commercial drone use places it
+10 beyond the confines of local jurisdiction regulation;
+11 (f) The avoidance of a patchwork of differing requirements is
+12 required to prevent the hindrance of the development, introduction, or
+13 deployment of drones or new drone technology in the state and the
+14 inherent economic and social benefits arising from their use; and
+15 (g) A drone operator may be in one local jurisdiction while the
+16 drone is flying in another jurisdiction.
+17 (2) Therefore, the general assembly declares that non-airspace
+18 regulation of drones is a matter of statewide concern.
+19 SECTION 2. In Colorado Revised Statutes, add article 7 to title
+20 41 as follows:
+21 ARTICLE 7
+22 Unmanned Aircraft Systems Rights and Authorities Act
+23 41-7-101. Short title.
+24 THE SHORT TITLE OF THIS ARTICLE 7 IS THE "UNMANNED AIRCRAFT
+25 SYSTEMS RIGHTS AND AUTHORITIES ACT".
+26 41-7-102. Definitions.
+27 AS USED IN THIS ARTICLE 7, UNLESS THE CONTEXT OTHERWISE
+-3- SB26-024
+
+1 REQUIRES:
+2 (1) "OBSERVER" MEANS A PERSON THAT ASSISTS THE PERSON
+3 MANIPULATING THE FLIGHT CONTROLS OF AN UNMANNED AIRCRAFT TO
+4 MAINTAIN VISUAL LINE OF SIGHT WITH THE UNMANNED AIRCRAFT OR IN
+5 AVOIDING OTHER AIR TRAFFIC, PERSONS, OR OBJECTS WITHIN THE
+6 UNMANNED AIRCRAFT'S AREA OF OPERATION.
+7 (2) (a) "POLITICAL SUBDIVISION" MEANS A POLITICAL SUBDIVISION
+8 OF THIS STATE THAT HAS AUTHORITY TO SET BINDING POLICY ON PEOPLE
+9 WITHIN THE SUBDIVISION'S JURISDICTION AND TO ENFORCE THE POLICY BY
+10 IMPOSING PENALTIES FOR FAILING TO COMPLY WITH THE DUTIES IMPOSED
+11 BY THE POLICY.
+12 (b) "POLITICAL SUBDIVISION" INCLUDES THE GOVERNING BODY OF
+13 THE POLITICAL SUBDIVISION, AN AGENCY OF THE POLITICAL SUBDIVISION,
+14 OR AN AGENT OF THE POLITICAL SUBDIVISION.
+15 (3) "UNMANNED AIRCRAFT" MEANS AN AIRCRAFT THAT IS
+16 OPERATED WITHOUT THE POSSIBILITY OF DIRECT HUMAN INTERVENTION
+17 RIDING ON THE AIRCRAFT OR FROM WITHIN THE AIRCRAFT.
+18 (4) "UNMANNED AIRCRAFT SYSTEM" MEANS AN UNMANNED
+19 AIRCRAFT AND ASSOCIATED ELEMENTS, INCLUDING COMMUNICATION
+20 LINKS AND THE COMPONENTS THAT CONTROL THE UNMANNED AIRCRAFT,
+21 THAT ARE REQUIRED FOR THE PILOT IN COMMAND TO OPERATE SAFELY
+22 AND EFFICIENTLY IN THE NATIONAL AIRSPACE SYSTEM.
+23 41-7-103. Federal authority over airspace.
+24 THIS ARTICLE 7 DOES NOT PREEMPT OR AFFECT THE EXCLUSIVE
+25 SOVEREIGNTY OF AIRSPACE OF THE UNITED STATES AS SET FORTH IN 49
+26 U.S.C. SEC. 40103 AND ANY OTHER RELEVANT FEDERAL LAW. A COURT,
+27 STATE AGENCY, OR POLITICAL SUBDIVISION SHALL NOT INTERPRET OR
+-4- SB26-024
+
+1 APPLY THIS ARTICLE 7 IN A MANNER THAT CONTRADICTS THE EXCLUSIVE
+2 AUTHORITY OF THE UNITED STATES GOVERNMENT TO REGULATE THE
+3 OPERATION OF UNMANNED AIRCRAFT AND UNMANNED AIRCRAFT SYSTEMS
+4 IN THE AIRSPACE OF THE UNITED STATES.
+5 41-7-104. Individual and commercial rights.
+6 (1) AN INDIVIDUAL MAY OPERATE AN UNMANNED AIRCRAFT
+7 SYSTEM FOR RECREATIONAL PURPOSES WITHIN THIS STATE IF THE
+8 UNMANNED AIRCRAFT IS OPERATED IN COMPLIANCE WITH STATE LAW AND
+9 FEDERAL LAW.
+10 (2) A PERSON MAY OPERATE AN UNMANNED AIRCRAFT SYSTEM FOR
+11 COMMERCIAL PURPOSES WITHIN THIS STATE IF:
+12 (a) THE PERSON IS DOING BUSINESS LAWFULLY WITHIN THIS STATE;
+13 AND
+14 (b) THE UNMANNED AIRCRAFT SYSTEM IS OPERATED OR USED IN
+15 COMPLIANCE WITH STATE LAW AND FEDERAL LAW.
+16 (3) THE STATE OR A POLITICAL SUBDIVISION OF THE STATE SHALL
+17 NOT REQUIRE THE OWNER OF AN UNMANNED AIRCRAFT OR UNMANNED
+18 AIRCRAFT SYSTEM TO REGISTER AN UNMANNED AIRCRAFT OR UNMANNED
+19 AIRCRAFT SYSTEM BEYOND WHAT MAY BE REQUIRED BY THE REGULATION
+20 OF THE FEDERAL AVIATION ADMINISTRATION.
+21 (4) THE OPERATION OF AN UNMANNED AIRCRAFT SYSTEM IN
+22 COMPLIANCE WITH FEDERAL LAW IN AIRSPACE OVER THIS STATE DOES NOT,
+23 STANDING ALONE, GIVE RISE TO LEGAL LIABILITY UNDER THE LAWS OF THIS
+24 STATE OR A POLITICAL SUBDIVISION OF THE STATE.
+25 41-7-105. Regulatory authority of state agencies.
+26 (1) THE STATE, IF ACTING THROUGH A DULY ADOPTED AND
+27 ENFORCEABLE STATUTE, RULE, ORDER, OR CONTRACT, MAY:
+-5- SB26-024
+
+1 (a) PROVIDE FOR THE OPERATION OF AN UNMANNED AIRCRAFT
+2 SYSTEM:
+3 (I) BY OR ON BEHALF OF THE STATE; OR
+4 (II) THAT IS OWNED BY THE STATE; OR
+5 (b) PROVIDE FOR OR PROHIBIT:
+6 (I) THE LAUNCH OF AN UNMANNED AIRCRAFT FROM PROPERTY
+7 OWNED BY THE STATE;
+8 (II) THE INTENTIONAL LANDING OF AN UNMANNED AIRCRAFT ONTO
+9 PROPERTY OWNED BY THE STATE; OR
+10 (III) THE PRESENCE OF A PILOT ACTIVELY IN COMMAND OF AN
+11 UNMANNED AIRCRAFT SYSTEM ON PROPERTY OWNED BY THE STATE.
+12 41-7-106. Regulatory authority of political subdivisions.
+13 (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SECTION, A POLITICAL
+14 SUBDIVISION SHALL NOT ENACT OR ENFORCE A RESOLUTION OR
+15 ORDINANCE THAT GOVERNS THE FOLLOWING FOR AN UNMANNED AIRCRAFT
+16 SYSTEM:
+17 (a) OWNERSHIP; OPERATION, INCLUDING AIRSPACE, ALTITUDE, OR
+18 FLIGHT PATHS; DESIGN; MANUFACTURE; TESTING; MAINTENANCE;
+19 LICENSING; REGISTRATION; CERTIFICATION; OR EQUIPMENT
+20 REQUIREMENTS; OR
+21 (b) QUALIFICATIONS, TRAINING, OR CERTIFICATION OF A PILOT,
+22 OPERATOR, OR OBSERVER.
+23 (2) THIS SECTION DOES NOT LIMIT THE AUTHORITY OF A POLITICAL
+24 SUBDIVISION TO:
+25 (a) ADOPT OR ENFORCE A RESOLUTION, ORDINANCE, OR CONTRACT
+26 THAT GOVERNS THE OPERATION OF AN UNMANNED AIRCRAFT SYSTEM:
+27 (I) BY OR ON BEHALF OF THE POLITICAL SUBDIVISION; OR
+-6- SB26-024
+
+1 (II) THAT IS OWNED BY THE POLITICAL SUBDIVISION;
+2 (b) ADOPT OR ENFORCE A GENERALLY APPLICABLE RESOLUTION OR
+3 ORDINANCE THAT RELATES TO ILLEGAL ACTS IF THE RESOLUTION OR
+4 ORDINANCE DOES NOT SPECIFICALLY GOVERN THE USE OF AN UNMANNED
+5 AIRCRAFT SYSTEM FOR THOSE ILLEGAL ACTS, NOTWITHSTANDING THE
+6 RESOLUTION OR ORDINANCE MAY APPLY TO THE USE OF UNMANNED
+7 AIRCRAFT SYSTEMS; OR
+8 (c) ADOPT OR ENFORCE A RESOLUTION, ORDINANCE, OR CONTRACT
+9 THAT REGULATES:
+10 (I) THE LAUNCH OF AN UNMANNED AIRCRAFT FROM PROPERTY
+11 OWNED BY THE POLITICAL SUBDIVISION;
+12 (II) THE INTENTIONAL LANDING OF AN UNMANNED AIRCRAFT ONTO
+13 PROPERTY OWNED BY THE POLITICAL SUBDIVISION; OR
+14 (III) THE PRESENCE OF A PILOT ACTIVELY IN COMMAND OF AN
+15 UNMANNED AIRCRAFT SYSTEM ON PROPERTY OWNED BY THE POLITICAL
+16 SUBDIVISION.
+17 (3) A RESOLUTION OR ORDINANCE THAT VIOLATES THIS SECTION,
+18 WHETHER ENACTED OR ADOPTED BY A POLITICAL SUBDIVISION BEFORE OR
+19 AFTER THE EFFECTIVE DATE OF THIS ARTICLE 7, IS VOID.
+20 41-7-107. Applicability and other law.
+21 (1) THIS ARTICLE 7 DOES NOT PROHIBIT:
+22 (a) THE TAKEOFF OR LANDING OF AN UNMANNED AIRCRAFT AS
+23 DEEMED REASONABLE OR NECESSARY BY PRIVATE OR PUBLIC PERSONS FOR
+24 BONA FIDE EMERGENCY OR MAINTENANCE SUPPORT FUNCTIONS OR
+25 SERVICES, INCLUDING THE PROTECTION AND MAINTENANCE OF PUBLIC OR
+26 PRIVATE CRITICAL INFRASTRUCTURE;
+27 (b) IN COMPLIANCE WITH FEDERAL AVIATION ADMINISTRATION
+-7- SB26-024
+
+1 REGULATIONS, THE LANDING OF AN UNMANNED AIRCRAFT AS DEEMED
+2 REASONABLE OR NECESSARY BY THE OPERATOR IN THE EVENT OF A
+3 TECHNICAL MALFUNCTION OF AN UNMANNED AIRCRAFT SYSTEM;
+4 (c) THE TAKEOFF OR LANDING OF AN UNMANNED AIRCRAFT BEING
+5 OPERATED BY A PEACE OFFICER IN THE PERFORMANCE OF THE OFFICER'S
+6 DUTIES; OR
+7 (d) THE TAKEOFF OR LANDING OF AN UNMANNED AIRCRAFT OWNED
+8 OR OPERATED BY THE UNITED STATES GOVERNMENT, OR AN OPERATOR
+9 UNDER CONTRACT WITH AN AGENCY OF THE UNITED STATES
+10 GOVERNMENT, IN PERFORMANCE OF THE OPERATOR'S ASSIGNED DUTIES.
+11 (2) THIS ARTICLE 7 DOES NOT PERMIT STATE OR POLITICAL
+12 SUBDIVISION REGULATION OF UNMANNED AIRCRAFT OPERATIONS IN
+13 NAVIGABLE AIRSPACE OVER LAND OWNED BY THE STATE OR A POLITICAL
+14 SUBDIVISION OF THE STATE.
+15 SECTION 3. Act subject to petition - effective date -
+16 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+17 the expiration of the ninety-day period after final adjournment of the
+18 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+19 2026); except that, if a referendum petition is filed pursuant to section 1
+20 (3) of article V of the state constitution against this act or an item, section,
+21 or part of this act within such period, then the act, item, section, or part
+22 will not take effect unless approved by the people at the general election
+23 to be held in November 2026 and, in such case, will take effect on the
+24 date of the official declaration of the vote thereon by the governor.
+25 (2) This act applies to:
+26 (a) Acts committed on or after the applicable effective date of this
+27 act; or
+-8- SB26-024
+
+1 (b) Ordinances, resolutions, and rules existing on or after the
+2 applicable effective date of this act.
+-9- SB26-024

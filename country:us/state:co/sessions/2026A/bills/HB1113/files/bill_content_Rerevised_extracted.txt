@@ -1,0 +1,2074 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0161.01 Nicole Myers x4326 HOUSE BILL 26-1113
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs State, Veterans, & Military Affairs
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO LAWS REGARDING ELECTIONS, AND,
+102 IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill modifies the "Uniform Election Code of 1992" (code) and
+the "Colorado Open Records Act" as follows:
+! Regarding elections generally, includes a division of youth
+corrections identification card or correspondence from a
+county sheriff indicating that an elector is confined in jail
+or detention in the definition of "identification" for
+ETANES
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,4
+yaM
+6202
+,1
+yaM
+6202
+,3
+hcraM
+6202
+,2
+hcraM
+HOUSE SPONSORSHIP
+Sirota and Willford, Bacon, Boesenecker, Brown, Camacho, Duran, Froelich, Garcia,
+Goldstein, Hamrick, Jackson, Joseph, Lindsay, Mabrey, Martinez, McCluskie, Nguyen,
+Paschal, Phillips, Rutinel, Stewart R., Story, Titone, Velasco, Woodrow, Zokaie
+SENATE SPONSORSHIP
+Wallace and Weissman, Benavidez, Coleman, Danielson, Exum, Gonzales J., Jodeh, Kipp,
+Marchman, Snyder, Sullivan
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+purposes of the code; repeals the definition of "political
+party district"; modifies the definition of video security
+surveillance recording; repeals an obsolete provision
+related to past district elections; and requires each county
+clerk and recorder (clerk) to set operational hours for the
+clerk's office;
+! Regarding the qualification and registration of electors,
+requires and specifies the information institutions of higher
+education must provide to students by email, on the 15th
+day and final day before an election, or posting on campus
+concerning voting, voter eligibility, and registration;
+requires the clerk, rather than an election judge, to provide
+an affidavit to an elector to correct an error in the elector's
+affiliation recorded in the statewide database; modifies the
+language concerning preregistration of a high school
+student; specifies that the principal of a public high school
+or their designee who assists in preregistration and
+registration to vote are high school liaisons, rather than
+deputy registrars, and eliminates certain filing
+requirements; and makes the secretary of state (secretary),
+rather than the clerk, responsible for cancelling certain
+registrations pursuant to existing law;
+! Regarding presidential electors, specifies that if a
+presidential or vice-presidential candidate dies or
+withdraws as a candidate after accepting the nomination of
+a political party but prior to the meeting of presidential
+electors, an elector's vote for the presidential candidate or
+vice-presidential candidate refers to the successor candidate
+nominated by the political party;
+! Regarding congressional vacancy elections, modifies
+notice, preparation, and conduct of elections; requires
+elections to be concurrent with a primary or general
+election if the vacancy occurs between 150 and 90 days of
+such election; requires elections to be conducted according
+to provisions for general elections; and specifies the
+arrangement of names on the ballot;
+! Regarding access to the ballot by candidates, clarifies that
+no person is eligible to be a candidate for more than one
+office only if both offices are to be voted on in the same
+election; modifies the timeline for nomination of minor
+political party candidates; and eliminates the requirement
+that a candidate file a written acceptance of a nomination
+by mail, fax, or hand delivery;
+! Regarding notice and preparation of elections, clarifies that
+a voter service and polling center (VSPC) that experiences
+-2- 1113
+
+a shortage of supplies, including ballots, shall not close and
+may be required to remain open longer on election day;
+specifies that, in addition to existing designation by sign
+requirements, a VSPC on the campus of an institution of
+higher education must be identified and described in signs
+conspicuously posted at the student center and in an email
+sent to all enrolled students; and allows the clerk of any
+county with 1,000 or more active electors, upon
+consultation with the board of county commissioners, to
+adopt an electronic or electromechanical voting system;
+! Regarding election judges, changes the age eligibility
+requirements for a student election judge from 16 to 15 and
+expands the methods for notice and acceptance of an
+election judge appointment;
+! Regarding the conduct of elections, repeals the requirement
+for an election judge to proclaim the polls are open or will
+be closed in 30 minutes on election day; modifies the
+2-hour period that eligible electors are entitled to be absent
+from work to vote from only on election day to any day
+when VSPCs are open; allows an elector to take printed or
+written materials of their choice into a VSPC as a resource
+for voting; creates new reporting requirements for counties
+with one or more VSPCs experiencing a wait time in
+excess of one hour; creates a requirement for a public
+hearing regarding such VSPCs to be conducted by the
+secretary in coordination with the reporting clerk;
+recognizes other significant issues, in addition to a software
+or hardware malfunction, that may make counting ballots
+with electronic vote-tabulating equipment impracticable;
+and creates a requirement for a reporting county to include
+certain additional information in its next proposed election
+plan;
+! Regarding mail ballot elections, modifies mail ballot
+delivery times; requires a minimum number of hours for
+in-person voting at a county jail or detention center based
+on the number of beds available; modifies the timeline for
+submission and approval of proposed election plans; allows
+the secretary to request modification of an election plan and
+adds requirements for the submission of such a modified
+plan; changes the enrolled-student threshold from 2,000 to
+1,000 for purposes of requiring a drop box on campus and
+requires a drop box on the campus of private institutions of
+higher education in addition to state institutions; and
+requires a clerk who fails to send a signature verification
+form within the 2-day deadline to send the signature
+-3- 1113
+
+verification by overnight mail or hand delivery;
+! Regarding challenges to registration, repeals the provision
+for any registered elector to challenge the registration of
+another person for illegal or fraudulent registration;
+! Regarding election returns, clarifies the ministerial nature
+of a canvass board's duty to certify the abstract of votes cast
+upon confirmation that the ballots have been reconciled;
+! Regarding vacancies in office, requires the governor to
+appoint a person who is a member of the same political
+party as the former United States senator to fill a vacancy
+in that office; and clarifies that a person appointed to fill a
+partisan office vacancy serves only until the next general
+election, at which time the remainder of the vacant term, if
+any, is filled by election; and
+! Regarding election offenses, clarifies the offense of voter
+interference occurs when a person interferes with a voter
+within 100 feet of a polling or drop-off location or drop
+box; clarifies that offenses involving a false slate of
+presidential electors extends to lists of electors voting and
+votes for candidates for president and vice president of the
+United States, or their successors.
+The bill amends the "Colorado Open Records Act" to make
+language gender neutral and specify that a designated election official is
+not required to cover or redact from ballot markings or messages
+voluntarily made by an elector.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-1-104, amend
+3 (19.5)(a)(III), (19.5)(a)(VII), (49.9), and (51); and repeal (26) as follows:
+4 1-1-104. Definitions.
+5 As used in this code, unless the context otherwise requires:
+6 (19.5) (a) "Identification" means:
+7 (III) A valid United States passport OR PASSPORT CARD;
+8 (VII) (A) A copy of a current utility bill, bank statement,
+9 government check, paycheck, or other government document that shows
+10 the name and address of the elector;
+11 (B) FOR PURPOSES OF THIS SUBSECTION (19.5)(a)(VII), A
+-4- 1113
+
+1 GOVERNMENT DOCUMENT INCLUDES A DIVISION OF YOUTH SERVICES
+2 IDENTIFICATION CARD ISSUED BY THE DEPARTMENT OF HUMAN SERVICES
+3 TO THE ELECTOR OR WRITTEN CORRESPONDENCE FROM THE COUNTY
+4 SHERIFF, OR THE SHERIFF'S DESIGNEE, TO THE COUNTY CLERK INDICATING
+5 THAT THE ELECTOR IS CONFINED IN A COUNTY JAIL OR DETENTION
+6 FACILITY.
+7 (26) "Political party district" means an area within a county
+8 composed of contiguous whole election precincts, as designated by the
+9 political party county chairperson.
+10
+11 (49.9) "Video security surveillance recording" means video
+12 monitoring by a device that continuously records a designated location or
+13 a system using motion detection that records one frame or more per
+14 minute until detection of motion triggers continuous recording WHEN
+15 MOTION IS DETECTED.
+16 (51) "Watcher" means an eligible elector other than a candidate
+17 on the ballot who has been selected by a political party chairperson on
+18 behalf of the political party; by a party candidate at a primary election, by
+19 an unaffiliated candidate at a general, congressional vacancy, or
+20 nonpartisan election; or by a person designated by either the opponents
+21 or the proponents in the case of a ballot issue or ballot question.
+22 "Watcher" also means an eligible elector selected by a candidate on the
+23 ballot for the office of United States senator, representative in congress,
+24 any state office or district office of state concern, or any county office
+25 who is subject to a recount. If selected by a political party chairperson or
+26 a party candidate, the watcher must be affiliated with that political party
+27 or unaffiliated as shown in the statewide voter registration system. If
+-5- 1113
+
+1 selected by an unaffiliated candidate, the watcher must be unaffiliated as
+2 shown in the statewide voter registration system. A PERSON SHALL NOT BE
+3 SELECTED AS A WATCHER IF THE PERSON HAS BEEN CONVICTED OF ANY
+4 ELECTION OFFENSE SPECIFIED IN ARTICLE 13 OF THIS TITLE 1 OR ANY
+5 SIMILAR ELECTION OFFENSE IN ANOTHER STATE OR HAS BEEN CONVICTED
+6 OF COMMITTING OR CONSPIRACY TO COMMIT SEDITION, INSURRECTION,
+7 TREASON, CONSPIRACY TO OVERTHROW GOVERNMENT BY USE OF
+8 PHYSICAL FORCE OR VIOLENCE, OR ANY SIMILAR FEDERAL OFFENSE.
+9
+10 SECTION 2. In Colorado Revised Statutes, 1-1-107, add (2)(e)
+11 as follows:
+12 1-1-107. Powers and duties of secretary of state - penalty.
+13 (2) In addition to any other powers prescribed by law, the
+14 secretary of state has the following powers:
+15 (e) (I) TO, IN CONSULTATION WITH THE GOVERNOR AND, AS
+16 PRACTICABLE, THE ELECTION EMERGENCY ADVISORY GROUP ESTABLISHED
+17 IN SUBSECTION (2)(e)(II) OF THIS SECTION, ADOPT RULES AS NECESSARY
+18 FOR THE PROPER ADMINISTRATION OF AN ELECTION AND TO GIVE EFFECT
+19 TO SECTION 1-1-103 (1), IF THE GOVERNOR DECLARES A DISASTER
+20 EMERGENCY PURSUANT TO SECTION 24-33.5-704 (4) DUE TO THE
+21 INABILITY TO STRICTLY COMPLY WITH THIS CODE, INCLUDING THE
+22 SUSPENSION OF ANY LAW PURSUANT TO SECTION 24-33.5-704 (7)(a).
+23 (II) IF THE GOVERNOR DECLARES A DISASTER EMERGENCY
+24 PURSUANT TO SECTION 24-33.5-704 (4) DUE TO INABILITY TO STRICTLY
+25 COMPLY WITH THIS CODE, THE GOVERNOR SHALL ESTABLISH THE ELECTION
+26 EMERGENCY ADVISORY GROUP. THE SECRETARY OF STATE AND GOVERNOR
+27 SHALL CONSULT AS PRACTICABLE WITH THE ELECTION EMERGENCY
+-6- 1113
+
+1 ADVISORY GROUP ON EMERGENCY ORDERS OR RULES THAT THE
+2 SECRETARY OF STATE MAY ADOPT AS MAY BE NECESSARY TO ENSURE THE
+3 PROPER ADMINISTRATION OF AN ELECTION AND TO GIVE EFFECT TO
+4 SECTION 1-1-103 (1).
+5 (III) THE ELECTION EMERGENCY ADVISORY GROUP CONSISTS OF SIX
+6 MEMBERS APPOINTED AS FOLLOWS:
+7 (A) ONE REPRESENTATIVE FROM THE GOVERNOR'S OFFICE,
+8 APPOINTED BY THE GOVERNOR;
+9 (B) ONE REPRESENTATIVE FROM THE SECRETARY OF STATE'S
+10 OFFICE, APPOINTED BY THE SECRETARY OF STATE;
+11 (C) TWO CURRENT OR FORMER COUNTY CLERKS FROM DIFFERENT
+12 MAJOR POLITICAL PARTIES, APPOINTED BY THE GOVERNOR IN
+13 CONSULTATION WITH THE SECRETARY OF STATE; AND
+14 (D) TWO INDIVIDUALS FROM DIFFERENT MAJOR POLITICAL PARTIES,
+15 WITH EXPERTISE ON STATE OR FEDERAL ELECTION LAW, ADMINISTERING
+16 ELECTIONS, VOTING, OR ANOTHER RELEVANT TOPIC, APPOINTED BY THE
+17 GOVERNOR IN CONSULTATION WITH THE SECRETARY OF STATE.
+18 (IV) THIS SUBSECTION (2)(e) IS REPEALED, EFFECTIVE JANUARY 31,
+19 2031.
+20 SECTION 3. In Colorado Revised Statutes, 1-1-108, amend (1)
+21 as follows:
+22 1-1-108. Copies of election laws and manual provided.
+23 (1) No later than sixty days after each adjournment of the general
+24 assembly, the secretary of state shall transmit PROVIDE to the county clerk
+25 and recorder of each county ACCESS TO a complete, updated copy of the
+26 pertinent sections of the election laws of the state.
+27 SECTION 4. In Colorado Revised Statutes, 1-1-110, add (3.7)
+-7- 1113
+
+1 as follows:
+2 1-1-110. Powers of county clerk and recorder and deputy -
+3 communication to electors.
+4 (3.7) AS THE CHIEF ELECTION OFFICIAL FOR THE COUNTY, AND TO
+5 COMPLY WITH THIS CODE AND THE RULES AND ORDERS ESTABLISHED BY
+6 THE SECRETARY OF STATE, THE COUNTY CLERK AND RECORDER SHALL SET
+7 OPERATIONAL HOURS FOR THE CLERK AND RECORDER'S OFFICE.
+8
+9 SECTION 5. In Colorado Revised Statutes, 1-2-213.5, amend
+10 (1)(a), (1)(b), (1)(c), and (2); and add (1)(d), (1)(e), and (3) as follows:
+11 1-2-213.5. Institutions of higher education - electronic voter
+12 registration option - information to students.
+13 (1) (a) Any state AN institution of higher education as defined in
+14 section 23-1-108 (7)(g)(II), C.R.S., that utilizes USES an electronic course
+15 registration process shall provide to each student registering electronically
+16 for courses at the institution the opportunity to register to vote by giving
+17 each student the option to be electronically directed to the official website
+18 of the secretary of state so that he or she THE STUDENT may register in
+19 accordance with section 1-2-202.5. The option shall be provided to
+20 students either during or immediately following the electronic registration
+21 period for each term or semester.
+22 (b) Each state institution of higher education subject to paragraph
+23 (a) of this subsection (1) SUBSECTION (1)(a) OF THIS SECTION shall
+24 implement the electronic voter registration option as soon as practicable,
+25 but not later than the next regularly scheduled maintenance to its
+26 electronic course registration system process.
+27 (c) Each state institution of higher education subject to subsection
+-8- 1113
+
+1 (1)(a) of this section shall, during the first full week of each fall semester
+2 and during the last full week of each spring semester, provide by email to
+3 each enrolled student information on voter eligibility and on how to
+4 register to vote or update their voter registration information in the
+5 statewide voter registration database.
+6 (d) EACH INSTITUTION OF HIGHER EDUCATION SUBJECT TO
+7 SUBSECTION (1)(a) OF THIS SECTION SHALL, ON BOTH THE FIFTEENTH DAY
+8 AND THE FINAL DAY PRIOR TO EACH ELECTION DAY, PROVIDE BY EMAIL TO
+9 EACH ENROLLED STUDENT THE FOLLOWING INFORMATION:
+10 (I) THE LOCATION AND HOURS OF OPERATION OF EACH CAMPUS
+11 VOTER SERVICE AND POLLING CENTER, INCLUDING THE BUILDING NAME
+12 AND ADDRESS, AND THE REQUIREMENT TO BRING IDENTIFICATION TO
+13 VOTE; AND
+14 (II) EACH DROP-OFF LOCATION ON CAMPUS, THE REQUIREMENT
+15 FOR IDENTIFICATION FOR CERTAIN MAIL BALLOTS, AND HOW TO ACCESS
+16 MAIL ON CAMPUS.
+17 (e) EACH INSTITUTION OF HIGHER EDUCATION SUBJECT TO
+18 SUBSECTION (1)(a) OF THIS SECTION MAY INCLUDE IN THE EMAIL REQUIRED
+19 BY SUBSECTION (1)(d) OF THIS SECTION INFORMATION CREATED AND MADE
+20 AVAILABLE BY THE SECRETARY OF STATE CONCERNING:
+21 (I) VOTER ELIGIBILITY, INCLUDING RESIDENCY REQUIREMENTS AND
+22 NONRESIDENT STUDENT ELIGIBILITY TO VOTE IN ELECTIONS IN THE STATE;
+23 AND
+24 (II) HOW TO REGISTER TO VOTE OR UPDATE VOTER INFORMATION
+25 IN THE STATEWIDE VOTER REGISTRATION DATABASE, THE LAST DAY TO
+26 REGISTER TO VOTE ONLINE AND RECEIVE A BALLOT IN THE MAIL PRIOR TO
+27 AN ELECTION, AND OPTIONS FOR REGISTERING IN PERSON ON OR BEFORE
+-9- 1113
+
+1 ELECTION DAY.
+2 (2) A state AN institution of higher education that does not utilize
+3 USE an electronic course registration process shall provide to students
+4 information regarding how to register to vote IN ACCORDANCE WITH
+5 SUBSECTIONS (1)(c) AND (1)(d) OF THIS SECTION, including, at a minimum,
+6 prominently posting such information in a clearly visible area of the
+7 institution's registrar's office. SUCH AN INSTITUTION OF HIGHER
+8 EDUCATION MAY ALSO PROVIDE TO STUDENTS INFORMATION IN
+9 ACCORDANCE WITH SUBSECTION (1)(e) OF THIS SECTION, INCLUDING BY
+10 PROMINENTLY POSTING SUCH INFORMATION IN A CLEARLY VISIBLE AREA
+11 OF THE CAMPUS.
+12 (3) (a) THE SECRETARY OF STATE SHALL ADOPT RULES SPECIFYING
+13 THE FORM AND REQUIRED CONTENT FOR THE INFORMATION REQUIRED BY
+14 SUBSECTIONS (1)(c), (1)(d), (1)(e), AND (2) OF THIS SECTION.
+15 (b) PRIOR TO SENDING AN EMAIL REQUIRED BY SUBSECTION (1)(c)
+16 OR (1)(d) OF THIS SUBSECTION OR POSTING A SIGN PURSUANT TO
+17 SUBSECTION (2) OF THIS SUBSECTION, AN INSTITUTION OF HIGHER
+18 EDUCATION SHALL PROVIDE THE ELECTION-SPECIFIC CONTENT OF THE
+19 EMAIL OR SIGN TO THE COUNTY CLERK AND RECORDER FOR THE COUNTY
+20 IN WHICH THE INSTITUTION OF HIGHER EDUCATION IS LOCATED.
+21 SECTION 6. In Colorado Revised Statutes, 1-2-222, amend (4)
+22 as follows:
+23 1-2-222. Errors in recording of affiliation.
+24 (4) Printed affidavit forms must be furnished to the election
+25 judges of the various election precincts MADE AVAILABLE BY THE COUNTY
+26 CLERK AND RECORDER. The affidavit form must be substantially as
+27 follows:
+-10- 1113
+
+1 STATE OF COLORADO )
+2 ) ss.
+3 County of ...........................................................)
+4 I, ...................., believing an error has been made as to the
+5 recording of my party affiliation, or a change unlawfully made, or a
+6 withdrawal unlawfully made in the statewide voter registration system, do
+7 solemnly swear, or affirm, that the party affiliation as now shown in the
+8 statewide voter registration system is an error, or has been unlawfully
+9 changed, or has been unlawfully withdrawn and that my correct party
+10 affiliation should be .................... instead of .................... and request that
+11 the party affiliation be corrected in the statewide voter registration
+12 system. My correct affiliation was made on or before .................... (date).
+13 Dated ....................
+14 Signed ....................
+15 Subscribed and sworn to before me this ........... day of ...............,
+16 20....
+17 ..................................................................
+18 Election Judge or County Clerk
+19 County ......................................................
+20 SECTION 7. In Colorado Revised Statutes, 1-2-227, amend (2);
+21 and add (3) as follows:
+22 1-2-227. Custody and preservation of records.
+23 (2) The voter information provided by a preregistrant who will not
+24 turn eighteen years of age OLD by the date of the next election shall be
+25 kept confidential in the same manner as, and using the programs
+26 developed for, information that is kept confidential pursuant to section
+27 24-72-204 (3.5). Nothing in this subsection (2) shall be construed to
+-11- 1113
+
+1 require any request, application, or fee for such confidentiality. When the
+2 preregistrant will be IS eighteen years of age on the date of the next
+3 election OLD, such information is no longer confidential under this
+4 subsection (2).
+5 (3) BEGINNING JANUARY 1, 2027, THE SECRETARY OF STATE SHALL
+6 ENSURE THAT THE VOTER INFORMATION PROVIDED BY A PREREGISTRANT
+7 WHO IS SEVENTEEN YEARS AND SIX MONTHS OLD IS ACCESSIBLE TO THAT
+8 PREREGISTRANT AND SHALL ALLOW SUCH A PREREGISTRANT TO UPDATE
+9 THEIR VOTER INFORMATION USING THE ONLINE VOTER REGISTRATION
+10 SYSTEM CREATED IN SECTION 1-2-202.5 IF THE PREREGISTRANT
+11 PROVIDES THEIR NAME, ZIP CODE, DATE OF BIRTH, AND EITHER THE LAST
+12 FOUR DIGITS OF THEIR SOCIAL SECURITY NUMBER OR THEIR DRIVER'S
+13 LICENSE OR STATE-ISSUED IDENTIFICATION NUMBER.
+14 SECTION 8. In Colorado Revised Statutes, 1-2-301, add (7) as
+15 follows:
+16 1-2-301. Centralized statewide registration system - secretary
+17 of state to maintain computerized statewide voter registration list -
+18 county computer records - agreement to match information -
+19 definition.
+20 (7) (a) THE STATEWIDE VOTER REGISTRATION SYSTEM MUST
+21 SUPPORT THE INTEGRATION AND USE OF GEOGRAPHIC INFORMATION
+22 SYSTEM DATA TO IMPROVE THE ACCURACY, CONSISTENCY, AND
+23 RELIABILITY OF VOTER REGISTRATION RECORDS.
+24 (b) THE SECRETARY OF STATE MAY INCORPORATE GEOGRAPHIC
+25 INFORMATION SYSTEM FUNCTIONALITY INTO THE STATEWIDE VOTER
+26 REGISTRATION SYSTEM TO:
+27 (I) VALIDATE AND MAINTAIN VOTER RESIDENTIAL AND MAILING
+-12- 1113
+
+1 ADDRESS INFORMATION USING SPATIAL DATA, PARCEL DATA, OR OTHER
+2 GEOGRAPHIC REFERENCE LAYERS;
+3 (II) IMPROVE THE ACCURACY OF PRECINCT, DISTRICT, AND
+4 JURISDICTIONAL ASSIGNMENTS;
+5 (III) SUPPORT TIMELY AND ACCURATE IMPLEMENTATION OF
+6 DISTRICT BOUNDARY CHANGES RESULTING FROM REDISTRICTING OR OTHER
+7 LAWFUL ADJUSTMENTS; AND
+8 (IV) REDUCE UNDELIVERABLE ELECTION MAIL, IMPROVE MAIL
+9 BALLOT DELIVERY EFFICIENCY, AND MINIMIZE THE NEED FOR CORRECTIVE
+10 OR REPLACEMENT BALLOTS.
+11 (c) GEOGRAPHIC INFORMATION SYSTEM DATA USED UNDER THIS
+12 SUBSECTION (7) SHALL NOT BE USED TO DETERMINE VOTER ELIGIBILITY,
+13 CHALLENGE A VOTER'S REGISTRATION, OR RESTRICT A REGISTERED
+14 ELECTOR'S RIGHT TO VOTE.
+15 (d) THE SECRETARY OF STATE MAY ADOPT RULES AS NECESSARY
+16 TO IMPLEMENT THIS SUBSECTION (7), INCLUDING RULES GOVERNING DATA
+17 SOURCES, DATA SHARING WITH COUNTY CLERKS AND RECORDERS, DATA
+18 SECURITY, AND PROCEDURES FOR RESOLVING ADDRESS DISCREPANCIES.
+19 (e) THE SECRETARY OF STATE SHALL ENSURE THAT THE STATEWIDE
+20 VOTER REGISTRATION SYSTEM FULLY IMPLEMENT GEOGRAPHIC
+21 INFORMATION SYSTEM FUNCTIONALITY AUTHORIZED UNDER THIS
+22 SUBSECTION (7) NO LATER THAN JULY 1, 2029.
+23 SECTION 9. In Colorado Revised Statutes, amend 1-2-401 as
+24 follows:
+25 1-2-401. Legislative declaration.
+26 It is the intent of the general assembly that, in order to promote and
+27 encourage voter registration of all eligible electors in the state,
+-13- 1113
+
+1 registration should be made as convenient as possible. It is determined by
+2 the general assembly that if voter registration is convenient, the number
+3 of registered voters will increase. It is further determined by the general
+4 assembly that support and cooperation of school officials and interested
+5 citizens will make high school registration successful. It is therefore the
+6 purpose of this part 4 to encourage voter registration by providing
+7 convenient registration procedures for qualified high school students,
+8 employees, and other persons by using high school deputy registrars
+9 LIAISONS.
+10 SECTION 10. In Colorado Revised Statutes, amend 1-2-402 as
+11 follows:
+12 1-2-402. Registration by high school liaisons - rules.
+13 (1) Each principal of a public high school, or the principal's
+14 designee who is a registered voter in the county STATE, may serve as a
+15 deputy registrar HIGH SCHOOL LIAISON. The principal of each high school
+16 shall notify the county clerk and recorder of the county in which the high
+17 school is located of the name of the school's deputy registrar HIGH
+18 SCHOOL LIAISON, and the county clerk and recorder shall maintain a list
+19 of the names of all of the high school deputy registrars LIAISONS in that
+20 county in a public file.
+21 (2) The high school deputy registrar LIAISON may register or
+22 preregister any student, employee of the school, other person who attends
+23 school functions, or any other person who is eligible to register or
+24 preregister to vote. Voter registration may be made available only when
+25 the school is open for classes or any other school or community function.
+26 The high school deputy registrar LIAISON shall take registrations or
+27 preregistrations only on school district premises.
+-14- 1113
+
+1 (3) A high school deputy registrar LIAISON may have available an
+2 official application form for voter registration for each student who is
+3 eighteen years of age OLD or who will be eighteen years of age OLD at the
+4 time of the next election. A high school deputy registrar LIAISON may
+5 have available an official application form for preregistration for each
+6 student who is fifteen years of age OLD.
+7 SECTION 11. In Colorado Revised Statutes, 1-2-403, amend (1),
+8 (2), and (3)(b); and repeal (3)(a) as follows:
+9 1-2-403. Training and registration materials for high school
+10 liaisons - processing applications.
+11 (1) The county clerk and recorder shall train and supervise the
+12 high school deputy registrars LIAISONS, and, after training is completed,
+13 shall administer the oath of office to the high school deputy registrars
+14 LIAISONS.
+15 (2) The county clerk and recorder shall issue sufficient materials
+16 to each high school deputy registrar LIAISON for the registration or
+17 preregistration of all eligible students, employees, and other persons at the
+18 high school which the high school deputy registrar LIAISON serves. The
+19 high school deputy registrar shall give a receipt to the county clerk and
+20 recorder for all materials issued.
+21 (3) (a) The high school deputy registrar shall stamp the application
+22 for registration or preregistration with a validation stamp and provide the
+23 applicant with a receipt verifying the application.
+24 (b) (I) Except as provided in subparagraph (II) of this paragraph
+25 (b) SUBSECTION (3)(b)(II) OF THIS SECTION, the high school deputy
+26 registrar LIAISON shall forward applications and changes on a weekly
+27 basis to the county clerk and recorder of the county in which the high
+-15- 1113
+
+1 school is located.
+2 (II) (A) During the last week allowed for registration applications
+3 submitted by mail prior to any election, the high school deputy registrar
+4 LIAISON shall forward applications daily to the county clerk and recorder
+5 of the county in which the high school is located.
+6 (B) Within eight days prior to an election, a high school deputy
+7 registrar LIAISON shall accept an application tendered under this section
+8 and shall immediately inform the applicant that, to vote in the upcoming
+9 election, the voter must go to a voter service and polling center.
+10 SECTION 12. In Colorado Revised Statutes, amend 1-2-603 as
+11 follows:
+12 1-2-603. Notification that elector has moved and registered in
+13 different county.
+14 (1) If the elector registers to vote in another county, the county
+15 clerk and recorder of the elector's new county of residence shall transfer
+16 the elector's registration record from the old county in accordance with
+17 the following requirements: IF THE ELECTOR PROVIDES A NAME AND AT
+18 LEAST TWO OF THE FOLLOWING IDENTIFIERS THAT MATCH THE ELECTOR'S
+19 PRIOR REGISTRATION RECORD: DATE OF BIRTH, PRIOR RESIDENCE, DRIVER'S
+20 LICENSE OR IDENTIFICATION CARD NUMBER, OR THE LAST FOUR DIGITS OF
+21 THE ELECTOR'S SOCIAL SECURITY NUMBER.
+22 (a) If the elector provides a name, date of birth, and prior address
+23 and the county clerk and recorder can match the name, date of birth, and
+24 prior address to the elector's prior registration record, the elector's
+25 registration record shall be transferred from the old county.
+26 (b) If the elector provides a name and date of birth but does not
+27 provide a prior address, the elector's registration record shall be
+-16- 1113
+
+1 transferred from the old county only if:
+2 (I) The elector provides a driver's license or identification card
+3 number, and the county clerk and recorder of the new county of residence
+4 can match the name, date of birth, and driver's license or identification
+5 card number to the elector's prior registration record; or
+6 (II) The elector provides a social security number, and the county
+7 clerk and recorder of the new county of residence can match the name,
+8 date of birth, and social security number to the elector's prior registration
+9 record.
+10 (c) If the elector does not provide a prior address, driver's license
+11 number, or social security number, the registration record shall not be
+12 transferred from the old county unless the elector submits additional
+13 information that complies with the requirements of this subsection (1).
+14 The county clerk and recorder of the county of prior residence may send
+15 notice to the elector by forwardable mail to the elector's address of record.
+16 Any such notice shall have a returnable portion that has the return postage
+17 prepaid and is preaddressed to the sending county clerk and recorder, and
+18 shall include an area for the elector to indicate if the elector has moved
+19 to another county and wishes to have his or her THEIR registration record
+20 transferred from the old county.
+21 (2) If a county clerk and recorder receives a notice from the
+22 secretary of state or from an election official in another state that the
+23 elector has registered to vote in another state, the county clerk and
+24 recorder of the county of prior residence shall cancel the registration
+25 record if the name and birth date or the name and social security number
+26 of the elector match. AND AT LEAST TWO OF THE FOLLOWING IDENTIFIERS
+27 MATCH: DATE OF BIRTH, PRIOR RESIDENCE, DRIVER'S LICENSE OR
+-17- 1113
+
+1 IDENTIFICATION CARD NUMBER, OR LAST FOUR DIGITS OF SOCIAL SECURITY
+2 NUMBER.
+3 SECTION 13. In Colorado Revised Statutes, 1-2-604, amend
+4 (3)(a) as follows:
+5 1-2-604. Cancellation of electors with multiple registrations.
+6 (3) (a) The county clerk and recorder may not cancel the
+7 registration record pursuant to subsection (1) of this section unless there
+8 is a match in the county's registration records and the statewide voter
+9 registration database with respect to, at a minimum, the following types
+10 of identifying information: ELECTOR'S NAME AND AT LEAST TWO OF THE
+11 FOLLOWING IDENTIFIERS: DATE OF BIRTH, PRIOR RESIDENCE, DRIVER'S
+12 LICENSE OR IDENTIFICATION CARD NUMBER, OR THE LAST FOUR DIGITS OF
+13 THE ELECTOR'S SOCIAL SECURITY NUMBER.
+14 (I) The elector's name, date of birth, and prior residence; or
+15 (II) The elector's name, date of birth, and driver's license number
+16 or social security number.
+17 SECTION 14. In Colorado Revised Statutes, 1-2-605, amend (7)
+18 as follows:
+19 1-2-605. Canceling registration - procedures.
+20 (7) If an elector whose registration record is marked "Inactive"
+21 fails to update his or her THEIR registration record, fails to respond to any
+22 confirmation card, and fails to vote in any election conducted by the
+23 county clerk and recorder during the time period that includes two
+24 consecutive general elections since the elector's registration record was
+25 marked "Inactive", the county clerk and recorder SECRETARY OF STATE
+26 shall cancel the elector's registration record. Nothing in this section
+27 allows an elector's registration record to be canceled solely for failure to
+-18- 1113
+
+1 vote, OR PROHIBITS THE SECRETARY OF STATE FROM REQUESTING
+2 ASSISTANCE FROM A COUNTY CLERK AND RECORDER TO CARRY OUT THE
+3 DUTIES DESCRIBED IN THIS SUBSECTION (7).
+4 SECTION 15. In Colorado Revised Statutes, 1-4-304, amend (5)
+5 as follows:
+6 1-4-304. Presidential electors.
+7 (5) (a) Each presidential elector shall vote for the presidential
+8 candidate and, by separate ballot, vice-presidential candidate who
+9 received the highest number of votes at the preceding general election in
+10 this THE state.
+11 (b) IF A PRESIDENTIAL CANDIDATE OR VICE-PRESIDENTIAL
+12 CANDIDATE NOMINATED BY A POLITICAL PARTY DIES OR WITHDRAWS AS
+13 A CANDIDATE FOR THAT OFFICE IN ACCORDANCE WITH THE RULES OF THE
+14 POLITICAL PARTY AFTER ACCEPTING NOMINATION BUT PRIOR TO THE
+15 MEETING OF PRESIDENTIAL ELECTORS PURSUANT TO THIS SECTION, AN
+16 ELECTOR'S VOTE PURSUANT TO SUBSECTION (5)(a) OF THIS SECTION FOR
+17 SUCH PRESIDENTIAL CANDIDATE OR VICE-PRESIDENTIAL CANDIDATE
+18 REFERS TO THE SUCCESSOR CANDIDATE NOMINATED BY THE POLITICAL
+19 PARTY IN ACCORDANCE WITH THE RULES OF THE POLITICAL PARTY. ANY
+20 VOTE FOR A SUCCESSOR CANDIDATE PURSUANT TO THIS SUBSECTION (5)(b)
+21 IS NOT A VIOLATION OF SECTION 1-13-725.
+22 SECTION 16. In Colorado Revised Statutes, 1-4-401, amend (1)
+23 and (2); and add (3) as follows:
+24 1-4-401. Time of congressional vacancy elections.
+25 (1) Except as provided in section 1-4-401.5, when any vacancy
+26 occurs in the office of representative in congress from this state, the
+27 governor shall, WITHIN SEVEN DAYS OF THE VACANCY, set a day to hold
+-19- 1113
+
+1 an election to fill the vacancy and cause notice of the election to be given
+2 as required in part 2 of article 5 of this title; but no congressional vacancy
+3 election shall be held during the ninety days prior to a general election. or
+4 less than eighty-five days or more than one hundred days after the
+5 vacancy occurs IF THE VACANCY OCCURS BETWEEN ONE HUNDRED FIFTY
+6 AND NINETY DAYS PRIOR TO A REGULARLY SCHEDULED STATEWIDE
+7 PRESIDENTIAL PRIMARY, PRIMARY, OR COORDINATED ELECTION, THE
+8 CONGRESSIONAL VACANCY ELECTION SHALL BE HELD AS PART OF THAT
+9 ELECTION. IF THE VACANCY OCCURS OUTSIDE THE PERIOD BETWEEN ONE
+10 HUNDRED FIFTY DAYS AND NINETY DAYS PRIOR TO A REGULARLY
+11 SCHEDULED STATEWIDE PRESIDENTIAL PRIMARY, PRIMARY, OR
+12 COORDINATED ELECTION, THE CONGRESSIONAL VACANCY ELECTION SHALL
+13 BE HELD NO LESS THAN NINETY DAYS AND NO MORE THAN ONE HUNDRED
+14 TWENTY DAYS AFTER THE VACANCY OCCURS.
+15 (2) A congressional vacancy election HELD AS A SEPARATE
+16 ELECTION shall be conducted and the results thereof surveyed and
+17 certified in all respects as nearly as practicable in like manner as for
+18 ACCORDING TO THE PROVISIONS THAT GOVERN general elections, except
+19 as otherwise provided in this code.
+20 (3) A CONGRESSIONAL VACANCY ELECTION HELD AS PART OF A
+21 REGULARLY SCHEDULED STATEWIDE ELECTION SHALL BE CONDUCTED AND
+22 THE RESULTS THEREOF SURVEYED AND CERTIFIED IN ALL RESPECTS
+23 ACCORDING TO THE PROVISIONS GOVERNING THAT REGULARLY
+24 SCHEDULED STATEWIDE ELECTION, EXCEPT AS OTHERWISE PROVIDED IN
+25 THIS CODE.
+26 SECTION 17. In Colorado Revised Statutes, 1-4-402, amend
+27 (1)(a), (1)(c), and (2); and add (3) as follows:
+-20- 1113
+
+1 1-4-402. Nominations of political party candidates.
+2 (1) (a) Any convention of delegates of a political party or any
+3 committee authorized by resolution of the convention shall nominate a
+4 candidate to fill a vacancy in the unexpired term of a representative in
+5 congress. A state central committee, its managing or executive committee
+6 selected pursuant to section 1-3-105 (2), or any other committee
+7 designated by the bylaws of the state central committee to convene a
+8 convention to nominate a candidate to fill a vacancy in the unexpired term
+9 of a representative in congress shall convene the convention and shall
+10 provide the procedure for the nomination of the candidate. A copy of the
+11 notice of election, as set by the governor and filed with the secretary of
+12 state, shall be sent by certified EMAIL OR mail to the state chairperson of
+13 each political party.
+14 (c) No convention shall be held later than the twentieth day from
+15 the date of the order issued by the governor FIVE DAYS PRIOR TO THE
+16 DEADLINE FOR THE SECRETARY OF STATE TO CERTIFY BALLOT CONTENT
+17 FOR THE ELECTION.
+18 (2) The nomination to fill the vacancy in the unexpired term of a
+19 representative in congress made by the political party convention or a
+20 committee authorized by the convention shall be certified by affidavit of
+21 the presiding officer and secretary of the convention or committee ON A
+22 FORM PROVIDED BY THE SECRETARY OF STATE.
+23 (3) (a) ANY VACANCY IN NOMINATION WHICH OCCURS AFTER THE
+24 DATE OF THE CONVENTION OR COMMITTEE DESCRIBED IN THIS SECTION
+25 SHALL BE FILLED BY THE PARTY IN ACCORDANCE WITH PARTY RULES.
+26 (b) WHEN A VACANCY IN A PARTY NOMINATION IS FILLED PRIOR TO
+27 THE BALLOTS BEING PRINTED, THE SECRETARY OF STATE SHALL DIRECT
+-21- 1113
+
+1 EACH COUNTY CLERK AND RECORDER TO PRINT THE NAME OF THE
+2 REPLACEMENT CANDIDATE ON THE BALLOT.
+3 (c) WHEN A VACANCY IN A PARTY NOMINATION IS FILLED
+4 SUBSEQUENT TO THE BALLOTS BEING PRINTED, THE SECRETARY OF STATE
+5 SHALL DIRECT EACH COUNTY CLERK AND RECORDER TO:
+6 (I) PROMINENTLY POST, ON THE DESIGNATED ELECTION OFFICIAL'S
+7 WEBSITE AND IN EACH VOTER SERVICE AND POLLING CENTER, A NOTICE OF
+8 THE VACANCY AND THE NAME OF THE REPLACEMENT CANDIDATE; AND
+9 (II) EITHER PRINT AND PLACE ON THE SAMPLE BALLOT, WHICH IS
+10 DELIVERED TO THE ELECTION JUDGES AND POSTED PURSUANT TO SECTION
+11 1-5-413, A STICKER OF A DIFFERENT COLOR THAN THE SAMPLE BALLOT
+12 INDICATING THE NAME OF THE REPLACEMENT CANDIDATE OR REPRINT THE
+13 SAMPLE BALLOT WITH THE NAME OF THE REPLACEMENT CANDIDATE IN A
+14 DIFFERENT COLOR.
+15 (d) VOTES CAST FOR THE CANDIDATE WHO VACATED THE
+16 NOMINATION MUST BE COUNTED AS VOTES FOR THE REPLACEMENT
+17 CANDIDATE.
+18 SECTION 18. In Colorado Revised Statutes, amend 1-4-403 as
+19 follows:
+20 1-4-403. Nomination of unaffiliated candidates for
+21 congressional vacancy election.
+22 (1) Except as provided in section 1-4-401.5, candidates for
+23 congress at a congressional vacancy election who do not wish to affiliate
+24 with a major political party may be nominated pursuant to the provisions
+25 of section 1-4-802.
+26 (2) Petitions must be filed by 5 p.m. on the twentieth TENTH day
+27 after the date of the order issued by the governor BEFORE THE DEADLINE
+-22- 1113
+
+1 FOR THE SECRETARY OF STATE TO CERTIFY THE BALLOT CONTENT FOR THE
+2 ELECTION.
+3 SECTION 19. In Colorado Revised Statutes, amend 1-4-404 as
+4 follows:
+5 1-4-404. Nomination and acceptance of candidate -
+6 arrangement of names on ballots.
+7 (1) Any person nominated in accordance with this article 4 shall
+8 file a written acceptance with the secretary of state by mail or hand
+9 delivery. The written acceptance must be postmarked or received by the
+10 secretary of state within four business days after the adjournment of the
+11 assembly. If an acceptance is not filed within the specified time, the
+12 candidate is deemed to have declined the nomination, and the nomination
+13 must be treated as a vacancy to be filled as provided in part 10 of this
+14 article 4.
+15 (2) THE SECRETARY OF STATE SHALL ARRANGE THE NAMES OF ALL
+16 CANDIDATES WHO HAVE BEEN DULY NOMINATED AND FILED A WRITTEN
+17 ACCEPTANCE IN ACCORDANCE WITH SUBSECTION (1) OF THIS SECTION ON
+18 THE BALLOT UNDER THE DESIGNATION OF THE OFFICE IN THREE GROUPS AS
+19 FOLLOWS:
+20 (a) THE NAMES OF THE CANDIDATES OF THE MAJOR POLITICAL
+21 PARTIES SHALL BE PLACED ON THE BALLOT IN AN ORDER ESTABLISHED BY
+22 LOT AND SHALL COMPRISE THE FIRST GROUP;
+23 (b) THE NAMES OF THE CANDIDATES OF THE MINOR POLITICAL
+24 PARTIES SHALL BE LISTED IN AN ORDER ESTABLISHED BY LOT AND SHALL
+25 COMPRISE THE SECOND GROUP; AND
+26 (c) THE NAMES OF THE UNAFFILIATED CANDIDATES SHALL BE
+27 LISTED IN AN ORDER ESTABLISHED BY LOT AND SHALL COMPRISE THE
+-23- 1113
+
+1 THIRD GROUP.
+2 SECTION 20. In Colorado Revised Statutes, 1-4-501, amend (1)
+3 and (2) as follows:
+4 1-4-501. Only eligible electors eligible for office.
+5 (1) No person except an eligible elector who is at least eighteen
+6 years of age OLD, unless another age is required by law, is eligible to hold
+7 any office in this state. No person is eligible to be a designee or candidate
+8 for office AT A PRESIDENTIAL PRIMARY, STATE PRIMARY, GENERAL
+9 ELECTION, CONGRESSIONAL VACANCY ELECTION, OR OTHER COORDINATED
+10 ELECTION unless that person fully meets the qualifications of that office
+11 as stated in the constitution and statutes of THE UNITED STATES OR this
+12 state on or before the date the term of that office begins. The SECRETARY
+13 OF STATE, OR designated election official, AS APPLICABLE, shall not certify
+14 the name of any designee or candidate who fails to swear or affirm under
+15 oath that he or she THEY will fully meet the qualifications of the office if
+16 elected; or who is unable to provide proof that he or she meets THEY MEET
+17 any requirements of the office relating to registration, residence, or
+18 property ownership; or who the SECRETARY OF STATE OR designated
+19 election official determines is not qualified to hold the office that he or
+20 she seeks THEY SEEK based on residency requirements, OR OTHER
+21 REQUIREMENTS WHICH ARE OBJECTIVELY VERIFIABLE SUCH AS AGE, PLACE
+22 OF BIRTH, TERM LIMITS, OR PARTY AFFILIATION. The information found on
+23 the person's voter registration record is admissible as prima facie evidence
+24 of compliance with this section.
+25 (2) No person is eligible to be a candidate for more than one
+26 office at one time; except that this subsection (2) does not apply to
+27 memberships on different special district boards. This subsection (2) shall
+-24- 1113
+
+1 not prohibit a candidate or elected official of any political subdivision
+2 from being a candidate or member of the board of directors of any special
+3 district or districts in which he or she is THEY ARE an eligible elector,
+4 unless otherwise prohibited by law.
+5 SECTION 21. In Colorado Revised Statutes, 1-4-604, amend (3)
+6 as follows:
+7 (3) Certificates of designation by assembly shall be filed no later
+8 than four days after the adjournment of the assembly. Certificates of
+9 designation may be transmitted by facsimile transmission; however, the
+10 original certificate must also be filed and postmarked no later than ten
+11 days after the adjournment of the assembly.
+12 SECTION 22. In Colorado Revised Statutes, 1-4-802, amend (1)
+13 introductory portion and (1)(f)(I) as follows:
+14 1-4-802. Petitions for nominating minor political party and
+15 unaffiliated candidates for a partisan office.
+16 (1) Candidates for partisan public offices to be filled at a general
+17 or congressional vacancy election who do not wish to affiliate with a
+18 major political party, AND CANDIDATES FOR A CONGRESSIONAL VACANCY
+19 ELECTION WHO DO NOT WISH TO AFFILIATE WITH ANY POLITICAL PARTY,
+20 may be nominated, other than by a primary election or a convention, in
+21 the following manner:
+22 (f) (I) Except as provided in subsection (1)(f)(II) of this section,
+23 petitions must be filed no later than 5 p.m. on the one hundred
+24 seventeenth day before the general election or, for a congressional
+25 vacancy election, no later than 5 p.m. on the twentieth TENTH day after
+26 the date of the order issued by the governor BEFORE THE DEADLINE FOR
+27 THE SECRETARY OF STATE TO CERTIFY THE BALLOT CONTENT FOR THE
+-25- 1113
+
+1 ELECTION.
+2 SECTION 23. In Colorado Revised Statutes, 1-4-904, amend (3)
+3 as follows:
+4 1-4-904. Signatures on the petitions.
+5 (3) Unless physically unable, all electors shall sign their own
+6 signature and shall print their names, their respective residence addresses,
+7 including the street number and name, the city or town, the county, and
+8 the date of signature. Each signature on a petition shall be made, to the
+9 extent possible, in black ink.
+10 SECTION 24. In Colorado Revised Statutes, 1-4-1001, add (3)
+11 as follows:
+12 1-4-1001. Withdrawal or disqualification from candidacy.
+13 (3) IF A PARTY FAILS TO FILL A VACANCY IN NOMINATION BY THE
+14 DEADLINES ESTABLISHED IN THIS PART 10, THAT VACANCY IN NOMINATION
+15 SHALL REMAIN UNFILLED.
+16 SECTION 25. In Colorado Revised Statutes, 1-4-1002, amend
+17 (3)(a) and (3)(b)(IV) as follows:
+18 1-4-1002. Vacancies in major party designation up to the
+19 sixty-eighth day before primary election day.
+20 (3) (a) No vacancy committee called to fill a vacancy pursuant to
+21 this section may select a person to fill the vacancy at a meeting held for
+22 that purpose unless a written notice announcing the time and location of
+23 the vacancy committee meeting was mailed to each of the committee
+24 members within five TEN calendar days of the chairperson of the central
+25 committee receiving notice of FROM THE DATE the vacancy OCCURS.
+26 Mailing of the notice is effective when the notice is properly addressed
+27 and deposited in the United States mail, with first-class postage prepaid.
+-26- 1113
+
+1 In addition to this mailing, the chairperson of the central committee may
+2 also contact the committee members by electronic mail.
+3 (b) (IV) If the vacancy committee fails to timely certify a selection
+4 WITHIN TWENTY CALENDAR DAYS FROM THE DATE THE VACANCY OCCURS,
+5 OR SIXTY-SIX DAYS BEFORE THE DATE OF THE PRIMARY ELECTION,
+6 WHICHEVER IS SOONER, the state chair of the party of the candidate whose
+7 declination, death, disqualification, or withdrawal caused the vacancy,
+8 within seven days, shall fill the vacancy by appointing a person who
+9 meets all of the requirements of candidacy as of the date of the
+10 appointment and who is affiliated with the same political party shown in
+11 the statewide voter registration system as the candidate whose
+12 declination, death, disqualification, or withdrawal caused the vacancy.
+13 The name of the person appointed by the state chair must be certified to
+14 the secretary of state OR THE DESIGNATED ELECTION OFFICIAL.
+15 SECTION 26. In Colorado Revised Statutes, 1-4-1003, amend
+16 (3)(a), (3)(b)(IV), and (3)(c)(I) as follows:
+17 1-4-1003. Vacancies in major party designation occurring
+18 between the sixty-seventh day before a primary election and the
+19 earliest day to mail primary election ballots.
+20 (3) (a) No vacancy committee called to fill a vacancy pursuant to
+21 this section may select a person to fill a vacancy at a meeting held for that
+22 purpose unless a written notice announcing the time and location of the
+23 vacancy committee meeting was mailed to each of the committee
+24 members within five TEN calendar days of the chairperson of the central
+25 committee learning of FROM THE DATE the vacancy OCCURS. Mailing of
+26 the notice is effective when the notice is properly addressed and deposited
+27 in the United States mail, with first-class postage prepaid. In addition to
+-27- 1113
+
+1 this mailing, the chairperson of the central committee may also contact
+2 the committee members by electronic mail.
+3 (b) (IV) If the vacancy committee fails to timely certify a selection
+4 WITHIN TWENTY CALENDAR DAYS FROM THE DATE THE VACANCY OCCURS,
+5 the state chair of the party of the candidate whose declination, death,
+6 disqualification, or withdrawal caused the vacancy, within seven days,
+7 shall fill the vacancy by appointing a person who meets all of the
+8 requirements of candidacy as of the date of the appointment and who is
+9 affiliated with the same political party shown in the statewide voter
+10 registration system as the candidate whose declination, death,
+11 disqualification, or withdrawal caused the vacancy. The name of the
+12 person appointed by the state chair must be certified to the secretary of
+13 state OR THE DESIGNATED ELECTION OFFICIAL.
+14 (c) (I) The designation and acceptance of the person selected to
+15 fill the vacancy must be submitted to the designated election official no
+16 later than three days from either the date of the vacancy committee
+17 meeting or from the date of appointment by the state chair pursuant to
+18 subsection (3)(b)(IV) of this section, as applicable; EXCEPT THAT, THE
+19 DESIGNATION AND ACCEPTANCE MUST IN ALL CASES BE SUBMITTED NO
+20 LATER THAN THE DAY BEFORE THE DATE OF THE PRIMARY ELECTION.
+21 SECTION 27. In Colorado Revised Statutes, 1-4-1004, amend
+22 (3)(a), (3)(b)(IV), (3)(c)(I), and (4)(b) as follows:
+23 1-4-1004. Vacancies in major party designation occurring
+24 from the day after the earliest day to mail primary election ballots
+25 through primary election day.
+26 (3) (a) No vacancy committee called to fill a vacancy pursuant to
+27 this section may select a person to fill a vacancy at a meeting held for that
+-28- 1113
+
+1 purpose unless a written notice announcing the time and location of the
+2 vacancy committee meeting was mailed to each of the committee
+3 members within five TEN calendar days of the chairperson of the central
+4 committee learning of FROM THE DATE the vacancy OCCURS. Mailing of
+5 the notice is effective when the notice is properly addressed and deposited
+6 in the United States mail, with first-class postage prepaid. In addition to
+7 the mailing, the chairperson of the central committee may also contact
+8 committee members by electronic mail.
+9 (b) (IV) If the vacancy committee fails to timely certify a selection
+10 WITHIN TWENTY CALENDAR DAYS FROM THE DATE THE VACANCY OCCURS,
+11 OR FIVE DAYS FROM THE DATE OF THE PRIMARY ELECTION, WHICHEVER IS
+12 SOONER, the state chair of the party of the candidate whose declination,
+13 death, disqualification, or withdrawal caused the vacancy, within seven
+14 days, shall fill the vacancy by appointing a person who meets all of the
+15 requirements of candidacy as of the date of the appointment and who is
+16 affiliated with the same political party shown in the statewide voter
+17 registration system as the candidate whose declination, death,
+18 disqualification, or withdrawal caused the vacancy. The name of the
+19 person appointed by the state chair must be certified to the secretary of
+20 state OR THE DESIGNATED ELECTION OFFICIAL.
+21 (c) (I) The designation and acceptance of the person selected to
+22 fill the vacancy must be submitted to the designated election official no
+23 later than three days from either the date of the vacancy committee
+24 meeting or from the date of appointment by the state chair pursuant to
+25 subsection (3)(b)(IV) of this section, as applicable; EXCEPT THAT, THE
+26 DESIGNATION AND ACCEPTANCE MUST IN ALL CASES BE SUBMITTED NO
+27 LATER THAN SEVEN DAYS FROM THE DATE OF THE PRIMARY ELECTION.
+-29- 1113
+
+1 (4) When a vacancy in a party nomination is filled pursuant to this
+2 section:
+3 (b) Votes cast for the candidate who vacated the designation must
+4 be counted as votes for the replacement candidate IF A REPLACEMENT
+5 CANDIDATE HAS BEEN CERTIFIED TO THE SECRETARY OF STATE OR THE
+6 DESIGNATED ELECTION OFFICIAL ON OR BEFORE THE DATE OF THE PRIMARY
+7 ELECTION.
+8 SECTION 28. In Colorado Revised Statutes, 1-4-1005, amend
+9 (3)(a), (3)(b)(IV), and (3)(c)(I) as follows:
+10 1-4-1005. Vacancies in major party nomination occurring
+11 from the day after primary election day through the earliest day to
+12 mail general election ballots.
+13 (3) (a) No vacancy committee called to fill a vacancy pursuant to
+14 this section may select a person to fill a vacancy at a meeting held for that
+15 purpose unless a written notice announcing the time and location of the
+16 vacancy committee meeting was mailed to each of the committee
+17 members within five TEN calendar days of the chairperson of the central
+18 committee learning of FROM THE DATE the vacancy OCCURS. Mailing of
+19 the notice is effective when the notice is properly addressed and deposited
+20 in the United States mail, with first-class postage prepaid. In addition to
+21 the mailing, the chairperson of the central committee may also contact
+22 committee members by electronic mail.
+23 (b) (IV) If the vacancy committee fails to timely certify a selection
+24 WITHIN TWENTY CALENDAR DAYS FROM THE DATE THE VACANCY OCCURS,
+25 the state chair of the party of the candidate whose declination, death,
+26 disqualification, or withdrawal caused the vacancy, within seven days,
+27 shall fill the vacancy by appointing a person who meets all of the
+-30- 1113
+
+1 requirements of candidacy as of the date of the appointment and who is
+2 affiliated with the same political party shown in the statewide voter
+3 registration system as the candidate whose declination, death,
+4 disqualification, or withdrawal caused the vacancy. The name of the
+5 person appointed by the state chair must be certified to the secretary of
+6 state OR THE DESIGNATED ELECTION OFFICIAL. The vacancy is filled until
+7 the next general election after the vacancy occurs, when the vacancy is
+8 filled by election.
+9 (c) (I) The designation and acceptance of the person selected to
+10 fill the vacancy must be submitted to the designated election official no
+11 later than three days from either the date of the vacancy committee
+12 meeting or from the date of appointment by the state chair pursuant to
+13 subsection (3)(b)(IV) of this section, as applicable; except that such
+14 certification DESIGNATION AND ACCEPTANCE must in all cases be
+15 submitted no later than the sixty-fourth day before the date of the general
+16 election.
+17 SECTION 29. In Colorado Revised Statutes, 1-4-1006, amend
+18 (2) as follows:
+19 1-4-1006. Vacancies in major party nomination occurring
+20 from the day after the earliest day to mail general election ballots
+21 through general election day.
+22 (2) A vacancy occurring from the day after the earliest day to mail
+23 general election ballots through general election day must REMAIN
+24 UNFILLED. IF THE CANDIDATE RECEIVING THE MOST VOTES IN THE
+25 ELECTION IS THE CANDIDATE WHOSE WITHDRAWAL OR DISQUALIFICATION
+26 CREATED THE VACANCY, THE VACANCY IN OFFICE MUST be filled in
+27 accordance with part 2 of article 12 of this code.
+-31- 1113
+
+1 SECTION 30. In Colorado Revised Statutes, amend 1-4-1007 as
+2 follows:
+3 1-4-1007. Vacancies in minor party designation or nomination.
+4 Any vacancy in a nomination for a minor political party candidate
+5 occurring after the filing of the certificate of designation pursuant to
+6 section 1-4-1304 (3) and no later than seventy days before the general or
+7 congressional vacancy election, which is caused by the declination, death,
+8 disqualification, or withdrawal of any person nominated by the minor
+9 political party, may be filled by the person or persons designated in the
+10 constitution or bylaws of the minor political party to fill vacancies. THE
+11 DESIGNATION AND ACCEPTANCE OF THE PERSON SELECTED TO FILL THE
+12 VACANCY MUST BE SUBMITTED TO THE DESIGNATED ELECTION OFFICIAL
+13 NO LATER THAN THE SIXTY-FOURTH DAY BEFORE THE DATE OF THE
+14 GENERAL ELECTION.
+15 SECTION 31. In Colorado Revised Statutes, amend 1-4-1008 as
+16 follows:
+17 1-4-1008. Vacancies in unaffiliated designation or nomination.
+18 Any vacancy in a nomination for an unaffiliated candidate caused
+19 by the declination, death, disqualification, or withdrawal of any person
+20 nominated by petition or statement of intent occurring after the filing of
+21 the petition for nomination and no later than seventy days before the
+22 general or congressional vacancy election may be filled by the person or
+23 persons designated on the petition or statement of intent to fill vacancies.
+24 THE DESIGNATION AND ACCEPTANCE OF THE PERSON SELECTED TO FILL
+25 THE VACANCY MUST BE SUBMITTED TO THE DESIGNATED ELECTION
+26 OFFICIAL NO LATER THAN THE SIXTY-FOURTH DAY BEFORE THE DATE OF
+27 THE GENERAL ELECTION.
+-32- 1113
+
+1 SECTION 32. In Colorado Revised Statutes, 1-4-1203, amend
+2 (4)(a) as follows:
+3 1-4-1203. Presidential primary elections - when - conduct.
+4 (4) (a) A ballot used in a presidential primary election must only
+5 contain the names of candidates for the office of the president of the
+6 United States of America. The ballot shall not be used for the purpose of
+7 presenting any other issue or question to the electorate unless expressly
+8 authorized by law; EXCEPT THAT, A CONGRESSIONAL VACANCY ELECTION
+9 MAY BE PRESENTED ON THE SAME BALLOT USED IN A PRESIDENTIAL
+10 PRIMARY IF THE CONGRESSIONAL VACANCY ELECTION IS HELD ON THE
+11 SAME DAY AS THE PRESIDENTIAL PRIMARY PURSUANT TO SECTION 1-4-401.
+12 SECTION 33. In Colorado Revised Statutes, 1-4-1304, amend
+13 (1.5)(b)(I), (3), and (4) as follows:
+14 1-4-1304. Nomination of candidates.
+15 (1.5) (b) (I) A minor political party may nominate candidates for
+16 offices to be filled at a general election by assembly. Except as provided
+17 in subsection (1.5)(f) of this section, An assembly shall be held no later
+18 than seventy-three days preceding the primary election.
+19 (3) Any minor political party nominating candidates in accordance
+20 with this part 13 shall file a certificate of designation with the designated
+21 election official no later than four days after the assembly was held at
+22 SIXTY-SEVEN DAYS BEFORE THE PRIMARY ELECTION FOR which the
+23 candidate was designated. The certificate of designation must state the
+24 name of the office for which each person is a candidate and the
+25 candidate's name and address, the date on which the assembly was held
+26 at which the candidate was designated, must designate in not more than
+27 three words the name of the minor political party that the candidate
+-33- 1113
+
+1 represents, and must certify that the candidate is a member of the minor
+2 political party. The candidate's name may include one nickname, if the
+3 candidate regularly uses the nickname and the nickname does not include
+4 any part of a political party name. The candidate's affiliation as shown in
+5 the statewide voter registration system is prima facie evidence of party
+6 membership.
+7 (4) Any person nominated in accordance with this part 13 shall
+8 file a written acceptance with the designated election official. by mail,
+9 facsimile transmission, or hand delivery The written acceptance must be
+10 postmarked or received by the designated election official no later than
+11 four business days after the filing of the certificate of designation required
+12 under subsection (3) of this section. If the acceptance is transmitted to the
+13 designated election official by facsimile transmission, the original
+14 acceptance must also be filed and postmarked no later than ten days after
+15 the filing of the certificate of designation required under subsection (3)
+16 of this section. If an acceptance is not filed within the specified time, the
+17 candidate shall be deemed to have declined the nomination.
+18 SECTION 34. In Colorado Revised Statutes, 1-5-102.9, amend
+19 (1)(b.5)(I)(A), (1)(b.5)(III), (1)(b.5)(VI), and (5)(c); and add (2)(c) as
+20 follows:
+21 1-5-102.9. Voter service and polling centers - number required
+22 - services provided - drop-off locations - definition.
+23 (1) (b.5) (I) For a general election, a county clerk and recorder
+24 shall designate a voter service and polling center on the campus of an
+25 institution of higher education, as defined in section 23-3.1-102 (5),
+26 located within the county as follows:
+27 (A) NOTWITHSTANDING THE REQUIREMENT IN SUBSECTION (2) OF
+-34- 1113
+
+1 THIS SECTION, during the period from the fifteenth TENTH day before the
+2 election to the second day before the election, one voter service and
+3 polling center on each campus that has ten thousand or more enrolled
+4 students; and
+5 (III) A county clerk and recorder shall confer with a state AN
+6 institution of higher education about the location for a voter service and
+7 polling center designated on a campus.
+8 (VI) As used in this subsection (1)(b.5), "campus" means any
+9 collection of buildings and surrounding grounds owned or used by a state
+10 AN institution of higher education to regularly provide students with
+11 education, housing, or college activities. If one or more state institutions
+12 of higher education share buildings or grounds, or if the campuses of one
+13 or more state institutions of higher education are adjacent or otherwise
+14 connected, the shared or connected buildings and grounds constitute a
+15 single campus for the purposes of this subsection (1)(b.5).
+16 (2) Voter service and polling centers must be open, at a minimum,
+17 for the fifteen-day period prior to and including the day of the election as
+18 follows:
+19 (c) ALL VOTER SERVICE AND POLLING CENTERS SHALL REMAIN
+20 OPEN ON ELECTION DAY AS REQUIRED BY THIS SUBSECTION (2). A VOTER
+21 SERVICE AND POLLING CENTER THAT EXPERIENCES A SHORTAGE OF
+22 SUPPLIES, INCLUDING BALLOTS, SHALL NOT CLOSE AND MAY BY REQUIRED
+23 TO REMAIN OPEN AFTER 7 P.M. IN ACCORDANCE WITH SECTION 1-7-101
+24 (1)(b)(I).
+25 (5) (c) Each drop box must accept mail ballots delivered by
+26 electors for the fifteen-day TWENTY-TWO-DAY period prior to and
+27 including the day of the election.
+-35- 1113
+
+1 SECTION 35. In Colorado Revised Statutes, 1-5-106, add (1)(c)
+2 as follows:
+3 1-5-106. Polling location or drop-off location - designation by
+4 sign.
+5 (1) (c) A VOTER SERVICE AND POLLING CENTER ON THE CAMPUS OF
+6 AN INSTITUTION OF HIGHER EDUCATION DESIGNATED PURSUANT TO
+7 SECTION 1-5-102.9 (1)(b.5)(I) MUST BE:
+8 (I) DESIGNATED BY ONE OR MORE SIGNS POSTED IN ACCORDANCE
+9 WITH SUBSECTION (1)(a) OF THIS SECTION;
+10 (II) IDENTIFIED AND DESCRIBED, INCLUDING BY BUILDING NAME
+11 AND ADDRESS AND HOURS OF OPERATION, IN SIGNS CONSPICUOUSLY
+12 POSTED INSIDE AND AT EACH ENTRANCE OF THE STUDENT CENTER, OR
+13 OTHER COMMON AREA, OF THE INSTITUTION OF HIGHER EDUCATION AT
+14 LEAST TWENTY DAYS BEFORE EACH ELECTION AND DURING THE PERIOD
+15 POLLING LOCATIONS ARE OPEN; AND
+16 (III) IDENTIFIED AND DESCRIBED, INCLUDING BY BUILDING NAME
+17 AND ADDRESS AND HOURS OF OPERATION, IN AN EMAIL SENT TO ALL
+18 ENROLLED STUDENTS BY THE INSTITUTION OF HIGHER EDUCATION DURING
+19 THE PERIOD BALLOTS ARE MAILED FOR THE ELECTION PURSUANT TO
+20 SECTION 1-7.5-107 (3).
+21 SECTION 36. In Colorado Revised Statutes, 1-5-203, amend
+22 (1)(a) as follows:
+23 1-5-203. Certification of ballot.
+24 (1) (a) Except as provided in subsection (1)(c) of this section, no
+25 later than sixty days before any primary election, and no later than
+26 fifty-seven days before any general or odd-year November election or
+27 congressional vacancy election, the secretary of state shall deliver by
+-36- 1113
+
+1 electronic transmission and registered mail to the county clerk and
+2 recorder of each county a certificate in writing of the ballot order and
+3 content for each county, as follows:
+4 SECTION 37. In Colorado Revised Statutes, 1-5-404, repeal (3)
+5 as follows:
+6 1-5-404. Arrangement of names on ballots for partisan
+7 elections.
+8 (3) The arrangement of names on ballots for congressional
+9 vacancy elections shall be established by lot at any time prior to the
+10 certification of ballots for the congressional vacancy election. The officer
+11 in receipt of the original designation, nomination, or petition of each
+12 candidate shall inform the major political parties, each minor political
+13 party, and the representatives of each political organization on file with
+14 the secretary of state of the time and place of the lot-drawing for the
+15 congressional election ballot. Ballot positions shall be assigned to the
+16 major political party, minor political party, or political organization in the
+17 order in which they are drawn.
+18 SECTION 38. In Colorado Revised Statutes, 1-5-905, amend (2)
+19 as follows:
+20 1-5-905. Multilingual ballot access - general provisions -
+21 requirements of secretary of state - county clerks.
+22 (2) The secretary of state shall determine which counties in the
+23 state are required to provide multilingual ballot access and, therefore, are
+24 required to create a minority language sample ballot pursuant to section
+25 1-5-906 and provide an in-person minority language ballot pursuant to
+26 section 1-5-907. The secretary of state shall make such determination
+27 based on information provided in the most recent five-year estimates
+-37- 1113
+
+1 specified in the United States bureau of the census American community
+2 survey or comparable census data. The secretary of state shall notify the
+3 county clerk of any county that is required to provide a minority language
+4 sample ballot pursuant to section 1-5-906 and provide an in-person
+5 minority language ballot pursuant to section 1-5-907 on or before January
+6 5, 2022, and on or before January 5 of each even year AND A YEAR
+7 FOLLOWING THE RELEASE OF DATA COLLECTED PURSUANT TO SECTION 203
+8 OF THE FEDERAL "VOTING RIGHTS ACT OF 1965 BY THE FEDERAL
+9 GOVERNMENT thereafter. In addition, on or before January 5, 2022, and
+10 on or before January 5 of each even year OR A YEAR FOLLOWING THE
+11 RELEASE OF DATA COLLECTED PURSUANT TO SECTION 203 OF THE FEDERAL
+12 "VOTING RIGHTS ACT OF 1965 BY THE FEDERAL GOVERNMENT thereafter,
+13 the secretary of state shall post a list on the secretary's website of all
+14 counties that are required to provide a minority language sample ballot
+15 pursuant to section 1-5-906 and provide an in-person minority language
+16 ballot pursuant to section 1-5-907.
+17 SECTION 39. In Colorado Revised Statutes, repeal 1-5-603 as
+18 follows:
+19 1-5-603. Adoption and payment for voting machines.
+20 (1) The governing body of any political subdivision may adopt for
+21 use at elections any kind of voting machine fulfilling the requirements for
+22 voting machines set forth in this part 6. These voting machines may be
+23 used at any or all elections held in the political subdivision for casting,
+24 registering, and counting votes. Except as provided in subsection (2) of
+25 this section, the governing body of any political subdivision which adopts
+26 and purchases or leases voting machines shall provide for the payment of
+27 the purchase price or the rent in such manner as may be in the best
+-38- 1113
+
+1 interest of the political subdivision and may for that purpose provide for
+2 the issuance of interest-bearing bonds, certificates of indebtedness, or
+3 other obligations, which shall be a charge upon the county. The bonds,
+4 certificates of indebtedness, or other obligations may be made payable at
+5 such times, not exceeding ten years from the date of issue, as may be
+6 determined by the governing body but shall not be issued or sold at less
+7 than par.
+8 (2) (a) If the secretary of state certifies a voting system for use in
+9 an election using instant runoff voting in accordance with section 1-5-617
+10 (1.5), the secretary of state shall, if possible, negotiate a single annual
+11 statewide license with the voting system provider to allow each county
+12 that uses the voting system to conduct elections using instant runoff
+13 voting. The secretary of state shall pay for the annual statewide license
+14 from the department of state cash fund created in section 24-21-104
+15 (3)(b).
+16 (b) Each county that uses a voting system in an instant runoff
+17 voting election pursuant to a license obtained by the secretary of state in
+18 accordance with subsection (2)(a) of this section shall reimburse the
+19 secretary of state for its proportionate share of the cost of the annual
+20 statewide license for that year. The secretary of state shall invoice any
+21 county that uses the voting system in an instant runoff voting election for
+22 its share of the cost as a proportion of the number of registered active
+23 voters in all participating municipalities in that county compared to the
+24 total number of registered active voters in all participating municipalities
+25 in the state as determined by the secretary of state pursuant to this section.
+26 SECTION 40. In Colorado Revised Statutes, 1-5-612, amend
+27 (1)(a); repeal (1)(b); and add (1)(c) and (3) as follows:
+-39- 1113
+
+1 1-5-612. Use of electronic and electromechanical voting
+2 systems.
+3 (1) (a) Except as otherwise provided in subsection (1)(b) of this
+4 section, The governing body of any political subdivision may, COUNTY
+5 CLERK AND RECORDER FOR A COUNTY WITH ONE THOUSAND OR MORE
+6 ACTIVE ELECTORS AS OF THE DATE OF THE LAST GENERAL ELECTION MUST
+7 upon consultation with the designated election official BOARD OF COUNTY
+8 COMMISSIONERS, ACQUIRE AND adopt an electronic or electromechanical
+9 voting system, including any upgrade in hardware, firmware, or software,
+10 for use at the polling locations in the political subdivision. The system
+11 may be used for recording, counting, and tabulating votes at all elections
+12 held by the political subdivision. IN ALL ELECTIONS CONDUCTED BY THE
+13 COUNTY UNDER THE "UNIFORM ELECTION CODE OF 1992".
+14 (b) For all elections conducted under the "Uniform Election Code
+15 of 1992", the governing body of any political subdivision shall, upon
+16 consultation with the designated election official, adopt an electronic or
+17 electromechanical voting system to be used for tabulating votes at all
+18 elections held by the political subdivision. The provisions of this
+19 subsection (1)(b) do not apply to counties with fewer than one thousand
+20 active electors as of the date of the last general election.
+21 (c) THE COUNTY CLERK AND RECORDER SHALL OVERSEE THE
+22 SELECTION, SUPERVISION, AND MANAGEMENT OF ALL PERSONNEL,
+23 INCLUDING CONTRACTORS AND VENDORS, ENGAGED IN THE ACQUISITION,
+24 IMPLEMENTATION, OPERATION, AND MAINTENANCE OF THE ELECTRONIC OR
+25 ELECTROMECHANICAL VOTING SYSTEM, SUBJECT TO THE RULES OF THE
+26 SECRETARY OF STATE.
+27 (3) (a) THE SECRETARY OF STATE SHALL, IF POSSIBLE, NEGOTIATE
+-40- 1113
+
+1 A SINGLE ANNUAL STATEWIDE LICENSE WITH THE VOTING SYSTEM
+2 PROVIDER OF A CERTIFIED VOTING SYSTEM FOR USE IN AN ELECTION USING
+3 INSTANT RUNOFF VOTING PURSUANT TO SECTION 1-5-617 (1.5) TO ALLOW
+4 EACH COUNTY THAT USES THE VOTING SYSTEM TO CONDUCT ELECTIONS
+5 USING INSTANT RUNOFF VOTING. THE SECRETARY OF STATE SHALL PAY
+6 FOR SUCH ANNUAL STATEWIDE LICENSE FROM THE DEPARTMENT OF STATE
+7 CASH FUND CREATED IN SECTION 24-21-104 (3)(b).
+8 (b) EACH COUNTY THAT USES A VOTING SYSTEM IN AN INSTANT
+9 RUNOFF VOTING ELECTION PURSUANT TO A STATEWIDE LICENSE PAID FOR
+10 PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION SHALL REIMBURSE THE
+11 DEPARTMENT OF STATE FOR ITS PROPORTIONATE SHARE OF THE COST OF
+12 THE ANNUAL STATEWIDE LICENSE FOR THE YEAR IN WHICH THE ELECTION
+13 IS HELD. THE SECRETARY OF STATE SHALL PROVIDE AN INVOICE TO EACH
+14 COUNTY THAT USES THE VOTING SYSTEM FOR ITS PROPORTIONATE SHARE
+15 OF THE COST OF THE STATEWIDE LICENSE BASED ON THE NUMBER OF
+16 REGISTERED ACTIVE ELECTORS IN ALL PARTICIPATING MUNICIPALITIES IN
+17 THAT COUNTY COMPARED TO THE TOTAL NUMBER OF REGISTERED ACTIVE
+18 ELECTORS IN ALL PARTICIPATING MUNICIPALITIES IN THE STATE, AS
+19 DETERMINED BY THE SECRETARY OF STATE.
+20 SECTION 41. In Colorado Revised Statutes, 1-6-101, amend
+21 (7)(c)(VII) as follows:
+22 1-6-101. Qualifications for election judges - student election
+23 judges - legislative declaration.
+24 (7) (c) The designated election officials may work with school
+25 districts and public or private secondary educational institutions to
+26 identify students willing and able to serve as student election judges. Such
+27 school districts or educational institutions may submit the names of the
+-41- 1113
+
+1 students to the designated election official of the jurisdiction in which the
+2 school district or educational institution is located for appointment as
+3 student election judges. Home-schooled students may apply to the
+4 designated election official for appointment as a student election judge
+5 pursuant to this section. From among the names submitted, the designated
+6 election officials may select students to serve as student election judges
+7 who meet the following qualifications:
+8 (VII) They are sixteen FIFTEEN years of age OLD or older and
+9 either a junior or senior STUDENT in good standing attending a public or
+10 private secondary educational institution or being home-schooled at the
+11 time of the election to which the student is serving as a student election
+12 judge; and
+13 SECTION 42. In Colorado Revised Statutes, amend 1-6-106 as
+14 follows:
+15 1-6-106. Confirmation and acceptance of election judge
+16 appointment.
+17 (1) The designated election official shall confirm the
+18 appointments of election judges by mailing SENDING each appointed
+19 election judge a certification NOTICE of appointment and an acceptance
+20 form IN ACCORDANCE WITH SUBSECTION (2) OF THIS SECTION.
+21 (2) The acceptance form NOTICE OF APPOINTMENT SHALL SPECIFY
+22 THE METHOD OF ACCEPTANCE FOR THE APPOINTMENT AS DETERMINED BY
+23 THE DESIGNATED ELECTION OFFICIAL AND shall contain:
+24 (a) The statement of qualifications as prescribed in section
+25 1-6-101; and
+26 (b) A statement that, if the person appointed as an election judge
+27 either fails to file the acceptance form ACCEPT THE APPOINTMENT within
+-42- 1113
+
+1 seven days after the certification NOTICE of appointment and acceptance
+2 form are mailed IS SENT or fails to attend a class of instruction as required
+3 in section 1-6-101 (5), the designated election official may determine that
+4 a vacancy has been created.
+5 (3) Each person appointed as an election judge shall file an
+6 acceptance form in the office of ACCEPT THE APPOINTMENT IN THE
+7 MANNER SPECIFIED BY the designated election official within seven days
+8 after the certification NOTICE of appointment and acceptance form have
+9 been mailed HAS BEEN SENT. If a person appointed as an election judge
+10 fails to file the acceptance form ACCEPT THE APPOINTMENT as described
+11 in subsection (2) of this section or fails to attend a class of instruction as
+12 required in section 1-6-101 (5), the designated election official may
+13 determine that a vacancy has been created.
+14 SECTION 43. In Colorado Revised Statutes, 1-7-101, repeal (2)
+15 as follows:
+16 1-7-101. Hours of voting on election day.
+17 (2) Upon the opening of the polls, a proclamation shall be made
+18 by one of the judges that the polls are open, and, thirty minutes before the
+19 closing of the polls, a proclamation shall be made that the polls will close
+20 in thirty minutes.
+21 SECTION 44. In Colorado Revised Statutes, amend 1-7-102 as
+22 follows:
+23 1-7-102. Employees entitled to vote.
+24 (1) Eligible electors entitled to vote at an election shall be entitled
+25 to absent themselves for the purpose of voting from any service or
+26 employment in which they are then engaged or employed on the day of
+27 the election for a period of two hours during the time the polls ANY DAY
+-43- 1113
+
+1 WHEN VOTER SERVICE AND POLLING CENTERS are open. Any such absence
+2 shall not be sufficient reason for the discharge of any person from service
+3 or employment. Eligible Electors, who so absent themselves shall not be
+4 liable for any penalty, nor shall any deduction be made from their usual
+5 salary or wages, on account of their absence. Eligible Electors who are
+6 employed and paid by the hour shall receive their regular hourly wage for
+7 the period of their absence, not to exceed two hours. Application shall be
+8 made for the leave of absence prior to the day of election FOR WHICH
+9 LEAVE IS REQUESTED. The employer may specify the hours during which
+10 the employee may be absent, but the hours shall be at the beginning or
+11 end of the work shift, if the employee so requests.
+12 (2) This section shall not apply to any person whose AN
+13 EMPLOYER MAY DENY AN ELECTOR'S REQUEST FOR LEAVE PURSUANT TO
+14 SUBSECTION (1) OF THIS SECTION IF THE ELECTOR'S hours of employment
+15 on the day of the election FOR WHICH LEAVE IS REQUESTED are such that
+16 there are three or more CONSECUTIVE hours between the time of opening
+17 and the time of closing of the polls during which the elector is not
+18 required to be on the job.
+19 SECTION 45. In Colorado Revised Statutes, 1-7-118, amend (2)
+20 as follows:
+21 1-7-118. Ranked voting in a coordinated election - procedure
+22 - costs - definition.
+23 (2) A municipality that refers an election using instant runoff
+24 voting to be conducted as part of a coordinated election shall pay for the
+25 reasonable increased costs associated with the use of instant runoff voting
+26 in the coordinated election, including but not limited to costs related to
+27 election setup licensing costs pursuant to section 1-5-603 (2),
+-44- 1113
+
+1 programming, ballot design, additional voter information and education,
+2 and tabulation.
+3 SECTION 46. In Colorado Revised Statutes, amend 1-7-119 as
+4 follows:
+5 1-7-119. Voter service and polling centers - electors - use of
+6 mobile phones - printed or written materials.
+7 (1) An elector may take a mobile phone or other electronic device
+8 into a voter service and polling center so long as the elector does not
+9 make or receive any phone calls, except for calls to or from the
+10 multilingual ballot hotline established pursuant to section 1-5-904, or take
+11 any pictures or videos other than images of the elector's own person or
+12 ballot.
+13 (2) AN ELECTOR MAY TAKE PRINTED OR WRITTEN MATERIALS OF
+14 THE ELECTOR'S CHOICE INTO A VOTER SERVICE AND POLLING CENTER AS A
+15 RESOURCE TO READ OR CONSULT WHILE MARKING THE ELECTOR'S BALLOT.
+16 SECTION 47. In Colorado Revised Statutes, add 1-7-120 as
+17 follows:
+18 1-7-120. Voter service and polling centers - wait times -
+19 reporting.
+20 (1) (a) ON ELECTION DAY, A COUNTY MUST MEASURE AND RECORD
+21 THE WAIT TIME AT EACH OF ITS VOTER SERVICE AND POLLING CENTERS IN
+22 ACCORDANCE WITH RULES ADOPTED BY THE SECRETARY OF STATE.
+23 (b) EACH COUNTY MUST REPORT ITS WAIT TIME DATA RESULTS
+24 DETERMINED IN ACCORDANCE WITH SUBSECTION (1)(a) OF THIS SECTION
+25 TO THE SECRETARY OF STATE NO LATER THAN THIRTY DAYS AFTER THE
+26 ELECTION.
+27 (2) (a) IF A COUNTY REPORTS WAIT TIME DATA RESULTS PURSUANT
+-45- 1113
+
+1 TO SUBSECTION (1)(b) OF THIS SECTION INDICATING A WAIT TIME IN
+2 EXCESS OF ONE HOUR AT ANY VOTER SERVICE AND POLLING CENTER, THE
+3 COUNTY MUST SUBMIT A REPORT TO THE SECRETARY OF STATE NO LATER
+4 THAN NINETY DAYS FOLLOWING THE ELECTION, WHICH REPORT MUST
+5 INCLUDE THE FOLLOWING INFORMATION FOR ANY SUCH VOTER SERVICE
+6 AND POLLING CENTER:
+7 (I) THE NUMBER OF ELECTORS WHO USED THE CENTER IN THE
+8 ELECTION;
+9 (II) THE NUMBER OF VOTING BOOTHS PROVIDED;
+10 (III) THE NUMBER OF VOTER CHECK-IN STATIONS AND THE NUMBER
+11 OF ELECTION JUDGES STAFFING THOSE STATIONS;
+12 (IV) THE NUMBER AND STATUS OF ANY BALLOT MARKING DEVICES
+13 AND BALLOT ON DEMAND SYSTEMS IN USE;
+14 (V) THE NUMBER AND STATUS OF ANY PRINTERS AND OTHER
+15 EQUIPMENT IN USE;
+16 (VI) THE NUMBER OF STAFF AVAILABLE TO ASSIST WITH THE
+17 CONDUCT OF THE ELECTION;
+18 (VII) A DESCRIPTION OF THE NUMBER AND TYPES OF BACK-UPS
+19 OR DELAYS THAT OCCURRED AT THE LOCATION IN THE CONDUCT OF THE
+20 ELECTION, INCLUDING THE ACTIVITY INVOLVED, TIME OF OCCURRENCE,
+21 THE KNOWN, PROBABLE, OR POSSIBLE CAUSE OF OR CAUSAL FACTORS THAT
+22 MAY HAVE CONTRIBUTED TO THE BACK-UPS OR DELAYS, AND
+23 DETERMINATION OF WHETHER THE CAUSE OR CAUSAL FACTORS ARE
+24 REASONABLY LIKELY TO PERSIST OR REOCCUR AT FUTURE ELECTIONS.
+25 (VIII) A REMEDIATION PLAN TO AVOID OR MINIMIZE WAIT TIMES
+26 EXCEEDING ONE HOUR, WHICH MAY INCLUDE A PROPOSAL FOR ADDITIONAL
+27 VOTER SERVICE AND POLLING CENTERS OR A PROPOSAL FOR THE USE OF
+-46- 1113
+
+1 NEW SITES FOR EXISTING CENTERS, ADDITIONAL CHECK-IN STATIONS,
+2 VOTING BOOTHS, BALLOT MARKING DEVICES AND BALLOT ON DEMAND
+3 SYSTEMS, PRINTERS OR OTHER EQUIPMENT, ADDITIONAL STAFF OR
+4 ELECTION JUDGES, OR CHANGES IN THE ALLOCATION OF DUTIES AMONG
+5 ELECTION JUDGES AND STAFF; AND
+6 (IX) A DESCRIPTION OF THE BARRIERS, IF ANY, THAT MAY PREVENT
+7 THE COUNTY FROM ENSURING ALL FUTURE CENTER WAIT TIMES DO NOT
+8 EXCEED ONE HOUR.
+9 (b) UPON RECEIPT OF A REPORT PURSUANT TO SUBSECTION (2)(a)
+10 OF THIS SECTION, THE SECRETARY OF STATE SHALL POST THE REPORT ON
+11 THE SECRETARY OF STATE'S WEBSITE NO LATER THAN FIVE DAYS FROM THE
+12 DATE OF RECEIPT.
+13 (c) IF A COUNTY IS REQUIRED TO SUBMIT A REPORT IN
+14 ACCORDANCE WITH SUBSECTION (2)(a) OF THIS SECTION, THE COUNTY
+15 CLERK AND RECORDER OR DESIGNATED ELECTION OFFICIAL RESPONSIBLE
+16 FOR SENDING A PROPOSED ELECTION PLAN PURSUANT TO SECTION
+17 1-7.5-105 MUST INCORPORATE APPROPRIATE REMEDIATION STEPS INTO
+18 THE PLAN.
+19
+20 SECTION 48. In Colorado Revised Statutes, repeal and reenact,
+21 with amendments, 1-7-307 as follows:
+22 1-7-307. Method of counting paper ballots.
+23 (1) IN ANY COUNTY IN WHICH A HAND COUNT OF BALLOTS IS USED
+24 OR BECOMES NECESSARY, AS EXPRESSLY PERMITTED OR REQUIRED BY A
+25 PROVISION OF THIS TITLE 1, DURING AN INITIAL TABULATION,
+26 POST-ELECTION AUDIT, OR RECOUNT, THE DESIGNATED ELECTION OFFICIAL
+27 SHALL COUNT THE BALLOTS IN THE MANNER PRESCRIBED BY THIS SECTION.
+-47- 1113
+
+1 (2) EACH BALLOT MUST BE COUNTED BY A TEAM OF FOUR
+2 ELECTION JUDGES. ONE JUDGE MUST AUDIBLY READ EVERY MARK ON THE
+3 BALLOT, WHILE A SEPARATE JUDGE OBSERVES THIS READING AND ASSISTS
+4 IN DETERMINING VOTER INTENT, WHEN NECESSARY. TWO OTHER ELECTION
+5 JUDGES MUST EACH MAKE ENTRIES ON TWO SEPARATE ACCOUNTING
+6 FORMS FOR EACH AUDIBLY READ VOTE. THE SEPARATE ACCOUNTING
+7 FORMS MUST BE COMPARED AT REGULAR INTERVALS AND ANY
+8 DISCREPANCIES NOTED ON THE SEPARATE FORMS MUST BE ACCOUNTED
+9 FOR UNTIL AN ACCURATE COUNT OF ALL BALLOTS COMPARED CAN BE
+10 DETERMINED.
+11 (3) THE SECRETARY OF STATE MAY ADOPT RULES IN ACCORDANCE
+12 WITH ARTICLE 4 OF TITLE 24 AS NECESSARY TO ADMINISTER AND ENFORCE
+13 THIS SECTION.
+14 SECTION 49. In Colorado Revised Statutes, 1-7-507, amend (6)
+15 as follows:
+16 1-7-507. Electronic vote-counting - procedure.
+17 (6) If a software or hardware malfunction, OR OTHER SIGNIFICANT
+18 ISSUE, makes it impossible IMPRACTICABLE to count all or a part of the
+19 ballots with electronic vote-tabulating equipment, the secretary of state,
+20 after consultation with the designated election official, may permit the
+21 designated election official to direct that such ballots be counted
+22 manually, following as far as practicable the provisions governing the
+23 counting of paper ballots as provided in section 1-7-307.
+24 SECTION 50. In Colorado Revised Statutes, add 1-7-803 as
+25 follows:
+26 1-7-803. Custody and lawful transfer of election
+27 records. (1) A DESIGNATED ELECTION OFFICIAL MUST NOT TRANSFER
+-48- 1113
+
+1 CUSTODY OR CONTROL OF ELECTION RECORDS OR OTHER ELECTION
+2 MATERIALS, AS DESIGNATED BY THE SECRETARY OF STATE, TO A THIRD
+3 PARTY UNLESS THE TRANSFER IS AUTHORIZED OR REQUIRED BY THE
+4 SECRETARY OF STATE OR A MANDATORY LEGAL OBLIGATION IMPOSED BY
+5 A COURT OF COMPETENT JURISDICTION.
+6 (2) THE SECRETARY OF STATE MAY ADOPT RULES AS NECESSARY
+7 TO ADMINISTER AND ENFORCE THIS SECTION, INCLUDING RULES
+8 REGARDING THE CREATION OF AN INVENTORY OF ELECTION RECORDS OR
+9 ELECTION MATERIALS TRANSFERRED DUE TO A MANDATORY LEGAL
+10 OBLIGATION IMPOSED BY A COURT OF COMPETENT JURISDICTION.
+11 (3) NOTHING IN THIS SECTION ALTERS OR AMENDS THE
+12 REQUIREMENTS OR LIMITATIONS FOR OR ANY DUTIES OF A DESIGNATED
+13 ELECTION OFFICIAL WITH RESPECT TO THE DISCLOSURE OF PUBLIC RECORDS
+14 AS SET FORTH IN THE "COLORADO OPEN RECORDS ACT", PART 2 OF
+15 ARTICLE 72 OF TITLE 24.
+16 SECTION 51. In Colorado Revised Statutes, 1-7.5-105, amend
+17 (1)(a), (1.3)(f.5), and (2)(a); and add (2)(d) as follows:
+18 1-7.5-105. Preelection process - rules.
+19 (1) (a) The county clerk and recorder or designated election
+20 official responsible for conducting an election that is to be by mail ballot
+21 pursuant to section 1-7.5-104 (1) shall send a proposed election plan for
+22 conducting the mail ballot election to the secretary of state no later than
+23 ninety days prior to a nonpartisan election or, for any mail ballot election
+24 that is coordinated with or conducted by the county clerk and recorder, no
+25 later than one hundred ten TWENTY days prior to the election. The
+26 proposed plan may be based on the standard plan adopted by the secretary
+27 of state by rule.
+-49- 1113
+
+1 (1.3) The election plan required under subsection (1) of this
+2 section must include, at a minimum:
+3 (f.5) The information required by section SECTIONS 1-7-120 (2)(c)
+4 AND 1-7.5-113.5 (2); and
+5 (2) (a) The secretary of state shall approve, or disapprove, OR
+6 REQUEST MODIFICATION OF the written plan for conducting a mail ballot
+7 election, in accordance with section 1-7.5-106, within twenty days after
+8 receiving the plan and shall provide a written notice to the affected
+9 political subdivision.
+10 (d) THE SECRETARY OF STATE SHALL RELEASE THE INFORMATION
+11 REQUIRED BY SUBSECTIONS (1.3)(a) AND (1.3)(b) OF THIS SECTION FOR
+12 EACH VOTER SERVICE AND POLLING CENTER DESCRIBED IN AN ELECTION
+13 PLAN SUBMITTED PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION NO
+14 LATER THAN AUGUST 1 FOR EACH VOTER SERVICE AND POLLING CENTER.
+15 SECTION 52. In Colorado Revised Statutes, 1-7.5-107, amend
+16 (3)(a)(I), (3)(a)(II), (3.5)(d)(I), and (4.3)(a)(II) as follows:
+17 1-7.5-107. Procedures for conducting mail ballot election -
+18 primary elections - first-time voters casting a mail ballot after having
+19 registered by mail to vote - in-person request for ballot - return
+20 envelope requirements - repeal.
+21 (3) (a) (I) Not sooner than twenty-two TWENTY-NINE days before
+22 a general, primary, or other mail ballot election, and no later than eighteen
+23 TWENTY-FIVE days before the election, the county clerk and recorder or
+24 designated election official shall mail to each active registered elector, at
+25 the last mailing address appearing in the registration records and in
+26 accordance with United States postal service regulations, a mail ballot
+27 packet, which must be marked "DO NOT FORWARD. ADDRESS
+-50- 1113
+
+1 CORRECTION REQUESTED.", or any other similar statement that is in
+2 accordance with United States postal service regulations. Nothing in this
+3 subsection (3) affects any provision of this code governing the delivery
+4 of mail ballots to an absent uniformed services elector, nonresident
+5 overseas elector, or resident overseas elector covered by the federal
+6 "Uniformed and Overseas Citizens Absentee Voting Act", 52 U.S.C. sec.
+7 20301 et seq.
+8 (II) If the twenty-second TWENTY-NINTH day before a general,
+9 primary, or other mail ballot election is a Saturday, Sunday, state legal
+10 holiday, or federal holiday recognized by the United States postal service,
+11 the county clerk and recorder or designated election official may mail
+12 ballot packets pursuant to subsection (3)(a)(I) of this section on the Friday
+13 immediately preceding the twenty-second TWENTY-NINTH day.
+14 (3.5) (d) (I) Any person who desires to cast his or her ballot by
+15 mail but does not satisfy the requirements of subsection (3.5)(b) of this
+16 section may cast such ballot by mail. The county clerk and recorder or
+17 designated election official shall, within three days after the receipt of a
+18 mail ballot that does not contain a copy of identification as defined in
+19 section 1-1-104 (19.5), but in no event later than two days after election
+20 day, send to the eligible elector at the address indicated in the registration
+21 records and to the eligible elector's electronic mail address if available a
+22 letter explaining the lack of compliance with subsection (3.5)(b) of this
+23 section; EXCEPT THAT, IF THE COUNTY CLERK AND RECORDER FAILS TO
+24 SEND THE LETTER REQUIRED BY THIS SUBSECTION (3.5)(d)(I) WITHIN TWO
+25 DAYS AFTER THE ELECTION, THE COUNTY CLERK AND RECORDER MUST
+26 SEND THE LETTER TO THE ELIGIBLE ELECTOR BY OVERNIGHT MAIL OR
+27 HAND DELIVERY, OR BY THE MOST EXPEDIENT METHOD AVAILABLE FOR
+-51- 1113
+
+1 OVERSEAS AND MILITARY VOTERS. If the county clerk and recorder or
+2 designated election official receives a copy of identification in
+3 compliance with subsection (3.5)(b) of this section within eight days after
+4 election day, and if the mail ballot is otherwise valid, the mail ballot shall
+5 be counted.
+6 (4.3) (a) (II) On and after January 1, 2020, For a presidential
+7 primary or November coordinated election, in addition to the
+8 requirements of subsection (4.3)(a)(I) of this section, the county clerk and
+9 recorder shall establish a drop box on each campus of a state AN
+10 institution of higher education, AS DEFINED IN SECTION 23-3.1-102 (5),
+11 located within the county that has two ONE thousand or more enrolled
+12 students as determined in accordance with section 1-5-102.9 (1)(b.5)(III).
+13 SECTION 53. In Colorado Revised Statutes, 1-7.5-107.3, amend
+14 (2)(a); and add (1.5)(a.5) as follows:
+15 1-7.5-107.3. Verification of signatures - rules.
+16 (1.5) (a.5) IF THE COUNTY CLERK AND RECORDER FAILS TO SEND
+17 THE LETTER AND FORM REQUIRED BY SUBSECTION (1.5)(a) OF THIS
+18 SECTION WITHIN TWO DAYS AFTER THE ELECTION, THE COUNTY CLERK AND
+19 RECORDER MUST SEND THE LETTER AND FORM TO THE ELIGIBLE ELECTOR
+20 BY OVERNIGHT MAIL OR HAND DELIVERY, OR BY THE MOST EXPEDIENT
+21 METHOD AVAILABLE FOR OVERSEAS AND MILITARY VOTERS.
+22 (2) (a) If, upon comparing the signature of an eligible elector on
+23 the self-affirmation on the return envelope with the signature of the
+24 eligible elector stored in the statewide voter registration system, the
+25 election judge determines that the signatures do not match, or if a
+26 signature verification device used pursuant to subsection (5) of this
+27 section is unable to determine that the signatures match, two other
+-52- 1113
+
+1 election judges of different political party affiliations shall simultaneously
+2 compare the signatures. If both other election judges agree that the
+3 signatures do not match, the county clerk and recorder shall, within three
+4 days after the signature deficiency has been confirmed, but in no event
+5 later than two days after election day, send to the eligible elector at the
+6 address indicated in the registration records and to the eligible elector's
+7 electronic mail address if available a letter explaining the discrepancy in
+8 signatures and a form for the eligible elector to confirm that the elector
+9 returned a ballot to the county clerk and recorder; EXCEPT THAT, IF THE
+10 COUNTY CLERK AND RECORDER FAILS TO SEND THE LETTER AND FORM
+11 REQUIRED BY THIS SUBSECTION (2)(a) WITHIN TWO DAYS AFTER THE
+12 ELECTION, THE COUNTY CLERK AND RECORDER MUST SEND THE LETTER
+13 AND FORM TO THE ELIGIBLE ELECTOR BY OVERNIGHT MAIL OR HAND
+14 DELIVERY, OR BY THE MOST EXPEDIENT METHOD AVAILABLE FOR
+15 OVERSEAS AND MILITARY VOTERS. If the county clerk and recorder
+16 receives the form within eight days after election day confirming that the
+17 elector returned a ballot to the county clerk and recorder and enclosing a
+18 copy of the elector's identification as defined in section 1-1-104 (19.5),
+19 and if the ballot is otherwise valid, the ballot shall be counted. If the
+20 eligible elector returns the form indicating that the elector did not return
+21 a ballot to the county clerk and recorder, or if the eligible elector does not
+22 return the form within eight days after election day, the self-affirmation
+23 on the return envelope shall be categorized as incorrect, the ballot shall
+24 not be counted, and the county clerk and recorder shall send copies of the
+25 eligible elector's signature on the return envelope and the signature stored
+26 in the statewide voter registration system to the district attorney for
+27 investigation.
+-53- 1113
+
+1 SECTION 54. In Colorado Revised Statutes, 1-7.5-113.5, amend
+2 (4)(a)(I) as follows:
+3 1-7.5-113.5. Voting at county jails or detention centers -
+4 definition.
+5 (4) (a) (I) For a general election, the sheriff's designee shall
+6 coordinate with the county clerk and recorder to provide, at a minimum,
+7 one day of in-person voting for confined eligible electors at the county
+8 jail or detention center. The in-person voting must be open for at least six
+9 hours and be held on any day between the fifteenth day before election
+10 day and the fourth SECOND day before election day AND MUST BE OPEN
+11 FOR A MINIMUM NUMBER OF HOURS BASED ON THE NUMBER OF BEDS
+12 AVAILABLE IN THE COUNTY JAIL OR DETENTION CENTER AS FOLLOWS:
+13 (A) SIX HOURS FOR ONE HUNDRED OR MORE BEDS;
+14 (B) FOUR HOURS FOR FIFTY OR MORE BUT FEWER THAN ONE
+15 HUNDRED BEDS; AND
+16 (C) THREE HOURS FOR ONE OR MORE BUT FEWER THAN FIFTY BEDS.
+17 SECTION 55. In Colorado Revised Statutes, repeal
+18 and reenact, with amendments, 1-9-101 as follows:
+19 1-9-101. Challenge of incorrect registration. (1) (a) ANY
+20 REGISTERED ELECTOR MAY PROTEST THE REGISTRATION OF ANY PERSON
+21 WHOSE NAME APPEARS IN A COUNTY REGISTRATION RECORD FOR THE
+22 COUNTY IN WHICH THE CHALLENGING ELECTOR RESIDES. A PROTEST MAY
+23 CHALLENGE A PERSON'S REGISTRATION AS INCORRECT BECAUSE THE
+24 PERSON IS:
+25 (I) NOT A CITIZEN OF THE UNITED STATES;
+26 (II) NOT AT LEAST FIFTEEN YEARS OLD;
+27 (III) DECEASED; OR
+-54- 1113
+
+1 (IV) NO LONGER A RESIDENT OF THE STATE, BUT HAS NOT YET
+2 BEEN MARKED "INACTIVE" IN THE VOTER REGISTRATION RECORD.
+3 (b) A PROTEST MUST BE SUBMITTED FOR EACH PERSON WHOSE
+4 REGISTRATION IS BEING CHALLENGED. THE PROTEST MUST BE MADE IN
+5 WRITING ON A FORM PRESCRIBED BY THE SECRETARY OF STATE AND MUST
+6 INCLUDE:
+7 (I) THE NAME OF THE PERSON WHOSE REGISTRATION IS
+8 CHALLENGED;
+9 (II) THE BASIS FOR THE CHALLENGE, INCLUDING SUPPORTING
+10 FACTS;
+11 (III) ALL DOCUMENTARY EVIDENCE SUPPORTING THE FACTUAL
+12 BASIS FOR THE CHALLENGE; AND
+13 (IV) THE SIGNATURE AND ADDRESS OF THE CHALLENGER.
+14 (c) A PROTEST MUST BE FILED WITH THE COUNTY CLERK AND
+15 RECORDER OF THE COUNTY WHERE THE CHALLENGED REGISTRATION
+16 RECORD RESIDES NO LATER THAN ONE HUNDRED TWENTY DAYS BEFORE
+17 ANY ELECTION CONDUCTED BY THAT COUNTY CLERK AND RECORDER. A
+18 PROTEST FEE OF FIFTY DOLLARS MUST BE PAID TO THE COUNTY CLERK AND
+19 RECORDER RESPONSIBLE FOR ADJUDICATING THE CHALLENGE AT THE TIME
+20 THAT A PROTEST IS SUBMITTED. A FEE PAYMENT IS REQUIRED FOR EACH
+21 WRITTEN PROTEST. IF A PROTEST IS SUCCESSFUL, THE PROTEST FEE MUST
+22 BE REFUNDED TO THE CHALLENGER.
+23 (d) UPON RECEIPT OF A PROTEST, A COUNTY CLERK AND RECORDER
+24 SHALL REVIEW THE PROTEST TO DETERMINE IF IT SUFFICIENTLY ALLEGES
+25 A BASIS FOR A CHALLENGE IN ACCORDANCE WITH SUBSECTION (1)(a) OF
+26 THIS SECTION. IF A PROTEST DOES NOT ALLEGE A SUFFICIENT BASIS FOR A
+27 CHALLENGE PURSUANT TO THIS SECTION, THE COUNTY CLERK AND
+-55- 1113
+
+1 RECORDER SHALL DISMISS THE CHALLENGE AND NOTIFY THE CHALLENGER
+2 OF THE DISMISSAL. IF A PROTEST SUFFICIENTLY ALLEGES A BASIS FOR A
+3 CHALLENGE PURSUANT TO THIS SECTION, THE COUNTY CLERK AND
+4 RECORDER SHALL NOTIFY AND MAIL A COPY OF THE CHALLENGE TO THE
+5 PERSON WHOSE REGISTRATION IS BEING CHALLENGED. THE COUNTY CLERK
+6 AND RECORDER SHALL NOTIFY THE PERSON WHOSE REGISTRATION IS BEING
+7 CHALLENGED AND THE CHALLENGER OF THE DATE, TIME, AND LOCATION
+8 SET FOR THE CHALLENGE HEARING REQUIRED BY SUBSECTION (1)(e) OF
+9 THIS SECTION.
+10 (e) IF A COUNTY CLERK AND RECORDER DETERMINES THAT A
+11 PROTEST SUFFICIENTLY ALLEGES A BASIS FOR A CHALLENGE PURSUANT TO
+12 THIS SECTION, THEN THE COUNTY CLERK AND RECORDER MUST SET A
+13 HEARING DATE THAT IS NO LATER THAN THIRTY DAYS FROM THE DATE THE
+14 PROTEST WAS FILED AND MUST PROVIDE NOTICE IN ACCORDANCE WITH
+15 SUBSECTION (1)(d) OF THIS SECTION. THE CHALLENGER WHO SUBMITTED
+16 THE PROTEST MUST APPEAR AT THE HEARING AND SHALL BEAR THE
+17 BURDEN OF PROVING THE ALLEGATIONS MADE IN THE PROTEST ARE TRUE.
+18 THE PERSON WHOSE REGISTRATION IS BEING CHALLENGED MUST HAVE THE
+19 OPPORTUNITY TO APPEAR AT THE HEARING, BUT MAY NOT BE PENALIZED
+20 OR SUBJECT TO A NEGATIVE PRESUMPTION OR INFERENCE IF THEY DO NOT
+21 APPEAR. THE COUNTY CLERK AND RECORDER SHALL CONDUCT THE
+22 HEARING AND MAY RECEIVE EVIDENCE AND HEAR TESTIMONY. NO LATER
+23 THAN FIVE DAYS AFTER THE DATE OF THE HEARING, BUT IN NO EVENT
+24 LATER THAN NINETY DAYS BEFORE AN ELECTION CONDUCTED BY THE
+25 COUNTY CLERK AND RECORDER, THE COUNTY CLERK AND RECORDER MUST
+26 RENDER A DECISION IN ACCORDANCE WITH SUBSECTION (1)(f) OF THIS
+27 SECTION AND NOTIFY BOTH PARTIES OF THE DECISION.
+-56- 1113
+
+1 (f) IN RENDERING A DECISION AFTER THE HEARING ON A PROTEST,
+2 A COUNTY CLERK AND RECORDER MUST PROCEED AS FOLLOWS:
+3 (I) IF THEY FIND SUFFICIENT EVIDENCE TO SUPPORT THE
+4 ALLEGATIONS IN THE PROTEST, AND THE BASIS OF THE CHALLENGE IS THAT
+5 THE PERSON IS DECEASED, LESS THAN FIFTEEN YEARS OLD, OR NOT A
+6 CITIZEN OF THE UNITED STATES, THE COUNTY CLERK AND RECORDER
+7 SHALL CANCEL THE PERSON'S VOTER REGISTRATION RECORD IN THE
+8 STATEWIDE VOTER REGISTRATION SYSTEM;
+9 (II) IF THEY FIND SUFFICIENT EVIDENCE TO SUPPORT THE
+10 ALLEGATIONS IN THE PROTEST, AND THE BASIS FOR THE CHALLENGE IS
+11 THAT THE PERSON IS NOT A RESIDENT OF THE STATE, THE COUNTY CLERK
+12 AND RECORDER SHALL MARK THE PERSON'S VOTER REGISTRATION RECORD
+13 "INACTIVE", SEND A CONFIRMATION CARD, AND OTHERWISE FOLLOW THE
+14 REQUIREMENTS OF SECTION 1-2-302.5; OR
+15 (III) IF THEY DO NOT FIND SUFFICIENT EVIDENCE TO SUPPORT THE
+16 ALLEGATIONS IN THE PROTEST, THE COUNTY CLERK AND RECORDER SHALL
+17 DENY THE CHALLENGE.
+18 (2) ALL APPEALS FROM A DECISION OF THE COUNTY CLERK AND
+19 RECORDER MUST BE TO THE DISTRICT COURT AND FILED WITHIN THREE
+20 DAYS FROM THE DATE THE DECISION IS ISSUED. AN APPELLANT MUST FILE
+21 IN THE DISTRICT COURT A VERIFIED PETITION SETTING FORTH THE FACTS
+22 PRESENTED AT THE HEARING, IF ANY, THE DECISION OF THE COUNTY CLERK
+23 AND RECORDER, AND THE BASIS FOR THE APPEAL. WITHIN TWENTY-FOUR
+24 HOURS, THE CLERK OF THE DISTRICT COURT MUST MAIL TO THE OTHER
+25 PARTY A NOTICE OF THE APPEAL, INCLUDING THE TIME OF ANY HEARING.
+26 A HEARING MUST BE HELD NO LESS THAN THREE DAYS NOR MORE THAN
+27 FIVE DAYS AFTER THE DATE THE VERIFIED PETITION IS FILED.
+-57- 1113
+
+1 (3) (a) A DISTRICT COURT MUST HEAR TESTIMONY AND OTHER
+2 EVIDENCE AND INVESTIGATE SUMMARILY ANY APPEAL FILED PURSUANT TO
+3 SUBSECTION (2) OF THIS SECTION. ONLY COMPETENT LEGAL EVIDENCE
+4 MAY BE RECEIVED AT THE HEARING OR CONSIDERED BY THE COURT. NO
+5 PRESUMPTION MAY BE MADE AGAINST A PERSON WHOSE REGISTRATION IS
+6 CHALLENGED MERELY BECAUSE OF THEIR FAILURE TO ATTEND THE
+7 HEARING. THE COURT HAS THE POWER TO SUBPOENA ANY PERSON AS A
+8 WITNESS AND TO MAKE ANY NECESSARY INVESTIGATION TO ASCERTAIN
+9 THE TRUTH OF ANY CHARGES MADE IN THE PETITION, IF THE METHOD OF
+10 INVESTIGATION DOES NOT CAUSE UNNECESSARY DELAY OR INTERFERE
+11 WITH THE FINAL DISPOSITION OF THE PROTEST WITHIN THE TIME PROVIDED
+12 IN THIS SECTION. A HEARING ON ANY PETITION IS SUMMARY AND FINAL
+13 AND IS NOT SUBJECT TO DELAY.
+14 (b) AT THE CLOSE OF THE HEARING, THE COURT MUST ANNOUNCE
+15 IF THE PROTEST HAS BEEN SUSTAINED. IF THE PROTEST IS SUSTAINED, THE
+16 COURT SHALL ORDER THE APPROPRIATE REMEDY IN ACCORDANCE WITH
+17 SUBSECTION (1)(f) OF THIS SECTION. THE COURT SHALL DIRECT THE CLERK
+18 OF THE COURT TO CERTIFY THE NAME OF THE PERSON WHOSE
+19 REGISTRATION IS CHALLENGED AND THE REMEDY TO THE COUNTY CLERK
+20 AND RECORDER. UPON RECEIPT OF THE NAME AND REMEDY, THE COUNTY
+21 CLERK AND RECORDER SHALL TAKE THE ACTION REQUIRED BY THE COURT.
+22 THE DECISION OF THE COURT IS FINAL AND NOT SUBJECT TO REVIEW BY
+23 ANY OTHER COURT; EXCEPT THAT THE SUPREME COURT, IN ITS DISCRETION,
+24 MAY REVIEW ANY SUCH PROCEEDINGS IN A SUMMARY WAY.
+25
+26 SECTION 56. In Colorado Revised Statutes, 1-12-108, amend
+27 (5)(c) as follows:
+-58- 1113
+
+1 1-12-108. Petition requirements - approval as to form -
+2 determination of sufficiency - protest - offenses.
+3 (5) (c) Unless physically unable, all electors shall sign their own
+4 signature and shall print their names, respective residence addresses,
+5 including the street number and name, the city or town, the county, and
+6 the date of signature. Each signature on a petition must be made, to the
+7 extent possible, using a pen. If, while verifying a signer's information
+8 against the registration records in accordance with subsection (8) of this
+9 section, the designated election official finds that the signer provided his
+10 or her THEIR mailing address rather than his or her THEIR residence
+11 address, the designated election official may accept the signature line as
+12 valid if the designated election official is able to locate the signer's record
+13 in the statewide voter registration database and determines that the signer
+14 was eligible to sign the petition.
+15 SECTION 57. In Colorado Revised Statutes, 1-12-114, amend
+16 (2)(b) as follows:
+17 1-12-114. Mail ballots - plan required - voter service and
+18 polling centers - number required - definition.
+19 (2) Notwithstanding any provision of this code:
+20 (b) Not earlier than the twenty-second TWENTY-NINTH day or later
+21 than the eighteenth TWENTY-FIFTH day before the election, the designated
+22 election official shall mail ballots to all active registered electors.
+23 SECTION 58. In Colorado Revised Statutes, 1-12-201, amend
+24 (1) as follows:
+25 1-12-201. Vacancies in office of United States senator.
+26 (1) When a vacancy occurs in the office of United States senator
+27 from this THE state, the governor shall make a temporary appointment to
+-59- 1113
+
+1 fill the vacancy until it is filled by election. THE GOVERNOR SHALL
+2 APPOINT A PERSON WHO IS A MEMBER OF THE SAME POLITICAL PARTY AS
+3 THE FORMER UNITED STATES SENATOR.
+4 SECTION 59. In Colorado Revised Statutes, amend 1-12-205 as
+5 follows:
+6 1-12-205. Vacancies in county offices.
+7 All vacancies in any county office, except that of county
+8 commissioner, shall be filled by appointment by the board of county
+9 commissioners of the county in which the vacancy occurs. until the next
+10 general election, at which time the vacancy shall be filled by election THE
+11 APPOINTED OFFICIAL SHALL SERVE IN THE COUNTY OFFICE UNTIL THE NEXT
+12 REGULARLY SCHEDULED GENERAL ELECTION, AT WHICH TIME THE
+13 REMAINDER OF THE VACANT TERM, IF ANY, SHALL BE FILLED BY ELECTION.
+14 SECTION 60. In Colorado Revised Statutes, amend 1-12-209 as
+15 follows:
+16 1-12-209. Terms of persons filling vacancies.
+17 Except for appointments on nonpartisan boards, any officers
+18 elected or appointed to fill vacancies as provided in this article shall
+19 qualify and enter upon the duties of their offices immediately thereafter.
+20 If elected or appointed, the officers shall hold the office during the
+21 unexpired term for which they were elected and OR APPOINTED until their
+22 successors are elected, qualified, and take office on the second Tuesday
+23 of January THE NEXT REGULARLY SCHEDULED GENERAL ELECTION, OR FOR
+24 COUNTY COMMISSIONER OR GENERAL ASSEMBLY VACANCIES, UNTIL THE
+25 NEXT REGULARLY SCHEDULED COORDINATED OR GENERAL ELECTION,
+26 WHICHEVER IS APPLICABLE, AT WHICH TIME THE REMAINDER OF THE
+27 VACANT TERM, IF ANY, SHALL BE FILLED BY ELECTION, except as otherwise
+-60- 1113
+
+1 provided by law, in accordance with section 1-1-201.
+2
+3 SECTION 61. In Colorado Revised Statutes, amend 1-13-711 as
+4 follows:
+5 1-13-711. Interference with voter while voting.
+6 Any person who interferes with any voter who is inside the
+7 immediate voting area, WITHIN ONE HUNDRED FEET OF ANY BUILDING IN
+8 WHICH A POLLING LOCATION OR DROP-OFF LOCATION IS LOCATED, OR
+9 WITHIN ONE HUNDRED FEET OF A DROP BOX or is marking a ballot or
+10 operating a voting device or electronic voting device at any election
+11 provided by law upon conviction shall be punished as provided in section
+12 1-13-111.
+13 SECTION 62. In Colorado Revised Statutes, amend 1-13-713 as
+14 follows:
+15 1-13-713. Intimidation.
+16 It is unlawful for any person directly or indirectly, by himself or
+17 herself or by any other person in his or her behalf, to RECKLESSLY impede,
+18 prevent, MAKE A CREDIBLE THREAT, MENACE, INTIMIDATE, or otherwise
+19 interfere with the free exercise of the elective franchise of any elector,
+20 INCLUDING ANY ELECTOR WHO IS DELIVERING NO MORE THAN TEN MAIL
+21 BALLOTS TO A DROP BOX OR DROP-OFF-LOCATION DESIGNATED BY THE
+22 COUNTY CLERK AND RECORDER OR DESIGNATED ELECTION OFFICIAL, or to
+23 compel, induce, or prevail upon any elector either to give or refrain from
+24 giving the elector's vote at any election provided by law or to give or
+25 refrain from giving the elector's vote for any particular person or measure
+26 at any such election. Each such offense is a class 1 misdemeanor.
+27 SECTION 63. In Colorado Revised Statutes, 1-13-724, amend
+-61- 1113
+
+1 (4) as follows:
+2 1-13-724. Unlawfully carrying a firearm at a polling location
+3 or drop box - exception - legislative declaration.
+4 (4) This section does not apply to a peace officer, as described in
+5 section 16-2.5-101, acting within the scope of the peace officer's authority
+6 and in the performance of the peace officer's LAWFUL duties, EXCEPT AS
+7 OTHERWISE PROVIDED IN SECTIONS 1-13-713 AND 1-13-726.
+8 SECTION 64. In Colorado Revised Statutes, 1-13-725, amend
+9 (1)(b) and (1)(c) as follows:
+10 1-13-725. False slate of presidential electors - penalties.
+11 (1) (b) A person who knowingly signs, files, transmits, or records
+12 with the secretary of state, the archivist of the United States, the president
+13 of the United States senate, the United States congress, or a Colorado
+14 federal district court judge a list of presidential electors who voted for
+15 candidates for president and vice president of the United States, OR THEIR
+16 SUCCESSORS, who did not receive the highest number of votes in the state
+17 at a general election at which the offices of president and vice president
+18 of the United States were contested commits offering of a false
+19 instrument for recording as set forth in section 18-5-114. If the interstate
+20 compact, "Agreement Among the States to Elect the President by
+21 National Popular Vote", described in part 40 of article 60 of title 24, is in
+22 effect and the state's electoral votes are awarded to the winner of the
+23 national popular vote, the provisions of this subsection (1)(b) shall apply
+24 to individuals who sign, file, transmit, or record a list of presidential
+25 electors who voted for candidates for president and vice president of the
+26 United States, OR THEIR SUCCESSORS, who the secretary of state did not
+27 designate as the national popular vote winner.
+-62- 1113
+
+1 (c) A person who has not been elected as a presidential elector in
+2 a general election and who knowingly votes as a presidential elector for
+3 candidates for president and vice president of the United States, OR THEIR
+4 SUCCESSORS, who did not receive the highest number of votes in the state
+5 at a general election at which the offices of president and vice president
+6 of the United States were contested, or who inputs information into a
+7 form, certificate, or other paper or document required of presidential
+8 electors that was not provided by the secretary of state pursuant to section
+9 1-4-304, commits forgery as set forth in section 18-5-102. If the interstate
+10 compact, "Agreement Among the States to Elect the President by
+11 National Popular Vote", described in part 40 of article 60 of title 24, is in
+12 effect and the state's electoral votes are awarded to the winner of the
+13 national popular vote, the provisions of this subsection (1)(c) shall apply
+14 to a person who knowingly votes as a presidential elector for candidates
+15 for president and vice president of the United States, OR THEIR
+16 SUCCESSORS, who the secretary of state did not designate as the national
+17 popular vote winner.
+18 SECTION 65. In Colorado Revised Statutes, 1-13-726, amend
+19 (3) introductory portion and (6)(b); and add (3)(b.5), (5)(e), and (5)(f) as
+20 follows:
+21 1-13-726. Intimidation of voters or election officials - civil
+22 enforcement - short title - definitions.
+23 (3) Election-related intimidation prohibited. An individual,
+24 whether acting under color of law or otherwise, shall not RECKLESSLY
+25 intimidate, threaten MAKE A CREDIBLE THREAT, or coerce or attempt to
+26 RECKLESSLY intimidate, threaten MAKE A CREDIBLE THREAT, or coerce,
+27 DIRECTLY OR INDIRECTLY, any individual for any of the following:
+-63- 1113
+
+1 (b.5) DELIVERING NO MORE THAN TEN MAIL BALLOTS TO A DROP
+2 BOX OR DROP-OFF LOCATION DESIGNATED BY THE COUNTY CLERK AND
+3 RECORDER OR DESIGNATED ELECTION OFFICIAL;
+4 (5) Right to enforce.
+5 (e) A DISTRICT COURT THAT HAS JURISDICTION OVER ANY SUIT
+6 BROUGHT PURSUANT TO THIS SECTION MUST EXPEDITE CONSIDERATION OF
+7 THE SUIT AND CONDUCT A FORTHWITH HEARING THEREON. A DISTRICT
+8 COURT MAY ORDER SUCH EQUITABLE RELIEF AS IS WARRANTED BY THE
+9 FACTS AND APPLICABLE LAW AND DO SO ON AN EMERGENCY BASIS IF
+10 WARRANTED.
+11 (f) IF, AT THE TIME OF FILING THE COMPLAINT, AN INDIVIDUAL
+12 DEFENDANT CANNOT BE IDENTIFIED BY NAME BECAUSE THE INDIVIDUAL
+13 WAS WEARING A MASK OR OTHER DISGUISE OR REFUSED TO PROVIDE
+14 IDENTIFYING INFORMATION INCLUDING THE NAME OF THE INDIVIDUAL'S
+15 EMPLOYER, WHETHER AN ORGANIZATION OR GOVERNMENT AGENCY, THE
+16 PLAINTIFF MAY NAME THE UNKNOWN INDIVIDUAL AND THE INDIVIDUAL'S
+17 EMPLOYER AS DEFENDANTS IN THE COMPLAINT FILED PURSUANT TO THIS
+18 SECTION.
+19 (6) Relief.
+20 (b) To prevail in a suit to enforce subsection (3) of this section, a
+21 plaintiff is not required to prove that a defendant intended to intimidate,
+22 threaten, or coerce any individual, except to prove an THAT A
+23 DEFENDANT'S ACTS CONSTITUTED A RECKLESS attempt to, DIRECTLY OR
+24 INDIRECTLY, intimidate, threaten, or coerce A PERSON IN VOTING OR TO
+25 REFRAIN FROM VOTING OR IN DELIVERING NO MORE THAN TEN BALLOTS TO
+26 A DROP BOX OR DROP-OFF LOCATION DESIGNATED BY A COUNTY CLERK OR
+27 DESIGNATED ELECTION OFFICIAL. A court may nonetheless consider
+-64- 1113
+
+1 evidence of intent in determining the appropriate relief AND SHALL
+2 RETAIN JURISDICTION OVER ANY ATTEMPTS BY THE NAMED DEFENDANTS
+3 TO INTIMIDATE, THREATEN, OR COERCE VOTING AT THE LOCATION OR
+4 LOCATIONS IDENTIFIED IN A SUIT THROUGH THE DATE OF THE RELEVANT
+5 ELECTION.
+6 SECTION 66. In Colorado Revised Statutes, 1-40-111, amend
+7 (1)(b) as follows:
+8 1-40-111. Notice of circulation - signatures - affidavits -
+9 notarization - list of circulators and notaries.
+10 (1) (b) Any initiative or referendum petition shall be signed only
+11 by registered electors who are eligible to vote on the measure. Each
+12 registered elector shall sign their own signature and shall print their name,
+13 the address at which they reside, including the street number and name,
+14 the city and town, the county, and the date of signing. The circulator of
+15 a petition shall encourage each registered elector signing a petition to sign
+16 the petition in ink. In the event a registered elector is a person with a
+17 physical disability or is a person who is unable to read or write and the
+18 registered elector wishes to sign the petition, the elector shall sign or
+19 make their mark in the space so provided. Any person, other than a
+20 circulator, may assist the elector who has a physical disability or who is
+21 unable to read or write in completing the remaining information required
+22 by this subsection (1). The person providing assistance shall sign their
+23 name and address and shall state that such assistance was given to the
+24 elector who has a physical disability or who is unable to read or write.
+25 SECTION 67. In Colorado Revised Statutes, 1-40-116, amend
+26 (2) as follows:
+27 1-40-116. Validation - ballot issues - random sampling - rules.
+-65- 1113
+
+1 (2) Upon submission of the petition, the secretary of state shall
+2 examine each name and signature on the petition. The petition shall not
+3 be available to the public FOR EXAMINATION for a period of no NOT more
+4 than thirty SIXTY calendar days for the examination; EXCEPT THAT, THE
+5 EXAMINATION MUST BE COMPLETE NO LATER THAN SIXTY-TWO DAYS
+6 BEFORE THE ELECTION AT WHICH THE PETITION ISSUE OR QUESTION WILL
+7 APPEAR ON THE BALLOT. The secretary shall assure that the information
+8 required by sections 1-40-110 and 1-40-111 is complete, that the
+9 information on each signature line was written by the person making the
+10 signature, and that no signatures have been added to any sections of the
+11 petition after the affidavit required by section 1-40-111 (2) has been
+12 executed.
+13 SECTION 68. In Colorado Revised Statutes, 1-40-118, amend
+14 (1) as follows:
+15 1-40-118. Protest. (1) A protest in writing, under oath, together
+16 with three copies thereof, may be filed in the district court for the county
+17 in which the petition has been filed by some registered elector, within
+18 fifteen days after the secretary of state issues a statement as to whether the
+19 petition has a sufficient number of valid signatures, which statement must
+20 be issued no later than thirty SIXTY calendar days after the petition has
+21 been filed; EXCEPT THAT, A STATEMENT MUST BE ISSUED NO LATER THAN
+22 SIXTY-TWO DAYS BEFORE THE ELECTION AT WHICH THE PETITION ISSUE OR
+23 QUESTION WILL APPEAR ON THE BALLOT. If the secretary of state fails to
+24 issue a statement within thirty calendar days BY THE DEADLINE REQUIRED
+25 BY THIS SECTION, the petition is deemed sufficient. Regardless of whether
+26 the secretary of state has issued a statement of sufficiency or if the
+27 petition is deemed sufficient because the secretary of state has failed to
+-66- 1113
+
+1 issue a statement of sufficiency within thirty calendar days, no further
+2 agency action is necessary for the district court to have jurisdiction to
+3 consider the protest. During the period a petition is being examined by the
+4 secretary of state for sufficiency, the petition shall not be available to the
+5 public; except that such period must not exceed thirty calendar days THE
+6 DEADLINE REQUIRED BY THIS SECTION. Immediately after the secretary of
+7 state issues a statement of sufficiency or, if the petition is deemed
+8 sufficient because the secretary of state has failed to issue the statement,
+9 after thirty calendar days BY THE DEADLINE REQUIRED BY THIS SECTION,
+10 the secretary of state shall make the petition available to the public for
+11 copying upon request.
+12 SECTION 69. In Colorado Revised Statutes, 24-33.5-703,
+13 amend (3) as follows:
+14 24-33.5-703. Definitions.
+15 (3) (a) "Disaster" means the occurrence or imminent threat of
+16 widespread or severe damage, injury, or loss of life or property resulting
+17 from any natural cause or cause of human origin, including but not
+18 limited to fire; flood; earthquake; wind; storm; wave action; hazardous
+19 substance incident; oil spill or other water contamination requiring
+20 emergency action to avert danger or damage; volcanic activity; epidemic;
+21 air pollution; blight; drought; infestation; explosion; civil disturbance;
+22 hostile military or paramilitary action; a market disruption, including a
+23 trade disruption or an atypical disruption in the market that affects
+24 production, distribution, or consumption of a product or service; or a
+25 condition of riot, insurrection, or invasion existing in the state or in any
+26 county, city, town, or district in the state.
+27 (b) (I) "DISASTER" ALSO MEANS THE OCCURRENCE OR IMMINENT
+-67- 1113
+
+1 THREAT OF THE INABILITY TO STRICTLY COMPLY WITH PROVISIONS OF THE
+2 "UNIFORM ELECTION CODE OF 1992", ARTICLES 1 TO 13 OF TITLE 1, FROM
+3 ANY NATURAL CAUSE OR CAUSE OF HUMAN ORIGIN.
+4 (II) THIS SUBSECTION (3)(b) IS REPEALED, EFFECTIVE JANUARY 31,
+5 2031.
+6 SECTION 70. In Colorado Revised Statutes, 24-72-205.5,
+7 amend (4)(b)(II) as follows:
+8 24-72-205.5. Public inspection of ballots - stay period -
+9 recounts - rules governing public inspection of ballots - legislative
+10 declaration - definitions.
+11 (4) (b) In connection with the public inspection of the ballots to
+12 which this section pertains:
+13 (II) The designated election official, or his or her THE DESIGNATED
+14 ELECTION OFFICIAL'S designee, shall cover or redact, based upon the most
+15 practical means available, any markings or message on a ballot that may
+16 identify the particular elector who cast the ballot before the ballot may be
+17 made available for public inspection; EXCEPT THAT, ANY IDENTIFYING
+18 MARKINGS OR MESSAGES VOLUNTARILY MADE BY THE PARTICULAR
+19 ELECTOR WHO CAST THE BALLOT ARE NOT REQUIRED TO BE COVERED OR
+20 REDACTED PURSUANT TO THIS SUBSECTION (4)(b)(II);
+21 SECTION 71. In Colorado Revised Statutes, 30-1-103, add (1.5)
+22 as follows:
+23 30-1-103. Fees of county clerk and recorders - report - repeal.
+24 (1.5) OATHS OR AFFIRMATIONS FOR PUBLIC OFFICE FILED WITH
+25 COUNTY CLERK AND RECORDERS IN ACCORDANCE WITH SECTION
+26 24-12-101 (3) ARE EXEMPT FROM ANY FEES UNDER THIS SECTION.
+27 SECTION 72. Effective date. This act takes effect upon passage;
+-68- 1113
+
+1 except that sections 1-7.5-107 (3)(a)(I) and 1-7.5-107 (3)(a)(II), Colorado
+2 Revised Statutes, amended in section 52 of this act, take effect July 1,
+3 2026.
+4 SECTION 73. Appropriation. (1) For the 2026-27 state fiscal
+5 year, $10,000 is appropriated the the department of state. This
+6 appropriation is from the department of state cash fund created in section
+7 24-21-104 (3)(b), C.R.S. To implement this act, the division of
+8 information technology may use this appropriation for personal services.
+9 SECTION 74. Safety clause. The general assembly finds,
+10 determines, and declares that this act is necessary for the immediate
+11 preservation of the public peace, health, or safety or for appropriations for
+12 the support and maintenance of the departments of the state and state
+13 institutions.
+-69- 1113

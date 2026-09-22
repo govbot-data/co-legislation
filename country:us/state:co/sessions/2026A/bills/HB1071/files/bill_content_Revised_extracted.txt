@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0608.01 Renee Leone x2695 HOUSE BILL 26-1071
+House Committees Senate Committees
+Transportation, Housing & Local Government Local Government & Housing
+A BILL FOR AN ACT
+101 CONCERNING ALLOWING A LOCAL GOVERNMENT TO LOCATE AN
+102 AUTOMATED VEHICLE IDENTIFICATION SYSTEM ON AN
+103 INTERSTATE HIGHWAY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law allows the state to locate an automated vehicle
+identification system (AVIS) on a highway that is part of the federal
+interstate highway system but prohibits a county, city and county, or
+municipality (local government) from doing so. The bill authorizes a local
+government to locate an AVIS on a highway that is part of the federal
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,02
+lirpA
+6202
+,32
+yraurbeF
+6202
+,91
+yraurbeF
+HOUSE SPONSORSHIP
+Mauro and Duran, Froelich, Woodrow
+SENATE SPONSORSHIP
+Cutter,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+interstate highway system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Municipalities have primary response authority for traffic
+5 enforcement on portions of federal interstates located in their jurisdiction
+6 pursuant to section 43-2-135 (1)(g), Colorado Revised Statutes;
+7 (b) It is dangerous to conduct in-person traffic enforcement on
+8 interstate highways, and municipalities expend significant resources
+9 responding to traffic incidents on federal interstates;
+10 (c) Automated vehicle identification systems, referred to in this
+11 section as "AVIS", are a safe and effective way to conduct traffic
+12 enforcement that municipalities have been utilizing for at least 30 years;
+13 (d) In 1997, the general assembly adopted the first state law
+14 regarding utilization of AVIS throughout Colorado. The law has been
+15 amended from time to time but has remained in effect since that time.
+16 (e) Federal prohibitions on masking convictions for traffic control
+17 violations by commercial driver's license holders pursuant to 49 CFR
+18 384.226 have never been implicated by the use of AVIS in the United
+19 States;
+20 (f) Federal masking is not implicated by AVIS because AVIS
+21 violations result in administrative citations and penalties imposed on the
+22 vehicle owner, not traffic control convictions, as that term is used in 49
+23 CFR 384.226, imposed on the driver;
+24 (g) Federal masking is only implicated where the identity of the
+25 driver is known, a conviction is obtained, and a deliberate decision is
+-2- 1071
+
+1 made not to place the conviction on the driving record;
+2 (h) AVIS are separate and distinct from automated license plate
+3 readers in that AVIS do not continuously capture data for every passing
+4 vehicle and instead only activate and capture data when certain traffic
+5 violations occur;
+6 (i) Under section 42-4-110.5 (7)(b), Colorado Revised Statutes,
+7 photographs or videos collected by AVIS are confidential and exempt
+8 from disclosure and inspection under the "Colorado Open Records Act";
+9 and
+10 (j) Under section 24-74-103, Colorado Revised Statutes, state and
+11 political subdivision employees are prohibited from disclosing personal
+12 identifying information, which includes data from AVIS, for the purpose
+13 of investigating for, participating in, cooperating with, or assisting in
+14 federal immigration enforcement.
+15 (2) Therefore, the general assembly expressly declares that AVIS
+16 are a safe, effective, and highly regulated tool that has been successfully
+17 used solely for traffic enforcement in Colorado for decades and extending
+18 such use by local governments to interstate highways will further the
+19 traffic safety goals of this state.
+20 SECTION 2. In Colorado Revised Statutes, 42-4-110.5, amend
+21 (2) introductory portion, (2)(g)(I), and (2)(g)(V) as follows:
+22 42-4-110.5. Automated vehicle identification systems - school
+23 buses - exceptions to liability - penalty - contracting - limits on use of
+24 photographs and video - rules - legislative declaration - definitions.
+25 (2) A county, city and county, or municipality may adopt an
+26 ordinance authorizing the use of an automated vehicle identification
+27 system to detect violations A VIOLATION of A traffic regulations
+-3- 1071
+
+1 REGULATION adopted by the county, city and county, or municipality, or
+2 the state OR a county, a city and county, or a municipality may utilize an
+3 automated vehicle identification system to detect A traffic violations
+4 VIOLATION under state law, subject to the following conditions and
+5 limitations and, as applicable, the requirements for state highways set
+6 forth in and any rules adopted by the department of transportation
+7 pursuant to subsection (2.5) of this section:
+8 (g) (I) The state OR a county, a city and county, or a municipality
+9 shall not issue a notice of violation or civil penalty assessment notice for
+10 a violation detected using an automated vehicle identification system
+11 unless the violation occurred within a school zone, as defined in section
+12 42-4-615; within a residential neighborhood; within a maintenance,
+13 construction, or repair zone designated pursuant to section 42-4-614;
+14 along a street that borders a municipal park; or along a street OR STATE
+15 HIGHWAY or A portion of a street OR STATE HIGHWAY that a county, city
+16 and county, or municipality, by ordinance or by a resolution of its
+17 governing body, designates as an automated vehicle identification
+18 corridor, on which designated corridor the county, city and county, or
+19 municipality may locate an automated vehicle identification system to
+20 detect violations A VIOLATION of a TRAFFIC REGULATION ADOPTED BY THE
+21 STATE OR A county, city and county, or municipal traffic regulation or a
+22 traffic violation under state law MUNICIPALITY.
+23 (V) (A) Notwithstanding the provisions of subsection (2)(g)(I) of
+24 this section, The state, A CITY AND COUNTY, OR A MUNICIPALITY may
+25 locate an automated vehicle identification system on a STATE highway
+26 that is a part of the federal interstate highway system and may issue a
+27 notice of violation or a civil penalty assessment notice for a traffic
+-4- 1071
+
+1 violation under state law VIOLATION OF A TRAFFIC REGULATION ADOPTED
+2 BY THE STATE, A CITY AND COUNTY, OR A MUNICIPALITY detected using
+3 the automated vehicle identification system.
+4 (B) A county, a city and county, or a municipality shall not locate
+5 an automated vehicle identification system or create an automated vehicle
+6 identification corridor on any highway that is a part of the federal
+7 interstate highway system; EXCEPT THAT A COUNTY MAY LOCATE AN
+8 AUTOMATED VEHICLE IDENTIFICATION SYSTEM ON A PORTION OF SUCH A
+9 HIGHWAY THAT HAS A PEAK PERIOD SHOULDER LANE, AS DEFINED IN
+10 SECTION 43-4-806 (11)(a), AND A COUNTY MAY ISSUE A NOTICE OF
+11 VIOLATION OR A CIVIL PENALTY FOR A VIOLATION OF A TRAFFIC
+12 REGULATION ADOPTED BY THE COUNTY DETECTED BY THAT AUTOMATED
+13 VEHICLE IDENTIFICATION SYSTEM.
+14 SECTION 3. Act subject to petition - effective date. This act
+15 takes effect at 12:01 a.m. on the day following the expiration of the
+16 ninety-day period after final adjournment of the general assembly (August
+17 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+18 referendum petition is filed pursuant to section 1 (3) of article V of the
+19 state constitution against this act or an item, section, or part of this act
+20 within such period, then the act, item, section, or part will not take effect
+21 unless approved by the people at the general election to be held in
+22 November 2026 and, in such case, will take effect on the date of the
+23 official declaration of the vote thereon by the governor.
+-5- 1071

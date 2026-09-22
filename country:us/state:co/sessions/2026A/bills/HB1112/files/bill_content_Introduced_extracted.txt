@@ -1,0 +1,348 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0613.01 Sarah Lozano x3858 HOUSE BILL 26-1112
+HOUSE SPONSORSHIP
+Paschal and Smith,
+SENATE SPONSORSHIP
+Hinrichsen and Simpson,
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING STATE REGULATION OF UNDERGROUND INJECTION
+102 CONTROL WELLS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill grants the energy and carbon management commission
+(commission) authority over class I, class IV, and class V injection wells
+and allows the commission to seek and adopt rules related to primacy
+from the United States environmental protection agency (EPA) for these
+classes of injection wells. The commission may assess and collect fees
+related to the regulation of class I, class IV, and class V injection wells.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+A person that willfully violates a rule, permit, authorization, or order of
+the commission related to these classes of injection wells commits a
+misdemeanor and is subject to certain penalties.
+The bill also grants the mined land reclamation board (board)
+authority over class III injection wells and allows the board to seek and
+adopt rules related to primacy from the EPA for class III injection wells.
+The board may assess and collect fees related to the regulation of class III
+injection wells. A person that violates a rule, permit, authorization, or
+order of the board related to class III injection wells or that operates a
+class III injection well without a permit from the board is subject to
+certain penalties. The bill also provides that a class III injection well is
+not eligible for an exemption from designated mining operation status,
+which status subjects the operator to certain rules adopted by the board.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Underground injection control wells, referred to in this section
+5 as "UIC wells", are used to place fluid underground into geologic
+6 formations;
+7 (b) The United States environmental protection agency, referred
+8 to in this section as the "EPA", regulates the construction and operation
+9 of 6 classes of UIC wells, which are classified based on the type of fluid
+10 injected and the depth of the injection in relation to underground sources
+11 of drinking water;
+12 (c) The federal "Safe Drinking Water Act" requires the EPA to
+13 develop UIC well program requirements that protect underground sources
+14 of drinking water from endangerment;
+15 (d) The EPA may grant primacy enforcement and regulatory
+16 authority, referred to in this section as "primacy", to a state;
+17 (e) Colorado, specifically the Colorado energy and carbon
+18 management commission, has primacy over class II UIC wells and
+-2- HB26-1112
+
+1 anticipates gaining primacy over class VI UIC wells in 2026; all other
+2 classes of UIC wells are still regulated by the EPA; and
+3 (f) As of July 2025, over half of the states in the United States
+4 have been granted primacy by the EPA for at least class I, II, III, IV, and
+5 V UIC wells, and 5 states have been granted full primacy for all UIC well
+6 classes.
+7 (2) The general assembly therefore declares that:
+8 (a) It is in the public interest for Colorado state agencies to
+9 regulate all UIC well classes;
+10 (b) Primacy over all UIC well classes will enable Colorado to
+11 have a tailored approach to UIC well regulation that:
+12 (I) Considers all relevant factors;
+13 (II) Attracts and supports emerging industries with technologies
+14 to help achieve climate goals, including carbon management, geothermal,
+15 and hydrogen operations;
+16 (III) Facilitates innovative water management strategies, including
+17 aquifer recharge, storage, and recovery necessary to meet the state's water
+18 challenges;
+19 (IV) Provides a more straightforward approach to permitting,
+20 authorizing, and regulating several industries where state and federal
+21 authorities currently overlap; and
+22 (V) Provides reliability in resource commitment and expectations
+23 amidst fluctuating federal priorities;
+24 (c) Colorado will regulate UIC wells in a manner that protects
+25 public health, safety, and welfare; the environment; wildlife resources;
+26 and underground sources of drinking water; and
+27 (d) The Colorado energy and carbon management commission
+-3- HB26-1112
+
+1 should lead the state's primacy application process and collaborate with
+2 the division of reclamation, mining, and safety and the division of water
+3 resources in the Colorado department of natural resources, the Colorado
+4 department of public health and environment, and the Colorado
+5 department of labor and employment.
+6 SECTION 2. In Colorado Revised Statutes, 34-60-106, add (23)
+7 and (24) as follows:
+8 34-60-106. Additional powers of commission - fees - rules -
+9 definitions - repeal.
+10 (23) (a) (I) NOTWITHSTANDING SECTION 34-60-120 OR ANY OTHER
+11 PROVISION OF LAW OTHER THAN SECTION 34-60-105 (4), AS TO CLASS I,
+12 CLASS IV, AND CLASS V INJECTION WELLS CLASSIFIED IN 40 CFR 144.6,
+13 THE COMMISSION MAY PERFORM ALL ACTS FOR THE PURPOSE OF
+14 PROTECTING UNDERGROUND SOURCES OF DRINKING WATER IN
+15 ACCORDANCE WITH STATE PROGRAMS AUTHORIZED BY THE FEDERAL
+16 "SAFE DRINKING WATER ACT", 42 U.S.C. SEC. 300f ET SEQ., AND
+17 REGULATIONS UNDER THOSE SECTIONS, AS AMENDED.
+18 (II) THE COMMISSION MAY SEEK AND ADOPT RULES RELATED TO
+19 CLASS I, CLASS IV, AND CLASS V INJECTION WELL PRIMACY UNDER THE
+20 FEDERAL "SAFE DRINKING WATER ACT", 42 U.S.C. SEC. 300f ET SEQ.,
+21 AND REGULATIONS UNDER THOSE SECTIONS, AS AMENDED. UPON
+22 RECEIVING PRIMACY, THE COMMISSION MAY ENFORCE RULES FOR THE
+23 PERMITTING, AUTHORIZATION, AND REGULATION OF CLASS I, CLASS IV,
+24 AND CLASS V INJECTION WELLS IN ACCORDANCE WITH THIS SUBSECTION
+25 (23).
+26 (b) A PERSON THAT WILLFULLY VIOLATES A CLASS I, CLASS IV, OR
+27 CLASS V INJECTION WELL RULE, PERMIT, AUTHORIZATION, OR ORDER OF
+-4- HB26-1112
+
+1 THE COMMISSION ISSUED PURSUANT TO THIS SUBSECTION (23) COMMITS A
+2 MISDEMEANOR AND, UPON CONVICTION BY A COURT OF COMPETENT
+3 JURISDICTION, IS SUBJECT TO A FINE OF AT LEAST FIVE THOUSAND DOLLARS
+4 AND NO MORE THAN SEVEN THOUSAND FIVE HUNDRED DOLLARS FOR EACH
+5 ACT OF VIOLATION AND FOR EACH DAY THAT THE PERSON REMAINS IN
+6 VIOLATION.
+7 (c) (I) FOR THE PURPOSES OF IMPLEMENTING AND ADMINISTERING
+8 THIS SUBSECTION (23), THE COMMISSION MAY ASSESS AND COLLECT FEES,
+9 INCLUDING, BUT NOT LIMITED TO, PERMITTING AND REGULATORY FEES FOR
+10 CLASS I, CLASS IV, AND CLASS V INJECTION WELLS, IN AN AMOUNT AND
+11 FREQUENCY DETERMINED BY THE COMMISSION BY RULE. THE COMMISSION
+12 SHALL SET THE FEES IN AN AMOUNT TO COVER THE COMMISSION'S DIRECT
+13 AND INDIRECT COSTS OF IMPLEMENTING AND ADMINISTERING THIS
+14 SUBSECTION (23).
+15 (II) THE STATE TREASURER SHALL CREDIT THE FEES ASSESSED AND
+16 COLLECTED PURSUANT TO SUBSECTION (23)(c)(I) OF THIS SECTION TO THE
+17 ENERGY AND CARBON MANAGEMENT CASH FUND CREATED IN SECTION
+18 34-60-122 (5).
+19 (d) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE
+20 CONTRARY, NOTHING IN THIS SECTION ESTABLISHES, ALTERS, IMPAIRS, OR
+21 NEGATES THE ABILITY OF A LOCAL GOVERNMENT TO REGULATE LAND USE
+22 RELATED TO CLASS I, CLASS IV, OR CLASS V INJECTION WELLS.
+23 (24) NOTWITHSTANDING SECTION 34-60-115, ANY ACTION
+24 UNDERTAKEN PURSUANT TO SUBSECTION (9)(c)(II)(B) OF THIS SECTION OR
+25 SUBSECTION (23)(b) OF THIS SECTION MUST COMMENCE WITHIN FIVE
+26 YEARS AFTER THE DATE THAT THE COMMISSION DISCOVERS THE ALLEGED
+27 VIOLATION.
+-5- HB26-1112
+
+1 SECTION 3. In Colorado Revised Statutes, 34-60-124, amend
+2 (1)(g) as follows:
+3 34-60-124. Energy and carbon management cash fund -
+4 definitions.
+5 (1) The state treasurer shall credit the following money to the
+6 fund:
+7 (g) Money credited to the fund pursuant to sections 34-60-106,
+8 34-64-108 (4), and 37-90.5-106 (4).
+9 SECTION 4. In Colorado Revised Statutes, 34-32-103, amend
+10 (3.5)(a)(II), (3.5)(a)(III), (5.7), and (8); and add (2.7) and (3.5)(a)(IV) as
+11 follows:
+12 34-32-103. Definitions - rules.
+13 As used in this article 32, unless the context otherwise requires:
+14 (2.7) (a) "CLASS III INJECTION WELL" MEANS A WELL AS
+15 CLASSIFIED IN 40 CFR 144.6 THAT IS USED TO INJECT FLUIDS AND EXTRACT
+16 MINERALS AND IS DRILLED PURSUANT TO AUTHORIZATION FOR A CLASS III
+17 INJECTION WELL ISSUED UNDER THE FEDERAL "SAFE DRINKING WATER
+18 ACT", 42 U.S.C. SEC. 300f ET SEQ., AND REGULATIONS UNDER THOSE
+19 SECTIONS, AS AMENDED.
+20 (b) "CLASS III INJECTION WELL" DOES NOT INCLUDE A PRODUCTION
+21 WELL THAT BRINGS MINING FLUIDS TO THE SURFACE.
+22 (3.5) (a) "Designated mining operation" means a mining operation
+23 at which:
+24 (II) Acid- or toxic-forming materials will be exposed or disturbed
+25 as a result of mining operations; or
+26 (III) Uranium is developed or extracted, either by in situ leach
+27 mining or by conventional underground or open mining techniques. A
+-6- HB26-1112
+
+1 uranium mining operation OTHER THAN IN SITU LEACH MINING may seek
+2 an exemption from designated mining operation status in accordance with
+3 section 34-32-112.5 (2); OR
+4 (IV) A CLASS III INJECTION WELL IS OPERATED, WHICH OPERATION
+5 IS NOT ELIGIBLE FOR AN EXEMPTION FROM DESIGNATED MINING
+6 OPERATION STATUS IN ACCORDANCE WITH SECTION 34-32-112.5 (2).
+7 (5.7) "In situ leach mining" means in situ mining for uranium
+8 through the in-place dissolution of mineral components of an ore deposit
+9 by causing a chemical leaching solution, usually aqueous, to penetrate or
+10 to be pumped down wells through the ore body and then removing the
+11 mineral-containing solution for development or extraction of the mineral
+12 values.
+13 (8) "Mining operation" means the development or extraction of a
+14 mineral from its natural occurrences or within refuse on affected land.
+15 "Mining operation" includes, but is not limited to, open mining, in situ
+16 mining, in situ leach mining, surface operations, OPERATIONS RELATED TO
+17 CLASS III INJECTION WELLS, and the disposal of refuse from underground
+18 mining, in situ mining, and in situ leach mining. "Mining operation" also
+19 includes the following operations on affected lands: Transportation,
+20 concentrating, milling, evaporation, removal of waste piles and refuse,
+21 and other processing. "Mining operation" does not include: The
+22 exploration and extraction of natural petroleum in a liquid or gaseous
+23 state by means of wells or pipe; the development or extraction of coal; the
+24 extraction of geothermal resources; smelting, refining, cleaning,
+25 preparation, transportation, and other off-site operations not conducted on
+26 affected land; or the extraction of construction material where there is no
+27 development or extraction of any mineral.
+-7- HB26-1112
+
+1 SECTION 5. In Colorado Revised Statutes, 34-32-107, add (3)
+2 as follows:
+3 34-32-107. Powers of board - authority to regulate class III
+4 injection wells - misdemeanor - fees - rules.
+5 (3) (a) (I) THE BOARD, AS TO CLASS III INJECTION WELLS, MAY
+6 PERFORM ALL ACTS FOR THE PURPOSES OF PROTECTING UNDERGROUND
+7 SOURCES OF DRINKING WATER IN ACCORDANCE WITH STATE PROGRAMS
+8 AUTHORIZED BY THE FEDERAL "SAFE DRINKING WATER ACT", 42 U.S.C.
+9 SEC. 300f ET SEQ., AND REGULATIONS UNDER THOSE SECTIONS, AS
+10 AMENDED.
+11 (II) THE BOARD MAY SEEK AND ADOPT RULES RELATED TO CLASS
+12 III INJECTION WELL PRIMACY UNDER THE FEDERAL "SAFE DRINKING
+13 WATER ACT", 42 U.S.C. SEC. 300f ET SEQ., AND REGULATIONS UNDER
+14 THOSE SECTIONS, AS AMENDED. UPON RECEIVING PRIMACY, THE BOARD
+15 MAY ENFORCE RULES FOR THE PERMITTING, AUTHORIZATION, AND
+16 REGULATION OF CLASS III INJECTION WELLS IN ACCORDANCE WITH THIS
+17 SUBSECTION (3).
+18 (b) (I) A PERSON THAT WILLFULLY VIOLATES A CLASS III INJECTION
+19 WELL RULE, PERMIT, AUTHORIZATION, OR ORDER OF THE BOARD ISSUED
+20 PURSUANT TO THIS SUBSECTION (3) COMMITS A MISDEMEANOR AND, UPON
+21 CONVICTION BY A COURT OF COMPETENT JURISDICTION, IS SUBJECT TO A
+22 FINE OF AT LEAST FIVE THOUSAND DOLLARS AND NO MORE THAN SEVEN
+23 THOUSAND FIVE HUNDRED DOLLARS FOR EACH ACT OF VIOLATION AND FOR
+24 EACH DAY THAT THE PERSON REMAINS IN VIOLATION.
+25 (II) ANY ACTION UNDERTAKEN PURSUANT TO SUBSECTION (3)(b)(I)
+26 OF THIS SECTION MUST COMMENCE WITHIN FIVE YEARS AFTER THE DATE
+27 THAT THE BOARD DISCOVERS THE ALLEGED VIOLATION.
+-8- HB26-1112
+
+1 (c) (I) FOR THE PURPOSES OF IMPLEMENTING AND ADMINISTERING
+2 THIS SUBSECTION (3), THE BOARD MAY ASSESS AND COLLECT FEES,
+3 INCLUDING, BUT NOT LIMITED TO, PERMITTING AND REGULATORY FEES FOR
+4 CLASS III INJECTION WELLS, IN AN AMOUNT AND FREQUENCY DETERMINED
+5 BY THE BOARD BY RULE. THE BOARD SHALL SET THE FEES IN AN AMOUNT
+6 TO COVER THE BOARD'S DIRECT AND INDIRECT COSTS OF IMPLEMENTING
+7 AND ADMINISTERING THIS SUBSECTION (3).
+8 (II) THE STATE TREASURER SHALL CREDIT THE FEES ASSESSED AND
+9 COLLECTED PURSUANT TO SUBSECTION (3)(c)(I) OF THIS SECTION TO THE
+10 MINED LAND RECLAMATION FUND CREATED IN SECTION 34-32-127 (1)(a).
+11 SECTION 6. In Colorado Revised Statutes, 34-32-112.5, amend
+12 (2) as follows:
+13 34-32-112.5. Designated mining operation - rules.
+14 (2) If an operator demonstrates to the board at the time of applying
+15 for a permit or at a subsequent hearing that toxic or acidic chemicals are
+16 not stored or used on-site and that acid- or toxic-producing materials will
+17 not be used, stored, or disturbed in quantities sufficient to adversely affect
+18 any A person, any property, or the environment, UNLESS THE PERMIT IS
+19 FOR A CLASS III INJECTION WELL, the board shall exempt such operations
+20 whether conducted pursuant to section 34-32-110 or otherwise. The board
+21 may promulgate ADOPT rules governing the conduct of mining operations
+22 which THAT are exempted pursuant to this subsection (2).
+23 SECTION 7. In Colorado Revised Statutes, 34-32-122, add (6)
+24 as follows:
+25 34-32-122. Fees, civil penalties, and forfeitures - deposit -
+26 emergency response cash fund - created - definition.
+27 (6) AN OPERATOR THAT VIOLATES A CLASS III INJECTION WELL
+-9- HB26-1112
+
+1 RULE, PERMIT, AUTHORIZATION, OR ORDER ISSUED BY THE BOARD
+2 PURSUANT TO SECTION 34-32-107 (3) IS SUBJECT TO A CIVIL PENALTY OF
+3 AT LEAST TWO THOUSAND FIVE HUNDRED DOLLARS PER DAY BUT NO MORE
+4 THAN FIVE THOUSAND DOLLARS PER DAY FOR EACH ACT OF VIOLATION PER
+5 DAY THAT THE VIOLATION CONTINUES.
+6 SECTION 8. In Colorado Revised Statutes, 34-32-123, add (4)
+7 as follows:
+8 34-32-123. Operating without a permit - penalty.
+9 (4) NOTWITHSTANDING SUBSECTION (2) OF THIS SECTION AND
+10 UPON THE BOARD OBTAINING REGULATORY PRIMACY PURSUANT TO
+11 SECTION 32-34-107 (3), AN OPERATOR THAT OPERATES A CLASS III
+12 INJECTION WELL WITHOUT A PERMIT ISSUED BY THE BOARD IS SUBJECT TO
+13 A CIVIL PENALTY AS DESCRIBED IN SECTION 34-32-122 (6).
+14 SECTION 9. In Colorado Revised Statutes, 34-32-124, amend
+15 (7) as follows:
+16 34-32-124. Failure to comply with conditions of order, permit,
+17 or regulation.
+18 (7) Any A person who THAT violates any provision of any permit
+19 issued under this article shall be ARTICLE 32, OTHER THAN A CLASS III
+20 INJECTION WELL PERMIT, IS subject to a civil penalty of not less than one
+21 hundred dollars per day nor more than one thousand dollars per day for
+22 each day during which such violation occurs; except that any AN operator
+23 who THAT operates under a permit issued under section 34-32-110 shall
+24 be IS subject to a civil penalty of not less than fifty dollars nor more than
+25 two hundred dollars per day for each day during which such THE violation
+26 occurs.
+27 SECTION 10. In Colorado Revised Statutes, 34-32-127, amend
+-10- HB26-1112
+
+1 (2)(a) introductory portion and (2)(a)(IV) introductory portion; and add
+2 (2)(a)(I)(P) and (2)(a)(IV)(H) as follows:
+3 34-32-127. Mined land reclamation fund - created - fees - fee
+4 adjustments - rules.
+5 (2) (a) The office shall collect fees for STATE fiscal year 2014-15
+6 and for each subsequent year of operation for operations according to the
+7 following schedule:
+8 (I) Applications pursuant to:
+9 (P) SECTION 34-32-107 (3) RELATING TO CLASS III INJECTION
+10 WELLS.
+11 (IV) Annual fees for STATE fiscal year 2014-15 and for each
+12 subsequent year for operations pursuant to:
+13 (H) SECTION 34-32-107 (3) RELATING TO CLASS III INJECTION
+14 WELLS.
+15 SECTION 11. In Colorado Revised Statutes, 16-5-401, amend
+16 (4.5)(z) and (4.5)(aa); and add (4.5)(bb) as follows:
+17 16-5-401. Limitation for commencing criminal proceedings,
+18 civil infraction proceedings, and juvenile delinquency proceedings -
+19 definitions.
+20 (4.5) The period within which a prosecution must be commenced
+21 begins to run upon discovery of the criminal act or the delinquent act for:
+22 (z) Abuse of a corpse, pursuant to section 18-13-101; and
+23 (aa) Criminal offenses relating to misuse of gametes, pursuant to
+24 section 18-13-131; AND
+25 (bb) OFFENSES RELATED TO A WILLFUL VIOLATION OF RULES,
+26 PERMITS, AUTHORIZATIONS, OR ORDERS RELATED TO UNDERGROUND
+27 INJECTION WELLS ADOPTED BY THE ENERGY AND CARBON MANAGEMENT
+-11- HB26-1112
+
+1 COMMISSION PURSUANT TO SECTION 34-60-106 (9) AND (23) OR ADOPTED
+2 BY THE MINED LAND RECLAMATION BOARD PURSUANT TO SECTION
+3 34-32-107 (3).
+4 SECTION 12. Act subject to petition - effective date -
+5 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+6 the expiration of the ninety-day period after final adjournment of the
+7 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+8 2026); except that, if a referendum petition is filed pursuant to section 1
+9 (3) of article V of the state constitution against this act or an item, section,
+10 or part of this act within such period, then the act, item, section, or part
+11 will not take effect unless approved by the people at the general election
+12 to be held in November 2026 and, in such case, will take effect on the
+13 date of the official declaration of the vote thereon by the governor.
+14 (2) This act applies to conduct occurring on or after the applicable
+15 effective date of this act.
+-12- HB26-1112

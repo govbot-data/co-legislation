@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0212.01 Caroline Martin x5902 HOUSE BILL 26-1196
+HOUSE SPONSORSHIP
+English and Joseph,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING TENANT DATA INFORMATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill provides that, prior to seeking to obtain
+information about a prospective tenant for a tenant screening, a landlord
+shall provide a written notice to the prospective tenant or post the notice
+in a conspicuous location. The notice must include the following:
+! The information and data that the landlord will attempt to
+access to conduct the tenant screening; and
+! The specific criteria that would result in the landlord's
+denial of the prospective tenant's application.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Section 3 requires that, before entering into a lease agreement with
+a prospective tenant, a landlord that is responsible for 5 or more dwelling
+units or that receives certain financial assistance (covered landlord) shall
+offer to the prospective tenant the option for positive rent reporting to at
+least one consumer reporting agency. If a tenant declines a covered
+landlord's initial positive rent reporting offer and enters into a lease
+agreement with the covered landlord, the covered landlord shall offer to
+the tenant the option for positive rent reporting to at least one consumer
+reporting agency any time that the covered landlord and the tenant renew
+the lease agreement.
+If a tenant accepts a covered landlord's offer of positive rent
+reporting, the covered landlord shall send the tenant's rental payment
+information, including the tenant's full name and date of rent payment, to
+at least one consumer reporting agency each time the tenant pays rent. A
+covered landlord shall not charge a tenant for positive rent reporting or
+pass on the cost of positive rent reporting to a tenant by raising rent
+prices. A tenant that has opted into positive rent reporting may opt out at
+any time by notifying the tenant's covered landlord.
+Section 1 provides that the failure of a covered landlord to comply
+with new positive rent reporting requirements is an unfair and deceptive
+trade practice.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-1-105, add
+3 (1)(qqqq) as follows:
+4 6-1-105. Unfair or deceptive trade practices - definitions.
+5 (1) A person engages in a deceptive trade practice when, in the
+6 course of the person's business, vocation, or occupation, the person:
+7 (qqqq) VIOLATES SECTION 38-12-1601.
+8 SECTION 2. In Colorado Revised Statutes, 38-12-904, add (1.7)
+9 as follows:
+10 38-12-904. Consideration of rental applications - limitations
+11 - portable tenant screening report - notice to prospective tenants -
+12 denial notice.
+13 (1.7) PRIOR TO SEEKING TO OBTAIN ANY INFORMATION ABOUT A
+-2- HB26-1196
+
+1 PROSPECTIVE TENANT FOR A TENANT SCREENING, A LANDLORD SHALL
+2 PROVIDE A WRITTEN NOTICE TO THE PROSPECTIVE TENANT OR POST THE
+3 NOTICE IN A CONSPICUOUS LOCATION. THE NOTICE MUST INCLUDE THE
+4 FOLLOWING:
+5 (a) THE INFORMATION AND DATA THAT THE LANDLORD WILL
+6 ATTEMPT TO ACCESS TO CONDUCT THE TENANT SCREENING; AND
+7 (b) THE SPECIFIC CRITERIA THAT WOULD RESULT IN THE
+8 LANDLORD'S DENIAL OF THE PROSPECTIVE TENANT'S APPLICATION.
+9 SECTION 3. In Colorado Revised Statutes, add part 16 to article
+10 12 of title 38 as follows:
+11 PART 16
+12 RENT REPORTING REQUIRED BY COVERED LANDLORDS
+13 38-12-1601. Positive rent reporting required by covered
+14 landlords - definitions.
+15 (1) AS USED IN THIS SECTION:
+16 (a) "CONSUMER REPORTING AGENCY" HAS THE MEANING SET
+17 FORTH IN SECTION 5-18-103 (4).
+18 (b) "COVERED LANDLORD" MEANS A PERSON WHO IS AN OWNER,
+19 MANAGER, LESSOR, SUBLESSOR, SUCCESSOR IN INTEREST, OR AGENT OF
+20 THE OWNER OF A DWELLING UNIT AND WHO:
+21 (I) IS RESPONSIBLE FOR FIVE OR MORE DWELLING UNITS IN THE
+22 PERSON'S CAPACITY AS A LANDLORD; OR
+23 (II) RECEIVES STATE-ADMINISTERED HOUSING SUBSIDIES, MONEY
+24 FROM THE DIVISION OF HOUSING WITHIN THE COLORADO DEPARTMENT OF
+25 LOCAL AFFAIRS, MONEY FROM THE COLORADO HOUSING AND FINANCE
+26 AUTHORITY, OR OTHER FINANCIAL ASSISTANCE FROM THE STATE IN THE
+27 PERSON'S CAPACITY AS A LANDLORD.
+-3- HB26-1196
+
+1 (c) "DWELLING UNIT" HAS THE MEANING SET FORTH IN SECTION
+2 38-12-502 (3).
+3 (2) BEFORE ENTERING INTO A LEASE AGREEMENT WITH A
+4 PROSPECTIVE TENANT, A COVERED LANDLORD SHALL OFFER TO THE
+5 PROSPECTIVE TENANT THE OPTION FOR POSITIVE RENT REPORTING TO AT
+6 LEAST ONE CONSUMER REPORTING AGENCY.
+7 (3) IF A PROSPECTIVE TENANT DECLINES A COVERED LANDLORD'S
+8 INITIAL POSITIVE RENT REPORTING OFFER PURSUANT TO SUBSECTION (2) OF
+9 THIS SECTION AND ENTERS INTO A LEASE AGREEMENT WITH THE COVERED
+10 LANDLORD, THE COVERED LANDLORD SHALL OFFER TO THE TENANT THE
+11 OPTION FOR POSITIVE RENT REPORTING TO AT LEAST ONE CONSUMER
+12 REPORTING AGENCY ANY TIME THAT THE COVERED LANDLORD AND THE
+13 TENANT RENEW THE LEASE AGREEMENT.
+14 (4) IF A TENANT ACCEPTS A COVERED LANDLORD'S OFFER OF
+15 POSITIVE RENT REPORTING PURSUANT TO SUBSECTION (2) OR (3) OF THIS
+16 SECTION, THE COVERED LANDLORD SHALL SEND THE TENANT'S POSITIVE
+17 RENTAL PAYMENT INFORMATION, INCLUDING THE TENANT'S FULL NAME
+18 AND DATE OF RENT PAYMENT, TO AT LEAST ONE CONSUMER REPORTING
+19 AGENCY EACH TIME THE TENANT PAYS RENT.
+20 (5) A COVERED LANDLORD SHALL NOT:
+21 (a) CHARGE A TENANT FOR POSITIVE RENT REPORTING REQUIRED
+22 BY THIS SECTION; OR
+23 (b) PASS ON THE COST OF POSITIVE RENT REPORTING TO A TENANT
+24 BY RAISING RENT PRICES.
+25 (6) A TENANT THAT HAS OPTED INTO POSITIVE RENT REPORTING
+26 PURSUANT TO SUBSECTION (2) OR (3) OF THIS SECTION MAY OPT OUT AT
+27 ANY TIME BY NOTIFYING THE TENANT'S COVERED LANDLORD. IF A TENANT
+-4- HB26-1196
+
+1 OPTS OUT OF POSITIVE RENT REPORTING, THE COVERED LANDLORD SHALL
+2 NOT TRANSMIT THE TENANT'S RENTAL PAYMENT INFORMATION TO ANY
+3 CONSUMER REPORTING AGENCY.
+4 SECTION 4. Safety clause. The general assembly finds,
+5 determines, and declares that this act is necessary for the immediate
+6 preservation of the public peace, health, or safety or for appropriations for
+7 the support and maintenance of the departments of the state and state
+8 institutions.
+-5- HB26-1196

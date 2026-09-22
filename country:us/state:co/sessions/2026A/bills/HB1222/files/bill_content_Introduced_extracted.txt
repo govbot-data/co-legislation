@@ -1,0 +1,606 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0464.01 Alison Killen x4350 HOUSE BILL 26-1222
+HOUSE SPONSORSHIP
+Garcia and McCormick,
+SENATE SPONSORSHIP
+Kipp,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE MODIFICATION OF TAX EXPENDITURES, AND, IN
+102 CONNECTION THEREWITH, MAKING ADDITIONS TO THE
+103 DEFINITION OF FEDERAL TAXABLE INCOME FOR TAX YEARS
+104 COMMENCING ON OR AFTER JANUARY 1, 2027, AND CREATING
+105 THE FAMILY AFFORDABILITY CREDIT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Recent changes to the federal income tax code significantly
+increased the amount of business-related expenses that may be deducted
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+for federal income tax purposes as follows:
+! Expanded the business interest deduction limitation
+pursuant to section 163 (j) of the internal revenue code
+(IRC) by adding back depreciation, amortization, and
+depletion for calculation of adjusted taxable income and
+determination of the deduction base, resulting in many
+taxpayers, especially capital intensive businesses, being
+able to deduct a larger portion of their business interest
+expense;
+! Expanded the bonus depreciation deduction pursuant to
+section 168 (k) of the IRC by permanently restoring the
+100% first-year bonus depreciation deduction for "qualified
+property" acquired and placed in service on or after January
+20, 2025;
+! Created an elective 100% depreciation deduction in section
+168 (n) of the IRC for "qualified production property",
+which is property largely tied to manufacturing, production,
+or refining facilities and that would not otherwise qualify
+for section 168 (k) bonus depreciation; and
+! Created a new section 174A of the IRC that allows
+taxpayers to immediately deduct domestic research and
+experimental expenditures paid or incurred during the
+taxable year, rather than requiring such costs to be
+capitalized and amortized over time.
+Because the state income tax is imposed on federal taxable
+income, these changes to the definition of federal income also exclude
+these business-related expenses from state income taxation. The bill
+reverses these changes to the federal tax code for purposes of the state
+income tax code and creates a new tax credit using the resulting revenue.
+Sections 2 and 4 of the bill provide, for income tax years
+commencing on or after January 1, 2027, that individual and corporate
+state income taxpayers must add the following to their federal taxable
+income for purposes of applying the state income tax:
+! An amount equal to the federal deduction claimed by the
+taxpayer for business interest pursuant to the limitation in
+section 163 (j) of the IRC to the extent the amount exceeds
+the amount the taxpayer would have been allowed to claim
+before the limitation was changed as described above;
+! An amount equal to the federal deduction claimed by the
+taxpayer for qualified property depreciation pursuant to
+section 168 (k) of the IRC to the extent the amount claimed
+exceeds the amount the taxpayer would have been allowed
+to claim under section 168 (k) prior to the change described
+above; except that, the taxpayer may reduce the amount
+required to be added back by the amount of depreciation
+-2- HB26-1222
+
+the taxpayer would have been allowed to claim for the
+taxable year with respect to the same property pursuant to
+any section other than section 168 (k) of the IRC prior to
+the recent federal changes;
+! An amount equal to the federal deduction claimed by the
+taxpayer for qualified production property depreciation
+pursuant to section 168 (n) of the IRC; except that, the
+taxpayer may reduce the amount required to be added back
+by the amount of depreciation the taxpayer would have
+been allowed to claim for the taxable year with respect to
+the same property pursuant to any section other than
+section 168 (k) of the IRC prior to the recent federal
+change; and
+! An amount equal to the federal deduction claimed by the
+taxpayer for the income tax year for domestic research and
+experimental expenditures pursuant to section 174A of the
+IRC; except that, the taxpayer may reduce the amount
+required to be added back by the amount of the deduction
+the taxpayer would have been allowed to claim for the
+taxable year with respect to the same research and
+experimental expenditures pursuant to section 174 of the
+IRC prior to the recent federal changes.
+Sections 2 and 4 allow taxpayers who are required to make
+additions to their federal taxable income pursuant to the new provisions
+to subtract the amounts of their disallowed federal deductions over time,
+using time periods that reflect how the property or expense would have
+been treated prior to the recent changes to the federal tax code.
+Section 3 creates a new tax credit. The new tax credit allows
+taxpayers to claim a refundable tax credit, in addition to the child tax
+credit and the family affordability tax credit, in an amount determined by
+the amount and age of the taxpayer's children and the taxpayer's income.
+The total amount of the new tax credit is adjusted annually based on
+legislative council staff projections, such that the total amount of the new
+tax credit claimed in an income tax year is projected to be the same as the
+amount of revenue raised in sections 2 and 4.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration.
+3 (1) The general assembly finds and declares that:
+4 (a) The general assembly has an ongoing responsibility to review,
+5 evaluate, and update the state tax code within constitutional limitations
+-3- HB26-1222
+
+1 to ensure that the state code is effective, equitable, and aligned with
+2 Colorado's priorities;
+3 (b) (I) Recent changes in the federal tax code materially expanded
+4 certain business-related deductions, including deductions related to
+5 business interest expense, bonus depreciation, qualified production
+6 property, and domestic research and experimental expenditures (business
+7 deductions).
+8 (II) The business deductions significantly reduce federal taxable
+9 income without regard to a taxpayer's ability to pay or connection to
+10 household economic security.
+11 (c) (I) Colorado state income tax is determined based on the
+12 amount of a person's federal taxable income.
+13 (II) The material expansion of the federal business deductions
+14 modified the computation of federal taxable income and so impacted
+15 Colorado state income tax revenue.
+16 (III) The net impact of the recent federal tax code modification to
+17 the computation of federal taxable income was a reduction in state
+18 income tax revenue.
+19 (IV) The amount and availability of the family affordability tax
+20 credit is determined in part by the amount of state income tax revenue.
+21 (V) Therefore, by modifying the computation of federal taxable
+22 income, the expansion of the business deductions impacted the amount
+23 and availability of the family affordability tax credit.
+24 (VI) At least in part due to the enactment of recent changes to the
+25 federal tax code, the family affordability tax credit will not be available
+26 for the 2026 state income tax year and will be available in a reduced
+27 amount for income tax years 2027 and 2028.
+-4- HB26-1222
+
+1 (d) (I) In establishing the family affordability tax credit, the
+2 general assembly found and declared that:
+3 (A) Colorado families struggle to afford many necessary goods
+4 and services, such as child care, housing, and health care. Eighty-three
+5 percent of Colorado parents worry that their children won't be able to
+6 afford to live in the state in the future.
+7 (B) Targeted tax credits are a proven tool to lift families out of
+8 poverty. Research has shown that families that claim these types of tax
+9 credits, such as the state and federal child tax credit and the state and
+10 federal earned income tax credit, have better health, improved schooling
+11 outcomes, and increased adult earning potential. As the cost of raising
+12 children has increased, a family affordability tax credit is critical for the
+13 well-being of many children and families across Colorado.
+14 (C) According to the Institute on Taxation and Economic Policy,
+15 "[t]o cut child poverty rates by half, the majority of states would require
+16 a base credit value of between three thousand dollars and four thousand
+17 five hundred dollars per child plus a twenty percent boost for young
+18 children". When coupled with the state and federal earned income tax
+19 credit and the state and federal child tax credit, the additional investment
+20 provided by the family affordability tax credit would establish Colorado
+21 as a national leader in equitable economic policy.
+22 (D) Colorado is dealing with rising costs and funding shortfalls in
+23 many areas across our state, and it is necessary to provide tax credits to
+24 the people who need it most in a way that will do the most good.
+25 Establishing the family affordability tax credit is a proven way to do that;
+26 and
+27 (E) By prioritizing the state's lowest-income households,
+-5- HB26-1222
+
+1 expanding the child age eligibility, and including more families, the state
+2 can provide research-backed investments for families. Through
+3 thoughtful and strategic investment, Colorado can cut child poverty nearly
+4 in half.
+5 (II) Therefore, it is a priority of Colorado to provide a tax credit
+6 that targets the same taxpayers that the family affordability tax credit
+7 targeted, to offset the reduction in the family affordability tax credit.
+8 (e) (I) This House Bill 26- constitutes a single
+9 comprehensive tax policy change that better aligns the state tax code with
+10 Colorado's priorities by, at least partially, mitigating the modified federal
+11 income tax code's effects on the family affordability tax credit by creating
+12 a tax credit that targets the same population that the family affordability
+13 tax credit targeted while also requiring taxpayers to add back to their
+14 taxable income only the incremental income amounts attributable to the
+15 recent expansion of the federal business deductions. The expanded
+16 business deductions disproportionately benefit large and capital-intensive
+17 businesses, while providing little or no direct benefit to low- and
+18 moderate-income households, which households are particularly sensitive
+19 to changes in tax policy and public investment. While Colorado's income
+20 tax system is designed to conform to federal law generally, state law also
+21 preserves the general assembly's authority to decouple from federal tax
+22 provisions that undermine state fiscal stability, equity, or policy priorities.
+23 This House Bill 26- preserves the integrity of the state's
+24 commitment to support low-income households, while maintaining
+25 long-standing federal conformity for core income calculations and the
+26 state income tax base.
+27 (II) The income tax credit created in this House Bill 26-
+-6- HB26-1222
+
+1 reduces state tax revenue in an amount equal to or greater than the
+2 amount of state revenue gain attributable to the changes made in this
+3 House Bill 26- ;
+4 (III) Any net district revenue gain resulting from the tax policy
+5 change in this House Bill 26- is incidental and de minimis; and
+6 (IV) Therefore, consistent with the Colorado Supreme Court's
+7 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that a tax
+8 policy change that causes either no net district tax revenue gain or a net
+9 district tax revenue gain that is only incidental and de minimis does not
+10 require voter approval under section 20 (4)(a) of article X of the state
+11 constitution, this House Bill 26- is not a tax policy change that
+12 requires voter approval.
+13 SECTION 2. In Colorado Revised Statutes, 39-22-104, add
+14 (3)(v), (3)(w), (3)(x), (3)(y), and (4)(ff) as follows:
+15 39-22-104. Income tax imposed on individuals, estates, and
+16 trusts - single rate - report - tax preference performance statement
+17 - legislative declaration - definitions - repeal.
+18 (3) There shall be added to the federal taxable income:
+19 (v) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+20 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+21 TAXPAYER FOR THE INCOME TAX YEAR FOR BUSINESS INTEREST PURSUANT
+22 TO SECTION 163 OF THE INTERNAL REVENUE CODE TO THE EXTENT THE
+23 AMOUNT CLAIMED EXCEEDS THE AMOUNT THE TAXPAYER WOULD HAVE
+24 BEEN ALLOWED TO CLAIM PURSUANT TO THE LIMITATION ON BUSINESS
+25 INTEREST SET FORTH IN SECTION 163 (j) OF THE INTERNAL REVENUE CODE
+26 WITHOUT REGARD TO ANY AMENDMENT BY PUB. L. 119-21;
+27 (w) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+-7- HB26-1222
+
+1 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+2 TAXPAYER FOR THE INCOME TAX YEAR FOR QUALIFIED PROPERTY
+3 DEPRECIATION PURSUANT TO SECTION 168 (k) OF THE INTERNAL REVENUE
+4 CODE TO THE EXTENT THE AMOUNT CLAIMED EXCEEDS THE AMOUNT THE
+5 TAXPAYER WOULD HAVE BEEN ALLOWED TO CLAIM PURSUANT TO SECTION
+6 168 (k) OF THE INTERNAL REVENUE CODE WITHOUT REGARD TO ANY
+7 AMENDMENT BY PUB. L. 119-21; EXCEPT THAT, THE TAXPAYER MAY
+8 REDUCE THE AMOUNT OTHERWISE REQUIRED TO BE ADDED TO THE
+9 TAXPAYER'S FEDERAL TAXABLE INCOME PURSUANT TO THIS SUBSECTION
+10 (3)(w) BY THE AMOUNT OF QUALIFIED PROPERTY DEPRECIATION THE
+11 TAXPAYER WOULD HAVE BEEN ALLOWED TO CLAIM FOR THE INCOME TAX
+12 YEAR WITH RESPECT TO THE SAME PROPERTY PURSUANT TO ANY SECTION
+13 OTHER THAN SECTION 168 (k) OF THE INTERNAL REVENUE CODE WITHOUT
+14 REGARD TO ANY AMENDMENT BY PUB. L. 119-21;
+15 (x) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+16 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+17 TAXPAYER FOR THE INCOME TAX YEAR FOR QUALIFIED PRODUCTION
+18 PROPERTY DEPRECIATION PURSUANT TO SECTION 168 (n) OF THE INTERNAL
+19 REVENUE CODE; EXCEPT THAT, THE TAXPAYER MAY REDUCE THE AMOUNT
+20 OTHERWISE REQUIRED TO BE ADDED TO THE TAXPAYER'S FEDERAL
+21 TAXABLE INCOME PURSUANT TO THIS SUBSECTION (3)(x) BY THE AMOUNT
+22 OF QUALIFIED PRODUCTION PROPERTY DEPRECIATION THE TAXPAYER
+23 WOULD HAVE BEEN ALLOWED TO CLAIM FOR THE INCOME TAX YEAR WITH
+24 RESPECT TO THE SAME PROPERTY PURSUANT TO ANY SECTION OTHER THAN
+25 SECTION 168 (k) OF THE INTERNAL REVENUE CODE WITHOUT REGARD TO
+26 ANY AMENDMENT BY PUB. L. 119-21; AND
+27 (y) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+-8- HB26-1222
+
+1 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+2 TAXPAYER FOR THE INCOME TAX YEAR FOR DOMESTIC RESEARCH AND
+3 EXPERIMENTAL EXPENDITURES PURSUANT TO SECTION 174A OF THE
+4 INTERNAL REVENUE CODE; EXCEPT THAT, THE TAXPAYER MAY REDUCE
+5 THE AMOUNT OTHERWISE REQUIRED TO BE ADDED TO THE TAXPAYER'S
+6 FEDERAL TAXABLE INCOME PURSUANT TO THIS SUBSECTION (3)(y) BY THE
+7 AMOUNT OF THE DEDUCTION THE TAXPAYER WOULD HAVE BEEN ALLOWED
+8 TO CLAIM FOR THE INCOME TAX YEAR WITH RESPECT TO THE SAME
+9 RESEARCH AND EXPERIMENTAL EXPENDITURES PURSUANT TO SECTION 174
+10 OF THE INTERNAL REVENUE CODE WITHOUT REGARD TO ANY AMENDMENT
+11 BY PUB. L. 119-21.
+12 (4) There shall be subtracted from federal taxable income:
+13 (ff) (I) FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+14 JANUARY 1, 2028, A TAXPAYER REQUIRED TO MAKE AN ADDITION TO
+15 FEDERAL TAXABLE INCOME PURSUANT TO SUBSECTION (3)(v), (3)(w),
+16 (3)(x), OR (3)(y) OF THIS SECTION, IS ALLOWED TO APPLY THE FOLLOWING
+17 SUBTRACTIONS IN ACCORDANCE WITH THIS SUBSECTION (4)(ff):
+18 (A) AN AMOUNT EQUAL TO ONE-FIFTH OF THE CUMULATIVE
+19 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+20 SUBSECTION (3)(v) OF THIS SECTION FOR EACH OF THE FIVE INCOME TAX
+21 YEARS IMMEDIATELY FOLLOWING THE INCOME TAX YEAR IN WHICH THE
+22 ADDITION WAS REQUIRED PURSUANT TO SUBSECTION (3)(v) OF THIS
+23 SECTION;
+24 (B) AN AMOUNT EQUAL TO ONE-TENTH OF THE CUMULATIVE
+25 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+26 SUBSECTION (3)(w) OF THIS SECTION FOR EACH OF THE TEN INCOME TAX
+27 YEARS IMMEDIATELY FOLLOWING THE INCOME TAX YEAR IN WHICH THE
+-9- HB26-1222
+
+1 ADDITION WAS REQUIRED PURSUANT TO SUBSECTION (3)(w) OF THIS
+2 SECTION;
+3 (C) AN AMOUNT EQUAL TO ONE THIRTY-EIGHTH OF THE
+4 CUMULATIVE AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED
+5 BY SUBSECTION (3)(v) OF THIS SECTION FOR EACH OF THE THIRTY-EIGHT
+6 INCOME TAX YEARS IMMEDIATELY FOLLOWING THE INCOME TAX YEAR IN
+7 WHICH THE ADDITION WAS REQUIRED PURSUANT TO SUBSECTION (3)(v) OF
+8 THIS SECTION; AND
+9 (D) AN AMOUNT EQUAL TO ONE-FOURTH OF THE CUMULATIVE
+10 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+11 SUBSECTION (3)(y) OF THIS SECTION FOR EACH OF THE FOUR INCOME TAX
+12 YEARS IMMEDIATELY FOLLOWING THE INCOME TAX YEAR IN WHICH THE
+13 ADDITION WAS REQUIRED PURSUANT TO SUBSECTION (3)(y) OF THIS
+14 SECTION.
+15 (II) THE TOTAL AMOUNT OF EACH SUBTRACTION ALLOWED
+16 PURSUANT TO SUBSECTIONS (4)(ff)(I), (4)(ff)(II), (4)(ff)(III), AND
+17 (4)(ff)(IV) OF THIS SECTION FOR A TAXPAYER SHALL NOT EXCEED THE
+18 CUMULATIVE AMOUNT ADDED TO FEDERAL TAXABLE INCOME PURSUANT
+19 TO EACH CORRESPONDING ADDITION REQUIRED BY SUBSECTIONS (3)(v),
+20 (3)(w), (3)(x), AND (3)(y) OF THIS SECTION FOR THAT SAME TAXPAYER.
+21 (III) THE SUBTRACTIONS ALLOWED PURSUANT TO THIS SUBSECTION
+22 (4)(ff) APPLY AFTER THE APPLICATION OF THE OTHER SUBTRACTIONS
+23 PROVIDED FOR IN THIS SUBSECTION (4), EXCEPT FOR THE SUBTRACTION
+24 ALLOWED PURSUANT TO SUBSECTION (4)(z) OF THIS SECTION. IF THE
+25 AMOUNT OF THE SUBTRACTIONS ALLOWED UNDER THIS SUBSECTION (4)(ff)
+26 EXCEEDS A TAXPAYER'S FEDERAL TAXABLE INCOME AS CALCULATED
+27 PURSUANT TO THIS SECTION WITHOUT REGARD TO THE SUBTRACTION
+-10- HB26-1222
+
+1 ALLOWED PURSUANT TO SUBSECTION (4)(z) OF THIS SECTION, THE AMOUNT
+2 NOT SUBTRACTED FROM THE TAXPAYER'S FEDERAL TAXABLE INCOME
+3 PURSUANT TO THIS SECTION MAY BE CARRIED FORWARD AND USED AS A
+4 SUBTRACTION FROM THE TAXPAYER'S FEDERAL TAXABLE INCOME AS
+5 CALCULATED PURSUANT TO THIS SECTION WITHOUT REGARD TO THE
+6 SUBTRACTION ALLOWED PURSUANT TO SUBSECTION (4)(z) OF THIS
+7 SECTION IN SUBSEQUENT YEARS FOR A PERIOD NOT TO EXCEED TEN YEARS
+8 AND MUST BE APPLIED FIRST TO THE EARLIEST POSSIBLE INCOME TAX
+9 YEAR. ANY SUBTRACTION REMAINING AFTER THE PERIOD IS NOT
+10 REFUNDED OR CREDITED TO THE QUALIFIED TAXPAYER.
+11 SECTION 3. In Colorado Revised Statutes, add 39-22-131 as
+12 follows:
+13 39-22-131. Family affordability credit - tax preference
+14 performance statement - legislative declaration - definitions.
+15 (1) (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+16 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+17 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+18 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY HEREBY FINDS AND
+19 DECLARES THAT THE PURPOSES OF THE INCOME TAX CREDIT CREATED IN
+20 THIS SECTION ARE THE SAME AS THE FAMILY AFFORDABILITY TAX CREDIT:
+21 TO SUBSTANTIALLY REDUCE CHILD POVERTY, MAKE COLORADO MORE
+22 AFFORDABLE FOR FAMILIES, AND HELP FAMILIES AFFORD EXPENSES
+23 ASSOCIATED WITH HAVING CHILDREN BY PROVIDING TAX RELIEF FOR
+24 CERTAIN INDIVIDUALS.
+25 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR, IN
+26 CONSULTATION WITH THE DEPARTMENT, SHALL MEASURE THE
+27 EFFECTIVENESS OF THE INCOME TAX CREDIT CREATED IN THIS SECTION IN
+-11- HB26-1222
+
+1 COMBINATION WITH THE FAMILY AFFORDABILITY TAX CREDIT AND, IN THE
+2 SAME MANNER AS THE GENERAL ASSEMBLY AND THE STATE AUDITOR
+3 MEASURE THE EFFECTIVENESS OF THE FAMILY AFFORDABILITY TAX CREDIT
+4 BY DETERMINING THE NUMBER OF COLORADO FAMILIES THAT, AFTER
+5 CLAIMING A CREDIT PURSUANT TO THIS SECTION AND THE FAMILY
+6 AFFORDABILITY CREDIT, NO LONGER FALL BELOW THE FEDERAL POVERTY
+7 LEVEL IN THE TAX YEAR IN WHICH THEY CLAIMED THE CREDITS.
+8 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+9 REQUIRES:
+10 (a) "CREDIT" MEANS THE CREDIT AGAINST INCOME TAX CREATED
+11 IN THIS SECTION.
+12 (b) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+13 (c) "ELIGIBLE CHILD" MEANS A QUALIFYING CHILD, AS DEFINED IN
+14 SECTION 152 (c) OF THE FEDERAL "INTERNAL REVENUE CODE OF 1986";
+15 EXCEPT THAT THE AGE REQUIREMENTS ARE SET FORTH IN SUBSECTIONS
+16 (3)(a)(I), (3)(a)(II), (3)(b)(I), AND (3)(b)(II) OF THIS SECTION.
+17 (d) "FEDERAL POVERTY LEVEL" MEANS THE POVERTY LINE THAT
+18 IS REQUIRED TO BE UPDATED ANNUALLY WITHIN THE FEDERAL POVERTY
+19 GUIDELINES ADOPTED BY THE UNITED STATES DEPARTMENT OF HEALTH
+20 AND HUMAN SERVICES PURSUANT TO 42 U.S.C. SEC. 9902 (2).
+21 (e) "INFLATION" MEANS THE ANNUAL PERCENTAGE CHANGE IN THE
+22 UNITED STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS
+23 CONSUMER PRICE INDEX FOR DENVER-AURORA-LAKEWOOD FOR ALL
+24 ITEMS PAID BY ALL URBAN CONSUMERS, OR ITS APPLICABLE SUCCESSOR
+25 INDEX.
+26 (3) (a) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY
+27 SECTION 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT
+-12- HB26-1222
+
+1 ALLOWED BY SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING
+2 ON OR AFTER JANUARY 1, 2027, A RESIDENT INDIVIDUAL WHO FILES A
+3 SINGLE RETURN IS ALLOWED A CREDIT AGAINST THE INCOME TAXES
+4 IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+5 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+6 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+7 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+8 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+9 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+10 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+11 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+12 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(a)(I) OF THIS
+13 SECTION.
+14 (b) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY SECTION
+15 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT ALLOWED BY
+16 SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+17 JANUARY 1, 2027, TWO RESIDENT INDIVIDUALS WHO FILE A JOINT RETURN
+18 ARE ALLOWED A FAMILY AFFORDABILITY TAX CREDIT AGAINST THE
+19 INCOME TAXES DUE IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+20 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+21 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+22 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+23 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+24 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+25 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+26 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+27 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(b)(I) OF THIS
+-13- HB26-1222
+
+1 SECTION.
+2 (4) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, FOR
+3 INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, THE
+4 CREDIT AMOUNTS IN:
+5 (I) SUBSECTION (3)(a)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+6 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+7 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+8 DOLLARS BY WHICH A RESIDENT INDIVIDUAL'S ADJUSTED GROSS INCOME
+9 EXCEEDS FIFTEEN THOUSAND DOLLARS; AND
+10 (II) SUBSECTION (3)(b)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+11 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+12 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+13 DOLLARS BY WHICH TWO RESIDENT INDIVIDUALS' ADJUSTED GROSS
+14 INCOME EXCEEDS TWENTY-FIVE THOUSAND DOLLARS.
+15 (b) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+16 1, 2028, THE DEPARTMENT SHALL ADJUST THE FEDERAL ADJUSTED GROSS
+17 INCOME AMOUNTS SET FORTH IN THIS SUBSECTION (4) TO REFLECT
+18 INFLATION FOR EACH INCOME TAX YEAR IN WHICH THE CREDIT DESCRIBED
+19 IN THIS SECTION IS ALLOWED IF CUMULATIVE INFLATION SINCE THE LAST
+20 ADJUSTMENT, WHEN APPLIED TO THE CURRENT LIMITS, RESULTS IN AN
+21 INCREASE OF AT LEAST ONE THOUSAND DOLLARS WHEN THE ADJUSTED
+22 LIMITS ARE ROUNDED TO THE NEAREST ONE THOUSAND DOLLARS.
+23 (5) BEGINNING WITH THE QUARTERLY DECEMBER REVENUE
+24 FORECAST THAT LEGISLATIVE COUNCIL STAFF PRESENTS IN DECEMBER OF
+25 2027, AND FOR EACH DECEMBER REVENUE FORECAST THEREAFTER, AS
+26 PART OF THE QUARTERLY DECEMBER REVENUE FORECAST, LEGISLATIVE
+27 COUNCIL STAFF SHALL DETERMINE:
+-14- HB26-1222
+
+1 (a) FOR THE CURRENT INCOME TAX YEAR, A PROJECTION OF THE
+2 NET AMOUNT OF REVENUE GAIN DIRECTLY ATTRIBUTABLE TO THE
+3 CHANGES MADE IN THIS HOUSE BILL 26- , NOTWITHSTANDING THE
+4 TAX CREDIT CREATED IN THIS SECTION;
+5 (b) A DOLLAR AMOUNT OF THE CREDIT AVAILABLE PURSUANT TO
+6 SUBSECTIONS (3)(a)(I) AND (3)(b)(I) OF THIS SECTION, WHICH DOLLAR
+7 AMOUNT MUST BE THE SAME FOR BOTH SUBSECTIONS (3)(a)(I) AND
+8 (3)(b)(I) OF THIS SECTION, SUCH THAT THE STAFF OF THE LEGISLATIVE
+9 COUNCIL PROJECTS, FOR THE CURRENT STATE INCOME TAX YEAR, THAT
+10 THE TOTAL DOLLAR AMOUNT OF CREDITS CLAIMED PURSUANT TO
+11 SUBSECTION (3) WILL EQUAL THE DOLLAR AMOUNT THAT STAFF OF THE
+12 LEGISLATIVE COUNCIL DETERMINE PURSUANT TO SUBSECTION (5)(a) OF
+13 THIS SECTION.
+14 (6) NO LATER THAN TWO WEEKS BEFORE THE QUARTERLY
+15 DECEMBER REVENUE FORECAST THAT LEGISLATIVE COUNCIL STAFF
+16 PRESENTS IN DECEMBER OF 2028, AND EACH DECEMBER REVENUE
+17 FORECAST THEREAFTER, THE DEPARTMENT SHALL DELIVER A REPORT TO
+18 THE STAFF OF THE LEGISLATIVE COUNCIL THAT DESCRIBES THE REVENUE
+19 GAIN DIRECTLY ATTRIBUTABLE TO THE CHANGES MADE IN THIS HOUSE
+20 BILL 26- FOR THE PREVIOUS INCOME TAX YEAR, NOTWITHSTANDING
+21 THE TAX CREDIT CREATED IN THIS SECTION.
+22 (7) IN THE CASE OF A PART-YEAR RESIDENT, THE CREDIT ALLOWED
+23 UNDER THIS SECTION IS APPORTIONED IN THE RATIO DETERMINED UNDER
+24 SECTION 39-22-110 (1).
+25 (8) THE CREDIT ALLOWED UNDER THIS SECTION IS NOT
+26 CONSIDERED TO BE INCOME OR RESOURCES FOR THE PURPOSE OF
+27 DETERMINING ELIGIBILITY FOR THE PAYMENT OF PUBLIC ASSISTANCE
+-15- HB26-1222
+
+1 BENEFITS AND MEDICAL ASSISTANCE BENEFITS AUTHORIZED UNDER STATE
+2 LAW OR FOR A PAYMENT MADE UNDER ANY OTHER PUBLICLY FUNDED
+3 PROGRAM.
+4 (9) THE AMOUNT OF THE CREDIT ALLOWED UNDER THIS SECTION
+5 THAT EXCEEDS THE RESIDENT INDIVIDUAL'S INCOME TAXES DUE IS
+6 REFUNDED TO THE INDIVIDUAL.
+7 (10) THE DEPARTMENT IS AUTHORIZED AND ENCOURAGED TO
+8 DEVELOP A MEANS OF REFUNDING THE CREDITS ALLOWED BY THIS SECTION
+9 TO RESIDENT INDIVIDUALS WHO QUALIFY FOR THE CREDITS IN TWELVE
+10 EQUAL MONTHLY REFUNDS RATHER THAN ANNUALLY.
+11 (11) NOTWITHSTANDING SECTION 39-21-304 (4), THE CREDIT DOES
+12 NOT REPEAL AFTER A SPECIFIED PERIOD OF TAX YEARS.
+13 SECTION 4. In Colorado Revised Statutes, 39-22-304, add
+14 (2)(m), (2)(n), (2)(o), (2)(p), and (3)(u) as follows:
+15 39-22-304. Net income of corporation - legislative declaration
+16 - definitions - repeal.
+17 (2) There shall be added to federal taxable income:
+18 (m) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+19 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+20 TAXPAYER FOR THE INCOME TAX YEAR FOR BUSINESS INTEREST PURSUANT
+21 TO SECTION 163 OF THE INTERNAL REVENUE CODE TO THE EXTENT THE
+22 AMOUNT CLAIMED EXCEEDS THE AMOUNT THE TAXPAYER WOULD HAVE
+23 BEEN ALLOWED TO CLAIM PURSUANT TO THE LIMITATION ON BUSINESS
+24 INTEREST SET FORTH IN SECTION 163 (j) OF THE INTERNAL REVENUE CODE
+25 WITHOUT REGARD TO ANY AMENDMENT BY PUB. L. 119-21;
+26 (n) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+27 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+-16- HB26-1222
+
+1 TAXPAYER FOR THE INCOME TAX YEAR FOR QUALIFIED PROPERTY
+2 DEPRECIATION PURSUANT TO SECTION 168 (k) OF THE INTERNAL REVENUE
+3 CODE TO THE EXTENT THE AMOUNT CLAIMED EXCEEDS THE AMOUNT THE
+4 TAXPAYER WOULD HAVE BEEN ALLOWED TO CLAIM PURSUANT TO SECTION
+5 168 (k) OF THE INTERNAL REVENUE CODE WITHOUT REGARD TO ANY
+6 AMENDMENT BY PUB. L. 119-21; EXCEPT THAT, THE TAXPAYER MAY
+7 REDUCE THE AMOUNT OTHERWISE REQUIRED TO BE ADDED TO THE
+8 TAXPAYER'S FEDERAL TAXABLE INCOME PURSUANT TO THIS SUBSECTION
+9 (2)(n) BY THE AMOUNT OF QUALIFIED PROPERTY DEPRECIATION THE
+10 TAXPAYER WOULD HAVE BEEN ALLOWED TO CLAIM FOR THE STATE
+11 INCOME TAX YEAR WITH RESPECT TO THE SAME PROPERTY PURSUANT TO
+12 ANY SECTION OTHER THAN SECTION 168 (k) OF THE INTERNAL REVENUE
+13 CODE WITHOUT REGARD TO ANY AMENDMENT BY PUB. L. 119-21;
+14 (o) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+15 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+16 TAXPAYER FOR THE INCOME TAX YEAR FOR QUALIFIED PRODUCTION
+17 PROPERTY DEPRECIATION PURSUANT TO SECTION 168 (n) OF THE INTERNAL
+18 REVENUE CODE; EXCEPT THAT, THE TAXPAYER MAY REDUCE THE AMOUNT
+19 OTHERWISE REQUIRED TO BE ADDED TO THE TAXPAYER'S FEDERAL
+20 TAXABLE INCOME PURSUANT TO THIS SUBSECTION (2)(o) BY THE AMOUNT
+21 OF QUALIFIED PRODUCTION PROPERTY DEPRECIATION THE TAXPAYER
+22 WOULD HAVE BEEN ALLOWED TO CLAIM FOR THE STATE INCOME TAX YEAR
+23 WITH RESPECT TO THE SAME PROPERTY PURSUANT TO ANY SECTION OTHER
+24 THAN SECTION 168 (k) OF THE INTERNAL REVENUE CODE WITHOUT REGARD
+25 TO ANY AMENDMENT BY PUB. L. 119-21;
+26 (p) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+27 1, 2027, AN AMOUNT EQUAL TO THE FEDERAL DEDUCTION CLAIMED BY THE
+-17- HB26-1222
+
+1 TAXPAYER FOR THE INCOME TAX YEAR FOR DOMESTIC RESEARCH AND
+2 EXPERIMENTAL EXPENDITURES PURSUANT TO SECTION 174A OF THE
+3 INTERNAL REVENUE CODE; EXCEPT THAT, THE TAXPAYER MAY REDUCE
+4 THE AMOUNT OTHERWISE REQUIRED TO BE ADDED TO THE TAXPAYER'S
+5 FEDERAL TAXABLE INCOME PURSUANT TO THIS SUBSECTION (2)(p) BY THE
+6 AMOUNT OF THE DEDUCTION THE TAXPAYER WOULD HAVE BEEN ALLOWED
+7 TO CLAIM FOR THE STATE INCOME TAX YEAR WITH RESPECT TO THE SAME
+8 RESEARCH AND EXPERIMENTAL EXPENDITURES PURSUANT TO SECTION 174
+9 OF THE INTERNAL REVENUE CODE WITHOUT REGARD TO ANY AMENDMENT
+10 BY PUB. L. 119-21.
+11 (3) There shall be subtracted from federal taxable income:
+12 (u) (I) FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+13 JANUARY 1, 2028, A TAXPAYER REQUIRED TO MAKE AN ADDITION TO
+14 FEDERAL TAXABLE INCOME PURSUANT TO SUBSECTION (2)(m), (2)(n),
+15 (2)(o), OR (2)(p) OF THIS SECTION, IS ALLOWED TO APPLY THE FOLLOWING
+16 SUBTRACTIONS IN ACCORDANCE WITH THIS SUBSECTION (3)(u):
+17 (A) AN AMOUNT EQUAL TO ONE-FIFTH OF THE CUMULATIVE
+18 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+19 SUBSECTION (2)(m) OF THIS SECTION FOR EACH OF THE FIVE STATE INCOME
+20 TAX YEARS IMMEDIATELY FOLLOWING THE STATE INCOME TAX YEAR IN
+21 WHICH THE ADDITION WAS REQUIRED;
+22 (B) AN AMOUNT EQUAL TO ONE-TENTH OF THE CUMULATIVE
+23 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+24 SUBSECTION (2)(n) OF THIS SECTION FOR EACH OF THE TEN TAXABLE
+25 YEARS IMMEDIATELY FOLLOWING THE TAXABLE YEAR IN WHICH THE
+26 ADDITION WAS REQUIRED;
+27 (C) AN AMOUNT EQUAL TO ONE THIRTY-EIGHTH OF THE
+-18- HB26-1222
+
+1 CUMULATIVE AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED
+2 BY SUBSECTION (2)(o) OF THIS SECTION FOR EACH OF THE THIRTY-EIGHT
+3 STATE INCOME TAX YEARS IMMEDIATELY FOLLOWING THE STATE INCOME
+4 TAX YEAR IN WHICH THE ADDITION WAS REQUIRED; AND
+5 (D) AN AMOUNT EQUAL TO ONE-FOURTH OF THE CUMULATIVE
+6 AMOUNT ADDED TO FEDERAL TAXABLE INCOME AS REQUIRED BY
+7 SUBSECTION (2)(p) OF THIS SECTION FOR EACH OF THE FOUR STATE INCOME
+8 TAX YEARS IMMEDIATELY FOLLOWING THE STATE INCOME TAX YEAR IN
+9 WHICH THE ADDITION WAS REQUIRED.
+10 (II) THE TOTAL AMOUNT OF EACH SUBTRACTION ALLOWED
+11 PURSUANT TO SUBSECTIONS (3)(u)(I), (3)(u)(II), (3)(u)(III), AND
+12 (3)(u)(IV) OF THIS SECTION SHALL NOT EXCEED THE CUMULATIVE AMOUNT
+13 ADDED TO FEDERAL TAXABLE INCOME PURSUANT TO EACH
+14 CORRESPONDING ADDITION REQUIRED BY SUBSECTIONS (2)(m), (2)(n),
+15 (2)(o), AND (2)(p) OF THIS SECTION.
+16 (III) THE SUBTRACTIONS ALLOWED IN THIS SUBSECTION (3)(u)
+17 APPLY AFTER THE APPLICATION OF THE OTHER SUBTRACTIONS PROVIDED
+18 FOR IN THIS SUBSECTION (3), EXCEPT FOR THE SUBTRACTION ALLOWED
+19 PURSUANT TO SUBSECTION (3)(p) OF THIS SECTION. IF THE AMOUNT OF THE
+20 SUBTRACTIONS ALLOWED UNDER THIS SUBSECTION (3)(u) EXCEEDS A
+21 TAXPAYER'S FEDERAL TAXABLE INCOME AS CALCULATED PURSUANT TO
+22 THIS SECTION WITHOUT REGARD TO THE SUBTRACTION ALLOWED
+23 PURSUANT TO SUBSECTION (3)(p) OF THIS SECTION, THE AMOUNT NOT
+24 SUBTRACTED FROM THE TAXPAYER'S FEDERAL TAXABLE INCOME
+25 PURSUANT TO THIS SECTION MAY BE CARRIED FORWARD AND USED AS A
+26 SUBTRACTION FROM THE TAXPAYER'S FEDERAL TAXABLE INCOME AS
+27 CALCULATED PURSUANT TO THIS SECTION WITHOUT REGARD TO THE
+-19- HB26-1222
+
+1 SUBTRACTION ALLOWED PURSUANT TO SUBSECTION (3)(p) OF THIS
+2 SECTION IN SUBSEQUENT YEARS FOR A PERIOD NOT TO EXCEED TEN YEARS
+3 AND MUST BE APPLIED FIRST TO THE EARLIEST POSSIBLE INCOME TAX
+4 YEAR. ANY SUBTRACTION REMAINING AFTER THE PERIOD IS NOT
+5 REFUNDED OR CREDITED TO THE QUALIFIED TAXPAYER.
+6 SECTION 5. Act subject to petition - effective date. This act
+7 takes effect at 12:01 a.m. on the day following the expiration of the
+8 ninety-day period after final adjournment of the general assembly (August
+9 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+10 referendum petition is filed pursuant to section 1 (3) of article V of the
+11 state constitution against this act or an item, section, or part of this act
+12 within such period, then the act, item, section, or part will not take effect
+13 unless approved by the people at the general election to be held in
+14 November 2026 and, in such case, will take effect on the date of the
+15 official declaration of the vote thereon by the governor.
+-20- HB26-1222

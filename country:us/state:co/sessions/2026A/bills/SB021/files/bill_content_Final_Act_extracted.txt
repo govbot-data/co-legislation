@@ -1,0 +1,316 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+SENATE BILL 26-021
+BY SENATOR(S) Mullica and Simpson, Hinrichsen, Exum, Benavidez,
+Catlin, Daugherty, Jodeh, Kipp, Lindstedt, Marchman, Roberts, Snyder,
+Wallace, Coleman;
+also REPRESENTATIVE(S) Barron and Paschal, Stewart R., Lindsay,
+Jackson, Bacon, Boesenecker, Duran, Lieder, McCormick, Nguyen,
+Phillips, Smith, Story, McCluskie.
+CONCERNING AUTHORIZING THE CLEAN FLEET ENTERPRISE TO ENCOURAGE
+THE REPLACEMENT OF HIGH-EMITTING TRUCKS WITH LOW-EMITTING
+TRUCKS IN MOTOR VEHICLE FLEETS.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, amend 25-7.5-102 as
+follows:
+25-7.5-102. Definitions.
+As used in this article 7.5, unless the context otherwise requires:
+(1) "AGING HEAVY-DUTY DIESEL TRUCK" MEANS A HEAVY-DUTY
+DIESEL TRUCK WITH A MODEL YEAR NO LATER THAN 2009 THAT IS
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+REGISTERED, OPERABLE, AND CAPABLE OF INDEPENDENT ROADWAY
+OPERATION AT THE TIME OF APPLICATION.
+(1) (2) "Battery electric motor vehicle" means a motor vehicle that
+is powered exclusively by a rechargeable battery pack that can be recharged
+by being plugged into an external source of electricity and that has no
+secondary source of propulsion.
+(2) (3) "Board" means the governing board of the enterprise.
+(3) (4) "Car share ride" means a prearranged ride for which the rider
+agrees, at the time the rider requests the ride through a digital network, to
+be transported with another rider who has separately requested a
+prearranged ride regardless of whether or not another rider is actually
+transported with the rider.
+(4) (5) "Commission" means the air quality control commission
+created in section 25-7-104.
+(5) (6) "Compressed natural gas motor vehicle" means a vehicle that
+is powered by an engine fueled by compressed natural gas.
+(7) "DECOMMISSION" MEANS RENDERING INOPERABLE BOTH THE
+ENGINE AND THE CHASSIS OF AN AGING HEAVY-DUTY DIESEL TRUCK BY
+CUTTING A THREE-INCH HOLE THROUGH THE WALL OF THE ENGINE BLOCK
+AND CUTTING THE CHASSIS RAILS IN HALF OR BY SIMILARLY EFFECTIVE
+MEANS.
+(6) (8) "Department" means the department of public health and
+environment created in section 24-1-119 (1).
+(7) (9) "Disproportionately impacted community" has the meaning
+set forth in section 24-4-109 (2)(b)(II).
+(8) (10) "Electric motor vehicle" means a battery electric motor
+vehicle, a hydrogen fuel cell motor vehicle, or a plug-in hybrid electric
+motor vehicle.
+(9) (11) "Enterprise" means the clean fleet enterprise created in
+section 25-7.5-103 (1)(a)(I).
+PAGE 2-SENATE BILL 26-021
+
+(10) (12) "Fund" means the clean fleet enterprise fund created in
+section 25-7.5-103 (5).
+(13) "HEAVY-DUTY DIESEL TRUCK" MEANS A HEAVY-DUTY MOTOR
+VEHICLE THAT:
+(a) IS POWERED BY A DIESEL-FUELED INTERNAL COMBUSTION
+ENGINE;
+(b) USES COMPRESSION IGNITION TO START THE DIESEL-FUELED
+INTERNAL COMBUSTION ENGINE;
+(c) IS BASED IN THE STATE; AND
+(d) IS PART OF A MOTOR VEHICLE FLEET WITH IN-STATE ANNUAL
+MILES DRIVEN OF AT LEAST SEVENTY-FIVE PERCENT OF THE MOTOR VEHICLE
+FLEET'S TOTAL ANNUAL MILES DRIVEN.
+(11) (14) "Heavy-duty motor vehicle" means a motor vehicle that
+has a gross vehicle weight rating, as defined in section 42-2-402 (6), of
+greater than twenty-six thousand pounds.
+(12) (15) "Hydrogen fuel cell motor vehicle" means a motor vehicle
+that is powered by electricity produced from a fuel cell that uses hydrogen
+gas as fuel.
+(13) (16) "Inflation" means the average annual percentage change
+in the United States department of labor, bureau of labor statistics,
+consumer price index for Denver-Aurora-Lakewood for all items and all
+urban consumers, or its applicable predecessor or successor index, for the
+five years ending on the last December 31 before a state fiscal year for
+which an inflation adjustment to be made to the clean fleet per ride fee
+imposed by section 25-7.5-103 (7) or the clean fleet retail delivery fee
+imposed by section 25-7.5-103 (8) begins.
+(14) (17) "Medium-duty motor vehicle" means a motor vehicle that
+has a gross vehicle weight rating, as defined in section 42-2-402 (6), of
+more than ten thousand pounds and not more than twenty-six thousand
+pounds.
+PAGE 3-SENATE BILL 26-021
+
+(15) (18) "Motor vehicle" has the meaning set forth in section
+42-1-102 (58). The term does not include a personal delivery device.
+(16) (19) "Motor vehicle fleet" means a group of motor vehicles that
+is owned or operated:
+(a) By a governmental entity for a public purpose including but not
+limited to public school transportation or law enforcement; or
+(b) By a business entity for a business if:
+(I) The group of motor vehicles is composed primarily of
+heavy-duty motor vehicles, medium-duty motor vehicles, or refrigerated
+trailer units; or
+(II) The group of motor vehicles is owned or operated by a company
+that rents motor vehicles in the fleet to transportation network company
+drivers for use in providing transportation network company services or is
+owned and operated directly, or indirectly through independent contractors
+who own or lease individual motor vehicles in the group, by a transportation
+network company or by a retailer for the purpose of making retail deliveries.
+(20) "NEW HEAVY-DUTY TRUCK" MEANS A HEAVY-DUTY MOTOR
+VEHICLE THAT:
+(a) IS A MODEL YEAR OF 2018 OR LATER;
+(b) IS BASED IN THE STATE; AND
+(c) IS PART OF A MOTOR VEHICLE FLEET WITH IN-STATE ANNUAL
+MILES DRIVEN OF AT LEAST SEVENTY-FIVE PERCENT OF THE MOTOR VEHICLE
+FLEET'S TOTAL ANNUAL MILES DRIVEN.
+(17) (21) "Personal delivery device" means an autonomously
+operated robot that is:
+(a) Designed and manufactured for the purpose of transporting
+tangible personal property primarily on sidewalks, crosswalks, and other
+public rights-of-way that are typically used by pedestrians;
+PAGE 4-SENATE BILL 26-021
+
+(b) Weighs no more than five hundred fifty pounds, excluding any
+tangible personal property being transported; and
+(c) Operates at speeds of less than ten miles per hour when on
+sidewalks, crosswalks, and other public rights-of-way that are typically used
+by pedestrians.
+(18) (22) "Plug-in hybrid electric motor vehicle" means a motor
+vehicle that is powered by both a rechargeable battery pack that can be
+recharged by being plugged into an external source of electricity and a
+secondary source of propulsion such as an internal combustion engine.
+(19) (23) "Prearranged ride" has the same meaning as set forth in
+section 40-10.1-602 (2).
+(20) (24) "Recovered methane" means any of the following if the air
+pollution control division determines them to provide a net reduction in
+greenhouse gas emissions:
+(a) Biomethane;
+(b) Methane derived from:
+(I) Municipal solid waste;
+(II) Biomass pyrolysis or enzymatic biomass; or
+(III) Wastewater treatment; and
+(c) Coal mine methane, as defined in section 40-2-124 (1)(a)(II).
+(21) (25) "Retail delivery" has the same meaning as set forth in
+section 43-4-218 (2)(e).
+(22) (26) "Retailer" has the same meaning as set forth in section
+39-26-102 (8).
+(24) (27) "Rider" has the same meaning as set forth in section
+40-10.1-602 (5).
+PAGE 5-SENATE BILL 26-021
+
+(25) (28) "Tangible personal property" has the same meaning as set
+forth in section 39-26-102 (15).
+(26) (29) "Transportation network company" has the same meaning
+as set forth in section 40-10.1-602 (3).
+(27) (30) "Transportation network company driver" has the same
+meaning as set forth in section 40-10.1-602 (4).
+(28) (31) "Transportation network company services" has the same
+meaning as set forth in section 40-10.1-602 (6).
+(29) (32) "Zero emissions motor vehicle" means a battery electric
+motor vehicle or a hydrogen fuel cell motor vehicle.
+SECTION 2. In Colorado Revised Statutes, 25-7.5-103, amend (3)
+introductory portion, (6)(i), (9)(a), (9)(b)(I), (9)(b)(XI), and (11)(a)(IV); and
+add (9)(b)(XIII) and (9)(b)(XIV) as follows:
+25-7.5-103. Clean fleet enterprise - creation - board - powers
+and duties - fees - fund - repeal.
+(3) The business purpose of the enterprise is to incentivize and
+support the use of electric motor vehicles, including motor vehicles that
+originally were powered exclusively by internal combustion engines but
+have been converted into electric motor vehicles, and, to the extent
+temporarily necessitated by the limitations of current electric motor vehicle
+technology for certain fleet uses, compressed natural gas motor vehicles that
+are fueled by recovered methane, AND REFRIGERATED TRANSPORT UNITS
+POWERED BY ZERO EMISSION TECHNOLOGY, by businesses and governmental
+entities that own or operate fleets of motor vehicles, including fleets
+composed of personal motor vehicles owned or leased by individual
+contractors who provide prearranged rides for transportation network
+companies or deliver goods for a third-party delivery service. To allow the
+enterprise to accomplish this purpose and fully exercise its powers and
+duties through the board, the enterprise may:
+(6) In addition to any other powers and duties specified in this
+section, the board has the following general powers and duties:
+PAGE 6-SENATE BILL 26-021
+
+(i) To have and exercise all rights and powers necessary or
+incidental to or implied from the specific powers and duties granted by this
+section WITHOUT REGARD TO THE "PROCUREMENT CODE", ARTICLES 101
+THROUGH 112 OF TITLE 24.
+(9) (a) In furtherance of its business purpose, and subject to the
+requirements set forth in this subsection (9), the enterprise is authorized to
+incentivize, support, and accelerate the adoption of electric motor vehicles
+in motor vehicle fleets AND THE REPLACEMENT OF AGING HEAVY-DUTY
+DIESEL TRUCKS WITH NEW HEAVY-DUTY TRUCKS.
+(b) The enterprise may provide funding or financing through grant
+programs, rebate programs, revolving loan funds, or such other strategies
+as the board finds effective:
+(I) To help public and private owners and operators of motor vehicle
+fleets finance electric motor vehicle acquisitions to reduce the up-front costs
+of acquiring electric motor vehicles through December 31, 2026, AND to
+help public and private owners and operators of motor vehicle fleets finance
+acquisitions of compressed natural gas motor vehicles that are trucks if at
+least ninety percent of the fuel for the trucks will be recovered methane,
+and, on and after January 1, 2027, for so long as the enterprise determines
+that electric motor vehicles are not yet practically available or do not meet
+the operational requirements such as cargo carrying capacity and driving
+range for specific categories of trucks, to help public and private owners
+and operators of motor vehicle fleets finance acquisitions of compressed
+natural gas motor vehicles that are trucks if at least ninety percent of the
+fuel for the trucks will be recovered methane;
+(XI) To help transportation network companies provide incentives
+for transportation network company drivers to provide prearranged rides in
+electric motor vehicles; and
+(XIII) TO HELP PUBLIC AND PRIVATE OWNERS AND OPERATORS OF
+MOTOR VEHICLE FLEETS FINANCE THE REPLACEMENT OF AGING HEAVY-DUTY
+DIESEL TRUCKS WITH NEW HEAVY-DUTY TRUCKS TO REDUCE THE UP-FRONT
+COSTS OF ACQUIRING NEW HEAVY-DUTY TRUCKS THROUGH DECEMBER 31,
+2031, SUBJECT TO THE FOLLOWING:
+(A) THE PURCHASER OF A NEW HEAVY-DUTY TRUCK MUST
+PAGE 7-SENATE BILL 26-021
+
+SURRENDER AN AGING HEAVY-DUTY DIESEL TRUCK TO THE SELLER OF THE
+NEW HEAVY-DUTY TRUCK AT THE TIME OF THE TRANSACTION;
+(B) THE SELLER OF THE NEW HEAVY-DUTY TRUCK MUST
+DECOMMISSION THE AGING HEAVY-DUTY DIESEL TRUCK;
+(C) THE SELLER MUST BE AN AUTHORIZED DEALER OF NEW
+HEAVY-DUTY TRUCKS WHO MUST CERTIFY THAT THE NEW HEAVY-DUTY
+TRUCK MEETS ALL STATE AND FEDERAL EMISSIONS AND SAFETY STANDARDS
+FOR ITS MODEL YEAR AND THAT THE DEALER WILL DECOMMISSION THE
+AGING HEAVY-DUTY DIESEL TRUCK THAT THE PURCHASER IS REQUIRED TO
+SURRENDER TO THE SELLER;
+(D) THE ENTERPRISE SHALL NOT EXPEND MORE THAN TWENTY
+PERCENT OF THE FUND'S INCOME DURING A STATE FISCAL YEAR TO REPLACE
+AGING HEAVY-DUTY DIESEL TRUCKS WITH NEW HEAVY-DUTY TRUCKS;
+(E) THE ENTERPRISE SHALL PRIORITIZE APPLICATIONS PURSUANT TO
+THIS SUBSECTION (9)(b)(XIII) FROM BUSINESSES THAT ARE PRIVATELY
+OWNED, INDEPENDENTLY OWNED, OR HAVE LIMITED ACCESS TO CAPITAL;
+(F) THE ENTERPRISE SHALL NOT ACCEPT AN APPLICATION PURSUANT
+TO THIS SUBSECTION (9)(b)(XIII) FROM AN OWNER OR OPERATOR OF A
+MOTOR VEHICLE FLEET THAT OWNS, LEASES, OR OPERATES MORE THAN FIFTY
+HEAVY-DUTY MOTOR VEHICLES OR FROM A BUSINESS ENTITY WITH ANNUAL
+GROSS REVENUE EXCEEDING ONE HUNDRED MILLION DOLLARS;
+(G) THE ENTERPRISE SHALL PRIORITIZE THE REPLACEMENT OF ANY
+AGING HEAVY-DUTY DIESEL TRUCK THAT HAS A MODEL YEAR OF NO LATER
+THAN 2006; AND
+(H) THIS SUBSECTION (9)(b)(XIII) IS REPEALED EFFECTIVE JULY 1,
+2032; AND
+(XIV) TO SEEK TO ENSURE THAT ALL PROJECTS FUNDED BY THE
+COLORADO CLEAN FLEET ENTERPRISE ACHIEVE MEASURABLE RESULTS AND
+OUTCOMES.
+(11) (a) To ensure transparency and accountability, the enterprise
+shall:
+PAGE 8-SENATE BILL 26-021
+
+(IV) Prepare an annual report regarding its ALL COLORADO CLEAN
+FLEET activities and funding, INCLUDING ESTIMATED POLLUTION REDUCTION
+BENEFITS, and present the report to the transportation commission created
+in section 43-1-106 (1) and to the transportation and local government and
+energy and environment committees of the house of representatives and the
+transportation and energy committee of the senate, or any successor
+committees. The enterprise shall also post the annual report on its website.
+Notwithstanding the requirement in section 24-1-136 (11)(a)(I), the
+requirement to submit the report required in this subsection (11)(a)(IV) to
+the specified legislative committees continues indefinitely.
+SECTION 3. In Colorado Revised Statutes, 40-2-138, amend
+(1)(i)(II) as follows:
+40-2-138. Projects for the production of clean hydrogen -
+proceeding - hydrogen hub projects - rules - reports - definitions.
+(1) As used in this section, unless the context otherwise requires:
+(i) "Qualified use" means the use of clean hydrogen in the state for:
+(II) The operation of a heavy-duty motor vehicle, as defined in
+section 25-7.5-102 (11) SECTION 25-7.5-102 (14); and
+SECTION 4. In Colorado Revised Statutes, 43-4-1203, amend
+(8)(b)(IV) as follows:
+43-4-1203. Clean transit enterprise - creation - board - powers
+and duties - rules - fees - fund.
+(8) (b) The enterprise may make grants, loans, or rebates to fund:
+(IV) The replacement of motor vehicles used by public transit
+providers that are not electric motor vehicles by electric motor vehicles, or,
+if electric motor vehicles are not practically available, by compressed
+natural gas motor vehicles, as defined in section 25-7.5-102 (5) SECTION
+25-7.5-102 (6), if at least ninety percent of the fuel for the compressed
+natural gas motor vehicles will be recovered methane, as defined in section
+25-7.5-102 (20) SECTION 25-7.5-102 (24).
+PAGE 9-SENATE BILL 26-021
+
+SECTION 5. Act subject to petition - effective date. This act
+takes effect at 12:01 a.m. on the day following the expiration of the
+ninety-day period after final adjournment of the general assembly (August
+12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+referendum petition is filed pursuant to section 1 (3) of article V of the state
+constitution against this act or an item, section, or part of this act within
+such period, then the act, item, section, or part will not take effect unless
+approved by the people at the general election to be held in November 2026
+PAGE 10-SENATE BILL 26-021
+
+and, in such case, will take effect on the date of the official declaration of
+the vote thereon by the governor.
+____________________________ ____________________________
+James Rashad Coleman, Sr. Julie McCluskie
+PRESIDENT OF SPEAKER OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+____________________________ ____________________________
+Esther van Mourik Vanessa Reilly
+SECRETARY OF CHIEF CLERK OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 11-SENATE BILL 26-021

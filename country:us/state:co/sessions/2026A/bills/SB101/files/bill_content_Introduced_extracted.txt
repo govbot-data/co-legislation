@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0285.01 Clare Haffner x6137 SENATE BILL 26-101
+SENATE SPONSORSHIP
+Pelton B.,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ASSIST LOCAL GOVERNMENTS IN
+102 COMPLYING WITH LANDFILL METHANE EMISSION REDUCTION
+103 REGULATIONS ADOPTED BY THE AIR QUALITY CONTROL
+104 COMMISSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the air quality control commission
+(commission) in the department of public health and environment is
+directed to adopt emission control regulations for significant sources of
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+air pollutants. A solid waste landfill (landfill) is a significant source of air
+pollutants such as methane.
+The bill:
+! Allows a county to utilize money from the community
+impact cash fund, air quality enterprise cash fund, and local
+government mineral impact fund for the purpose of
+complying with landfill methane emission reduction
+requirements adopted by the commission;
+! Requires the air quality enterprise to research best practices
+for reducing methane emissions from landfills;
+! Requires the commission to consider debt service
+availability when developing schedules of compliance for
+landfills;
+! Requires the commission to establish a process for an
+owner or operator of a landfill to request a waiver from
+methane emission reduction requirements;
+! States that a landfill that reaches or exceeds applicable
+methane emission limits on or after the effective date of the
+bill is not subject to methane emission reduction
+requirements until 2 years after the landfill reaches or
+exceeds applicable methane emission limits; and
+! Exempts a local government from paying a noncompliance
+penalty for failure to comply with requirements to reduce
+methane emissions from landfills if the local government
+demonstrates that the failure to comply is due solely to a
+financial inability to comply.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 25-7-129, add (3)(g)
+3 as follows:
+4 25-7-129. Disposition of fines - community impact cash fund
+5 - repeal.
+6 (3) (g) THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT
+7 MAY EXPEND MONEY FROM THE FUND TO PROVIDE GRANTS TO COUNTIES
+8 FOR SOLID WASTE LANDFILL METHANE EMISSION REDUCTION PROJECTS
+9 CONDUCTED IN ACCORDANCE WITH RULES ADOPTED BY THE COMMISSION
+10 UNDER THIS ARTICLE 7.
+-2- SB26-101
+
+1 SECTION 2. In Colorado Revised Statutes, 25-7-103.5, amend
+2 (1) introductory portion, (1)(j)(IV), (3)(c)(VIII), and (4)(d); repeal
+3 (1)(j)(V); and add (1)(j)(VI) and (1)(j)(VII) as follows:
+4 25-7-103.5. Air quality enterprise - legislative declaration -
+5 fund - definitions - gifts, grants, or donations - rules - report - repeal.
+6 (1) Legislative declaration. The general assembly hereby finds
+7 and declares that:
+8 (j) The air quality enterprise provides business services when, in
+9 exchange for payment of fees, it provides:
+10 (IV) Opportunities for trusted and cost-effective mitigation project
+11 development; and
+12 (V) Additional business services to fee payers as may be provided
+13 by law;
+14 (VI) FINANCING AND RESEARCH TO ASSIST COUNTIES IN REDUCING
+15 METHANE EMISSIONS FROM SOLID WASTE LANDFILLS; AND
+16 (VII) ADDITIONAL BUSINESS SERVICES TO FEE PAYERS AS MAY BE
+17 PROVIDED BY LAW;
+18 (3) Enterprise.
+19 (c) In addition to any other powers and duties specified in this
+20 section, the enterprise's powers and duties are to:
+21 (VIII) Receive payments to finance specific projects, including
+22 community-based monitoring or emission mitigation projects in the state
+23 or in a specified area of the state, SUCH AS SOLID WASTE LANDFILL
+24 METHANE EMISSION REDUCTION PROJECTS, as directed by this article 7 or
+25 any program that the commission establishes by rule pursuant to this
+26 article 7.
+27 (4) Fund - enterprise fees and other revenue.
+-3- SB26-101
+
+1 (d) (I) The enterprise shall dedicate a meaningful portion of its
+2 annual revenues toward competitive grants to conduct highly qualified,
+3 peer-reviewed research related to research priorities identified by the
+4 board. Before finalizing a draft research product, the board shall post the
+5 draft on the board's website and allow a period of time for public
+6 comment on the draft. The board shall publish the research products and
+7 make them and all data collected pursuant to enterprise-funded research
+8 publicly available.
+9 (II) (A) THE BOARD SHALL CONDUCT RESEARCH RELATED TO BEST
+10 PRACTICES FOR COUNTIES TO ACHIEVE REDUCTION OF METHANE EMISSIONS
+11 FROM SOLID WASTE LANDFILLS. ON OR BEFORE DECEMBER 31, 2028, THE
+12 BOARD SHALL PUBLISH A REPORT CONTAINING THE RESEARCH CONDUCTED
+13 PURSUANT TO THIS SUBSECTION (4)(d)(II)(A), INCLUDING BEST PRACTICES
+14 FOR REDUCING METHANE EMISSIONS FROM LANDFILLS AND ANY
+15 APPLICABLE FUNDING OPPORTUNITIES OR RECOMMENDED STRATEGIES
+16 THAT WILL OFFSET COSTS FOR A COUNTY TO REDUCE METHANE EMISSIONS
+17 FROM SOLID WASTE LANDFILLS.
+18 (B) THIS SUBSECTION (4)(d)(II) IS REPEALED, EFFECTIVE
+19 DECEMBER 31, 2030.
+20 SECTION 3. In Colorado Revised Statutes, 34-63-102, add
+21 (5.4)(c.5) as follows:
+22 34-63-102. Creation of mineral leasing fund - distribution -
+23 advisory committee - local government permanent fund created -
+24 transfer of money - definitions.
+25 (5.4) Except as otherwise provided in subsection (5.5) of this
+26 section, on and after July 1, 2008, all money other than bonus payments,
+27 as defined in subsection (5.3)(b) of this section, credited to the mineral
+-4- SB26-101
+
+1 leasing fund created in subsection (1)(a)(II) of this section must be
+2 distributed on a quarterly basis for quarters beginning on July 1, October
+3 1, January 1, and April 1 of each state fiscal year as follows:
+4 (c.5) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE
+5 CONTRARY, A COUNTY MAY USE MONEY DISTRIBUTED BY THE EXECUTIVE
+6 DIRECTOR OF THE DEPARTMENT OF LOCAL AFFAIRS PURSUANT TO
+7 SUBSECTIONS (5.4)(b) AND (5.4)(c) OF THIS SECTION FOR THE PURPOSE OF
+8 COMPLYING WITH REQUIREMENTS ESTABLISHED BY RULE BY THE AIR
+9 QUALITY CONTROL COMMISSION, CREATED IN SECTION 25-7-104, TO
+10 REDUCE METHANE EMISSIONS FROM SOLID WASTE LANDFILLS.
+11 SECTION 4. In Colorado Revised Statutes, 25-7-114.4, add (6)
+12 as follows:
+13 25-7-114.4. Permit applications - contents - rules - definitions.
+14 (6) (a) THE DIVISION SHALL CONSIDER CURRENT DEBT SERVICE ON
+15 SOLID WASTE LANDFILLS WHEN DEVELOPING SCHEDULES OF COMPLIANCE
+16 FOR METHANE EMISSION REDUCTION REQUIREMENTS.
+17 (b) A SCHEDULE OF COMPLIANCE THAT THE DIVISION DEVELOPS
+18 FOR METHANE EMISSION LIMITS IN LOCAL GOVERNMENT PERMITS MUST,
+19 CONSISTENT WITH STATE AND FEDERAL LAW, CONSIDER THE LOCAL
+20 GOVERNMENT'S FINANCIAL CAPABILITY TO REPAY EXISTING DEBT ON
+21 LANDFILLS OR TO FUND LANDFILL UPGRADES BEFORE REQUIRING NEW
+22 LANDFILL UPGRADES. TO THE EXTENT ALLOWABLE UNDER FEDERAL LAW,
+23 THE DIVISION MAY ESTABLISH COMPLIANCE SCHEDULES IN A LOCAL
+24 GOVERNMENT PERMIT FOR A NEW METHANE EMISSION LIMIT IN EXCESS OF
+25 TWENTY YEARS.
+26 (c) THE COMMISSION SHALL ESTABLISH BY RULE A PROCESS FOR A
+27 LOCAL GOVERNMENT TO REQUEST A WAIVER FROM SOLID WASTE LANDFILL
+-5- SB26-101
+
+1 METHANE EMISSION REDUCTION REQUIREMENTS IF THE LOCAL
+2 GOVERNMENT DEMONSTRATES A DIFFERENT APPROACH TO ACHIEVING
+3 RELEVANT METHANE EMISSION REDUCTION GOALS.
+4 (d) IF A LOCAL GOVERNMENT'S SOLID WASTE LANDFILL, ON OR
+5 AFTER THE EFFECTIVE DATE OF THIS SUBSECTION (6), REACHES OR
+6 EXCEEDS APPLICABLE METHANE EMISSION LIMITS ESTABLISHED BY THE
+7 COMMISSION, THE LOCAL GOVERNMENT IS NOT SUBJECT TO THE METHANE
+8 EMISSION REDUCTION REQUIREMENTS ESTABLISHED BY THE COMMISSION
+9 UNTIL TWO YEARS AFTER THE LOCAL GOVERNMENT'S SOLID WASTE
+10 LANDFILL REACHES OR EXCEEDS APPLICABLE METHANE EMISSION LIMITS.
+11 SECTION 5. In Colorado Revised Statutes, 25-7-115, add (14)
+12 as follows:
+13 25-7-115. Enforcement - civil actions - definitions - reporting.
+14 (14) A LOCAL GOVERNMENT IS EXEMPT FROM THE DUTY TO PAY A
+15 NONCOMPLIANCE PENALTY PURSUANT TO THIS SECTION FOR FAILURE TO
+16 COMPLY WITH COMMISSION RULES REGARDING METHANE EMISSION
+17 REDUCTION REQUIREMENTS FOR SOLID WASTE LANDFILLS IF THE LOCAL
+18 GOVERNMENT DEMONSTRATES THAT THE FAILURE TO COMPLY IS DUE
+19 SOLELY TO A FINANCIAL INABILITY TO COMPLY.
+20 SECTION 6. Act subject to petition - effective date -
+21 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+22 the expiration of the ninety-day period after final adjournment of the
+23 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+24 2026); except that, if a referendum petition is filed pursuant to section 1
+25 (3) of article V of the state constitution against this act or an item, section,
+26 or part of this act within such period, then the act, item, section, or part
+27 will not take effect unless approved by the people at the general election
+-6- SB26-101
+
+1 to be held in November 2026 and, in such case, will take effect on the
+2 date of the official declaration of the vote thereon by the governor.
+3 (2) This act applies to conduct occurring on or after the applicable
+4 effective date of this act.
+-7- SB26-101

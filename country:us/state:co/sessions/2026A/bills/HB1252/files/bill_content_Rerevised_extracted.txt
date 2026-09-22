@@ -1,0 +1,672 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0688.01 Owen Hatch x2698 HOUSE BILL 26-1252
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO STATE ENTITIES RESPONSIBLE FOR
+102 RESPONDING TO EMERGENCY SITUATIONS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill moves the auxiliary communications unit from the office
+of emergency management to the office of public safety communications.
+The state recovery task force is created within the office of
+emergency management and is tasked with coordinating disaster recovery
+efforts within the state, among other duties.
+Information related to disaster survivors is exempt from public
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,4
+yaM
+6202
+,1
+yaM
+6202
+,71
+hcraM
+6202
+,61
+hcraM
+HOUSE SPONSORSHIP
+Bradfield and Mauro, Boesenecker, Clifford, Duran, Marshall, McCluskie
+SENATE SPONSORSHIP
+Marchman and Carson, Coleman
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+disclosure.
+Certain duties and responsibilities related to the state's preparation
+for, and response to, security threats are transferred from the office of
+preparedness to the office of emergency management.
+The bill repeals the requirement for the state controller to report to
+the joint budget committee about the expenditure of federal funds for
+costs associated with a disaster.
+Application requirements for the Colorado nonprofit security grant
+program are relaxed during exigent circumstances.
+The composition of several state advisory boards related to
+homeland security and cybersecurity are changed.
+The office of preparedness is changed to the office of grants
+management, and its duties are clarified.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-33.5-1604, add
+3 (7) as follows:
+4 24-33.5-1604. Duties and powers of the division - rules.
+5 (7) THE DIVISION SHALL SUPPORT HOMELAND SECURITY
+6 INITIATIVES BY:
+7 (a) CREATING AND IMPLEMENTING A STATE PREPAREDNESS GOAL
+8 AND SYSTEM TO IMPROVE STATE CAPABILITIES TO PREVENT, MITIGATE THE
+9 EFFECTS OF, RESPOND TO, AND RECOVER FROM THREATS TO COLORADO;
+10 (b) IMPROVING COMMUNITY PREPAREDNESS AND CITIZEN
+11 INVOLVEMENT THROUGH EXTERNAL OUTREACH;
+12 (c) IDENTIFYING AND REDUCING DUPLICATIVE HOMELAND
+13 SECURITY-RELATED TRAINING NEEDS AND EFFORTS;
+14 (d) COORDINATING HOMELAND SECURITY-RELATED TRAINING
+15 AMONG TRIBAL, STATE, LOCAL, AND REGIONAL AGENCIES, AND CREATING
+16 A SINGLE TRAINING AND EXERCISE CALENDAR, WITH IDENTIFIED POINTS OF
+17 CONTACT, THAT IS ACCESSIBLE VIA THE INTERNET;
+18 (e) COORDINATING AND UPDATING HOMELAND SECURITY AND
+-2- 1252
+
+1 CRITICAL INFRASTRUCTURE PROTECTION PLANS;
+2 (f) ADMINISTERING STATE AND FEDERAL GRANTS, PROVIDING
+3 TECHNICAL ASSISTANCE TO GRANTEES, AND COORDINATING FUNDING
+4 OPPORTUNITIES WITH OTHER STATE AGENCIES;
+5 (g) ADMINISTERING STATE GRANTS PROVIDED TO STATE AGENCIES
+6 AND POLITICAL SUBDIVISIONS FROM THE DISASTER EMERGENCY FUND, AS
+7 DESCRIBED IN SECTION 24-33.5-706;
+8 (h) COORDINATING AND UPDATING HOMELAND SECURITY PLANS;
+9 (i) COORDINATING ALL-HAZARD PUBLIC RISK COMMUNICATION
+10 PRODUCTS; AND
+11 (j) DETERMINING NATIONAL INCIDENT MANAGEMENT SYSTEM
+12 PROFESSIONAL DEVELOPMENT AND EDUCATIONAL REQUIREMENTS.
+13 SECTION 2. In Colorado Revised Statutes, add 24-33.5-705.1
+14 as follows:
+15 24-33.5-705.1. Coordination of recovery operations - office
+16 duties - state recovery task force - created - duties - information
+17 sharing.
+18 (1) (a) THE OFFICE OF EMERGENCY MANAGEMENT IS DESIGNATED
+19 AS THE PRIMARY STATE AGENCY RESPONSIBLE FOR THE COORDINATION OF
+20 DISASTER RECOVERY, PLANNING, TRAINING, EXERCISE, AND INTEGRATION
+21 OF THE STATE RECOVERY ANNEX WITHIN THE STATE EMERGENCY
+22 OPERATIONS PLAN.
+23 (b) THE OFFICE SHALL MAINTAIN AND LEAD THE STATE RECOVERY
+24 TASK FORCE CREATED IN SUBSECTION (2) OF THIS SECTION AND THE
+25 STATE'S RECOVERY FRAMEWORK.
+26 (2) THE STATE RECOVERY TASK FORCE IS CREATED WITHIN THE
+27 OFFICE OF EMERGENCY MANAGEMENT. THE TASK FORCE SERVES AS THE
+-3- 1252
+
+1 LEAD CLEARINGHOUSE FOR RECOVERY OPERATIONS AMONG STATE
+2 DEPARTMENTS AND AGENCIES. THE DIRECTOR OF THE OFFICE SHALL
+3 APPOINT THE MEMBERS OF THE TASK FORCE.
+4 (3) THE STATE RECOVERY TASK FORCE, WHEN ACTIVATED BY THE
+5 DIRECTOR OF THE OFFICE OF EMERGENCY MANAGEMENT, SHALL, IN
+6 CONJUNCTION WITH STATE DEPARTMENTS AND THE GOVERNOR'S OFFICE:
+7 (a) IDENTIFY PERSONNEL TO FILL AND ACTIVATE RECOVERY
+8 SUPPORT FUNCTIONS IN SUPPORT OF RECOVERY OPERATIONS;
+9 (b) COMPILE DAMAGE ASSESSMENT INFORMATION; AND
+10 (c) PROVIDE RECOMMENDATIONS TO THE GOVERNOR'S DISASTER
+11 POLICY GROUP REGARDING THE STATE'S RECOVERY STRATEGY.
+12 (4) THE OFFICE OF EMERGENCY MANAGEMENT SHALL DEVELOP
+13 AND MAINTAIN THE SURVIVOR PORTAL CREATED IN SECTION 24-33.5-1106
+14 (4) AND FACILITATE THE COORDINATION OF STATE DEPARTMENTS
+15 ADMINISTERING RECOVERY PROGRAMS.
+16 (5) (a) A PERSON PROVIDING PERSONALLY IDENTIFIABLE
+17 INFORMATION ABOUT DISASTER-IMPACTED INDIVIDUALS TO A LOCAL,
+18 INTERJURISDICTIONAL, OR STATE EMERGENCY MANAGEMENT AGENCY MAY
+19 REQUEST, IN WRITING, THAT THE INFORMATION ONLY BE DISSEMINATED TO
+20 A PERSON CONNECTED WITH OR INVOLVED IN THE PROVISION OF DISASTER
+21 RELIEF AND MAY FURTHER REQUEST THAT THE INFORMATION NOT BE
+22 RELEASED TO ANY OTHER PERSON WITHOUT THE EXPRESS WRITTEN
+23 CONSENT OF THE PERSON PROVIDING THE PERSONALLY IDENTIFIABLE
+24 INFORMATION.
+25 (b) UPON A REQUEST DESCRIBED IN SUBSECTION (5)(a) OF THIS
+26 SECTION, A LOCAL, INTERJURISDICTIONAL, OR STATE EMERGENCY
+27 MANAGEMENT AGENCY SHALL NOT DISSEMINATE THE INFORMATION
+-4- 1252
+
+1 WITHOUT EXPRESS WRITTEN CONSENT OF THE PERSON OR ENTITY
+2 PROVIDING THE INFORMATION.
+3 SECTION 3. In Colorado Revised Statutes, 24-33.5-1106,
+4 amend (4) as follows:
+5 24-33.5-1106. Grants to individuals.
+6 (4) (a) The office of emergency management may SHALL, in
+7 collaboration with the department of local affairs created in section
+8 24-1-125 and the Colorado energy office created in section 24-38.5-101,
+9 implement and maintain a disaster survivor portal for disaster survivors
+10 to apply for approved state disaster individual assistance. The portal may
+11 provide disaster survivors with a coordinated method to access
+12 appropriate benefits, including federal benefit programs, approved state
+13 disaster individual assistance benefits, the disaster resilience rebuilding
+14 program created in 24-32-134, and the sustainable rebuilding program
+15 created in 24-38.5-115. The portal may ensure equitable access to
+16 program information including communications in the relevant languages
+17 of the community and equitable hearing, sight, and physical accessibility.
+18 Local governments and philanthropic entities may operate their own
+19 disaster survivor portals in coordination with the office of emergency
+20 management.
+21 (b) INFORMATION CONCERNING DISASTER SURVIVORS IN THE
+22 PORTAL CREATED IN SUBSECTION (4)(a) OF THIS SECTION IS EXEMPT FROM
+23 DISCLOSURE REQUIRED PURSUANT TO THE "COLORADO OPEN RECORDS
+24 ACT", PART 2 OF ARTICLE 72 OF THIS TITLE 24.
+25 (c) THE OFFICE OF EMERGENCY MANAGEMENT MAY SHARE
+26 AGGREGATED DISASTER RECOVERY DATA, INCLUDING PORTAL DATA,
+27 MAPPING DATA, PROGRAM PERFORMANCE METRICS, AND FEDERAL
+-5- 1252
+
+1 DISASTER PROGRAM DATA WITH LOCAL AND STATE AGENCIES, VOLUNTEER
+2 ORGANIZATIONS, AND FEDERAL PARTNERS TO FACILITATE COORDINATED
+3 RECOVERY PLANNING AND RESOURCE ALLOCATION. THE OFFICE OF
+4 EMERGENCY MANAGEMENT MAY SHARE AGGREGATED DISASTER
+5 RECOVERY DATA, INCLUDING PORTAL DATA, MAPPING DATA, PROGRAM
+6 PERFORMANCE METRICS, AND FEDERAL DISASTER PROGRAM DATA WITH
+7 THE PRESS AND THE PUBLIC.
+8 SECTION 4. In Colorado Revised Statutes, 24-72-202, amend
+9 (6)(b)(XVII) and (6)(b)(XVIII); and add (6)(b)(XIX) as follows:
+10 24-72-202. Definitions.
+11 As used in this part 2, unless the context otherwise requires:
+12 (6) (b) "Public records" does not include:
+13 (XVII) A complaint of harassment or discrimination, as described
+14 in section 22-1-143, that is unsubstantiated and all records related to the
+15 unsubstantiated complaint, including records of an investigation into the
+16 complaint; or
+17 (XVIII) Jail assessments conducted pursuant to section 30-10-530
+18 (5)(d) or 24-31-118; OR
+19 (XIX) DISASTER SURVIVOR INFORMATION STORED IN THE
+20 SURVIVOR PORTAL CREATED IN SECTION 24-33.5-1106 (4).
+21
+22 SECTION 5. In Colorado Revised Statutes, add with amended
+23 and relocated provisions 24-33.5-2502.5 as follows:
+24 24-33.5-2502.5. [Formerly 24-33.5-705.5] Auxiliary
+25 communications unit - powers and duties of unit and office of public
+26 safety communications regarding auxiliary communications -
+27 definitions.
+-6- 1252
+
+1 (1) As used in this section, UNLESS THE CONTEXT OTHERWISE
+2 REQUIRES:
+3 (a) "Auxiliary emergency communicator" means an amateur radio
+4 operator licensed by the United States federal communications
+5 commission pursuant to 47 CFR 97 who meets the training requirements
+6 and is credentialed by the office. An auxiliary emergency communicator
+7 meeting the requirements of this paragraph (a) SUBSECTION (1)(a) serves
+8 as an authorized A QUALIFIED volunteer of the office DIVISION for
+9 purposes of article 10 of this title TITLE 24.
+10 (b) "Division" means the division of homeland security and
+11 emergency management created in section 24-33.5-1603.
+12 (c) "Office" means the office of emergency management created
+13 in section 24-33.5-705 (1).
+14 (d) (b) "Unit" means the auxiliary emergency communications
+15 unit of the office.
+16 (c) "UNIT MEMBER" MEANS AN AUXILIARY EMERGENCY
+17 COMMUNICATOR OR OTHER UNIT LEADERSHIP OR SUPPORT STAFF.
+18 (2) The auxiliary emergency communications unit is hereby
+19 established CREATED within the office. The unit is in the charge of the
+20 director of the office.
+21 (3) The unit has the following powers, and duties, AND
+22 PROTECTIONS:
+23 (a) Establish programs for the training and credentialing of
+24 auxiliary emergency communicators across the state, which training and
+25 credentialing is declared to be a matter of statewide concern. In
+26 connection with such training and credentialing, the use of the term
+27 "auxiliary emergency communications" within the state is limited to
+-7- 1252
+
+1 individuals, entities, associations, and units of local government that have
+2 been certified by the director of the office as meeting the training and
+3 credentialing requirements established by the department for auxiliary
+4 emergency communicators.
+5 (b) Assume all of the duties and possess all of the authority and
+6 responsibilities of the radio amateur civil emergency service, referred to
+7 in this section as "RACES", 47 CFR 97.407, within the state. Any
+8 reference to RACES in any federal law or regulation, and any federal,
+9 state, or local government emergency or disaster plans is to be interpreted
+10 as referring to the unit, and the unit is the successor entity to any state
+11 RACES organization referenced in any such law, regulation, or plan. No
+12 other individual, entity, association, or government agency may represent
+13 that it is a state RACES organization.
+14 (c) Ensure that auxiliary emergency communicators are authorized
+15 volunteers AUTHORIZE UNIT MEMBERS AS QUALIFIED VOLUNTEERS.
+16 QUALIFIED VOLUNTEERS ARE entitled to the protections and benefits of
+17 part 8 of this article 33.5 when assisting with the installation,
+18 maintenance, or demolition of communication facilities of any county
+19 sheriff, local government, local emergency planning committee, local
+20 emergency management agency, or state agency PARTICIPATING IN
+21 DIVISION ACTIVITIES, whether or not such THE activities occur during a
+22 disaster; except that sections 24-33.5-825 and 24-33.5-826 do not apply
+23 to a training exercise, drill, or class without the express prior consent and
+24 approval of the volunteer's employer. THE UNIT MAY USE OR OPERATE
+25 STATE VEHICLES WHILE PARTICIPATING IN DIVISION ACTIVITIES.
+26 (4) In connection with the powers and duties of the unit as
+27 specified in this section, the director of the office may:
+-8- 1252
+
+1 (a) Develop and issue a credential that is recognized throughout
+2 the state for the purpose of granting access to government facilities,
+3 emergency operations centers, incident command posts, and disaster
+4 scenes;
+5 (b) Conduct criminal background investigations on candidates for
+6 credentialing as auxiliary emergency communicators UNIT MEMBERS in
+7 accordance with the security needs of the department. When the results
+8 of a fingerprint-based criminal history record check of an applicant
+9 performed pursuant to this section reveal a record of arrest without a
+10 disposition, the DIVISION director shall require that applicant to submit to
+11 a name-based judicial record check, as defined in section 22-2-119.3
+12 (6)(d). The unit DIVISION DIRECTOR may deny credentialing to any
+13 candidate based upon the results of a background check.
+14 (c) Reimburse auxiliary emergency communicators UNIT
+15 MEMBERS for necessary travel and other reasonable expenses incurred in
+16 the performance of their duties; including projects, training, drills,
+17 exercises, and disaster response activities;
+18 (d) Expend state moneys MONEY, including, but not limited to,
+19 grant moneys MONEY or moneys MONEY otherwise budgeted to the office,
+20 to enhance the communication infrastructure as necessary to supplement
+21 or reinforce the existing amateur radio systems and networks within the
+22 state for the purposes of maximizing disaster preparedness and response.
+23 SECTION 6. Repeal of relocated provisions in this act. In
+24 Colorado Revised Statutes, repeal 24-33.5-705.5.
+25 SECTION 7. In Colorado Revised Statutes, repeal 24-33.5-717.
+26 SECTION 8. In Colorado Revised Statutes, 24-75-226, amend
+27 (5)(e) as follows:
+-9- 1252
+
+1 24-75-226. "American Rescue Plan Act of 2021" cash fund -
+2 creation - recipient funds - limitations - reporting - appropriations -
+3 reduction in general fund appropriations - report - legislative
+4 declaration - definitions - repeal.
+5 (5) (e) The office shall provide the joint budget committee with
+6 a yearly performance report that consists of the information that the state
+7 controller provides the secretary under subsection (5)(a) of this section
+8 and any other information, including program evaluation information, that
+9 the office determines to be relevant. Money in the fund or a recipient fund
+10 is not subject to the reporting requirements set forth in section
+11 24-33.5-717.
+12 SECTION 9. In Colorado Revised Statutes, amend
+13 24-33.5-806.5 as follows:
+14 24-33.5-806.5. Auxiliary communications unit of the office of
+15 public safety communications - qualified volunteers - protections and
+16 benefits.
+17 Notwithstanding any other provision of this part 8, any A
+18 credentialed member AND A UNIT MEMBER, AUTHORIZED PURSUANT TO
+19 AND IN ACCORDANCE WITH SECTION 24-33.5-705.5 (3)(c), of the auxiliary
+20 emergency communications unit of the office of emergency management
+21 PUBLIC SAFETY COMMUNICATIONS created by section 24-33.5-705 (1) is
+22 a PURSUANT TO SECTION 24-33.5-2502 (1) ARE qualified volunteer
+23 VOLUNTEERS for purposes of this part 8 and article 10 of this title TITLE
+24 24 and is ARE eligible to receive the protections and benefits specified in
+25 this part 8 and in article 10 of this title TITLE 24.
+26 SECTION 10. In Colorado Revised Statutes, repeal
+27 24-33.5-1606.5.
+-10- 1252
+
+1 SECTION 11. In Colorado Revised Statutes, 24-1-128.6, amend
+2 (2)(h)(II)(B); and repeal (2)(h)(II)(C) as follows:
+3 24-1-128.6. Department of public safety - creation.
+4 (2) The department of public safety consists of the following
+5 divisions:
+6 (h) (II) The division of homeland security and emergency
+7 management includes the following agencies, which are type 2 entities,
+8 as defined in section 24-1-105, and which exercise their powers and
+9 perform their duties and functions under the department of public safety:
+10 (B) The office of prevention and security, created in section
+11 24-33.5-1606; AND
+12 (C) The office of preparedness, created in section 24-33.5-1606.5;
+13 and
+14 SECTION 12. In Colorado Revised Statutes, 24-33.5-1507,
+15 amend (1) as follows:
+16 24-33.5-1507. Application for grants - disbursements from
+17 SARA Title III fund - regulations.
+18 (1) The office of preparedness in the division of homeland
+19 security and emergency management, created in section 24-33.5-1606.5
+20 and referred to in this subsection (1) as the "office", "DIVISION", shall
+21 administer all grants from the fund. The office DIVISION shall accept
+22 applications from local emergency planning committees and from first
+23 responder organizations who have coordinated their request with their
+24 local emergency planning committee and shall direct those applications
+25 to the subcommittee, which shall evaluate the applications and shall
+26 recommend to the office DIVISION which grants should be made for the
+27 purposes of emergency planning and emergency response, including
+-11- 1252
+
+1 training and planning programs and training and planning equipment as
+2 needed to carry out the purposes of this part 15.
+3 SECTION 13. In Colorado Revised Statutes, 24-33.5-1603,
+4 amend (2)(b); and repeal (2)(c) as follows:
+5 24-33.5-1603. Division of homeland security and emergency
+6 management - creation - director.
+7 (2) The division includes the following agencies, which are type
+8 2 entities, as defined in section 24-1-105, and which exercise their powers
+9 and perform their duties and functions under the department:
+10 (b) The office of prevention and security, created in section
+11 24-33.5-1606; AND
+12 (c) The office of preparedness, created in section 24-33.5-1606.5;
+13 and
+14 SECTION 14. In Colorado Revised Statutes, 22-32-109.1,
+15 amend (4) introductory portion and (4)(l) as follows:
+16 22-32-109.1. Board of education - specific powers and duties
+17 - safe school plan - conduct and discipline code - safe school reporting
+18 requirements - school response framework - school resource officers
+19 - definitions.
+20 (4) School response framework - school safety, readiness, and
+21 incident management plan. Each board of education shall establish a
+22 school response framework that shall consist CONSISTING of policies
+23 described in this subsection (4). By satisfying the requirements of this
+24 subsection (4), a school or school district shall be IS in compliance with
+25 the national incident management system, referred to in this subsection
+26 (4) as "NIMS", developed by the federal emergency management agency.
+27 At a minimum, the policies shall require:
+-12- 1252
+
+1 (l) School district employee safety and incident management
+2 training, including provisions stating that completion of any courses
+3 identified by the department of public safety pursuant to section
+4 24-33.5-1606.5 (3), C.R.S., SECTION 24-33.5-1604 (7), as related to
+5 NIMS, count toward the professional development requirements of a
+6 person licensed pursuant to article 60.5 of this title;
+7 SECTION 15. In Colorado Revised Statutes, 23-60-202, amend
+8 (1)(c)(II) as follows:
+9 23-60-202. Duties of board with respect to state system.
+10 (1) With respect to the community and technical colleges within
+11 the state system, the board has the authority, responsibility, rights,
+12 privileges, powers, and duties customarily exercised by the governing
+13 boards of institutions of higher education, including the following:
+14 (c) (II) To the extent space is available, the board may allow
+15 persons licensed pursuant to article 60.5 of title 22 to take, without
+16 charge, at community and technical colleges, courses identified by the
+17 department of public safety pursuant to section 24-33.5-1606.5 (4)
+18 SECTION 24-33.5-1604 (7), as related to the national incident management
+19 system developed by the federal emergency management agency.
+20 SECTION 16. In Colorado Revised Statutes, 24-33.5-1614,
+21 amend (2)(a) introductory portion, (2)(a)(VI), (2)(a)(VIII) introductory
+22 portion, (2)(a)(VIII)(A), (2)(a)(VIII)(K), (2)(a)(VIII)(N), (3.3)(e)
+23 introductory portion, (3.3)(e)(II) introductory portion, and (3.3)(e)(II)(A);
+24 and repeal (2)(a)(VIII)(M); and add (2)(a)(VIII)(O) as follows:
+25 24-33.5-1614. Homeland security and all-hazards senior
+26 advisory committee - composition - duties - emergency planning
+27 subcommittee - public safety communications subcommittee -
+-13- 1252
+
+1 creation - definitions - repeal.
+2 (2) (a) The advisory committee consists of at least the director of
+3 the division, who is a nonvoting member, and the following twenty-one
+4 voting members:
+5 (VI) One member with specialized knowledge in emergency
+6 communications systems CYBERSECURITY who represents the governor's
+7 office of information technology created in section 24-37.5-103, to be
+8 appointed by the chief information officer;
+9 (VIII) The following fourteen members, to be appointed by the
+10 executive director in consultation with the adjutant general of the
+11 department of military and veterans affairs and the executive directors of
+12 the department of local affairs and the department of public health and
+13 environment:
+14 (A) A representative of Colorado counties, incorporated, or its
+15 successor entity A STATEWIDE ORGANIZATION OF COLORADO COUNTIES;
+16 (K) A regional state homeland security coordinator, representing
+17 an all-hazards emergency management region established by executive
+18 order of the governor A MEMBER OF THE COLORADO CYBERSECURITY
+19 COUNCIL CREATED PURSUANT TO SECTION 24-33.5-1902;
+20
+21 (M) A representative from the state all-hazards advisory
+22 committee formed under the department, or any successor entity; and
+23 (N) A representative of the Denver EACH COLORADO urban area
+24 security initiative, as recognized by the United States department of
+25 homeland security; AND
+26 (O) AN EMERGENCY MANAGER FROM A RURAL COUNTY, AS
+27 DEFINED BY THE STATE DEMOGRAPHER.
+-14- 1252
+
+1 (3.3) (e) The subcommittee consists of at least the following
+2 twenty-three members:
+3 (II) Five THE FOLLOWING members representing state government:
+4 as follows:
+5 (A) The chief information officer of the governor's office of
+6 information technology DIRECTOR OF THE OFFICE OF PUBLIC SAFETY
+7 COMMUNICATIONS, CREATED PURSUANT TO SECTION 24-33.5-2502, or his
+8 or her THE DIRECTOR'S designee;
+9 SECTION 17. In Colorado Revised Statutes, 24-33.5-1619,
+10 amend (3)(i) as follows:
+11 24-33.5-1619. Natural disaster mitigation enterprise - fund -
+12 goals - grant program - gifts, grants, or donations - legislative
+13 declaration - definitions - repeal.
+14 (3) Enterprise.
+15 (i) Each member of the board is entitled to receive from money in
+16 the fund a per diem allowance of fifty dollars for each day spent attending
+17 official board meetings, REIMBURSEMENT FOR THE MEMBER'S TRAVEL
+18 EXPENSES INCURRED FOR ATTENDING OFFICIAL BOARD MEETINGS IN
+19 ACCORDANCE WITH STATE FISCAL RULES AND DEPARTMENT POLICY.
+20 SECTION 18. In Colorado Revised Statutes, 24-33.5-1622,
+21 amend (2)(d) introductory portion and (2)(d)(II) as follows:
+22 24-33.5-1622. Colorado nonprofit security grant program -
+23 rules - definitions - appropriation.
+24 (2) Program created - allowable costs - rules.
+25 (d) No later than August 30, 2022, The director shall promulgate
+26 ADOPT rules necessary to implement the grant program. At a minimum,
+27 the rules must specify:
+-15- 1252
+
+1 (II) That a grant recipient must have submitted an application for,
+2 but not been selected to receive, a grant under the federal program,
+3 EXCEPT IN EXIGENT CIRCUMSTANCES, AS DETERMINED BY THE DIRECTOR,
+4 WHEN AN IMMEDIATE AWARD IS IN THE INTEREST OF PUBLIC SAFETY.
+5 SECTION 19. In Colorado Revised Statutes, 24-33.5-1902,
+6 amend (1) introductory portion, (1)(b), (1)(c), and (2)(v); and repeal
+7 (2)(a), (2)(f), (2)(l), (2)(m), and (2)(p) as follows:
+8 24-33.5-1902. Colorado cybersecurity council - creation -
+9 council members.
+10 (1) There is created in the department of public safety and within
+11 existing resources the Colorado cybersecurity council THE COLORADO
+12 CYBERSECURITY COUNCIL IS CREATED WITHIN THE DEPARTMENT OF PUBLIC
+13 SAFETY USING EXISTING RESOURCES. The council operates as a steering
+14 group to develop cybersecurity policy guidance for the governor; develop
+15 comprehensive sets of prioritized goals, requirements, initiatives, and
+16 milestones; and coordinate with the general assembly and the judicial
+17 branch regarding cybersecurity as deemed necessary and appropriate by
+18 the council. In addition, the council may:
+19 (b) Review the need to conduct risk assessments of local
+20 government systems, providing additional cybersecurity services to local
+21 governments, and proposing necessary statutory or policy changes;
+22 including the determination of ownership for these capabilities; AND
+23 (c) Make recommendations to the governor and general assembly
+24 on the authority and activities of the state chief information security
+25 officer with local governments by July 1, 2022 ABOUT CYBERSECURITY.
+26 (2) The Colorado cybersecurity council is comprised of the
+27 following members:
+-16- 1252
+
+1 (a) The governor, acting as the chairperson of the council, or the
+2 governor's designee;
+3 (f) The adjutant general of the department of military and veterans
+4 affairs;
+5 (l) The state attorney general, or the attorney general's designee;
+6 (m) The director of the public utilities commission or the
+7 director's designee;
+8 (p) The chair of the cybersecurity subcommittee of the homeland
+9 security and all-hazards senior advisory committee;
+10 (v) Any other person deemed necessary and appropriate by the
+11 governor EXECUTIVE DIRECTOR OF THE DEPARTMENT OF PUBLIC SAFETY.
+12 SECTION 20. In Colorado Revised Statutes, 24-33.5-2502,
+13 amend (3) and (4) as follows:
+14 24-33.5-2502. Office of public safety communications - public
+15 safety communications revolving fund - creation.
+16 (3) The office shall develop a method for billing users of the
+17 office's services the full DIRECT AND INDIRECT cost of the services,
+18 including materials, depreciation related to capital costs, labor, and
+19 administrative overhead. The billing method shall MUST be fully
+20 implemented for all users of the office's services on or before July 1, 2023
+21 AND PUBLIC SAFETY COMMUNICATIONS NETWORK OR COMPONENTS OF THE
+22 NETWORK. Revenue generated from such THE billing shall be credited to
+23 the fund PURSUANT TO SUBSECTION (4)(a) OF THIS SECTION.
+24 (4) (a) The office may seek, accept, and expend SERVICE
+25 CHARGES, FEES, REVENUE, gifts, grants, donations, and bequests from
+26 private or public sources for the direct and indirect costs, including
+27 personal services and operating costs, associated with administering
+-17- 1252
+
+1 public safety communications. The office shall transmit all money
+2 received through SERVICE CHARGES, FEES, REVENUE, gifts, grants,
+3 donations, or bequests for such RELATED purposes to the state treasurer,
+4 who shall credit the money to the fund.
+5 (b) The office may contract with the United States and any other
+6 legal entities with respect to money available to the office through
+7 SERVICE CHARGES, FEES, REVENUE, gifts, grants, donations, or bequests.
+8 (c) THE OFFICE MAY CONTRACT WITH PRIVATE ENTITIES FOR THE
+9 PRIVATE ENTITY USING THE PUBLIC SAFETY COMMUNICATIONS NETWORK
+10 OR COMPONENTS OF THE NETWORK.
+11 (d) THE OFFICE, ACTING BY AND THROUGH THE DEPARTMENT OF
+12 PUBLIC SAFETY, IS AUTHORIZED TO ENTER INTO ANCILLARY AGREEMENTS
+13 AND INSTRUMENTS THAT ARE NECESSARY OR APPROPRIATE IN
+14 CONNECTION WITH ADMINISTERING PUBLIC SAFETY COMMUNICATIONS.
+15 SECTION 21. In Colorado Revised Statutes, 24-33.5-2508,
+16 amend (1)(a) as follows:
+17 24-33.5-2508. Digital trunked radio system - service charges
+18 - pricing policy.
+19 (1) (a) Users of the digital trunked radio system shall MUST be
+20 charged the full cost of the particular service, which shall include
+21 INCLUDES the DIRECT AND INDIRECT cost of all material, labor, and
+22 overhead. The user charges shall AND FEES AND REVENUE MUST be
+23 transmitted to the state treasurer, who shall credit them to the public
+24 safety communications trust REVOLVING fund created in section
+25 24-33.5-2510 SECTION 24-33.5-2502. The public safety communications
+26 trust fund PUBLIC SAFETY COMMUNICATIONS REVOLVING FUND must
+27 include user charges on public safety radio systems of a state agency or
+-18- 1252
+
+1 other state entity PROVIDED BY THE OFFICE; except that no municipality,
+2 county, city and county, or special district shall be charged CAN INCUR
+3 user charges on public safety radio systems of a state agency or other state
+4 entity PROVIDED BY THE OFFICE.
+5 SECTION 22. In Colorado Revised Statutes, 24-33.5-2509,
+6 repeal (1)(c) as follows:
+7 24-33.5-2509. Interoperable communications among public
+8 safety radio systems - statewide plan - regional plans - governmental
+9 immunity - needs assessment.
+10 (1) (c) A region that fails to timely submit a tactical and long-term
+11 interoperable communications plan or revisions thereto, or a local
+12 government agency that fails to collaborate in the development of or
+13 timely submit the plan, or a region or local government agency that fails
+14 to maintain current plans, is ineligible to receive homeland security or
+15 public safety grant money administered by the department of local affairs,
+16 department of public safety, or department of public health and
+17 environment until the region submits a plan to the director of the office.
+18 SECTION 23. In Colorado Revised Statutes, 24-33.5-2510,
+19 amend (2)(b) as follows:
+20 24-33.5-2510. Public safety communications trust fund -
+21 creation - report.
+22 (2) (b) In addition to any transfers made as a result of subsection
+23 (2)(a) of this section, the department may solicit and accept gifts, grants,
+24 donations, PROCUREMENT FUNDS, bequests, and other contributions to the
+25 fund from local, state, and federal, PRIVATE, AND PUBLIC entities and from
+26 public-safety-related nonprofit organizations that directly support state
+27 departments, state institutions, state agencies, and law enforcement and
+-19- 1252
+
+1 public safety political subdivisions of the state. Such Contributions shall
+2 be transmitted to the state treasurer, who shall credit the contributions to
+3 the fund.
+4 SECTION 24. In Colorado Revised Statutes, 24-44-101.5, add
+5 (2) as follows:
+6 24-44-101.5. Definitions.
+7 As used in this article 44, unless the context otherwise requires:
+8 (2) "OFFICE" MEANS THE OFFICE OF TRIBAL AND AMERICAN INDIAN
+9 AND ALASKA NATIVE AFFAIRS IN THE OFFICE OF THE LIEUTENANT
+10 GOVERNOR.
+11 SECTION 25. In Colorado Revised Statutes, amend 24-44-102
+12 as follows:
+13 24-44-102. Establishment of commission.
+14 There is hereby established in the office of the lieutenant governor
+15 the Colorado commission of Indian affairs. THE COLORADO COMMISSION
+16 OF INDIAN AFFAIRS IS ESTABLISHED IN THE OFFICE OF TRIBAL AND
+17 AMERICAN INDIAN AND ALASKA NATIVE AFFAIRS IN THE OFFICE OF THE
+18 LIEUTENANT GOVERNOR.
+19 SECTION 26. In Colorado Revised Statutes, 24-44-103, amend
+20 (1) introductory portion, (1)(e), and (1)(f); and add (1)(l) as follows:
+21 24-44-103. Office duties - commission powers.
+22 (1) It is the duty of the commission OFFICE:
+23 (e) To study the existing status of recognition of all Indian groups,
+24 tribes, and communities presently existing in this state; and
+25 (f) To employ and fix the compensation of an executive director
+26 of the commission OFFICE, who shall carry out the responsibilities of the
+27 commission OFFICE; AND
+-20- 1252
+
+1 (l) TO COORDINATE WITH THE OFFICE OF EMERGENCY
+2 MANAGEMENT, CREATED IN PART 7 OF ARTICLE 33.5 OF THIS TITLE 24,
+3 DURING EMERGENCIES, AS APPROPRIATE.
+4 SECTION 27. In Colorado Revised Statutes, 24-44-104, add
+5 (2)(c) as follows:
+6 24-44-104. Membership - term of office - chairperson -
+7 compensation.
+8 (2) (c) (I) AT-LARGE MEMBERS HAVE A LIMIT OF TWO TERMS AND
+9 MAY SERVE A MAXIMUM OF SIX YEARS TOTAL CONSECUTIVELY.
+10 (II) AN AT-LARGE MEMBER MUST DEMONSTRATE A CONNECTION
+11 TO A FEDERALLY RECOGNIZED TRIBE, AS DETERMINED BY THE
+12 COMMISSION.
+13 SECTION 28. In Colorado Revised Statutes, amend 24-4-105 as
+14 follows:
+15 24-44-105. Executive director - duties.
+16 (1) The commission OFFICE may employ an executive director to
+17 carry out the day-to-day responsibilities and business of the OFFICE AND
+18 commission. THE EXECUTIVE DIRECTOR IS EMPLOYED IN THE OFFICE OF
+19 TRIBAL AND AMERICAN INDIAN AND ALASKA NATIVE AFFAIRS IN THE
+20 OFFICE OF THE LIEUTENANT GOVERNOR. The executive director is an ex
+21 officio member of the commission and must be an enrolled member of a
+22 federally recognized Indian tribe.
+23 (2) THE EXECUTIVE DIRECTOR MAY EMPLOY STAFF IN THE OFFICE
+24 OF TRIBAL AND AMERICAN INDIAN AND ALASKA NATIVE AFFAIRS TO
+25 ASSIST IN CARRYING OUT THE DUTIES OF THE OFFICE AND COMMISSION,
+26 PROMOTING GOVERNMENT RELATIONSHIPS BETWEEN THE STATE AND
+27 TRIBAL GOVERNMENTS, AND SERVING AMERICAN INDIAN AND ALASKA
+-21- 1252
+
+1 NATIVE COMMUNITIES.
+2 SECTION 29. In Colorado Revised Statutes, 24-44-106, amend
+3 (1) as follows:
+4 24-44-106. Meetings - quorum - proxy vote prohibited.
+5 (1) The commission shall meet quarterly and at any other such
+6 time as it deems necessary. Meetings may be called by the chairperson or
+7 by a petition signed by a majority of the voting members of the
+8 commission. Ten days' SEVENTY-TWO HOURS' notice shall be given in
+9 writing, BY EMAIL, OR BY PHONE prior to the meeting date.
+10 SECTION 30. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-22- 1252

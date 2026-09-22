@@ -1,0 +1,265 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0723.01 Nicole Myers x4326 SENATE BILL 26-106
+SENATE SPONSORSHIP
+Zamora Wilson,
+HOUSE SPONSORSHIP
+(None),
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING A PROCESS BY WHICH A REGISTERED ELECTOR MAY
+102 CHOOSE NOT TO RECEIVE A MAIL BALLOT PACKET FOR
+103 ELECTIONS THAT THE COUNTY CLERK AND RECORDER
+104 CONDUCTS BY MAIL BALLOT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the secretary of state (secretary) to adopt rules to
+establish a process by which a registered elector may choose not to
+automatically receive a mail ballot packet for all elections that the county
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+clerk and recorder conducts by mail ballot on or after November 2, 2027.
+The rules must include a process by which a registered elector who has
+chosen not to receive mail ballots may choose to resume receipt of mail
+ballots. The secretary is required to develop public-facing
+communications explaining that choosing not to receive a mail ballot
+packet is voluntary. A registered elector who has chosen not to receive a
+mail ballot packet must either vote in person at a voter service and polling
+center or request a mail ballot.
+For each mail ballot election conducted by a county clerk and
+recorder on or after November 2, 2027, each county clerk and recorder is
+required to report to the secretary the number of registered electors in the
+county who chose not to receive a mail ballot packet for the election and
+the number of mail ballot packets that the county clerk and recorder did
+not send as a result for that election. The secretary is required to use the
+information submitted by each county clerk and recorder to determine the
+reduction in the costs that each county incurred in conducting the election
+and to make the information reported by the county clerk and recorders
+and the savings determined by the secretary available to the public on the
+secretary's website.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "Save
+3 Money and Resources Through (SMART) Ballot Options Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Under current law, every active registered elector
+7 automatically receives a mail ballot for each election conducted under the
+8 "Uniform Election Code of 1992";
+9 (b) Many electors consistently vote in person at voter service and
+10 polling centers and do not use their automatically mailed ballot packets;
+11 (c) Counties incur significant costs by printing, assembling, and
+12 mailing unused ballot packets, including postage, materials, and vendor
+13 handling costs, which continue to rise annually due to increasing voter
+14 registration totals and increasing United States postal service rates;
+-2- SB26-106
+
+1 (d) Allowing voters to voluntarily opt out of automatic mail ballot
+2 delivery respects individual voter preference while preserving all existing
+3 voting access options;
+4 (e) Allowing voluntary opt-out of mail ballot delivery reduces
+5 ballot waste, reduces undeliverable mail, enhances operational efficiency,
+6 and reduces both county and state costs, as section 1-5-505.5 requires the
+7 state to reimburse 45% of county election costs for state-certified
+8 elections; and
+9 (f) A voter-initiated opt-out of automatic mail ballot delivery must
+10 remain voluntary, transparent, reversible, and accessible, with no
+11 reduction in voting access or services available at voter service and
+12 polling centers.
+13 (2) The general assembly further finds and declares that it is in the
+14 public interest to allow electors to voluntarily opt out of automatic mail
+15 ballot delivery while maintaining in-person access to voting and
+16 safeguarding the ability to request a mail ballot at any time.
+17 SECTION 3. In Colorado Revised Statutes, add 1-7.5-104.3 as
+18 follows:
+19 1-7.5-104.3 Mail ballot elections - opt-out of mail ballot
+20 delivery.
+21 (1) USING THE PROCESS ESTABLISHED BY THE SECRETARY OF
+22 STATE PURSUANT TO SUBSECTION (2) OF THIS SECTION, A REGISTERED
+23 ELECTOR MAY CHOOSE NOT TO RECEIVE A MAIL BALLOT PACKET FOR ALL
+24 ELECTIONS THAT THE COUNTY CLERK AND RECORDER CONDUCTS BY MAIL
+25 BALLOT PURSUANT TO THIS ARTICLE 7.5.
+26 (2) BY MARCH 1, 2027, THE SECRETARY OF STATE SHALL ADOPT
+27 RULES IN ACCORDANCE WITH ARTICLE 4 OF TITLE 24 THAT ESTABLISH A
+-3- SB26-106
+
+1 PROCESS BY WHICH A REGISTERED ELECTOR MAY CHOOSE, FOR ANY
+2 ELECTION CONDUCTED PURSUANT TO THIS CODE ON OR AFTER NOVEMBER
+3 2, 2027, NOT TO RECEIVE A MAIL BALLOT PACKET FOR ALL ELECTIONS
+4 THAT THE COUNTY CLERK AND RECORDER CONDUCTS BY MAIL PURSUANT
+5 TO THIS ARTICLE 7.5. THE RULES MUST INCLUDE:
+6 (a) A PROCESS BY WHICH A REGISTERED ELECTOR MAY CHOOSE
+7 NOT TO RECEIVE A MAIL BALLOT PACKET FOR ALL ELECTIONS THAT THE
+8 COUNTY CLERK AND RECORDER CONDUCTS BY MAIL, INCLUDING OPTIONS
+9 TO MAKE SUCH CHOICE ONLINE, IN PERSON, OR BY A PAPER FORM THAT
+10 MAY BE DELIVERED BY MAIL OR ELECTRONIC TRANSMISSION;
+11 (b) A PROCESS BY WHICH A REGISTERED ELECTOR MAY CHOOSE TO
+12 RESUME RECEIPT OF A MAIL BALLOT PACKET FOR ALL ELECTIONS THAT THE
+13 COUNTY CLERK AND RECORDER CONDUCTS BY MAIL AFTER OPTING OUT OF
+14 SUCH RECEIPT, INCLUDING OPTIONS TO MAKE SUCH CHOICE ONLINE, IN
+15 PERSON, OR BY A PAPER FORM THAT MAY BE DELIVERED BY MAIL OR
+16 ELECTRONIC TRANSMISSION;
+17 (c) A DURABLE INDICATOR IN THE STATEWIDE VOTER
+18 REGISTRATION SYSTEM THAT A REGISTERED ELECTOR HAS CHOSEN NOT TO
+19 RECEIVE OR TO RESUME RECEIPT OF A MAIL BALLOT PACKET FOR ALL
+20 ELECTIONS THAT THE COUNTY CLERK AND RECORDER CONDUCTS BY MAIL;
+21 (d) THE TIMING AND DEADLINES FOR A COUNTY CLERK AND
+22 RECORDER TO UPDATE THE COUNTY'S BALLOT-PRINTING SUPPRESSION
+23 FILES WHEN A REGISTERED ELECTOR HAS CHOSEN NOT TO RECEIVE A MAIL
+24 BALLOT PACKET PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION OR HAS
+25 CHOSEN TO RESUME RECEIPT OF A MAIL BALLOT PACKET, AFTER OPTING
+26 OUT OF SUCH RECEIPT, PURSUANT TO SUBSECTION (2)(b) OF THIS SECTION;
+27 AND
+-4- SB26-106
+
+1 (e) THE TIMING AND DEADLINES FOR A REGISTERED ELECTOR TO
+2 CHOOSE NOT TO RECEIVE A MAIL BALLOT PACKET PURSUANT TO
+3 SUBSECTION (2)(a) OF THIS SECTION OR TO CHOOSE TO RESUME RECEIPT OF
+4 A MAIL BALLOT PACKET, AFTER OPTING OUT OF SUCH RECEIPT, PURSUANT
+5 TO SUBSECTION (2)(b) OF THIS SECTION.
+6 (3) THE SECRETARY OF STATE SHALL DEVELOP PUBLIC-FACING
+7 COMMUNICATIONS TO EXPLAIN THE VOLUNTARY NATURE OF CHOOSING
+8 NOT TO RECEIVE A MAIL BALLOT PACKET FOR ALL ELECTIONS THAT THE
+9 COUNTY CLERK AND RECORDER CONDUCTS BY MAIL PURSUANT TO THIS
+10 ARTICLE 7.5.
+11 (4) A REGISTERED ELECTOR WHO HAS CHOSEN NOT TO RECEIVE A
+12 MAIL BALLOT PACKET FOR ALL ELECTIONS THAT THE COUNTY CLERK AND
+13 RECORDER CONDUCTS BY MAIL PURSUANT TO THIS ARTICLE 7.5 MAY
+14 REQUEST A MAIL BALLOT FOR ANY ELECTION PURSUANT TO SECTION
+15 1-7.5-114.7.
+16 SECTION 4. In Colorado Revised Statutes, 1-7.5-107, amend
+17 (3)(a)(I) as follows:
+18 1-7.5-107. Procedures for conducting mail ballot election -
+19 primary elections - first-time voters casting a mail ballot after having
+20 registered by mail to vote - in-person request for ballot - return
+21 envelope requirements.
+22 (3) (a) (I) (A) EXCEPT AS OTHERWISE PROVIDED IN SUBSECTION
+23 (3)(a)(I)(B) OF THIS SECTION, not sooner than twenty-two days before a
+24 general, primary, or other mail ballot election, and no later than eighteen
+25 days before the election, the county clerk and recorder or designated
+26 election official shall mail to each active registered elector, at the last
+27 mailing address appearing in the registration records and in accordance
+-5- SB26-106
+
+1 with United States postal service regulations, a mail ballot packet, which
+2 must be marked "DO NOT FORWARD. ADDRESS CORRECTION
+3 REQUESTED.", or any other similar statement that is in accordance with
+4 United States postal service regulations. Nothing in this subsection (3)
+5 affects any provision of this code governing the delivery of mail ballots
+6 to an absent uniformed services elector, nonresident overseas elector, or
+7 resident overseas elector covered by the federal "Uniformed and Overseas
+8 Citizens Absentee Voting Act", 52 U.S.C. sec. 20301 et seq.
+9 (B) THE COUNTY CLERK AND RECORDER OR DESIGNATED ELECTION
+10 OFFICIAL SHALL NOT MAIL A MAIL BALLOT PACKET TO ANY REGISTERED
+11 ELECTOR WHO HAS CHOSEN, USING THE PROCESS ESTABLISHED BY THE
+12 SECRETARY OF STATE PURSUANT TO SECTION 1-7.5-104.3 (2), NOT TO
+13 RECEIVE A MAIL BALLOT PACKET FOR ALL ELECTIONS THAT THE COUNTY
+14 CLERK AND RECORDER CONDUCTS BY MAIL PURSUANT TO THIS ARTICLE
+15 7.5. AN ELECTOR WHO CHOOSES NOT TO RECEIVE A MAIL BALLOT PACKET
+16 RETAINS THE RIGHT TO VOTE IN PERSON AT ANY VOTER SERVICE AND
+17 POLLING CENTER AND TO REQUEST A MAIL BALLOT FOR ANY ELECTION
+18 PURSUANT TO SECTION 1-7.5-114.7.
+19 SECTION 5. In Colorado Revised Statutes, add 1-7.5-114.7 as
+20 follows:
+21 1-7.5-114.7. Mail ballots for electors after opting out of mail
+22 ballots.
+23 A REGISTERED ELECTOR WHO HAS CHOSEN, USING THE PROCESS
+24 ESTABLISHED BY THE SECRETARY OF STATE PURSUANT TO SECTION
+25 1-7.5-104.3 (2), NOT TO RECEIVE A MAIL BALLOT PACKET FOR ALL
+26 ELECTIONS THAT THE COUNTY CLERK AND RECORDER CONDUCTS BY MAIL
+27 PURSUANT TO THIS ARTICLE 7.5 MAY OBTAIN A MAIL BALLOT BY MAIL FOR
+-6- SB26-106
+
+1 ANY ELECTION. TO OBTAIN A MAIL BALLOT BY MAIL, THE ELECTOR MUST
+2 MAKE A REQUEST TO THE COUNTY CLERK AND RECORDER FOR A MAIL
+3 BALLOT NO LATER THAN THE EIGHTH DAY BEFORE AN ELECTION. THE
+4 COUNTY CLERK AND RECORDER SHALL ENSURE THAT THE STATEWIDE
+5 VOTER REGISTRATION SYSTEM IS UPDATED TO REFLECT THAT THE
+6 REGISTERED ELECTOR REQUESTED A MAIL BALLOT BY MAIL AND THAT THE
+7 COUNTY CLERK AND RECORDER MAILED A MAIL BALLOT TO THE
+8 REGISTERED ELECTOR WHO MADE THE REQUEST.
+9 SECTION 6. In Colorado Revised Statutes, 1-5-102.9, add (7)
+10 as follows:
+11 1-5-102.9. Voter service and polling centers - number required
+12 - services provided - drop-off locations - definition.
+13 (7) A REGISTERED ELECTOR WHO HAS CHOSEN NOT TO RECEIVE A
+14 MAIL BALLOT PACKET FOR ALL ELECTIONS USING THE PROCESS
+15 ESTABLISHED BY THE SECRETARY OF STATE PURSUANT TO SECTION
+16 1-7.5-104.3 (2) MUST VOTE IN PERSON AT A VOTER SERVICE AND POLLING
+17 CENTER OR REQUEST A MAIL BALLOT PURSUANT TO SECTION 1-7.5-114.7.
+18 ALL VOTER SERVICE AND POLLING CENTER SERVICES, INCLUDING
+19 REGISTRATION UPDATES, BALLOT REPLACEMENT, AND ACCESSIBLE VOTING
+20 SERVICES, ARE AVAILABLE TO ACTIVE REGISTERED ELECTORS WHO HAVE
+21 CHOSEN NOT TO RECEIVE A MAIL BALLOT PACKET.
+22 SECTION 7. In Colorado Revised Statutes, 1-5-505.5, add (3)
+23 as follows:
+24 1-5-505.5. State reimbursement to counties for elections with
+25 state certified ballot content - reporting.
+26 (3) (a) FOR EACH GENERAL, PRIMARY, ODD-YEAR, COORDINATED,
+27 RECALL, AND CONGRESSIONAL VACANCY ELECTION THAT IS CONDUCTED
+-7- SB26-106
+
+1 ON OR AFTER NOVEMBER 2, 2027, AND THAT THE COUNTY CLERK AND
+2 RECORDER CONDUCTS BY MAIL PURSUANT TO ARTICLE 7.5 OF THIS TITLE
+3 1, EACH COUNTY CLERK AND RECORDER SHALL REPORT TO THE SECRETARY
+4 OF STATE THE NUMBER OF REGISTERED ELECTORS IN THE COUNTY WHO
+5 CHOSE, USING THE PROCESS ESTABLISHED BY THE SECRETARY OF STATE
+6 PURSUANT TO SECTION 1-7.5-104.3 (2), NOT TO RECEIVE A MAIL BALLOT
+7 PACKET FOR THE ELECTION AND THE NUMBER OF MAIL BALLOT PACKETS
+8 THAT THE COUNTY CLERK AND RECORDER DID NOT MAIL FOR THAT
+9 ELECTION AS A RESULT OF SUCH ELECTORS CHOOSING NOT TO RECEIVE A
+10 MAIL BALLOT PACKET. EACH COUNTY CLERK AND RECORDER SHALL
+11 REPORT THE INFORMATION REQUIRED IN THIS SUBSECTION (3)(a) IN A FORM
+12 AND MANNER DETERMINED BY THE SECRETARY OF STATE.
+13 (b) THE SECRETARY OF STATE SHALL USE THE INFORMATION
+14 REPORTED BY COUNTY CLERK AND RECORDERS PURSUANT TO SUBSECTION
+15 (3)(a) OF THIS SECTION TO DOCUMENT REDUCTIONS IN THE COSTS THAT
+16 THE COUNTY INCURRED IN CONDUCTING THE ELECTION AND THAT THE
+17 STATE REIMBURSES PURSUANT TO SUBSECTION (1) OF THIS SECTION.
+18 (c) THE SECRETARY OF STATE SHALL MAKE THE INFORMATION
+19 REPORTED AND DOCUMENTED PURSUANT TO THIS SUBSECTION (3)
+20 AVAILABLE TO THE PUBLIC ON THE SECRETARY OF STATE'S WEBSITE.
+21 SECTION 8. In Colorado Revised Statutes, 1-5-907, amend (4)
+22 as follows:
+23 1-5-907. In-person minority language ballot - county clerk -
+24 voter service and polling centers.
+25 (4) The county clerk shall notify all electors via the mail ballot
+26 packet and in each language in which the in-person minority language
+27 ballot option will be available that electors may request an in-person
+-8- SB26-106
+
+1 minority language ballot in the applicable language at any voter service
+2 and polling center in the county.
+3 SECTION 9. In Colorado Revised Statutes, 1-12-114, amend
+4 (2)(b) as follows:
+5 1-12-114. Mail ballots - plan required - voter service and
+6 polling centers - number required - definition.
+7 (2) Notwithstanding any provision of this code:
+8 (b) Not earlier than the twenty-second day or later than the
+9 eighteenth day before the election, the designated election official shall
+10 mail ballots to all active registered electors; EXCEPT THAT THE
+11 DESIGNATED ELECTION OFFICIAL SHALL NOT MAIL BALLOTS TO ACTIVE
+12 REGISTERED ELECTORS WHO HAVE CHOSEN NOT TO RECEIVE A MAIL
+13 BALLOT PACKET PURSUANT TO SECTION 1-7.5-104.3.
+14 SECTION 10. Safety clause. The general assembly finds,
+15 determines, and declares that this act is necessary for the immediate
+16 preservation of the public peace, health, or safety or for appropriations for
+17 the support and maintenance of the departments of the state and state
+18 institutions.
+-9- SB26-106

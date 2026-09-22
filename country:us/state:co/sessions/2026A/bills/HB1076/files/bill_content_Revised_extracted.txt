@@ -1,0 +1,719 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0614.01 Sam Anderson x4218 HOUSE BILL 26-1076
+House Committees Senate Committees
+Transportation, Housing & Local Government Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO SELECT STATUTORY PROVISIONS
+102 RELATING TO TRANSPORTATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes the following changes to statutes concerning the
+department of transportation (department):
+! Changes the name of the freight mobility and safety branch
+within the transportation development division of the
+department to the office of freight mobility and safety
+(sections 1, 3, 5, and 9 of the bill);
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,4
+yaM
+6202
+,81
+yraurbeF
+6202
+,71
+yraurbeF
+HOUSE SPONSORSHIP
+Paschal and Lindsay, Froelich, Jackson, Nguyen, Rutinel
+SENATE SPONSORSHIP
+Ball and Lindstedt,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Clarifies that each state agency is responsible for paying its
+proportionate part of the cost of maintenance and operation
+of fueling infrastructure to support its motor vehicle fleet
+(section 2);
+! Clarifies that a driver of a commercial vehicle may not
+enter the farthest left-hand general purpose lane when
+driving specified sections of interstate 70 (section 4);
+! Clarifies which transportation commission district
+represents the city and county of Broomfield (section 6);
+! Relocates a provision concerning the chief engineer from
+the statutory section governing the highway maintenance
+division to the statutory section governing the chief
+engineer (sections 7 and 8);
+! Repeals a statutory section concerning a study prepared by
+legislative council staff on the transportation commission
+districts, which has been completed (section 10);
+! Redirects revenue from a permitting fee imposed by the
+department on companies authorized to install and remove
+tire chains, as established in Senate Bill 25-069, from the
+highway users tax fund to the state highway fund (section
+11);
+! Repeals outdated and obsolete provisions concerning the
+highway users tax fund (sections 12 and 13);
+! Defines "toll evasion" for purposes of civil penalties,
+enforcement, and administration of the use of a toll
+highway (section 14);
+! Establishes a 4-year term limit for members of the
+nonattainment area air pollution mitigation enterprise board
+who are appointed by the governor and clarifies when the
+initial term for each appointment ends (section 15); and
+! Repeals a requirement that the transportation commission
+approve transfers of money directed by the division of
+aeronautics from the aviation account of the transportation
+infrastructure revolving fund to the aviation fund, which
+amounts must not exceed transfers previously approved by
+the Colorado aeronautical board (section 16).
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-20-206.5, amend
+3 (6)(a)(II) as follows:
+4 8-20-206.5. Environmental response surcharge - liquefied
+-2- 1076
+
+1 petroleum gas and natural gas inspection fund - perfluoroalkyl and
+2 polyfluoroalkyl substances cash fund - hazardous materials
+3 infrastructure cash fund - fuels impact reduction grant program -
+4 definitions - repeal.
+5 (6) (a) In addition to the payments collected pursuant to
+6 subsections (1)(a) and (8)(a) of this section, the executive director of the
+7 department of revenue shall also collect a fee to:
+8 (II) Support the department of transportation in functions related
+9 to freight movement and infrastructure in the state, including the
+10 functions of the OFFICE OF freight mobility and safety branch of IN the
+11 transportation development division of the department of transportation
+12 created in section 43-1-117 (4), as well as infrastructure projects that
+13 enhance the safety of movement of commercial materials;
+14 SECTION 2. In Colorado Revised Statutes, 24-30-1104, amend
+15 (2)(k) as follows:
+16 24-30-1104. Functions of the department - definitions - rules.
+17 (2) In addition to the county-specific functions set forth in
+18 subsection (1) of this section, the department of personnel shall take such
+19 steps as are necessary to fully implement a central state motor vehicle
+20 fleet system by January 1, 1993. The provisions of the motor vehicle fleet
+21 system created pursuant to this subsection (2) apply to the executive
+22 branch of the state of Colorado, its departments, its institutions, and its
+23 agencies; except that the governing board of each institution of higher
+24 education, by formal action of the board, and the Colorado commission
+25 on higher education, by formal action of the commission, may elect to be
+26 exempt from the provisions of this subsection (2) and may obtain a motor
+27 vehicle fleet system independent of the state motor vehicle fleet system.
+-3- 1076
+
+1 Under the direction of the executive director, the department of personnel
+2 shall perform the following functions pertaining to the motor vehicle fleet
+3 system throughout the state:
+4 (k) Allocate and charge against each state agency to which
+5 transportation OR FUELING INFRASTRUCTURE is furnished on the basis of
+6 mileage or on the basis of the period of time for which each vehicle is
+7 assigned to the agency, its proportionate part of the cost of maintenance
+8 and operation of the motor vehicle fleet AND ITS SUPPORTING FUELING
+9 INFRASTRUCTURE;
+10 SECTION 3. In Colorado Revised Statutes, 33-61-102, amend
+11 (6) as follows:
+12 33-61-102. Definitions.
+13 As used in this article 61, unless the context otherwise requires:
+14 (6) "Gas spot price" means the Henry Hub natural gas spot price
+15 as reported by the United States energy information administration or a
+16 successor ANOTHER price index selected by the commission PURSUANT TO
+17 SECTION 33-61-103 (1)(a.5).
+18 SECTION 4. In Colorado Revised Statutes, 33-61-103, amend
+19 (1)(b)(I) introductory portion and (1)(b)(II); and add (1)(a.5) as follows:
+20 33-61-103. Fee for oil and gas production - remediation of
+21 harm to wildlife and land - cash fund.
+22 (1) (a.5) NO LATER THAN ONE WEEK AFTER OCTOBER 1, 2026, AND
+23 NO LATER THAN ONE WEEK AFTER THE FIRST DAY OF EACH CALENDAR
+24 QUARTER THEREAFTER, THE COMMISSION SHALL DETERMINE WHICH
+25 NATURAL GAS INDEX TO USE TO CALCULATE THE AVERAGE GAS SPOT PRICE
+26 FOR THE PREVIOUS CALENDAR QUARTER PURSUANT TO SUBSECTION (1)(b)
+27 OF THIS SECTION. IN DETERMINING WHICH NATURAL GAS INDEX TO USE,
+-4- 1076
+
+1 THE COMMISSION SHALL CONSIDER REGIONAL DYNAMICS IN THE NATURAL
+2 GAS MARKET THAT AFFECT THE SPOT PRICES THAT NATURAL GAS
+3 OPERATORS MAY RECEIVE FOR THEIR NATURAL GAS COMPARED TO THE
+4 GAS SPOT PRICE.
+5 (b) (I) No later than one week TWO WEEKS after October 1, 2025,
+6 and no later than one week TWO WEEKS after the first day of each calendar
+7 quarter thereafter, the commission shall calculate, including performing
+8 any necessary measurement unit conversions to calculate, the average oil
+9 spot price and the average gas spot price for the previous calendar quarter
+10 and publish the average oil spot price and the average gas spot price on
+11 the commission's website. The commission shall routinely provide written
+12 guidance to the division on factors relevant to the production fee
+13 amounts, including guidance on the current condition of the oil and gas
+14 market and the market's sensitivity to higher or lower production fee
+15 amounts. In preparing the written guidance, the commission shall:
+16 (II) No later than one month THREE WEEKS after the commission
+17 publishes the average oil spot price and the average gas spot price for the
+18 previous calendar quarter on the commission's website pursuant to
+19 subsection (1)(b)(I) of this section, the division shall set the production
+20 fee amounts applicable to the previous calendar quarter, notify the
+21 executive director of the production fee amounts set, and publish the
+22 production fee amounts on the division's website. Prior to adopting the
+23 production fee amounts, the division shall consult with the commission
+24 on the appropriate production fee amounts for the previous quarter and
+25 take into account the maximum amounts described in section 33-61-102
+26 (12) and other relevant factors.
+27 SECTION 5. In Colorado Revised Statutes, 42-2-106, amend
+-5- 1076
+
+1 (1)(e) as follows:
+2 42-2-106. Instruction permits and temporary licenses.
+3 (1) (e) The department shall not issue an instruction permit OR
+4 ENDORSEMENT to a minor who is under twenty-one years of age OLD to
+5 drive a motorcycle unless the applicant has successfully completed an
+6 instruction program in motorcycle safety that is approved by the Colorado
+7 state patrol.
+8 SECTION 6. In Colorado Revised Statutes, 42-2-118, amend
+9 (1)(a)(I); and add (1)(a)(I.5) as follows:
+10 42-2-118. Renewal of license in person, by mail, or
+11 electronically - donations to Emily Keyes - John W. Buckner organ
+12 and tissue donation awareness fund - rules - definitions.
+13 (1) (a) (I) EXCEPT AS PROVIDED IN SUBSECTION (1)(a)(I.5) OF THIS
+14 SECTION, every license issued pursuant to section 42-2-114 or part 5 of
+15 this article 2 is renewable prior to its expiration, upon application in
+16 person, by mail as provided in subsection (1.3) of this section, or by
+17 electronic means as provided in subsection (1.5) of this section; payment
+18 of the required fee; passing of an eye test; and passing of such other
+19 examinations as the applicant's physical limitations or driver's record
+20 indicates to be desirable. If a person renews his or her license pursuant to
+21 this subsection (1)(a)(I) by electronic means, the person must attest under
+22 penalty of perjury that he or she has had an eye examination by an
+23 optometrist or an ophthalmologist within three years ONE YEAR before the
+24 date of application.
+25 (I.5) IF AN APPLICANT APPLIES TO RENEW THEIR LICENSE WITHIN A
+26 YEAR AFTER IT HAS EXPIRED, THE RENEWED LICENSE WILL HAVE THE SAME
+27 EXPIRATION DATE AS IF IT HAD BEEN RENEWED ON TIME, SO LONG AS THE
+-6- 1076
+
+1 PHOTO THE DEPARTMENT HAS ON FILE WILL MEET THE REQUIREMENTS OF
+2 6 CFR 37.25 (a)(1) FOR THE FEDERAL "REAL ID ACT OF 2005" AT THE
+3 TIME OF THE NEXT EXPIRATION. THIS SUBSECTION (1)(a)(I.5) DOES NOT
+4 APPLY TO PROVISIONS OF SUBSECTION (1)(b)(I) OF THIS SECTION,
+5 AUTHORIZING EXTENSIONS.
+6 SECTION 7. Colorado Revised Statutes, 42-2-304, amend (1) as
+7 follows:
+8 42-2-304. Validity of identification card - rules.
+9 (1) Except as provided in subsection (2) of this section, an
+10 identification card issued pursuant to this part 3 expires on the birthday
+11 of the registrant in the fifth year after issuance of the identification card.
+12 IF AN APPLICANT APPLIES TO RENEW THEIR IDENTIFICATION CARD WITHIN
+13 A YEAR AFTER IT HAS EXPIRED, THE RENEWED IDENTIFICATION CARD WILL
+14 BE GIVEN THE SAME EXPIRATION DATE AS IF IT HAD BEEN RENEWED ON
+15 TIME, PROVIDED THE PHOTO THE DEPARTMENT HAS ON FILE WILL MEET THE
+16 REQUIREMENTS OF 6 CFR 37.25 (a)(1) FOR THE FEDERAL" REAL ID ACT OF
+17 2005" AT THE TIME OF THE NEXT EXPIRATION. The department may purge
+18 its records of such cards twelve years after issuance; except that any
+19 records concerning identification cards issued prior to April 16, 1996,
+20 may not be purged until October 1, 2003.
+21 SECTION 8. In Colorado Revised Statutes, 42-4-106, amend
+22 (5)(a)(I)(E), (5)(a)(I)(G), and (5)(c)(I) as follows:
+23 42-4-106. Who may restrict right to use highways - definitions
+24 - rules.
+25 (5) (a) (I) (E) The driver of a commercial vehicle, with four or
+26 more drive wheels, other than a bus, shall affix tire chains to at least four
+27 of the drive wheel tires when the vehicle is required to be equipped with
+-7- 1076
+
+1 tire chains under this subsection (5). The driver of a bus shall affix tire
+2 chains to at least two of the drive wheel tires when the vehicle is required
+3 to be equipped with tire chains under this subsection (5) INCLUDING A
+4 BUS, MUST AFFIX TIRE CHAINS OR APPROVED ALTERNATE TRACTION
+5 DEVICES TO THE NUMBER OF DRIVE WHEEL TIRES REQUIRED BY AND IN THE
+6 MANNER PRESCRIBED BY THE DEPARTMENT OF TRANSPORTATION'S RULES
+7 GOVERNING CHAIN LAW AND PASSENGER VEHICLE TRACTION LAW
+8 REQUIREMENTS ON THE STATE HIGHWAY SYSTEM.
+9 (G) On August 7, 2024, the OFFICE OF freight mobility and safety
+10 branch created in section 43-1-117 (4) shall launch an awareness
+11 campaign on any laws enacted that modify subsection (5)(a)(I)(C) of this
+12 section.
+13 (c) As used in this subsection (5):
+14 (I) "Alternate traction device" means a device that is approved by
+15 the Colorado department of transportation as capable of providing
+16 traction comparable to that of metal chains or tire cables under similar
+17 conditions.
+18 SECTION 9. In Colorado Revised Statutes, 42-4-1014, amend
+19 (1) introductory portion as follows:
+20 42-4-1014. No commercial vehicles in the left lane - penalty.
+21 (1) A driver of a commercial vehicle may not enter the furthest
+22 left FARTHEST LEFT-HAND GENERAL PURPOSE lane when driving in the
+23 following areas of interstate 70 unless specifically required or authorized
+24 to pass by law:
+25 SECTION 10. In Colorado Revised Statutes, 42-4-1701, amend
+26 (4)(d.7)(II)(B) as follows:
+27 42-4-1701. Traffic offenses and infractions classified -
+-8- 1076
+
+1 penalties - penalty and surcharge schedule - repeal.
+2 (4) (d.7) (II) (B) Notwithstanding any provision of law to the
+3 contrary, for each fine collected pursuant to section 42-4-617 (4) and
+4 subsection (4)(d.7)(I) of this section, the state treasurer shall credit
+5 one-half of the amount of the fine to the account. All money credited to
+6 the account is continuously appropriated to the department of
+7 transportation and to the OFFICE OF freight mobility and safety branch
+8 created within the transportation development division of the department
+9 of transportation pursuant to section 43-1-117 to pay costs associated with
+10 the provision of educational outreach and public information about
+11 runaway truck events, the purchase and implementation of equipment for
+12 the purpose of reducing the frequency of runaway truck events, and the
+13 completion of studies of means by which the state may reduce the
+14 frequency of runaway truck events and improve overall commercial
+15 motor vehicle safety on state highways that pass through the mountains
+16 of the state.
+17 SECTION 11. In Colorado Revised Statutes, 43-1-106, amend
+18 (2) introductory portion and (2)(d) as follows:
+19 43-1-106. Transportation commission - efficiency and
+20 accountability committee - powers and duties - report - rules -
+21 definitions.
+22 (2) One member of the commission shall be appointed by the
+23 governor from each of the following districts THE GOVERNOR SHALL
+24 APPOINT ONE MEMBER OF THE COMMISSION FROM EACH OF THE
+25 FOLLOWING DISTRICTS:
+26 (d) District 4: The counties of Adams and Boulder AND THE CITY
+27 AND COUNTY OF BROOMFIELD;
+-9- 1076
+
+1 SECTION 12. In Colorado Revised Statutes, 43-1-110, add with
+2 amended and relocated provisions (5) as follows:
+3 43-1-110. Powers and duties of the chief engineer - hearings
+4 - rule-making.
+5 (5) [Formerly 43-1-114 (3)] Whenever the chief engineer is
+6 authorized to enter into contracts or agreements, the contracts or
+7 agreements must be executed THE CHIEF ENGINEER, OR THEIR DESIGNEE,
+8 MUST EXECUTE THE CONTRACTS OR AGREEMENTS in the name of the
+9 department of transportation, state of Colorado. by the chief engineer, or
+10 his or her designee Whenever the chief engineer is authorized to acquire
+11 or convey real or personal property, title thereto must be acquired or
+12 conveyed THE CHIEF ENGINEER, OR THEIR DESIGNEE, MUST ACQUIRE OR
+13 CONVEY THE TITLE in the name of the department of transportation, state
+14 of Colorado, and THE CHIEF ENGINEER, OR THEIR DESIGNEE, MUST
+15 EXECUTE all such conveyances. must be executed by the chief engineer,
+16 or his or her designee All suits or proceedings brought by or against the
+17 chief engineer must be in the name of the department of transportation,
+18 state of Colorado.
+19 SECTION 13. In Colorado Revised Statutes, 43-1-114, repeal (3)
+20 as follows:
+21 43-1-114. Highway maintenance division - creation.
+22 (3) Whenever the chief engineer is authorized to enter into
+23 contracts or agreements, the contracts or agreements must be executed in
+24 the name of the department of transportation, state of Colorado, by the
+25 chief engineer, or his or her designee. Whenever the chief engineer is
+26 authorized to acquire or convey real or personal property, title thereto
+27 must be acquired or conveyed in the name of the department of
+-10- 1076
+
+1 transportation, state of Colorado, and all such conveyances must be
+2 executed by the chief engineer, or his or her designee. All suits or
+3 proceedings brought by or against the chief engineer must be in the name
+4 of the department of transportation, state of Colorado.
+5 SECTION 14. In Colorado Revised Statutes, 43-1-117, amend
+6 (4) as follows:
+7 43-1-117. Transportation development division - created -
+8 duties - office of freight mobility and safety - repeal.
+9 (4) The OFFICE OF freight mobility and safety branch is created in
+10 the transportation development division. The function of the OFFICE OF
+11 freight mobility and safety branch is to plan, design, and implement
+12 programs and projects that enhance freight mobility and safety within the
+13 state. No later than January 1, 2022, the OFFICE OF freight mobility and
+14 safety branch shall provide to the commission a long-term strategic plan
+15 that sets forth the vision and goals for the branch OFFICE, key priorities for
+16 all freight-related programs, activities, and projects, and guidelines for
+17 coordination between the branch OFFICE and the freight advisory
+18 committee.
+19 SECTION 15. In Colorado Revised Statutes, 43-1-117.5, add (6)
+20 as follows:
+21 (6) NOTHING IN THIS ARTICLE 1 MEANS THAT THE TRANSIT AND
+22 RAIL DIVISION HAS EXCLUSIVE AUTHORITY AND RESPONSIBILITY FOR THE
+23 POWERS AND DUTIES DESCRIBED IN THIS ARTICLE 1. OTHER DIVISIONS OR
+24 ENTERPRISES UNDER THE DEPARTMENT MAY UNDERTAKE TRANSIT AND
+25 RAIL-RELATED POWERS AND DUTIES AS IDENTIFIED BY THE DEPARTMENT
+26 OR ENTERPRISE BOARD, CONSISTENT WITH APPLICABLE LAW.
+27 SECTION 16. In Colorado Revised Statutes, repeal 43-1-124 as
+-11- 1076
+
+1 follows:
+2 43-1-124. Study of transportation commission districts.
+3 No later than August 1, 2016, legislative council staff, with the
+4 cooperation of the department, shall prepare and present to the
+5 transportation legislation review committee a research study of the
+6 commission districts established in section 43-1-106 (2). The study must
+7 document changes since the last time the general assembly modified the
+8 number and boundaries of the commission districts, including changes in
+9 population, number of lane miles, and annual vehicle miles traveled for
+10 each of the districts and must take into account existing county and
+11 municipal boundaries, regional transportation authorities and districts,
+12 and transportation planning regions.
+13 SECTION 17. In Colorado Revised Statutes, 43-2-150, amend
+14 (2)(d) as follows:
+15 43-2-150. Roadside chain service - rules - permits - fees -
+16 liability - definition.
+17 (2) (d) The department may charge a fee to issue a permit to an
+18 applicant. The fee must be set in an amount to offset the direct and
+19 indirect costs of issuing permits under this subsection (2). The state
+20 treasurer shall credit the fees to the STATE highway users tax fund created
+21 in section 43-4-201 SECTION 43-1-219.
+22 SECTION 18. In Colorado Revised Statutes, 43-2-402, amend
+23 (1) as follows:
+24 43-2-402. Noise mitigation measures.
+25 (1) An applicant may submit an application for noise mitigation
+26 measures to the department between November 1 and March 31. in
+27 accordance with the application procedures established by the
+-12- 1076
+
+1 transportation commission by rule.
+2 SECTION 19. In Colorado Revised Statutes, 43-2-403, amend
+3 (1); and repeal (3)(c)(I) as follows:
+4 43-2-403. Noise mitigation - privately funded - rules.
+5 (1) An applicant may submit an application for noise mitigation
+6 measures to be privately funded to the department at any time. in
+7 accordance with the application procedures established by the
+8 transportation commission by rule.
+9 (3) (c) Noise mitigation measures constructed in accordance with
+10 this section shall:
+11 (I) Comply with applicable rules and procedural directives of the
+12 department and the transportation commission;
+13 SECTION 20. In Colorado Revised Statutes, repeal 43-2-404 as
+14 follows:
+15 43-2-404. Rule-making authority.
+16 The transportation commission created by part 1 of article 1 of this
+17 title shall promulgate rules in accordance with article 4 of title 24, C.R.S.,
+18 to implement the provisions of this part 4. The rules shall include noise
+19 mitigation standards and a list of approved noise mitigation measures and
+20 products that meet the standards.
+21 SECTION 21. In Colorado Revised Statutes, 43-4-205, amend
+22 (6) introductory portion, (6)(b) introductory portion, and (6.5)(a); and
+23 repeal (6)(a), (7), and (13) as follows:
+24 43-4-205. Allocation of fund - repeal.
+25 (6) Revenue raised by the excise tax imposed on gasoline and
+26 special fuel pursuant to sections 39-27-102 and 39-27-102.5 in excess of
+27 seven cents per gallon of tax shall MUST be placed in the highway users
+-13- 1076
+
+1 tax fund to be allocated as follows: except that revenue raised by the
+2 excise tax imposed on gasoline in excess of eighteen cents per gallon of
+3 tax shall be allocated according to subsection (6)(b) of this section
+4 (a) Sixteen percent of such revenue shall be deposited in a special
+5 account within the highway users tax fund until July 1, 1997, and shall be
+6 expended only for highway bridge repair, replacement, or posting,
+7 pursuant to provisions of paragraph (a) of subsection (7) of this section.
+8 (b) The remaining balance of such revenue may be expended only
+9 for improvements to highways within the state, including new
+10 construction, safety improvements, maintenance, and capacity
+11 improvements, and for other transportation-related projects to the extent
+12 authorized by subsection (6.8) of this section and sections 43-4-206 (3),
+13 43-4-207 (1), and 43-4-208 (1), and may not be expended for
+14 administrative purposes. Such revenue is allocated as follows:
+15 (6.5) (a) Except as otherwise provided in subsections (6.4) and
+16 (6.7) of this section, the revenue accrued to and transferred to the
+17 highway users tax fund pursuant to section 24-75-219 or 39-26-123 (4)(a)
+18 or appropriated to the highway users tax fund pursuant to House Bill
+19 02-1389, enacted in 2002, must be paid to the state highway fund for
+20 allocation to the department of transportation and expended as provided
+21 in section 43-4-206 (2).
+22 (7) (a) Revenues accumulated in the special account for highway
+23 bridges, as provided in paragraph (a) of subsection (6) of this section,
+24 shall be allocated at least once each year among state, counties, and
+25 municipal highway systems based on total cost needs under the criteria
+26 developed by means of the most current report of the federal bridge
+27 inventory program. For the fiscal year commencing on July 1, 1981, the
+-14- 1076
+
+1 allocation shall be determined in accordance with needs developed by
+2 October 1, 1981. In subsequent fiscal years, the allocation shall be
+3 determined in accordance with needs reports available on January 1,
+4 1982, and January 1 of each subsequent year, with the allocation amounts
+5 to be effective on July 1 of each year. After allocation of the state share
+6 of the special bridge account, the share for the counties and municipalities
+7 shall be allocated, subject to annual appropriation by the general
+8 assembly, based upon need as determined by the special highway
+9 committee which shall be composed of four representatives each from
+10 counties and municipalities. Allocations to local governments shall
+11 require a minimum of twenty percent of local matching funds from
+12 revenues other than the special bridge account within the highway users
+13 tax fund.
+14 (b) Repealed.
+15 (13) All of the additional revenues which are credited to the
+16 highway users tax fund as a result of the enactment of House Bill No.
+17 1012 at the first extraordinary session of the fifty-seventh general
+18 assembly shall be expended only for improvements to highways within
+19 the state, including new construction, safety improvements, maintenance,
+20 and capacity improvements. No moneys shall be expended for
+21 administrative purposes.
+22 SECTION 22. In Colorado Revised Statutes, 43-4-206, amend
+23 (2)(a) introductory portion as follows:
+24 43-4-206. State allocation.
+25 (2) (a) Revenue accrued to and transferred to the highway users
+26 tax fund pursuant to section 39-26-123 (4)(a) or appropriated to the
+27 highway users tax fund pursuant to House Bill 02-1389, enacted at the
+-15- 1076
+
+1 second regular session of the sixty-third general assembly, and credited
+2 to the state highway fund pursuant to section 43-4-205 (6.5) shall be
+3 expended by the department of transportation for the implementation of
+4 the strategic transportation project investment program:
+5 SECTION 23. In Colorado Revised Statutes, 43-4-803, add
+6 (23.7) as follows:
+7 43-4-803. Definitions.
+8 (23.7) "TOLL EVASION" MEANS:
+9 (a) FAILING TO PAY A TOLL OR AVOIDING A TOLL; OR
+10 (b) ENTERING OR EXITING A TOLL LANE OUTSIDE OF A DESIGNATED
+11 ACCESS OR EGRESS POINT, INCLUDING SWERVING BETWEEN A TOLL LANE
+12 AND A GENERAL PURPOSE LANE, WITHOUT REGARD TO WHETHER A TOLL
+13 WAS ASSESSED OR PAID.
+14 SECTION 24. In Colorado Revised Statutes, 43-4-1202, amend
+15 (9.7) as follows:
+16 43-4-1202. Definitions.
+17 As used in this part 12, unless the context otherwise requires:
+18 (9.7) "Gas spot price" means the Henry Hub natural gas spot price
+19 as reported by the United States energy information administration or a
+20 successor ANOTHER price index selected by the energy and carbon
+21 management commission created in section 34-60-104.3 AND PURSUANT
+22 TO SECTION 43-4-1204 (1)(a.5).
+23 SECTION 25. In Colorado Revised Statutes, 43-4-1204, amend
+24 (1)(b)(I) introductory portion and (1)(b)(II); and add (1)(a.5) as follows:
+25 43-4-1204. Production fee for clean transit imposed by the
+26 enterprise - local transit operations program - local transit grant
+27 program - rail funding program - cash funds - report.
+-16- 1076
+
+1 (1) (a.5) NO LATER THAN ONE WEEK AFTER OCTOBER 1, 2026, AND
+2 NO LATER THAN ONE WEEK AFTER THE FIRST DAY OF EACH CALENDAR
+3 QUARTER THEREAFTER, THE ENERGY AND CARBON MANAGEMENT
+4 COMMISSION CREATED IN SECTION 34-60-104.3 (1) SHALL DETERMINE
+5 WHICH NATURAL GAS INDEX TO USE PURSUANT TO SECTION 33-61-102 (6).
+6 IN DETERMINING WHICH NATURAL GAS INDEX TO USE, THE ENERGY AND
+7 CARBON MANAGEMENT COMMISSION SHALL CONSIDER REGIONAL
+8 DYNAMICS IN THE NATURAL GAS MARKET THAT AFFECT THE SPOT PRICES
+9 THAT NATURAL GAS OPERATORS MAY RECEIVE FOR THEIR NATURAL GAS
+10 COMPARED TO THE GAS SPOT PRICE.
+11 (b) (I) No later than one week TWO WEEKS after October 1, 2025,
+12 and no later than one week TWO WEEKS after the first day of each calendar
+13 quarter thereafter, the energy and carbon management commission,
+14 created in section 34-60-104.3 (1), shall calculate, including performing
+15 any necessary measurement unit conversions to calculate, the average oil
+16 spot price and the average gas spot price for the previous calendar quarter
+17 and publish the average oil spot price and average gas spot price on the
+18 energy and carbon management commission's website. The energy and
+19 carbon management commission shall routinely provide written guidance
+20 to the enterprise on factors relevant to the production fee amounts,
+21 including guidance on the current condition of the oil and gas market and
+22 the market's sensitivity to higher or lower production fee amounts. In
+23 preparing the written guidance, the energy and carbon management
+24 commission shall:
+25 (II) No later than one month THREE WEEKS after the energy and
+26 carbon management commission publishes the average oil spot price and
+27 the average gas spot price for the previous calendar quarter on the energy
+-17- 1076
+
+1 and carbon management commission's website pursuant to subsection
+2 (1)(b)(I) of this section, the enterprise shall set the production fee
+3 amounts applicable to the previous calendar quarter, notify the executive
+4 director of the department of revenue of the production fee amounts set,
+5 and publish the production fee amounts on the enterprise's website. Prior
+6 to adopting the production fee amounts, the enterprise shall consult with
+7 the energy and carbon management commission on the appropriate
+8 production fee amounts for the previous quarter and take into account the
+9 maximum amounts described in section 43-4-1202 and other relevant
+10 market factors.
+11 SECTION 26. In Colorado Revised Statutes, 43-4-806, add (6)(r)
+12 as follows:
+13 43-4-806. High-performance transportation enterprise -
+14 creation - enterprise status - board - funds - powers and duties - user
+15 fees - limitations - reporting requirements - violations on the peak
+16 period shoulder lanes - legislative declaration - definitions.
+17 (6) In addition to any other powers and duties specified in this
+18 section, the transportation enterprise board has the following powers and
+19 duties:
+20 (r) (I) AS PART OF A CONTRACT RELATED TO THE PROVISION OF
+21 PUBLIC PASSENGER RAIL SERVICE WITH A PASSENGER RAIL FACILITY
+22 PROVIDER OR PASSENGER RAIL OPERATOR AND SUBJECT TO THE
+23 REQUIREMENTS OF THIS SUBSECTION (6)(r), TO AGREE TO AND OBTAIN,
+24 DIRECTLY OR INDIRECTLY, AN INSURANCE POLICY AGAINST LIABILITIES OF
+25 THE TRANSPORTATION ENTERPRISE AND THE PASSENGER RAIL FACILITY
+26 PROVIDER, PASSENGER RAIL OPERATOR, OR BOTH, AND TO PAY ANY
+27 DEDUCTIBLE, RETENTION, OR SIMILAR CHARGE UNDER THE POLICY
+-18- 1076
+
+1 REGARDLESS OF THE SOURCE OF THE LIABILITY FROM WHICH THE CHARGE
+2 ARISES.
+3 (II) BEFORE EXERCISING THE AUTHORITY GRANTED IN THIS
+4 SUBSECTION (6)(r), THE TRANSPORTATION ENTERPRISE BOARD MUST MAKE
+5 A FINDING THAT THE CONTRACT FOR THE PROVISION OF PUBLIC PASSENGER
+6 RAIL SERVICE WITH A PASSENGER RAIL FACILITY PROVIDER OR PASSENGER
+7 RAIL OPERATOR SERVES A VALID PUBLIC PURPOSE AND THAT THE RISKS TO
+8 THE ENTERPRISE THAT MAY ARISE FROM ENTERING INTO THE CONTRACT
+9 ARE SUFFICIENTLY LIMITED AND OUTWEIGHED BY THE BENEFITS OF THE
+10 CONTRACT.
+11 (III) FOR PURPOSES OF THIS SUBSECTION (6)(r):
+12 (A) "PASSENGER RAIL FACILITY PROVIDER" MEANS A CLASS I
+13 RAILROAD, A SPECIAL DISTRICT CREATED PURSUANT TO TITLE 32 THAT IS
+14 INTENDED TO PROVIDE TRANSPORTATION SERVICES BY RAIL, A REGIONAL
+15 TRANSPORTATION AUTHORITY CREATED PURSUANT TO PART 6 OF ARTICLE
+16 4 OF TITLE 43 INCLUDING A TRANSPORTATION PLANNING ORGANIZATION
+17 EXERCISING THE POWERS OF A REGIONAL TRANSPORTATION AUTHORITY,
+18 AND A CONTRACTOR TO SUCH A RAILROAD, SPECIAL DISTRICT, OR
+19 AUTHORITY, BUT ONLY IF THE RAILROAD, SPECIAL DISTRICT, AUTHORITY,
+20 OR CONTRACTOR OWNS OR EXERCISES CONTROL OVER PROPERTY THAT
+21 WILL BE USED IN THE OPERATION OF THE PUBLIC PASSENGER RAIL SERVICE
+22 TO BE PROVIDED PURSUANT TO THE CONTRACT SPECIFIED IN SUBSECTION
+23 (6)(r)(I) OF THIS SECTION.
+24 (B) "PASSENGER RAIL OPERATOR" MEANS A PROVIDER OF TRAIN
+25 AND ENGINE CREWS AND FUNCTIONS ASSOCIATED WITH THE OPERATION
+26 AND MAINTENANCE OF THE EQUIPMENT ASSOCIATED WITH PROVIDING
+27 PASSENGER RAIL SERVICE.
+-19- 1076
+
+1 (IV) NOTHING IN THIS SUBSECTION (6)(r) WAIVES, DIMINISHES, OR
+2 OTHERWISE AFFECTS ANY IMMUNITIES OR DEFENSES AVAILABLE TO THE
+3 TRANSPORTATION ENTERPRISE OR ANY OTHER IMPACTED PUBLIC ENTITY.
+4 (V) ANY PREMIUM, DEDUCTIBLE, RETENTION, OR SIMILAR CHARGE
+5 REQUIRED TO BE PAID UNDER A TERM IN AN AGREEMENT ENTERED INTO
+6 UNDER THE AUTHORITY GRANTED IN THIS SUBSECTION (6)(r) IS PAYABLE
+7 ONLY FROM REVENUE AVAILABLE FOR SUCH PAYMENTS CONSISTENT WITH
+8 SUBSECTION (5) OF THIS SECTION. NOTHING IN THIS SUBSECTION (6)(r)
+9 ALTERS ANY CONTRACTUAL RESTRICTIONS ON REVENUES PLEDGED TO THE
+10 PAYMENT OF OBLIGATIONS UNDERTAKEN PURSUANT TO THE AUTHORITY
+11 GRANTED TO THE TRANSPORTATION ENTERPRISE IN SUBSECTION (6)(c) OF
+12 THIS SECTION.
+13 SECTION 27. In Colorado Revised Statutes, 43-4-1204, amend
+14 (3)(c)(III) as follows:
+15 43-4-1204. Production fee for clean transit imposed by the
+16 enterprise - local transit operations program - local transit grant
+17 program - rail funding program - cash funds - report.
+18 (3) (c) Pursuant to the purposes of the local transit operations
+19 program, the enterprise shall allocate money from the local transit
+20 operations cash fund to eligible entities using a formula developed by the
+21 board, which shall be based on population, population density, local
+22 zoning, transit ridership, vehicle revenue miles, share of
+23 disproportionately impacted community population, and other
+24 transit-related criteria. An eligible entity that is awarded money from the
+25 local transit operations cash fund shall:
+26 (III) Use the entirety of the money no later than two years after the
+27 contract allocating the money is finalized; EXCEPT THAT THE CLEAN
+-20- 1076
+
+1 TRANSIT ENTERPRISE BOARD MAY EXTEND THIS PERIOD BY ONE YEAR FOR
+2 CAPITAL AWARD CONTRACTS.
+3 SECTION 28. In Colorado Revised Statutes, 43-4-1301, amend
+4 (1)(b) as follows:
+5 43-4-1301. Legislative declaration.
+6 (1) The general assembly hereby finds and declares that:
+7 (b) It is necessary and appropriate to offset and mitigate these
+8 impacts by creating a nonattainment area air pollution mitigation
+9 enterprise that has the business purpose of providing funding for AND
+10 DESIGN AND CONSTRUCTION OVERSIGHT AND MANAGEMENT OF eligible
+11 projects that reduce traffic congestion, including demand management
+12 projects that encourage alternatives to driving alone, and thereby reduce
+13 travel delays, engine idle time, and unproductive fuel consumption or that
+14 directly reduce emissions by means such as retrofitting of construction
+15 equipment;
+16 SECTION 29. In Colorado Revised Statutes, 43-4-1303, amend
+17 (2)(b), (3) introductory portion, and (6)(b); and add (2)(c) and (3)(d) as
+18 follows:
+19 43-4-1303. Nonattainment area air pollution mitigation
+20 enterprise - creation - board - powers and duties - rules - fees - fund.
+21 (2) (b) Appointed members EXCEPT AS PROVIDED IN SUBSECTION
+22 (2)(c) OF THIS SECTION, MEMBERS of the board APPOINTED BY THE
+23 GOVERNOR serve at the pleasure of the governor FOR TERMS OF FOUR
+24 YEARS. A MEMBER WHO IS APPOINTED TO FILL A VACANCY ON THE BOARD
+25 SHALL SERVE THE REMAINDER OF THE UNEXPIRED TERM OF THE FORMER
+26 MEMBER. The other board members serve for as long as they hold their
+27 executive director positions or are designated to serve by an executive
+-21- 1076
+
+1 director.
+2 (c) THE TERM OF EACH INITIAL MEMBER OF THE BOARD APPOINTED
+3 BY THE GOVERNOR ENDS ON JANUARY 15, 2027. FOR ONLY THE TERM
+4 IMMEDIATELY FOLLOWING THIS INITIAL TERM, THE MEMBERS DESCRIBED
+5 IN SUBSECTIONS (2)(a)(I)(A) AND (2)(a)(I)(B) OF THIS SECTION AND ONE
+6 OF THE MEMBERS DESCRIBED IN SUBSECTION (2)(a)(I)(D) OF THIS SECTION
+7 SERVE A TERM OF THREE YEARS. ALL OTHER TERMS OF SERVICE FOR ANY
+8 MEMBER APPOINTED BY THE GOVERNOR ARE FOUR YEARS, AS DESCRIBED
+9 IN SUBSECTION (2)(b) OF THIS SECTION.
+10 (3) The business purpose of the enterprise is to mitigate the
+11 environmental and health impacts of increased air pollution from motor
+12 vehicle emissions in nonattainment areas that results from the rapid and
+13 continuing growth in retail deliveries made by motor vehicles and in
+14 prearranged rides provided by transportation network companies by
+15 providing funding for AND DESIGN AND CONSTRUCTION OVERSIGHT AND
+16 MANAGEMENT OF eligible projects that reduce traffic, including demand
+17 management projects that encourage alternatives to driving alone or that
+18 directly reduce air pollution, such as retrofitting of construction
+19 equipment, construction of roadside vegetation barriers, and planting trees
+20 along medians. To allow the enterprise to accomplish this purpose and
+21 fully exercise its powers and duties through the board, the enterprise may:
+22 (d) ENGAGE IN ALL ACTIVITIES NECESSARY TO DIRECTLY MITIGATE
+23 THE ENVIRONMENTAL AND HEALTH IMPACTS OF AIR POLLUTION,
+24 INCLUDING THE ADMINISTRATION, ACQUISITION, DESIGN, CONSTRUCTION,
+25 IMPROVEMENT, MAINTENANCE, AND PURSUIT OF OTHER INNOVATIVE AND
+26 EFFICIENT MEANS OF COMPLETING ELIGIBLE PROJECTS AND CONTRACTING
+27 WITH A PERSON, FIRM, OR CORPORATION FOR THE PERFORMANCE OF ANY
+-22- 1076
+
+1 SUCH WORK.
+2 (6) In addition to any other powers and duties specified in this
+3 section, the board has the following general powers and duties:
+4 (b) To acquire, hold title to, and dispose of, AND VOLUNTARILY
+5 PURCHASE, DESIGN, CONSTRUCT, IMPROVE, MAINTAIN, ADMINISTER, AND
+6 OPERATE real and personal property, INCLUDING RIGHTS-OF-WAY AND ALL,
+7 OR PORTIONS OF, ELIGIBLE PROJECTS, NECESSARY FOR THE PURPOSES OF
+8 THE ENTERPRISE AND TO CONTRACT WITH A PERSON, FIRM, OR
+9 CORPORATION FOR THE PERFORMANCE OF ANY SUCH WORK;
+10 SECTION 30. In Colorado Revised Statutes, 43-10-103, amend
+11 (2)(m) as follows:
+12 43-10-103. Division of aeronautics created - duties.
+13 (2) The division shall provide support for the Colorado
+14 aeronautical board in fulfilling its duties. The duties of the division also
+15 include, but are not limited to, the following:
+16 (m) Directing the state treasurer to transfer moneys MONEY from
+17 the aviation fund created by section 43-10-109 to the aviation account of
+18 the transportation infrastructure revolving fund created by section
+19 43-1-113.5, but only if such transfer is approved by the board. The
+20 division may direct the state treasurer to transfer moneys MONEY from the
+21 aviation account back to the aviation fund in an amount not exceeding the
+22 amounts previously transferred from the aviation fund, but only if such
+23 transfer is approved by the board. and by the transportation commission.
+24 SECTION 31. Act subject to petition - effective date. This act
+25 takes effect at 12:01 a.m. on the day following the expiration of the
+26 ninety-day period after final adjournment of the general assembly (August
+27 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+-23- 1076
+
+1 referendum petition is filed pursuant to section 1 (3) of article V of the
+2 state constitution against this act or an item, section, or part of this act
+3 within such period, then the act, item, section, or part will not take effect
+4 unless approved by the people at the general election to be held in
+5 November 2026 and, in such case, will take effect on the date of the
+6 official declaration of the vote thereon by the governor.
+-24- 1076

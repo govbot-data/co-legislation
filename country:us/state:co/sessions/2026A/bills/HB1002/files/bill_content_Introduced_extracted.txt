@@ -1,0 +1,395 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0105.02 Chelsea Princell x4335 HOUSE BILL 26-1002
+HOUSE SPONSORSHIP
+Brown and Gilchrist,
+SENATE SPONSORSHIP
+Ball and Pelton B.,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO INCREASE PATIENT ACCESS TO
+102 BEHAVIORAL HEALTH PROVIDERS, AND, IN CONNECTION
+103 THEREWITH, EFFORTS TO ENHANCE PROVIDER PARTICIPATION
+104 IN HEALTH-CARE PROVIDER NETWORKS, REIMBURSEMENT OF
+105 PRELICENSED PROVIDERS WHO PROVIDE MENTAL HEALTH
+106 SERVICES UNDER THE SUPERVISION OF A LICENSED PROVIDER,
+107 AND DECREASING THE CLINICAL HOURS REQUIRED TO BECOME
+108 A LICENSED CLINICAL SOCIAL WORKER.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+http://leg.colorado.gov.)
+If a health-care provider has not submitted a claim for a period of
+at least 6 months, the bill requires a commercial insurance carrier (carrier)
+to contact the provider to confirm the provider's participation in the
+carrier's provider network and to determine whether the provider is
+accepting new patients.
+The bill includes mental health providers and substance use
+disorder providers as providers who may participate in a carrier's provider
+network and expedites the credentialing process for these providers.
+The bill requires carriers to admit prelicensed providers into the
+carrier's network and to reimburse prelicensed providers for services
+rendered when provided under the supervision of a mental health provider
+or substance use disorder provider.
+The bill requires a clinical social worker to complete 3,000 hours
+of post-master's supervised clinical practice over a period of between 2
+and 5 years in order to be licensed.
+The bill requires a managed care entity to contact providers
+enrolled in medicaid who have not submitted a claim for at least 6 months
+to confirm the provider's participation and to determine whether the
+provider is accepting new patients.
+The bill expedites the medicaid enrollment process for mental
+health providers and substance use disorder providers who apply to
+participate in the medicaid program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-16-704, add
+3 (15.5) as follows:
+4 10-16-704. Network adequacy - required disclosures - balance
+5 billing - rules - legislative declaration - definitions.
+6 (15.5) (a) A CARRIER SHALL CONFIRM THE NETWORK
+7 PARTICIPATION OF A PROVIDER WHO HAS NOT SUBMITTED A CLAIM FOR A
+8 PERIOD OF AT LEAST SIX MONTHS OR OTHERWISE COMMUNICATED WITH
+9 THE CARRIER IN A MANNER EVIDENCING THE PROVIDER'S INTENT TO
+10 CONTINUE PARTICIPATING IN THE CARRIER'S NETWORK AND FOR WHOM NO
+11 CHANGE IN PROVIDER STATUS IS REPORTED BY A NONPROFIT
+-2- HB26-1002
+
+1 ORGANIZATION THAT MAINTAINS PROVIDER CREDENTIALING
+2 INFORMATION.
+3 (b) THE CARRIER SHALL CONTACT THE PROVIDER BY MAIL TO
+4 CONFIRM THE PROVIDER'S INTENT TO CONTINUE PARTICIPATING IN THE
+5 CARRIER'S PROVIDER NETWORK AND TO INQUIRE WHETHER THE PROVIDER
+6 IS ACCEPTING NEW PATIENTS. THE CARRIER SHALL UPDATE ITS
+7 DIRECTORIES, AS NECESSARY, WITHIN FIVE BUSINESS DAYS AFTER
+8 CONTACTING THE PROVIDER.
+9 (c) IF THE PROVIDER FAILS TO RESPOND TO A CARRIER'S INQUIRY
+10 WITHIN THIRTY DAYS AFTER THE CARRIER CONTACTS OR ATTEMPTS TO
+11 CONTACT THE PROVIDER, THE CARRIER SHALL MAIL A FOLLOW-UP REQUEST
+12 TO THE PROVIDER BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED. IF THE
+13 PROVIDER FAILS TO RESPOND TO THE CARRIER'S FOLLOW-UP REQUEST
+14 WITHIN THIRTY DAYS AFTER RECEIPT OF THE REQUEST, THE CARRIER MUST
+15 REMOVE THE PROVIDER FROM ITS CARRIER PROVIDER NETWORK AND
+16 UPDATE ITS DIRECTORIES, AS NECESSARY, WITHIN FIVE BUSINESS DAYS.
+17 SECTION 2. In Colorado Revised Statutes, 10-16-705.7, amend
+18 (1)(a), (1)(b), (1)(d), (1)(j), (2)(c), (3)(a), (5), (6) introductory portion,
+19 (6)(b), (8)(a) introductory portion, (8)(a)(II), (8)(b), (8)(c), (9), (9.5), and
+20 (10); and add (1)(g.5), (1)(g.9), (1)(h.2), (1)(i.5), (1)(k), and (9.7) as
+21 follows:
+22 10-16-705.7. Timely credentialing of providers by carriers -
+23 notice of receipt required - notice of incomplete applications required
+24 - delegated credentialing agreements - discrepancies - denials of
+25 claims prohibited - disclosures - recredentialing - enforcement - rules
+26 - definitions.
+27 (1) As used in this section, unless the context otherwise requires:
+-3- HB26-1002
+
+1 (a) "Applicant" means a physician, MENTAL HEALTH PROVIDER, OR
+2 SUBSTANCE USE DISORDER PROVIDER who submits an application to a
+3 carrier to become a participating physician PROVIDER in the carrier's
+4 PROVIDER network.
+5 (b) "Application" means an applicant's application to become
+6 credentialed by a carrier as a participating physician PROVIDER in at least
+7 one of the carrier's provider networks.
+8 (d) "Credentialing" or "credential" means the process by which a
+9 carrier or its designee collects information concerning an applicant;
+10 assesses whether the applicant satisfies the relevant licensing, education,
+11 and training requirements to become a participating physician PROVIDER;
+12 verifies the assessment; and approves or disapproves the applicant's
+13 application.
+14 (g.5) "MENTAL HEALTH PROVIDER" MEANS A MENTAL HEALTH
+15 ENTITY LICENSED PURSUANT TO ARTICLE 1.5 OF TITLE 25 OR MENTAL
+16 HEALTH PROFESSIONAL LICENSED OR CERTIFIED PURSUANT TO ARTICLE 245
+17 OF TITLE 12, EXCEPT FOR UNLICENSED PSYCHOTHERAPISTS REGULATED
+18 PURSUANT TO ARTICLE 245 OF TITLE 12.
+19 (g.9) "PARTICIPATING MENTAL HEALTH PROVIDER OR SUBSTANCE
+20 USE DISORDER PROVIDER" MEANS A MENTAL HEALTH PROVIDER OR
+21 SUBSTANCE USE DISORDER PROVIDER WHO IS CREDENTIALED BY A CARRIER
+22 OR ITS DESIGNEE TO PROVIDE HEALTH-CARE ITEMS OR SERVICES TO
+23 COVERED PERSONS IN AT LEAST ONE OF THE CARRIER'S PROVIDER
+24 NETWORKS.
+25 (h.2) "PARTICIPATING PROVIDER" MEANS A PARTICIPATING
+26 PHYSICIAN OR A PARTICIPATING MENTAL HEALTH PROVIDER OR
+27 SUBSTANCE USE DISORDER PROVIDER.
+-4- HB26-1002
+
+1 (i.5) "PRELICENSED PROVIDER" MEANS A "REGISTRANT" AS
+2 DEFINED IN SECTION 12-245-202.
+3 (j) "Recredentialing" or "recredential" means the process by which
+4 a carrier or its designee confirms that a participating physician PROVIDER
+5 is in good standing and continues to satisfy the carrier's requirements for
+6 participating physicians PROVIDERS.
+7 (k) "SUBSTANCE USE DISORDER PROVIDER" MEANS A MENTAL
+8 HEALTH ENTITY LICENSED PURSUANT TO ARTICLE 1.5 OF TITLE 25 THAT
+9 SPECIALIZES IN TREATING SUBSTANCE USE DISORDERS OR A MENTAL
+10 HEALTH PROFESSIONAL LICENSED OR CERTIFIED PURSUANT TO ARTICLE 245
+11 OF TITLE 12 WHO SPECIALIZES IN TREATING SUBSTANCE USE DISORDERS,
+12 EXCEPT FOR UNLICENSED PSYCHOTHERAPISTS REGULATED PURSUANT TO
+13 ARTICLE 245 OF TITLE 12.
+14 (2) (c) (I) FOR AN APPLICANT WHO IS A PHYSICIAN, if a carrier
+15 receives a completed application but fails to provide the applicant a
+16 receipt in written or electronic form within seven calendar days after
+17 receiving the application, as required by subsection (2)(a) of this section,
+18 the carrier shall consider the applicant a participating physician, effective
+19 no later than fifty-three calendar days following the carrier's receipt of the
+20 application.
+21 (II) FOR AN APPLICANT WHO IS A MENTAL HEALTH PROVIDER OR
+22 SUBSTANCE USE DISORDER PROVIDER, IF A CARRIER RECEIVES A
+23 COMPLETED APPLICATION BUT FAILS TO PROVIDE THE APPLICANT A
+24 RECEIPT IN WRITTEN OR ELECTRONIC FORM WITHIN SEVEN CALENDAR DAYS
+25 AFTER RECEIVING THE APPLICATION, THE CARRIER MUST CONSIDER THE
+26 APPLICANT A PARTICIPATING MENTAL HEALTH PROVIDER OR SUBSTANCE
+27 USE DISORDER PROVIDER, EFFECTIVE NO LATER THAN TWENTY-SIX
+-5- HB26-1002
+
+1 CALENDAR DAYS AFTER THE CARRIER'S RECEIPT OF THE APPLICATION.
+2 (3) (a) (I) FOR AN APPLICANT WHO IS A PHYSICIAN, a carrier shall
+3 conclude the process of credentialing an THE applicant within sixty
+4 calendar days after the carrier receives the applicant's completed
+5 application.
+6 (II) FOR AN APPLICANT WHO IS A MENTAL HEALTH PROVIDER OR
+7 SUBSTANCE USE DISORDER PROVIDER, A CARRIER SHALL CONCLUDE THE
+8 PROCESS OF CREDENTIALING THE APPLICANT WITHIN THIRTY CALENDAR
+9 DAYS AFTER THE CARRIER RECEIVES THE APPLICANT'S COMPLETED
+10 APPLICATION.
+11 (5) (a) FOR A PARTICIPATING PHYSICIAN, a carrier shall correct
+12 discrepancies in its provider or network directory within thirty calendar
+13 days after receiving a report of the discrepancy from a THE participating
+14 physician. A participating physician shall notify a carrier of any change
+15 in the physician's name, address, telephone number, business structure, or
+16 tax identification number within fifteen business days after making the
+17 change.
+18 (b) FOR A PARTICIPATING MENTAL HEALTH PROVIDER OR
+19 SUBSTANCE USE DISORDER PROVIDER, A CARRIER SHALL CORRECT
+20 DISCREPANCIES IN ITS PROVIDER OR NETWORK DIRECTORY WITHIN FIVE
+21 BUSINESS DAYS AFTER RECEIVING A REPORT OF THE DISCREPANCY FROM
+22 THE PARTICIPATING MENTAL HEALTH PROVIDER OR SUBSTANCE USE
+23 DISORDER PROVIDER. A PARTICIPATING MENTAL HEALTH PROVIDER OR
+24 SUBSTANCE USE DISORDER PROVIDER SHALL NOTIFY A CARRIER OF ANY
+25 CHANGE IN THE PROVIDER'S NAME, ADDRESS, TELEPHONE NUMBER,
+26 BUSINESS STRUCTURE, OR TAX IDENTIFICATION NUMBER WITHIN TEN
+27 BUSINESS DAYS AFTER MAKING THE CHANGE.
+-6- HB26-1002
+
+1 (6) A carrier may SHALL not deny a claim for a medically
+2 necessary covered service provided to a covered person if the service:
+3 (b) Is provided by a participating physician PROVIDER who is in
+4 the CARRIER'S provider network for the carrier's health coverage plan and
+5 has concluded the carrier's credentialing process.
+6 (8) (a) A carrier or its designee may recredential a participating
+7 physician PROVIDER if such recredentialing is:
+8 (II) Permitted by the carrier's contract with the participating
+9 physician PROVIDER.
+10 (b) A carrier shall not require a participating physician PROVIDER
+11 to submit an application or participate in a contracting process in order to
+12 be recredentialed.
+13 (c) Nothing in This subsection (8) affects DOES NOT AFFECT the
+14 contract termination rights of a carrier or a participating physician
+15 PROVIDER.
+16 (9) Except as described in subsection (8) of this section and as
+17 may be provided in a contract between a carrier and a participating
+18 physician PROVIDER, a carrier shall allow a participating physician
+19 PROVIDER to remain credentialed and include the participating physician
+20 PROVIDER in the carrier's health coverage plan provider network unless
+21 the carrier discovers information indicating that the participating
+22 physician PROVIDER no longer satisfies the carrier's guidelines for
+23 participation, in which case the carrier shall satisfy the requirements
+24 described in section 10-16-705 (5) before terminating the participating
+25 physician's PROVIDER'S participation in the CARRIER'S provider network.
+26 (9.5) A carrier shall not refuse to credential an applicant or
+27 terminate a participating physician's PROVIDER'S participation in a
+-7- HB26-1002
+
+1 CARRIER'S provider network based solely on the applicant's or
+2 participating physician's PROVIDER'S provision of, or assistance in the
+3 provision of, a legally protected health-care activity, as defined in section
+4 12-30-121 (1)(d), in this state, so long as the care provided did not violate
+5 Colorado law.
+6 (9.7) (a) A CARRIER SHALL ADMIT INTO THE CARRIER'S PROVIDER
+7 NETWORK A PRELICENSED PROVIDER THAT APPLIES FOR ADMISSION UNDER
+8 THE SUPERVISION OF A PARTICIPATING MENTAL HEALTH PROVIDER OR
+9 SUBSTANCE USE DISORDER PROVIDER AND MEETS REQUIREMENTS SET BY
+10 THE DIVISION.
+11 (b) (I) A CARRIER SHALL REIMBURSE A PRELICENSED PROVIDER
+12 FOR PROVIDING MEDICALLY NECESSARY TREATMENT, AS DEFINED IN
+13 SECTION 10-16-104, TO A COVERED PERSON UNDER THE SUPERVISION OF
+14 A PARTICIPATING MENTAL HEALTH PROVIDER OR SUBSTANCE USE
+15 DISORDER PROVIDER IN ACCORDANCE WITH THE TERMS OF COVERAGE
+16 APPLICABLE TO THE PARTICIPATING MENTAL HEALTH PROVIDER OR
+17 SUBSTANCE USE DISORDER PROVIDER UNDER A HEALTH BENEFIT PLAN.
+18 (II) IF A HEALTH BENEFIT PLAN OFFERS OUT-OF-NETWORK
+19 BENEFITS, THE CARRIER MUST REIMBURSE AN OUT-OF-NETWORK
+20 PRELICENSED PROVIDER FOR MEDICALLY NECESSARY TREATMENT, AS
+21 DEFINED IN SECTION 10-16-104, PROVIDED TO A COVERED PERSON UNDER
+22 THE SUPERVISION OF A PARTICIPATING MENTAL HEALTH PROVIDER OR
+23 SUBSTANCE USE DISORDER PROVIDER IN ACCORDANCE WITH THE TERMS OF
+24 COVERAGE APPLICABLE TO NONPARTICIPATING PROVIDERS UNDER THE
+25 HEALTH BENEFIT PLAN.
+26 (c) THE DIVISION SHALL SET REQUIREMENTS FOR A CARRIER TO
+27 ADMIT A PRELICENSED PROVIDER INTO THE CARRIER'S PROVIDER NETWORK
+-8- HB26-1002
+
+1 AS DESCRIBED IN THIS SUBSECTION (9.7).
+2 (10) The commissioner shall enforce this section and may
+3 promulgate such ADOPT rules as are necessary for the implementation of
+4 TO IMPLEMENT this section. Upon receiving more than one complaint
+5 from an applicant or a participating physician PROVIDER alleging a
+6 violation of this section by a carrier, the commissioner shall investigate
+7 the complaints. A carrier that fails to comply with this section or with any
+8 rules adopted pursuant to this section is subject to such civil penalties as
+9 THAT the commissioner may order pursuant to section 10-1-310.
+10 SECTION 3. In Colorado Revised Statutes, 12-245-404, amend
+11 (2)(c); and add (2)(c.5) as follows:
+12 12-245-404. Qualifications - examination - licensure and
+13 registration - rules.
+14 (2) The board shall license as a licensed clinical social worker a
+15 person who files an application, in a form and manner required by the
+16 board, submits the fee required by the board pursuant to section
+17 12-245-205, and submits evidence satisfactory to the board that the
+18 applicant:
+19 (c) Has practiced social work for at least two years under the
+20 virtual or in-person supervision of a licensed clinical social worker or
+21 other person with equivalent experience as determined by the board,
+22 which practice includes training and work experience in the area of
+23 clinical social work practice; and
+24 (c.5) HAS COMPLETED THREE THOUSAND HOURS OF POST-MASTER'S
+25 SUPERVISED CLINICAL PRACTICE OVER THE COURSE OF AT LEAST TWO
+26 YEARS BUT NO MORE THAN FIVE YEARS; AND
+27 SECTION 4. In Colorado Revised Statutes, add 25.5-4-436 as
+-9- HB26-1002
+
+1 follows:
+2 25.5-4-436. Confirmation of provider participation.
+3 (1) A MANAGED CARE ENTITY SHALL CONFIRM THE PARTICIPATION
+4 OF A PROVIDER ENROLLED IN THE STATE MEDICAL ASSISTANCE PROGRAM
+5 WHO HAS NOT SUBMITTED A CLAIM FOR A PERIOD OF AT LEAST SIX MONTHS
+6 OR OTHERWISE COMMUNICATED WITH THE STATE DEPARTMENT IN A
+7 MANNER EVIDENCING THE PROVIDER'S INTENT TO CONTINUE
+8 PARTICIPATING IN THE STATE MEDICAL ASSISTANCE PROGRAM AND FOR
+9 WHOM NO CHANGE IN PROVIDER STATUS IS REPORTED BY A NONPROFIT
+10 ORGANIZATION THAT MAINTAINS PROVIDER CREDENTIALING
+11 INFORMATION.
+12 (2) TO CONFIRM PROVIDER PARTICIPATION, A MANAGED CARE
+13 ENTITY SHALL CONTACT THE PROVIDER BY MAIL, CONFIRM THE PROVIDER'S
+14 INTENT TO CONTINUE PARTICIPATING IN THE STATE MEDICAL ASSISTANCE
+15 PROGRAM, AND INQUIRE WHETHER THE PROVIDER IS ACCEPTING NEW
+16 PATIENTS. THE MANAGED CARE ENTITY SHALL UPDATE ITS DIRECTORIES,
+17 AS NECESSARY, WITHIN FIVE BUSINESS DAYS AFTER CONTACTING THE
+18 PROVIDER.
+19 (3) IF THE PROVIDER FAILS TO RESPOND TO A MANAGED CARE
+20 ENTITY WITHIN THIRTY DAYS AFTER THE MANAGED CARE ENTITY
+21 CONTACTS OR ATTEMPTS TO CONTACT THE PROVIDER, THE MANAGED CARE
+22 ENTITY SHALL MAIL A FOLLOW-UP REQUEST TO THE PROVIDER BY
+23 CERTIFIED MAIL, RETURN RECEIPT REQUESTED. IF THE PROVIDER FAILS TO
+24 RESPOND TO THE MANAGED CARE ENTITY'S FOLLOW-UP REQUEST WITHIN
+25 THIRTY DAYS AFTER RECEIPT OF THE REQUEST, THE MANAGED CARE
+26 ENTITY SHALL REMOVE THE PROVIDER FROM THE STATE MEDICAL
+27 ASSISTANCE PROGRAM AND UPDATE ITS PROVIDER DIRECTORIES WITHIN
+-10- HB26-1002
+
+1 FIVE BUSINESS DAYS.
+2 SECTION 5. In Colorado Revised Statutes, add 25.5-4-437 as
+3 follows:
+4 25.5-4-437. Timely enrollment of mental health and substance
+5 use disorder providers - definitions.
+6 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+7 REQUIRES:
+8 (a) "APPLICANT" MEANS A PROVIDER WHO SUBMITS AN
+9 APPLICATION TO THE STATE DEPARTMENT TO BECOME AN ENROLLED
+10 MENTAL HEALTH PROVIDER OR SUBSTANCE USE DISORDER PROVIDER IN
+11 THE STATE MEDICAL ASSISTANCE PROGRAM.
+12 (b) "APPLICATION" MEANS AN APPLICANT'S APPLICATION TO
+13 BECOME AN ENROLLED MENTAL HEALTH PROVIDER OR SUBSTANCE USE
+14 DISORDER PROVIDER IN THE STATE MEDICAL ASSISTANCE PROGRAM.
+15 (c) "ENROLLED MENTAL HEALTH PROVIDER OR SUBSTANCE USE
+16 DISORDER PROVIDER" MEANS A MENTAL HEALTH PROVIDER OR SUBSTANCE
+17 USE DISORDER PROVIDER WHO IS ENROLLED IN THE STATE MEDICAL
+18 ASSISTANCE PROGRAM TO PROVIDE HEALTH-CARE ITEMS OR SERVICES TO
+19 MEMBERS.
+20 (d) "MENTAL HEALTH PROVIDER" MEANS A MENTAL HEALTH
+21 ENTITY LICENSED PURSUANT TO ARTICLE 1.5 OF TITLE 25 OR A MENTAL
+22 HEALTH PROFESSIONAL LICENSED OR CERTIFIED PURSUANT TO ARTICLE 245
+23 OF TITLE 12, EXCEPT FOR UNLICENSED PSYCHOTHERAPISTS REGULATED
+24 PURSUANT TO ARTICLE 245 OF TITLE 12.
+25 (e) "SUBSTANCE USE DISORDER PROVIDER" MEANS A MENTAL
+26 HEALTH ENTITY LICENSED PURSUANT TO ARTICLE 1.5 OF TITLE 25 THAT
+27 SPECIALIZES IN TREATING SUBSTANCE USE DISORDERS OR A MENTAL
+-11- HB26-1002
+
+1 HEALTH PROFESSIONAL LICENSED OR CERTIFIED PURSUANT TO ARTICLE 245
+2 OF TITLE 12 WHO SPECIALIZES IN TREATING SUBSTANCE USE DISORDERS,
+3 EXCEPT FOR UNLICENSED PSYCHOTHERAPISTS REGULATED PURSUANT TO
+4 ARTICLE 245 OF TITLE 12.
+5 (2) (a) WITHIN SEVEN CALENDAR DAYS AFTER A MANAGED CARE
+6 ENTITY RECEIVES AN APPLICATION, THE MANAGED CARE ENTITY SHALL
+7 PROVIDE THE APPLICANT A RECEIPT IN WRITTEN OR ELECTRONIC FORM.
+8 (b) UPON RECEIVING AN APPLICATION, THE MANAGED CARE ENTITY
+9 SHALL PROMPTLY DETERMINE WHETHER THE APPLICATION IS COMPLETE.
+10 IF THE MANAGED CARE ENTITY DETERMINES THAT THE APPLICATION IS
+11 INCOMPLETE, THE MANAGED CARE ENTITY SHALL NOTIFY THE APPLICANT
+12 IN WRITING OR BY ELECTRONIC MEANS WITHIN TEN CALENDAR DAYS AFTER
+13 RECEIPT OF THE APPLICATION THAT THE APPLICATION IS INCOMPLETE. THE
+14 NOTICE MUST DESCRIBE THE ITEMS THAT ARE REQUIRED TO COMPLETE THE
+15 APPLICATION.
+16 (c) IF THE MANAGED CARE ENTITY RECEIVES A COMPLETED
+17 APPLICATION BUT FAILS TO PROVIDE THE APPLICANT A RECEIPT IN WRITTEN
+18 OR ELECTRONIC FORM WITHIN SEVEN CALENDAR DAYS AFTER RECEIVING
+19 THE APPLICATION, AS REQUIRED BY SUBSECTION (2)(a) OF THIS SECTION,
+20 THE MANAGED CARE ENTITY SHALL CONSIDER THE APPLICANT AN
+21 ENROLLED MENTAL HEALTH PROVIDER OR SUBSTANCE USE DISORDER
+22 PROVIDER EFFECTIVE NO LATER THAN TWENTY-SIX CALENDAR DAYS AFTER
+23 THE MANAGED CARE ENTITY'S RECEIPT OF THE APPLICATION.
+24 (3) (a) A MANAGED CARE ENTITY SHALL CONCLUDE THE PROCESS
+25 OF ENROLLING AN APPLICANT WITHIN THIRTY CALENDAR DAYS AFTER THE
+26 MANAGED CARE ENTITY RECEIVES THE APPLICANT'S COMPLETED
+27 APPLICATION.
+-12- HB26-1002
+
+1 (b) A MANAGED CARE ENTITY SHALL PROVIDE EACH APPLICANT
+2 WRITTEN OR ELECTRONIC NOTICE OF THE OUTCOME OF THE APPLICANT'S
+3 APPLICATION FOR ENROLLMENT WITHIN TEN CALENDAR DAYS AFTER THE
+4 CONCLUSION OF THE ENROLLMENT PROCESS.
+5 (c) AFTER CONCLUDING THE ENROLLMENT PROCESS FOR AN
+6 APPLICANT AND MAKING A DETERMINATION REGARDING THE APPLICANT'S
+7 ENROLLMENT, A MANAGED CARE ENTITY SHALL PROVIDE THE APPLICANT,
+8 AT THE APPLICANT'S REQUEST AND AS ALLOWED BY LAW, ALL
+9 NONPROPRIETARY INFORMATION PERTAINING TO THE APPLICATION AND TO
+10 THE FINAL DECISION REGARDING THE APPLICATION.
+11 (4) A MANAGED CARE ENTITY SHALL CORRECT DISCREPANCIES IN
+12 ITS PROVIDER DIRECTORY WITHIN FIVE CALENDAR DAYS AFTER RECEIVING
+13 A REPORT OF THE DISCREPANCY FROM AN ENROLLED MENTAL HEALTH
+14 PROVIDER OR SUBSTANCE USE DISORDER PROVIDER. AN ENROLLED
+15 MENTAL HEALTH PROVIDER OR SUBSTANCE USE DISORDER PROVIDER
+16 SHALL NOTIFY THE MANAGED CARE ENTITY OF ANY CHANGE IN THE
+17 PROVIDER'S NAME, ADDRESS, TELEPHONE NUMBER, BUSINESS STRUCTURE,
+18 OR TAX IDENTIFICATION NUMBER WITHIN TEN BUSINESS DAYS AFTER
+19 MAKING THE CHANGE.
+20 SECTION 6. Act subject to petition - effective date. This act
+21 takes effect at 12:01 a.m. on the day following the expiration of the
+22 ninety-day period after final adjournment of the general assembly (August
+23 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+24 referendum petition is filed pursuant to section 1 (3) of article V of the
+25 state constitution against this act or an item, section, or part of this act
+26 within such period, then the act, item, section, or part will not take effect
+27 unless approved by the people at the general election to be held in
+-13- HB26-1002
+
+1 November 2026 and, in such case, will take effect on the date of the
+2 official declaration of the vote thereon by the governor.
+-14- HB26-1002

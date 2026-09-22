@@ -1,0 +1,439 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0501.03 Jacob Baus x2173 HOUSE BILL 26-1276
+HOUSE SPONSORSHIP
+Velasco and Garcia, Brown, Carter, Clifford, Duran, Froelich, Gilchrist, Goldstein,
+Jackson, Lindsay, Lukens, Mabrey, Martinez, McCormick, Nguyen, Paschal, Rutinel, Rydin,
+Sirota, Smith, Stewart K., Stewart R., Story, Titone, Willford, Woodrow, Zokaie
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO PROTECT THE SAFETY OF INDIVIDUALS
+102 WHO ARE IMMIGRANTS IN COLORADO.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the division of criminal justice (division) in the
+department of public safety (department) is required to create an annual
+report including information about law enforcement agency activity. The
+bill requires a law enforcement agency that participates in, or dedicates
+peace officers or resources to, a multijurisdictional or coordinated
+investigation or task force to submit that information to the division for
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+inclusion in the report. The division is required to submit the information
+to the general assembly's judiciary committees. A law enforcement
+agency is subject to a civil penalty for intentional failure to report the
+information as required.
+Under current law, a state agency or political subdivision employee
+who intentionally violates provisions concerning the treatment of a
+person's personal identifying information is subject to a civil penalty. The
+bill extends the civil penalty liability to the state agency or political
+subdivision.
+The bill requires a state agency or political subdivision that is
+served a subpoena by federal immigration authorities to send a copy of
+the subpoena to the department for the department to upload to its
+website. If the state agency or political subdivision fulfills the subpoena,
+the state agency or political subdivision is required to notify the person
+who is subject to the subpoena.
+The bill prohibits a governmental entity or an airport from
+engaging with federal immigration authorities to transport individuals
+detained by federal immigration authorities. A governmental entity that
+violates these requirements is subject to a civil penalty.
+The bill authorizes a public health agency to inspect or examine a
+facility that houses or detains individuals who are noncitizens for
+purposes of civil immigration proceedings.
+Under current law, the department of public health and
+environment is authorized to inspect facilities that house or detain
+individuals who are noncitizens for purposes of civil immigration
+proceedings. The bill expands the inspection authority, including the
+frequency of inspections and items that are subject to inspection. A
+facility that refuses to allow the inspection is subject to a license
+revocation or a civil penalty.
+The bill authorizes the department of public health and
+environment to require facilities that house or detain individuals who are
+noncitizens for purposes of civil immigration proceedings to require the
+facility to comply with requirements, including health and safety
+standards and paying for environmental impact studies. A facility that
+fails to comply is subject to a civil penalty. The bill requires the
+department of public health and environment to submit an annual report
+to the attorney general concerning facilities' compliance with these new
+requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-31-903, amend
+3 (1), (3), and (5); and add (2.5) as follows:
+-2- HB26-1276
+
+1 24-31-903. Division of criminal justice report - penalties.
+2 (1) Beginning July 1, 2023, The division of criminal justice in the
+3 department of public safety shall create an annual report including all of
+4 the information that is reported to the division pursuant to subsection (2)
+5 SUBSECTIONS (2) AND (2.5) of this section, aggregated and broken down
+6 IN TOTAL AND DISAGGREGATED by the law enforcement agency that
+7 employs peace officers, along with the underlying data.
+8 (2.5) (a) ON OR BEFORE JULY 15, 2026, AND ON OR BEFORE JULY
+9 15 EACH YEAR THEREAFTER, A LAW ENFORCEMENT AGENCY THAT
+10 PARTICIPATES IN A MULTIJURISDICTIONAL OR COORDINATED
+11 INVESTIGATION OR TASK FORCE, OR THAT DEDICATES PEACE OFFICERS OR
+12 RESOURCES TO A MULTIJURISDICTIONAL OR COORDINATED INVESTIGATION
+13 OR TASK FORCE, SHALL SUBMIT A REPORT TO THE DIVISION OF CRIMINAL
+14 JUSTICE IN THE DEPARTMENT OF PUBLIC SAFETY. THE REPORT MUST
+15 CONTAIN INFORMATION REGARDING EACH MULTIJURISDICTIONAL OR
+16 COORDINATED INVESTIGATION OR TASK FORCE THE AGENCY PARTICIPATED
+17 IN. THE REPORT MUST INCLUDE THE FOLLOWING INFORMATION REGARDING
+18 THE PERIOD FROM JULY 1 THROUGH JUNE 30 IMMEDIATELY PRECEDING
+19 THE REPORT SUBMISSION:
+20 (I) THE PURPOSE OF THE MULTIJURISDICTIONAL OR COORDINATED
+21 INVESTIGATION OR TASK FORCE THE LAW ENFORCEMENT AGENCY
+22 PARTICIPATED IN OR DEDICATED PEACE OFFICERS OR RESOURCES TO;
+23 (II) EACH FEDERAL, STATE, AND LOCAL LAW ENFORCEMENT
+24 AGENCY THAT PARTICIPATED IN, OR DEDICATED PEACE OFFICERS OR
+25 RESOURCES TO, THE MULTIJURISDICTIONAL OR COORDINATED
+26 INVESTIGATION OR TASK FORCE;
+27 (III) THE TOTAL NUMBER OF ARRESTS MADE BY A PARTICIPATING
+-3- HB26-1276
+
+1 AGENCY DURING THE REPORTING PERIOD AS A RESULT OF THE
+2 MULTIJURISDICTIONAL OR COORDINATED INVESTIGATION OR TASK FORCE
+3 THE LAW ENFORCEMENT AGENCY PARTICIPATED IN OR DEDICATED PEACE
+4 OFFICERS OR RESOURCES TO; AND
+5 (IV) THE TOTAL NUMBER OF PEOPLE DETAINED FOR IMMIGRATION
+6 PURPOSES OR CRIMINAL VIOLATIONS FOR OFFENSES RELATED TO AN
+7 INDIVIDUAL'S IMMIGRATION STATUS BY A PARTICIPATING AGENCY AS A
+8 RESULT OF THE MULTIJURISDICTIONAL OR COORDINATED INVESTIGATION
+9 OR TASK FORCE THE LAW ENFORCEMENT AGENCY PARTICIPATED IN OR
+10 DEDICATED PEACE OFFICERS OR RESOURCES TO.
+11 (b) (I) ON OR BEFORE JANUARY 15, 2027, AND ON OR BEFORE
+12 JANUARY 15 EACH YEAR THEREAFTER, THE DIVISION OF CRIMINAL JUSTICE
+13 IN THE DEPARTMENT OF PUBLIC SAFETY SHALL SUBMIT A REPORT TO THE
+14 JUDICIARY COMMITTEES OF THE HOUSE OF REPRESENTATIVES AND THE
+15 SENATE, OR THEIR SUCCESSOR COMMITTEES, CONCERNING THE
+16 INFORMATION RECEIVED PURSUANT TO SUBSECTION (2.5)(a) OF THIS
+17 SECTION.
+18 (II) NOTWITHSTANDING SECTION 24-1-136 (11)(a)(I), THE
+19 REQUIREMENT TO SUBMIT THE REPORT IN THIS SUBSECTION (2.5)
+20 CONTINUES INDEFINITELY.
+21 (c) AS USED IN THIS SUBSECTION (2.5), UNLESS THE CONTEXT
+22 OTHERWISE REQUIRES:
+23 (I) "LAW ENFORCEMENT AGENCY" HAS THE MEANING SET FORTH
+24 IN SECTION 16-2.5-402.
+25 (II) "PARTICIPATING AGENCY" MEANS A FEDERAL, STATE, OR
+26 LOCAL LAW ENFORCEMENT AGENCY THAT PARTICIPATED IN, OR
+27 DEDICATED PEACE OFFICERS OR RESOURCES TO, A MULTIJURISDICTIONAL
+-4- HB26-1276
+
+1 OR COORDINATED INVESTIGATION OR TASK FORCE.
+2 (3) The Colorado state patrol and local law enforcement agencies,
+3 PURSUANT TO SUBSECTION (2) OF THIS SECTION, AND LAW ENFORCEMENT
+4 AGENCIES, PURSUANT TO SUBSECTION (2.5) OF THIS SECTION, shall not
+5 report the name, address, social security number, or other unique personal
+6 identifying information of the subject of the use of force, victim of the
+7 official misconduct, eyewitness or subject in a showup, or persons
+8 contacted, searched, or subjected to a property seizure. Notwithstanding
+9 any provision of law to the contrary, the data reported pursuant to this
+10 section is available to the public pursuant to subsection (4) of this section.
+11 (5) (a) The Colorado state patrol, and any A local law enforcement
+12 agency, OR A LAW ENFORCEMENT AGENCY that fails to meet its reporting
+13 requirements pursuant to this section is:
+14 (a) (I) Subject to the suspension of its funding by its appropriating
+15 authority; and
+16 (b) (II) Unless the Colorado state patrol, or local law enforcement
+17 agency, OR LAW ENFORCEMENT AGENCY is working with the division of
+18 criminal justice to meet its reporting requirements pursuant to this section,
+19 not eligible to be awarded grants under the multidisciplinary crime
+20 prevention grant program CREATED in section 24-33.5-527; the law
+21 enforcement workforce recruitment, retention, and tuition grant program
+22 CREATED in section 24-33.5-528; or the state's mission for assistance in
+23 recruiting and training (SMART) policing grant program CREATED in
+24 section 24-33.5-529.
+25 (b) (I) IN ADDITION TO PENALTIES DESCRIBED IN SUBSECTION (5)(a)
+26 OF THIS SECTION, IF A LAW ENFORCEMENT AGENCY DESCRIBED IN
+27 SUBSECTION (2.5) OF THIS SECTION INTENTIONALLY FAILS TO DISCLOSE A
+-5- HB26-1276
+
+1 MULTIJURISDICTIONAL OR COORDINATED INVESTIGATION OR TASK FORCE
+2 THAT THE LAW ENFORCEMENT AGENCY PARTICIPATED IN, OR A
+3 MULTIJURISDICTIONAL OR COORDINATED INVESTIGATION OR TASK FORCE
+4 THAT THE LAW ENFORCEMENT AGENCY DEDICATED PEACE OFFICERS OR
+5 RESOURCES TO, THE LAW ENFORCEMENT AGENCY IS LIABLE FOR A CIVIL
+6 PENALTY OF NOT MORE THAN FIFTY THOUSAND DOLLARS FOR EACH
+7 VIOLATION.
+8 (II) THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE
+9 THIS SUBSECTION (5)(b), INCLUDING AN ACTION SEEKING A CIVIL PENALTY.
+10 (III) ANY CIVIL PENALTY MONEY COLLECTED PURSUANT TO THIS
+11 SUBSECTION (5)(b) MUST BE TRANSFERRED TO THE STATE TREASURER,
+12 WHO SHALL CREDIT THE MONEY TO THE IMMIGRATION LEGAL DEFENSE
+13 FUND ESTABLISHED PURSUANT TO SECTION 8-3.8-101.
+14 SECTION 2. In Colorado Revised Statutes, 24-74-107, amend
+15 (1) as follows:
+16 24-74-107. Data privacy breaches - civil penalty - legislative
+17 declaration.
+18 (1) (a) A state agency employee or political subdivision employee
+19 who, AND THE STATE AGENCY OR POLITICAL SUBDIVISION THAT EMPLOYS
+20 THE EMPLOYEE WHO, intentionally violates a provision of this article 74
+21 or section 25-2-108.5 is ARE EACH subject to an injunction and is ARE
+22 EACH liable for a civil penalty of not more than fifty thousand dollars for
+23 each violation.
+24 (b) THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE
+25 THIS SUBSECTION (1), INCLUDING AN ACTION SEEKING A CIVIL PENALTY.
+26 SECTION 3. In Colorado Revised Statutes, add 24-76.6-105 as
+27 follows:
+-6- HB26-1276
+
+1 24-76.6-105. Public disclosure of federal subpoena.
+2 (1) WITHIN THIRTY DAYS AFTER THE EFFECTIVE DATE OF THIS
+3 SECTION, THE DEPARTMENT OF PUBLIC SAFETY SHALL MAKE AVAILABLE
+4 ON A PUBLIC-FACING PAGE ON THE DEPARTMENT'S WEBSITE A COPY OF ALL
+5 SUBPOENAS SERVED BY FEDERAL IMMIGRATION AUTHORITIES ON A STATE
+6 AGENCY OR POLITICAL SUBDIVISION, AS EACH IS DEFINED IN SECTION
+7 24-74-102. A STATE AGENCY OR POLITICAL SUBDIVISION THAT IS SERVED
+8 WITH A SUBPOENA BY FEDERAL IMMIGRATION AUTHORITIES SHALL
+9 PROVIDE A COPY OF THE SUBPOENA WITHIN SEVENTY-TWO HOURS AFTER
+10 RECEIVING THE SUBPOENA TO THE DEPARTMENT OF PUBLIC SAFETY FOR
+11 DISPLAY ON THE DEPARTMENT'S WEBSITE. THE DEPARTMENT OF PUBLIC
+12 SAFETY SHALL UPDATE ITS WEBSITE TO INCLUDE THE COPY OF THE
+13 SUBPOENA WITHIN TWENTY-FOUR HOURS AFTER RECEIVING THE COPY OF
+14 THE SUBPOENA FROM A STATE AGENCY OR POLITICAL SUBDIVISION. THE
+15 DEPARTMENT OF PUBLIC SAFETY SHALL USE EXISTING OR FREELY
+16 AVAILABLE TECHNOLOGY TO ACCOMPLISH THE REQUIREMENTS OF THIS
+17 SUBSECTION (1).
+18 (2) (a) A STATE AGENCY OR POLITICAL SUBDIVISION THAT IS
+19 SERVED WITH A SUBPOENA BY FEDERAL IMMIGRATION AUTHORITIES SHALL
+20 INFORM THE HOUSE OF REPRESENTATIVES JUDICIARY COMMITTEE AND THE
+21 SENATE JUDICIARY COMMITTEE, OR THEIR SUCCESSOR COMMITTEES,
+22 WITHIN SEVENTY-TWO HOURS AFTER RECEIVING THE SUBPOENA.
+23 (b) IF A STATE AGENCY OR POLITICAL SUBDIVISION FULFILLS A
+24 SUBPOENA SERVED UPON THE STATE AGENCY OR POLITICAL SUBDIVISION
+25 BY FEDERAL IMMIGRATION AUTHORITIES AND THE SUBPOENA CONTAINS
+26 INFORMATION ABOUT, CONCERNING, OR OTHERWISE RELATING TO AN
+27 INDIVIDUAL WHO LIVES IN COLORADO, THE STATE AGENCY OR POLITICAL
+-7- HB26-1276
+
+1 SUBDIVISION SHALL INFORM THE INDIVIDUAL AT THEIR LAST-KNOWN
+2 ADDRESS THAT THEIR INFORMATION HAS BEEN SHARED WITH FEDERAL
+3 IMMIGRATION AUTHORITIES WITHIN SEVENTY-TWO HOURS AFTER
+4 FULFILLING THE SUBPOENA.
+5 SECTION 4. In Colorado Revised Statutes, add 24-76.7-104 as
+6 follows:
+7 24-76.7-104. Transportation for deportation purposes
+8 prohibited - civil penalty.
+9 (1) A GOVERNMENTAL ENTITY SHALL NOT:
+10 (a) TRANSPORT BY ANY MEANS, INCLUDING BY MUNICIPAL BUS OR
+11 TRAIN, INDIVIDUALS DETAINED BY FEDERAL IMMIGRATION AUTHORITIES
+12 FOR THE PURPOSE OF DEPORTATION;
+13 (b) PROVIDE AN ITEM OF ITS FLEET, INCLUDING A MUNICIPAL BUS
+14 OR TRAIN, TO A GOVERNMENTAL ENTITY FOR THE TRANSPORT OF
+15 INDIVIDUALS DETAINED BY FEDERAL IMMIGRATION AUTHORITIES FOR THE
+16 PURPOSE OF DEPORTATION; OR
+17 (c) ENTER INTO, RENEW, OR EXTEND ANY AGREEMENT WITH A
+18 GOVERNMENTAL ENTITY FOR THE TRANSPORT BY ANY MEANS, INCLUDING
+19 BY MUNICIPAL BUS OR TRAIN, OF INDIVIDUALS DETAINED BY FEDERAL
+20 IMMIGRATION AUTHORITIES FOR THE PURPOSE OF DEPORTATION.
+21 (2) (a) A GOVERNMENTAL ENTITY THAT VIOLATES THIS SECTION IS
+22 LIABLE FOR A CIVIL PENALTY OF NOT MORE THAN FIFTY THOUSAND
+23 DOLLARS FOR EACH VIOLATION.
+24 (b) THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE
+25 THIS SECTION, INCLUDING AN ACTION SEEKING INJUNCTIVE RELIEF OR A
+26 CIVIL PENALTY.
+27 (c) ANY CIVIL PENALTY MONEY COLLECTED PURSUANT TO THIS
+-8- HB26-1276
+
+1 SECTION MUST BE TRANSFERRED TO THE STATE TREASURER, WHO SHALL
+2 CREDIT THE MONEY TO THE IMMIGRATION LEGAL DEFENSE FUND
+3 ESTABLISHED PURSUANT TO SECTION 8-3.8-101.
+4 SECTION 5. In Colorado Revised Statutes, add 24-76.7-105 as
+5 follows:
+6 24-76.7-105. Airport for deportation purposes prohibited - civil
+7 penalty.
+8 (1) AN AIRPORT OPERATED PURSUANT TO PART 1 OR PART 2 OF
+9 ARTICLE 4 OF TITLE 41 SHALL NOT ENTER INTO, RENEW, OR EXTEND A
+10 CONTRACT, GRANT, OR COOPERATIVE AGREEMENT WITH A COMMERCIAL
+11 AIRLINE OR GOVERNMENTAL ENTITY THAT TRANSPORTS INDIVIDUALS
+12 DETAINED BY FEDERAL IMMIGRATION AUTHORITIES FOR THE PURPOSE OF
+13 DEPORTATION.
+14 (2) (a) AN AIRPORT THAT VIOLATES THIS SECTION IS LIABLE FOR A
+15 CIVIL PENALTY OF NOT MORE THAN FIFTY THOUSAND DOLLARS FOR EACH
+16 VIOLATION.
+17 (b) THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE
+18 THIS SECTION, INCLUDING AN ACTION SEEKING INJUNCTIVE RELIEF OR A
+19 CIVIL PENALTY.
+20 (c) ANY CIVIL PENALTY MONEY COLLECTED PURSUANT TO THIS
+21 SECTION MUST BE TRANSFERRED TO THE STATE TREASURER, WHO SHALL
+22 CREDIT THE MONEY TO THE IMMIGRATION LEGAL DEFENSE FUND
+23 ESTABLISHED PURSUANT TO SECTION 8-3.8-101.
+24 SECTION 6. In Colorado Revised Statutes, 25-1-506, amend
+25 (3)(b) introductory portion, (3)(b)(XIV), and (3)(b)(XV); and add
+26 (3)(b)(XVI) as follows:
+27 25-1-506. County or district public health agency.
+-9- HB26-1276
+
+1 (3) (b) In addition to other powers and duties, an agency shall
+2 have HAS the following duties:
+3 (XIV) To collaborate with the state department and the state board
+4 in all matters pertaining to public health, the water quality control
+5 commission in all matters pertaining to water quality, the air quality
+6 control commission and the division of administration of the state
+7 department in all matters pertaining to air pollution, and the solid and
+8 hazardous waste commission in all matters pertaining to solid and
+9 hazardous waste; and
+10 (XV) To establish or arrange for the establishment of, by January
+11 1, 2015, and subject to available appropriations, a local or regional child
+12 fatality prevention review team pursuant to section 25-20.5-404; AND
+13 (XVI) IN ITS DISCRETION, TO INSPECT OR EXAMINE A FACILITY
+14 THAT HOUSES OR DETAINS INDIVIDUALS WHO ARE NONCITIZENS FOR
+15 PURPOSES OF CIVIL IMMIGRATION PROCEEDINGS.
+16 SECTION 7. In Colorado Revised Statutes, 25-1.5-101, amend
+17 (1)(i)(I)(D); and add (1)(dd) as follows:
+18 25-1.5-101. Powers and duties of department - laboratory cash
+19 fund - office of suicide prevention - suicide prevention coordination
+20 cash fund - dispensation of payments under contracts with grantees
+21 - report - rules - definitions.
+22 (1) The department has, in addition to all other powers and duties
+23 imposed upon it by law, the powers and duties provided in this section as
+24 follows:
+25 (i) (I) (D) With respect to any A facility that houses or detains
+26 INDIVIDUALS WHO ARE noncitizens for purposes of civil immigration
+27 proceedings, such THE inspections and examinations must be made
+-10- HB26-1276
+
+1 annually, and additional unannounced inspections may AND
+2 EXAMINATIONS MUST be conducted after the annual inspection.
+3 UNANNOUNCED INSPECTIONS AND EXAMINATIONS MUST BE MADE AT
+4 LEAST ONE TIME EVERY THREE MONTHS, AND MAY BE MADE MORE
+5 FREQUENTLY, AND THE FACILITY SHALL PAY FOR THE INSPECTIONS AND
+6 EXAMINATIONS. THE INSPECTIONS AND EXAMINATIONS MADE PURSUANT
+7 TO THIS SUBSECTION (1)(i)(I)(D) MUST INCLUDE A REVIEW OF THE
+8 FOLLOWING: ADHERENCE TO FOOD SAFETY STANDARDS AND DRINKING
+9 WATER QUALITY STANDARDS, CONFINEMENT CONDITIONS, AND
+10 STANDARDS OF CARE PROVIDED TO INDIVIDUALS WHO ARE DETAINED IN
+11 THE FACILITY. THE FACILITY SHALL PROVIDE TO A DEPARTMENT
+12 REPRESENTATIVE WHO IS CONDUCTING AN INSPECTION OR EXAMINATION
+13 PURSUANT TO THIS SUBSECTION (1)(i)(I)(D) ALL ACCESS NECESSARY TO
+14 PERFORM THE INSPECTION, INCLUDING ACCESS TO PEOPLE WHO ARE
+15 DETAINED, RECORDS, FACILITY OFFICIALS, AND FACILITY PERSONNEL. IF A
+16 FACILITY REFUSES TO ALLOW AN INSPECTION OR EXAMINATION, THE
+17 DEPARTMENT MAY REVOKE THE FACILITY'S LICENSE, AND THE FACILITY IS
+18 LIABLE FOR A CIVIL PENALTY OF NOT MORE THAN FIFTY THOUSAND
+19 DOLLARS FOR EACH REFUSAL. THE ATTORNEY GENERAL MAY BRING AN
+20 ACTION TO ENFORCE THIS SUBSECTION (1)(i)(I)(D), INCLUDING AN ACTION
+21 SEEKING A CIVIL PENALTY. ANY CIVIL PENALTY MONEY COLLECTED
+22 PURSUANT TO THIS SUBSECTION (1)(i)(I)(D) MUST BE TRANSFERRED TO
+23 THE STATE TREASURER, WHO SHALL CREDIT THE MONEY TO THE
+24 IMMIGRATION LEGAL DEFENSE FUND ESTABLISHED PURSUANT TO SECTION
+25 8-3.8-101. THE DEPARTMENT MAY ADOPT RULES IT DETERMINES ARE
+26 NECESSARY FOR PURPOSES OF THIS SUBSECTION (1)(i)(I)(D).
+27 (dd) (I) WITH RESPECT TO A FACILITY THAT HOUSES OR DETAINS
+-11- HB26-1276
+
+1 INDIVIDUALS WHO ARE NONCITIZENS FOR PURPOSES OF CIVIL IMMIGRATION
+2 PROCEEDINGS, THE POWER TO REQUIRE THE FACILITY TO:
+3 (A) PROVIDE TO THE DEPARTMENT A YEARLY REPORT DETAILING
+4 THE FOLLOWING: THE OUTCOMES OF PREGNANT INDIVIDUALS IN THE
+5 FACILITY, OUTCOMES OF INDIVIDUALS WITH CHRONIC HEALTH CONDITIONS,
+6 OUTCOMES OF INDIVIDUALS WITH DISABILITIES, ACCESS TO FOOD FOR
+7 INDIVIDUALS WITH DIETARY RESTRICTIONS, AVERAGE TEMPERATURE
+8 WITHIN THE FACILITY, HIGHEST AND LOWEST TEMPERATURES RECORDED
+9 WITHIN THE FACILITY, INDIVIDUALS' ACCESS TO AN ATTORNEY, AND
+10 INDIVIDUALS' ACCESS TO SPACES OF WORSHIP OR SILENT REFLECTION;
+11 (B) PAY FOR AND PASS AN ENVIRONMENTAL IMPACT STUDY. IF THE
+12 ENVIRONMENTAL IMPACT STUDY IDENTIFIES A NEGATIVE IMPACT THAT IS
+13 OR WILL BE CAUSED BY THE FACILITY, THE FACILITY IS PROHIBITED FROM
+14 OPERATING UNTIL THE NEGATIVE IMPACT IS CORRECTED. THE FACILITY
+15 SHALL PAY FOR ANY COST INCURRED RELATED TO PERMITTING OR AGENCY
+16 REVIEW AS REQUIRED BY LAW.
+17 (C) PROHIBIT THE HOUSING OR DETENTION OF A MINOR IN THE
+18 SAME ROOM AS A NONFAMILIAL ADULT; AND
+19 (D) ON THE FACILITY'S SITE AND AT ALL TIMES, STAFF THE
+20 FACILITY WITH MEDICAL PROFESSIONALS AND MENTAL HEALTH
+21 PROFESSIONALS WHO ARE ACCESSIBLE TO INDIVIDUALS WHO ARE
+22 NONCITIZENS AND DETAINED FOR PURPOSES OF CIVIL IMMIGRATION
+23 PROCEEDINGS.
+24 (II) (A) IF A FACILITY FAILS TO COMPLY WITH A REQUIREMENT
+25 IMPOSED BY THE DEPARTMENT PURSUANT TO THIS SUBSECTION (1)(dd),
+26 THE DEPARTMENT MAY REVOKE THE FACILITY'S LICENSE. IF THE
+27 DEPARTMENT DOES NOT REVOKE THE FACILITY'S LICENSE, THE FACILITY IS
+-12- HB26-1276
+
+1 LIABLE FOR A CIVIL PENALTY OF NOT MORE THAN FIFTY THOUSAND
+2 DOLLARS FOR EACH VIOLATION.
+3 (B) THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE
+4 THIS SUBSECTION (1)(dd), INCLUDING AN ACTION SEEKING A CIVIL
+5 PENALTY.
+6 (C) ANY CIVIL PENALTY MONEY COLLECTED PURSUANT TO THIS
+7 SUBSECTION (1)(dd) MUST BE TRANSFERRED TO THE STATE TREASURER,
+8 WHO SHALL CREDIT THE MONEY TO THE IMMIGRATION LEGAL DEFENSE
+9 FUND ESTABLISHED PURSUANT TO SECTION 8-3.8-101.
+10 (III) ON OR BEFORE JANUARY 15, 2027, AND ON OR BEFORE
+11 JANUARY 15 EACH YEAR THEREAFTER, THE DEPARTMENT SHALL SUBMIT
+12 A REPORT TO THE ATTORNEY GENERAL REGARDING FACILITIES'
+13 COMPLIANCE WITH THIS SUBSECTION (1)(dd) AND INFORMATION
+14 COLLECTED PURSUANT TO SUBSECTION (1)(dd)(I)(A) OF THIS SECTION.
+15 THE DEPARTMENT SHALL MAKE THE REPORT AVAILABLE ON A
+16 PUBLIC-FACING PAGE ON THE DEPARTMENT'S WEBSITE.
+17 (IV) THIS SUBSECTION (1)(dd) APPLIES TO LOCAL, COUNTY, OR
+18 PRIVATE DETENTION FACILITIES THAT HOUSE OR DETAIN INDIVIDUALS WHO
+19 ARE NONCITIZENS FOR PURPOSES OF CIVIL IMMIGRATION PROCEEDINGS,
+20 INCLUDING ANY FACILITY THAT IS OPERATED ON BEHALF OF OR PURSUANT
+21 TO A CONTRACT WITH FEDERAL IMMIGRATION AUTHORITIES. THIS
+22 SUBSECTION (1)(dd) DOES NOT APPLY TO DETENTION FACILITIES OPERATED
+23 DIRECTLY BY THE FEDERAL GOVERNMENT.
+24 (V) THE DEPARTMENT MAY ADOPT RULES IT DETERMINES ARE
+25 NECESSARY FOR PURPOSES OF THIS SUBSECTION (1)(dd).
+26 (VI) AS USED IN THIS SUBSECTION (1)(dd), UNLESS THE CONTEXT
+27 OTHERWISE REQUIRES:
+-13- HB26-1276
+
+1 (A) "MEDICAL PROFESSIONAL" MEANS AN ADVANCED PRACTICE
+2 REGISTERED NURSE REGISTERED PURSUANT TO SECTION 12-255-111, A
+3 PHYSICIAN ASSISTANT LICENSED PURSUANT TO SECTION 12-240-113, OR
+4 A MEDICAL DOCTOR OR DOCTOR OF OSTEOPATHY LICENSED PURSUANT TO
+5 ARTICLE 240 OF TITLE 12.
+6 (B) "MENTAL HEALTH PROFESSIONAL" MEANS A MENTAL HEALTH
+7 PROFESSIONAL LICENSED OR CERTIFIED PURSUANT TO ARTICLE 245 OF
+8 TITLE 12, AN ADVANCED PRACTICE REGISTERED NURSE REGISTERED
+9 PURSUANT TO SECTION 12-255-111 WITH TRAINING IN SUBSTANCE USE
+10 DISORDERS OR MENTAL HEALTH, OR A PHYSICIAN ASSISTANT LICENSED
+11 PURSUANT TO SECTION 12-240-113 WITH TRAINING IN SUBSTANCE USE
+12 DISORDERS OR MENTAL HEALTH. "MENTAL HEALTH PROFESSIONAL" DOES
+13 NOT MEAN AN UNLICENSED PSYCHOTHERAPIST AS DEFINED IN SECTION
+14 12-245-202.
+15 SECTION 8. In Colorado Revised Statutes, 8-3.8-101, amend
+16 (2)(b) as follows:
+17 8-3.8-101. Immigration legal assistance - fund - report -
+18 definitions.
+19 (2) (b) The state treasurer shall credit any civil penalty money
+20 transferred to the state treasurer pursuant to section 24-31-903 (5)(b),
+21 24-74-107, or 24-74.1-103, 24-76.7-104 (2), 24-76.7-105 (2), OR
+22 25-1.5-101 (1)(i)(I)(D) OR (1)(dd) and interest and income derived from
+23 the deposit and investment of the civil penalty money in the fund to the
+24 fund.
+25 SECTION 9. Severability. If any provision of this act or the
+26 application of this act to any person or circumstance is held invalid, the
+27 invalidity does not affect other provisions or applications of the act that
+-14- HB26-1276
+
+1 can be given effect without the invalid provision or application, and to
+2 this end the provisions of this act are declared to be severable.
+3 SECTION 10. Safety clause. The general assembly finds,
+4 determines, and declares that this act is necessary for the immediate
+5 preservation of the public peace, health, or safety or for appropriations for
+6 the support and maintenance of the departments of the state and state
+7 institutions.
+-15- HB26-1276
