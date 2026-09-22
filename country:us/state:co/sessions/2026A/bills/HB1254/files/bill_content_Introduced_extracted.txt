@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0781.03 Stephanie Schrab x4330 HOUSE BILL 26-1254
+HOUSE SPONSORSHIP
+Brooks and Suckla, Bacon
+SENATE SPONSORSHIP
+Frizell,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING THE ENFORCEMENT OF RECOMMENDATIONS MADE BY
+102 THE STATE AUDITOR.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill defines "noncompliant state agency" with respect to the
+implementation date for an audit recommendation and requires the
+legislative audit committee (committee) to determine, by majority vote,
+whether or not a noncompliant state agency has made a good faith effort
+to comply with an audit recommendation by the implementation date. If
+the committee determines that the noncompliant state agency has made
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+a good faith effort, the committee may accept an extended
+implementation date provided by the noncompliant state agency. If the
+committee determines there has not been a good faith effort, the
+committee may direct the state auditor to notify the state controller of the
+noncompliant state agency. The bill also requires the state controller to,
+upon receipt of notice from the state auditor, restrict, in an amount equal
+to 3% of the total amount of the noncompliant state agency's general fund
+appropriations, the noncompliant state agency's appropriations for the
+fiscal year following the fiscal year in which the state controller receives
+the notice from the state auditor. This restriction may only be released if
+the general assembly enacts a bill to do so, or if the committee directs the
+state auditor to notify the state controller to rescind the restriction.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 2-3-103, add (9.6)
+3 as follows:
+4 2-3-103. Duties of state auditor - definitions.
+5 (9.6) (a) AS USED IN THIS SECTION, UNLESS THE CONTEXT
+6 OTHERWISE REQUIRES:
+7 (I) "STATE AGENCY" MEANS A PRINCIPAL DEPARTMENT OF THE
+8 EXECUTIVE BRANCH OF STATE GOVERNMENT OR ANY DIVISION OR
+9 PROGRAM WITHIN A PRINCIPAL DEPARTMENT.
+10 (II) "NONCOMPLIANT STATE AGENCY" MEANS A STATE AGENCY
+11 THAT:
+12 (A) WAS SUBJECT TO AN AUDIT THAT IDENTIFIED A SIGNIFICANT
+13 PROBLEM OR A MATERIAL WEAKNESS IN THE STATE AGENCY;
+14 (B) HAS, AT A HEARING OF THE LEGISLATIVE AUDIT COMMITTEE,
+15 AGREED OR PARTIALLY AGREED TO THE AUDIT RECOMMENDATION AND
+16 SELECTED A DATE FOR IMPLEMENTING THE AUDITOR'S RECOMMENDATION;
+17 AND
+18 (C) HAS NOT COMPLETED THE AUDIT RECOMMENDATION BY THAT
+19 IMPLEMENTATION DATE.
+-2- HB26-1254
+
+1 (b) IF A STATE AGENCY BECOMES A NONCOMPLIANT STATE
+2 AGENCY, THE LEGISLATIVE AUDIT COMMITTEE SHALL, AT ITS NEXT
+3 REGULAR MEETING AND WITH A REPRESENTATIVE OF THE NONCOMPLIANT
+4 STATE AGENCY PRESENT, DETERMINE WHETHER THE NONCOMPLIANT
+5 STATE AGENCY HAS MADE A GOOD FAITH EFFORT TO COMPLETE THE
+6 RECOMMENDATION OF THE AUDIT BY THE IMPLEMENTATION DATE.
+7 (c) (I) IF THE LEGISLATIVE AUDIT COMMITTEE DETERMINES BY A
+8 MAJORITY VOTE THAT THE NONCOMPLIANT STATE AGENCY HAS MADE A
+9 GOOD FAITH EFFORT TO IMPLEMENT THE RECOMMENDATION BY THE
+10 IMPLEMENTATION DATE, THE COMMITTEE MAY ACCEPT AN EXTENDED
+11 IMPLEMENTATION DATE PROVIDED BY THE NONCOMPLIANT STATE
+12 AGENCY.
+13 (II) IF THE LEGISLATIVE AUDIT COMMITTEE DETERMINES BY A
+14 MAJORITY VOTE THAT THE NONCOMPLIANT STATE AGENCY HAS NOT MADE
+15 A GOOD FAITH EFFORT TO IMPLEMENT THE RECOMMENDATION BY THE
+16 IMPLEMENTATION DATE, THE COMMITTEE MAY DIRECT THE STATE
+17 AUDITOR TO TAKE THE ACTIONS SPECIFIED IN SUBSECTION (9.6)(e) OF THIS
+18 SECTION.
+19 (d) IF THE LEGISLATIVE AUDIT COMMITTEE EXTENDS THE
+20 IMPLEMENTATION DATE AS SPECIFIED IN SUBSECTION (9.6)(c)(I) OF THIS
+21 SECTION AND THE NONCOMPLIANT STATE AGENCY DOES NOT COMPLETE
+22 THE AUDIT RECOMMENDATION BY THE EXTENDED IMPLEMENTATION DATE,
+23 THE LEGISLATIVE AUDIT COMMITTEE MAY AGAIN DETERMINE WHETHER
+24 THE NONCOMPLIANT STATE AGENCY MADE A GOOD FAITH EFFORT TO
+25 IMPLEMENT THE AUDIT RECOMMENDATION PURSUANT TO SUBSECTION
+26 (9.6)(b) OF THIS SECTION AND MAY THEN TAKE EITHER ACTION SPECIFIED
+27 IN SUBSECTION (9.6)(c) OF THIS SECTION.
+-3- HB26-1254
+
+1 (e) THE LEGISLATIVE AUDIT COMMITTEE, BY A MAJORITY VOTE OF
+2 THE COMMITTEE, MAY DIRECT THE STATE AUDITOR TO NOTIFY THE STATE
+3 CONTROLLER WHEN A NONCOMPLIANT STATE AGENCY HAS NOT MADE A
+4 GOOD FAITH EFFORT TO COMPLETE AN AUDIT RECOMMENDATION BY THE
+5 IMPLEMENTATION DATE.
+6 (f) THE STATE AUDITOR SHALL MAKE ONLY ONE NOTIFICATION
+7 PURSUANT TO SUBSECTION (9.6)(e) OF THIS SECTION FOR A NONCOMPLIANT
+8 STATE AGENCY FOR A SINGLE AUDIT, REGARDLESS OF THE NUMBER OF
+9 AUDIT RECOMMENDATIONS THAT CAUSED THE STATE AGENCY TO BECOME
+10 A NONCOMPLIANT STATE AGENCY.
+11 SECTION 2. In Colorado Revised Statutes, add 24-30-211 as
+12 follows:
+13 24-30-211. Restriction of general fund appropriation - state
+14 agency noncompliance with audit requirements - state auditor notice.
+15 IF THE STATE CONTROLLER RECEIVES NOTICE FROM THE STATE
+16 AUDITOR OF A NONCOMPLIANT STATE AGENCY PURSUANT TO SECTION
+17 2-3-103 (9.6), THE STATE CONTROLLER SHALL RESTRICT, IN AN AMOUNT
+18 EQUAL TO THREE PERCENT OF THE TOTAL AMOUNT OF THE NONCOMPLIANT
+19 STATE AGENCY'S GENERAL FUND APPROPRIATIONS, THE NONCOMPLIANT
+20 STATE AGENCY'S APPROPRIATIONS FOR THE FISCAL YEAR FOLLOWING THE
+21 FISCAL YEAR IN WHICH THE STATE CONTROLLER RECEIVES THE NOTICE
+22 FROM THE STATE AUDITOR. THE GENERAL ASSEMBLY MAY ENACT A BILL
+23 TO RELEASE THE RESTRICTION, OR THE LEGISLATIVE AUDIT COMMITTEE
+24 MAY, BY MAJORITY VOTE, DIRECT THE STATE AUDITOR TO NOTIFY THE
+25 STATE CONTROLLER TO RESCIND THE RESTRICTION IF THE STATE AUDITOR
+26 DETERMINES THAT THE STATE AGENCY HAS BECOME COMPLIANT BEFORE
+27 THE RESTRICTION TAKES EFFECT.
+-4- HB26-1254
+
+1 SECTION 3. Act subject to petition - effective date. This act
+2 takes effect at 12:01 a.m. on the day following the expiration of the
+3 ninety-day period after final adjournment of the general assembly (August
+4 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+5 referendum petition is filed pursuant to section 1 (3) of article V of the
+6 state constitution against this act or an item, section, or part of this act
+7 within such period, then the act, item, section, or part will not take effect
+8 unless approved by the people at the general election to be held in
+9 November 2026 and, in such case, will take effect on the date of the
+10 official declaration of the vote thereon by the governor.
+-5- HB26-1254

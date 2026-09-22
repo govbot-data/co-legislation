@@ -1,0 +1,954 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0492.01 Rebecca Bayetti x4348 HOUSE BILL 26-1382
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE SUPPORT OF COLORADANS WITH DISABILITIES, AND,
+102 IN CONNECTION THEREWITH, CREATING THE COLORADO
+103 DISABILITY FUNDING AUTHORITY AND MAKING AND REDUCING
+104 APPROPRIATIONS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. Under current law, the Colorado
+disability funding committee (committee), a 13-member appointed
+committee housed within the Colorado disability opportunity office
+ESUOH
+dednemanU
+gnidaeR
+dn2
+6202
+,9
+lirpA
+HOUSE SPONSORSHIP
+Brown and Sirota, Taggart
+SENATE SPONSORSHIP
+Amabile and Bridges, Kirkmeyer
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(office), is responsible for awarding grants or contracts to entities for
+programs that assist individuals with disabilities in obtaining or retaining
+disability benefits and for new or innovative pilot programs that improve
+the quality of life of individuals with disabilities. The disability support
+fund (fund) finances the work of the committee and the office. The fund
+receives revenue from an annual $25 fee paid for license plates in a
+retired style and from the sale of unique vehicle registration numbers.
+The bill relocates the fund in statute and clarifies that the fund is
+subject to annual appropriation to support the office. For state fiscal year
+2026-27, the money in the fund is also subject to annual appropriation by
+the general assembly to the department of labor and employment for
+vocational rehabilitation. On June 30, 2026, the state treasurer is required
+to transfer $21 million from the fund to the general fund. By October 1,
+2026, the state treasurer is also required to issue a warrant in the amount
+of $523,343 from the fund to the Colorado disability funding authority
+(authority), which is a newly created special purpose authority. Beginning
+on October 1, 2026, the bill also replaces the $25 annual fee paid for
+license plates in a retired style with a one-time and annual donation of
+$22.50 remitted to the authority and a one-time and annual fee of $2.50
+credited to the fund.
+The bill requires that any grant or contract awarded by the
+committee be completed by July 1, 2027, and repeals the committee on
+July 1, 2027. The bill reassigns the committee's responsibilities for
+administering the sale of unique vehicle registration numbers to the
+office. The office may contract with one or more public or private entities
+to implement the marketplace and sale of unique vehicle registration
+numbers and to perform any of the related duties assigned to the office.
+The office may use the money collected from the sale of unique vehicle
+registration numbers to pay the contracting entity for their services.
+Beginning on July 1, 2027, the bill makes the authority responsible
+for many of the committee's previous grantmaking responsibilities, as
+well as other grantmaking responsibilities relating to programs that assist
+individuals with disabilities. The authority is governed by a board made
+up of 13 members appointed by the governor, the majority of whom are
+individuals with disabilities, individuals with immediate family members
+with disabilities, or individuals who are caregivers to a family member
+with a disability. In making the appointments, the governor must ensure
+that the authority board has members with experience in or knowledge of:
+! Business and business management;
+! Nonprofit entities and managing nonprofit entities;
+! Advocacy for individuals with disabilities;
+! The practice of medicine, with experience working with
+individuals with disabilities; and
+! The practice of law, with experience working with
+individuals with disabilities.
+-2- 1382
+
+The authority is required to invite nonprofit entities, independent living
+centers, county departments of human services, county departments of
+social services, and other state and county agencies to submit proposals
+for programs to aid individuals with disabilities in accessing disability
+benefits. Beginning on July 1, 2027, the authority is required to award a
+contract or grant to one or more of the entities that submitted program
+proposals. When adequate funding is available, the authority may also
+accept and review proposals to fund projects or programs that study or
+pilot new and innovative ideas that will lead to an improved quality of life
+or increased independence for individuals with disabilities. When
+adequate funding is available, the authority may also make grants or
+develop, implement, or deliver education programs concerning reserved
+parking that is available to an individual with a disability affecting
+mobility.
+On or before December 1, 2027, and on or before each December
+1 thereafter, the authority is required to prepare and submit a financial
+and performance report to the joint budget committee of the general
+assembly. In addition to this annual report, the state auditor may also be
+required to conduct or cause to be conducted postaudits of the authority.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-88-101, amend (3)
+3 and (8); repeal (2); and add (3.5), (3.7), and (4.5) as follows:
+4 8-88-101. Definitions.
+5 As used in this article 88:
+6 (2) "Committee" means the Colorado disability funding committee
+7 created in section 8-88-202.
+8 (3) "Contract entity" means an entity the committee CDOO
+9 contracts with pursuant to section 8-88-206 (5) SECTION 8-88-105 (4)(d)
+10 to implement section 8-88-206 SECTION 8-88-105.
+11 (3.5) "COLORADO DISABILITY FUNDING AUTHORITY" OR
+12 "AUTHORITY" MEANS THE COLORADO DISABILITY FUNDING AUTHORITY
+13 CREATED IN PART 3 OF THIS ARTICLE 88.
+14 (3.7) "COLORADO DISABILITY FUNDING AUTHORITY BOARD" OR
+-3- 1382
+
+1 "AUTHORITY BOARD" MEANS THE COLORADO DISABILITY FUNDING
+2 AUTHORITY BOARD CREATED IN SECTION 8-88-301 (2).
+3 (4.5) "DEPARTMENT OF REVENUE" HAS THE MEANING SET FORTH
+4 IN SECTION 42-1-102 (24).
+5 (8) "Fund" means the disability support fund created in section
+6 8-88-205 SECTION 8-88-104.
+7 SECTION 2. In Colorado Revised Statutes, 8-88-102.5, amend
+8 (3) as follows:
+9 8-88-102.5. Comprehensive community integration plan for
+10 individuals with disabilities - review and assessment.
+11 (3) Money for the CDOO to develop, review, and update the plan
+12 is limited to the money in the disability support fund, created in section
+13 8-88-205, and the general assembly shall not appropriate any money from
+14 the general fund for that purpose.
+15 SECTION 3. In Colorado Revised Statutes, amend 8-88-103 as
+16 follows:
+17 8-88-103. Appropriation - gifts, grants, and donations.
+18 The general assembly shall appropriate money from the fund or
+19 from any other available source to the department for use by the CDOO
+20 for the purposes specified in this article 88 PART 1. The CDOO may seek,
+21 accept, and expend gifts, grants, or donations from private or public
+22 sources for the purposes of this article 88 PART 1.
+23 SECTION 4. In Colorado Revised Statutes, add with amended
+24 and relocated provisions 8-88-104 as follows:
+25 8-88-104. [Formerly 8-88-205] Disability support fund -
+26 registration number account - repeal.
+27 (1) (a) There THE DISABILITY SUPPORT FUND is created in the state
+-4- 1382
+
+1 treasury. the disability support fund, which THE FUND consists of money
+2 that may be appropriated or transferred to the fund by the general
+3 assembly; and any gifts, grants, or donations received by the department
+4 GIFTS, GRANTS, OR DONATIONS CREDITED TO THE FUND AND ANY OTHER
+5 MONEY THAT THE GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER
+6 TO THE FUND for the purpose of implementing this article 88.
+7 (b) THERE IS CREATED THE REGISTRATION NUMBER ACCOUNT
+8 WITHIN THE FUND, WHICH CONSISTS OF REVENUE COLLECTED FROM THE
+9 SALE OF UNIQUELY VALUABLE REGISTRATION NUMBERS PURSUANT TO
+10 SECTION 8-88-105. THE MONEY IN THE REGISTRATION NUMBER ACCOUNT
+11 IS:
+12 (I) CONTINUOUSLY APPROPRIATED TO THE CDOO TO PAY THE
+13 CONTRACTING ENTITY FOR THEIR SERVICES IN IMPLEMENTING SECTION
+14 8-88-105; AND
+15 (II) SUBJECT TO ANNUAL APPROPRIATION BY THE GENERAL
+16 ASSEMBLY FOR THE DIRECT AND INDIRECT COSTS ASSOCIATED WITH THE
+17 IMPLEMENTATION OF THIS PART 1.
+18 (2) The money in the fund is subject to annual appropriation by
+19 the general assembly for the direct and indirect costs associated with the
+20 implementation of this article 88. Any money in the fund not expended
+21 for the purpose of this section may be invested by the state treasurer as
+22 provided by law. THE STATE TREASURER SHALL CREDIT all interest and
+23 income derived from the investment and deposit of money in the fund
+24 must be credited to the fund. Any unexpended and unencumbered money
+25 remaining in the fund at the end of a fiscal year must remain in the fund
+26 for use as provided in this article 88 and must not be credited or
+27 transferred to the general fund or another fund. If this section is repealed,
+-5- 1382
+
+1 prior to its repeal, all unexpended and unencumbered money remaining
+2 in the fund must be transferred to the general fund.
+3 (3) (a) NOTWITHSTANDING ANY PROVISION OF SUBSECTION (2) OF
+4 THIS SECTION TO THE CONTRARY, FOR STATE FISCAL YEAR 2026-2027,
+5 SUBJECT TO ANNUAL APPROPRIATION BY THE GENERAL ASSEMBLY, THE
+6 DEPARTMENT MAY EXPEND MONEY FROM THE FUND FOR VOCATIONAL
+7 REHABILITATION PURSUANT TO ARTICLE 84 OF THIS TITLE 8.
+8 (b) THIS SUBSECTION (3) IS REPEALED, EFFECTIVE JULY 1, 2027.
+9 (4) (a) NOTWITHSTANDING ANY PROVISION OF SUBSECTION (2) OF
+10 THIS SECTION TO THE CONTRARY, ON JUNE 30, 2026, THE STATE
+11 TREASURER SHALL TRANSFER TWENTY-ONE MILLION DOLLARS FROM THE
+12 FUND TO THE GENERAL FUND.
+13 (b) THIS SUBSECTION (4) IS REPEALED, EFFECTIVE JULY 1, 2027.
+14 (5) (a) BY OCTOBER 1, 2026, THE STATE TREASURER SHALL ISSUE
+15 A WARRANT IN THE AMOUNT OF FIVE HUNDRED TWENTY-THREE THOUSAND
+16 THREE HUNDRED FORTY-THREE DOLLARS TO THE COLORADO DISABILITY
+17 FUNDING AUTHORITY CREATED IN SECTION 8-88-301, TO BE PAID FROM
+18 THE FUND.
+19 (b) THIS SUBSECTION (5) IS REPEALED, EFFECTIVE JANUARY 1,
+20 2027.
+21 SECTION 5. In Colorado Revised Statutes, add with amended
+22 and relocated provisions section 8-88-105 as follows:
+23 8-88-105. [Formerly 8-88-206] Sale of registration numbers
+24 for license plates - license to buy and sell - market for - royalty
+25 payment - administration - third-party contracting entity.
+26 (1) (a) The state or a person may sell, and the state or a person
+27 may purchase, the exclusive right to use a registration number selected by
+-6- 1382
+
+1 the committee CDOO under subsection (2) of this section for the purpose
+2 of registering a vehicle under article 3 of title 42.
+3 (b) The right to use a registration number is a license, the use of
+4 which is subject to compliance with this part 2 SECTION. The duration of
+5 the license is determined by the committee CDOO.
+6 (2) (a) The committee CDOO shall raise money by selling to a
+7 buyer the right to use valuable letter and number combinations for a
+8 registration number.
+9 (b) (I) The committee shall study the market to determine which
+10 registration numbers are the most valuable. Based on the study, the
+11 committee CDOO shall select the most valuable registration numbers and
+12 request the department of revenue to verify whether plates with the
+13 registration numbers are currently issued. The committee CDOO and the
+14 department of revenue shall enter into an agreement establishing a
+15 process for requesting registration numbers, including specifying the
+16 frequency of these requests.
+17 (II) Upon receiving the committee's CDOO'S request, the
+18 department of revenue shall verify whether the plates are currently issued.
+19 For purposes of this subsection (2)(b), a plate that expires due to the
+20 operation of section 42-3-115 (5)(a) is considered currently issued until
+21 the expiration of the right of the owner of the motor vehicle to which the
+22 expired plate was affixed to apply to use the registration number of the
+23 expired plate when registering another motor vehicle. If the plate is not
+24 currently issued, the department of revenue shall reserve the registration
+25 number until the committee CDOO notifies the department of revenue to
+26 release the registration number.
+27 (III) The committee CDOO shall establish a process for
+-7- 1382
+
+1 determining the value of all configurations of registration numbers
+2 reserved by the committee CDOO. The pricing and manner of sale must
+3 follow the established process.
+4 (IV) If a registration number is not currently issued, the committee
+5 CDOO may sell the right to use the registration number in a manner
+6 calculated to bring the highest price; except that the department of
+7 revenue may deny the sale or use of a registration number that is
+8 offensive or inappropriate.
+9 (3) (a) The committee CDOO shall raise revenue by creating a
+10 market, which may include an online site, for the resale of license plate
+11 configurations of registration numbers using methods that are
+12 commercially reasonable, account for expenditures, and ensure the
+13 collection of the state's approval and transfer royalty.
+14 (b) The royalty for the state's approval and transfer of the right to
+15 use a registration number is twenty-five percent of the sale price of the
+16 transfer. At the time of sale, the purchaser shall pay the royalty to the
+17 committee CDOO. This payment is in addition to and not in lieu of the
+18 normal registration fees, sales or use taxes, or specific ownership tax.
+19 (c) A person shall not sell a registration number, and the
+20 department of revenue shall not assign a registration number, as a result
+21 of the right to use the number being sold to a vehicle unless the
+22 registration number was sold using the market created by the committee
+23 PURSUANT TO THIS SECTION.
+24 (4) (a) The committee CDOO shall notify the department of
+25 revenue when the right to use a registration number has been sold and the
+26 committee CDOO has collected the state's sale proceeds or approval and
+27 transfer royalty. Upon receiving the notice, the department of revenue
+-8- 1382
+
+1 shall create a record in Colorado DRIVES, created in section 42-1-211,
+2 containing the name of the buyer; the vehicle identification number, if
+3 applicable; and the corresponding registration number.
+4 (b) If the registration number consists of a combination of letters
+5 and numbers that is not within the normal format of a license plate
+6 currently produced for the department of revenue, the department of
+7 revenue shall issue the plates as personalized plates under section
+8 42-3-211; except that, notwithstanding section 42-3-211, the committee
+9 CDOO may sell, and the buyer or any subsequent buyer may use:
+10 (I) A registration number or letter of one position; or
+11 (II) Any symbol on the standard American keyboard or approved
+12 by the committee CDOO.
+13 (c) The committee CDOO shall transfer the money collected
+14 under this part 2 PURSUANT TO THIS SECTION to the state treasurer, who
+15 shall credit the money to THE REGISTRATION NUMBER ACCOUNT WITHIN
+16 the fund; EXCEPT THAT, IF THE CDOO CONTRACTS WITH ONE OR MORE
+17 PUBLIC OR PRIVATE ENTITIES PURSUANT TO SUBSECTION (4)(d) OF THIS
+18 SECTION TO IMPLEMENT AND PERFORM ANY OF THE CDOO'S DUTIES
+19 PURSUANT TO THIS SECTION, THE CDOO MAY USE THE MONEY COLLECTED
+20 PURSUANT TO THIS SECTION TO PAY THE CONTRACTING ENTITY FOR THEIR
+21 SERVICES.
+22 (d) The committee CDOO may contract with one or more public
+23 or private entities to implement this part 2 SECTION AND PERFORM ANY OF
+24 THE DUTIES ASSIGNED TO THE CDOO PURSUANT TO THIS SECTION.
+25 (e) EXCEPT AS PROVIDED IN SUBSECTION (4)(c) OF THIS SECTION,
+26 any revenue received by the committee CDOO from the sale of
+27 registration numbers shall MUST be deposited in the fund.
+-9- 1382
+
+1 (5) THE SALE OF UNIQUELY VALUABLE REGISTRATION NUMBERS
+2 AUTHORIZED BY THIS SECTION IS A PROPERTY SALE AND, THEREFORE,
+3 REVENUE RECEIVED DUE TO THIS SALE OF PROPERTY DOES NOT
+4 CONSTITUTE STATE FISCAL YEAR SPENDING, AS DEFINED IN SECTION
+5 24-77-102 (17), FOR PURPOSES OF SECTION 20 OF ARTICLE X OF THE STATE
+6 CONSTITUTION.
+7 SECTION 6. In Colorado Revised Statutes, 8-88-203, amend
+8 (2)(a)(I) as follows:
+9 8-88-203. Program to assist individuals to obtain disability
+10 benefits.
+11 (2) (a) (I) The committee shall review the proposed programs and
+12 shall award a contract or grant to one or more of the entities that best
+13 meet the requirements of this section. A CONTRACT OR GRANT AWARDED
+14 PURSUANT TO THIS SECTION MUST BE COMPLETED BY JULY 1, 2027.
+15 SECTION 7. In Colorado Revised Statutes, 8-88-204, amend (1)
+16 as follows:
+17 8-88-204. Program to investigate, fund, and pilot projects or
+18 programs to benefit individuals with disabilities.
+19 (1) When adequate funding is available, the committee shall
+20 accept and review proposals to fund projects or programs, or both, that
+21 study or pilot new and innovative ideas that will lead to an improved
+22 quality of life or increased independence for individuals with disabilities.
+23 Proposals may be accepted throughout the year, and grants may be made
+24 by the committee at its regular meetings. The fund is the sole source of
+25 money for any grants made pursuant to this section. A CONTRACT OR
+26 GRANT AWARDED PURSUANT TO THIS SECTION MUST BE COMPLETED BY
+27 JULY 1, 2027.
+-10- 1382
+
+1 SECTION 8. Repeal of relocated provisions in this act. In
+2 Colorado Revised Statutes, repeal 8-88-205 and 8-88-206.
+3 SECTION 9. In Colorado Revised Statutes, amend 8-88-207 as
+4 follows:
+5 8-88-207. Sunset review - repeal of part.
+6 This part 2 is repealed, effective September 1, 2029. Before the
+7 repeal, this part 2 is scheduled for review in accordance with section
+8 24-34-104 JULY 1, 2027.
+9 SECTION 10. In Colorado Revised Statutes, add part 3 to article
+10 88 of title 8 as follows:
+11 PART 3
+12 COLORADO DISABILITY FUNDING AUTHORITY
+13 8-88-301. Colorado disability funding authority - creation -
+14 board.
+15 (1) THERE IS CREATED THE COLORADO DISABILITY FUNDING
+16 AUTHORITY. THE COLORADO DISABILITY FUNDING AUTHORITY IS A
+17 SPECIAL PURPOSE AUTHORITY, AS DEFINED IN SECTION 24-77-102 (15),
+18 WHICH IS A BODY CORPORATE AND A POLITICAL SUBDIVISION OF THE
+19 STATE. THE AUTHORITY IS NOT AN AGENCY OF STATE GOVERNMENT AND
+20 IS NOT SUBJECT TO ADMINISTRATIVE DIRECTION BY ANY DEPARTMENT,
+21 COMMISSION, BOARD, BUREAU, OR AGENCY OF THE STATE.
+22 (2) (a) (I) THE AUTHORITY IS GOVERNED BY THE COLORADO
+23 DISABILITY FUNDING AUTHORITY BOARD, WHICH CONSISTS OF THIRTEEN
+24 MEMBERS APPOINTED BY THE GOVERNOR. THE MAJORITY OF AUTHORITY
+25 BOARD MEMBERS ARE INDIVIDUALS WITH DISABILITIES, INDIVIDUALS WITH
+26 IMMEDIATE FAMILY MEMBERS WITH DISABILITIES, OR INDIVIDUALS WHO
+27 ARE CAREGIVERS TO A FAMILY MEMBER WITH A DISABILITY.
+-11- 1382
+
+1 (II) IN MAKING THE APPOINTMENTS, THE GOVERNOR SHALL ENSURE
+2 THAT THE AUTHORITY BOARD HAS MEMBERS WITH EXPERIENCE IN OR
+3 KNOWLEDGE OF:
+4 (A) BUSINESS AND BUSINESS MANAGEMENT;
+5 (B) NONPROFIT ENTITIES AND MANAGING NONPROFIT ENTITIES;
+6 (C) ADVOCACY FOR INDIVIDUALS WITH DISABILITIES;
+7 (D) THE PRACTICE OF MEDICINE, WITH EXPERIENCE WORKING WITH
+8 INDIVIDUALS WITH DISABILITIES; AND
+9 (E) THE PRACTICE OF LAW, WITH EXPERIENCE WORKING WITH
+10 INDIVIDUALS WITH DISABILITIES.
+11 (III) IN ADDITION TO THE REQUIREMENTS SET FORTH IN
+12 SUBSECTION (2)(a)(II) OF THIS SECTION, WHEN MAKING APPOINTMENTS TO
+13 THE AUTHORITY BOARD, THE GOVERNOR SHALL MAKE REASONABLE
+14 EFFORTS TO APPOINT AUTHORITY BOARD MEMBERS WHO REFLECT THE
+15 GEOGRAPHIC AND DEMOGRAPHIC DIVERSITY OF THE STATE, INCLUDING
+16 AUTHORITY BOARD MEMBERS FROM RURAL AND URBAN AREAS OF THE
+17 STATE AND FROM DIVERSE SOCIOECONOMIC STATUSES AND POLITICAL,
+18 RACIAL, ABILITY, AND CULTURAL GROUPS.
+19 (IV) MEMBERS OF THE AUTHORITY BOARD SERVE THREE-YEAR
+20 TERMS; EXCEPT THAT THE TERMS MUST BE STAGGERED SO THAT NO MORE
+21 THAN FIVE MEMBERS' TERMS EXPIRE IN THE SAME YEAR. THE GOVERNOR
+22 SHALL NOT APPOINT A MEMBER FOR MORE THAN TWO CONSECUTIVE
+23 TERMS.
+24 (b) (I) THE GOVERNOR SHALL APPOINT THE INITIAL AUTHORITY
+25 BOARD MEMBERS ON OR BEFORE SEPTEMBER 15, 2026. IN MAKING THE
+26 INITIAL APPOINTMENTS, THE GOVERNOR SHALL INDICATE THE INITIAL
+27 TERM LENGTH OF EACH INITIAL AUTHORITY BOARD MEMBER TO ENSURE
+-12- 1382
+
+1 THAT THE TERMS OF THE AUTHORITY BOARD MEMBERS ARE STAGGERED AS
+2 REQUIRED BY SUBSECTION (2)(a)(IV) OF THIS SECTION.
+3 (II) THE GOVERNOR SHALL DESIGNATE ONE OF THE INITIAL
+4 AUTHORITY BOARD MEMBERS TO SERVE AS THE INITIAL CHAIR OF THE
+5 AUTHORITY BOARD. THE INITIAL CHAIR OF THE AUTHORITY BOARD MAY
+6 ESTABLISH AND ADMINISTER MATTERS RELATED TO THE INITIAL START UP
+7 OF THE AUTHORITY, INCLUDING STAFFING, LEGAL SERVICES, AND
+8 COORDINATION WITH THE CDOO. ANY CONTRACTS ENTERED INTO BY THE
+9 INITIAL CHAIR OF THE AUTHORITY BOARD MUST HAVE AN INITIAL TERM
+10 ENDING ON OR BEFORE SEPTEMBER 1, 2027, AND MUST BE REVIEWED BY
+11 THE AUTHORITY BOARD AT ITS FIRST MEETING.
+12 (c) A MEMBER MAY BE REMOVED FROM THE AUTHORITY BOARD
+13 BY:
+14 (I) MAJORITY VOTE OF THE AUTHORITY BOARD FOR MISFEASANCE,
+15 MALFEASANCE, WILLFUL NEGLECT OF DUTY, OR OTHER CAUSE AFTER
+16 NOTICE AND A PUBLIC HEARING, UNLESS NOTICE AND A PUBLIC HEARING
+17 ARE EXPRESSLY WAIVED IN WRITING BY THE MEMBER AT RISK OF BEING
+18 REMOVED; OR
+19 (II) THE GOVERNOR FOR CAUSE.
+20 (d) (I) WITHIN THIRTY DAYS OF THE GOVERNOR'S INITIAL
+21 APPOINTMENTS TO THE AUTHORITY BOARD PURSUANT TO SUBSECTION
+22 (2)(b) OF THIS SECTION, THE INITIAL CHAIR OF THE AUTHORITY BOARD AS
+23 DESIGNATED BY THE GOVERNOR SHALL SET DATES FOR THE FIRST AND
+24 SECOND MEETINGS OF THE AUTHORITY BOARD. THE AUTHORITY BOARD
+25 SHALL HOLD THE FIRST AND SECOND MEETINGS ON OR BEFORE DECEMBER
+26 31, 2026. THE AUTHORITY BOARD MAY ELECT A NEW CHAIR AT EITHER ITS
+27 FIRST OR SECOND MEETING. IF THE AUTHORITY BOARD DOES NOT ELECT A
+-13- 1382
+
+1 NEW CHAIR, THE INITIAL CHAIR AS DESIGNATED BY THE GOVERNOR SHALL
+2 SERVE IN THAT ROLE UNTIL THE FIRST MEETING OF THE AUTHORITY BOARD
+3 IN CALENDAR YEAR 2028.
+4 (II) THE AUTHORITY BOARD SHALL ELECT A CHAIR AND A
+5 VICE-CHAIR AT ITS FIRST MEETING OF EACH CALENDAR YEAR, BEGINNING
+6 IN CALENDAR YEAR 2028. THE CHAIR SHALL SCHEDULE THE MEETINGS OF
+7 THE AUTHORITY BOARD.
+8 (III) THE AUTHORITY BOARD MAY ELECT ONE OR MORE MEMBERS
+9 AS SECRETARY AND TREASURER AND ELECT OR APPOINT OTHER OFFICERS
+10 AS THE AUTHORITY BOARD MAY DETERMINE AND PROVIDE FOR THEIR
+11 DUTIES AND TERMS OF OFFICE.
+12 (e) MEMBERS OF THE AUTHORITY BOARD SERVE WITHOUT
+13 COMPENSATION BUT MAY BE REIMBURSED FOR ACTUAL AND REASONABLE
+14 EXPENSES INCURRED IN THE PERFORMANCE OF THEIR DUTIES, UPON
+15 APPROVAL OF THE AUTHORITY BOARD AFTER PROVIDING DOCUMENTATION
+16 SUPPORTING THE REIMBURSEMENT.
+17 (f) MEMBERS OF THE AUTHORITY BOARD MAY PARTICIPATE IN ANY
+18 AUTHORITY BOARD MEETING AND MAY VOTE USING A
+19 TELECOMMUNICATIONS DEVICE, INCLUDING A CONFERENCE TELEPHONE,
+20 VIDEO CONFERENCE, OR SIMILAR COMMUNICATIONS EQUIPMENT. A
+21 MEMBER OF THE AUTHORITY BOARD WHO PARTICIPATES IN AN AUTHORITY
+22 BOARD MEETING USING A TELECOMMUNICATIONS DEVICE IS CONSIDERED
+23 PRESENT AT THE MEETING.
+24 (g) (I) THE AUTHORITY BOARD SHALL ADOPT ITS OWN RULES OF
+25 PROCEDURE AND KEEP A RECORD OF ALL PROCEEDINGS AND ACTS.
+26 (II) (A) ALL AUTHORITY BOARD MEETINGS ARE OPEN TO THE
+27 PUBLIC AND THE AUTHORITY BOARD SHALL COMPLY WITH THE OPEN
+-14- 1382
+
+1 MEETINGS REQUIREMENTS OF A STATE PUBLIC BODY AS SET FORTH IN
+2 SECTION 24-6-402.
+3 (B) ALL PUBLIC RECORDS OF THE AUTHORITY BOARD ARE SUBJECT
+4 TO THE "COLORADO OPEN RECORDS ACT", PART 2 OF ARTICLE 72 OF TITLE
+5 24.
+6 (III) EVERY LEGISLATIVE ACT OF THE AUTHORITY BOARD OF A
+7 GENERAL OR PERMANENT NATURE MUST BE BY RESOLUTION. ALL
+8 RESOLUTIONS OF THE AUTHORITY BOARD MUST BE RECORDED AND
+9 AUTHENTICATED BY THE SIGNATURE OF THE CHAIR, VICE-CHAIR, OR
+10 SECRETARY OF THE AUTHORITY BOARD.
+11 (h) ANY AUTHORITY BOARD MEMBER, OR EMPLOYEE, AGENT, OR
+12 ADVISOR OF THE AUTHORITY WHO HAS A DIRECT OR INDIRECT INTEREST IN
+13 ANY CONTRACT, GRANT, TRANSACTION, OR PROPOSAL BEFORE THE
+14 AUTHORITY OR ANY DIRECT OR INDIRECT INTEREST IN AN ENTITY THAT
+15 SUBMITS A PROPOSAL TO THE AUTHORITY SHALL DISCLOSE THEIR INTEREST
+16 TO THE AUTHORITY. THE AUTHORITY BOARD MEMBER, OR EMPLOYEE,
+17 AGENT, OR ADVISOR OF THE AUTHORITY WHO HAS THE DIRECT OR
+18 INDIRECT INTEREST SHALL NOT PARTICIPATE IN THE DECISION TO APPROVE,
+19 AUTHORIZE, OR FUND THE RELEVANT CONTRACT, GRANT, TRANSACTION,
+20 OR PROPOSAL.
+21 (i) AN ACT OF THE AUTHORITY IS VOID UNLESS A MAJORITY OF THE
+22 APPOINTED MEMBERS OF THE AUTHORITY BOARD HAS VOTED IN FAVOR OF
+23 THE ACT.
+24 (3) THE ATTORNEY GENERAL IS THE LEGAL ADVISOR OF AND
+25 COUNSEL TO THE AUTHORITY.
+26 (4) EMPLOYEES OF THE AUTHORITY ARE EXEMPT FROM THE STATE
+27 PERSONNEL SYSTEM BUT ARE, BY ACCEPTANCE OF EMPLOYMENT, SUBJECT
+-15- 1382
+
+1 TO THE PROVISIONS OF ARTICLE 51 OF TITLE 24. THE AUTHORITY SHALL
+2 PROVIDE FOR THE DEDUCTION OF EMPLOYER AND EMPLOYEE
+3 CONTRIBUTIONS FROM SALARY AND FOR PAYMENT TO THE PUBLIC
+4 EMPLOYEES' RETIREMENT ASSOCIATION, CREATED PURSUANT TO SECTION
+5 24-51-201, OF DEDUCTIONS AND ANY OTHER PAYMENTS THAT WOULD BE
+6 DUE FROM A STATE EMPLOYER.
+7 (5) THE AUTHORITY SHALL NOT DISCRIMINATE BASED ON RACE,
+8 CREED, COLOR, NATIONAL ORIGIN, ANCESTRY, RELIGION, SEX, GENDER,
+9 SEXUAL ORIENTATION, GENDER IDENTITY, GENDER EXPRESSION, MARITAL
+10 STATUS, FAMILIAL STATUS, MILITARY STATUS, OR DISABILITY.
+11 (6) (a) THE INCOME, REVENUE, AND INTEREST THEREON OF THE
+12 AUTHORITY AND ALL PROPERTY AT ANY TIME OWNED BY THE AUTHORITY
+13 ARE EXEMPT FROM INCOME TAXATION, REAL AND PERSONAL PROPERTY
+14 TAXATION, AND ALL OTHER TAXATION AND ASSESSMENTS IN THE STATE.
+15 THE PURCHASE AND USE OF PROPERTY BY OR FOR THE BENEFIT OF THE
+16 AUTHORITY IS EXEMPT FROM SALES AND USE TAXES IMPOSED BY THE
+17 STATE, A COUNTY, A CITY AND COUNTY, A CITY, ANY OTHER POLITICAL
+18 SUBDIVISION OF THE STATE, OR LOCAL GOVERNMENTAL ENTITY. THE
+19 AUTHORITY MAY AGREE TO MAKE PAYMENTS IN LIEU OF PROPERTY OR
+20 SALES AND USE TAXES TO THE STATE, A COUNTY, A CITY AND COUNTY, A
+21 CITY, ANY POLITICAL SUBDIVISION OF THE STATE, OR LOCAL
+22 GOVERNMENTAL ENTITY.
+23 (b) A GIFT, DONATION, OR CONTRIBUTION TO OR FOR THE USE OF
+24 THE AUTHORITY FOR USE IN CONNECTION WITH THE ACTIVITIES OF THE
+25 AUTHORITY IS TREATED AS A GIFT TO A POLITICAL SUBDIVISION OF THE
+26 STATE MADE EXCLUSIVELY FOR PUBLIC PURPOSES.
+27 (7) THE AUTHORITY AND ITS CORPORATE EXISTENCE CONTINUES
+-16- 1382
+
+1 UNTIL TERMINATED BY LAW; EXCEPT THAT NO SUCH LAW MAY TAKE
+2 EFFECT SO LONG AS THE AUTHORITY HAS OBLIGATIONS OUTSTANDING,
+3 UNLESS ADEQUATE PROVISION HAS BEEN MADE FOR THE PAYMENT OF THE
+4 OBLIGATIONS. UPON TERMINATION OF THE EXISTENCE OF THE AUTHORITY,
+5 ALL ITS RIGHTS AND PROPERTIES IN EXCESS OF ITS OBLIGATIONS PASS TO
+6 AND ARE VESTED IN THE STATE.
+7 8-88-302. Colorado disability funding authority - powers and
+8 duties.
+9 (1) THE AUTHORITY HAS AND MAY EXERCISE ALL RIGHTS AND
+10 POWERS NECESSARY OR INCIDENTAL TO, OR IMPLIED FROM, THE SPECIFIC
+11 POWERS GRANTED IN THIS PART 3, WHICH SPECIFIC POWERS SHALL NOT BE
+12 CONSIDERED AS A LIMITATION UPON ANY POWER NECESSARY OR
+13 APPROPRIATE TO CARRY OUT THE PURPOSES AND INTENT OF THIS PART 3.
+14 IN ADDITION TO ANY OTHER POWERS GRANTED TO THE AUTHORITY IN THIS
+15 PART 3, THE AUTHORITY HAS THE DUTIES, PRIVILEGES, IMMUNITIES,
+16 RIGHTS, LIABILITIES, AND DISABILITIES OF A BODY CORPORATE AND
+17 POLITICAL SUBDIVISION OF THE STATE AND THE DUTIES AND POWERS TO:
+18 (a) HAVE PERPETUAL EXISTENCE AND SUCCESSION;
+19 (b) ADOPT, HAVE, AND USE A SEAL AND TO ALTER THE SEAL AT ITS
+20 PLEASURE;
+21 (c) SUE AND BE SUED AND OTHERWISE ASSERT OR DEFEND THE
+22 AUTHORITY'S LEGAL INTERESTS;
+23 (d) FIX THE TIME AND PLACE AT WHICH MEETINGS MAY BE HELD;
+24 (e) MAKE BUSINESS DECISIONS TO IMPLEMENT THIS PART 3;
+25 (f) MAKE AND EXECUTE AGREEMENTS, CONTRACTS, AND OTHER
+26 INSTRUMENTS NECESSARY OR CONVENIENT IN THE EXERCISE OF THE
+27 POWERS AND FUNCTIONS OF THE AUTHORITY PURSUANT TO THIS PART 3;
+-17- 1382
+
+1 (g) PURCHASE, LEASE, LEASE WITH AN OPTION TO PURCHASE,
+2 TRADE, EXCHANGE, OR OTHERWISE ACQUIRE, MAINTAIN, HOLD, IMPROVE,
+3 MORTGAGE, ENCUMBER, AND DISPOSE OF REAL PROPERTY AND PERSONAL
+4 PROPERTY, WHETHER TANGIBLE OR INTANGIBLE, AND ANY INTEREST,
+5 INCLUDING EASEMENTS AND RIGHTS-OF-WAY, WITHOUT RESTRICTION OR
+6 LIMITATION;
+7 (h) ACQUIRE OFFICE SPACE, EQUIPMENT, SERVICES, SUPPLIES, AND
+8 INSURANCE NECESSARY TO CARRY OUT THE PURPOSES OF THIS PART 3;
+9 (i) APPOINT OR CONTRACT WITH AGENTS, EMPLOYEES, AND
+10 PROFESSIONAL ADVISERS, AS MAY FROM TIME TO TIME BE NECESSARY IN
+11 THE AUTHORITY'S JUDGMENT TO ACCOMPLISH THE PURPOSES OF THIS PART
+12 3, AND TO FIX THE COMPENSATION AND ESTABLISH THE DUTIES OF SUCH
+13 AGENTS, EMPLOYEES, AND ADVISERS;
+14 (j) DEPOSIT ANY MONEY OF THE AUTHORITY IN ANY BANKING
+15 INSTITUTION OR IN ANY DEPOSITORY AUTHORIZED PURSUANT TO SECTION
+16 24-75-603, AND TO APPOINT, FOR THE PURPOSE OF MAKING SUCH
+17 DEPOSITS, ONE OR MORE INDIVIDUALS TO ACT AS CUSTODIANS OF THE
+18 AUTHORITY'S MONEY; AND
+19 (k) CONTRACT FOR AND TO SEEK AND ACCEPT ANY GIFTS, GRANTS,
+20 OR DONATIONS AND LOANS OF FUNDS, PROPERTY, OR ANY OTHER AID IN
+21 ANY FORM FROM THE FEDERAL GOVERNMENT, THE STATE, ANY STATE
+22 AGENCY, ANY OTHER PUBLIC OR PRIVATE SOURCE, OR ANY COMBINATION
+23 THEREOF, AND TO COMPLY, SUBJECT TO THE PROVISIONS OF THIS PART 3,
+24 WITH THE TERMS AND CONDITIONS OF SUCH CONTRACTS OR THE
+25 ACCEPTANCE OF SUCH ITEMS.
+26 (2) (a) THE AUTHORITY MAY ACCEPT ONE-TIME AND ANNUAL
+27 DONATIONS FOR ELIGIBILITY FOR A LICENSE PLATE IN A RETIRED STYLE
+-18- 1382
+
+1 PURSUANT TO SECTION 42-3-206.5. FOR THE PURPOSE OF MINIMIZING
+2 COMPLIANCE COSTS FOR INDIVIDUALS AND ADMINISTRATIVE COSTS FOR
+3 THE AUTHORITY, THE DEPARTMENT OF REVENUE SHALL COLLECT THE
+4 DONATIONS ON BEHALF OF THE AUTHORITY. THE DEPARTMENT OF
+5 REVENUE SHALL NOT TRANSMIT THE COLLECTED DONATIONS TO THE STATE
+6 TREASURER FOR DEPOSIT TO ANY STATE FUND BUT SHALL INSTEAD REMIT
+7 THE DONATIONS COLLECTED TO THE AUTHORITY IN ACCORDANCE WITH
+8 THE PROCESS DEVELOPED PURSUANT TO THIS SUBSECTION (2). ONE-TIME
+9 AND ANNUAL DONATIONS COLLECTED AND REMITTED TO THE AUTHORITY
+10 DO NOT CONSTITUTE STATE FISCAL YEAR SPENDING, AS DEFINED IN
+11 SECTION 24-77-102 (17), FOR PURPOSES OF SECTION 20 OF ARTICLE X OF
+12 THE STATE CONSTITUTION.
+13 (b) THE AUTHORITY SHALL MAINTAIN AN ACCOUNT IN A FINANCIAL
+14 INSTITUTION TO WHICH ALL MONEY COLLECTED FOR THE LICENSE PLATES
+15 IN A RETIRED STYLE PURSUANT TO SECTION 42-3-206.5 IS DEPOSITED. THE
+16 AUTHORITY SHALL WORK WITH THE DEPARTMENT OF REVENUE TO
+17 DEVELOP A PROCESS THAT ENSURES THAT THE DEPARTMENT OF REVENUE
+18 IS ABLE TO DEPOSIT ALL DONATIONS COLLECTED DIRECTLY INTO THE
+19 ACCOUNT OR OTHERWISE REMIT SUCH DONATIONS TO THE AUTHORITY.
+20 (c) THE AUTHORITY MAY USE MONEY IN THE ACCOUNT FOR THE
+21 AUTHORITY'S DIRECT AND INDIRECT EXPENSES IN ADMINISTERING THE
+22 REQUIREMENTS OF THIS PART 3 AND ANY OTHER RELATED WORK THAT IS
+23 COMPLETED TO ADVANCE THE AUTHORITY'S MISSION.
+24 8-88-303. Program to assist individuals with disabilities -
+25 assistance to obtain disability benefits.
+26 (1) (a) THE AUTHORITY SHALL INVITE NONPROFIT ENTITIES,
+27 INDEPENDENT LIVING CENTERS AS DEFINED IN SECTION 8-85-102 (5),
+-19- 1382
+
+1 COUNTY DEPARTMENTS OF HUMAN SERVICES, COUNTY DEPARTMENTS OF
+2 SOCIAL SERVICES, AND OTHER STATE AND COUNTY AGENCIES TO SUBMIT
+3 PROPOSALS FOR PROGRAMS TO AID INDIVIDUALS WITH DISABILITIES IN
+4 ACCESSING DISABILITY BENEFITS.
+5 (b) TO QUALIFY FOR CONSIDERATION UNDER THIS SECTION, A
+6 NONPROFIT ORGANIZATION MUST BE BASED IN THE STATE AND:
+7 (I) BE GOVERNED BY A BOARD:
+8 (A) THAT IS COMPOSED OF PERSONS WITH A DEMONSTRATED
+9 COMMITMENT TO IMPROVING THE LIVES OF RECIPIENTS WITH DISABILITIES;
+10 (B) THAT INCLUDES MEMBERS WHO UNDERSTAND A RANGE OF
+11 DISABILITIES; AND
+12 (C) A MAJORITY OF THE MEMBERS OF WHICH ARE INDIVIDUALS
+13 WITH DISABILITIES, INDIVIDUALS WITH IMMEDIATE FAMILY MEMBERS WITH
+14 DISABILITIES, OR INDIVIDUALS WHO ARE CAREGIVERS TO A FAMILY
+15 MEMBER WITH A DISABILITY; OR
+16 (II) HAVE A CONTRACT WITH AN ORGANIZATION THAT MEETS THE
+17 CRITERIA IN SUBSECTION (1)(b)(I) OF THIS SECTION.
+18 (c) TO QUALIFY FOR CONSIDERATION UNDER THIS SECTION, A
+19 COUNTY DEPARTMENT OF HUMAN SERVICES, A COUNTY DEPARTMENT OF
+20 SOCIAL SERVICES, OR ANOTHER STATE OR COUNTY AGENCY MUST HAVE A
+21 CONTRACT WITH AN ORGANIZATION THAT MEETS THE CRITERIA IN
+22 SUBSECTION (1)(b)(I) OF THIS SECTION.
+23 (2) (a) (I) THE AUTHORITY SHALL REVIEW THE PROPOSED
+24 PROGRAMS AND, BEGINNING ON JULY 1, 2027, SHALL AWARD A CONTRACT
+25 OR GRANT TO ONE OR MORE OF THE ENTITIES THAT BEST MEET THE
+26 REQUIREMENTS OF THIS SECTION.
+27 (II) THE TERM OF EACH CONTRACT OR GRANT IS UP TO THREE
+-20- 1382
+
+1 YEARS. THE AUTHORITY SHALL INCLUDE EVALUATION CRITERIA IN THE
+2 CONTRACT WITH METRICS THAT MUST BE MET AT LEAST ONCE A YEAR TO
+3 CONTINUE FUNDING.
+4 (b) IN AWARDING A CONTRACT OR GRANT, THE AUTHORITY SHALL
+5 CONSIDER WHETHER THE PROPOSAL INCLUDES:
+6 (I) A SYSTEM FOR EVALUATING WHETHER AN INDIVIDUAL WITH A
+7 DISABILITY IS REASONABLY ABLE TO NAVIGATE THE APPLICATION PROCESS
+8 TO OBTAIN DISABILITY BENEFITS, HEALTH CARE, AND EMPLOYMENT;
+9 (II) A SYSTEM FOR PRIORITIZING THE NEED OF APPLICANTS BASED
+10 UPON THE EVALUATIONS;
+11 (III) A PLAN FOR ASSISTING INDIVIDUALS WITH DISABILITIES IN
+12 NAVIGATING THE PROCESSES OF OBTAINING AND RETAINING DISABILITY
+13 BENEFITS, HEALTH CARE, AND EMPLOYMENT;
+14 (IV) A PLAN FOR ESTABLISHING WORKING RELATIONSHIPS WITH
+15 STATE AGENCIES, COUNTY DEPARTMENTS OF HUMAN OR SOCIAL SERVICES,
+16 HEALTH-CARE PROVIDERS, THE UNITED STATES SOCIAL SECURITY
+17 ADMINISTRATION, AND THE BUSINESS COMMUNITY;
+18 (V) A PLAN FOR ENCOURAGING INDIVIDUALS WITH DISABILITIES TO
+19 APPLY FOR OPEN POSITIONS AND A PLAN FOR RETAINING EMPLOYEES WITH
+20 DISABILITIES;
+21 (VI) REASONABLE STANDARDS FOR ACCOUNTING CONTROL OF
+22 EXPENDITURES; AND
+23 (VII) METRICS TO EVALUATE THE PROGRAM'S QUALITY AND
+24 COST-EFFECTIVENESS.
+25 (c) THE AUTHORITY SHALL NOT DISCRIMINATE AGAINST AN
+26 APPLICANT BASED ON THE APPLICANT'S ADVOCACY CONCERNING
+27 INDIVIDUALS WITH DISABILITIES.
+-21- 1382
+
+1 (d) TO THE GREATEST EXTENT POSSIBLE, THE AUTHORITY SHALL
+2 ENSURE, THROUGH ONE OR MORE CONTRACTS OR GRANTS PURSUANT TO
+3 THIS SECTION, THAT INDIVIDUALS WITH DISABILITIES ARE SERVED
+4 STATEWIDE.
+5 (3) AN ENTITY AWARDED A CONTRACT OR GRANT UNDER THIS
+6 SECTION SHALL MAKE QUARTERLY REPORTS OF EXPENDITURES TO THE
+7 AUTHORITY. THE AUTHORITY SHALL INCLUDE IN THE CONTRACT OR GRANT
+8 A METHOD AND FORMAT FOR MAKING THE REPORTS.
+9 (4) THE AUTHORITY SHALL ESTABLISH RULES TO ENSURE MONEY
+10 RECEIVED FROM A CONTRACT OR GRANT PURSUANT TO THIS SECTION IS
+11 USED FOR THE PURPOSES SPECIFIED IN THIS SECTION.
+12 8-88-304. Program to investigate, fund, and pilot projects or
+13 programs to benefit individuals with disabilities.
+14 (1) WHEN ADEQUATE FUNDING IS AVAILABLE, THE AUTHORITY
+15 SHALL ACCEPT AND REVIEW PROPOSALS TO FUND PROJECTS OR PROGRAMS,
+16 OR BOTH, THAT STUDY OR PILOT NEW AND INNOVATIVE IDEAS THAT WILL
+17 LEAD TO AN IMPROVED QUALITY OF LIFE OR INCREASED INDEPENDENCE
+18 FOR INDIVIDUALS WITH DISABILITIES. THE AUTHORITY MAY ACCEPT
+19 PROPOSALS THROUGHOUT THE YEAR AND MAY MAKE GRANTS AT THE
+20 AUTHORITY'S REGULAR MEETINGS ON AND AFTER JULY 1, 2027.
+21 (2) TO BE ELIGIBLE FOR FUNDING PURSUANT TO THIS SECTION, A
+22 PROJECT OR PROGRAM MUST:
+23 (a) DEMONSTRATE A CAPABILITY TO BE SELF-SUSTAINING OR
+24 OTHERWISE BE ABLE TO DEVELOP LONG-TERM INDEPENDENT FUNDING;
+25 AND
+26 (b) (I) HAVE A GOVERNING BODY, A BOARD, OR OWNERSHIP THAT
+27 IS COMPOSED OF INDIVIDUALS WITH A DEMONSTRATED COMMITMENT TO
+-22- 1382
+
+1 IMPROVING THE LIVES OF INDIVIDUALS WITH DISABILITIES, THE MAJORITY
+2 OF WHOM ARE INDIVIDUALS WITH DISABILITIES, INDIVIDUALS WITH
+3 IMMEDIATE FAMILY MEMBERS WITH DISABILITIES, OR INDIVIDUALS WHO
+4 ARE CAREGIVERS TO A FAMILY MEMBER WITH A DISABILITY;
+5 (II) FOR ORGANIZATIONS THAT DO NOT MEET THE GOVERNANCE
+6 REQUIREMENTS OF SUBSECTION (2)(b)(I) OF THIS SECTION, HAVE A GRANT
+7 OVERSIGHT COMMITTEE APPROVED BY THE AUTHORITY THAT IS
+8 RESPONSIBLE FOR ALL OVERSIGHT OF THE GRANT AND THAT IS COMPRISED
+9 OF INDIVIDUALS WITH A DEMONSTRATED COMMITMENT TO IMPROVING THE
+10 LIVES OF INDIVIDUALS WITH DISABILITIES, THE MAJORITY OF WHOM ARE
+11 INDIVIDUALS WITH DISABILITIES, INDIVIDUALS WITH IMMEDIATE FAMILY
+12 MEMBERS WITH DISABILITIES, OR INDIVIDUALS WHO ARE CAREGIVERS TO
+13 A FAMILY MEMBER WITH A DISABILITY; OR
+14 (III) IN THE CASE OF A SOLE PROPRIETORSHIP, HAVE AN OWNER
+15 WHO:
+16 (A) IS AN INDIVIDUAL WITH A DISABILITY, AN INDIVIDUAL WITH AN
+17 IMMEDIATE FAMILY MEMBER WITH A DISABILITY, AN INDIVIDUAL WHO IS
+18 A CAREGIVER TO A FAMILY MEMBER WITH A DISABILITY, OR AN
+19 INDIVIDUAL WITH A PROPOSAL THAT IS DESIGNED TO PROVIDE A POSITIVE
+20 IMPACT IN THE DISABILITY COMMUNITY; AND
+21 (B) HAS DEMONSTRATED COMMITMENT TO IMPROVING THE LIVES
+22 OF INDIVIDUALS WITH DISABILITIES.
+23 (3) THE AUTHORITY SHALL ESTABLISH RULES TO ENSURE MONEY
+24 RECEIVED FROM A GRANT PURSUANT TO THIS SECTION IS USED FOR THE
+25 PURPOSES SPECIFIED IN THIS SECTION.
+26 8-88-305. Disabled parking education program.
+27 (1) WHEN ADEQUATE FUNDING IS AVAILABLE, BEGINNING ON JULY
+-23- 1382
+
+1 1, 2027, THE AUTHORITY MAY:
+2 (a) MAKE GRANTS TO SUPPORT, OR DEVELOP, IMPLEMENT, OR
+3 DELIVER, EDUCATION PROGRAMS CONCERNING:
+4 (I) ELIGIBILITY STANDARDS FOR RESERVED PARKING THAT IS
+5 AVAILABLE TO AN INDIVIDUAL WITH A DISABILITY AFFECTING MOBILITY;
+6 (II) APPROPRIATE USE OF THE RESERVED PARKING THAT IS
+7 AVAILABLE TO AN INDIVIDUAL WITH A DISABILITY AFFECTING MOBILITY;
+8 (III) THE LEGAL STANDARDS AND VIOLATIONS CONTAINED IN
+9 SECTIONS 42-3-204 AND 42-4-1208; AND
+10 (IV) THE ADVANTAGES OF CREATING A VOLUNTEER ENFORCEMENT
+11 PROGRAM FOR RESERVED PARKING THAT IS AVAILABLE TO AN INDIVIDUAL
+12 WITH A DISABILITY AFFECTING MOBILITY; AND
+13 (b) CREATE OR MAKE AVAILABLE A TRAINING PROGRAM TO ASSIST
+14 PROFESSIONALS IN UNDERSTANDING THE STANDARDS THAT NEED TO BE
+15 MET TO OBTAIN AN IDENTIFYING LICENSE PLATE OR PLACARD FOR THE USE
+16 OF RESERVED PARKING THAT IS AVAILABLE TO AN INDIVIDUAL WITH A
+17 DISABILITY AFFECTING MOBILITY.
+18 (2) EDUCATION PROGRAMS FUNDED PURSUANT TO THIS SECTION
+19 ARE INTENDED TO PROVIDE EDUCATION TO:
+20 (a) PEACE OFFICERS;
+21 (b) LOCAL GOVERNMENTS;
+22 (c) ENTITIES THAT PROVIDE PARKING;
+23 (d) ENTITIES THAT PROVIDE PRIVATE PARKING ENFORCEMENT,
+24 INCLUDING TOW OPERATORS;
+25 (e) MEDICAL PROVIDERS;
+26 (f) DRIVERS; AND
+27 (g) INDIVIDUALS WITH DISABILITIES.
+-24- 1382
+
+1 (3) THE AUTHORITY SHALL ESTABLISH RULES TO ENSURE MONEY
+2 RECEIVED FROM A GRANT PURSUANT TO THIS SECTION IS USED FOR THE
+3 PURPOSES SPECIFIED IN THIS SECTION.
+4 8-88-306. Annual performance and financial audit - report.
+5 (1) (a) ON OR BEFORE DECEMBER 1, 2027, AND ON OR BEFORE
+6 EACH DECEMBER 1 THEREAFTER, THE AUTHORITY SHALL PREPARE AND
+7 SUBMIT A FINANCIAL AND PERFORMANCE REPORT TO THE JOINT BUDGET
+8 COMMITTEE OF THE GENERAL ASSEMBLY. AT A MINIMUM, THE REPORT
+9 MUST INCLUDE:
+10 (I) HOW MUCH MONEY WAS COLLECTED IN DONATIONS AND
+11 DEPOSITED IN THE AUTHORITY'S ACCOUNT AS REQUIRED BY SECTION
+12 8-88-302 (2)(a) IN THE PRECEDING FISCAL YEAR;
+13 (II) A DESCRIPTION OF EVERY EXPENDITURE MADE BY THE
+14 AUTHORITY IN THE PRECEDING FISCAL YEAR, INCLUDING GRANT OR
+15 CONTRACT EXPENSES AND ADMINISTRATIVE COSTS, SUCH AS STAFF
+16 SALARIES AND OPERATING EXPENSES;
+17 (III) THE TOTAL AMOUNT OF GRANT OR CONTRACT AWARDS MADE
+18 IN THE PRECEDING FISCAL YEAR AND A DESCRIPTION OF THE TYPES OF
+19 PROGRAMS AND SERVICES FUNDED BY THOSE GRANT OR CONTRACT
+20 AWARDS;
+21 (IV) THE TOTAL NUMBER AND VALUE OF GRANTS OR CONTRACTS
+22 THAT REMAIN OPEN FOR REIMBURSEMENT IN THE CURRENT FISCAL YEAR;
+23 AND
+24 (V) THE TOTAL OF ANTICIPATED EXPENDITURES IN THE CURRENT
+25 FISCAL YEAR.
+26 (b) THE AUTHORITY SHALL PRESENT THE DECEMBER 2027 AND
+27 DECEMBER 2028 ANNUAL REPORTS IN PERSON AT A MEETING OF THE JOINT
+-25- 1382
+
+1 BUDGET COMMITTEE OF THE GENERAL ASSEMBLY. BEGINNING WITH THE
+2 DECEMBER 2029 ANNUAL REPORT AND FOR EACH ANNUAL DECEMBER
+3 REPORT THEREAFTER, THE AUTHORITY SHALL SUBMIT A WRITTEN REPORT
+4 BUT IS NOT REQUIRED TO PRESENT THE REPORT IN PERSON.
+5 (2) IN ADDITION TO THE ANNUAL REPORT REQUIRED BY
+6 SUBSECTION (1) OF THIS SECTION, THE STATE AUDITOR SHALL, UPON THE
+7 AFFIRMATIVE VOTE OF A MAJORITY OF THE MEMBERS OF THE LEGISLATIVE
+8 AUDIT COMMITTEE CREATED PURSUANT TO SECTION 2-3-101, CONDUCT OR
+9 CAUSE TO BE CONDUCTED POSTAUDITS OF THE AUTHORITY PURSUANT TO
+10 SECTION 2-3-103 (1)(b).
+11 SECTION 11. In Colorado Revised Statutes, 24-34-104, repeal
+12 (30)(a)(IX) as follows:
+13 24-34-104. General assembly review of regulatory agencies
+14 and functions for repeal, continuation, or reestablishment - legislative
+15 declaration - repeal.
+16 (30) (a) The following agencies, functions, or both, are scheduled
+17 for repeal on September 1, 2029:
+18 (IX) The assistance program for disability benefits under article
+19 88 of title 8;
+20 SECTION 12. In Colorado Revised Statutes, 24-77-102, amend
+21 (11)(b), (11)(c)(IX), (15)(b)(XXI), and (15)(b)(XXII); and add (11)(d)
+22 and (15)(b)(XXIII) as follows:
+23 24-77-102. Definitions.
+24 As used in this article 77, unless the context otherwise requires:
+25 (11) "Property sale" means:
+26 (b) Any contract resulting in the payment of pecuniary
+27 compensation to the state for permitting another to exploit, use, or market
+-26- 1382
+
+1 nonrenewable natural resources which are located on real property owned
+2 by the state and which are subject to depletion with use; or
+3 (c) For state fiscal years commencing on or after July 1, 2024, a
+4 transfer of rights in tangible or intangible property, excluding leasehold
+5 interests, in which or to which the state has rights protected by law from
+6 the state to any party for consideration. Such a transfer of rights includes:
+7 (IX) The sale of wine for promotional purposes by the Colorado
+8 wine industry development board, created in article 29.5 of title 35; OR
+9 (d) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+10 2025, SALES OF UNIQUELY VALUABLE VEHICLE REGISTRATION NUMBERS
+11 PURSUANT TO SECTION 8-88-105.
+12 (15) (b) "Special purpose authority" includes, but is not limited to:
+13 (XXI) The equal justice authority created in section 13-5.7-202;
+14 and
+15 (XXII) The building urgent infrastructure and leveraging dollars
+16 authority created in section 24-117-104 (1); AND
+17 (XXIII) THE COLORADO DISABILITY FUNDING AUTHORITY
+18 CREATED IN SECTION 8-88-301.
+19 SECTION 13. In Colorado Revised Statutes, 42-1-226, add (3)
+20 as follows:
+21 42-1-226. Disabled parking education and enforcement fund
+22 - created - transfer - repeal.
+23 (3) (a) ON JUNE 30, 2026, THE STATE TREASURER SHALL TRANSFER
+24 THE UNEXPENDED AND UNENCUMBERED BALANCE OF THE DISABLED
+25 PARKING EDUCATION AND ENFORCEMENT FUND TO THE GENERAL FUND.
+26 (b) THIS SECTION IS REPEALED, EFFECTIVE JULY 1, 2026.
+27 SECTION 14. In Colorado Revised Statutes, 42-1-227, add (2)
+-27- 1382
+
+1 as follows:
+2 42-1-227. Disabled parking education program - repeal.
+3 (2) THIS SECTION IS REPEALED, EFFECTIVE JULY 1, 2026.
+4 SECTION 15. In Colorado Revised Statutes, 42-3-206.5, amend
+5 (1)(a) introductory portion, (1)(b), and (2.5); and add (1)(c) as follows:
+6 42-3-206.5. Issuance of plates in a retired style authorized -
+7 additional fee - rules - repeal.
+8 (1) (a) Beginning January 1, 2023, or when the department is able
+9 to issue THE license plates, pursuant to section 8-88-202 (6)(i), whichever
+10 is earlier, the department shall issue license plates in previously retired
+11 styles for motorcycles, passenger cars, trucks, or noncommercial or
+12 recreational motor vehicles that do not exceed sixteen thousand pounds
+13 empty weight that had:
+14 (b) (I) ON OR BEFORE SEPTEMBER 30, 2026, the amount of the
+15 taxes and fees for license plates in the previously retired style is the same
+16 as the amount of the taxes and fees specified for regular motor vehicle
+17 plates plus an annual fee of twenty-five dollars, which shall be credited
+18 to the disability support fund created in section 8-88-205 SECTION
+19 8-88-104.
+20 (II) THIS SUBSECTION (1)(b) IS REPEALED, EFFECTIVE OCTOBER 1,
+21 2026.
+22 (c) ON AND AFTER OCTOBER 1, 2026, THE AMOUNT OF THE TAXES
+23 AND FEES FOR LICENSE PLATES IN THE PREVIOUSLY RETIRED STYLE IS THE
+24 SAME AS THE AMOUNT OF THE TAXES AND FEES SPECIFIED FOR REGULAR
+25 MOTOR VEHICLE PLATES; EXCEPT THAT THE DEPARTMENT SHALL COLLECT
+26 THE FOLLOWING ADDITIONAL FEES AND DONATIONS:
+27 (I) A ONE-TIME DONATION OF TWENTY-TWO DOLLARS AND FIFTY
+-28- 1382
+
+1 CENTS FOR ISSUANCE OR REPLACEMENT OF THE LICENSE PLATE, WHICH
+2 MUST BE REMITTED TO THE COLORADO DISABILITY FUNDING AUTHORITY
+3 CREATED IN SECTION 8-88-301;
+4 (II) A ONE-TIME FEE OF TWO DOLLARS AND FIFTY CENTS FOR
+5 ISSUANCE OR REPLACEMENT OF THE LICENSE PLATE, WHICH MUST BE
+6 TRANSMITTED TO THE STATE TREASURER, WHO SHALL CREDIT THE FEE TO
+7 THE DISABILITY SUPPORT FUND CREATED IN SECTION 8-88-104;
+8 (III) AN ANNUAL RENEWAL DONATION OF TWENTY-TWO DOLLARS
+9 AND FIFTY CENTS, WHICH MUST BE REMITTED TO THE COLORADO
+10 DISABILITY FUNDING AUTHORITY CREATED IN SECTION 8-88-301; AND
+11 (IV) AN ANNUAL RENEWAL FEE OF TWO DOLLARS AND FIFTY
+12 CENTS, WHICH MUST BE TRANSMITTED TO THE STATE TREASURER, WHO
+13 SHALL CREDIT THE FEE TO THE DISABILITY SUPPORT FUND CREATED IN
+14 SECTION 8-88-104.
+15 (2.5) The Colorado disability funding committee is responsible for
+16 the costs of designing the previously retired license plate styles and shall
+17 pay such costs before the license plates are produced. The design for the
+18 previously retired license plate styles shall MUST conform with standards
+19 established by the department. After January 1, 2028, the department may
+20 stop producing plates in a previously retired style if the department
+21 determines that demand for that style, including willingness to pay an
+22 additional fee that fully defrays the costs of producing the license plates
+23 in the style, is not sufficiently high to justify production of the license
+24 plates.
+25 SECTION 16. In Colorado Revised Statutes, 42-3-211, amend
+26 (3)(a) as follows:
+27 42-3-211. Issuance of personalized plates authorized.
+-29- 1382
+
+1 (3) (a) Personalized license plates must be the same color and
+2 design as regular motor vehicle license plates, must consist of any
+3 combination of numbers or letters not exceeding seven positions and not
+4 less than two positions, except as otherwise provided in section 8-88-206
+5 (4) SECTION 8-88-105 (4), and must not conflict with existing passenger,
+6 commercial, trailer, motorcycle, or other special license plates series;
+7 except that personalized license plates bearing the words "street rod" shall
+8 MUST be of a design determined by the executive director of the
+9 department, which design shall MUST be different from those used by the
+10 state for regular motor vehicle license plates.
+11 SECTION 17. In Colorado Revised Statutes, 42-4-1208, repeal
+12 (6)(k) as follows:
+13 42-4-1208. Reserved parking for persons with disabilities -
+14 applicability - rules - standards - legislative declaration - definitions.
+15 (6) Enforcement of reserved parking.
+16 (k) The state or local authority issuing a citation under this
+17 section, or under any local ordinance defining a substantially equivalent
+18 offense, shall transfer one-half of the fine to the state treasurer, who shall
+19 credit the fine to the disabled parking education and enforcement fund
+20 created in section 42-1-226.
+21 SECTION 18. Appropriation - adjustments to 2026 long bill.
+22 (1) Except as provided in subsection (2) of this section, to implement this
+23 act, the cash funds appropriation from the disabled parking education and
+24 enforcement fund created in section 42-1-226 (1), C.R.S., made in the
+25 general appropriations act for the 2026-27 state fiscal year to the
+26 department of labor and employment for use by the Colorado disability
+27 opportunity office for operating expenses is decreased by $100,000.
+-30- 1382
+
+1 (2) Subsection (1) of this section does not require a reduction of
+2 an appropriation in the annual general appropriation act for the 2026-27
+3 state fiscal year if:
+4 (a) The amount of the cash funds appropriation from the disabled
+5 parking education and enforcement fund created in section 42-1-226 (1),
+6 C.R.S., made in the annual general appropriation act for the 2026-27 state
+7 fiscal year to the department of labor and employment for the Colorado
+8 disability opportunity office for operating expenses is less than the
+9 amount of the adjustment required in subsection (1) of this section; or
+10 (b) The annual general appropriation act for the 2026-27 state
+11 fiscal year does not include an appropriation to the department of labor
+12 and employment for the Colorado disability opportunity office for
+13 operating expenses.
+14 SECTION 19. Appropriation. (1) For the 2026-27 state fiscal
+15 year, $1,000,000 is appropriated to the department of labor and
+16 employment for use by the division of vocational rehabilitation and
+17 independent living services. This appropriation is from the disability
+18 support fund created in section 8-88-104 (1), C.R.S. To implement this
+19 act, the division may use this appropriation for vocational rehabilitation
+20 services.
+21 (2) For the 2026-27 state fiscal year, $27,000 is appropriated to
+22 the department of revenue for use by the division of motor vehicles. This
+23 appropriation is from the disability support fund created in section
+24 8-88-104 (1), C.R.S. To implement this act, the division may use this
+25 appropriation for DRIVES maintenance and support.
+26 SECTION 20. Effective date. (1) Except as otherwise provided
+27 in this section, this act takes effect upon passage.
+-31- 1382
+
+1 (2) This act takes effect upon passage; except that section 18 of
+2 this act takes effect only if the annual general appropriation act for the
+3 2026-27 state fiscal year becomes law, in which case section 18 takes
+4 effect upon the effective date of this act or of the annual general
+5 appropriation act for state fiscal year 2026-27, whichever is later.
+6 (3) Section 8-88-101 (2), Colorado Revised Statutes, repealed in
+7 section 1 of this act, and section 24-34-104, Colorado Revised Statutes,
+8 amended in section 11 of this act, take effect on July 1, 2027.
+9 SECTION 21. Safety clause. The general assembly finds,
+10 determines, and declares that this act is necessary for the immediate
+11 preservation of the public peace, health, or safety or for appropriations for
+12 the support and maintenance of the departments of the state and state
+13 institutions.
+-32- 1382

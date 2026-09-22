@@ -1,0 +1,211 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0930.01 Pierce Lively x2059 HOUSE BILL 26-1364
+HOUSE SPONSORSHIP
+Sirota and Taggart, Brown
+SENATE SPONSORSHIP
+Bridges and Kirkmeyer, Amabile
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE CALCULATION OF THE CONSUMER PRICE INDEX FOR THE
+102 2025 CALENDAR YEAR.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. The United States bureau of labor
+statistics (BLS) determines the consumer price index (CPI) for each
+month. At the end of a year, the BLS determines the CPI for that year by
+averaging the CPI for each month in the year. However, as of March
+2026, the BLS did not determine the CPI for the month of October and
+then determined inflation for 2025 by averaging the CPI for every month
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+besides October in 2025. The BLS's approach to determining the CPI for
+2025 overweighted the CPI of the first half of 2025 relative to the second
+half of 2025, since the BLS included each month from the first half of
+2025 and only 5 of the 6 months in the second half of 2025, in
+determining the CPI for 2025.
+The bill, for 2025 only, determines the CPI for 2025 by averaging
+the 2 semi-annual BLS CPI determinations for 2025. This approach gives
+equal weight to the CPI from the first and second halves of 2025.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add article 118 to
+3 title 24 as follows:
+4 ARTICLE 118
+5 Consumer Price Index for Calendar Year 2025
+6 24-118-101. Consumer price index.
+7 (1) NOTWITHSTANDING ANY LAW TO THE CONTRARY, FOR THE
+8 PURPOSES OF CALCULATING THE CONSUMER PRICE INDEX FOR THE 2025
+9 CALENDAR YEAR AS NECESSARY TO COMPARE THE CONSUMER PRICE INDEX
+10 FOR 2025 TO THE CONSUMER PRICE INDEX FOR 2024 AND AS NECESSARY
+11 TO COMPARE THE CONSUMER PRICE INDEX FOR 2026 TO THE CONSUMER
+12 PRICE INDEX FOR 2025, THE CONSUMER PRICE INDEX IS DETERMINED BY
+13 AVERAGING THE TWO SEMI-ANNUAL REPORTS PRODUCED BY THE UNITED
+14 STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS FOR THE
+15 2025 CALENDAR YEAR FOR THE RELEVANT REGION IN THE FOLLOWING
+16 SECTIONS:
+17 (a) IN TITLE 4:
+18 (I) SECTION 4-9-625;
+19 (b) IN TITLE 6:
+20 (I) SECTION 6-1-112;
+21 (c) IN TITLE 8:
+-2- HB26-1364
+
+1 (I) SECTION 8-6-101.5; AND
+2 (II) SECTION 8-73-116;
+3 (d) IN TITLE 10:
+4 (I) SECTION 10-16-104;
+5 (II) SECTION 10-16-119.5;
+6 (III) SECTION 10-16-1303; AND
+7 (IV) SECTION 10-16-1401;
+8 (e) IN TITLE 12:
+9 (I) SECTION 12-30-102;
+10 (II) SECTION 12-115-121;
+11 (III) SECTION 12-220-310;
+12 (IV) SECTION 12-220-507;
+13 (V) SECTION 12-240-131;
+14 (VI) SECTION 12-255-130;
+15 (VII) SECTION 12-280-139;
+16 (VIII) SECTION 12-280-140;
+17 (IX) SECTION 12-280-142; AND
+18 (X) SECTION 12-315-123;
+19 (f) IN TITLE 13:
+20 (I) SECTION 13-10-113;
+21 (II) SECTION 13-21-102.5;
+22 (III) SECTION 13-21-203.7; AND
+23 (IV) SECTION 13-64-302;
+24 (g) IN TITLE 15:
+25 (I) SECTION 15-1-1106; AND
+26 (II) SECTION 15-10-112;
+27 (h) IN TITLE 18:
+-3- HB26-1364
+
+1 (I) SECTION 18-4-511;
+2 (i) IN TITLE 22:
+3 (I) SECTION 22-20-114;
+4 (II) SECTION 22-30.5-112;
+5 (III) SECTION 22-30.5-513;
+6 (IV) SECTION 22-32-104;
+7 (V) SECTION 22-32-119;
+8 (VI) SECTION 22-43.7-104;
+9 (VII) SECTION 22-54-103.3; AND
+10 (VIII) SECTION 22-55-102;
+11 (j) IN TITLE 23:
+12 (I) SECTION 23-3.1-306.5; AND
+13 (II) SECTION 23-3.9-302;
+14 (k) IN TITLE 24:
+15 (I) SECTION 24-9-106;
+16 (II) SECTION 24-10-114;
+17 (III) SECTION 24-31-1203;
+18 (IV) SECTION 24-38.5-125;
+19 (V) SECTION 24-38.5-302;
+20 (VI) SECTION 24-65.5-103.7;
+21 (VII) SECTION 24-72-205; AND
+22 (VIII) SECTION 24-77-102;
+23 (l) IN TITLE 25:
+24 (I) SECTION 25-1-134;
+25 (II) SECTION 25-3-103;
+26 (III) SECTION 25-3-105;
+27 (IV) SECTION 25-3.5-208;
+-4- HB26-1364
+
+1 (V) SECTION 25-7.5-102;
+2 (VI) SECTION 25-7-122;
+3 (VII) SECTION 25-8-608;
+4 (VIII) SECTION 25-17-713; AND
+5 (IX) SECTION 25-57-110;
+6 (m) IN TITLE 25.5:
+7 (I) SECTION 25.5-6-101; AND
+8 (II) SECTION 25.5-6-204;
+9 (n) IN TITLE 26.5:
+10 (I) SECTION 26.5-4-203;
+11 (o) IN TITLE 29:
+12 (I) SECTION 29-4-1201;
+13 (p) IN TITLE 30:
+14 (I) SECTION 30-2-102;
+15 (II) SECTION 30-20-604.5; AND
+16 (III) SECTION 30-20-1403;
+17 (q) IN TITLE 31:
+18 (I) SECTION 31-16-101; AND
+19 (II) SECTION 31-31.5-410;
+20 (r) IN TITLE 32:
+21 (I) SECTION 32-1-1001;
+22 (II) SECTION 32-9-119;
+23 (III) SECTION 32-13-107;
+24 (IV) SECTION 32-13-110; AND
+25 (V) SECTION 32-14-114;
+26 (s) IN TITLE 33:
+27 (I) SECTION 33-4-102;
+-5- HB26-1364
+
+1 (II) SECTION 33-9-203;
+2 (III) SECTION 33-10.5-104.5;
+3 (IV) SECTION 33-12-108; AND
+4 (V) SECTION 33-60-104;
+5 (t) IN TITLE 34:
+6 (I) SECTION 34-60-135;
+7 (u) IN TITLE 37:
+8 (I) SECTION 37-42-113;
+9 (v) IN TITLE 38:
+10 (I) SECTION 38-12-203.5;
+11 (II) SECTION 38-33.3-116;
+12 (III) SECTION 38-33.3-123; AND
+13 (IV) SECTION 38-37-104;
+14 (w) IN TITLE 39:
+15 (I) SECTION 39-1-104.2;
+16 (II) SECTION 39-2-117;
+17 (III) SECTION 39-3-119.5;
+18 (IV) SECTION 39-22-129;
+19 (V) SECTION 39-22-130;
+20 (VI) SECTION 39-22-543;
+21 (VII) SECTION 39-22-547;
+22 (VIII) SECTION 39-31-101;
+23 (IX) SECTION 39-31-104.5; AND
+24 (X) SECTION 39-37-301;
+25 (x) IN TITLE 40:
+26 (I) SECTION 40-2-104;
+27 (II) SECTION 40-2-135;
+-6- HB26-1364
+
+1 (III) SECTION 40-7-105; AND
+2 (IV) SECTION 40-8.7-105.5;
+3 (y) IN TITLE 41:
+4 (I) SECTION 41-3-103;
+5 (z) IN TITLE 42:
+6 (I) SECTION 42-1-210;
+7 (II) SECTION 42-4-310;
+8 (III) SECTION 42-4-1307; AND
+9 (IV) SECTION 42-5-204;
+10 (aa) IN TITLE 43:
+11 (I) SECTION 43-4-218;
+12 (II) SECTION 43-4-804;
+13 (III) SECTION 43-4-805;
+14 (IV) SECTION 43-4-806;
+15 (V) SECTION 43-4-1202; AND
+16 (VI) SECTION 43-4-1302; AND
+17 (bb) IN TITLE 44:
+18 (I) SECTION 44-3-103;
+19 (II) SECTION 44-3-801; AND
+20 (III) SECTION 44-10-803.
+21 SECTION 2. Safety clause. The general assembly finds,
+22 determines, and declares that this act is necessary for the immediate
+23 preservation of the public peace, health, or safety or for appropriations for
+24 the support and maintenance of the departments of the state and state
+25 institutions.
+-7- HB26-1364

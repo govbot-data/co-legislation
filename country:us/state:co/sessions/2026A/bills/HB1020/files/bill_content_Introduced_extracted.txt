@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0418.01 Lindy Schaible x4215 HOUSE BILL 26-1020
+HOUSE SPONSORSHIP
+Gilchrist and Bacon,
+SENATE SPONSORSHIP
+Ball,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING COLORIMETRIC FIELD DRUG TESTS IN CASES INVOLVING
+102 DRUG POSSESSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, a person may be arrested and detained for level
+1 drug misdemeanor possession.
+The bill defines "colorimetric field drug test" and requires that
+when a colorimetric field drug test was used and a person is suspected of
+a level 1 drug misdemeanor for possession or a municipal drug possession
+charge, a peace officer shall not arrest the person and instead shall issue
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+a summons.
+The bill also requires that when a colorimetric field drug test was
+used, before accepting a plea from a person charged with a drug
+possession for level 4 drug felony possession and lower, the trial court is
+required to issue an advisement with specified language, including
+language stating that colorimetric field drug tests have known error rates
+and that the defendant has the right to enter a not guilty plea and to
+request drug testing from an accredited forensic laboratory.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 18-18-102, amend
+3 the introductory portion; and add (4.5) as follows:
+4 18-18-102. Definitions.
+5 As used in this article 18, UNLESS THE CONTEXT OTHERWISE
+6 REQUIRES:
+7 (4.5) "COLORIMETRIC FIELD DRUG TEST" MEANS A PRESUMPTIVE
+8 CHEMICAL SCREENING METHOD PERFORMED OUTSIDE OF A FORENSIC
+9 LABORATORY BY SOMEONE OTHER THAN A FORENSIC CHEMIST THAT USES
+10 ONE OR MORE REAGENT SUBSTANCES THAT, WHEN BROUGHT INTO
+11 PHYSICAL CONTACT WITH AN UNKNOWN SUBSTANCE, PRODUCES A VISIBLE
+12 COLOR CHANGE INTENDED TO INDICATE THE POSSIBLE PRESENCE OF A
+13 CONTROLLED SUBSTANCE.
+14 SECTION 2. In Colorado Revised Statutes, 18-18-403.5, add (7)
+15 and (8) as follows:
+16 18-18-403.5. Unlawful possession of a controlled substance -
+17 notice to revisor of statutes - repeal.
+18 (7) NOTWITHSTANDING SUBSECTIONS (2) AND (2.5) OF THIS
+19 SECTION, WHEN A COLORIMETRIC FIELD DRUG TEST WAS USED, A PEACE
+20 OFFICER SHALL NOT ARREST A PERSON FOR A LEVEL 1 DRUG MISDEMEANOR
+21 FOR POSSESSION OF A CONTROLLED SUBSTANCE PURSUANT TO SUBSECTION
+-2- HB26-1020
+
+1 (2)(c) OR (2.5)(a)(II) OF THIS SECTION, OR FOR A MUNICIPAL DRUG
+2 POSSESSION CHARGE, AND SHALL INSTEAD ISSUE A SUMMONS AND
+3 COMPLAINT PURSUANT TO SECTION 16-2-104.
+4 (8) BEFORE ACCEPTING A PLEA FROM A PERSON CHARGED WITH
+5 POSSESSION OF A CONTROLLED SUBSTANCE PURSUANT TO SUBSECTION (1),
+6 (2), OR (2.5) OF THIS SECTION, OR FOR A DRUG POSSESSION OFFENSE IN
+7 MUNICIPAL COURT, WHEN A COLORIMETRIC FIELD DRUG TEST WAS USED,
+8 A TRIAL JUDGE SHALL ISSUE AN ADVISEMENT THAT INCLUDES THE
+9 FOLLOWING LANGUAGE: "THE COURT CANNOT ACCEPT A PLEA WITHOUT
+10 FIRST ADVISING THE DEFENDANT THAT PRESUMPTIVE COLORIMETRIC FIELD
+11 DRUG TESTS ARE SUBJECT TO FALSE POSITIVE RESULTS. PRESUMPTIVE
+12 COLORIMETRIC FIELD DRUG TESTS HAVE KNOWN ERROR RATES AND ARE
+13 INADMISSIBLE IN COURT. THE DEFENDANT HAS THE RIGHT TO ENTER A NOT
+14 GUILTY PLEA AND TO REQUEST DRUG TESTING BY AN ACCREDITED
+15 FORENSIC LABORATORY."
+16 SECTION 3. In Colorado Revised Statutes, amend 16-2-104 as
+17 follows:
+18 16-2-104. Issuance of summons and complaint.
+19 (1) A summons and complaint may be issued by any A peace
+20 officer for an offense constituting a misdemeanor or a petty offense
+21 committed in the peace officer's presence or, if not committed in the
+22 peace officer's presence, that the peace officer has probable cause to
+23 believe was committed and probable cause to believe was committed by
+24 the person charged. Except for:
+25 (a) Penalty assessment notices, which must be handled pursuant
+26 to the procedures set forth in section 16-2-201 or 16-2.3-102, a copy of
+27 a summons and complaint so issued must be filed immediately with the
+-3- HB26-1020
+
+1 county court before which appearance is required, and a second copy
+2 must be given to the district attorney or deputy district attorney for the
+3 county; AND
+4 (b) WHEN A COLORIMETRIC FIELD DRUG TEST WAS USED AND A
+5 PERSON IS SUSPECTED OF A LEVEL 1 DRUG MISDEMEANOR FOR POSSESSION
+6 OF A CONTROLLED SUBSTANCE PURSUANT TO SECTION 18-18-403.5 (2)(c)
+7 OR (2.5)(a)(II), OR FOR A MUNICIPAL DRUG POSSESSION CHARGE, A PEACE
+8 OFFICER SHALL ISSUE A SUMMONS AND COMPLAINT AND SHALL NOT
+9 ARREST THE PERSON.
+10 SECTION 4. In Colorado Revised Statutes, 16-3-105, amend (2);
+11 and add (1.3) as follows:
+12 16-3-105. Release by arresting authority.
+13 (1.3) NOTWITHSTANDING SUBSECTION (1) OF THIS SECTION, IF A
+14 PERSON IS SUSPECTED OF A LEVEL 1 DRUG MISDEMEANOR FOR POSSESSION
+15 OF A CONTROLLED SUBSTANCE PURSUANT TO SECTION 18-18-403.5 (2)(c)
+16 OR (2.5)(a)(II), OR OF DRUG POSSESSION IN VIOLATION OF MUNICIPAL LAW,
+17 AND A COLORIMETRIC FIELD DRUG TEST WAS USED, THE PEACE OFFICER
+18 SHALL NOT ARREST THE PERSON AND SHALL INSTEAD RELEASE THE PERSON
+19 AND ISSUE A SUMMONS COMMANDING THE PERSON'S APPEARANCE AT A
+20 LATER DATE.
+21 (2) If the person is released in accordance with subsection (1)(b)
+22 SUBSECTIONS (1)(b) OR (1.3) of this section, he THE PERSON shall be given
+23 a summons and complaint as provided for in sections 16-2-104 and
+24 16-2-106 and shall sign a written acknowledgment of its receipt and a
+25 promise to appear at the time and place specified.
+26 SECTION 5. In Colorado Revised Statutes, 16-5-206, add
+27 (1.5)(a.5) as follows:
+-4- HB26-1020
+
+1 16-5-206. Summons instead of warrant.
+2 (1.5) (a.5) NOTWITHSTANDING SUBSECTIONS (1) AND (1.5)(a) OF
+3 THIS SECTION, IF A PERSON IS SUSPECTED OF A LEVEL 1 DRUG
+4 MISDEMEANOR FOR POSSESSION OF A CONTROLLED SUBSTANCE PURSUANT
+5 TO SECTION 18-18-403.5 (2)(c) OR (2.5)(a)(II), OR OF DRUG POSSESSION IN
+6 VIOLATION OF MUNICIPAL LAW, AND A COLORIMETRIC FIELD DRUG TEST
+7 WAS USED, A LAW ENFORCEMENT OFFICER SHALL ISSUE A SUMMONS
+8 COMMANDING THE APPEARANCE OF THE DEFENDANT INSTEAD OF A
+9 WARRANT FOR THE DEFENDANT'S ARREST.
+10 SECTION 6. Applicability. This act applies to offenses
+11 committed on or after the effective date of this act.
+12 SECTION 7. Safety clause. The general assembly finds,
+13 determines, and declares that this act is necessary for the immediate
+14 preservation of the public peace, health, or safety or for appropriations for
+15 the support and maintenance of the departments of the state and state
+16 institutions.
+-5- HB26-1020

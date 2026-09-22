@@ -1,0 +1,318 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0561.01 Alison Killen x4350 SENATE BILL 26-116
+Senate Committees House Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE TAXATION OF PROPERTY, AND, IN CONNECTION
+102 THEREWITH, MODIFYING THE QUALIFIED-SENIOR PRIMARY
+103 RESIDENCE BENEFIT AND MODIFYING THE TAXATION OF
+104 BUSINESS PERSONAL PROPERTY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1, 2, and 3 of the bill give municipalities the authority,
+upon voter approval, to levy a lodging tax up to the same rate and for the
+same purposes allowed to counties to be collected, administered, and
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,42
+lirpA
+SENATE SPONSORSHIP
+Weissman,
+HOUSE SPONSORSHIP
+Zokaie,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+enforced by the state. The bill prohibits, commencing on and after
+January 1, 2027, any municipal tax on lodging or on the business of
+providing lodging that is not a municipal lodging tax adopted in
+accordance with the requirements of section 3. An existing municipal tax
+on lodging or on the business of providing lodging adopted on or before
+December 31, 2026, is allowed to continue under the bill. However, there
+can be no tax rate increase, expansion of tax base, or material change in
+uses of the tax revenue absent adoption of a municipal lodging tax that is
+in accordance with the requirements of section 3.
+Section 4 clarifies that, notwithstanding any provision of law to
+the contrary, in any case in which the income approach is used to
+determine the actual value of any lodging property, the assessor shall
+include "net rental income" and "resort fee income", each income amount
+capitalized to value at a rate typical within the relevant market in the
+actual value of the lodging property. "Net rental income" means the net
+operating income generated from payments made in connection with the
+rental of the lodging property, including any unit within or connected to
+the lodging property, whether or not the unit is individually and separately
+owned, after the deduction of expenses typical in the relevant market and
+excluding any rents remitted to a unit owner for use of the owner's unit.
+"Resort fee income" means the net income generated from the collection
+of any fee or charge, however denominated, by the property, that is
+retained by the property but does not include any fee or charge amounts
+that the property remits to any county, city, city and county, special
+district, or other local government.
+Sections 5 and 6 extend the portable qualified-senior primary
+residence benefit created for property tax years 2025 and 2026 to future
+property tax years.
+Section 7 changes the state property tax exemption for business
+personal property, commencing on and after January 1, 2027, by setting
+the exemption threshold for such property at $60,000, without an
+adjustment for inflation, and by eliminating the reimbursement provision
+for property tax losses due to the exemption.
+Sections 8 and 9 subject the municipal lodging tax authorized by
+section 3 to the department of revenue's administrative scope and
+mandatory electronic filing and payment requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 39-1-104.6, amend
+3 (2)(a), (3)(a), (5)(c), (6)(a), (8)(a), (8)(b)(I), (8)(c), and (8)(d) as follows:
+4 39-1-104.6. Qualified-senior primary residence real property
+-2- 116
+
+1 - valuation for assessment - reimbursement to local governments for
+2 reduced valuation - temporary mechanism for refunding excess state
+3 revenues - legislative declaration - definitions.
+4 (2) Classification.
+5 (a) For property tax years commencing on or after January 1,
+6 2025, BUT BEFORE JANUARY 1, 2027, residential real property that as of
+7 the assessment date is used as the primary residence of an owner-occupier
+8 is classified as qualified-senior primary residence real property, which is
+9 a subclass of residential real property, if:
+10 (3) Applications.
+11 (a) For a property to be classified as qualified-senior primary
+12 residence real property, an individual must file with the assessor a
+13 completed application no later than July 15 of the first property tax year
+14 for which the classification is sought, THROUGH JULY 15, 2026. An
+15 application returned by mail is deemed filed on the date it is postmarked.
+16 (5) Confidentiality.
+17 (c) In accordance with section 25-2-103 (4.7), the administrator
+18 shall annually provide to the state registrar of vital statistics of the
+19 department of public health and environment a list, by name and social
+20 security number, of every individual who had property classified as
+21 qualified-senior primary residence real property for the immediately
+22 preceding year so that the registrar can provide to the administrator a list
+23 of all the individuals on the list who have died. No later than April 1,
+24 2026, and April 1 of each year thereafter NO LATER THAN APRIL 1, 2027,
+25 the administrator shall forward to the assessor of each county the name
+26 and social security number of each deceased individual who had
+27 residential real property located within the county that was so classified
+-3- 116
+
+1 for the immediately preceding year so that the assessor can change the
+2 classification of the property, if necessary.
+3 (6) Notice.
+4 (a) As soon as practicable after January 1, 2025, and after January
+5 1 of each year thereafter JANUARY 1, 2026, each county treasurer shall, at
+6 the treasurer's discretion, mail or electronically send to each person whose
+7 name appears on the tax list and warrant as an owner of residential real
+8 property notice of the qualified-senior primary residence real property
+9 classification. The treasurer shall mail or electronically send the notice
+10 each year on or before the date on which the treasurer mails the property
+11 tax statement for the previous property tax year pursuant to section
+12 39-10-103. The administrator shall prescribe the form of the notice, which
+13 must include a statement of the eligibility criteria for the primary
+14 residence real property and qualified-senior primary residence real
+15 property classifications and instructions for obtaining a related
+16 application.
+17 (8) Reporting to administrator.
+18 (a) No later than September 10, 2025, and September 10 of each
+19 year thereafter NO LATER THAN SEPTEMBER 10, 2026, each assessor shall
+20 forward to the administrator a report on the residential real property in the
+21 assessor's county that qualifies for classification as qualified-senior
+22 primary residence real property for the current property tax year. For each
+23 unit of residential real property, the report must include:
+24 (b) (I) The administrator shall examine the reports sent by each
+25 assessor pursuant to subsection (8)(a) of this section to ensure that no
+26 applicant has applied for a qualified-senior primary residence real
+27 property classification without meeting all legal requirements for
+-4- 116
+
+1 obtaining the classification. No later than November 1, 2025, and
+2 November 1 of each year thereafter NO LATER THAN NOVEMBER 1, 2026,
+3 if the administrator determines that an applicant has applied for more than
+4 one property to be classified as qualified-senior primary residence real
+5 property, the administrator shall provide written notice to the applicant
+6 that the applicant has applied for more than one such classification and
+7 is therefore not entitled to the classification for any property. If the
+8 administrator determines that the applicant and the applicant's spouse
+9 have applied for separate properties to be classified as qualified-senior
+10 primary residence real property, that the classification was applied for in
+11 violation of subsection (4) of this section, that the applicant has claimed
+12 the classification for residential real property that the applicant does not
+13 own and occupy as the applicant's primary residence as required by
+14 subsection (2)(a) of this section, or that the applicant is otherwise
+15 ineligible for the classification, the administrator shall provide written
+16 notice to an applicant that the applicant is ineligible and the reason for the
+17 ineligibility. The notice must also include a statement specifying the
+18 deadline and procedures for protesting the denial of the classification or
+19 classifications claimed.
+20 (c) No later than December 1, 2025, and each December 1
+21 thereafter NO LATER THAN DECEMBER 1, 2026, and after examining the
+22 reports sent by each assessor, denying applications for classification of
+23 property as qualified-senior primary residence real property, and deciding
+24 protests in accordance with subsection (8)(b) of this section, the
+25 administrator shall provide written notice to the assessor of each county
+26 in which an application has been denied because the applicant was
+27 ineligible that includes the identity of each denied applicant and the
+-5- 116
+
+1 reason for each denial.
+2 (d) No later than January 10, 2026, and each January 10 thereafter
+3 NO LATER THAN JANUARY 10, 2027, each assessor shall forward to the
+4 administrator a partial copy of the tax warrant for the assessor's county
+5 that includes only property for which the assessor has granted an
+6 application for classification as qualified-senior primary residence real
+7 property. The administrator shall examine the tax warrants to ensure that
+8 no additional classifications of property as qualified-senior primary
+9 residence real property have been allowed since the administrator
+10 examined the reports previously received from the assessors and that each
+11 assessor has removed from the tax warrant all such classifications that the
+12 administrator previously denied. No later than January 17, 2026, and no
+13 later than each January 17 thereafter JANUARY 17, 2027, the administrator
+14 shall notify each assessor and each treasurer of any such classifications
+15 to be removed from the tax warrant.
+16 SECTION 2. In Colorado Revised Statutes, 39-3-119.5, amend
+17 (2)(a)(VII), (2)(a)(VIII), (2)(b)(I)(A), (2)(b)(I)(B), (2)(b)(I)(C), (3)(b),
+18 (3)(c)(I), (3)(c)(II), (3)(d), (3)(e), and (3)(g); and add (2)(a)(IX),
+19 (2)(b)(III), and (3)(e.5) as follows:
+20 39-3-119.5. Personal property - exemption - reimbursement to
+21 local governments - legislative declaration - definitions.
+22 (2) (a) The exemption created in subsection (1) of this section
+23 shall be up to and including the following amounts:
+24 (VII) Seven thousand seven hundred dollars for property tax years
+25 commencing on January 1, 2019, and January 1, 2020; and
+26 (VIII) Fifty thousand dollars for property tax years commencing
+27 on January 1, 2021, and January 1, 2022; AND
+-6- 116
+
+1 (IX) FIFTY-EIGHT THOUSAND DOLLARS FOR PROPERTY TAX YEARS
+2 COMMENCING ON OR AFTER JANUARY 1, 2027.
+3 (b) (I) (A) Beginning with the property tax year commencing on
+4 January 1, 2023, BUT BEFORE JANUARY 1, 2027, the amount of the
+5 exemption created in subsection (1) of this section shall be adjusted
+6 biennially to account for inflation since the amount of the exemption last
+7 changed pursuant to this subsection (2). On or before November 1, 2022,
+8 and each even-numbered year thereafter BUT BEFORE 2027, the
+9 administrator shall calculate the amount of the exemption for the next
+10 two-year cycle using inflation for the prior two calendar years as of the
+11 date of the calculation. The adjusted exemption shall be rounded upward
+12 to the nearest one hundred dollar increment. The administrator shall
+13 certify the amount of the exemption for the next two-year cycle and
+14 publish the amount on the website maintained by the division of property
+15 taxation in the department of local affairs.
+16 (B) When calculating the exemption amount under subsection
+17 (2)(b)(I)(A) of this section, the administrator shall do another calculation
+18 in the same manner but starting from seven thousand nine hundred dollars
+19 instead of fifty FIFTY-EIGHT thousand dollars. This amount is the
+20 alternative exemption amount.
+21 (C) If, under subsection (3)(f) of this section, the state treasurer
+22 notifies the administrator that not all counties have received
+23 reimbursement warrants for lost property tax revenue for the amounts
+24 specified in subsection (3)(d) of this section, then beginning with the
+25 property tax year commencing on January 1 that follows the notification,
+26 and for all property tax years thereafter BUT BEFORE PROPERTY TAX YEAR
+27 2027, the amount of the exemption in subsection (1) of this section is the
+-7- 116
+
+1 alternative exemption amount. Thereafter, BUT BEFORE PROPERTY TAX
+2 YEAR 2027, the alternative exemption is adjusted biennially to account for
+3 inflation in the same manner as set forth in subsection (2)(b)(I)(A) of this
+4 section, and the administrator shall certify the amount of the exemption
+5 for the next two-year cycle and publish the amount on the website
+6 maintained by the division of property taxation in the department of local
+7 affairs.
+8 (III) THIS SUBSECTION (2)(b) IS REPEALED, EFFECTIVE JANUARY 1,
+9 2028.
+10 (3) (b) No later than February 1, 2022, and each February 1
+11 thereafter THROUGH FEBRUARY 1, 2027, the administrator shall calculate
+12 the percentage increase or decrease in total valuation of business personal
+13 property in the state over the prior two property tax years. The
+14 administrator shall publish the percentage increase or decrease on the
+15 website maintained by the division of property taxation in the department
+16 of local affairs.
+17 (c) (I) For the property tax years commencing on OR AFTER
+18 January 1, 2022, and each year thereafter BUT BEFORE JANUARY 1, 2027,
+19 each assessor shall calculate an estimate of the aggregate value of exempt
+20 business personal property for the county and each local governmental
+21 entity located within the county that is equal to the applicable baseline
+22 exemption total adjusted by the growth factor for each property tax year
+23 commencing on and after January 1, 2022 BUT BEFORE JANUARY 1, 2027.
+24 (II) For the property tax years commencing on OR AFTER January
+25 1, 2022, and each year thereafter BUT BEFORE JANUARY 1, 2027, each
+26 treasurer shall calculate the total property tax revenues lost by all local
+27 governmental entities within the treasurer's county based on the estimate
+-8- 116
+
+1 of exempt business personal property amount calculated in accordance
+2 with subsection (3)(c)(I) of this section.
+3 (d) No later than March 1, 2022, and each March 1 thereafter
+4 THROUGH MARCH 1, 2027, each treasurer shall report the amount
+5 specified in subsection (3)(a)(II) or (3)(c)(II) of this section, as
+6 applicable, and the basis for the amount to the administrator, and the
+7 administrator may require a treasurer to provide additional information as
+8 necessary to evaluate the amount reported. The administrator shall
+9 confirm that the reported amount is correct or rectify the amount, if
+10 necessary. The administrator shall then forward the correct amount for
+11 each county to the state treasurer to enable the state treasurer to issue a
+12 reimbursement warrant to each treasurer in accordance with subsection
+13 (3)(e) of this section.
+14 (e) No later than April 15, 2022, and April 15 of each year
+15 thereafter THROUGH APRIL 15, 2027, the state treasurer shall issue a
+16 warrant to be paid upon demand from the general fund to each treasurer
+17 that is equal to the amount specified by the administrator for the county
+18 under subsection (3)(d) of this section. Each treasurer shall distribute the
+19 total amount received from the state treasurer to the local governmental
+20 entities within the treasurer's county as if the revenues had been regularly
+21 paid as property tax. When distributing the money, the treasurer shall
+22 provide each local governmental entity with a statement of the amount
+23 distributed to the local governmental entity that represents the
+24 reimbursement received under this subsection (3)(e).
+25 (e.5) NO LATER THAN APRIL 15, 2028, AND APRIL 15 OF EACH
+26 YEAR THEREAFTER, THE STATE TREASURER SHALL ISSUE A WARRANT TO
+27 BE PAID UPON DEMAND FROM THE GENERAL FUND TO EACH TREASURER
+-9- 116
+
+1 THAT IS EQUAL TO THE AMOUNT SPECIFIED BY THE ADMINISTRATOR FOR
+2 THE COUNTY UNDER SUBSECTION (3)(d) OF THIS SECTION FOR THE 2026
+3 PROPERTY TAX YEAR. EACH TREASURER SHALL DISTRIBUTE THE TOTAL
+4 AMOUNT RECEIVED FROM THE STATE TREASURER TO THE LOCAL
+5 GOVERNMENTAL ENTITIES WITHIN THE TREASURER'S COUNTY AS IF THE
+6 REVENUES HAD BEEN REGULARLY PAID AS PROPERTY TAX. WHEN
+7 DISTRIBUTING THE MONEY, THE TREASURER SHALL PROVIDE EACH LOCAL
+8 GOVERNMENTAL ENTITY WITH A STATEMENT OF THE AMOUNT
+9 DISTRIBUTED TO THE LOCAL GOVERNMENTAL ENTITY THAT REPRESENTS
+10 THE REIMBURSEMENT RECEIVED UNDER THIS SUBSECTION (3)(e.5).
+11 (g) (I) This subsection (3) does not apply if the amount of the
+12 exemption created in subsection (1) of this section is the alternative
+13 exemption amount as required by subsection (2)(b)(I)(C) of this section.
+14 (II) THIS SUBSECTION (3)(g) IS REPEALED, EFFECTIVE JANUARY 1,
+15 2028.
+16 SECTION 3. Act subject to petition - effective date. This act
+17 takes effect at 12:01 a.m. on the day following the expiration of the
+18 ninety-day period after final adjournment of the general assembly (August
+19 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+20 referendum petition is filed pursuant to section 1 (3) of article V of the
+21 state constitution against this act or an item, section, or part of this act
+22 within such period, then the act, item, section, or part will not take effect
+23 unless approved by the people at the general election to be held in
+24 November 2026 and, in such case, will take effect on the date of the
+25 official declaration of the vote thereon by the governor.
+-10- 116

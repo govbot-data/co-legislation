@@ -1,0 +1,478 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0305.02 Owen Hatch x2698 HOUSE BILL 26-1250
+House Committees Senate Committees
+Judiciary
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING PROCEDURES RELATING TO STATE ACTION RESULTING IN
+102 THE RELINQUISHMENT OF PRIVATE PROPERTY, AND, IN
+103 CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill clarifies an existing requirement for the criminal
+conviction of an owner by requiring that one or more criminal charges
+must be brought as a prerequisite to any nuisance abatement or forfeiture
+proceeding.
+Existing law provides an exception to the conviction requirement ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+HOUSE SPONSORSHIP
+DeGraaf and Bacon,
+SENATE SPONSORSHIP
+Bright and Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that no criminal conviction is necessary if the plaintiff proves its case by
+clear and convincing evidence. The bill repeals this exception, while
+retaining other various exceptions that allow forfeiture actions to proceed
+against the interest of a claimant.
+The bill establishes a right to forfeiture defense counsel and
+creates a procedure for the appointment of forfeiture defense counsel in
+nuisance abatement and forfeiture proceedings. The bill creates a
+forfeiture counsel defense fund, in the care of the state court
+administrator, to pay for appointed forfeiture defense counsel who are
+authorized to represent persons against whom a nuisance abatement or
+forfeiture proceeding has been filed in connection with criminal charges.
+The bill transfers $1.1 million from the law enforcement community
+services grant program fund to the forfeiture counsel defense fund.
+The bill alters the disposition of property and proceeds ordered
+forfeited in a nuisance abatement or forfeiture action. Currently, forfeited
+property and proceeds are applied first toward restitution and cost
+recovery for a list of stakeholders, and 50% of the remainder is granted
+to the local governmental body with authority over the seizing agency,
+25% of the remainder is granted to the local behavioral health
+administrative services organization, and 25% of the remainder is granted
+to the law enforcement community services grant program fund. The bill
+amends the disposition of the remainder so that 50% is granted to the
+local governmental body with authority over the seizing agency, 25% is
+granted to the forfeiture counsel defense fund, and 25% is granted to the
+law enforcement community services grant program fund.
+The bill appropriates $1.1 million to the judicial department from
+the forfeiture counsel defense fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2
+3 SECTION 1. In Colorado Revised Statutes, 16-13-307, amend
+4 (1.5), (1.6), (1.7) introductory portion, (1.7)(a)(II), (1.7)(b), (1.7)(c),
+5 (1.7)(d), (1.7)(e), (1.7)(f), and (5) as follows:
+6 16-13-307. Jurisdiction - venue - parties - process.
+7 (1.5) No A COURT SHALL NOT ENTER judgment of forfeiture of
+8 property in any forfeiture proceeding shall be entered unless and until an
+9 owner of the property is convicted of an offense listed in section
+10 16-13-301 or 16-13-303, or a lesser included offense of an eligible
+-2- 1250
+
+1 offense if the conviction is the result of a negotiated guilty plea. Nothing
+2 in this section shall be construed to require REQUIRES the conviction to be
+3 obtained in the same jurisdiction as the jurisdiction in which the forfeiture
+4 action is brought. In the event ONE OR MORE criminal charges MUST BE
+5 FILED arising from the same activity giving rise to the forfeiture,
+6 proceedings are filed against any individual claiming an interest in the
+7 property subject to the forfeiture proceeding, the trial and discovery
+8 phases of the forfeiture proceeding shall be stayed by the court AND THE
+9 COURT SHALL STAY THE FORFEITURE PROCEEDING until the disposition of
+10 the criminal charges. A stay shall not be maintained during an appeal or
+11 post-conviction proceeding challenging a criminal conviction. Nothing in
+12 this section shall be construed to prohibit or prevent PROHIBITS OR
+13 PREVENTS the parties from contemporaneously resolving criminal charges
+14 and a forfeiture proceeding arising from the same activity.
+15 (1.6) Upon acquittal or dismissal of a criminal action against a
+16 person named in a forfeiture action related to the criminal action; unless
+17 the forfeiture action was brought pursuant to one or more of paragraphs
+18 (a) to (f) of subsection (1.7) EXCEPT THAT, IF A PROVISION OF SUBSECTION
+19 (1.7) of this section APPLIES, the forfeiture claim shall be dismissed and
+20 the seized property shall be returned as respects the subject matter
+21 property or interest therein of that person, if the case has been adjudicated
+22 as to all other claims, interests, and owners, unless possession of the
+23 property is illegal. If the forfeiture action is dismissed or judgment is
+24 entered in favor of the claimant, the claimant shall not be IS NOT subject
+25 to any monetary charges by the state for storage of the property or
+26 expenses incurred in the preservation of the property, unless at the time
+27 of dismissal the plaintiff shows that those expenses would have been
+-3- 1250
+
+1 incurred to prevent waste of the property even if it had not been seized.
+2 (1.7) Notwithstanding the provisions of subsection (1.5) of this
+3 section:
+4 (a) (II) If a person lacks standing pursuant to this paragraph (a)
+5 SUBSECTION (1.7)(a), the forfeiture action may proceed AGAINST THE
+6 PERSON'S INTEREST IN THE PROPERTY, and a judgment of forfeiture may
+7 be entered without a THE PERSON'S criminal conviction, of an owner, upon
+8 motion and notice as provided in the rules of civil procedure.
+9 (b) If, following THE DISPOSITION OF THE CRIMINAL CASE AND
+10 notice to all persons known to have an interest, or who have asserted an
+11 interest in the property subject to forfeiture, an NO owner fails to file
+12 FILES an answer or other appropriate pleading with the court claiming an
+13 interest in the subject matter property, or no person establishes standing
+14 to contest the forfeiture action pursuant to section 16-13-303 (5), a
+15 forfeiture action may proceed and a judgment of forfeiture may be entered
+16 without a criminal conviction of an owner.
+17 (c) If the plaintiff proves by clear and convincing evidence that
+18 the property was instrumental in the commission of an offense listed in
+19 section 16-13-303 (1) or that the property is traceable proceeds of the
+20 offense or related criminal activity by a nonowner and the plaintiff proves
+21 by clear and convincing evidence that an owner is not an innocent owner
+22 pursuant to section 16-13-303 (5.2)(a), a judgment of forfeiture may be
+23 entered without ONLY AFTER a criminal conviction of an owner THE
+24 NONOWNER IN THE UNDERLYING CRIMINAL OFFENSE RELATED TO THE
+25 PROPERTY SUBJECT TO THE FORFEITURE PROCEEDING.
+26 (d) If an owner of the property who was involved in the public
+27 nuisance act or conduct giving rise to the claim of forfeiture subsequently
+-4- 1250
+
+1 dies, THE FORFEITURE ACTION MAY PROCEED AGAINST THE OWNER'S
+2 INTEREST IN THE PROPERTY, and IF THE PLAINTIFF PROVES THAT THE
+3 DECEASED OWNER was not an innocent owner pursuant to section
+4 16-13-303 (5.2)(a), a judgment of forfeiture may be entered without a THE
+5 OWNER'S criminal conviction. of an owner.
+6 (e) If an owner received a deferred judgment, deferred sentence,
+7 or participated in a diversion program, or in the case of a juvenile a
+8 deferred adjudication or deferred sentence or participated in a diversion
+9 program for the offense, THE FORFEITURE ACTION MAY PROCEED AGAINST
+10 THE OWNER'S INTEREST IN THE PROPERTY, AND a judgment of forfeiture
+11 may be entered without a criminal conviction.
+12 (f) A defendant or claimant shall be IS permitted to waive the
+13 requirement of a criminal conviction in order to settle a forfeiture action
+14 AS TO THE DEFENDANT'S OR CLAIMANT'S INTEREST IN THE PROPERTY.
+15 (5) An action to abate a public nuisance, other than a class 4
+16 public nuisance, and any action in which a temporary restraining order,
+17 temporary writ of injunction, or preliminary injunction is requested, shall
+18 MUST be commenced by the filing of a complaint, which shall MUST be
+19 verified or supported by affidavit. A summons shall MUST be issued and
+20 served as in civil cases; except that a copy of the complaint, and copies
+21 of any orders issued by the court at the time of filing, shall AND NOTICE
+22 OF THE ABILITY TO ACCESS LEGAL REPRESENTATION PURSUANT TO
+23 SECTION 16-13-318 MUST be served with the summons.
+24 SECTION 2. In Colorado Revised Statutes, 16-13-311, amend
+25 (3)(a) introductory portion, (3)(a)(VII)(C), (5), and (6); and add
+26 (3)(a)(VI.5) as follows:
+27 16-13-311. Disposition of seized personal property.
+-5- 1250
+
+1 (3) (a) If the prosecution prevails in the forfeiture action, the court
+2 shall order the property forfeited. Such THE COURT'S order perfects the
+3 state's right and interest in and title to such THE property and relates back
+4 to the date when title to the property vested in the state pursuant to section
+5 16-13-316. Except as otherwise provided in subsection (3)(c) of this
+6 section, the court shall also order such THE property to be sold at a public
+7 sale by the law enforcement agency in possession of the property in the
+8 manner provided for sales on execution, or in another commercially
+9 reasonable manner. Property forfeited pursuant to this section or proceeds
+10 therefrom must be distributed or applied in the following order:
+11 (VI.5) THE REMAINING PORTION OF THE BALANCE, UP TO
+12 FIFTY-FIVE THOUSAND DOLLARS PER FISCALYEAR, TO THE DEPARTMENT OF
+13 LOCAL AFFAIRS CREATED IN SECTION 24-1-125 FOR GRANT AND PORTAL
+14 ADMINISTRATION RELATED TO CIVIL ASSET FORFEITURE PROCEEDS
+15 REQUIRED PURSUANT TO SECTION 16-13-701;
+16 (VII) The balance must be delivered, upon order of the court, as
+17 follows:
+18
+19 (C) Twenty-five percent to the law enforcement community
+20 services grant program fund, created pursuant to section 24-32-124 (5)
+21 FORFEITURE DEFENSE COUNSEL FUND, CREATED IN SECTION 16-13-318 (3).
+22
+23 (6) The state shall issue a certificate of title for a vehicle to the
+24 purchaser or seizing agency if said THE vehicle is acquired pursuant to
+25 this part 3.
+26
+27 SECTION 3. In Colorado Revised Statutes, add 16-13-318 as
+-6- 1250
+
+1 follows:
+2 16-13-318. Forfeiture defense counsel - fund - definitions.
+3 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+4 REQUIRES:
+5 (a) "ADMINISTRATOR" MEANS THE STATE COURT ADMINISTRATOR
+6 APPOINTED PURSUANT TO SECTION 13-3-101.
+7 (b) "FORFEITURE DEFENDANT" MEANS A PERSON WHO CLAIMS AN
+8 INTEREST IN PROPERTY SUBJECT TO A FORFEITURE PROCEEDING.
+9 (c) "FORFEITURE PROCEEDING" MEANS AN ACTION TO ABATE A
+10 PUBLIC NUISANCE PURSUANT TO THIS PART 3, OR AN ACTION FOR
+11 FORFEITURE DESCRIBED IN PART 5 OF THIS ARTICLE 13.
+12 (d) "FUND" MEANS THE FORFEITURE DEFENSE COUNSEL FUND
+13 ESTABLISHED IN SUBSECTION (3) OF THIS SECTION.
+14 (e) "PRIVATE CONTRACTOR" MEANS THE PRIVATE CONTRACTOR
+15 SELECTED BY THE ADMINISTRATOR PURSUANT TO SUBSECTION (3)(c) OF
+16 THIS SECTION.
+17 (2) (a) AN INDIGENT FORFEITURE DEFENDANT HAS THE ABILITY TO
+18 ACCESS TO LEGAL REPRESENTATION UTILIZING THE FUND.
+19 (b) UPON A FORFEITURE DEFENDANT'S REQUEST, THE COURT SHALL
+20 CONTINUE THE FORFEITURE PROCEEDING FOR TWENTY-ONE DAYS OR
+21 MORE AFTER THE FORFEITURE DEFENSE COUNSEL BEGINS REPRESENTATION
+22 UNLESS THE FORFEITURE DEFENSE COUNSEL WAIVES THE CONTINUANCE.
+23 AT ANY TIME BEFORE THE CONTINUANCE ENDS, THE FORFEITURE
+24 DEFENDANT IS ALLOWED TO FILE AN INITIAL OR AMENDED ANSWER OR
+25 OTHER APPROPRIATE PLEADING TO THE COMPLAINT OR PETITION.
+26 (c) A FORFEITURE DEFENDANT MAY CHOOSE TO APPOINT PRIVATE
+27 COUNSEL FOR A FORFEITURE PROCEEDING, OR MAY CHOOSE TO REPRESENT
+-7- 1250
+
+1 THEMSELF.
+2
+3 (d) THE PRIVATE CONTRACTOR SHALL, PURSUANT TO THE SERVICE
+4 AGREEMENT ENTERED INTO PURSUANT TO SUBSECTION (3)(c) OF THIS
+5 SECTION, PAY THE FORFEITURE DEFENSE COUNSEL AN AMOUNT NOT TO
+6 EXCEED THREE THOUSAND FIVE HUNDRED DOLLARS FOR REPRESENTING
+7 THE FORFEITURE DEFENDANT IN A FORFEITURE PROCEEDING UNLESS THE
+8 COURT FINDS GOOD CAUSE FOR A HIGHER PAYMENT. IF THE COURT FINDS
+9 GOOD CAUSE FOR A HIGHER PAYMENT, THE PRIVATE CONTRACTOR SHALL
+10 PAY THE FORFEITURE DEFENSE COUNSEL THE AMOUNT ORDERED.
+11 (e) NOTHING IN THIS SECTION PREVENTS FORFEITURE DEFENSE
+12 COUNSEL FROM WITHDRAWING REPRESENTATION OF AN INDIGENT
+13 FORFEITURE DEFENDANT IN ACCORDANCE WITH THE COLORADO RULES OF
+14 PROFESSIONAL CONDUCT. IF A FORFEITURE DEFENSE COUNSEL WITHDRAWS
+15 REPRESENTATION OF AN INDIGENT FORFEITURE DEFENDANT, THE COURT
+16 MAY REQUIRE THE PRIVATE CONTRACTOR TO APPOINT ANOTHER
+17 FORFEITURE DEFENSE COUNSEL FOR THE DEFENDANT IF THE COURT FINDS
+18 THE INTEREST OF JUSTICE REQUIRES ANOTHER APPOINTMENT.
+19 (3) (a) THE FORFEITURE DEFENSE COUNSEL FUND IS CREATED IN
+20 THE STATE TREASURY.
+21 (b) (I) THE FUND CONSISTS OF MONEY TRANSFERRED TO THE FUND
+22 PURSUANT TO SECTIONS 16-13-311 AND 24-32-124 (8) AND ANY OTHER
+23 MONEY THAT THE GENERAL ASSEMBLY MAY APPROPRIATE OR TRANSFER
+24 TO THE FUND. THE ADMINISTRATOR MAY SEEK, ACCEPT, AND EXPEND
+25 GIFTS, GRANTS, OR DONATIONS FROM PUBLIC OR PRIVATE SOURCES FOR
+26 THE PURPOSES OF THIS SECTION. THE ADMINISTRATOR SHALL TRANSMIT
+27 ALL MONEY RECEIVED FROM GIFTS, GRANTS, OR DONATIONS TO THE STATE
+-8- 1250
+
+1 TREASURER, WHO SHALL CREDIT THE MONEY TO THE FUND. SUBJECT TO
+2 ANNUAL APPROPRIATION BY THE GENERAL ASSEMBLY, THE
+3 ADMINISTRATOR MAY EXPEND ANY STATE MONEY FROM THE FUND TO
+4 MAKE PAYMENTS TO THE PRIVATE CONTRACTOR AND FOR DIRECT AND
+5 INDIRECT COSTS ASSOCIATED WITH ADMINISTERING THIS SECTION. THE
+6 STATE TREASURER SHALL CREDIT ALL INTEREST AND INCOME DERIVED
+7 FROM THE DEPOSIT AND INVESTMENT OF MONEY IN THE FUND TO THE
+8 FUND.
+9 (II) NOTWITHSTANDING THIS SUBSECTION (3)(b), THE FUND'S
+10 MAXIMUM BALANCE IS FIVE HUNDRED THOUSAND DOLLARS. IF THE FUND'S
+11 BALANCE EXCEEDS THE MAXIMUM, THE ADMINISTRATOR SHALL TRANSMIT
+12 THE DIFFERENCE OF THE BALANCE OF THE FUND MINUS FIVE HUNDRED
+13 THOUSAND DOLLARS TO THE STATE TREASURER, WHO SHALL CREDIT THE
+14 MONEY TO THE LAW ENFORCEMENT COMMUNITY SERVICES GRANT
+15 PROGRAM FUND, CREATED PURSUANT TO SECTION 24-32-124 (5).
+16 (III) NOTWITHSTANDING THIS SUBSECTION (3)(b), BEGINNING IN
+17 THE 2027-28 STATE FISCAL YEAR, THE FUND MUST ONLY BE FUNDED
+18 THROUGH GIFTS, GRANTS, DONATIONS, AND MONEY TRANSMITTED
+19 PURSUANT TO SECTION 16-13-311 (3)(a)(VII)(C). THE GENERAL
+20 ASSEMBLY SHALL NOT APPROPRIATE MONEY FROM THE GENERAL FUND TO
+21 THE FUND.
+22 (IV) THE SERVICE AGREEMENT BETWEEN THE ADMINISTRATOR
+23 AND THE PRIVATE CONTRACTOR MUST BE CONTINGENT ON MONEY BEING
+24 IN THE FUND. IF THE FUND DOES NOT HAVE MONEY, THE GENERAL
+25 ASSEMBLY IS NOT REQUIRED TO APPROPRIATE OR TRANSFER MONEY TO
+26 THE FUND. THE PRIVATE CONTRACTOR IS NOT REQUIRED TO PROVIDE
+27 LEGAL DEFENSE FOR INDIGENT CIVIL ASSET FORFEITURE DEFENDANTS IF
+-9- 1250
+
+1 THERE IS NO BALANCE REMAINING FROM THE MONEY THE PRIVATE
+2 CONTRACTOR RECEIVES FROM THE FUND.
+3 (c) (I) ON OR BEFORE DECEMBER 1, 2026, THE ADMINISTRATOR
+4 SHALL ENTER INTO A SERVICE AGREEMENT WITH A PRIVATE CONTRACTOR
+5 WHO REGULARLY PROVIDES LEGAL SERVICES FOR INDIGENT CLIENTS OR
+6 LITIGANTS TO PROVIDE A LEGAL DEFENSE TO A CIVIL ASSET FORFEITURE
+7 PROCEEDING OR TO CONTRACT WITH AN ATTORNEY TO PROVIDE A LEGAL
+8 DEFENSE TO A CIVIL ASSET FORFEITURE PROCEEDING.
+9 (II) UPON ENTERING INTO AN AGREEMENT WITH A PRIVATE
+10 CONTRACTOR, AND ON JULY 1 OF EACH YEAR THEREAFTER, THE
+11 ADMINISTRATOR SHALL DISTRIBUTE THE UNENCUMBERED MONEY IN THE
+12 FUND TO THE PRIVATE CONTRACTOR.
+13 (III) THE PRIVATE CONTRACTOR SHALL MAINTAIN A LIST OF
+14 QUALIFIED ATTORNEYS THAT THE PRIVATE CONTRACTOR MAY PROVIDE OR
+15 CONTRACT WITH TO REPRESENT INDIGENT FORFEITURE DEFENDANTS. THE
+16 PRIVATE CONTRACTOR SHALL UPDATE AND PROVIDE THE LIST FOR THE
+17 ADMINISTRATOR OF CONTRACTED ATTORNEYS ON AN ANNUAL BASIS.
+18 (d) UPON REQUEST OF A FORFEITURE DEFENDANT, THE PRIVATE
+19 CONTRACTOR SHALL APPOINT A FORFEITURE DEFENSE COUNSEL FOR THE
+20 FORFEITURE DEFENDANT. THE PRIVATE CONTRACTOR SHALL ROTATE THE
+21 ATTORNEYS, AS MUCH AS IS PRACTICABLE, TO DISTRIBUTE FORFEITURE
+22 DEFENSE COUNSEL CASES EVENLY AMONG QUALIFYING ATTORNEYS
+23 SELECTED BY THE PRIVATE CONTRACTOR.
+24 (e) THE PRIVATE CONTRACTOR MAY RETAIN UNSPENT MONEY AT
+25 THE END OF A BUDGET YEAR FOR THE PURPOSES OF PROVIDING A LEGAL
+26 DEFENSE TO A CIVIL ASSET FORFEITURE PROCEEDING PURSUANT TO THIS
+27 SECTION.
+-10- 1250
+
+1 (f) IF THERE IS ANY UNSPENT MONEY AT THE END OF THE SERVICE
+2 AGREEMENT, THE PRIVATE CONTRACTOR SHALL RETURN THE UNSPENT
+3 MONEY TO THE ADMINISTRATOR. THE ADMINISTRATOR SHALL TRANSMIT
+4 ALL MONEY RECEIVED FROM THE PRIVATE CONTRACTOR TO THE STATE
+5 TREASURER, WHO SHALL CREDIT THE MONEY TO THE FUND.
+6 (4) THE PRIVATE CONTRACTOR SHALL REPORT QUARTERLY TO THE
+7 ADMINISTRATOR THE FOLLOWING:
+8 (a) THE NUMBER OF ATTORNEYS APPOINTED PURSUANT TO THIS
+9 SECTION;
+10 (b) THE COSTS ASSOCIATED WITH EACH CASE;
+11 (c) ANY CHALLENGES OR DIFFICULTIES IN RETAINING ATTORNEYS
+12 TO SERVE AS APPOINTED FORFEITURE DEFENSE COUNSEL; AND
+13 (d) THE AMOUNT OF UNSPENT MONEY THE PRIVATE CONTRACTOR
+14 RETAINS AT THE END OF THE BUDGET YEAR.
+15
+16 SECTION 4. In Colorado Revised Statutes, 16-13-505, amend
+17 (1.5), (1.6), (1.7)(a)(II), (1.7)(b), (1.7)(c), (1.7)(d), (1.7)(e), (1.7)(f), and
+18 (3) introductory portion; and add (3)(g) as follows:
+19 16-13-505. Forfeiture proceedings.
+20 (1.5) No A COURT SHALL NOT ENTER judgment of forfeiture of
+21 property in any forfeiture proceeding shall be entered unless and until an
+22 owner of the property is convicted of an offense involving the conduct
+23 listed in section 16-13-503, or a lesser included offense of an eligible
+24 offense if the conviction is the result of a negotiated guilty plea. Nothing
+25 in this section shall be construed to require REQUIRES the conviction to be
+26 obtained in the same jurisdiction as the jurisdiction in which the forfeiture
+27 action is brought. In the event ONE OR MORE criminal charges MUST BE
+-11- 1250
+
+1 FILED arising from the same activity giving rise to the forfeiture,
+2 proceedings are filed against any individual claiming an interest in the
+3 property subject to the forfeiture proceeding, the trial and discovery
+4 phases of the forfeiture proceeding shall be stayed by the court AND THE
+5 COURT SHALL STAY THE FORFEITURE PROCEEDING until the disposition of
+6 the criminal charges. A stay shall not be maintained during an appeal or
+7 post-conviction proceeding challenging a criminal conviction. Nothing in
+8 this section shall be construed to prohibit or prevent PROHIBITS OR
+9 PREVENTS the parties from contemporaneously resolving criminal charges
+10 and a forfeiture proceeding arising from the same activity.
+11 (1.6) Upon acquittal or dismissal of a criminal action against a
+12 person named in a forfeiture action related to the criminal action; unless
+13 the forfeiture action was brought pursuant to one or more of paragraphs
+14 (a) to (f) of subsection (1.7) EXCEPT THAT, IF A PROVISION OF SUBSECTION
+15 (1.7) of this section APPLIES, the forfeiture claim shall be dismissed and
+16 the seized property shall be returned as respects the subject matter
+17 property or interest therein of that person, if the case has been adjudicated
+18 as to all other claims, interests, and owners, unless possession of the
+19 property is illegal. If the forfeiture action is dismissed or judgment is
+20 entered in favor of the claimant, the claimant shall not be IS NOT subject
+21 to any monetary charges by the state for storage of the property or
+22 expenses incurred in the preservation of the property, unless at the time
+23 of dismissal the plaintiff shows that those expenses would have been
+24 incurred to prevent waste of the property even if it had not been seized.
+25 (1.7) Notwithstanding the provisions of subsection (1.5) of this
+26 section:
+27 (a) (II) If a person lacks standing pursuant to this paragraph (a)
+-12- 1250
+
+1 SUBSECTION (1.7)(a), the forfeiture action may proceed AGAINST THE
+2 PERSON'S INTEREST IN THE PROPERTY and a judgment of forfeiture may be
+3 entered without a THE PERSON'S criminal conviction, of an owner, upon
+4 motion and notice as provided in the rules of civil procedure.
+5 (b) If, following THE DISPOSITION OF THE CRIMINAL CASE AND
+6 notice to all persons known to have an interest or who have asserted an
+7 interest in the property subject to forfeiture, an NO owner fails to file
+8 FILES an answer or other appropriate response with the court claiming an
+9 interest in the subject matter property, or no person establishes standing
+10 to contest the forfeiture action pursuant to section 16-13-504 (2), a
+11 forfeiture action may proceed and a judgment of forfeiture may be entered
+12 without a criminal conviction of an owner.
+13 (c) If the plaintiff proves by clear and convincing evidence that
+14 the property was instrumental in the commission of an offense listed in
+15 section 16-13-503 (1) or that the property is traceable proceeds of the
+16 offense or related criminal activity by a nonowner and the plaintiff proves
+17 by clear and convincing evidence that an owner is not an innocent owner
+18 pursuant to section 16-13-504 (2.2), a judgment of forfeiture may be
+19 entered without ONLY AFTER a criminal conviction of an owner THE
+20 NONOWNER IN THE UNDERLYING CRIMINAL OFFENSE RELATED TO THE
+21 PROPERTY SUBJECT TO THE FORFEITURE PROCEEDING.
+22 (d) If an owner of the property who was involved in the public
+23 nuisance act or conduct giving rise to the claim of forfeiture subsequently
+24 dies, THE FORFEITURE ACTION MAY PROCEED AGAINST THE OWNER'S
+25 INTEREST IN THE PROPERTY, and IF THE PLAINTIFF PROVES THAT THE
+26 DECEASED OWNER was not an innocent owner pursuant to section
+27 16-13-504 (2.2), a judgment of forfeiture may be entered without a THE
+-13- 1250
+
+1 OWNER'S criminal conviction. of an owner.
+2 (e) If an owner received a deferred judgment, deferred sentence,
+3 or participated in a diversion program, or in the case of a juvenile a
+4 deferred adjudication or deferred sentence or participated in a diversion
+5 program for the offense, THE FORFEITURE ACTION MAY PROCEED AGAINST
+6 THE OWNER'S INTEREST IN THE PROPERTY, AND a judgment of forfeiture
+7 may be entered without a criminal conviction.
+8 (f) A defendant or claimant shall be IS permitted to waive the
+9 requirement of a criminal conviction in order to settle a forfeiture action
+10 AS TO THE DEFENDANT'S OR CLAIMANT'S INTEREST IN THE PROPERTY.
+11 (3) The citation specified in paragraph (b) of subsection (2)
+12 SUBSECTION (2)(b) of this section shall MUST:
+13 (g) ADVISE THE DEFENDANT OF THE ABILITY TO ACCESS
+14 FORFEITURE DEFENSE COUNSEL PURSUANT TO SECTION 16-13-318.
+15
+16 SECTION 5. In Colorado Revised Statutes, 24-32-124, amend
+17 (5)(b); and add (8) as follows:
+18 24-32-124. Law enforcement community services grant
+19 program - committee - policies and procedures - fund - rules - report
+20 - definitions.
+21 (5) (b) The law enforcement community services grant program
+22 fund is created in the state treasury. The fund consists of money
+23 transferred to the fund pursuant to section 16-13-311, SECTION 16-13-318
+24 (3)(b), AND any other money that the general assembly may appropriate
+25 or transfer to the fund and any gifts, grants, or donations received by the
+26 division. Subject to annual appropriation by the general assembly, the
+27 division may only expend money from the fund for the grants awarded
+-14- 1250
+
+1 pursuant to this section and for up to five percent of the money in the
+2 fund for the direct and indirect costs incurred in administering the
+3 program. Any unexpended and unencumbered money from an
+4 appropriation made for the purposes of this section remains available for
+5 expenditure by the division in the next fiscal year without further
+6 appropriation.
+7 (8) NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION TO
+8 THE CONTRARY, ON JULY 1, 2026, THE STATE TREASURER SHALL TRANSFER
+9 THE UNEXPENDED AND UNENCUMBERED MONEY IN THE LAW
+10 ENFORCEMENT COMMUNITY SERVICES GRANT PROGRAM FUND TO THE
+11 FORFEITURE DEFENSE COUNSEL FUND CREATED IN SECTION 16-13-318.
+12 SECTION 6. In Colorado Revised Statutes, 13-3-101, add (18)
+13 as follows:
+14 13-3-101. State court administrator - duties - report -
+15 definitions - repeal.
+16 (18) PURSUANT TO SECTION 16-13-318, THE STATE COURT
+17 ADMINISTRATOR SHALL CONTRACT WITH LEGAL COUNSEL THAT PROVIDES
+18 A LEGAL DEFENSE TO A CIVIL ASSET FORFEITURE PROCEEDING OR TO
+19 CONTRACT WITH AN ATTORNEY TO PROVIDE A LEGAL DEFENSE TO A CIVIL
+20 ASSET FORFEITURE PROCEEDING.
+21 SECTION 7. Appropriation. (1) For the 2026-27 state fiscal
+22 year, $556,750 is appropriated to the judicial department for use by state
+23 courts administration. This appropriation is from the forfeiture defense
+24 counsel fund created in section 16-13-318 (3)(a), C.R.S. To implement
+25 this act, the administration may use this appropriation for civil assets
+26 forfeiture defense contract.
+27 (2) For the 2026-27 state fiscal year, $55,000 is appropriated to the
+-15- 1250
+
+1 department of local affairs for use by the division of local government.
+2 This appropriation is from the proceeds of property forfeited pursuant to
+3 section 16-13-311 (3), C.R.S., that is allocated pursuant to section
+4 16-13-311 (3)(a)(VI.5), C.R.S. To implement this act, the division may
+5 use this appropriation for civil asset forfeiture portal administration.
+6 SECTION 8. Effective date - applicability. This act takes effect
+7 July 1, 2026, and applies to forfeiture actions commenced on or after said
+8 date.
+9 SECTION 9. Safety clause. The general assembly finds,
+10 determines, and declares that this act is necessary for the immediate
+11 preservation of the public peace, health, or safety or for appropriations for
+12 the support and maintenance of the departments of the state and state
+13 institutions.
+-16- 1250

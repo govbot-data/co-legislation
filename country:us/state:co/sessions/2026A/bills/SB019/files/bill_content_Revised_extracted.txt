@@ -1,0 +1,861 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0397.02 Anna Petrini x5497 SENATE BILL 26-019
+Senate Committees House Committees
+Education Education
+A BILL FOR AN ACT
+101 CONCERNING CHANGES TO LOCAL EARLY CHILDHOOD
+102 INFRASTRUCTURE, AND, IN CONNECTION THEREWITH,
+103 EXPANDING THE RESPONSIBILITIES AND FUNCTIONS OF EARLY
+104 CHILDHOOD COUNCILS TO INCLUDE CERTAIN RESPONSIBILITIES
+105 AND FUNCTIONS FORMERLY PERFORMED BY LOCAL
+106 COORDINATING ORGANIZATIONS AND IMPOSING NEW
+107 ACCOUNTABILITY REQUIREMENTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+ESUOH
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,71
+lirpA
+6202
+,21
+yraurbeF
+6202
+,11
+yraurbeF
+SENATE SPONSORSHIP
+Ball and Bright, Amabile, Bridges, Coleman, Cutter, Exum, Gonzales J., Jodeh, Kipp,
+Kirkmeyer, Marchman, Michaelson Jenet, Rodriguez, Simpson, Wallace
+HOUSE SPONSORSHIP
+Sirota and Gonzalez R.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Current law establishes a statewide integrated system of early
+childhood councils (councils) to improve and sustain the availability,
+accessibility, capacity, and quality of early childhood services. The bill
+expands the powers, functions, and responsibilities of a council in
+implementing a comprehensive system of early childhood and family
+support programs and services (programs and services) within the
+council's community.
+Current law establishes local coordinating organizations (LCOs)
+to increase access to, coordinate, and allocate funding for programs and
+services through work with the families, program and service providers,
+and local governments in a community and with the department of early
+childhood (department). Effective July 1, 2026, the bill repeals provisions
+authorizing the creation and operation of LCOs and transfers the LCO
+rights, powers, duties, functions, and obligations concerning supporting
+access to and delivery of programs and services to the councils.
+Current law requires a council to develop a strategic plan based
+upon an assessment of the early childhood needs in the council's
+designated service area (strategic plan). The bill requires a strategic plan
+to address specified issues, including:
+! Assisting families in applying for programs and services;
+! Coordinating outreach efforts with other councils, county
+departments of human or social services, school districts,
+local and regional service providers, and tribal agencies;
+! Recruiting and coordinating providers to form a mixed
+delivery system that promotes family choice; and
+! Supporting increased recruitment and retention of
+individuals in the early care and education workforce.
+The bill requires a council, in partnership with the department, to
+create, review, and revise a scope of work that reflects the strategic plan
+and accurately represents the programs and services within the
+community, meets families' needs, and aligns with available
+appropriations and the department's statewide strategic planning process.
+Associated accountability metrics must also be reviewed and revised to
+align with the scope of work. The bill specifies a council's new
+obligations regarding monitoring and working to increase the availability
+of high-quality programs and services, supporting access to early
+childhood workforce training and other recruitment and retention efforts,
+data sharing agreements, integrated outreach for holistic family services,
+and auditing.
+The bill establishes requirements for an agreement that sets forth
+the respective duties of a council and the department in implementing a
+strategic plan (agreement). The bill specifies the process for review and
+approval of and revisions to a scope of work or strategic plan and
+identifies the department's responsibilities for the coordinated distribution
+of public funding for programs and services; council training and
+-2- 019
+
+technical assistance; dissemination of information about successful
+council strategies and innovations; and standards for communication,
+resolution of disputes, and contracting protocols. The bill modifies the
+process for the department to approve or facilitate a waiver of the rules
+for the implementation of council projects.
+The bill requires the department to implement an annual
+performance review process for each council and solicit community
+feedback about a council's performance at intervals ranging from 3 to 5
+years. If the department determines that a council is not meeting the
+requirements of the scope of work and accountability metrics contained
+in the agreement, the department may require the council to implement a
+performance improvement plan. If a council fails to make substantial
+progress toward addressing the issues raised in the performance
+improvement plan, the department may terminate the council's agreement.
+The bill makes substantive and technical conforming amendments
+to address the reallocation of responsibilities and functions from LCOs
+to councils, including administrative and funding provisions related to the
+Colorado child care assistance program and the Colorado universal
+preschool program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 26.5-2-106 as
+3 follows:
+4 26.5-2-106. Repeal of part.
+5 THIS PART 1 IS REPEALED, EFFECTIVE JULY 1, 2026.
+6 SECTION 2. In Colorado Revised Statutes, amend 26.5-2-202
+7 as follows:
+8 26.5-2-202. Definitions.
+9 As used in this part 2, unless the context otherwise requires:
+10 (1) "ACCOUNTABILITY METRICS" MEANS THE ACCOUNTABILITY
+11 METRICS INCLUDED IN AN AGREEMENT TO MEASURE A COUNCIL'S
+12 PERFORMANCE.
+13 (2) "AGREEMENT" MEANS THE AGREEMENT OR CONTRACT
+14 DESCRIBED IN SECTION 26.5-2-206 THAT THE DEPARTMENT ENTERS INTO
+-3- 019
+
+1 WITH AN EARLY CHILDHOOD COUNCIL AND THAT CONTAINS A SCOPE OF
+2 WORK AND ACCOUNTABILITY METRICS.
+3 (3) "COMMUNITY STRATEGIC PLAN" MEANS A COMPREHENSIVE
+4 PLAN DEVELOPED PURSUANT TO SECTION 26.5-2-204 TO ADDRESS THE
+5 EARLY CHILDHOOD NEEDS IN A DESIGNATED SERVICE AREA.
+6 (1) (4) "Council" or "early childhood council" means an early
+7 childhood council identified or established locally in communities
+8 throughout the state pursuant to section 26.5-2-203 or 26.5-5-102 for the
+9 purpose of developing and ultimately implementing a comprehensive
+10 system of early childhood services to ensure the school readiness of
+11 children five years of age or younger UNDER SIX YEARS OLD in the
+12 community.
+13 (2) (5) "County department" means the county or district
+14 department of human or social services.
+15 (6) "EARLY CHILDHOOD AND FAMILY SUPPORT PROGRAM" MEANS
+16 ANY PROGRAM ACROSS DISCIPLINES THAT SERVES CHILDREN UNDER SIX
+17 YEARS OLD AND THEIR FAMILIES.
+18 (3) (7) "Early childhood education program" means a child care
+19 program licensed pursuant to part 3 of article 5 of this title 26.5 that
+20 provides child care and education to children five years of age or younger
+21 UNDER SIX YEARS OLD.
+22 (4) (8) "Fund" means the early childhood cash fund created in
+23 section 26.5-2-209 (1).
+24 (9) "MIXED DELIVERY SYSTEM" HAS THE MEANING SET FORTH IN
+25 SECTION 26.5-4-203.
+26 (10) "PERFORMANCE IMPROVEMENT PLAN" MEANS A PLAN
+27 DEVELOPED BY THE DEPARTMENT PURSUANT TO SECTION 26.5-2-208.5
+-4- 019
+
+1 THAT AN EARLY CHILDHOOD COUNCIL MUST IMPLEMENT IF THE COUNCIL
+2 IS NOT MEETING THE REQUIREMENTS OF THE SCOPE OF WORK AND
+3 ACCOUNTABILITY METRICS CONTAINED IN THE AGREEMENT.
+4
+5 SECTION 3. In Colorado Revised Statutes, 26.5-2-203, amend
+6 (1) as follows:
+7 26.5-2-203. Early childhood councils - established - rules.
+8 (1) There is established a statewide integrated system of early
+9 childhood councils to COORDINATE, improve, and sustain the availability,
+10 accessibility, capacity, and quality of COMPREHENSIVE early childhood
+11 services for children and families throughout the state. The councils have
+12 consistent function and structure statewide and are governed by the
+13 department with input, cooperation, and support services from the
+14 departments DEPARTMENT of human services, INCLUDING THE
+15 BEHAVIORAL HEALTH ADMINISTRATION, AND THE DEPARTMENTS OF
+16 HIGHER EDUCATION, HEALTH CARE POLICY AND FINANCING, education, and
+17 public health and environment.
+18 SECTION 4. In Colorado Revised Statutes, 26.5-2-204, add (4.5)
+19 as follows:
+20 26.5-2-204. Early childhood councils - applications -
+21 community strategic plans - rules.
+22 (4.5) (a) BEGINNING ON OR BEFORE JULY 1, 2026, A COMMUNITY
+23 STRATEGIC PLAN DEVELOPED PURSUANT TO SUBSECTION (4) OF THIS
+24 SECTION MUST FOSTER ACCESS FOR FAMILIES TO, AND ROBUST
+25 PARTICIPATION BY PROVIDERS IN, EARLY CHILDHOOD AND FAMILY
+26 SUPPORT PROGRAMS AND SERVICES AND MUST ADDRESS ACCESSIBILITY
+27 AND QUALITY IMPROVEMENTS THAT ARE CONSISTENT WITH THE EARLY
+-5- 019
+
+1 CHILDHOOD COLORADO FRAMEWORK.
+2 (b) THE COMMUNITY STRATEGIC PLAN MUST INCLUDE:
+3 (I) THE MANNER IN WHICH THE COUNCIL WILL ASSIST FAMILIES IN
+4 ACCESSING REFERRALS AND RESOURCES FOR EARLY CARE AND
+5 EDUCATION, IN APPLYING FOR EARLY CHILDHOOD AND FAMILY SUPPORT
+6 PROGRAMS AND SERVICES, AND IN ENROLLING CHILDREN WITH EARLY
+7 CARE AND EDUCATION PROVIDERS;
+8 (II) THE MANNER IN WHICH THE COUNCIL WILL COORDINATE WITH
+9 OTHER ENTITIES, INCLUDING, BUT NOT LIMITED TO, OTHER COUNCILS,
+10 COUNTY DEPARTMENTS, SCHOOL DISTRICTS, LOCAL AND REGIONAL
+11 SERVICE PROVIDERS, AND TRIBAL AGENCIES TO INTEGRATE OUTREACH
+12 EFFORTS;
+13 (III) THE MANNER IN WHICH THE COUNCIL WILL RECRUIT AND
+14 COORDINATE WITH PROVIDERS TO ENSURE THAT FAMILIES CAN CHOOSE
+15 AMONG PROVIDERS, WITHIN THE MIXED DELIVERY SYSTEM IN THE
+16 COUNCIL'S SERVICE AREA, THAT PARTICIPATE IN PUBLICLY FUNDED
+17 PROGRAMS, INCLUDING THE COLORADO UNIVERSAL PRESCHOOL PROGRAM
+18 AND THE COLORADO CHILD CARE ASSISTANCE PROGRAM; AND
+19 (IV) A PLAN FOR FACILITATING ACCESS TO WORKFORCE TRAINING
+20 AND EDUCATION FOR SERVICE PROVIDERS AND FOR IDENTIFYING AND
+21 IMPLEMENTING RECRUITMENT AND RETENTION STRATEGIES.
+22 (c) THE COMMUNITY STRATEGIC PLAN MAY INCLUDE:
+23 (I) THE MANNER IN WHICH THE COUNCIL WILL FACILITATE ACCESS
+24 TO EARLY CHILDHOOD AND FAMILY SUPPORT PROGRAMS AND HOLISTIC
+25 SERVICES THAT INCLUDE FOOD, CASH ASSISTANCE, HEALTH CARE, AND
+26 COUNTY CHILD WELFARE SERVICES, AS DEFINED IN SECTION 26-5-101,
+27 INCLUDING IMPLEMENTATION OF THE FEDERAL "FAMILY FIRST
+-6- 019
+
+1 PREVENTION SERVICES ACT OF 2018"; AND
+2 (II) THE COUNCIL'S STRATEGIES FOR IDENTIFYING AND SECURING,
+3 AS FEASIBLE, ADDITIONAL LOCAL RESOURCES AND FUNDING TO SUPPORT
+4 EARLY CHILDHOOD AND FAMILY SUPPORT PROGRAMS AND SERVICES IN THE
+5 COMMUNITY.
+6 SECTION 5. In Colorado Revised Statutes, 26.5-2-206, amend
+7 (1)(f); repeal (1)(c); and add (2), (3), (4), and (5) as follows:
+8 26.5-2-206. Early childhood councils - duties.
+9 (1) Each early childhood council has, at a minimum, the following
+10 duties and functions:
+11 (c) To establish a local system of accountability to measure local
+12 progress based on the needs and goals set for program performance;
+13 (f) To develop and implement a COMMUNITY strategic plan as
+14 described in section 26.5-2-204 (4), including a comprehensive evaluation
+15 and report SECTION 26.5-2-204 AND REGULARLY SHARE INFORMATION
+16 ABOUT PROGRESS ON ACCOUNTABILITY METRICS WITH THE DEPARTMENT;
+17 and
+18 (2) (a) BEGINNING ON OR BEFORE JULY 1, 2026, A COUNCIL, IN
+19 PARTNERSHIP WITH THE DEPARTMENT, SHALL CREATE A SCOPE OF WORK
+20 FOR THE COUNCIL AND ANNUALLY REVIEW THE SCOPE OF WORK AND
+21 REVISE IT IF NECESSARY.
+22 (b) CONTEMPORANEOUSLY WITH REVIEWING THE SCOPE OF WORK,
+23 THE COUNCIL, IN PARTNERSHIP WITH THE DEPARTMENT, SHALL ANNUALLY
+24 REVIEW ACCOUNTABILITY METRICS ASSOCIATED WITH THE SCOPE OF
+25 WORK, AND REVISE THEM IF NECESSARY, TO ENSURE THEY ALIGN WITH THE
+26 REVISED SCOPE OF WORK.
+27 (3) BEGINNING ON OR BEFORE JULY 1, 2026, EACH COUNCIL SHALL,
+-7- 019
+
+1 CONSISTENT WITH THE COUNCIL'S SCOPE OF WORK, IMPLEMENT ITS
+2 COMMUNITY STRATEGIC PLAN.
+3 (4) EACH COUNCIL SHALL:
+4 (a) SUPPORT THE AVAILABILITY OF HIGH-QUALITY EARLY
+5 CHILDHOOD CARE AND EDUCATION FOR ALL CHILDREN, INCLUDING
+6 SUPPORTING ACCESS TO TRAINING AND SUPPORT FOR MEMBERS OF THE
+7 EARLY CHILDHOOD WORKFORCE IN ALL SETTINGS, INCLUDING INFORMAL
+8 OR LICENSE-EXEMPT PROVIDERS;
+9 (b) MONITOR THE AVAILABILITY OF HIGH-QUALITY EARLY CHILD
+10 CARE AND EDUCATION PROGRAMS WITHIN THE COMMUNITY, AND, AS
+11 APPROPRIATE, WORK TO INCREASE THAT AVAILABILITY OVER TIME TO
+12 BETTER MEET FAMILY AND COMMUNITY NEEDS;
+13 (c) SUPPORT PUBLIC AND PRIVATE PROVIDERS IN RECRUITING,
+14 DEVELOPING, AND RETAINING WITHIN THE COMMUNITY A QUALITY EARLY
+15 CHILDHOOD WORKFORCE;
+16 (d) WORK WITH PROVIDERS IN THE COMMUNITY AND ENTER INTO
+17 DATA-SHARING AGREEMENTS AS NECESSARY TO ENSURE THE COLLECTION
+18 AND REPORTING OF ACCOUNTABILITY METRICS TO THE DEPARTMENT, AS
+19 REQUIRED BY DEPARTMENT RULES, IN A MANNER THAT MINIMIZES
+20 DUPLICATION AND THE BURDEN ON FAMILIES AND PROVIDERS AND
+21 ENSURES COMPLIANCE WITH ALL APPLICABLE DATA PRIVACY AND
+22 SECURITY PROTECTIONS;
+23 (e) WORK IN COORDINATION WITH COUNTY DEPARTMENTS AND
+24 TRIBAL AGENCIES AND LOCAL COMMUNITY-BASED ORGANIZATIONS TO
+25 INTEGRATE OUTREACH FOR EARLY CHILDHOOD AND FAMILY SUPPORT
+26 PROGRAMS AND SERVICES WITH OTHER EFFORTS TO PROVIDE HOLISTIC
+27 SERVICES FOR FAMILIES, INCLUDING FOOD, CASH ASSISTANCE, AND HEALTH
+-8- 019
+
+1 CARE;
+2 (f) COMPLY WITH DEPARTMENT RULES, IF ANY, IN IMPLEMENTING
+3 THE COUNCIL'S COMMUNITY STRATEGIC PLAN AND CARRYING OUT THE
+4 COUNCIL'S DUTIES;
+5 (g) COMPLY WITH ANY STATUTORY AUDITING REQUIREMENTS
+6 THAT APPLY TO THE COUNCIL OR, IF THE COUNCIL IS NOT OTHERWISE
+7 REQUIRED BY STATUTE TO UNDERGO AN ANNUAL FINANCIAL AUDIT,
+8 CONTRACT FOR THE PERFORMANCE OF AN ANNUAL FINANCIAL AUDIT OR
+9 FINANCIAL REVIEW OF THE OPERATIONS OF THE COUNCIL BY AN
+10 INDEPENDENT AUDITOR; AND
+11 (h) COMPLY WITH ANY OTHER PROVISIONS INCLUDED IN THE
+12 AGREEMENT ENTERED INTO BETWEEN THE COUNCIL AND THE DEPARTMENT
+13 PURSUANT TO SUBSECTION (5)(a) OF THIS SECTION.
+14 (5) TO SUPPORT PARTNERSHIP AND MUTUAL ACCOUNTABILITY
+15 BETWEEN EARLY CHILDHOOD COUNCILS AND THE DEPARTMENT, THE
+16 DEPARTMENT SHALL:
+17 (a) ENTER INTO AN AGREEMENT WITH EACH EARLY CHILDHOOD
+18 COUNCIL THAT IS BASED ON THE COUNCIL'S COMMUNITY STRATEGIC PLAN
+19 AND DEPARTMENT GOALS AND THAT SPECIFIES THE RESPECTIVE DUTIES OF
+20 THE EARLY CHILDHOOD COUNCIL AND THE DEPARTMENT IN IMPLEMENTING
+21 THE COUNCIL'S COMMUNITY STRATEGIC PLAN. AN AGREEMENT IS NOT
+22 SUBJECT TO THE REQUIREMENTS OF THE "PROCUREMENT CODE", ARTICLES
+23 101 TO 112 OF TITLE 24. THE TERM OF THE INITIAL AGREEMENT FOR AN
+24 EARLY CHILDHOOD COUNCIL IS THREE YEARS, AND SUBSEQUENT
+25 AGREEMENTS MUST HAVE TERMS OF AT LEAST THREE BUT NOT MORE THAN
+26 FIVE YEARS, AS DETERMINED BY THE DEPARTMENT. THE AGREEMENT, AT
+27 A MINIMUM, MUST INCLUDE:
+-9- 019
+
+1 (I) A SCOPE OF WORK FOR THE COUNCIL CREATED IN PARTNERSHIP
+2 WITH THE COUNCIL THAT IS RESPONSIVE TO LOCAL COMMUNITY NEEDS;
+3 CONTRIBUTES TO COLLECTIVE OUTCOMES; PROMOTES THE SHARED GOALS
+4 OF THE EARLY CHILDHOOD COLORADO FRAMEWORK AND THE
+5 DEPARTMENT OF EARLY CHILDHOOD'S STATEWIDE STRATEGIC PLAN; AND
+6 REFLECTS EXPECTATIONS, TARGETS, AND ACCOUNTABILITY METRICS, IN
+7 ALIGNMENT WITH THE COUNCIL'S COMMUNITY STRATEGIC PLAN AND
+8 STATEWIDE GOALS FOR THE PROVISION OF EARLY CHILDHOOD AND FAMILY
+9 SUPPORT PROGRAMS AND SERVICES IN COLORADO, TAKING INTO
+10 CONSIDERATION AVAILABLE APPROPRIATIONS; AND
+11 (II) THE AMOUNT OF ANY PAYMENT THAT THE COUNCIL RECEIVES
+12 FROM THE DEPARTMENT TO COVER INDIRECT COSTS DURING THE TERM OF
+13 THE AGREEMENT.
+14
+15 (b) DISTRIBUTE AND ADMINISTER PUBLIC FUNDING FOR EARLY
+16 CHILDHOOD AND FAMILY SUPPORT PROGRAMS AND SERVICES IN
+17 ACCORDANCE WITH AGREEMENTS AND IN COORDINATION WITH LOCAL AND
+18 TRIBAL AGENCIES, WHEN APPLICABLE; EXCEPT THAT THE DEPARTMENT
+19 MAY DELEGATE ALL OR A PORTION OF THE RESPONSIBILITY FOR
+20 DISTRIBUTING AND ADMINISTERING PUBLIC FUNDING TO A COUNCIL
+21 THROUGH THE COUNCIL'S AGREEMENT;
+22 (c) SUPPORT EARLY CHILDHOOD COUNCILS BY PROVIDING
+23 FUNDING, TRAINING, AND TECHNICAL ASSISTANCE, INCLUDING TRAINING
+24 AND TECHNICAL ASSISTANCE FOR THE USE OF REQUIRED TECHNOLOGY
+25 SYSTEMS, REGULAR AND AS-NEEDED COLLABORATIVE SUPPORT, AND,
+26 WHERE FEASIBLE, ASSISTANCE IN IMPLEMENTING COMMUNITY STRATEGIC
+27 PLANS;
+-10- 019
+
+1 (d) IDENTIFY SUCCESSFUL STRATEGIES AND INNOVATIONS
+2 IMPLEMENTED BY EARLY CHILDHOOD COUNCILS THROUGHOUT THE STATE
+3 AND PROVIDE INFORMATION, BY POSTING INFORMATION ON THE
+4 DEPARTMENT WEBSITE OR BY ANOTHER MEANS, TO ASSIST EARLY
+5 CHILDHOOD COUNCILS IN REPLICATING AND ADAPTING THE STRATEGIES
+6 AND INNOVATIONS IN THEIR COMMUNITIES; AND
+7 (e) COMMIT TO WORKING WITH EACH EARLY CHILDHOOD COUNCIL
+8 IN PARTNERSHIP TO DELIVER SERVICES FOR CHILDREN AND FAMILIES. THE
+9 DEPARTMENT'S COMMITMENTS IN THE PARTNERSHIP INCLUDE, BUT ARE
+10 NOT LIMITED TO:
+11 (I) CLEAR AND FREQUENT COMMUNICATION, INCLUDING REGULAR
+12 RECOMMENDATIONS TO SUPPORT THE SMOOTH FUNCTIONING OF THE
+13 PARTNERSHIP;
+14 (II) TIMELY RESOLUTION OF ISSUES AND DISPUTES;
+15 (III) MAINTAINING A CLEAR CHAIN OF COMMAND THAT OFFERS A
+16 COUNCIL OPPORTUNITIES TO CONNECT DIRECTLY WITH PROGRAM
+17 SPECIALISTS AND DEPARTMENT LEADERSHIP; AND
+18 (IV) MAINTAINING TIMELY CONTRACTING, INVOICING, AND
+19 REIMBURSEMENT IN ACCORDANCE WITH THE TERMS OF THE AGREEMENT.
+20 SECTION 6. In Colorado Revised Statutes, 26.5-2-207, amend
+21 (1), (2)(a), and (2)(b); and add (3) as follows:
+22 26.5-2-207. Early childhood councils - waivers - rules -
+23 funding - application.
+24 (1) (a) A local council may request a waiver of any rule that would
+25 prevent a council from implementing council projects IN ACCORDANCE
+26 WITH THE COUNCIL'S COMMUNITY STRATEGIC PLAN. The local council
+27 shall submit the request to the early childhood leadership commission
+-11- 019
+
+1 created in part 3 of article 1 of this title 26.5. The early childhood
+2 leadership commission shall consult with the affected state agency in
+3 reviewing the request. The department or other affected state agency
+4 DEPARTMENT. THE EXECUTIVE DIRECTOR shall grant waivers upon
+5 recommendation by the commission DEPARTMENT.
+6 (b) IF A COUNCIL'S WAIVER REQUEST FALLS OUTSIDE THE PURVIEW
+7 OF THE DEPARTMENT, THE DEPARTMENT SHALL ASSIGN A LIAISON TO
+8 CONSULT WITH THE AFFECTED STATE AGENCY.
+9 (c) THE EXECUTIVE DIRECTOR SHALL ESTABLISH BY RULE THE
+10 REQUIREMENTS FOR THE WAIVER PROCESS, INCLUDING THE FORMAT AND
+11 CONTENT OF A COUNCIL'S WAIVER REQUEST, THE CRITERIA FOR THE
+12 EXECUTIVE DIRECTOR TO GRANT A REQUEST TO WAIVE A DEPARTMENT
+13 RULE, AND ASSOCIATED TIMELINES.
+14 (2) (a) The executive director shall promulgate ADOPT rules to
+15 develop and distribute to councils the application form and application
+16 process to be used by each council seeking to receive council
+17 infrastructure, quality improvement, AND technical assistance and
+18 evaluation funding from the early childhood cash fund created in section
+19 26.5-2-209 and other funding sources appropriated for early childhood
+20 services.
+21 (b) The department shall, upon receipt, review applications for
+22 early childhood funding from the early childhood cash fund established
+23 in section 26.5-2-209 and other funding sources FROM MONEY
+24 appropriated FROM OTHER SOURCES for early childhood services.
+25 (3) THE RULES MUST INCLUDE INFORMATION ABOUT THE
+26 AGREEMENT TERMINATION PROCESS, APPLICATION PROCESS, AND
+27 ASSOCIATED TIMELINES IF A COUNTY RECONFIGURES OR DESIGNATES A
+-12- 019
+
+1 NEW CONVENING ENTITY.
+2 SECTION 7. In Colorado Revised Statutes, add 26.5-2-208.5 as
+3 follows:
+4 26.5-2-208.5. Early childhood councils - performance review
+5 and accountability - rules - report.
+6 (1) (a) THE EXECUTIVE DIRECTOR SHALL ADOPT RULES
+7 ESTABLISHING A PROCESS THAT SATISFIES THE REQUIREMENTS OF THIS
+8 SECTION TO REVIEW THE PERFORMANCE OF EACH COUNCIL. BEGINNING ON
+9 OR BEFORE JULY 1, 2027, THE DEPARTMENT SHALL IMPLEMENT THE
+10 REVIEW PROCESS ESTABLISHED IN RULE BY WHICH THE DEPARTMENT AT
+11 LEAST ANNUALLY REVIEWS THE PERFORMANCE OF EACH COUNCIL IN
+12 SERVING THE COUNCIL'S COMMUNITY, INCLUDING IMPLEMENTING THE
+13 APPROVED COMMUNITY STRATEGIC PLAN AND SCOPE OF WORK. DURING
+14 THE REVIEW PROCESS, THE DEPARTMENT SHALL, AT A MINIMUM:
+15 (I) REVIEW THE COUNCIL'S PERFORMANCE UNDER THE AGREEMENT
+16 USING THE ACCOUNTABILITY METRICS ESTABLISHED WITH THE SCOPE OF
+17 WORK; AND
+18 (II) AT INTERVALS RANGING FROM THREE TO FIVE YEARS, AS
+19 DETERMINED BY THE DEPARTMENT, SOLICIT INPUT FROM FAMILIES;
+20 PROVIDERS; MEMBERS OF THE EARLY CHILDHOOD WORKFORCE; LOCAL AND
+21 TRIBAL AGENCIES; LOCAL GOVERNMENTS; ADMINISTRATIVE UNITS, AS
+22 DEFINED IN SECTION 22-20-103; HEAD START AGENCIES; FAMILY
+23 RESOURCE CENTERS, AS DEFINED IN SECTION 26.5-3-102; COUNTY
+24 DEPARTMENTS OF HUMAN OR SOCIAL SERVICES; AND OTHER INTERESTED
+25 PERSONS WITHIN THE COMMUNITY CONCERNING THE PERFORMANCE OF
+26 THE EARLY CHILDHOOD COUNCIL.
+27 (b) (I) IF THE DEPARTMENT DETERMINES THAT THE COUNCIL IS NOT
+-13- 019
+
+1 MEETING THE REQUIREMENTS OF THE SCOPE OF WORK AND
+2 ACCOUNTABILITY METRICS CONTAINED IN THE AGREEMENT, OR IS NOT
+3 PERFORMING AT THE LEVEL REQUIRED TO SUCCESSFULLY IMPLEMENT THE
+4 COMMUNITY STRATEGIC PLAN AND TO ENSURE THAT THE COMMUNITY
+5 SUBSTANTIALLY MEETS LOCAL AND STATEWIDE GOALS FOR THE PROVISION
+6 OF EARLY CHILDHOOD AND FAMILY SUPPORT PROGRAMS AND SERVICES,
+7 THEN THE DEPARTMENT MAY REQUIRE THE COUNCIL TO IMPLEMENT A
+8 PERFORMANCE IMPROVEMENT PLAN.
+9 (II) THE DEPARTMENT SHALL PROVIDE ONGOING TECHNICAL
+10 ASSISTANCE, SUPPORT, AND FEEDBACK TO THE COUNCIL AS THE COUNCIL
+11 IMPLEMENTS A PERFORMANCE IMPROVEMENT PLAN.
+12 (III) IF THE DEPARTMENT DETERMINES THAT THE COUNCIL HAS
+13 FAILED TO MAKE SUBSTANTIAL PROGRESS TOWARD ADDRESSING THE
+14 ISSUES IDENTIFIED IN THE PERFORMANCE IMPROVEMENT PLAN WITHIN THE
+15 TIME FRAME IDENTIFIED IN THE PLAN, THE DEPARTMENT SHALL TERMINATE
+16 THE COUNCIL'S AGREEMENT. ON OR BEFORE JULY 1, 2027, THE EXECUTIVE
+17 DIRECTOR SHALL ADOPT RULES GOVERNING THE PROCESS FOR
+18 TERMINATING AN AGREEMENT.
+19 (IV) ON OR BEFORE JULY 1, 2027, THE EXECUTIVE DIRECTOR
+20 SHALL ADOPT RULES ESTABLISHING OBJECTIVE, MEASURABLE CRITERIA
+21 THAT THE DEPARTMENT SHALL APPLY IN REQUIRING A COUNCIL TO
+22 IMPLEMENT A PERFORMANCE IMPROVEMENT PLAN.
+23
+24 (2) IF A COUNCIL HAS FAILED TO MEET THE REQUIREMENTS OF THE
+25 SCOPE OF WORK AND ACCOUNTABILITY METRICS CONTAINED IN THE
+26 AGREEMENT, THE DEPARTMENT SHALL NOTIFY THE BOARD OR BOARDS OF
+27 COUNTY COMMISSIONERS THAT DESIGNATED THE CONVENING ENTITY
+-14- 019
+
+1 PURSUANT TO SECTION 26.5-2-203 (3). THE EXECUTIVE DIRECTOR SHALL
+2 ADOPT RULES ADDRESSING THE PROCESS FOR A BOARD OR BOARDS OF
+3 COUNTY COMMISSIONERS TO APPOINT A NEW CONVENING ENTITY IF THE
+4 DEPARTMENT TERMINATES AN AGREEMENT DUE TO A COUNCIL'S
+5 PERFORMANCE ISSUES. THE RULES MUST ALSO ADDRESS HOW, FOR ANY
+6 AREA WITHIN THE STATE FOR WHICH A COUNCIL IS NOT ESTABLISHED, OR
+7 FOR WHICH AN EXISTING COUNCIL IS NOT FULLY CAPABLE OF
+8 IMPLEMENTING ALL ASPECTS OF THE COMMUNITY STRATEGIC PLAN, THE
+9 DEPARTMENT WILL ENSURE, TO THE GREATEST EXTENT POSSIBLE,
+10 CONTINUITY OF THE DELIVERY OF SERVICES REQUIRED PURSUANT TO THIS
+11 PART 2 FOR THE AREA, UNTIL A COUNCIL IS ESTABLISHED OR AN EXISTING
+12 COUNCIL IS FULLY CAPABLE OF IMPLEMENTING ALL ASPECTS OF THE
+13 COMMUNITY STRATEGIC PLAN.
+14 (3) BEGINNING IN JANUARY 2028, AND IN JANUARY EVERY YEAR
+15 THEREAFTER, THE DEPARTMENT SHALL INCLUDE, AS PART OF ITS
+16 PRESENTATION DURING ITS"SMART ACT" HEARING REQUIRED BY SECTION
+17 2-7-203, INFORMATION CONCERNING COUNCILS' PROGRESS TOWARD
+18 ACHIEVING ACCOUNTABILITY METRICS AS SHARED WITH THE DEPARTMENT
+19 PURSUANT TO SECTION 26.5-2-206 (1)(f).
+20 SECTION 8. In Colorado Revised Statutes, repeal 26.5-2-208.
+21 SECTION 9. In Colorado Revised Statutes, add 26.5-2-210 as
+22 follows:
+23 26.5-2-210. Transfer of functions - legislative intent.
+24 (1) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT ON AND
+25 AFTER JULY 1, 2026, THE STATEWIDE SYSTEM OF EARLY CHILDHOOD
+26 COUNCILS IS RESPONSIBLE FOR EXECUTING, ADMINISTERING, PERFORMING,
+27 AND ENFORCING THE RIGHTS, POWERS, DUTIES, FUNCTIONS, AND
+-15- 019
+
+1 OBLIGATIONS VESTED BEFORE JULY 1, 2026, IN THE LOCAL COORDINATING
+2 ORGANIZATIONS ESTABLISHED PURSUANT TO PART 1 OF THIS ARTICLE 2, AS
+3 IT EXISTED PRIOR TO JULY 1, 2026.
+4 (2) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THE
+5 RIGHTS, POWERS, DUTIES, FUNCTIONS, AND OBLIGATIONS CONCERNING
+6 SUPPORTING ACCESS TO AND DELIVERY OF EARLY CHILDHOOD AND FAMILY
+7 SUPPORT PROGRAMS AND SERVICES ARE TRANSFERRED TO THE STATEWIDE
+8 SYSTEM OF EARLY CHILDHOOD COUNCILS, EFFECTIVE JULY 1, 2026.
+9 (3) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT ANY MONEY
+10 THE DEPARTMENT ALLOCATES TO SUPPORT A TRANSITION PERIOD
+11 EXTENSION PURSUANT TO SUBSECTION (7) OF THIS SECTION BE A ONE-TIME
+12 EXPENDITURE AND NOT BE A SOURCE OF ONGOING PROGRAM FUNDING OR
+13 A BASELINE ADJUSTMENT.
+14 (4) A LOCAL COORDINATING ORGANIZATION RETAINS THE RIGHTS,
+15 POWERS, DUTIES, FUNCTIONS, AND OBLIGATIONS NECESSARY TO SATISFY
+16 THE REQUIREMENTS OF A COORDINATOR AGREEMENT IN FORCE PRIOR TO
+17 JULY 1, 2026. AN EARLY CHILDHOOD COUNCIL MAY SUBCONTRACT THE
+18 PROVISION OF SERVICES DESCRIBED IN THIS PART 2 TO A LOCAL
+19 COORDINATING ORGANIZATION THAT IS ESTABLISHED PRIOR TO JULY 1,
+20 2026, AND THAT IS NOT ALSO AN EARLY CHILDHOOD COUNCIL. AN EARLY
+21 CHILDHOOD COUNCIL MAY SUBCONTRACT THE PROVISION OF SERVICES
+22 DESCRIBED IN THIS PART 2, INCLUDING AFTER JULY 1, 2026, IF THE
+23 SUBCONTRACTING IS CONSISTENT WITH THE COUNCIL'S APPROVED
+24 AGREEMENT AND DEPARTMENT OVERSIGHT.
+25 (5) THE RULES PERTAINING TO THE RIGHTS, POWERS, DUTIES,
+26 FUNCTIONS, AND OBLIGATIONS TRANSFERRED TO THE STATEWIDE SYSTEM
+27 OF EARLY CHILDHOOD COUNCILS THAT ARE ADOPTED BY THE EXECUTIVE
+-16- 019
+
+1 DIRECTOR AND ARE IN EFFECT AS OF JULY 1, 2026, CONTINUE IN EFFECT
+2 AND APPLY TO THE DEPARTMENT AND PERSONS PROVIDING THE SERVICES
+3 DESCRIBED IN PART 1 OF THIS ARTICLE 2 AS IT EXISTED PRIOR TO JULY 1,
+4 2026, UNTIL REPLACED BY RULES ADOPTED BY THE EXECUTIVE DIRECTOR
+5 PURSUANT TO THIS PART 2 ON OR BEFORE JULY 1, 2027.
+6 (6) ON AND AFTER JULY 1, 2026, UNLESS OTHERWISE SPECIFIED, IF
+7 A PROVISION OF LAW REFERS TO A LOCAL COORDINATING ORGANIZATION
+8 WITH REGARD TO THE RIGHTS, POWERS, DUTIES, FUNCTIONS, OR
+9 OBLIGATIONS SPECIFIED IN SUBSECTION (1) OF THIS SECTION, THE LAW IS
+10 CONSTRUED AS REFERRING TO AN EARLY CHILDHOOD COUNCIL.
+11 (7) (a) NOTWITHSTANDING ANY OTHER PROVISION OF THIS PART 2,
+12 IF THE TRANSFER OF RIGHTS, DUTIES, FUNCTIONS, AND OBLIGATIONS
+13 DESCRIBED IN THIS SECTION REQUIRES THE CONSOLIDATION,
+14 REASSIGNMENT, OR MATERIAL MODIFICATION OF THE DUTIES OF AN
+15 ORGANIZATION PROVIDING THE SERVICES DESCRIBED IN PART 1 OF THIS
+16 ARTICLE 2, AS IT EXISTED PRIOR TO JULY 1, 2026, OR AN EARLY
+17 CHILDHOOD COUNCIL, THE DEPARTMENT MAY AUTHORIZE A ONE-TIME
+18 EXTENSION OF THE TRANSITION PERIOD. THE TRANSITION PERIOD MUST
+19 CONCLUDE ON OR BEFORE JULY 1, 2029, AND IS NOT SUBJECT TO FURTHER
+20 EXTENSION.
+21 (b) DURING A TRANSITION PERIOD EXTENSION AUTHORIZED
+22 PURSUANT TO SUBSECTION (7)(a) OF THIS SECTION, THE DEPARTMENT
+23 MAY, AS NECESSARY TO SUPPORT THE ADMINISTRATION AND
+24 COORDINATION OF EARLY CHILDHOOD PROGRAMS AND SERVICES,
+25 MAINTAIN SEPARATE CONTRACTS WITH AN EARLY CHILDHOOD COUNCIL
+26 AND AN ORGANIZATION PROVIDING THE SERVICES DESCRIBED IN PART 1 OF
+27 THIS ARTICLE 2, AS IT EXISTED PRIOR TO JULY 1, 2026.
+-17- 019
+
+1 (c) ON OR BEFORE JANUARY 1, 2029, THE DEPARTMENT SHALL
+2 SUBMIT A WRITTEN REPORT TO THE JOINT BUDGET COMMITTEE. THE
+3 REPORT MUST INCLUDE AN ANALYSIS OF TRANSITION COSTS AND
+4 EXPENDITURES, OPERATIONAL READINESS, AND RECOMMENDATIONS FOR
+5 ANY LEGISLATIVE CHANGES NECESSARY TO FACILITATE LOCAL EARLY
+6 CHILDHOOD SERVICES ADMINISTRATION, COORDINATION, AND
+7 CONTRACTING FOLLOWING A TRANSITION PERIOD AUTHORIZED PURSUANT
+8 TO SUBSECTION (7)(a) OF THIS SECTION.
+9 SECTION 10. In Colorado Revised Statutes, 26.5-1-103, amend
+10 (4) as follows:
+11 26.5-1-103. Definitions.
+12 As used in this title 26.5, unless the context otherwise requires:
+13 (4) "Local coordinating organization" means the entity selected by
+14 the department pursuant to section 26.5-2-103 PRIOR TO JULY 1, 2026, to
+15 implement a community plan for increasing access to, coordinating, and
+16 allocating funding for early childhood and family support programs and
+17 services within a specified community.
+18 SECTION 11. In Colorado Revised Statutes, 26.5-1-105, amend
+19 (2)(i) as follows:
+20 26.5-1-105. Powers and duties of the executive director - rules
+21 - rules advisory council - repeal.
+22 (2) (i) In reviewing and making recommendations concerning
+23 rules and in preparing other recommendations for the executive director,
+24 the council shall strive to develop recommendations that are detailed and
+25 measurable and consider the impacts on children, parents, families,
+26 providers, school districts, counties, and local coordinating organizations
+27 EARLY CHILDHOOD COUNCILS. The RULES ADVISORY council must approve
+-18- 019
+
+1 recommendations by a majority vote and provide those recommendations
+2 to the executive director in writing. Members of the council voting in the
+3 minority may submit a written explanation of their opposition to the
+4 recommendations to the executive director.
+5 SECTION 12. In Colorado Revised Statutes, 26.5-1-109, amend
+6 (1)(i) as follows:
+7 26.5-1-109. Department functions - operating principles.
+8 (1) The department shall execute the following functions and
+9 operate programs and provide services associated with those functions as
+10 described in this title 26.5 and authorized by federal law:
+11 (i) Collaborate with other state departments, local and tribal
+12 agencies, and local coordinating organizations EARLY CHILDHOOD
+13 COUNCILS to safely collect and share data, eliminating duplication of data
+14 collection when possible, while ensuring privacy and security for children
+15 and families, to enable the department to gauge the statewide quality,
+16 availability, capacity, and delivery of early childhood and family support
+17 programs and services;
+18 SECTION 13. In Colorado Revised Statutes, 26.5-1-111, amend
+19 (1) introductory portion and (2)(c) as follows:
+20 26.5-1-111. Data system - collection - analysis - cross-agency
+21 agreements.
+22 (1) The department shall work with local coordinating
+23 organizations EARLY CHILDHOOD COUNCILS, state agencies, local and
+24 tribal agencies, and providers, as necessary, to collect, share, manage, and
+25 protect qualitative and quantitative data pertaining to early childhood and
+26 family support programs and services. The department shall review and
+27 analyze the collected data to assess:
+-19- 019
+
+1 (2) At a minimum, the department shall collect data pertaining to
+2 early childhood and family support programs and services that includes:
+3 (c) Information that enables the department, local coordinating
+4 organizations EARLY CHILDHOOD COUNCILS, and local and tribal agencies
+5 to assess on a continuing basis the needs for early childhood and family
+6 support programs and services in an area and make decisions concerning
+7 the provision of programs and services;
+8 SECTION 14. In Colorado Revised Statutes, 26.5-1-112, amend
+9 (1)(d) as follows:
+10 26.5-1-112. Transition review - program review - report -
+11 repeal.
+12 (1) (d) In conducting the reviews and making recommendations
+13 pursuant to this subsection (1), the independent evaluator shall solicit
+14 input through a process that includes participation by the populations
+15 served by the programs; the providers and members of the workforce
+16 working in the programs; local coordinating organizations; state, local,
+17 and tribal agencies involved in implementing the programs; and any other
+18 relevant experts.
+19 SECTION 15. In Colorado Revised Statutes, 26.5-4-109, amend
+20 (4) as follows:
+21 26.5-4-109. Provider rates - provider recruitment - provider.
+22 (4) The department, working with early childhood councils as
+23 defined in section 26.5-2-202 AND county departments, and local
+24 coordinating organizations as defined in section 26.5-2-102 shall identify
+25 and recruit providers throughout the state to participate in the child care
+26 assistance program. In identifying and recruiting providers, the
+27 department and local coordinating organizations EARLY CHILDHOOD
+-20- 019
+
+1 COUNCILS shall establish a mixed delivery system of public and private
+2 providers in communities throughout the state that enables parents to
+3 select CCCAP providers for their children from as broad a range as
+4 possible within their respective communities.
+5 SECTION 16. In Colorado Revised Statutes, 26.5-4-111, amend
+6 (11) and (12)(d) as follows:
+7 26.5-4-111. Services - eligibility - assistance provided - waiting
+8 lists - rules - exceptions from cooperating with child support
+9 establishment.
+10 (11) A provider or a local coordinating organization, as defined
+11 in section 26.5-2-102 AN EARLY CHILDHOOD COUNCIL, AS DEFINED IN
+12 SECTION 26.5-2-202, may accept a family's CCCAP application and
+13 submit it THE APPLICATION to the county on behalf of a family seeking
+14 child care assistance.
+15 (12) Each county:
+16 (d) May use its THE COUNTY'S CCCAP allocation to provide
+17 enrollment contracts or grants to early care and education providers: To
+18 support implementation of the local community plan described in section
+19 26.5-2-104 APPLICABLE EARLY CHILDHOOD COUNCIL COMMUNITY
+20 STRATEGIC PLAN DESCRIBED IN SECTION 26.5-2-204; to increase the supply
+21 and improve the quality of child care for infants and toddlers, children
+22 with disabilities, after-hours care, and children in underserved
+23 neighborhoods; to provide stability for the early childhood sector; and to
+24 improve alignment with the provision of additional preschool services, as
+25 defined in section 26.5-4-203, to working families who need additional
+26 care;
+27 SECTION 17. In Colorado Revised Statutes, 26.5-4-203, repeal
+-21- 019
+
+1 (5) and (11); and add (5.5) as follows:
+2 26.5-4-203. Definitions.
+3 As used in this part 2, unless the context otherwise requires:
+4 (5) "Community plan" means the community plan adopted by a
+5 local coordinating organization pursuant to section 26.5-2-104.
+6 (5.5) "EARLY CHILDHOOD COUNCIL" MEANS AN EARLY CHILDHOOD
+7 COUNCIL IDENTIFIED OR ESTABLISHED LOCALLY IN COMMUNITIES
+8 THROUGHOUT THE STATE PURSUANT TO SECTION 26.5-2-203.
+9 (11) "Local coordinating organization" means the entity selected
+10 by the department pursuant to section 26.5-2-103 to implement a
+11 community plan for early childhood and family support programs and
+12 services within a specified community.
+13 SECTION 18. In Colorado Revised Statutes, 26.5-4-204, amend
+14 (2) as follows:
+15 26.5-4-204. Colorado universal preschool program - created
+16 - eligibility - workforce development plan - program funding - rules.
+17 (2) For the 2023-24 school year and each school year thereafter,
+18 subject to the availability and enrollment capacity of preschool providers,
+19 parents throughout the state may enroll their children, free of charge, in
+20 ten hours per week of publicly funded preschool services for the school
+21 year preceding the school year in which the children are eligible to enroll
+22 in kindergarten. The department, working with local coordinating
+23 organizations EARLY CHILDHOOD COUNCILS, shall identify and recruit
+24 preschool providers throughout the state to participate in the Colorado
+25 universal preschool program. In identifying and recruiting preschool
+26 providers, the department and local coordinating organizations EARLY
+27 CHILDHOOD COUNCILS shall, to the extent practicable, establish a mixed
+-22- 019
+
+1 delivery system in communities throughout the state that enables parents
+2 to select preschool providers for their children from as broad a range as
+3 possible within their respective communities.
+4 SECTION 19. In Colorado Revised Statutes, 26.5-4-205, amend
+5 (1)(b)(I) as follows:
+6 26.5-4-205. Quality standards - evaluation - support.
+7 (1) (b) (I) Except as provided in subsection (1)(b)(II) of this
+8 section, the department shall ensure that each preschool provider that
+9 participates in the preschool program meets the quality standards
+10 established by rule in accordance with this section. The department may
+11 work with a local coordinating organization AN EARLY CHILDHOOD
+12 COUNCIL to ensure that a preschool provider meets the quality standards.
+13 The department may prohibit a preschool provider that fails to meet one
+14 or more of the quality standards from participating in the preschool
+15 program.
+16 SECTION 20. In Colorado Revised Statutes, 26.5-4-207, amend
+17 (3) as follows:
+18 26.5-4-207. Preschool program evaluation and improvement
+19 process - independent evaluator.
+20 (3) The department shall communicate the evaluations and
+21 recommendations of the independent evaluator to families, communities,
+22 preschool providers, local coordinating organizations EARLY CHILDHOOD
+23 COUNCILS, the state board of education, and the general assembly, as
+24 appropriate, to inform and improve early childhood teaching and
+25 education and policy-making related to early childhood education.
+26 SECTION 21. In Colorado Revised Statutes, 26.5-4-208, amend
+27 (1)(c), (1)(e), (3)(a), (3)(c)(II), and (3)(c)(IV) as follows:
+-23- 019
+
+1 26.5-4-208. Preschool provider funding - per-child rates - local
+2 contribution - distribution and use of money - definitions.
+3 (1) (c) In establishing the formula for additional preschool
+4 services, in addition to the considerations specified in subsection (1)(a)
+5 of this section, the department may consider the amount of local funding
+6 available to assist families within a community based on the community
+7 plan APPLICABLE EARLY CHILDHOOD COUNCIL COMMUNITY STRATEGIC
+8 PLAN DESCRIBED IN SECTION 26.5-2-204 or available within an area that
+9 does not have a local coordinating organization AN EARLY CHILDHOOD
+10 COUNCIL. A preschool provider is prohibited from charging a fee for
+11 additional preschool services to a family that participates in the preschool
+12 program that exceeds the amount charged to families that do not receive
+13 additional preschool services.
+14 (e) In establishing the formulas and other distribution amounts,
+15 the department shall consult with the rules advisory council, the early
+16 childhood leadership commission, and members of the early childhood
+17 community, including parents of preschool-age children, preschool
+18 educators, preschool providers, early childhood councils, school districts,
+19 charter schools, representatives of county departments of human or social
+20 services, local coordinating organizations, and individuals with financial
+21 expertise in public and private funding sources for early childhood
+22 services.
+23 (3) (a) Beginning in the 2023-24 fiscal year 2026-27 FISCAL YEAR
+24 and for each fiscal year thereafter, the department, working with local
+25 coordinating organizations as provided in each local coordinating
+26 organization's coordinator agreement EARLY CHILDHOOD COUNCILS IN
+27 ACCORDANCE WITH EACH EARLY CHILDHOOD COUNCIL'S AGREEMENT with
+-24- 019
+
+1 the department, shall distribute the funding appropriated to the
+2 department for preschool services from the preschool programs cash fund
+3 and any amount received pursuant to section 26.5-4-209 (2). The
+4 department and local coordinating organizations EARLY CHILDHOOD
+5 COUNCILS, as applicable, shall base the amounts distributed on the
+6 per-child rates and any special purpose distributions established for the
+7 applicable fiscal year pursuant to subsection (1) of this section. At the
+8 start of each fiscal year, the department and local coordinating
+9 organizations EARLY CHILDHOOD COUNCILS, as applicable, shall distribute
+10 a portion of the funding to preschool providers based on the numbers and
+11 types of eligible children expected to enroll in preschool as estimated in
+12 the community STRATEGIC plans or as estimated by the department for an
+13 area that does not have a local coordinating organization AN EARLY
+14 CHILDHOOD COUNCIL. The department and local coordinating
+15 organizations EARLY CHILDHOOD COUNCILS, as applicable, shall continue
+16 distributing portions of the funding periodically throughout the school
+17 year and shall adjust the amounts distributed based on the actual numbers
+18 and types of eligible children enrolled by preschool providers.
+19 (c) (II) The department and local coordinating organizations
+20 EARLY CHILDHOOD COUNCILS, as applicable, shall distribute the funding
+21 for preschool services for children who are three years of age or younger
+22 as described in subsection (3)(c)(I)(B) of this section only to preschool
+23 providers that are school districts or charter schools for the eligible
+24 children who are three years of age and younger whom the school district
+25 or charter school enrolls in accordance with the preschool program;
+26 except that, in a fiscal year in which the general assembly specifically
+27 appropriates an amount to provide preschool services for children three
+-25- 019
+
+1 years of age or younger who do not have disabilities that exceeds the
+2 amount described in subsection (3)(c)(I)(B) of this section, the
+3 department may distribute in accordance with the applicable community
+4 plans STRATEGIC PLANS DESCRIBED IN SECTION 26.5-2-204 all or any
+5 portion of the excess appropriation amount to community-based
+6 preschool providers. A school district may distribute all or a portion of the
+7 amount received pursuant to this subsection (3)(c)(II) to a head start
+8 agency or community-based preschool provider that provides preschool
+9 services pursuant to a contract with the school district.
+10 (IV) In a fiscal year in which the amount described in subsection
+11 (3)(c)(I)(B) of this section to fund preschool services for children who are
+12 three years of age or younger is less than is required to fully fund the
+13 number of said eligible children who actually enroll for preschool
+14 services, the department shall first provide funding for the eligible
+15 children with disabilities and eligible children who are in low-income
+16 families and meet at least one qualifying factor and then provide funding
+17 for the remaining eligible children who are in low-income families. If any
+18 amount of the appropriation described in subsection (3)(c)(I)(B) of this
+19 section remains, the department, working with the rules advisory council,
+20 the local coordinating organizations EARLY CHILDHOOD COUNCILS, and
+21 any other interested persons, shall establish the priority for distributing
+22 the funding among the remaining eligible children.
+23 SECTION 22. In Colorado Revised Statutes, 26.5-4-209, amend
+24 (5) as follows:
+25 26.5-4-209. Preschool programs cash fund - created - use.
+26 (5) AFTER ENSURING THE DELIVERY OF DIRECT SERVICES FOR
+27 ELIGIBLE CHILDREN, the department may use money appropriated from the
+-26- 019
+
+1 preschool programs cash fund for the administrative costs of local
+2 coordinating organizations INCURRED BY EARLY CHILDHOOD COUNCILS
+3 THAT ARE DIRECTLY RELATED TO THE DELIVERY OF PRESCHOOL SERVICES.
+4 SECTION 23. In Colorado Revised Statutes, 26.5-4-210, amend
+5 (1) introductory portion, (1)(e), (1)(g)(VII), and (2) as follows:
+6 26.5-4-210. Reporting.
+7 (1) Beginning with the hearing held in January of 2025 As part of
+8 the annual hearing held pursuant to the "State Measurement for
+9 Accountable, Responsive, and Transparent (SMART) Government Act",
+10 part 2 of article 7 of title 2, the department shall report on the
+11 implementation and effectiveness of the Colorado universal preschool
+12 program in the preceding fiscal year. At a minimum, the report must
+13 include:
+14 (e) The amount of funding distributed to preschool providers
+15 through the preschool program, in total and disaggregated by
+16 communities with local coordinating organizations EARLY CHILDHOOD
+17 COUNCILS and areas of the state that do not have local coordinating
+18 organizations EARLY CHILDHOOD COUNCILS;
+19 (g) Of the amount appropriated from the preschool programs cash
+20 fund, the amount, expressed as a dollar amount and a percentage of the
+21 total appropriation, that:
+22 (VII) Was spent on administrative expenses of the department and
+23 each local coordinating organization EARLY CHILDHOOD COUNCIL;
+24 (2) The department may request and local coordinating
+25 organizations EARLY CHILDHOOD COUNCILS and preschool providers shall
+26 provide information as necessary for the department to prepare the report
+27 described in subsection (1) of this section.
+-27- 019
+
+1 SECTION 24. In Colorado Revised Statutes, 24-101-105, amend
+2 (1)(a)(XVII) as follows:
+3 24-101-105. Application of this code.
+4 (1) (a) This code applies to all publicly funded contracts entered
+5 into by all governmental bodies of the executive branch of this state;
+6 except that this code does not apply to:
+7 (XVII) The department of early childhood in soliciting and
+8 selecting APPROVING entities to serve as local coordinating organizations
+9 pursuant to section 26.5-2-103 EARLY CHILDHOOD COUNCILS PURSUANT
+10 TO SECTION 26.5-2-204 and coordinating agreements entered into
+11 pursuant to section 26.5-2-105 SECTION 26.5-2-206; or
+12 SECTION 25. Effective date. This act takes effect upon passage;
+13 except that section 26.5-4-203 (5) and (11), Colorado Revised Statutes,
+14 as repealed in section 17 of this act, and section 26.5-4-208 (3)(a),
+15 (3)(c)(II), and (3)(c)(IV), Colorado Revised Statutes, as amended in
+16 section 21 of this act, take effect July 1, 2026.
+17 SECTION 26. Safety clause. The general assembly finds,
+18 determines, and declares that this act is necessary for the immediate
+19 preservation of the public peace, health, or safety or for appropriations for
+20 the support and maintenance of the departments of the state and state
+21 institutions.
+-28- 019

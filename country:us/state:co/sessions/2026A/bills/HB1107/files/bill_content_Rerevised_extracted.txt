@@ -1,0 +1,287 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0237.01 Eden Rolland x2373 HOUSE BILL 26-1107
+House Committees Senate Committees
+Health & Human Services Health & Human Services
+Finance
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO INCREASE ACCESS TO SERVICES IN
+102 FACILITIES THAT PROVIDE MEDICAL CARE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1 and 4 of the bill establish information disclosure
+requirements for a licensed facility that advertises, markets, promotes, or
+offers services, including memory care services, for individuals with
+dementia and dementia-related conditions, including Alzheimer's disease.
+The bill refers to such a facility or agency as a "dementia care facility".
+The bill requires the department of public health and environment
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,7
+lirpA
+6202
+,6
+lirpA
+6202
+,21
+hcraM
+6202
+,11
+hcraM
+HOUSE SPONSORSHIP
+Feret and Paschal, Bacon, Boesenecker, Brown, Duran, Hamrick, Lindsay, Marshall,
+McCluskie, Nguyen, Rydin, Sirota, Story, Woodrow
+SENATE SPONSORSHIP
+Cutter, Coleman, Jodeh, Kipp, Lindstedt
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(department), in consultation with the state long-term care ombudsman
+or the ombudsman's designee, to create a dementia care services
+information form (form) by January 1, 2027. The form must include fields
+for the disclosure of certain information regarding a dementia care
+facility's dementia care services, including the facility's:
+! Dementia training requirements for staff that are in addition
+to statutory training requirements;
+! Guidelines for using restraints; and
+! Security features and procedures for addressing the needs
+of residents with dementia.
+The bill authorizes the department to regularly review the form and
+update it as needed. After creating or subsequently updating the form, the
+department must provide the form to every dementia care facility in the
+state.
+The bill requires a dementia care facility to complete the form with
+responsive, accurate, and complete information regarding the facility's
+dementia care services. Beginning July 1, 2027, every dementia care
+facility must:
+! Provide its completed form to every individual who
+contacts the facility seeking dementia care services;
+! Review and update the form when a change in information
+occurs to ensure that the facility's information provided on
+the form is current, complete, and correct;
+! Publish the facility's current version of the completed form
+on the facility's website; and
+! At all times, maintain on the facility's premises and have
+available for inspection a copy of the facility's completed
+form with the facility's most current information and
+produce the form upon request by the department during a
+survey or inspection of the facility.
+The bill establishes a facility's violation of the last itemized
+requirements regarding the form as a deceptive trade practice under the
+"Colorado Consumer Protection Act".
+Currently, the department has the power to establish and maintain
+by rule a medication administration program in certain licensed or
+regulated facilities. Current law requires the department of human
+services, the behavioral health administration, the department of health
+care policy and financing, and the department of corrections to develop
+and conduct a medication administration program in certain types of
+residential, assisted living, and correctional facilities.
+Sections 5 and 6 modify the definition of "administration" to
+include administration of medication specifically by injection and allow
+a licensed practical nurse (LPN) or a certified nurse aide (CNA) to
+administer medication by injection as part of a medication administration
+program if the LPN or CNA receives education and training on
+-2- 1107
+
+administering medication by injection.
+The bill requires the department, in consultation with the state
+board of nursing, to establish by rule the education and training required
+for an LPN or a CNA to obtain the authorization created by the bill to
+administer medication by injection. A facility may not require that a
+registered nurse be on site as a prerequisite to an LPN or CNA
+administering medication by injection.
+The bill also adds all facilities and agencies licensed and regulated
+by the department to the list of specified facilities that can have a
+medication administration program.
+Sections 2 and 3 modify the scope of practice for CNAs to include
+the administration of medication by injection as authorized under the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2
+3 SECTION 1. In Colorado Revised Statutes, add 25-1-124.3 as
+4 follows:
+5 25-1-124.3. Dementia care services - information disclosure
+6 form - requirements - assisted living residence improvement cash
+7 fund - rules - definitions.
+8 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+9 OTHERWISE REQUIRES:
+10 (a) "DEMENTIA CARE FACILITY" OR "FACILITY" MEANS A FACILITY
+11 THAT IS LICENSED BY THE DEPARTMENT PURSUANT TO SECTION 25-1.5-103
+12 AND THAT OFFERS ON-SITE AND RESIDENTIAL SERVICES FOR INDIVIDUALS
+13 WITH DEMENTIA DISEASES AND RELATED DISABILITIES.
+14 (b) "DEMENTIA DISEASES AND RELATED DISABILITIES" OR
+15 "DEMENTIA" HAS THE MEANING SET FORTH IN SECTION 25-1-502 (2.5).
+16 (c) "FORM" MEANS THE DEMENTIA CARE SERVICES INFORMATION
+17 FORM CREATED BY THE DEPARTMENT PURSUANT TO SUBSECTION (2)(a) OF
+18 THIS SECTION.
+19 (d) "STATE LONG-TERM CARE OMBUDSMAN" MEANS THE STATE
+-3- 1107
+
+1 LONG-TERM CARE OMBUDSMAN ESTABLISHED PURSUANT TO ARTICLE 11.5
+2 OF TITLE 26 OR THE STATE LONG-TERM CARE OMBUDSMAN'S DESIGNEE.
+3 (2) Dementia care services information form.
+4 (a) BY JULY 1, 2027, THE DEPARTMENT SHALL CREATE A
+5 DEMENTIA CARE SERVICES INFORMATION FORM FOR DEMENTIA CARE
+6 FACILITIES TO COMPLETE AND DISTRIBUTE IN ACCORDANCE WITH
+7 SUBSECTION (3) OF THIS SECTION. THE FORM MUST INCLUDE FIELDS FOR
+8 THE DISCLOSURE OF INFORMATION REGARDING THE DEMENTIA CARE
+9 FACILITY'S SERVICES. AT A MINIMUM, THE FORM MUST INCLUDE FIELDS
+10 FOR EACH OF THE FOLLOWING ELEMENTS:
+11 (I) THE FACILITY'S REQUIREMENTS FOR DEMENTIA TRAINING FOR
+12 THE FACILITY'S STAFF THAT ARE IN ADDITION TO THE DEMENTIA TRAINING
+13 REQUIRED PURSUANT TO SECTION 25-1.5-118;
+14 (II) THE FACILITY'S GUIDELINES FOR USING PHYSICAL AND
+15 CHEMICAL RESTRAINTS IN THE COURSE OF PROVIDING CARE TO RESIDENTS
+16 LIVING WITH DEMENTIA;
+17 (III) THE FACILITY'S SECURITY FEATURES AND SECURITY
+18 PROCEDURES FOR ADDRESSING THE NEEDS OF RESIDENTS WITH DEMENTIA,
+19 INCLUDING WANDERING AND EMERGENCY RESPONSE;
+20 (IV) THE CRITERIA AND PROCESSES THE FACILITY USES TO
+21 DETERMINE THE PLACEMENT, TRANSFER, OR DISCHARGE OF RESIDENTS
+22 LIVING WITH DEMENTIA;
+23 (V) A DESCRIPTION OF HOW THE FACILITY INVOLVES FAMILY
+24 MEMBERS IN THE ACTIVITIES AND CARE OF RESIDENTS LIVING WITH
+25 DEMENTIA;
+26 (VI) A DESCRIPTION OF HOW AND WHEN A RESIDENT'S AUTHORIZED
+27 REPRESENTATIVE IS NOTIFIED OF INCIDENTS OR CONCERNS, INCLUDING
+-4- 1107
+
+1 MEDICAL CONCERNS, SAFETY CONCERNS, AND OTHER CONCERNS;
+2 (VII) A DESCRIPTION OF THE FACILITY'S ON-SITE AND ON-CALL
+3 MEDICAL PROFESSIONALS;
+4 (VIII) A STATEMENT IDENTIFYING SOURCES, INCLUDING A LINK TO
+5 THE FEDERAL CENTERS FOR MEDICARE AND MEDICAID SERVICES' "CARE
+6 COMPARE" WEBSITE, OR ANY SUCCESSOR WEBSITE, THAT AN INDIVIDUAL
+7 MAY CONSULT TO FIND INFORMATION ABOUT:
+8 (A) PAST ENFORCEMENT ACTIONS OR COMPLAINTS, IF ANY, THAT
+9 RESULTED IN THE DEPARTMENT ISSUING WARNINGS OR FINES; AND
+10 (B) THE HEALTH-CARE COVERAGE PAYER SOURCES THAT THE
+11 FACILITY ACCEPTS, INCLUDING WHETHER THE FACILITY ACCEPTS PAYMENT
+12 FROM PRIVATE INSURANCE PLANS, THROUGH MEDICAID, OR THROUGH THE
+13 UNITED STATES DEPARTMENT OF VETERANS AFFAIRS; AND
+14 (IX) AN EXPLANATION OF THE FACILITY'S FEE MODEL. THE
+15 EXPLANATION MUST INCLUDE DETAILS ABOUT WHEN AND HOW A RESIDENT
+16 AND THE RESIDENT'S AUTHORIZED REPRESENTATIVE WILL BE NOTIFIED OF
+17 ANY CHANGE TO THE FEES.
+18
+19 (b) THE DEPARTMENT SHALL CREATE THE FORM DESCRIBED IN
+20 SUBSECTION (2)(a) OF THIS SECTION IN CONSULTATION WITH THE STATE
+21 LONG-TERM CARE OMBUDSMAN. THE DEPARTMENT MAY CONSULT WITH
+22 ANY OTHER STATE DEPARTMENT OR ORGANIZATION AS THE DEPARTMENT
+23 DEEMS NECESSARY.
+24 (c) THE DEPARTMENT MAY REVIEW AND UPDATE THE FORM TO
+25 ENSURE THAT THE FORM FACILITATES THE DISCLOSURE OF THE
+26 INFORMATION SPECIFIED IN SUBSECTION (2)(a) OF THIS SECTION.
+27 (d) AS SOON AS PRACTICABLE AFTER CREATING OR UPDATING THE
+-5- 1107
+
+1 FORM PURSUANT TO THIS SUBSECTION (2), THE DEPARTMENT SHALL
+2 PROVIDE THE FORM OR THE MOST RECENTLY UPDATED VERSION OF THE
+3 FORM TO EVERY DEMENTIA CARE FACILITY.
+4 (e) THE DEPARTMENT MAY ADOPT RULES AS NECESSARY TO
+5 IMPLEMENT THIS SECTION.
+6 (f) THE DEPARTMENT MAY USE MONEY FROM THE ASSISTED LIVING
+7 RESIDENCE IMPROVEMENT CASH FUND, CREATED IN SECTION 25-27-106
+8 (2)(b)(IV), FOR THE PURPOSES OF CREATING THE FORM IN ACCORDANCE
+9 WITH THIS SUBSECTION (2) AND ADOPTING RULES RELATED TO THE FORM.
+10 (2.5) THE RULES ADOPTED BY THE DEPARTMENT IN ACCORDANCE
+11 WITH THIS SECTION SHALL NOT EXCEED APPLICABLE NATIONAL
+12 STANDARDS.
+13 (3) Duty to distribute dementia care information.
+14 (a) A DEMENTIA CARE FACILITY SHALL COMPLETE THE DEMENTIA
+15 CARE SERVICES INFORMATION FORM CREATED OR UPDATED BY THE
+16 DEPARTMENT PURSUANT TO SUBSECTION (2) OF THIS SECTION WITH
+17 RESPONSIVE, ACCURATE, AND COMPLETE INFORMATION REGARDING THE
+18 FACILITY'S DEMENTIA CARE SERVICES.
+19 (b) BEGINNING OCTOBER 1, 2027, A DEMENTIA CARE FACILITY
+20 SHALL:
+21 (I) PROVIDE THE FACILITY'S COMPLETED DEMENTIA CARE SERVICES
+22 INFORMATION FORM TO AN INDIVIDUAL WHO CONTACTS THE FACILITY
+23 SEEKING DEMENTIA CARE SERVICES, WHETHER THE INDIVIDUAL IS SEEKING
+24 DEMENTIA CARE SERVICES FOR THEMSELF, FOR A FAMILY MEMBER, OR FOR
+25 SOMEONE WHO IS NOT A FAMILY MEMBER;
+26 (II) REVIEW THE FORM WHEN THE FACILITY'S INFORMATION
+27 CHANGES, AND NO LESS THAN ONCE EVERY FIVE YEARS, TO ENSURE THAT
+-6- 1107
+
+1 THE INFORMATION PROVIDED ON THE FORM IS CURRENT, COMPLETE, AND
+2 CORRECT;
+3 (III) UPDATE THE FACILITY'S INFORMATION ON THE FORM AS SOON
+4 AS PRACTICABLE AFTER A CHANGE TO THE INFORMATION OCCURS;
+5 (IV) PUBLISH THE CURRENT VERSION OF THE COMPLETED FORM ON
+6 THE FACILITY'S PUBLIC-FACING WEBSITE; AND
+7 (V) AT ALL TIMES, MAINTAIN ON THE FACILITY'S PREMISES AND
+8 HAVE AVAILABLE FOR INSPECTION A COPY OF THE FACILITY'S COMPLETED
+9 FORM WITH THE FACILITY'S MOST CURRENT INFORMATION AND PRODUCE
+10 THE FORM UPON REQUEST BY THE DEPARTMENT DURING A SURVEY OR
+11 INSPECTION OF THE FACILITY.
+12 (4) Regulatory oversight and enforcement.
+13 (a) THE DEPARTMENT SHALL REQUIRE A DEMENTIA CARE FACILITY
+14 TO MAINTAIN AND HAVE AVAILABLE FOR INSPECTION A COPY OF THE
+15 FACILITY'S CURRENT AND COMPLETED FORM DESCRIBED IN SUBSECTION
+16 (3)(b)(V) OF THIS SECTION.
+17 (b) DURING EACH SURVEY OR INSPECTION OF A DEMENTIA CARE
+18 FACILITY, THE DEPARTMENT SHALL REQUIRE THE FACILITY TO PRODUCE
+19 FOR INSPECTION THE FACILITY'S CURRENT FORM, COMPLETED AND
+20 UPDATED IN ACCORDANCE WITH SUBSECTION (3)(b)(V) OF THIS SECTION.
+21 (c) IF A FACILITY VIOLATES SUBSECTION (3)(b)(V) OF THIS SECTION
+22 OR DOES NOT PRODUCE THE FACILITY'S CURRENT FORM UPON A REQUEST
+23 MADE BY THE DEPARTMENT PURSUANT TO SUBSECTION (4)(b) OF THIS
+24 SECTION, THE DEPARTMENT SHALL ISSUE A CITATION TO THE FACILITY.
+25
+26 SECTION 2. In Colorado Revised Statutes, 25-27-106, amend
+27 (2)(b)(V) introductory portion, (2)(b)(V)(G), and (2)(b)(V)(H); and add
+-7- 1107
+
+1 (2)(b)(V)(I) as follows:
+2 25-27-106. License denial, suspension, or revocation.
+3 (2) (b) (V) Civil fines collected pursuant to this paragraph (b)
+4 SUBSECTION (2)(b) shall be used for expenses related to:
+5 (G) Closing a residence; or
+6 (H) Reimbursing residents for personal funds lost, as determined
+7 necessary by the department; OR
+8 (I) CREATING A DEMENTIA CARE SERVICES INFORMATION FORM
+9 AND ADOPTING RULES RELATED TO THE FORM, PURSUANT TO SECTION
+10 25-1-124.3 (2).
+11 SECTION 3. Act subject to petition - effective date. This act
+12 takes effect at 12:01 a.m. on the day following the expiration of the
+13 ninety-day period after final adjournment of the general assembly
+14 (August 12, 2026, if adjournment sine die is on May 13, 2026); except
+15 that, if a referendum petition is filed pursuant to section 1 (3) of article
+16 V of the state constitution against this act or an item, section, or part of
+17 this act within such period, then the act, item, section, or part will not
+18 take effect unless approved by the people at the general election to be
+19 held in November 2026 and, in such case, will take effect on the date of
+20 the official declaration of the vote thereon by the governor.
+-8- 1107

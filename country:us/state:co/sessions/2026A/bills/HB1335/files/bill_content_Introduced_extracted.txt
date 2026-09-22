@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0862.01 Chelsea Princell x4335 HOUSE BILL 26-1335
+HOUSE SPONSORSHIP
+Garcia and Nguyen,
+SENATE SPONSORSHIP
+Wallace,
+House Committees Senate Committees
+Education
+A BILL FOR AN ACT
+101 CONCERNING ACCESS TO ABORTION MEDICATION SERVICES ON
+102 COLORADO COLLEGE CAMPUSES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires an institution of higher education (institution) that
+operates a student health center to provide on-site abortion medication
+services through the student health center.
+The bill requires an institution that has an on-site pharmacy to
+maintain a stock of abortion medication to dispense to students enrolled
+at the institution.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill requires an institution that does not have an on-site
+pharmacy to either submit a prescription for abortion medication to a
+pharmacy located off campus or dispense abortion medication through the
+institution's student health center if permitted by the student health
+center's licensure.
+An institution is not required to provide access to or stock abortion
+medication if doing so would conflict with the institution's bona fide
+religious beliefs or practices.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Access to reproductive health care is a fundamental right for
+5 every individual in Colorado under the state constitution;
+6 (b) The state equal rights amendment, or ERA, article II, section
+7 29 of the state constitution, establishes that "[e]quality of rights under the
+8 law shall not be denied or abridged by the state of Colorado or any of its
+9 political subdivisions on account of sex";
+10 (c) Gender equality is fundamental to ensure full participation in
+11 society for all individuals, and true equality cannot be achieved without
+12 access to reproductive health care, including abortion;
+13 (d) Despite the state ERA, sex discrimination in Colorado persists,
+14 including discrimination based on sexual orientation, gender identity, and
+15 pregnancy, resulting in inequitable access to reproductive health care,
+16 including abortion;
+17 (e) Institutions of higher education serve a diverse student body,
+18 including women, transgender men, and nonbinary individuals, all of
+19 whom may require abortion medication services as part of their
+20 reproductive health care;
+21 (f) Providing reproductive health care, including abortion
+-2- HB26-1335
+
+1 medication, is a generally accepted standard of medical practice that
+2 promotes gender equity for students at all institutions of higher education,
+3 including rural and underserved areas; and
+4 (g) It is necessary to establish requirements for institutions of
+5 higher education that operate student health centers to ensure access to
+6 abortion medication services consistent with that right.
+7 SECTION 2. In Colorado Revised Statutes, add 23-5-151 as
+8 follows:
+9 23-5-151. Abortion medication access - student health centers
+10 - data privacy - definitions.
+11 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+12 REQUIRES:
+13 (a) "ABORTION MEDICATION" MEANS A PRESCRIPTION DRUG OR A
+14 COMBINATION OF PRESCRIPTION DRUGS USED TO TERMINATE THE
+15 PREGNANCY OF AN INDIVIDUAL KNOWN OR REASONABLY BELIEVED TO BE
+16 PREGNANT.
+17 (b) "INSTITUTION" MEANS A STATE INSTITUTION OF HIGHER
+18 EDUCATION, AS DEFINED IN SECTION 23-18-102 (10)(a); A LOCAL DISTRICT
+19 COLLEGE, AS DEFINED IN SECTION 23-71-102; A PRIVATE INSTITUTION OF
+20 HIGHER EDUCATION, AS DEFINED IN SECTION 23-18-102 (9); AND A
+21 PARTICIPATING PRIVATE INSTITUTION OF HIGHER EDUCATION, AS DEFINED
+22 IN SECTION 23-18-102 (8).
+23 (c) "LEGALLY PROTECTED HEALTH-CARE ACTIVITY" HAS THE
+24 MEANING SET FORTH IN SECTION 12-30-121 (1)(d).
+25 (d) "STUDENT HEALTH CENTER" MEANS A HEALTH CLINIC OR
+26 HEALTH-CARE FACILITY LOCATED ON AN INSTITUTION'S CAMPUS THAT
+27 PROVIDES HEALTH-CARE SERVICES TO STUDENTS ENROLLED AT THE
+-3- HB26-1335
+
+1 INSTITUTION.
+2 (2) ON AND AFTER AUGUST 1, 2027, AN INSTITUTION THAT
+3 OPERATES A STUDENT HEALTH CENTER SHALL PROVIDE ACCESS TO
+4 ABORTION MEDICATION TO ALL STUDENTS ENROLLED AT THE INSTITUTION.
+5 ACCESS TO ABORTION MEDICATION MUST BE PROVIDED IN ACCORDANCE
+6 WITH GENERALLY ACCEPTED STANDARDS OF MEDICAL PRACTICE.
+7 (3) (a) IF AN INSTITUTION'S STUDENT HEALTH CENTER INCLUDES
+8 AN ON-SITE PHARMACY, THE INSTITUTION'S ON-SITE PHARMACY MUST
+9 MAINTAIN A STOCK OF ABORTION MEDICATION AND PROVIDE ACCESS TO
+10 ABORTION MEDICATION TO STUDENTS ENROLLED AT THE INSTITUTION AT
+11 A PHYSICAL LOCATION ON THE INSTITUTION'S CAMPUS, WHICH MAY
+12 INCLUDE:
+13 (I) THE ON-SITE PHARMACY;
+14 (II) THE STUDENT HEALTH CENTER, THROUGH A HEALTH-CARE
+15 PROVIDER LICENSED TO DISPENSE ABORTION MEDICATION; OR
+16 (III) ANOTHER PHYSICAL LOCATION ON THE INSTITUTION'S CAMPUS
+17 WHERE STUDENTS ENROLLED AT THE INSTITUTION CUSTOMARILY ACCESS
+18 PRESCRIPTION MEDICATIONS.
+19 (b) A STUDENT ENROLLED AT AN INSTITUTION MAY ELECT TO FILL
+20 A PRESCRIPTION FOR ABORTION MEDICATION AT A PHARMACY LOCATED
+21 OFF CAMPUS THAT IS UNAFFILIATED WITH THE INSTITUTION.
+22 (c) NOTHING IN THIS SUBSECTION (3) PROHIBITS AN INSTITUTION
+23 THAT HAS AN ON-SITE PHARMACY FROM UTILIZING TELEHEALTH SERVICES
+24 OR FROM CONTRACTING WITH AN EXTERNAL HEALTH-CARE PROVIDER TO
+25 ENSURE STUDENT ACCESS TO ABORTION MEDICATION.
+26 (4) IF AN INSTITUTION'S STUDENT HEALTH CENTER DOES NOT
+27 INCLUDE AN ON-SITE PHARMACY, THE STUDENT HEALTH CENTER SHALL
+-4- HB26-1335
+
+1 MAKE ABORTION MEDICATION AVAILABLE TO STUDENTS ENROLLED AT THE
+2 INSTITUTION EITHER BY:
+3 (a) SUBMITTING A PRESCRIPTION FOR ABORTION MEDICATION TO
+4 BE FILLED AT AN OFF-CAMPUS PHARMACY; OR
+5 (b) DISPENSING ABORTION MEDICATION THROUGH A PROVIDER ON
+6 STAFF AT THE STUDENT HEALTH CENTER, IF PERMITTED BY THE STUDENT
+7 HEALTH CENTER'S LICENSURE.
+8 (5) EXCEPT AS OTHERWISE REQUIRED BY FEDERAL LAW, AN
+9 INSTITUTION SHALL NOT KNOWINGLY PROVIDE PERSONALLY IDENTIFIABLE
+10 INFORMATION CONTAINED IN A STUDENT'S PATIENT RECORDS, BILLING
+11 RECORDS, OR PRECISE LOCATION DATA RELATED TO A LEGALLY
+12 PROTECTED HEALTH-CARE ACTIVITY IN RESPONSE TO A REQUEST FROM
+13 ANOTHER STATE SEEKING TO IMPOSE LIABILITY FOR THE LEGALLY
+14 PROTECTED HEALTH-CARE ACTIVITY.
+15 (6) A PROFESSIONAL LIABILITY INSURER MUST NOT CANCEL,
+16 REFUSE TO RENEW, OR INCREASE PREMIUMS ON A POLICY COVERING AN
+17 INSTITUTION AS A RESULT OF THE INSTITUTION'S COMPLIANCE WITH THIS
+18 SECTION.
+19 (7) THIS SECTION DOES NOT:
+20 (a) PERMIT AN INSTITUTION OR HEALTH-CARE PROVIDER TO
+21 VIOLATE APPLICABLE FEDERAL LAW OR REGULATION, INCLUDING THE
+22 UNITED STATES FOOD AND DRUG ADMINISTRATION'S REGULATIONS;
+23 (b) REQUIRE AN INDIVIDUAL OR ENTITY TO ACT IN VIOLATION OF
+24 A VALID COURT ORDER ISSUED BY A COURT OF COMPETENT JURISDICTION;
+25 OR
+26 (c) REQUIRE AN INSTITUTION'S STUDENT HEALTH CENTER TO
+27 PROVIDE ACCESS TO OR STOCK ABORTION MEDICATION IF DOING SO IS
+-5- HB26-1335
+
+1 CONTRARY TO THE INSTITUTION'S BONA FIDE RELIGIOUS BELIEFS OR
+2 PRACTICES.
+3 SECTION 3. Safety clause. The general assembly finds,
+4 determines, and declares that this act is necessary for the immediate
+5 preservation of the public peace, health, or safety or for appropriations for
+6 the support and maintenance of the departments of the state and state
+7 institutions.
+-6- HB26-1335

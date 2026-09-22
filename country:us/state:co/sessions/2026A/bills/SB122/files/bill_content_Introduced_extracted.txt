@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0835.01 Richard Sweetman x4333 SENATE BILL 26-122
+SENATE SPONSORSHIP
+Pelton R. and Roberts,
+HOUSE SPONSORSHIP
+Winter T.,
+Senate Committees House Committees
+Business, Labor, & Technology
+A BILL FOR AN ACT
+101 CONCERNING LIQUID FUELS, AND, IN CONNECTION THEREWITH,
+102 INCREASING THE MAXIMUM AMOUNT OF LIABILITY OF THE
+103 PETROLEUM STORAGE TANK FUND FOR INDIVIDUAL INCIDENTS
+104 AND ALLOWING THE DIRECTOR OF THE DIVISION OF OIL AND
+105 PUBLIC SAFETY TO ADOPT A RULE OR ISSUE POLICY GUIDANCE
+106 THAT PROVIDES EXCEPTIONS TO SPECIFIC REQUIREMENTS
+107 ESTABLISHED IN AN ASTM STANDARD FOR PETROLEUM
+108 PRODUCTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+http://leg.colorado.gov.)
+Under current law, the maximum amount of liability of the
+petroleum storage tank fund for an individual occurrence of a leak, spill,
+or release of a petroleum product from an underground storage tank
+(occurrence) is $2,000,000. The bill increases the maximum liability to
+$2,500,000 per occurrence. Additionally, an owner or operator of an
+underground or aboveground storage tank (owner or operator) may
+exceed this amount of liability with the permission of the director of the
+division of oil and public safety (director) and the petroleum storage tank
+committee (committee). If the director and the committee grant such
+permission, the director and committee shall establish a new maximum
+amount of liability per occurrence for the owner or operator.
+Under current law, all class I, II, and III liquid fuel products must
+comply with the most current applicable standards of ASTM
+International. The bill allows the director to adopt a rule or issue policy
+guidance that provides exceptions to specific requirements established in
+an ASTM standard.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-20-204, amend (1)
+3 as follows:
+4 8-20-204. Specifications - classes I, II, and III - rules.
+5 (1) (a) EXCEPT AS DESCRIBED IN SUBSECTION (1)(b) OF THIS
+6 SECTION, all products in classes I, II, and III shall MUST comply with the
+7 most current applicable specifications of ASTM, which are found in
+8 section 5 of that organization's publication "Petroleum Products,
+9 Lubricants, and Fossil Fuels" and supplements thereto TO THE
+10 PUBLICATION or revisions thereof OF THE PUBLICATION as may be
+11 designated by ASTM, except as modified or rejected by this article
+12 ARTICLE 20 or any rule promulgated ADOPTED pursuant to this article
+13 ARTICLE 20. If gasoline is blended with ethanol, the ASTM D 4814
+14 specifications shall apply to the base gasoline prior to blending. Blends
+15 of gasoline and ethanol shall MUST not exceed the ASTM D 4814 vapor
+-2- SB26-122
+
+1 pressure standard; except that, if the ethanol is blended at nine percent or
+2 higher but not exceeding ten percent, the blend may exceed the ASTM D
+3 4814 vapor pressure standard by no more than 1.0 PSI. Class I products
+4 shall not be blended at a retail location with products commonly and
+5 commercially known as casinghead gasoline, absorption gasoline,
+6 condensation gasoline, drip gasoline, or natural gasoline.
+7 (b) IN ORDER TO ENSURE ACCESS TO FUEL PRODUCTS FOR
+8 COMMUNITIES IN COLORADO, THE DIRECTOR OF THE DIVISION OF OIL AND
+9 PUBLIC SAFETY MAY ADOPT A RULE OR ISSUE POLICY GUIDANCE THAT
+10 PROVIDES EXCEPTIONS TO SPECIFIC REQUIREMENTS ESTABLISHED IN AN
+11 ASTM STANDARD DESCRIBED IN SUBSECTION (1)(a) OF THIS SECTION TO
+12 ADDRESS CONSUMER PROTECTION, PRICING, SUPPLY NETWORKS, OR OTHER
+13 FACTORS NOT CONSIDERED BY ASTM WHEN FORMULATING THE
+14 STANDARD.
+15 SECTION 2. In Colorado Revised Statutes, 8-20.5-206, amend
+16 (2) as follows:
+17 8-20.5-206. Financial responsibility for petroleum
+18 underground storage tanks - definition - rules.
+19 (2) (a) The maximum amount of liability of the fund under this
+20 section shall be IS three million dollars aggregate during a state fiscal year
+21 for multiple occurrences involving tanks that are the responsibility of an
+22 individual owner or operator, but in no event, shall EXCEPT AS DESCRIBED
+23 IN SUBSECTION (2)(b) OF THIS SECTION, DOES the liability of the fund
+24 exceed two million FIVE HUNDRED THOUSAND dollars per occurrence. For
+25 purposes of this section AS USED IN THIS SUBSECTION (2), an "occurrence"
+26 means the period of time from identification through remediation of a
+27 leak, spill, or release of a petroleum product from an underground storage
+-3- SB26-122
+
+1 tank. In the event the cost of remediation or third-party claims exceeds the
+2 amount available to pay such costs, such costs and claims shall be paid on
+3 a pro rata basis as determined by the committee created in section
+4 8-20.5-104. Any balance owed shall be paid as moneys become MONEY
+5 BECOMES available in the fund. Any excess costs that are not paid by the
+6 fund or by the federal leaking underground storage tank trust fund shall
+7 be paid by and are the sole responsibility of the responsible owner or
+8 operator.
+9 (b) AN OWNER OR OPERATOR MAY EXCEED THE MAXIMUM AMOUNT
+10 OF LIABILITY DESCRIBED IN SUBSECTION (2)(a) OF THIS SECTION FOR AN
+11 INDIVIDUAL OCCURRENCE IF THE OWNER OR OPERATOR RECEIVES
+12 PERMISSION TO DO SO FROM BOTH THE DIRECTOR OF THE DIVISION OF OIL
+13 AND PUBLIC SAFETY AND THE PETROLEUM STORAGE TANK COMMITTEE
+14 CREATED IN SECTION 8-20.5-104. IF THE DIRECTOR AND THE COMMITTEE
+15 GRANT SUCH PERMISSION, THE DIRECTOR AND THE COMMITTEE SHALL
+16 ESTABLISH A NEW MAXIMUM AMOUNT OF LIABILITY PER OCCURRENCE FOR
+17 THE OWNER OR OPERATOR.
+18 SECTION 3. Act subject to petition - effective date. This act
+19 takes effect at 12:01 a.m. on the day following the expiration of the
+20 ninety-day period after final adjournment of the general assembly (August
+21 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+22 referendum petition is filed pursuant to section 1 (3) of article V of the
+23 state constitution against this act or an item, section, or part of this act
+24 within such period, then the act, item, section, or part will not take effect
+25 unless approved by the people at the general election to be held in
+26 November 2026 and, in such case, will take effect on the date of the
+27 official declaration of the vote thereon by the governor.
+-4- SB26-122

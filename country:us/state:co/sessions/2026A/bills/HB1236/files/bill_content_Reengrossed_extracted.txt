@@ -1,0 +1,172 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0296.02 Jacob Baus x2173 HOUSE BILL 26-1236
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING ARBITRATION REFORM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill:
+! Prohibits a provision in an arbitration agreement that
+waives a party's ability to participate in a representative
+action except as preempted by federal law and disallows
+the waiver of this prohibition;
+! Prohibits a provision in an arbitration agreement that
+requires an employee to an employer and employee
+contract or a consumer to a merchant and consumer
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,82
+lirpA
+6202
+,72
+lirpA
+HOUSE SPONSORSHIP
+Zokaie and Mabrey, Joseph, Lieder, Lindsay
+SENATE SPONSORSHIP
+Ball and Hinrichsen,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+contract to pay fees that substantially exceed the costs
+required to file a claim in state or federal court, except as
+preempted by federal law, and disallows the waiver of this
+prohibition;
+! Prohibits an individual from serving as an arbitrator if the
+individual has a rule, policy, procedure, or demonstrated
+pattern of conduct that discriminates or prevents, or has the
+effect of discriminating or preventing, a certain party or
+type of party from asserting their rights or prevailing in
+arbitration or that discriminates against an attorney; and
+! Requires an employer or merchant to fully comply with
+requirements of a record of an award, within 30 days after
+the date of the record of an award, or be liable for
+additional damages caused by their failure to comply.
+Under current law, exemplary damages are prohibited in
+arbitration proceedings. The bill repeals this prohibition.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 13-22-204, amend
+3 (2)(a) as follows:
+4 13-22-204. Effect of agreement to arbitrate - nonwaivable
+5 provisions.
+6 (2) Before a controversy arises that is subject to an agreement to
+7 arbitrate, a party to the agreement may not:
+8 (a) Waive or agree to vary the effect of the requirements of
+9 section 13-22-205 (1), 13-22-206 (1), 13-22-208, 13-22-209 (3),
+10 13-22-217 (1) or (2), 13-22-226, or 13-22-228;
+11
+12 SECTION 2. In Colorado Revised Statutes, 13-22-209, add (3)
+13 as follows:
+14 13-22-209. Initiation of arbitration - application.
+15 (3) EXCEPT AS PREEMPTED BY FEDERAL LAW, IF THE PARTIES TO
+16 THE ARBITRATION AGREEMENT OR PROCEEDING ARE AN EMPLOYER AND
+-2- 1236
+
+1 EMPLOYEE OR A MERCHANT AND CONSUMER, A PROVISION IN THE
+2 CONTRACT THAT REQUIRES THE PARTY THAT IS THE EMPLOYEE OR
+3 CONSUMER TO PAY FEES AND COSTS THAT EXCEED THE FEES AND COSTS
+4 REQUIRED BY STATE COURTS TO BRING A STATE CLAIM FOR A CASE FILED
+5 IN STATE COURT, OR REQUIRED BY FEDERAL COURTS TO BRING A FEDERAL
+6 CLAIM FOR A CASE FILED IN FEDERAL COURT, IS VOID AND
+7 UNENFORCEABLE, AND THE PARTY THAT IS THE EMPLOYEE OR CONSUMER
+8 MAY FILE THE CASE IN COURT.
+9 SECTION 3. In Colorado Revised Statutes, 13-22-211, add (3)
+10 as follows:
+11 13-22-211. Appointment of arbitrator - service as a neutral
+12 arbitrator.
+13 (3) (a) AN INDIVIDUAL OR ARBITRATOR, OR AN INDIVIDUAL OR
+14 ARBITRATOR ASSOCIATED WITH AN ARBITRATION ORGANIZATION, IS
+15 INELIGIBLE TO INITIATE, SPONSOR, OR ADMINISTER AN ARBITRATION
+16 PROCEEDING OR TO APPOINT OR SERVE AS AN ARBITRATOR IF THE
+17 INDIVIDUAL, ARBITRATOR, OR ARBITRATION ORGANIZATION HAS A RULE,
+18 POLICY, PROCEDURE, OR DEMONSTRATED PATTERN OF CONDUCT THAT:
+19 (I) DISCRIMINATES AGAINST A CERTAIN PARTY, TYPE OF PARTY, OR
+20 ATTORNEY, OR APPLIES DIFFERENT RULES, POLICIES, OR PROCEDURES
+21 BASED ON HOW MANY CLAIMANTS HAVE FILED SIMILAR CLAIMS OR HOW
+22 MANY CLAIMS HAVE BEEN FILED FROM THE SAME ATTORNEY; OR
+23 (II) PREVENTS, OR HAS THE EFFECT OF PREVENTING, A CERTAIN
+24 PARTY, TYPE OF PARTY, OR ATTORNEY FROM:
+25 (A) ASSERTING THE PARTY'S RIGHTS IN ARBITRATION; OR
+26 (B) PREVAILING IN FULL OR IN PART IN ARBITRATION.
+27 (b) FOR THE PURPOSE OF DETERMINING WHETHER AN INDIVIDUAL
+-3- 1236
+
+1 OR ARBITRATOR, OR AN INDIVIDUAL OR ARBITRATOR ASSOCIATED WITH AN
+2 ARBITRATION ORGANIZATION, IS INELIGIBLE TO INITIATE, SPONSOR, OR
+3 ADMINISTER AN ARBITRATION PROCEEDING OR TO APPOINT OR SERVE AS
+4 AN ARBITRATOR PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION, THE
+5 INDIVIDUAL OR ARBITRATOR MUST NOT BE FOUND INELIGIBLE BASED
+6 SOLELY ON A FINDING THAT THE INDIVIDUAL OR ARBITRATOR GENERALLY
+7 FINDS IN THE FAVOR OF EITHER PARTY.
+8 SECTION 4. In Colorado Revised Statutes, 13-22-219, add (3)
+9 as follows:
+10 13-22-219. Award - application.
+11 (3) (a) A PARTY THAT FAILS TO FULLY COMPLY WITH THE
+12 REQUIREMENTS OF A RECORD OF AN AWARD WITHIN NINETY DAYS AFTER
+13 THE DATE OF THAT AWARD IS LIABLE TO THE OTHER PARTY FOR DAMAGES
+14 CAUSED BY THE FAILURE TO FULLY COMPLY.
+15 (b) NOTWITHSTANDING SUBSECTION (3)(a) OF THIS SECTION, IF THE
+16 PARTIES OF THE ARBITRATION AGREEMENT OR PROCEEDING ARE AN
+17 EMPLOYER AND EMPLOYEE OR MERCHANT AND CONSUMER AND THE PARTY
+18 THAT IS THE EMPLOYER OR MERCHANT FAILS TO FULLY COMPLY WITH THE
+19 REQUIREMENTS OF A RECORD OF AN AWARD WITHIN NINETY DAYS AFTER
+20 THE DATE OF THAT AWARD, THE PARTY THAT IS THE EMPLOYER OR
+21 MERCHANT IS LIABLE TO THE OTHER PARTY FOR DAMAGES IN TREBLE THE
+22 TOTAL AMOUNT IN THE RECORD OF AN AWARD CAUSED BY THE FAILURE TO
+23 FULLY COMPLY.
+24 (c) THE LIABILITY DESCRIBED IN SUBSECTIONS (3)(a) AND (3)(b)
+25 OF THIS SECTION IS IN ADDITION TO THE REQUIREMENTS OF A RECORD OF
+26 AN AWARD.
+27 SECTION 5. In Colorado Revised Statutes, 13-22-221, repeal (3)
+-4- 1236
+
+1 as follows:
+2 13-22-221. Remedies - fees and expenses of arbitration
+3 proceeding.
+4 (3) Nothing in this section shall be construed to alter or amend the
+5 provisions of section 13-21-102 (5).
+6 SECTION 6. In Colorado Revised Statutes, 13-21-102, amend
+7 (5) as follows:
+8 13-21-102. Exemplary damages.
+9 (5) Unless otherwise provided by law, exemplary damages shall
+10 not be awarded in administrative or arbitration proceedings, even if the
+11 award or decision is enforced or approved in an action commenced in a
+12 court.
+13 SECTION 7. Act subject to petition - effective date -
+14 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+15 the expiration of the ninety-day period after final adjournment of the
+16 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+17 2026); except that, if a referendum petition is filed pursuant to section 1
+18 (3) of article V of the state constitution against this act or an item, section,
+19 or part of this act within such period, then the act, item, section, or part
+20 will not take effect unless approved by the people at the general election
+21 to be held in November 2026 and, in such case, will take effect on the
+22 date of the official declaration of the vote thereon by the governor.
+23 (2) This act applies to arbitration agreements entered into or
+24 renewed on or after the applicable effective date of this act.
+-5- 1236

@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0713.01 Christopher McMichael x4775 SENATE BILL 26-090
+Senate Committees House Committees
+Business, Labor, & Technology
+A BILL FOR AN ACT
+101 CONCERNING EXEMPTING CRITICAL INFRASTRUCTURE FROM THE
+102 "CONSUMER REPAIR BILL OF RIGHTS ACT".
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, consumers in Colorado have a right to repair
+all digital electronic equipment, which could include equipment that is
+considered critical infrastructure.
+The bill exempts information technology equipment that is
+intended for use in critical infrastructure from Colorado's consumer right
+to repair laws. Critical infrastructure is defined as a system or asset,
+ETANES
+ETANES
+gnidaeR
+dr3
+dednemA
+dednemanU
+gnidaeR
+dn2
+6202
+,61
+lirpA
+6202
+,7
+lirpA
+SENATE SPONSORSHIP
+Carson and Snyder, Coleman, Liston, Rodriguez, Simpson
+HOUSE SPONSORSHIP
+Hartsook,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+whether physical or virtual, so vital to the United States that the
+incapacity or destruction of the system or asset would have a debilitating
+impact on security, national economic security, national public health or
+safety, or any combination of those matters.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-1-1502, add (1.4)
+3 as follows:
+4 6-1-1502. Definitions.
+5 As used in this part 15, unless the context otherwise requires:
+6 (1.4) "CRITICAL INFRASTRUCTURE" HAS THE MEANING SET FORTH
+7 IN 42 U.S.C. SEC. 5195c (e).
+8 SECTION 2. In Colorado Revised Statutes, 6-1-1503, amend
+9 (5)(m), (5)(o), and (5)(p); and add (5)(q) and (11) as follows:
+10 6-1-1503. Manufacturer obligations regarding services -
+11 exemptions - information technology equipment - critical
+12 infrastructure determination by attorney general - rules.
+13 (5) With respect to digital electronic equipment, this part 15 does
+14 not apply to:
+15 (m) Video game consoles; or
+16 (o) Devices, components, or systems designed to perform or
+17 facilitate quantum information processing, including, solely to the extent
+18 necessary for such processing, storing, computing, communicating,
+19 measuring, or sensing quantum information, through manipulation,
+20 measurement, sensing, or utilization of quantum phenomena, limited to
+21 instances where the phenomena are integral to the device's primary
+22 function, including quantum superposition, quantum entanglement,
+23 quantum interference, quantum tunneling, or quantum transduction; or
+-2- 090
+
+1 (p) Quantum sensing devices that exploit quantum phenomena,
+2 limited to instances where the phenomena are integral to the device's
+3 primary function, such as quantum coherence, quantum entanglement,
+4 quantized energy states that do not include the semiconductor band gap
+5 phenomenon, quantum squeezing, quantum superposition, quantum
+6 interference, quantum transduction, or quantum tunneling, to detect,
+7 measure, or monitor physical quantities, environmental parameters, or
+8 external stimuli; OR
+9 (q) INFORMATION TECHNOLOGY EQUIPMENT THAT IS INTENDED TO
+10 BE USED IN CRITICAL INFRASTRUCTURE IN ACCORDANCE WITH SUBSECTION
+11 (11) OF THIS SECTION.
+12 (11) (a) THE ATTORNEY GENERAL MAY ADOPT RULES TO REVIEW
+13 EXEMPTIONS FROM THIS PART 15 FOR INFORMATION TECHNOLOGY
+14 EQUIPMENT THAT IS INTENDED TO BE USED IN CRITICAL INFRASTRUCTURE.
+15 (b) IN REVIEWING AN EXEMPTION FROM THIS PART 15 PURSUANT
+16 TO SUBSECTION (5)(q) OF THIS SECTION, THE ATTORNEY GENERAL SHALL
+17 CONSIDER THE FOLLOWING CRITERIA:
+18 (I) WHETHER THE INFORMATION TECHNOLOGY EQUIPMENT IS
+19 INTENDED TO BE USED IN A MANNER THAT WOULD QUALIFY THE
+20 EQUIPMENT AS CRITICAL INFRASTRUCTURE, AS DEFINED IN 42 U.S.C. SEC.
+21 5195c (e); AND
+22 (II) WHETHER THE INFORMATION TECHNOLOGY EQUIPMENT IS
+23 SOLD TO ITS INTENDED CUSTOMERS UNDER A BUSINESS-TO-BUSINESS OR
+24 BUSINESS-TO-GOVERNMENT CONTRACT AND NOT CUSTOMARILY SOLD IN
+25 A RETAIL SETTING.
+26 (c) THERE IS A PRESUMPTION THAT THE INFORMATION
+27 TECHNOLOGY EQUIPMENT IS EXEMPT DURING THE PENDENCY OF THE
+-3- 090
+
+1 ATTORNEY GENERAL'S REVIEW.
+2 (d) A DETERMINATION MADE BY THE ATTORNEY GENERAL IN
+3 ACCORDANCE WITH THIS SUBSECTION (11) MAY BE APPEALED BY THE
+4 MANUFACTURER OF THE INFORMATION TECHNOLOGY EQUIPMENT IN A
+5 DISTRICT COURT OF COMPETENT JURISDICTION IN ACCORDANCE WITH
+6 SECTION 24-4-106.
+7 SECTION 3. Safety clause. The general assembly finds,
+8 determines, and declares that this act is necessary for the immediate
+9 preservation of the public peace, health, or safety or for appropriations for
+10 the support and maintenance of the departments of the state and state
+11 institutions.
+-4- 090

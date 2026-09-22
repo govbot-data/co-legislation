@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0200.01 Shelby Ross x4510 SENATE BILL 26-018
+SENATE SPONSORSHIP
+Wallace and Kolker,
+HOUSE SPONSORSHIP
+Froelich and Garcia,
+Senate Committees House Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING LEGAL PROTECTIONS FOR THE DIGNITY OF A MINOR,
+102 AND, IN CONNECTION THEREWITH, SUPPRESSING A COURT
+103 RECORD ASSOCIATED WITH CHANGING A MINOR'S NAME AND
+104 REQUIRING THE COURT TO CONSIDER AS A RELEVANT FACTOR
+105 WHEN DETERMINING PARENTING TIME AND ALLOCATION OF
+106 DECISION-MAKING RESPONSIBILITY WHETHER THE MINOR'S
+107 PARENT RECOGNIZES THE CHILD'S IDENTITY AS IT RELATES TO
+108 A PROTECTED CLASS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+http://leg.colorado.gov.)
+The bill requires the court to suppress a record associated with a
+petition seeking to change the name of a petitioner who is less than 18
+years of age unless the petitioner was previously convicted of a felony.
+The bill authorizes the court to use the suppressed court record for
+administrative purposes, but the court is prohibited from publishing the
+petitioner's name or the petitioner's new name online. The bill authorizes
+an individual to access a suppressed court record without a court order if
+the individual obtains verbal consent from a party to the case and submits
+an affidavit to the court, upon penalty of perjury, that the individual has
+obtained the verbal consent.
+In determining parenting time and the allocation of
+decision-making responsibility, the bill requires the court to consider
+whether the parties recognize the child's identity as it relates to a
+protected class.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 13-15-101, add (7)
+3 as follows:
+4 13-15-101. Petition - proceedings - applicability - definition.
+5 (7) (a) AS USED IN THIS SUBSECTION (7), "SUPPRESSED COURT
+6 RECORD" MEANS A COURT RECORD THAT IS ONLY ACCESSIBLE TO JUDGES;
+7 COURT STAFF; A PARTY TO THE CASE, INCLUDING A PARTY'S ATTORNEY;
+8 AUTHORIZED JUDICIAL DEPARTMENT STAFF; AND AN INDIVIDUAL WITH A
+9 VALID COURT ORDER AUTHORIZING ACCESS TO THE COURT RECORD.
+10 (b) (I) IF A PETITIONER IS UNDER EIGHTEEN YEARS OLD, A COURT
+11 RECORD ASSOCIATED WITH A PETITION SEEKING TO CHANGE THE
+12 PETITIONER'S NAME IS A SUPPRESSED COURT RECORD. THE SUPPRESSED
+13 COURT RECORD MAY BE USED BY THE COURT FOR ADMINISTRATIVE
+14 PURPOSES, BUT THE COURT SHALL NOT UNDER ANY CIRCUMSTANCE
+15 PUBLISH THE PETITIONER'S NAME OR THE PETITIONER'S NEW NAME ONLINE.
+16 (II) THIS SUBSECTION (7)(b) DOES NOT APPLY IF THE NAME
+-2- SB26-018
+
+1 CHANGE IS GRANTED PURSUANT TO SUBSECTION (3) OF THIS SECTION AND
+2 THE GOOD CAUSE DESCRIBED IN SUBSECTION (3)(b)(II) OF THIS SECTION
+3 APPLIES.
+4 (c) A COURT SHALL ISSUE AN ORDER AUTHORIZING AN INDIVIDUAL
+5 ACCESS TO A SUPPRESSED COURT RECORD IF THE INDIVIDUAL OBTAINS
+6 VERBAL CONSENT FROM A PARTY TO THE CASE AND SUBMITS AN AFFIDAVIT
+7 TO THE COURT, UNDER PENALTY OF PERJURY, THAT THE INDIVIDUAL HAS
+8 OBTAINED THE VERBAL CONSENT.
+9 SECTION 2. In Colorado Revised Statutes, 14-10-124, amend
+10 (1.5)(b) introductory portion; and add (1.5)(a)(XII) and (1.5)(b)(VI) as
+11 follows:
+12 14-10-124. Best interests of the child.
+13 (1.5) Allocation of parental responsibilities. The court shall
+14 determine the allocation of parental responsibilities, including parenting
+15 time and decision-making responsibilities, in accordance with the best
+16 interests of the child, giving paramount consideration to the child's safety
+17 and the physical, mental, and emotional conditions and needs of the child
+18 as follows:
+19 (a) Determination of parenting time. The court, upon the motion
+20 of either party or upon its own motion, may make provisions for parenting
+21 time that the court finds are in the best interests of the child, with the
+22 child's safety always paramount, unless the court finds, after a hearing,
+23 that parenting time by the party would endanger the child's physical health
+24 or significantly impair the child's emotional development. In addition to
+25 a finding that parenting time would endanger the child's physical health
+26 or significantly impair the child's emotional development, in any order
+27 imposing or continuing a parenting time restriction, the court shall
+-3- SB26-018
+
+1 enumerate the specific factual findings supporting the restriction,
+2 including findings related to domestic violence, child abuse, and child
+3 sexual abuse, and may enumerate the conditions that the restricted party
+4 could fulfill in order to seek modification in the parenting plan. When a
+5 claim of child abuse or neglect, domestic violence, or sexual assault
+6 where there is also a claim that the child was conceived as a result of the
+7 sexual assault has been made to the court, or the court has reason to
+8 believe that a party has committed child abuse or neglect, domestic
+9 violence, or sexual assault where there is also a claim that the child was
+10 conceived as a result of the sexual assault, prior to determining parenting
+11 time, the court shall follow the provisions of subsection (4) of this
+12 section. In determining the best interests of the child for purposes of
+13 parenting time, the court shall consider all relevant factors, including:
+14 (XII) SUBJECT TO CONSTITUTIONAL LIMITATIONS, WHETHER THE
+15 PARTIES RECOGNIZE THE CHILD'S IDENTITY AS IT RELATES TO A PROTECTED
+16 CLASS DESCRIBED IN SECTION 24-34-601 (2)(a).
+17 (b) Allocation of decision-making responsibility. The court,
+18 upon the motion of either party or its own motion, shall allocate the
+19 decision-making responsibilities between the parties based upon the best
+20 interests of the child. In determining decision-making responsibility, the
+21 court may allocate the decision-making responsibility with respect to each
+22 issue affecting the child mutually between both parties or individually to
+23 one or the other party or any combination thereof. When a claim of child
+24 abuse or neglect or domestic violence has been made to the court, or the
+25 court has reason to believe that a party has committed child abuse or
+26 neglect, domestic violence, or sexual assault where there is also a claim
+27 that the child in question was conceived as a result of the sexual assault,
+-4- SB26-018
+
+1 prior to allocating decision-making responsibility, the court shall follow
+2 the provisions of subsection (4) of this section. In determining the best
+3 interests of the child for purposes of allocating decision-making
+4 responsibilities, the court shall consider, in addition to the factors set forth
+5 in paragraph (a) of this subsection (1.5) SUBSECTION (1.5)(a) OF THIS
+6 SECTION, all relevant factors, including:
+7 (VI) SUBJECT TO CONSTITUTIONAL LIMITATIONS, WHETHER THE
+8 PARTIES RECOGNIZE THE CHILD'S IDENTITY AS IT RELATES TO A PROTECTED
+9 CLASS DESCRIBED IN SECTION 24-34-601 (2)(a).
+10 SECTION 3. Safety clause. The general assembly finds,
+11 determines, and declares that this act is necessary for the immediate
+12 preservation of the public peace, health, or safety or for appropriations for
+13 the support and maintenance of the departments of the state and state
+14 institutions.
+-5- SB26-018

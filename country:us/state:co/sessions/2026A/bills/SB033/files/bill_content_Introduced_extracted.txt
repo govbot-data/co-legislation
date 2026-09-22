@@ -1,0 +1,454 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0550.01 Sarah Lozano x3858 SENATE BILL 26-033
+SENATE SPONSORSHIP
+Liston,
+HOUSE SPONSORSHIP
+Winter T.,
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING CLEAN ENERGY PERMITTING PROCESSES, AND, IN
+102 CONNECTION THEREWITH, CREATING THE COLORADO CLEAN
+103 ENERGY PERMITTING COORDINATION OFFICE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the Colorado clean energy permitting coordination
+office (office) in the Colorado energy office to provide coordination and
+technical assistance to owners or operators, local governments, and state
+permitting authorities regarding permitting for the construction,
+expansion, repowering, or material modification of a clean energy
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+resource facility project (covered clean energy project).
+At the request of the owner or operator of a covered clean energy
+project (owner or operator) or a local government with jurisdiction over
+the covered clean energy project or that the owner or operator determines
+is likely to experience direct and significant impacts from the covered
+clean energy project (host community), the office must convene a meeting
+(application coordination meeting) to coordinate the filing of permit
+applications for the covered clean energy project that includes certain
+interested parties. Following an application coordination meeting, the
+office must prepare a coordinated permitting schedule for the covered
+clean energy project that identifies the permits and approvals likely to be
+required for the covered clean energy project and certain other
+information (coordinated permitting schedule).
+The office is required to develop and maintain a public dashboard
+(public dashboard) on the office's website for an owner or operator that
+receives a coordinated permitting schedule or that receives state technical
+assistance from the office.
+Effective July 1, 2027, at least 90 days before the owner or
+operator submits the first state permit application for a covered clean
+energy project, the owner or operator must submit a community
+engagement plan to the office and relevant state permitting authorities. A
+community engagement plan must identify host communities for the
+project and describe certain other community engagement efforts
+regarding the project.
+Effective July 1, 2027, an owner or operator must prepare a
+community benefit agreement and submit the community benefit
+agreement to the office and the parties participating in the covered clean
+energy project's application coordination meeting. The office is required
+to develop model community benefit agreement terms for a covered clean
+energy project and post the terms on the covered clean energy project's
+public dashboard or the office's website.
+The office is required to prioritize technical assistance and
+permitting readiness support for covered clean energy projects that
+repower or reuse retired or retiring fossil fuel generation sites, are located
+in coal transition communities, or are located on brownfield sites. On or
+before December 1, 2027, the office shall publish and update annually an
+inventory identifying coal plant and industrial sites and brownfield sites
+suitable for redevelopment for clean energy resource facilities and other
+key infrastructure considerations.
+Effective July 1, 2027, an owner or operator must develop and
+submit to the office a safety and emergency preparedness plan and
+coordinate with relevant local emergency management agencies and the
+Colorado division of homeland security and emergency management in
+implementing the safety and emergency preparedness plan. The office
+shall post a safety and emergency preparedness plan on the covered clean
+-2- SB26-033
+
+energy project's public dashboard or the office's website.
+Effective November 1, 2027, an owner or operator of a covered
+clean energy project must submit to the office a grid reliability and
+security statement. The office must coordinate with the public utilities
+commission and utilities as appropriate to align permitting readiness with
+grid reliability needs.
+On or before December 1, 2027, and on or before each December
+1 thereafter, the office must submit a report to certain committees of the
+general assembly summarizing certain information about the functions of
+the office.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) Colorado's continued prosperity, affordability, environmental
+5 stewardship, and public health depend on the timely, reliable, safe, and
+6 community-supported deployment of clean and abundant energy
+7 resources, including resources that provide firm, dispatchable, and
+8 resilient power;
+9 (b) Colorado is experiencing and anticipates further accelerated
+10 demand for electricity and energy services driven by economic growth,
+11 electrification, advanced manufacturing, and data-intensive industries,
+12 which accelerated demand requires deliberate and coordinated planning
+13 for new generation, storage, transmission, and enabling infrastructure;
+14 (c) Colorado communities deserve early, meaningful, accessible,
+15 and ongoing engagement regarding the siting and permitting of major
+16 clean energy facilities and associated infrastructure, including clear
+17 information about benefits, impacts, timelines, and safety and emergency
+18 preparedness;
+19 (d) Communities hosting clean energy facilities may realize
+20 significant benefits, including high-quality jobs, workforce pathways,
+-3- SB26-033
+
+1 expanded tax bases, and supply chain development, but also may face
+2 impacts that require mitigation, planning, and sustained partnership;
+3 (e) Colorado's coal transition communities and communities with
+4 brownfield sites have unique opportunities and needs and should be
+5 prioritized for planning support, reuse of existing infrastructure, and
+6 job-creating investment;
+7 (f) Safety and emergency preparedness are fundamental to public
+8 trust. For nuclear energy facilities, the federal government retains primary
+9 authority for licensing and radiological safety, and Colorado's role is
+10 coordination, preparedness, training, and public communication
+11 consistent with federal law.
+12 (g) Grid reliability and security, including physical security,
+13 cybersecurity, fuel assurance, and security of long-term operations, must
+14 be incorporated early into permitting readiness and community benefit
+15 planning.
+16 (2) Therefore, it is the intent of the general assembly to establish
+17 statewide processes and structures that:
+18 (a) Improve coordination and predictability of clean energy
+19 permitting;
+20 (b) Set minimum community engagement and benefit evaluation
+21 requirements;
+22 (c) Prioritize coal transition communities and brownfield site
+23 redevelopment;
+24 (d) Strengthen safety and emergency preparedness;
+25 (e) Support grid reliability and security; and
+26 (f) Ensure communities are at the forefront of consideration to
+27 bring clean and abundant energy sources to Colorado for a prosperous
+-4- SB26-033
+
+1 and environmentally sustainable future for all.
+2 SECTION 2. In Colorado Revised Statutes, add part 6 to article
+3 38.5 of title 24 as follows:
+4 PART 6
+5 COLORADO CLEAN ENERGY PERMITTING
+6 COORDINATION OFFICE
+7 24-38.5-601. Definitions.
+8 AS USED IN THIS PART 6, UNLESS THE CONTEXT OTHERWISE
+9 REQUIRES:
+10 (1) "APPLICATION COORDINATION MEETING" MEANS THE
+11 COORDINATION MEETING DESCRIBED IN SECTION 24-38.5-603 (1).
+12 (2) "BROWNFIELD SITE" HAS THE MEANING SET FORTH IN 42 U.S.C.
+13 SEC. 9601 (39), AS AMENDED.
+14 (3) "CLEAN ENERGY RESOURCE" HAS THE MEANING SET FORTH IN
+15 SECTION 40-2-125.5 (2)(b)(II).
+16 (4) "COAL TRANSITION COMMUNITY" HAS THE MEANING SET FORTH
+17 IN SECTION 8-83-502 (1).
+18 (5) "COVERED CLEAN ENERGY PROJECT" OR "PROJECT" MEANS A
+19 PROJECT FOR THE CONSTRUCTION, EXPANSION, REPOWERING, OR MATERIAL
+20 MODIFICATION OF A CLEAN ENERGY RESOURCE FACILITY, INCLUDING
+21 ASSOCIATED INTERCONNECTION AND ON-SITE ENABLING FACILITIES.
+22 (6) "HOST COMMUNITY" MEANS A LOCAL GOVERNMENT:
+23 (a) WITH JURISDICTION OVER A COVERED CLEAN ENERGY PROJECT;
+24 OR
+25 (b) THAT THE OWNER OR OPERATOR OF A COVERED CLEAN ENERGY
+26 PROJECT DETERMINES IS LIKELY TO EXPERIENCE DIRECT AND SIGNIFICANT
+27 IMPACTS FROM THE COVERED CLEAN ENERGY PROJECT DUE TO PROXIMITY,
+-5- SB26-033
+
+1 THE USE OF ACCESS ROUTES, OR CONSTRUCTION-RELATED IMPACTS,
+2 INCLUDING ROAD CLOSURES AND NOISE IMPACTS.
+3 (7) "LOCAL GOVERNMENT" MEANS A CITY, COUNTY, CITY AND
+4 COUNTY, SPECIAL DISTRICT, OR OTHER POLITICAL SUBDIVISION OF THE
+5 STATE.
+6 (8) "MATERIAL MODIFICATION" MEANS A CHANGE TO A PROJECT
+7 FACILITY OR SITE THAT IS REASONABLY LIKELY TO RESULT IN A
+8 SIGNIFICANT CHANGE IN:
+9 (a) NAMEPLATE GENERATING CAPACITY OR THERMAL OUTPUT;
+10 (b) THE FACILITY OR SITE FOOTPRINT OR ON-SITE
+11 INFRASTRUCTURE;
+12 (c) SAFETY-RELATED SYSTEMS OR EMERGENCY PLANNING
+13 ASSUMPTIONS; OR
+14 (d) TRANSPORTATION, CONSTRUCTION, OR OPERATIONAL IMPACTS
+15 TO A HOST COMMUNITY.
+16 (9) "OFFICE" MEANS THE COLORADO CLEAN ENERGY PERMITTING
+17 COORDINATION OFFICE CREATED IN SECTION 24-38.5-602 (1).
+18 (10) "PERMITTING AUTHORITY" MEANS A STATE AGENCY, BOARD,
+19 COMMISSION, DEPARTMENT, OFFICE, OR DIVISION THAT ISSUES, DENIES,
+20 CONDITIONS, OR ENFORCES A STATE PERMIT, CERTIFICATION,
+21 AUTHORIZATION, LEASE, RIGHT-OF-WAY, OR APPROVAL APPLICABLE TO A
+22 COVERED CLEAN ENERGY PROJECT.
+23 (11) "PUBLIC DASHBOARD" MEANS A PUBLIC DASHBOARD FOR AN
+24 OWNER OR OPERATOR OF A COVERED CLEAN ENERGY PROJECT, AS
+25 DESCRIBED IN SECTION 24-38.5-610 (1).
+26 24-38.5-602. Colorado clean energy permitting coordination
+27 office - creation - duties.
+-6- SB26-033
+
+1 (1) THERE IS CREATED IN THE COLORADO ENERGY OFFICE THE
+2 COLORADO CLEAN ENERGY PERMITTING COORDINATION OFFICE.
+3 (2) THE DIRECTOR OF THE COLORADO ENERGY OFFICE SHALL
+4 APPOINT THE DIRECTOR OF THE OFFICE.
+5 (3) THE OFFICE SHALL:
+6 (a) SERVE AS A SINGLE POINT OF CONTACT FOR OWNERS OR
+7 OPERATORS OF A COVERED CLEAN ENERGY PROJECT, LOCAL
+8 GOVERNMENTS, AND PERMITTING AUTHORITIES;
+9 (b) ASSIST IN COORDINATING PERMIT APPLICATIONS FOR A
+10 COVERED CLEAN ENERGY PROJECT;
+11 (c) MAINTAIN PUBLIC DASHBOARDS;
+12 (d) PROVIDE TECHNICAL ASSISTANCE TO PERMITTING AUTHORITIES,
+13 LOCAL GOVERNMENTS, LOCAL PERMITTING OFFICES, AND FEDERALLY
+14 RECOGNIZED TRIBAL GOVERNMENTS;
+15 (e) DEVELOP MODEL COMMUNITY BENEFIT AGREEMENT TERMS
+16 PURSUANT TO SECTION 24-38.5-606 (3); AND
+17 (f) COORDINATE WITH WORKFORCE AND ECONOMIC DEVELOPMENT
+18 PARTNERS.
+19 (4) THE AUTHORITY GRANTED TO THE OFFICE PURSUANT TO THIS
+20 PART 6 DOES NOT PREEMPT THE AUTHORITY OF A PERMITTING AUTHORITY,
+21 LOCAL GOVERNMENT, OR FEDERALLY RECOGNIZED TRIBE AND DOES NOT
+22 SUPERSEDE FEDERAL JURISDICTION OVER NUCLEAR FACILITY LICENSING
+23 AND RADIOLOGICAL SAFETY REGULATIONS.
+24 24-38.5-603. Application coordination meeting - coordinated
+25 permitting schedule.
+26 (1) AT THE REQUEST OF AN OWNER OR OPERATOR OF A COVERED
+27 CLEAN ENERGY PROJECT OR HOST COMMUNITY, THE OFFICE SHALL
+-7- SB26-033
+
+1 CONVENE A MEETING TO COORDINATE THE FILING OF APPLICATIONS FOR
+2 PERMITS FOR THE COVERED CLEAN ENERGY PROJECT, WHICH MEETING MAY
+3 ALSO INCLUDE RELEVANT PERMITTING AUTHORITIES AND LOCAL
+4 GOVERNMENTS, FEDERALLY RECOGNIZED TRIBAL GOVERNMENTS, AND
+5 UTILITIES, AS APPLICABLE.
+6 (2) FOLLOWING AN APPLICATION COORDINATION MEETING, THE
+7 OFFICE SHALL PREPARE A COORDINATED PERMITTING SCHEDULE FOR THE
+8 COVERED CLEAN ENERGY PROJECT THAT IDENTIFIES, TO THE EXTENT
+9 KNOWN, THE FEDERAL, STATE, AND LOCAL GOVERNMENT PERMITS AND
+10 APPROVALS LIKELY TO BE REQUIRED, KEY INFORMATION NEEDS,
+11 ANTICIPATED REVIEW MILESTONES, AND OPPORTUNITIES FOR CONCURRENT
+12 REVIEW BY PERMITTING AUTHORITIES AND OTHER PARTIES REVIEWING
+13 PERMIT APPLICATIONS.
+14 (3) TO THE GREATEST EXTENT PRACTICABLE AND CONSISTENT
+15 WITH APPLICABLE LAW, IN REVIEWING AN APPLICATION FOR A COVERED
+16 CLEAN ENERGY PROJECT, PERMITTING AUTHORITIES SHALL COORDINATE
+17 THEIR REVIEWS, SHARE NONCONFIDENTIAL INFORMATION WITH EACH
+18 OTHER, AND IDENTIFY A SINGLE POINT OF CONTACT. A COORDINATED
+19 PERMITTING SCHEDULE IS INFORMATIONAL AND DOES NOT MODIFY
+20 APPLICABLE LAW.
+21 (4) THE OFFICE MAY:
+22 (a) FACILITATE ISSUE RESOLUTION AMONG THE PARTIES
+23 PARTICIPATING IN AN APPLICATION COORDINATION MEETING AND OTHER
+24 PARTIES INVOLVED IN THE REVIEW OF PERMIT APPLICATIONS FOR A
+25 COVERED CLEAN ENERGY PROJECT; AND
+26 (b) PROVIDE TECHNICAL ASSISTANCE ON PROCESS AND
+27 SEQUENCING FOR A PROJECT.
+-8- SB26-033
+
+1 (5) THE OFFICE SHALL NOT DIRECT THE OUTCOME OF ANY
+2 PERMITTING DECISION.
+3 24-38.5-604. Local government and tribal participation - best
+4 practices.
+5 (1) A LOCAL GOVERNMENT OR FEDERALLY RECOGNIZED TRIBAL
+6 GOVERNMENT MAY PARTICIPATE IN ACTIVITIES DESCRIBED IN THIS PART 6
+7 ON A VOLUNTARY BASIS.
+8 (2) THE OFFICE SHALL MODEL BEST PRACTICES FOR LOCAL
+9 PERMITTING COORDINATION, INCLUDING STANDARDS FOR TRANSPARENT
+10 SCHEDULES, CONSOLIDATED PUBLIC INFORMATION, AND ALIGNMENT OF
+11 ENGAGEMENT PROCESSES WHERE FEASIBLE.
+12 (3) NOTHING IN THIS PART 6 LIMITS OR EXPANDS LOCAL LAND USE
+13 AUTHORITY OR TRIBAL SOVEREIGNTY.
+14 24-38.5-605. Community engagement plans.
+15 (1) EFFECTIVE JULY 1, 2027, AN OWNER OR OPERATOR OF A
+16 COVERED CLEAN ENERGY PROJECT SHALL SUBMIT A COMMUNITY
+17 ENGAGEMENT PLAN TO THE OFFICE AND TO THE RELEVANT PERMITTING
+18 AUTHORITY OR AUTHORITIES. A PERMITTING AUTHORITY MAY DEEM AN
+19 APPLICATION INCOMPLETE UNTIL A COMMUNITY ENGAGEMENT PLAN IS
+20 SUBMITTED TO THE PERMITTING AUTHORITY.
+21 (2) (a) UNLESS GRANTED AN EXTENSION PURSUANT TO
+22 SUBSECTION (2)(b) OF THIS SECTION, AN OWNER OR OPERATOR OF A
+23 COVERED CLEAN ENERGY PROJECT SHALL SUBMIT A COMMUNITY
+24 ENGAGEMENT PLAN TO THE OFFICE AND TO THE APPLICABLE PERMITTING
+25 AUTHORITY OR AUTHORITIES AT LEAST NINETY DAYS BEFORE THE OWNER
+26 OR OPERATOR SUBMITS THE FIRST STATE PERMIT APPLICATION FOR THE
+27 COVERED CLEAN ENERGY PROJECT.
+-9- SB26-033
+
+1 (b) THE OFFICE MAY GRANT AN OWNER OR OPERATOR OF A
+2 COVERED CLEAN ENERGY PROJECT AN EXTENSION TO SUBMIT A
+3 COMMUNITY ENGAGEMENT PLAN FOR GOOD CAUSE SHOWN.
+4 (3) AT A MINIMUM, A COMMUNITY ENGAGEMENT PLAN MUST:
+5 (a) IDENTIFY HOST COMMUNITIES;
+6 (b) DESCRIBE AT LEAST TWO PUBLIC MEETINGS THAT THE OWNER
+7 OR OPERATOR OF THE COVERED CLEAN ENERGY PROJECT HAS CONDUCTED
+8 OR WILL BE CONDUCTING, WHICH MEETINGS MUST BE AT ACCESSIBLE
+9 TIMES AND LOCATIONS, ALLOW REMOTE ACCESS, AND PROVIDE DISABILITY
+10 ACCOMMODATIONS;
+11 (c) DESCRIBE THE OWNER OR OPERATOR'S PLAN TO PROVIDE
+12 TIMELY INFORMATION ABOUT THE PROJECT THROUGH A WEBSITE AND A
+13 QUESTION-AND-RESPONSE MECHANISM THROUGH THE WEBSITE;
+14 (d) IDENTIFY A COMMUNITY LIAISON; AND
+15 (e) DESCRIBE HOW COMMUNITY ENGAGEMENT WILL BE
+16 DOCUMENTED AND SUMMARIZED BY THE OWNER OR OPERATOR.
+17 24-38.5-606. Community benefit agreements.
+18 (1) EFFECTIVE JULY 1, 2027, AN OWNER OR OPERATOR OF A
+19 COVERED CLEAN ENERGY PROJECT SHALL PREPARE A COMMUNITY BENEFIT
+20 AGREEMENT AND SUBMIT THE COMMUNITY BENEFIT AGREEMENT TO THE
+21 OFFICE AND TO THE PARTIES PARTICIPATING IN THE APPLICATION
+22 COORDINATION MEETING, IF ANY.
+23 (2) AT A MINIMUM, A COMMUNITY BENEFIT AGREEMENT MUST
+24 ADDRESS THE FOLLOWING CONCERNING THE PROJECT:
+25 (a) JOBS AND WORKFORCE DEVELOPMENT;
+26 (b) TAX AND FISCAL IMPACTS;
+27 (c) SUPPLY CHAIN NEEDS AND COLORADO PROCUREMENT
+-10- SB26-033
+
+1 OPPORTUNITIES;
+2 (d) COMMUNITY IMPACTS AND MITIGATION, INCLUDING HOUSING
+3 AND TRANSPORTATION IMPACTS DURING CONSTRUCTION;
+4 (e) LONG-TERM OPERATIONS, MAINTENANCE, DECOMMISSIONING,
+5 AND SITE RESTORATION CONCEPTS; AND
+6 (f) SAFETY AND EMERGENCY PREPAREDNESS SUPPORT.
+7 (3) THE OFFICE SHALL DEVELOP MODEL COMMUNITY BENEFIT
+8 AGREEMENT TERMS FOR A COVERED CLEAN ENERGY PROJECT, WHICH THE
+9 OFFICE SHALL POST ON THE COVERED CLEAN ENERGY PROJECT'S PUBLIC
+10 DASHBOARD OR THE OFFICE'S WEBSITE IF THE COVERED CLEAN ENERGY
+11 PROJECT DOES NOT HAVE A PUBLIC DASHBOARD.
+12 (4) FOR COVERED CLEAN ENERGY PROJECTS LOCATED IN COAL
+13 TRANSITION COMMUNITIES OR ON BROWNFIELD SITES OR FOR WHICH THE
+14 OWNER OR OPERATOR SEEKS STATE FINANCIAL ASSISTANCE, THE OWNER
+15 OR OPERATOR OF THE PROJECT SHALL NEGOTIATE IN GOOD FAITH TOWARD
+16 EXECUTING A SIGNED COMMUNITY BENEFIT AGREEMENT WITH HOST
+17 COMMUNITIES.
+18 (5) A COMMUNITY BENEFIT AGREEMENT MAY ADDRESS, AS
+19 APPLICABLE, LOCAL BUSINESS OPPORTUNITIES, INCLUDING OPPORTUNITIES
+20 FOR SMALL AND DIVERSE BUSINESSES; WORKFORCE STANDARDS AND
+21 PATHWAYS, INCLUDING APPRENTICESHIP UTILIZATION AND TARGETED
+22 HIRING; WORKER SAFETY TRAINING EXPECTATIONS; COMMUNITY
+23 INVESTMENTS AND MITIGATION; EMERGENCY MANAGEMENT SUPPORT; AND
+24 MEASURABLE REPORTING COMMITMENTS.
+25 (6) NOTHING IN THIS SECTION REQUIRES A PERMITTING AUTHORITY
+26 TO DENY A PERMIT SOLELY BECAUSE A COMMUNITY BENEFIT AGREEMENT
+27 HAS NOT BEEN EXECUTED, BUT THE PERMITTING AUTHORITY MAY
+-11- SB26-033
+
+1 CONSIDER THE LACK OF AN EXECUTED COMMUNITY BENEFIT AGREEMENT
+2 TO THE EXTENT THE PERMITTING AUTHORITY IS OTHERWISE AUTHORIZED
+3 BY LAW TO CONSIDER COMMUNITY IMPACTS AND MITIGATION.
+4 24-38.5-607. Coal community and brownfield priority -
+5 inventory.
+6 (1) THE OFFICE SHALL PRIORITIZE TECHNICAL ASSISTANCE AND
+7 PERMITTING READINESS SUPPORT FOR COVERED CLEAN ENERGY PROJECTS
+8 THAT REPOWER OR REUSE RETIRED OR RETIRING FOSSIL FUEL GENERATION
+9 SITES, ARE LOCATED IN COAL TRANSITION COMMUNITIES, OR ARE LOCATED
+10 ON BROWNFIELD SITES.
+11 (2) ON OR BEFORE DECEMBER 1, 2027, THE OFFICE SHALL PUBLISH
+12 ON THE OFFICE'S WEBSITE AND UPDATE ANNUALLY AN INVENTORY
+13 IDENTIFYING COAL PLANT AND INDUSTRIAL SITES AND BROWNFIELD SITES
+14 SUITABLE FOR REDEVELOPMENT FOR CLEAN ENERGY RESOURCE FACILITIES
+15 AND OTHER KEY INFRASTRUCTURE CONSIDERATIONS. THE INVENTORY IS
+16 INFORMATIONAL AND DOES NOT DESIGNATE OR COMPEL A LOCATION FOR
+17 THE SITING OF A COVERED CLEAN ENERGY PROJECT.
+18 24-38.5-608. Safety and emergency preparedness plans.
+19 (1) EFFECTIVE JULY 1, 2027, AN OWNER OR OPERATOR OF A
+20 COVERED CLEAN ENERGY PROJECT SHALL:
+21 (a) DEVELOP AND SUBMIT TO THE OFFICE A SAFETY AND
+22 EMERGENCY PREPAREDNESS PLAN PROPORTIONATE TO PROJECT TYPE,
+23 SCALE, AND RISK; AND
+24 (b) COORDINATE WITH RELEVANT LOCAL EMERGENCY
+25 MANAGEMENT AGENCIES AND THE DIVISION OF HOMELAND SECURITY AND
+26 EMERGENCY MANAGEMENT CREATED IN SECTION 24-33.5-1603 IN
+27 IMPLEMENTING THE SAFETY AND EMERGENCY PREPAREDNESS PLAN.
+-12- SB26-033
+
+1 (2) A SAFETY AND EMERGENCY PREPAREDNESS PLAN DEVELOPED
+2 BY AN OWNER OR OPERATOR OF A NUCLEAR ENERGY PROJECT MUST
+3 DESCRIBE COMPLIANCE WITH FEDERAL LICENSING AND EMERGENCY
+4 PLANNING PROCESSES, TRAINING AND EXERCISE NEEDS FOR LOCAL FIRST
+5 RESPONDERS AND EMERGENCY MANAGERS, COMMUNICATIONS
+6 PROTOCOLS, AND PROPOSED SUPPORT FOR LOCAL PREPAREDNESS
+7 CAPABILITY.
+8 (3) THE OFFICE SHALL POST A SAFETY AND EMERGENCY
+9 PREPAREDNESS PLAN SUBMITTED TO THE OFFICE PURSUANT TO
+10 SUBSECTION (1)(a) OF THIS SECTION ON THE COVERED CLEAN ENERGY
+11 PROJECT'S PUBLIC DASHBOARD OR THE OFFICE'S WEBSITE IF THE COVERED
+12 CLEAN ENERGY PROJECT DOES NOT HAVE A PUBLIC DASHBOARD.
+13 (4) NOTHING IN THIS PART 6 SUPERSEDES THE AUTHORITY OF THE
+14 FEDERAL NUCLEAR REGULATORY COMMISSION OR OTHER FEDERAL
+15 AGENCIES WITH JURISDICTION OVER NUCLEAR FACILITY LICENSING,
+16 SAFETY, OR SECURITY.
+17 24-38.5-609. Grid reliability and security statement -
+18 coordination with public utilities commission and utilities.
+19 (1) EFFECTIVE NOVEMBER 1, 2027, AN OWNER OR OPERATOR OF A
+20 COVERED CLEAN ENERGY PROJECT SHALL SUBMIT TO THE OFFICE A GRID
+21 RELIABILITY AND SECURITY STATEMENT DESCRIBING INTERCONNECTION
+22 STATUS, EXPECTED CONTRIBUTION TO GRID RELIABILITY AND RESILIENCE,
+23 CYBERSECURITY AND PHYSICAL SECURITY PRACTICES APPROPRIATE TO
+24 CRITICAL INFRASTRUCTURE, AND LONG-TERM OPERATIONS AND
+25 MAINTENANCE PLANNING.
+26 (2) THE OFFICE SHALL COORDINATE WITH THE PUBLIC UTILITIES
+27 COMMISSION AND UTILITIES AS APPROPRIATE TO ALIGN PERMITTING
+-13- SB26-033
+
+1 READINESS WITH GRID RELIABILITY NEEDS.
+2 24-38.5-610. Public dashboard - annual report - metrics.
+3 (1) THE OFFICE SHALL DEVELOP AND MAINTAIN A PUBLIC
+4 DASHBOARD ON THE OFFICE'S WEBSITE FOR AN OWNER OR OPERATOR OF A
+5 COVERED CLEAN ENERGY PROJECT THAT RECEIVES A COORDINATED
+6 PERMITTING SCHEDULE PURSUANT TO SECTION 24-38.5-603 (2) OR THAT
+7 RECEIVES STATE TECHNICAL ASSISTANCE FROM THE OFFICE.
+8 (2) NOTWITHSTANDING SECTION 24-1-136 (11)(a)(I), ON OR
+9 BEFORE DECEMBER 1, 2027, AND ON OR BEFORE EACH DECEMBER 1
+10 THEREAFTER, THE OFFICE SHALL SUBMIT AN ANNUAL REPORT TO THE
+11 ENERGY AND ENVIRONMENT COMMITTEE OF THE HOUSE OF
+12 REPRESENTATIVES AND THE TRANSPORTATION AND ENERGY COMMITTEE
+13 OF THE SENATE, OR ANY SUCCESSOR COMMITTEES, SUMMARIZING
+14 PROGRAM METRICS, COMMUNITY ENGAGEMENT LESSONS LEARNED, COAL
+15 COMMUNITY AND BROWNFIELD SITE READINESS ACTIVITIES, GRID
+16 RELIABILITY AND SECURITY STATEMENTS SUBMITTED TO THE OFFICE
+17 PURSUANT TO SECTION 24-38.5-609 (1), SAFETY AND EMERGENCY
+18 PREPAREDNESS COORDINATION ACTIVITIES, AND RECOMMENDATIONS FOR
+19 IMPROVEMENTS.
+20 24-38.5-611. Repeal of part - sunset review.
+21 (1) THIS PART 6 IS REPEALED, EFFECTIVE SEPTEMBER 1, 2031.
+22 (2) BEFORE THE REPEAL, THIS PART 6 IS SCHEDULED FOR REVIEW
+23 IN ACCORDANCE WITH SECTION 24-34-104.
+24 SECTION 3. In Colorado Revised Statutes, 24-34-104, add
+25 (32)(a)(XVI) as follows:
+26 24-34-104. General assembly review of regulatory agencies
+27 and functions for repeal, continuation, or reestablishment - legislative
+-14- SB26-033
+
+1 declaration - repeal.
+2 (32) (a) The following agencies, functions, or both, are scheduled
+3 for repeal on September 1, 2031:
+4 (XVI) THE COLORADO CLEAN ENERGY PERMITTING COORDINATION
+5 OFFICE CREATED IN SECTION 24-38.5-602 (1).
+6 SECTION 4. Act subject to petition - effective date -
+7 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+8 the expiration of the ninety-day period after final adjournment of the
+9 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+10 2026); except that, if a referendum petition is filed pursuant to section 1
+11 (3) of article V of the state constitution against this act or an item, section,
+12 or part of this act within such period, then the act, item, section, or part
+13 will not take effect unless approved by the people at the general election
+14 to be held in November 2026 and, in such case, will take effect on the
+15 date of the official declaration of the vote thereon by the governor.
+16 (2) This act applies to covered clean energy projects proposed on
+17 or after the applicable effective date of this act.
+-15- SB26-033

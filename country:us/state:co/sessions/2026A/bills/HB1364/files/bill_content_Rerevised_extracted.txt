@@ -1,0 +1,322 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0930.01 Pierce Lively x2059 HOUSE BILL 26-1364
+House Committees Senate Committees
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE CALCULATION OF THE CONSUMER PRICE INDEX FOR
+102 THE 2025 CALENDAR YEAR, AND, IN CONNECTION THEREWITH,
+103 MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. The United States bureau of labor
+statistics (BLS) determines the consumer price index (CPI) for each
+month. At the end of a year, the BLS determines the CPI for that year by
+averaging the CPI for each month in the year. However, as of March
+2026, the BLS did not determine the CPI for the month of October and
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,61
+lirpA
+6202
+,51
+lirpA
+6202
+,11
+lirpA
+6202
+,9
+lirpA
+HOUSE SPONSORSHIP
+Sirota and Taggart, Brown,
+SENATE SPONSORSHIP
+Bridges and Kirkmeyer, Amabile
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+then determined inflation for 2025 by averaging the CPI for every month
+besides October in 2025. The BLS's approach to determining the CPI for
+2025 overweighted the CPI of the first half of 2025 relative to the second
+half of 2025, since the BLS included each month from the first half of
+2025 and only 5 of the 6 months in the second half of 2025, in
+determining the CPI for 2025.
+The bill, for 2025 only, determines the CPI for 2025 by averaging
+the 2 semi-annual BLS CPI determinations for 2025. This approach gives
+equal weight to the CPI from the first and second halves of 2025.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add article 118 to
+3 title 24 as follows:
+4 ARTICLE 118
+5 Consumer Price Index for Calendar Year 2025
+6 24-118-101. Consumer price index.
+7 (1) NOTWITHSTANDING ANY LAW TO THE CONTRARY, FOR THE
+8 PURPOSES OF CALCULATING THE CONSUMER PRICE INDEX FOR THE 2025
+9 CALENDAR YEAR AS NECESSARY TO COMPARE THE CONSUMER PRICE INDEX
+10 FOR 2025 TO THE CONSUMER PRICE INDEX FOR 2024 AND AS NECESSARY
+11 TO COMPARE THE CONSUMER PRICE INDEX FOR 2026 TO THE CONSUMER
+12 PRICE INDEX FOR 2025, THE CONSUMER PRICE INDEX IS DETERMINED BY
+13 AVERAGING THE TWO SEMI-ANNUAL REPORTS PRODUCED BY THE UNITED
+14 STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS FOR THE
+15 2025 CALENDAR YEAR FOR THE RELEVANT REGION IN THE FOLLOWING
+16 SECTIONS:
+17 (a) IN TITLE 4:
+18 (I) SECTION 4-9-625;
+19 (b) IN TITLE 6:
+20 (I) SECTION 6-1-112;
+-2- 1364
+
+1 (c) IN TITLE 8:
+2 (I) SECTION 8-6-101.5; AND
+3 (II) SECTION 8-73-116;
+4 (d) IN TITLE 10:
+5 (I) SECTION 10-16-104; AND
+6 (II) SECTION 10-16-1401;
+7 (e) IN TITLE 12:
+8 (I) SECTION 12-30-102;
+9 (II) SECTION 12-115-121;
+10 (III) SECTION 12-220-310;
+11 (IV) SECTION 12-220-507;
+12 (V) SECTION 12-240-131;
+13 (VI) SECTION 12-255-130;
+14 (VII) SECTION 12-280-139;
+15 (VIII) SECTION 12-280-140;
+16 (IX) SECTION 12-280-142; AND
+17 (X) SECTION 12-315-123;
+18 (f) IN TITLE 13:
+19 (I) SECTION 13-10-113;
+20 (II) SECTION 13-21-102.5;
+21 (III) SECTION 13-21-203.7; AND
+22 (IV) SECTION 13-64-302;
+23 (g) IN TITLE 15:
+24 (I) SECTION 15-1-1106;
+25 (h) IN TITLE 18:
+26 (I) SECTION 18-4-511;
+27 (i) IN TITLE 22:
+-3- 1364
+
+1 (I) SECTION 22-20-114;
+2 (II) SECTION 22-30.5-112;
+3 (III) SECTION 22-30.5-513;
+4 (IV) SECTION 22-32-104;
+5 (V) SECTION 22-32-119;
+6 (VI) SECTION 22-43.7-104;
+7 (VII) SECTION 22-54-103.3; AND
+8 (VIII) SECTION 22-55-102;
+9 (j) IN TITLE 23:
+10 (I) SECTION 23-3.1-306.5; AND
+11 (II) SECTION 23-3.9-302;
+12 (k) IN TITLE 24:
+13 (I) SECTION 24-9-106;
+14 (II) SECTION 24-10-114;
+15 (III) SECTION 24-31-1203;
+16 (IV) SECTION 24-38.5-125;
+17 (V) SECTION 24-38.5-302;
+18 (VI) SECTION 24-65.5-103.7;
+19 (VII) SECTION 24-72-205; AND
+20 (VIII) SECTION 24-77-102;
+21 (l) IN TITLE 25:
+22 (I) SECTION 25-1-134;
+23 (II) SECTION 25-3-103;
+24 (III) SECTION 25-3-105;
+25 (IV) SECTION 25-3.5-208;
+26 (V) SECTION 25-7.5-102;
+27 (VI) SECTION 25-7-122;
+-4- 1364
+
+1 (VII) SECTION 25-8-608;
+2 (VIII) SECTION 25-17-713; AND
+3 (IX) SECTION 25-57-110;
+4
+5 (m) IN TITLE 26.5:
+6 (I) SECTION 26.5-4-203;
+7 (n) IN TITLE 29:
+8 (I) SECTION 29-4-1201;
+9 (o) IN TITLE 30:
+10 (I) SECTION 30-2-102;
+11 (II) SECTION 30-20-604.5; AND
+12 (III) SECTION 30-20-1403;
+13 (p) IN TITLE 31:
+14 (I) SECTION 31-16-101;
+15 (q) IN TITLE 32:
+16 (I) SECTION 32-1-1001;
+17 (II) SECTION 32-9-119;
+18 (III) SECTION 32-13-107;
+19 (IV) SECTION 32-13-110; AND
+20 (V) SECTION 32-14-114;
+21 (r) IN TITLE 33:
+22 (I) SECTION 33-4-102;
+23 (II) SECTION 33-9-203;
+24 (III) SECTION 33-10.5-104.5;
+25 (IV) SECTION 33-12-108; AND
+26 (V) SECTION 33-60-104;
+27 (s) IN TITLE 34:
+-5- 1364
+
+1 (I) SECTION 34-60-135;
+2 (t) IN TITLE 37:
+3 (I) SECTION 37-42-113;
+4 (u) IN TITLE 38:
+5 (I) SECTION 38-12-203.5;
+6 (II) SECTION 38-33.3-116;
+7 (III) SECTION 38-33.3-123; AND
+8 (IV) SECTION 38-37-104;
+9 (v) IN TITLE 39:
+10 (I) SECTION 39-1-104.2;
+11 (II) SECTION 39-2-117;
+12 (III) SECTION 39-3-119.5;
+13 (IV) SECTION 39-22-129;
+14 (V) SECTION 39-22-130;
+15 (VI) SECTION 39-22-543;
+16 (VII) SECTION 39-22-547;
+17 (VIII) SECTION 39-31-101;
+18 (IX) SECTION 39-31-104.5; AND
+19 (X) SECTION 39-37-301;
+20 (w) IN TITLE 40:
+21 (I) SECTION 40-2-104;
+22 (II) SECTION 40-2-135;
+23 (III) SECTION 40-7-105; AND
+24 (IV) SECTION 40-8.7-105.5;
+25 (x) IN TITLE 41:
+26 (I) SECTION 41-3-103;
+27 (y) IN TITLE 42:
+-6- 1364
+
+1 (I) SECTION 42-1-210;
+2 (II) SECTION 42-4-310;
+3 (III) SECTION 42-4-1307; AND
+4 (IV) SECTION 42-5-204;
+5 (z) IN TITLE 43:
+6 (I) SECTION 43-4-218;
+7 (II) SECTION 43-4-804;
+8 (III) SECTION 43-4-805;
+9 (IV) SECTION 43-4-806;
+10 (V) SECTION 43-4-1202; AND
+11 (VI) SECTION 43-4-1302; AND
+12 (aa) IN TITLE 44:
+13 (I) SECTION 44-3-103;
+14 (II) SECTION 44-3-801; AND
+15 (III) SECTION 44-10-803.
+-7- 1364
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUNDS FUNDS FUNDS
+$ $ $ $ $ $
+1 SECTION 2. Appropriation to the department of education for the fiscal year beginning July 1, 2026. Amend as added by House Bill 26-1410 section 2, Part IV (3)(A),
+2 the affected totals, and footnote 13 as follows:
+3 Section 2. Appropriation.
+4 PART IV
+5 DEPARTMENT OF EDUCATION
+6
+7 (3) SCHOOL DISTRICT OPERATIONS
+8 (A) Public School Finance
+9 Administration 2,645,074 2,380,153 264,921a
+10 (17.1 FTE) (1.5 FTE)
+11 Financial Transparency System
+12 Maintenance 97,731 97,731a
+13 (1.0 FTE)
+14 School Finance Audit Payments 3,000,000 3,000,000b
+-8- 1364
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUNDS FUNDS FUNDS
+$ $ $ $ $ $
+1 State Share of Districts' Total
+2 Program Funding 5,567,435,495 4,318,686,861c 1,248,748,634d
+3 5,576,489,047 1,257,802,186d
+4 Extended High School13 4,084,701 4,084,701a
+5 4,088,892 4,088,892a
+6 District Per Pupil
+7 Reimbursements for Juveniles
+8 Held in Jail 10,000 10,000b
+9 At-risk Supplemental Aid 3,504,995 3,504,995a
+10 Contingency Reserve Fund 1,000,000 1,000,000e
+11 5,581,777,996
+12 5,590,835,739
+13
+14 a These amounts shall be from the State Education Fund created in Section 17 (4)(a) of Article IX of the State Constitution. Pursuant to Section 17 (3) of Article IX of the State
+15 Constitution, appropriations from the State Education Fund are not subject to the limitation on fiscal year spending set forth in Section 20 of Article X of the State Constitution.
+-9- 1364
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUNDS FUNDS FUNDS
+$ $ $ $ $ $
+1 b These amounts shall be from the State Public School Fund created in Section 22-54-114 (1), C.R.S., from federal mineral leasing revenues transferred to the State Public School Fund
+2 pursuant to Sections 22-54-114 (1) and 34-63-102 (5.4)(a)(II), C.R.S.
+3 c Of this amount, $1,334,183,145 shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S.
+4 d Of this amount, $1,010,525,540 $1,019,579,092 shall be from the State Education Fund created in Section 17 (4)(a) of Article IX of the State Constitution and $238,223,094 shall be
+5 from the State Public School Fund created in Section 22-54-114 (1), C.R.S. Of the amount appropriated from the State Education Fund, an estimated $213,273,564 is from the Kids
+6 Matter Account created in the State Education Fund pursuant to Section 22-55-103 (6)(b), C.R.S. Pursuant to Section 17 (3) of Article IX of the State Constitution, appropriations from
+7 the portion of the State Education Fund that is not the Kids Matter Account are not subject to the limitation on fiscal year spending set forth in Section 20 of Article X of the State
+8 Constitution.
+9 e This amount shall be from the Contingency Reserve Fund created in Section 22-54-117 (1)(a), C.R.S.
+10
+11
+12 TOTALS PART IV
+13 (EDUCATION) $7,865,396,771 $4,587,560,682a $2,371,461,010b $56,340,311c $850,034,768d
+14 $7,874,454,514 $2,380,518,753b
+15
+16 a Of this amount, $1,334,181,145 shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S.
+-10- 1364
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUNDS FUNDS FUNDS
+$ $ $ $ $ $
+1 b Of this amount, $10,123,822 contains an (I) notation.
+2 c Of this amount, $43,900,000 contains an (I) notation.
+3 d This amount contains an (I) notation.
+4
+5 FOOTNOTES -- The following statements are referenced to the numbered footnotes throughout section 2.
+6
+7 13 Department of Education, School District Operations, Public School Finance, Extended High School -- Pursuant to Section 22-35-108.5 (2)(b)(III), C.R.S.,
+8 the purpose of this footnote is to specify what portion of this appropriation is intended to be available for the Teacher Recruitment Education and Preparation
+9 (TREP) Program for FY 2026-27. It is the General Assembly's intent that the Department of Education be authorized to utilize up to $2,680,250 $2,683,000
+10 of this appropriation to fund qualified students identified as TREP Program participants. This amount is calculated based on an estimated 250 FTE TREP
+11 Program participants funded at a rate of $10,721 $10,732 per FTE pursuant to Section 22-54-103.5 (8), C.R.S., and Section 22-54-104 (4.7), C.R.S.
+-11- 1364
+
+1 SECTION 3. Effective date. This act takes effect upon passage;
+2 except that section 2 of this act takes effect only if House Bill 26-1410
+3 becomes law, in which case section 2 takes effect upon the effective date
+4 of this act or House Bill 26-1410, whichever is later.
+5 SECTION 4. Safety clause. The general assembly finds,
+6 determines, and declares that this act is necessary for the immediate
+7 preservation of the public peace, health, or safety or for appropriations for
+8 the support and maintenance of the departments of the state and state
+9 institutions.
+-12- 1364

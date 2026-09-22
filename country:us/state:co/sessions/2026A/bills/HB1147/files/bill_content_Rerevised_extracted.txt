@@ -1,0 +1,268 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0414.01 Chelsea Princell x4335 HOUSE BILL 26-1147
+House Committees Senate Committees
+Health & Human Services Health & Human Services
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING PROCESSES RELATED TO HOST HOMES FOR INDIVIDUALS
+102 WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES, AND,
+103 IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the department of health care policy and
+financing (HCPF) to establish and the department of public health and
+environment (CDPHE) to utilize risk criteria to identify certain service
+agencies to survey.
+The bill requires CDPHE to prioritize surveys at service agencies
+ETANES
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dr3
+dednemA
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+6202
+,8
+yaM
+6202
+,03
+lirpA
+6202
+,92
+lirpA
+HOUSE SPONSORSHIP
+Brown and Boesenecker, Bacon, Camacho, Clifford, Duran, English, Froelich, Jackson,
+Lieder, Lindsay, Marshall, McCormick, Nguyen, Ricks, Rutinel, Stewart R., Titone, Zokaie
+SENATE SPONSORSHIP
+Cutter, Gonzales J., Jodeh, Kipp
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that have a higher risk rating based on the risk criteria established by
+HCPF.
+The bill requires HCPF to establish a statewide database
+containing information about host homes and their associated service
+agencies. The database must be made available and accessible by host
+home providers, service agencies, and CDPHE and must be made
+available for viewing by the public.
+The bill requires HCPF to make a complaint form publicly
+available on its website for use by the public and requires the website to
+allow a person to submit a complaint electronically.
+The bill requires HCPF to establish a process for tracking the
+status of each complaint filed and any records associated with that
+complaint.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Within the continuum of individual residential services and
+5 supports settings, host homes are a specific type of supported living
+6 arrangement in which an individual with intellectual and developmental
+7 disabilities resides in the private residence of a host home provider whose
+8 home is under contract with a service provider agency to deliver
+9 individual residential services and supports;
+10 (b) Host homes are a subset of individual residential services and
+11 supports settings;
+12 (c) Individual residential services and supports are home- and
+13 community-based service benefits available under the home- and
+14 community-based services waiver administered by the Colorado
+15 department of health care policy and financing;
+16 (d) Individual residential services and supports are designed to
+17 ensure that individuals with intellectual and developmental disabilities
+18 receive residential supports that promote individualized guidance,
+-2- 1147
+
+1 habilitation, community inclusion, and health and safety in home settings;
+2 (e) Individual residential services and supports include a variety
+3 of residential arrangements, including service provider agency-owned or
+4 leased homes and host homes, among other arrangements, to meet the
+5 unique needs and preferences of participants;
+6 (f) The diversity of individual residential services and supports
+7 settings, including host homes and other residential options, reflects the
+8 state's commitment to person-centered choice, integration in community
+9 life, and compliance with the federal home- and community-based
+10 services rules that prohibit institutionalization and support
+11 community-based placement;
+12 (g) While individual residential services and supports settings,
+13 including host homes, currently operate under regulatory oversight, there
+14 are identified needs for enhanced tracking, monitoring, and coordination
+15 to ensure consistent compliance with health, safety, and quality standards
+16 and to provide appropriate protections for participants across all settings;
+17 (h) Further, the Colorado department of health care policy and
+18 financing must allow for appropriate parties to access relevant
+19 information in order to enable a more informed choice by participants or
+20 potential participants and their families, advocates, and other interested
+21 parties;
+22 (i) The Colorado department of health care policy and financing
+23 and the Colorado department of public health and environment must
+24 coordinate to establish standardized requirements for the oversight of host
+25 homes and other individual residential services and supports settings,
+26 including inspection frequency, reporting mechanisms, data sharing, and
+27 corrective action processes where appropriate; and
+-3- 1147
+
+1 (j) This coordinated oversight framework is necessary to
+2 strengthen accountability, ensure health and safety outcomes for home-
+3 and community-based services waiver participants, support compliance
+4 with state and federal home- and community-based services rules, and
+5 promote transparency for individuals, families, providers, and
+6 stakeholders.
+7 SECTION 2. In Colorado Revised Statutes, add 25.5-6-414 as
+8 follows:
+9 25.5-6-414. Individual residential services and supports
+10 settings for persons with intellectual and developmental disabilities
+11 - statewide database - risk criteria - complaint process - rules -
+12 definitions.
+13 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+14 REQUIRES:
+15 (a) "INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS" MEANS
+16 THE RESIDENTIAL SERVICES PROVIDED BY A SERVICE PROVIDER AGENCY TO
+17 NO MORE THAN THREE INDIVIDUALS WITHIN ONE RESIDENCE.
+18 (b) "INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS SETTING"
+19 MEANS A COMMUNITY LIVING RESIDENTIAL SETTING IN WHICH INDIVIDUAL
+20 RESIDENTIAL SERVICES AND SUPPORTS ARE PROVIDED TO NO MORE THAN
+21 THREE PERSONS WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES
+22 AND FOR WHICH A STATE LICENSE IS NOT REQUIRED.
+23 (c) "SERVICE PROVIDER AGENCY" MEANS AN ORGANIZATION
+24 APPROVED BY THE STATE DEPARTMENT TO PROVIDE OVERSIGHT AND
+25 SUPPORT TO AN INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS
+26 SETTING TO ENSURE THAT THE CAREGIVERS MEET STATE STANDARDS FOR
+27 HEALTH, SAFETY, AND QUALITY OF CARE.
+-4- 1147
+
+1 (2) (a) THE STATE DEPARTMENT SHALL ESTABLISH A STATEWIDE
+2 DATABASE TO ENHANCE THE TRANSPARENCY OF COLORADO'S INDIVIDUAL
+3 RESIDENTIAL SERVICES AND SUPPORTS NETWORK. THE PURPOSE OF THE
+4 STATEWIDE DATABASE IS TO PROVIDE ACCURATE INFORMATION ABOUT
+5 CERTAIN INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS SETTINGS AND
+6 THEIR ASSOCIATED SERVICE PROVIDER AGENCIES.
+7 (b) THE DATABASE IS FOR USE BY THE STATE DEPARTMENT, THE
+8 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT, AND SERVICE
+9 PROVIDER AGENCIES.
+10 (c) THE DATABASE MUST INCLUDE INFORMATION ON INDIVIDUAL
+11 RESIDENTIAL SERVICES AND SUPPORTS SETTINGS. THE STATE DEPARTMENT
+12 SHALL DETERMINE WHAT INFORMATION MUST BE COLLECTED ON EACH
+13 INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS SETTING TYPE FOR
+14 INCLUSION IN THE DATABASE. AT A MINIMUM, EACH SERVICE PROVIDER
+15 AGENCY MUST SUBMIT THE FOLLOWING INFORMATION FOR EACH COVERED
+16 INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS SETTING THAT THE
+17 SERVICE PROVIDER AGENCY OVERSEES:
+18 (I) THE NAME AND CONTACT INFORMATION OF THE INDIVIDUAL
+19 RESIDENTIAL SERVICES AND SUPPORTS SETTING, IF APPLICABLE;
+20 (II) THE ADDRESS AND LOCATION OF THE INDIVIDUAL RESIDENTIAL
+21 SERVICES AND SUPPORTS SETTING;
+22 (III) THE NAME OF EACH SERVICE PROVIDER AGENCY THAT THE
+23 INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS SETTING IS CURRENTLY
+24 ASSOCIATED WITH AND THE SERVICE PROVIDER AGENCY'S CONTACT
+25 INFORMATION; AND
+26 (IV) WHEN APPLICABLE, THE NAME OF EACH SERVICE PROVIDER
+27 AGENCY THAT THE INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS
+-5- 1147
+
+1 SETTING CONTRACTED WITH IN THE PREVIOUS FIVE YEARS AND EACH
+2 SERVICE PROVIDER AGENCY'S CONTACT INFORMATION.
+3 (d) BEGINNING JULY 1, 2026, AND QUARTERLY THEREAFTER, A
+4 SERVICE PROVIDER AGENCY SHALL SUBMIT THE INFORMATION DETAILED
+5 IN SUBSECTION (2)(c) OF THIS SECTION TO THE STATE DEPARTMENT.
+6 (e) BEGINNING AUGUST 1, 2026, AND QUARTERLY THEREAFTER,
+7 THE STATE DEPARTMENT SHALL UPDATE THE DATABASE TO ACCURATELY
+8 REFLECT THE INFORMATION SUBMITTED BY A SERVICE PROVIDER AGENCY,
+9 AS REQUIRED BY SUBSECTION (2)(d) OF THIS SECTION. THE STATE
+10 DEPARTMENT SHALL UPDATE THE DATABASE WITHIN ONE MONTH AFTER
+11 RECEIVING THE INFORMATION DETAILED IN SUBSECTION (2)(c) OF THIS
+12 SECTION.
+13 (f) THE STATE DEPARTMENT SHALL DETERMINE THE
+14 CIRCUMSTANCES IN WHICH INFORMATION FROM THE DATABASE MAY BE
+15 SHARED WITH MEMBERS OF THE PUBLIC, CONSISTENT WITH ALL
+16 APPLICABLE STATE AND FEDERAL PRIVACY AND CONFIDENTIALITY LAWS.
+17 (g) IDENTIFYING INFORMATION FROM RESIDENTIAL HOMES WHERE
+18 RESIDING INDIVIDUALS RECEIVE RESIDENTIAL SERVICES AND SUPPORTS
+19 FROM A FAMILY MEMBER SHALL NOT BE SHARED WITH THE PUBLIC.
+20 (h) INFORMATION FROM THE DATABASE MAY BE PROVIDED TO
+21 APPROPRIATE AND AUTHORIZED PARTIES BY THE SERVICE PROVIDER
+22 AGENCY WHEN CONSIDERING POTENTIAL PLACEMENT.
+23 (5) THE STATE DEPARTMENT MAY ADOPT RULES, AS NECESSARY,
+24 TO CARRY OUT THE REQUIREMENTS OF THIS SECTION.
+25 (6) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO REDUCE,
+26 LIMIT, OR OTHERWISE DIMINISH THE RIGHTS OF INDIVIDUALS RECEIVING
+27 INTELLECTUAL AND DEVELOPMENTAL DISABILITY SERVICES, INCLUDING
+-6- 1147
+
+1 THE RIGHT TO INFORMED CHOICE OF SETTING CONSISTENT WITH FEDERAL
+2 HOME- AND COMMUNITY-BASED SERVICES REQUIREMENTS.
+3 SECTION 3. In Colorado Revised Statutes, 25.5-10-202, amend
+4 (22); and add (21.5) as follows:
+5 25.5-10-202. Definitions.
+6 As used in this article 10, unless the context otherwise requires:
+7 (21.5) "INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS" HAS
+8 THE MEANING SET FORTH IN SECTION 25.5-6-414.
+9 (22) "Independent residential support services" means a
+10 community living situation, defined by rule of the state board, in which
+11 services and supports are provided to no more than three persons with
+12 intellectual and developmental disabilities and for which a state license
+13 is not required. "INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS
+14 SETTING" HAS THE MEANING SET FORTH IN SECTION 25.5-6-414.
+15 SECTION 4. In Colorado Revised Statutes, 25.5-10-214, amend
+16 (1) as follows:
+17 25.5-10-214. Community residential home - licenses - rules.
+18 (1) The department of public health and environment and the state
+19 department shall implement a system of joint licensure and certification
+20 of community residential homes. Independent residential support services
+21 INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS provided by the state
+22 department do not require licensure by the department of public health
+23 and environment. AN INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS
+24 SETTING MUST BE TREATED AS RESIDENTIAL PROPERTY IN THE
+25 APPLICATION OF LOCAL REGULATIONS, INCLUDING ZONING, LAND USE
+26 DEVELOPMENT, FIRE AND LIFE SAFETY, SANITATION, AND BUILDING CODES.
+27 LOCAL GOVERNING AUTHORITIES SHALL NOT IMPOSE ADDITIONAL
+-7- 1147
+
+1 REGULATIONS ON AN INDIVIDUAL RESIDENTIAL SERVICES AND SUPPORTS
+2 SETTING THAT DO NOT APPLY TO OTHER RESIDENTIAL PROPERTIES.
+3 SECTION 5. Appropriation. (1) For the 2026-27 state fiscal
+4 year, $20,000 is appropriated to the department of health care policy and
+5 financing for use by the executive director's office. This appropriation is
+6 from the general fund. To implement this act, the office may use this
+7 appropriation for general professional services and special projects.
+8 (2) For the 2026-27 state fiscal year, the general assembly
+9 anticipates that the department of health care policy and financing will
+10 receive $60,000 in federal funds for the executive director's office to
+11 implement this act. The appropriation in subsection (1) of this section is
+12 based on the assumption that the office will receive this amount of federal
+13 funds, which is subject to the "(I)" notation as defined in the annual
+14 general appropriation act for the same fiscal year.
+15 SECTION 6. Safety clause. The general assembly finds,
+16 determines, and declares that this act is necessary for the immediate
+17 preservation of the public peace, health, or safety or for appropriations for
+18 the support and maintenance of the departments of the state and state
+19 institutions.
+-8- 1147

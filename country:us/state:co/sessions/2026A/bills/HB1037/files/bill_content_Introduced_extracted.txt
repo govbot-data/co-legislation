@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0292.02 Owen Hatch x2698 HOUSE BILL 26-1037
+HOUSE SPONSORSHIP
+Bacon and DeGraaf,
+SENATE SPONSORSHIP
+Cutter,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING PROHIBITING A GOVERNMENT ENTITY FROM OBTAINING
+102 CERTAIN PERSONAL DATA FROM A THIRD PARTY FOR USE BY A
+103 GOVERNMENT ENTITY IN EXCHANGE FOR ANYTHING OF VALUE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits law enforcement and other government entities
+from purchasing, or otherwise obtaining for anything of value, certain
+personal data from third parties. Law enforcement agencies and other
+government entities are also prohibited from sharing individuals' personal
+data between themselves.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Exceptions are created for obtaining personal data, including after
+obtaining a judicial warrant, subpoena, or court order, when an individual
+consents to sharing their data and, in the case of an emergency, involving
+a threat to a person's life or physical safety.
+The bill creates a private cause of action for an individual who has
+their personal data obtained or shared in violation of the prohibitions in
+the bill. Personal data obtained or shared is excluded from trial and other
+court proceedings, subject to certain exceptions.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the "Fourth
+3 Amendment is Not for Sale Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) The fourth amendment to the United States constitution
+7 guarantees that "[t]he right of the people to be secure in their persons,
+8 houses, papers, and effects, against unreasonable searches and seizures,
+9 shall not be violated, and no Warrants shall issue, but upon probable
+10 cause, supported by Oath or affirmation, and particularly describing the
+11 place to be searched, and the persons or things to be seized";
+12 (b) The United States supreme court has observed, "Few
+13 protections are as essential to individual liberty as the right to be free
+14 from unreasonable searches and seizures. The Framers made that right
+15 explicit in the Bill of Rights following their experience with the
+16 indignities and invasions of privacy wrought by general warrants and
+17 warrantless searches that had so alienated the colonists and had helped
+18 speed the movement for independence. Ever mindful of the Fourth
+19 Amendment and its history, the Court has viewed with disfavor practices
+20 that permit police officers unbridled discretion to rummage at will among
+21 a person's private effects." Byrd v. United States, 584 U.S. 395, 402-403
+-2- HB26-1037
+
+1 (2018). Accordingly, "As technology has enhanced the Government's
+2 capacity to encroach upon areas normally guarded from inquisitive eyes,
+3 [the United States Supreme] Court has sought to assure preservation of
+4 that degree of privacy against government that existed when the Fourth
+5 Amendment was adopted." Carpenter v. United States, 585 U.S. 296, 305
+6 (2018).
+7 (c) In People v. Seymour, 536 P.3d 1260 (Colo. 2023), the
+8 Colorado supreme court stated that Colorado is not bound by the United
+9 States supreme court's interpretation of the fourth amendment when
+10 determining the scope of state constitutional protections. The court stated
+11 that article II, section 7 provides even greater privacy protections than the
+12 fourth amendment, and Colorado has "long rejected the third-party
+13 doctrine under that provision of the Colorado Constitution," further
+14 stating that "[g]iven the enduring and related privacy concerns presented
+15 by a search of an individual's online search history, we see no reason to
+16 change course here."
+17 (d) Law enforcement has been able to effectively and efficiently
+18 enforce our criminal laws for more than 230 years without needing to
+19 evade fourth amendment warrant requirements that are essential to
+20 protecting Americans' liberty and privacy in the digital age.
+21 SECTION 3. In Colorado Revised Statutes, add 16-3-303.3 as
+22 follows:
+23 16-3-303.3. Prohibition on the bulk purchase of data from
+24 third parties by law enforcement - evidence inadmissible in court -
+25 definitions.
+26 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+27 REQUIRES:
+-3- HB26-1037
+
+1 (a) "EXCHANGE FOR ANYTHING OF VALUE" MEANS TO OBTAIN OR
+2 RECEIVE ACCESS TO AN ITEM, DATA, OR INFORMATION:
+3 (I) IN EXCHANGE FOR MONEY OR OTHER VALUABLE
+4 CONSIDERATION;
+5 (II) IN CONNECTION WITH SERVICES OR BENEFITS PROVIDED AS
+6 CONSIDERATION; OR
+7 (III) AS PART OF THE PROVISION OF A FEE, INCLUDING AN ACCESS
+8 FEE, SERVICE FEE, MAINTENANCE FEE, OR LICENSING FEE.
+9 (b) "GOVERNMENT ENTITY" HAS THE SAME MEANING SET FORTH
+10 IN SECTION 16-3-303.5, INCLUDING A POLITICAL SUBDIVISION.
+11 (c) "LAW ENFORCEMENT ENTITY" MEANS AN AGENCY OR OTHER
+12 INSTRUMENTALITY OF A GOVERNMENT ENTITY, INCLUDING AN EMPLOYEE
+13 OR AGENT OF THE ENTITY, THAT IS AUTHORIZED BY LAW, REGULATION, OR
+14 GOVERNMENTAL POLICY TO ENGAGE IN OR SUPERVISE THE PREVENTION,
+15 DETECTION, INVESTIGATION, OR PROSECUTION OF A VIOLATION OF
+16 CRIMINAL LAW.
+17 (d) "PERSONAL DATA" MEANS INFORMATION COLLECTED FROM OR
+18 GENERATED BY A SPECIFIC PERSON AS PART OF A CONSUMER TRANSACTION
+19 OR THE USE OF A CONSUMER PRODUCT OR SERVICE, WHETHER THE
+20 INFORMATION WAS COLLECTED BY THE ORIGINAL THIRD PARTY OR
+21 OBTAINED BY A DIFFERENT THIRD PARTY, THAT IS CONNECTED OR
+22 REASONABLY CONNECTED TO THE SPECIFIC PERSON OR THE SPECIFIC
+23 PERSON'S ELECTRONIC DEVICE. PERSONAL DATA INCLUDES, BUT IS NOT
+24 LIMITED TO, A PERSON'S:
+25 (I) NAME;
+26 (II) BILLING INFORMATION OR ADDRESS;
+27 (III) SOCIAL SECURITY NUMBER;
+-4- HB26-1037
+
+1 (IV) HOME ADDRESS;
+2 (V) DEMOGRAPHIC DATA;
+3 (VI) WEB BROWSING OR SEARCH HISTORY;
+4 (VII) APPLICATION USAGE HISTORY;
+5 (VIII) PRECISE GEOLOCATION DATA, AS DEFINED IN SECTION
+6 6-1-1303;
+7 (IX) FINANCIAL INFORMATION;
+8 (X) HEALTH INFORMATION;
+9 (XI) BIOMETRIC IDENTIFIER, AS DEFINED IN SECTION 6-1-1303;
+10 (XII) BIOLOGICAL DATA, AS DEFINED IN SECTION 6-1-1303;
+11 (XIII) CHARACTERISTICS OF PROTECTED CLASSIFICATIONS UNDER
+12 STATE OR FEDERAL LAW;
+13 (XIV) DEVICE IDENTIFIER, INCLUDING A MEDIA ACCESS CONTROL
+14 ADDRESS, INTERNATIONAL MOBILE EQUIPMENT IDENTIFIER, OR INTERNET
+15 PROTOCOL ADDRESS;
+16 (XV) COMMUNICATIONS CONTENT; AND
+17 (XVI) PROFILES OR INFERENCES ABOUT AN INDIVIDUAL BASED ON
+18 DATA POINTS COLLECTED OR ACQUIRED FROM THIRD PARTIES.
+19 (e) "THIRD PARTY" MEANS A PERSON WHO:
+20 (I) IS NOT A GOVERNMENT ENTITY; AND
+21 (II) IS NOT THE PERSON TO WHOM THE PERSONAL DATA PERTAINS.
+22 (f) "WIDELY DISTRIBUTED MEDIA" MEANS CONTENT THAT IS MADE
+23 AVAILABLE TO A LARGE, GENERAL AUDIENCE THROUGH CHANNELS THAT
+24 ALLOW BROAD ACCESS AND REGULAR DISSEMINATION, AS OPPOSED TO
+25 PRIVATE, NICHE, OR RESTRICTED COMMUNICATIONS.
+26 (2) IN CONNECTION WITH A CRIMINAL, CIVIL, OR OTHER
+27 INVESTIGATORY OR ENFORCEMENT ACTIVITY:
+-5- HB26-1037
+
+1 (a) A LAW ENFORCEMENT ENTITY SHALL NOT OBTAIN OR RECEIVE
+2 ACCESS TO AN INDIVIDUAL'S PERSONAL DATA FROM A THIRD PARTY IN
+3 EXCHANGE FOR ANYTHING OF VALUE;
+4 (b) A LAW ENFORCEMENT ENTITY SHALL NOT REQUEST, OBTAIN, OR
+5 RECEIVE ACCESS TO AN INDIVIDUAL'S PERSONAL DATA FROM A FEDERAL,
+6 STATE, OR LOCAL LAW ENFORCEMENT OR OTHER GOVERNMENT AGENCY OR
+7 DEPARTMENT IF THE DATA WAS OBTAINED FROM A THIRD PARTY IN
+8 EXCHANGE FOR ANYTHING OF VALUE;
+9 (c) A LAW ENFORCEMENT ENTITY SHALL NOT SHARE ON A
+10 THIRD-PARTY PLATFORM OR SELL, IN EXCHANGE FOR ANYTHING OF VALUE,
+11 AN INDIVIDUAL'S PERSONAL DATA TO A FEDERAL, STATE, OR LOCAL LAW
+12 ENFORCEMENT OR OTHER GOVERNMENT AGENCY OR DEPARTMENT, OR A
+13 THIRD PARTY IF THE PERSONAL DATA WAS DIRECTLY OR INDIRECTLY
+14 COLLECTED BY THE LAW ENFORCEMENT AGENCY; AND
+15 (d) A GOVERNMENT ENTITY, INCLUDING A LAW ENFORCEMENT
+16 ENTITY, SHALL NOT PROVIDE OR SHARE WITH A FEDERAL, STATE, OR LOCAL
+17 LAW ENFORCEMENT AGENCY OR DEPARTMENT AN INDIVIDUAL'S PERSONAL
+18 DATA OBTAINED FROM A THIRD PARTY IN EXCHANGE FOR ANYTHING OF
+19 VALUE.
+20 (3) SUBSECTION (2) OF THIS SECTION DOES NOT APPLY WHEN:
+21 (a) A LAW ENFORCEMENT ENTITY HAS OBTAINED A VALID JUDICIAL
+22 WARRANT, SUBPOENA, OR COURT ORDER, AND ANY ACCOMPANYING
+23 AFFIDAVIT TO EACH PARTY, PURSUANT TO RULE 16 OF THE COLORADO
+24 RULES OF CRIMINAL PROCEDURE, OR ANY SUCCESSOR RULE, FOR THE
+25 PERSONAL DATA OF THE SPECIFICALLY IDENTIFIED INDIVIDUAL;
+26 (b) THE LAW ENFORCEMENT ENTITY ASSERTS IN GOOD FAITH THAT
+27 AN EMERGENCY SITUATION EXISTS THAT INVOLVES THE RISK OF DEATH OR
+-6- HB26-1037
+
+1 SERIOUS BODILY INJURY TO A PERSON THAT REQUIRES IMMEDIATE
+2 DISCLOSURE;
+3 (c) THE PERSONAL DATA IS LAWFULLY AVAILABLE TO THE PUBLIC
+4 THROUGH GOVERNMENT RECORDS OR WIDELY DISTRIBUTED MEDIA;
+5 (d) THE PERSONAL DATA PERTAINS TO A SPECIFIC INDIVIDUAL, WAS
+6 VOLUNTARILY MADE AVAILABLE TO THE PUBLIC BY THE SPECIFIC
+7 INDIVIDUAL, AND WAS OBTAINED IN COMPLIANCE WITH ALL APPLICABLE
+8 LAWS, REGULATIONS, CONTRACTS, PRIVACY POLICIES, AND TERMS OF
+9 SERVICE;
+10 (e) THE SPECIFIC INDIVIDUAL TO WHOM THE PERSONAL DATA
+11 PERTAINS INTENDED LAW ENFORCEMENT TO BE A RECIPIENT OF THE
+12 PERSONAL DATA, AS EVIDENCED BY CASE-SPECIFIC, EXPRESS CONSENT
+13 FROM THE SPECIFIC INDIVIDUAL;
+14 (f) THE THIRD PARTY PROVIDING THE PERSONAL DATA WAS
+15 AUTHORIZED BY THE SPECIFIC INDIVIDUAL TO WHOM THE PERSONAL DATA
+16 PERTAINS TO PROVIDE THE DATA TO THE LAW ENFORCEMENT ENTITY, AS
+17 EVIDENCED BY CASE-SPECIFIC, EXPRESS CONSENT FROM THE SPECIFIC
+18 INDIVIDUAL; OR
+19 (g) THE PERSONAL DATA IS PROVIDED TO OR BY THE NATIONAL
+20 CENTER FOR MISSING AND EXPLOITED CHILDREN OR ITS SUCCESSOR ENTITY
+21 AND IS RELATED TO AN INVESTIGATION INVOLVING A MISSING OR
+22 EXPLOITED CHILD.
+23 (4) SUBSECTIONS (3)(d) TO (3)(f) OF THIS SECTION DO NOT
+24 VIOLATE SUBSECTION (2) OF THIS SECTION IF THE PERSON MADE THEIR
+25 PERSONAL DATA PUBLICLY AVAILABLE, EVEN IF A LAW ENFORCEMENT
+26 ENTITY PURCHASES THE PERSONAL DATA FROM A THIRD PARTY.
+27 (5) (a) A VIOLATION OF THIS SECTION CONSTITUTES AN INJURY,
+-7- HB26-1037
+
+1 AND A PERSON WHO IS INJURED MAY BRING A LEGAL ACTION FOR
+2 INJUNCTIVE RELIEF, DECLARATORY RELIEF, OR OTHER RELIEF DEEMED
+3 NECESSARY TO ENFORCE THIS SECTION IN A COURT OF COMPETENT
+4 JURISDICTION. A PLAINTIFF MAY SEEK REASONABLE ATTORNEY FEES
+5 PURSUANT TO THIS SECTION.
+6 (b) (I) A COURT SHALL NOT ADMIT PERSONAL DATA ACQUIRED IN
+7 VIOLATION OF THIS SECTION OR EVIDENCE DERIVED FROM THAT
+8 INFORMATION AT A TRIAL, HEARING, OR OTHER PROCEEDING UNLESS THE
+9 PARTY SEEKING TO INTRODUCE THE EVIDENCE PROVIDES A COPY OF THE
+10 VALID JUDICIAL WARRANT, SUBPOENA, OR COURT ORDER AND ANY
+11 ACCOMPANYING AFFIDAVIT TO EACH PARTY PURSUANT TO RULE 16 OF THE
+12 COLORADO RULES OF CRIMINAL PROCEDURE, OR ANY SUCCESSOR RULE.
+13 (II) A COURT MAY WAIVE THE REQUIREMENT IN SUBSECTION
+14 (5)(b)(I) OF THIS SECTION IF THE COURT FINDS THAT IT WAS NOT POSSIBLE
+15 TO PROVIDE A PARTY WITH THE VALID JUDICIAL WARRANT, SUBPOENA, OR
+16 COURT ORDER AND ANY ACCOMPANYING APPLICATION WITHIN THE TIME
+17 REQUIRED BY RULE 16 OF THE COLORADO RULES OF CRIMINAL PROCEDURE,
+18 OR ANY SUCCESSOR RULE, AND THE COURT FINDS THAT THE PARTY WILL
+19 NOT BE PREJUDICED BY THE DELAY IN RECEIVING THE INFORMATION.
+20 SECTION 4. In Colorado Revised Statutes, 16-3-303.5, add (9)
+21 as follows:
+22 16-3-303.5. Location information - search warrant required
+23 - definitions.
+24 (9) NOTHING IN THIS SECTION AUTHORIZES A GOVERNMENT ENTITY
+25 TO OBTAIN LOCATION INFORMATION OF AN ELECTRONIC DEVICE IN
+26 EXCHANGE FOR ANYTHING OF VALUE IN VIOLATION OF SECTION
+27 16-3-303.3.
+-8- HB26-1037
+
+1 SECTION 5. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-9- HB26-1037

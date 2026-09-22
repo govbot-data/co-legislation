@@ -1,0 +1,1315 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0365.01 Jennifer Berman x3286 HOUSE BILL 26-1326
+HOUSE SPONSORSHIP
+Duran and Willford, Goldstein, Joseph, Paschal, Smith, Velasco
+SENATE SPONSORSHIP
+Rodriguez and Cutter,
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING THE CONTINUATION OF THE PUBLIC UTILITIES
+102 COMMISSION, AND, IN CONNECTION THEREWITH, IMPLEMENTING
+103 RECOMMENDATIONS IN THE 2025 SUNSET REPORT BY THE
+104 DEPARTMENT OF REGULATORY AGENCIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Sunset Process - House Energy and Environment Committee.
+The bill implements recommendations of the department of regulatory
+agencies in its 2025 sunset review of the public utilities commission
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(commission) as follows:
+! Sections 1 and 2 of the bill continue the commission for 11
+years to September 1, 2037;
+! Section 3 permits the commission members to engage in
+nonpublic communications regarding adjudicatory matters
+after the close of the evidentiary record if prior notice of
+the communications is provided and the final reasoning and
+determinations of the matter are later made at a public
+hearing;
+! Sections 4 through 9 authorize the commission to send
+communications by email;
+! Sections 10 through 13 modernize certain processes,
+provide additional transparency, and clarify inconsistencies
+in certain energy statutes by:
+! Aligning the renewable energy standard with the
+statutes governing clean energy plans;
+! Directing the commission to perform a study to
+identify any barriers to joint procurement by electric
+utilities with regard to advanced technology
+generation resources;
+! Authorizing the commission to require a
+commission-regulated utility to contract with one or
+more third parties to administer certain
+customer-facing programs; and
+! Clarifying that a municipally owned utility,
+cooperative electric association, independent
+transmission developer, or independent power
+producer may appeal to the commission a local
+government's decision to deny a land use permit or
+application for a major electrical or natural gas
+facility owned by the municipally owned utility,
+cooperative electric association, independent
+transmission developer, or independent power
+producer;
+! Sections 14 through 19 authorize the commission to direct
+investor-owned electric utilities to use securitization
+through the "Colorado Energy Impact Bond Act" as an
+alternative means of financing and recovering costs;
+! Section 20 requires the commission to:
+! Adopt rules standardizing the implementation of the
+various income-based energy assistance programs
+provided by commission-regulated utilities in the
+state; and
+! Conduct a study into commission-regulated utilities'
+income-based energy assistance programs to
+-2- HB26-1326
+
+determine whether funding access and equity can be
+improved in the state;
+! Section 21:
+! Prohibits an individual from impersonating a
+transportation network company (TNC) driver
+(driver). An individual who violates the prohibition
+commits a class 2 misdemeanor. An individual who
+impersonates a driver during the commission of a
+felony offense commits a class 6 felony. A TNC is
+required to conduct periodic checks utilizing facial
+recognition software to prevent driver
+impersonation in accordance with rules adopted by
+the commission.
+! Requires a TNC to anonymize data reported to the
+commission concerning driver refusals to provide
+service to a rider and the commission to make the
+anonymized reports available to the public;
+! Requires a TNC to provide information about the
+commission, including the commission's contact
+information, to a rider in accordance with rules
+adopted by the commission; and
+! Repeals the burden to prove that a driver's violation
+was reported to the TNC for the TNC to be held
+liable for the violation and raises the fine for a
+violation from $550 to $1,100;
+! Section 22 requires TNCs to annually submit to the
+commission a report, redacted to protect personal
+identifying information, that contains all safety-related
+incident reports made to or created by the TNC in the
+preceding calendar year. The commission shall make the
+reports publicly available.
+! Section 23 expands the types of drivers who need to have
+criminal history record checks performed to include drivers
+who are employed by any motor carriers and contract
+carriers;
+! Section 24 requires the commission to perform a market
+study to determine if the current systems of regulating
+intrastate contract and common carriers optimally balance
+consumer protections with industry and regulatory
+efficiency and to report its findings and recommendations
+based on the study to the general assembly by January 1,
+2028;
+! Sections 25 and 26 replace the current inspection
+requirements for a charter bus, children's activity bus, fire
+crew transport, luxury limousine, off-road scenic charter,
+-3- HB26-1326
+
+and large-market taxicab with a requirement that these
+vehicles be inspected on a schedule and to a standard set by
+rules adopted by the commission;
+! Sections 27 through 33 update the state railroad regulation
+requirements to mirror current federal law and to repeal
+obsolete provisions;
+! Section 34 removes the $500 fee cap paid by companies to
+access the Colorado no-call list, replaces it with a $1,000
+fee cap, and requires conforming list brokers, which are
+companies that purchase the no-call list and sell it to other
+companies, to pay a fee established by the commission by
+rule;
+! Sections 35 through 39 apply the fees that the commission
+assesses on public utilities on intrastate
+telecommunications and voice service providers to help
+finance the commission's telecommunications-related
+work;
+! Section 40 aligns the usage of money collected from
+charges related to the provision of 911 services with federal
+requirements by clarifying that the money may be expended
+for public safety radio equipment outside of a public safety
+answering point only if the equipment is used for
+dispatching emergency service providers to respond to 911
+calls;
+! Section 41 authorizes the commission to adopt rules that
+establish caps on rates charged by penal communications
+service providers on intrastate penal communications
+services provided for intrastate communications with
+individuals in correctional facilities and to enforce the
+intrastate rate. Section 41 also requires penal
+communications service providers to cooperate with
+commission staff when the staff is performing biannual
+testing of penal communications services.
+! Section 42 exempts small operators of natural gas pipelines
+from the minimum $5,000 civil penalty required for
+violations of pipeline safety laws and authorizes the
+commission to impose a lesser civil penalty against a small
+operator; and
+! Section 43 directs the commission to perform a study
+identifying all privately owned water utilities in the state
+and assessing their financial conditions and needs.
+1 Be it enacted by the General Assembly of the State of Colorado:
+-4- HB26-1326
+
+1 SECTION 1. In Colorado Revised Statutes, 40-2-101, amend
+2 (3)(b)(I) as follows:
+3 40-2-101. Creation - appointment - term - subject to
+4 termination - repeal of part.
+5 (3) (b) (I) This part 1 is repealed, effective September 1, 2026
+6 SEPTEMBER 1, 2037.
+7 SECTION 2. In Colorado Revised Statutes, 24-34-104, repeal
+8 (27)(a)(XVI); and add (38)(a)(II) as follows:
+9 24-34-104. General assembly review of regulatory agencies
+10 and functions for repeal, continuation, or reestablishment - legislative
+11 declaration - repeal.
+12 (27) (a) The following agencies, functions, or both, are scheduled
+13 for repeal on September 1, 2026:
+14 (XVI) The Colorado public utilities commission created in article
+15 2 of title 40;
+16 (38) (a) The following agencies, functions, or both, are scheduled
+17 for repeal on September 1, 2037:
+18 (II) THE COLORADO PUBLIC UTILITIES COMMISSION CREATED IN
+19 ARTICLE 2 OF TITLE 40.
+20 SECTION 3. In Colorado Revised Statutes, add 40-6-122.5 as
+21 follows:
+22 40-6-122.5. Nonpublic deliberations regarding adjudicatory
+23 proceedings - exemption from open meetings law - requirements -
+24 rules - definition.
+25 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+26 REQUIRES, "NONPUBLIC ADJUDICATORY PREDELIBERATION DISCUSSION" OR
+27 "DISCUSSION" MEANS A NONPUBLIC PREDELIBERATION DISCUSSION HELD
+-5- HB26-1326
+
+1 BETWEEN ALL OF THE COMMISSIONERS REGARDING AN ADJUDICATORY
+2 PROCEEDING BEFORE THE COMMISSION.
+3 (2) SUBJECT TO THE REQUIREMENTS OF SUBSECTION (3) OF THIS
+4 SECTION, A NONPUBLIC ADJUDICATORY PREDELIBERATION DISCUSSION IS
+5 EXEMPT FROM PART 4 OF ARTICLE 6 OF TITLE 24.
+6 (3) (a) THE PORTION OF AN ADJUDICATORY PROCEEDING AT WHICH
+7 EVIDENCE IS OFFERED OR REBUTTED MUST BE CONDUCTED IN COMPLIANCE
+8 WITH PART 4 OF ARTICLE 6 OF TITLE 24 AND OCCUR BEFORE A NONPUBLIC
+9 ADJUDICATORY PREDELIBERATION DISCUSSION.
+10 (b) AFTER THE CLOSE OF THE EVIDENTIARY RECORD FOR AN
+11 ADJUDICATORY MATTER, ALL OF THE COMMISSIONERS, ALONG WITH ONE
+12 OR MORE COMMISSION ADVISORS OR COUNSEL, MAY ENGAGE IN A
+13 NONPUBLIC ADJUDICATORY PREDELIBERATION DISCUSSION IF:
+14 (I) NOTICE OF THE DISCUSSION HAS FIRST BEEN PROVIDED IN THE
+15 FORM AND MANNER DETERMINED BY THE COMMISSION BY RULE; AND
+16 (II) THE FINAL REASONING AND ANY DETERMINATIONS OF THE
+17 DISCUSSION, INCLUDING ANY DISSENTING OPINIONS, ARE SUMMARIZED IN
+18 A SUBSEQUENT PUBLIC HEARING HELD IN ACCORDANCE WITH PART 4 OF
+19 ARTICLE 6 OF TITLE 24, AT WHICH PUBLIC HEARING A FINAL
+20 DETERMINATION MAY BE MADE ON THE RECORD.
+21 (4) THE COMMISSION SHALL ADOPT RULES TO IMPLEMENT THIS
+22 SECTION.
+23 SECTION 4. In Colorado Revised Statutes, 40-2-101, add (2.5)
+24 as follows:
+25 40-2-101. Creation - appointment - term - rules - subject to
+26 termination - repeal of part.
+27 (2.5) (a) IN PERFORMING ITS DUTIES PURSUANT TO THIS ARTICLE
+-6- HB26-1326
+
+1 40, THE COMMISSION MAY SEND COMMUNICATIONS THROUGH EMAIL.
+2 (b) THE COMMISSION SHALL ADOPT RULES ESTABLISHING
+3 PROTOCOLS FOR THE USE AND SECURITY OF EMAIL COMMUNICATIONS SENT
+4 BY THE COMMISSION.
+5 SECTION 5. In Colorado Revised Statutes, 40-5-106, add (3) as
+6 follows:
+7 40-5-106. Designation for service of process.
+8 (3) A DESIGNATION FOR SERVICE OF PROCESS FILED PURSUANT TO
+9 THIS SECTION MAY BE SENT ELECTRONICALLY.
+10 SECTION 6. In Colorado Revised Statutes, 40-6-102, amend (1)
+11 as follows:
+12 40-6-102. Service - fees - depositions - examination of
+13 witnesses.
+14 (1) The commission, each commissioner, an administrative law
+15 judge with respect to matters referred to such judge, and the director of
+16 the commission have power to MAY issue notices, orders to satisfy or
+17 answer, summonses, subpoenas, and commissions to take the deposition
+18 of any A witness whose testimony is required in any proceeding pending
+19 before the commission in like manner and to the same extent as courts of
+20 record. The process issued by the commission, any A commissioner, an
+21 administrative law judge, or the director of the commission shall extend
+22 EXTENDS to all parts of the state and beyond the boundaries thereof OF
+23 THE STATE as may be provided by law or the Colorado rules of civil
+24 procedure and may be served by any A person authorized to serve process
+25 of courts of record, by any A person designated for that purpose by the
+26 commission or a commissioner, or by first-class mail, postage prepaid, as
+27 provided in section 40-6-108. The person executing any such process
+-7- HB26-1326
+
+1 shall receive such compensation as may be allowed by the commission,
+2 not to exceed the fees now prescribed by law for similar services, and
+3 such fees shall be paid in the same manner as provided for payment of the
+4 fees of witnesses.
+5 SECTION 7. In Colorado Revised Statutes, 40-6-108, amend (3)
+6 as follows:
+7 40-6-108. Complaints - service - notice of hearing - rules.
+8 (3) (a) Service in all applications, petitions, complaints, hearings,
+9 investigations, and other proceedings pending before the commission may
+10 be made upon any person upon whom a summons may be served in
+11 accordance with the provisions of the Colorado rules of civil procedure
+12 or may be made personally or by first-class mail. In all cases wherein
+13 service is obtained by mail by the commission, the certificate of the
+14 director of the commission of such THE mailing shall be IS prima facie
+15 evidence that service has been obtained, and the time fixed in any order
+16 or notice shall commence COMMENCES to run from the date of mailing as
+17 shown in such THE certificate. The mailing of any notice or other paper
+18 by any other party to a proceeding shall be evidenced by the certificate of
+19 the person mailing such THE notice or other paper, and the time fixed in
+20 any such notice or other paper shall commence COMMENCES to run from
+21 the date of mailing as shown in such THE certificate.
+22 (b) THE SERVICE DESCRIBED IN THIS SUBSECTION (3) MAY INSTEAD
+23 BE MADE ELECTRONICALLY. IF THE SERVICE IS MADE ELECTRONICALLY,
+24 THE ELECTRONIC CERTIFICATE OF THE DIRECTOR OF THE COMMISSION IS
+25 PRIMA FACIE EVIDENCE THAT SERVICE HAS BEEN OBTAINED, AND THE TIME
+26 FIXED IN AN ORDER OR NOTICE RUNS FROM THE DATE OF THE ELECTRONIC
+27 COMMUNICATION AS SHOWN IN THE CERTIFICATE.
+-8- HB26-1326
+
+1 SECTION 8. In Colorado Revised Statutes, 40-7-116, amend
+2 (1)(b) introductory portion as follows:
+3 40-7-116. Enforcement of civil penalties against carriers.
+4 (1) (b) The notice shall be tendered by the enforcement official,
+5 either in person, or by certified mail, BY EMAIL SENT BY INVESTIGATIVE
+6 STAFF OF THE COMMISSION, or by personal service by a person authorized
+7 to serve process under rule 4 (d) of the Colorado rules of civil procedure
+8 and shall MUST contain:
+9 SECTION 9. In Colorado Revised Statutes, 40-7-116.5, amend
+10 (1)(b) introductory portion as follows:
+11 40-7-116.5. Enforcement of civil penalties against public
+12 utilities.
+13 (1) (b) The notice shall be tendered by the director or his or her
+14 THE DIRECTOR'S designee either in person, or by certified mail OR EMAIL,
+15 or by personal service by any A person authorized to serve process under
+16 rule 4 (d) of the Colorado rules of civil procedure and shall MUST contain:
+17 SECTION 10. In Colorado Revised Statutes, 40-2-124, amend
+18 (1)(c)(I) introductory portion, (1)(c)(I)(E), (1)(c)(II)(A), (1)(g)(I)(A), (4)
+19 introductory portion, and (5.5); and add (1)(c)(XI) as follows:
+20 40-2-124. Renewable energy standards - qualifying retail and
+21 wholesale utilities - definitions - net metering - exception - legislative
+22 declaration - rules.
+23 (1) Each provider of retail electric service in the state of Colorado,
+24 other than municipally owned utilities that serve forty thousand customers
+25 or fewer, is a qualifying retail utility. Each qualifying retail utility, with
+26 the exception of cooperative electric associations that have voted to
+27 exempt themselves from commission jurisdiction pursuant to section
+-9- HB26-1326
+
+1 40-9.5-104 and municipally owned utilities, is subject to the rules
+2 established under this article 2 by the commission. No additional
+3 regulatory authority is provided to the commission other than that
+4 specifically contained in this section. In accordance with article 4 of title
+5 24, the commission shall revise or clarify existing rules to establish the
+6 following:
+7 (c) Electric resource standards:
+8 (I) Except as provided in subparagraph (V) of this paragraph (c)
+9 SUBSECTIONS (1)(c)(V) AND (1)(c)(XI) OF THIS SECTION, the electric
+10 resource standards shall MUST require each qualifying retail utility to
+11 generate, or cause to be generated, electricity from eligible energy
+12 resources in the following minimum amounts:
+13 (E) Thirty percent of its retail electricity sales in Colorado for the
+14 years 2020 and thereafter. with distributed generation equaling at least
+15 three percent of its retail electricity sales.
+16 (II) (A) Of the amounts of distributed generation in
+17 sub-subparagraphs (C), (D), and (E) of subparagraph (I),
+18 sub-subparagraph (D) of subparagraph (V), and subparagraph (V.5) of
+19 this paragraph (c) SUBSECTIONS (1)(c)(I)(C), (1)(c)(I)(D), (1)(c)(I)(E),
+20 (1)(c)(V)(D), AND (1)(c)(V.5) OF THIS SECTION, at least one-half must be
+21 derived from retail distributed generation; except that this
+22 sub-subparagraph (A) SUBSECTION (1)(c)(II)(A) does not apply to a
+23 qualifying retail utility that is a municipal utility.
+24 (XI) (A) ON AND AFTER JANUARY 1, 2027, A QUALIFYING RETAIL
+25 UTILITY WITH A CLEAN ENERGY PLAN, AS DEFINED IN SECTION 40-2-125.5
+26 (2)(a), THAT HAS BEEN APPROVED BY THE COMMISSION AND THAT
+27 DEMONSTRATES THE QUALIFYING RETAIL UTILITY'S COMPLIANCE WITH THE
+-10- HB26-1326
+
+1 STATE'S CLEAN ENERGY TARGETS, AS VERIFIED BY THE DIVISION OF
+2 ADMINISTRATION PURSUANT TO SECTION 25-7-105 (1)(e)(VII), MAY
+3 NOTIFY THE COMMISSION OF ITS COMPLIANCE AND THAT THE QUALIFYING
+4 RETAIL UTILITY IS OPTING OUT OF THE ELECTRIC RESOURCE STANDARD
+5 REQUIREMENTS DESCRIBED IN SUBSECTION (1)(c)(I) OF THIS SECTION.
+6 (B) A QUALIFYING RETAIL UTILITY THAT OPTS OUT OF THE
+7 ELECTRIC RESOURCE STANDARD REQUIREMENTS PURSUANT TO
+8 SUBSECTION (1)(c)(XI)(A) OF THIS SECTION IS STILL REQUIRED TO FILE
+9 APPLICATIONS WITH THE COMMISSION TO SUPPORT RETAIL DISTRIBUTED
+10 GENERATION AND STORAGE PROGRAMS IN ACCORDANCE WITH
+11 SUBSECTIONS (1)(e) AND (1)(j) OF THIS SECTION AND TO SUBMIT AN
+12 ANNUAL REPORT TO THE COMMISSION REGARDING THOSE RETAIL
+13 DISTRIBUTED GENERATION AND STORAGE PROGRAMS IN ACCORDANCE
+14 WITH SUBSECTION (1)(h) OF THIS SECTION.
+15 (g) Retail rate impact rule:
+16 (I) (A) Except as otherwise provided in subparagraph (IV) of this
+17 paragraph (g) SUBSECTION (1)(g)(IV) OF THIS SECTION, for each
+18 qualifying RETAIL utility, the commission shall establish a maximum retail
+19 rate impact for this section for compliance with the electric resource
+20 standards of two percent of the total electric bill annually for each
+21 customer. The retail rate impact shall be determined net of new
+22 alternative sources of electricity supply from noneligible energy resources
+23 that are reasonably available at the time of the determination.
+24 (4) EXCEPT FOR A MUNICIPAL UTILITY THAT IS IN COMPLIANCE
+25 WITH A CLEAN ENERGY PLAN THAT IS APPROVED BY THE COMMISSION
+26 PURSUANT TO SECTION 40-2-125.5 (5)(g), for municipal utilities that
+27 become qualifying retail utilities A MUNICIPAL UTILITY THAT BECOMES A
+-11- HB26-1326
+
+1 QUALIFYING RETAIL UTILITY after December 31, 2006, the percentage
+2 requirements identified in subparagraph (V) of paragraph (c) of
+3 subsection (1) SUBSECTION (1)(c)(V) of this section shall begin in the first
+4 calendar year following qualification as follows:
+5 (5.5) EXCEPT FOR A COOPERATIVE ELECTRIC ASSOCIATION THAT IS
+6 IN COMPLIANCE WITH A CLEAN ENERGY PLAN THAT IS APPROVED BY THE
+7 COMMISSION PURSUANT TO SECTION 40-2-125.5 (5)(g), each cooperative
+8 electric association that is a qualifying retail utility shall submit an annual
+9 compliance report to the commission no later than June 1 of each year in
+10 which the cooperative electric association is subject to the renewable
+11 energy standard requirements established in this section. The annual
+12 compliance report shall MUST describe the steps taken by the cooperative
+13 electric association to comply with the renewable energy standards and
+14 shall include the same information set forth in the rules of the commission
+15 for jurisdictional utilities. Cooperative electric associations shall ARE not
+16 be subject to any part of the compliance report review process as provided
+17 in the rules for jurisdictional utilities. Cooperative electric associations
+18 shall ARE not be required to obtain commission approval of annual
+19 compliance reports, and no additional regulatory authority of the
+20 commission other than that specifically contained in this subsection (5.5)
+21 is created or implied by this subsection (5.5).
+22 SECTION 11. In Colorado Revised Statutes, add 40-2-140 as
+23 follows:
+24 40-2-140. Joint resource procurement study - report -
+25 definition - legislative declaration - repeal.
+26 (1) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+27 (a) AS WITH MOST INDUSTRIES, PURCHASING POWER AND
+-12- HB26-1326
+
+1 ECONOMIES OF SCALE PLAY AN IMPORTANT ROLE IN THE ELECTRIC SECTOR.
+2 LARGER UTILITIES ATTRACT MORE PARTICIPATION FROM GENERATION AND
+3 TRANSMISSION PROJECT DEVELOPERS, AND LARGER PROJECTS OFTEN COST
+4 LESS ON A PER-UNIT BASIS. THIS DYNAMIC LEADS TO LARGER UTILITIES
+5 HAVING ACCESS TO MORE COMPETITIVELY PRICED PROJECTS WHEN
+6 PROCURING NEW ENERGY RESOURCES THAN THEIR SMALLER UTILITY
+7 COUNTERPARTS.
+8 (b) RATEPAYERS OF SMALLER ELECTRIC UTILITIES WOULD LIKELY
+9 BENEFIT FROM A SYSTEM THAT REDUCES THE BARRIERS TO
+10 CO-DEVELOPMENT OF ENERGY PROJECTS AS A MEANS TO PROVIDE THE
+11 SMALLER ELECTRIC UTILITIES WITH ACCESS TO BETTER FINANCING
+12 OPTIONS, BETTER ECONOMIES OF SCALE, AND MORE COMPETITIVE PRICING
+13 IN ENERGY PROJECT PROCUREMENT;
+14 (c) THESE MATTERS ARE FURTHER COMPLICATED BY COMPETING
+15 FORMS OF GENERATION, AS WELL AS THE EXISTENCE OF ORGANIZED
+16 WHOLESALE MARKETS;
+17 (d) AS ELECTRIC RATES CONTINUE TO RISE, IT IS REASONABLE TO
+18 EXPLORE ALL OPTIONS FOR CONTAINING COSTS; AND
+19 (e) THEREFORE, THE COMMISSION SHOULD CONDUCT A STUDY TO
+20 IDENTIFY BARRIERS TO JOINT ENERGY RESOURCE PROCUREMENT
+21 ENCOUNTERED BY ELECTRIC UTILITIES.
+22 (2) AS USED IN THIS SECTION, "COLORADO ENERGY OFFICE" MEANS
+23 THE COLORADO ENERGY OFFICE CREATED IN SECTION 24-38.5-101.
+24 (3) (a) AS SOON AS PRACTICABLE, THE COMMISSION SHALL
+25 CONDUCT A STUDY REGARDING BARRIERS THAT ELECTRIC UTILITIES FACE
+26 IN JOINTLY PROCURING ENERGY RESOURCES IN THE STATE, WHICH STUDY
+27 MUST:
+-13- HB26-1326
+
+1 (I) IDENTIFY BARRIERS TO JOINT PROCUREMENT OF ADVANCED
+2 TECHNOLOGY GENERATION, WIND GENERATION, SOLAR GENERATION,
+3 CONVENTIONAL OR INNOVATIVE STORAGE, AND TRANSMISSION
+4 RESOURCES;
+5 (II) IDENTIFY WHETHER AND HOW BARRIERS MAY VARY BETWEEN
+6 UTILITIES REGULATED BY THE COMMISSION, COOPERATIVE ELECTRIC
+7 ASSOCIATIONS THAT HAVE VOTED TO EXEMPT THEMSELVES FROM
+8 COMMISSION JURISDICTION, AND MUNICIPALLY OWNED UTILITIES THAT ARE
+9 NOT SUBJECT TO COMMISSION REGULATION AND PROPOSE SOLUTIONS TO
+10 REDUCE ANY SUCH BARRIERS; AND
+11 (III) EXAMINE WHETHER AND HOW PARTICIPATION IN AN
+12 ORGANIZED WHOLESALE MARKET CREATES, INCREASES, OR REDUCES
+13 BARRIERS TO JOINT RESOURCE PROCUREMENT.
+14 (b) ON OR BEFORE EIGHTEEN MONTHS AFTER THE EFFECTIVE DATE
+15 OF THIS SECTION, THE COMMISSION SHALL SUBMIT TO THE GENERAL
+16 ASSEMBLY A FINAL REPORT DESCRIBING THE STUDY'S FINDINGS AND ANY
+17 RECOMMENDATIONS.
+18 (4) IN CONDUCTING THE STUDY PURSUANT TO SUBSECTION (3) OF
+19 THIS SECTION, THE COMMISSION:
+20 (a) SHALL CONSULT WITH THE COLORADO ENERGY OFFICE; AND
+21 (b) MAY CONTRACT WITH A THIRD PARTY.
+22 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2029.
+23 SECTION 12. In Colorado Revised Statutes, 40-2-123, add (6)
+24 as follows:
+25 40-2-123. Energy technologies - consideration by commission
+26 - incentives - demonstration projects - commission may require
+27 specific customer-facing programs - legislative declaration -
+-14- HB26-1326
+
+1 definitions.
+2 (6) (a) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+3 (I) SINCE 2007, COLORADO HAS ENACTED SEVERAL STATUTES
+4 THAT DIRECT COMMISSION-REGULATED UTILITIES TO IMPLEMENT
+5 CUSTOMER-FACING PROGRAMS AIMED AT REDUCING ENERGY BILLS,
+6 REDUCING ENERGY CONSUMPTION, OR SUPPORTING THE TRANSITION TO
+7 LOWER- OR ZERO-CARBON-EMITTING TECHNOLOGIES;
+8 (II) SUCH CUSTOMER-FACING PROGRAMS INCLUDE DEMAND-SIDE
+9 MANAGEMENT, BENEFICIAL ELECTRIFICATION, CLEAN HEAT PLANS, AND
+10 TRANSPORTATION ELECTRIFICATION;
+11 (III) FOR MANY OF THESE PROGRAMS, UTILITIES MAY LACK A
+12 NATURAL INCENTIVE TO TAKE CERTAIN ACTIONS OR IMPLEMENT THESE
+13 PROGRAMS EFFECTIVELY. ADDITIONALLY, DUE TO STAFFING OR
+14 ECONOMIES OF SCALE, SMALLER UTILITIES MAY LACK THE ABILITY TO
+15 OPERATE SUCH PROGRAMS AT A REASONABLE COST TO RATEPAYERS.
+16 (IV) CERTAIN RATEPAYER AFFORDABILITY PROGRAMS ARE
+17 IMPLEMENTED BY A THIRD PARTY THAT WAS NOT SELECTED THROUGH A
+18 COMPETITIVE PROCESS, AND THERE IS LIMITED OVERSIGHT OF THE THIRD
+19 PARTY'S USE OF RATEPAYER DOLLARS;
+20 (V) ESTABLISHED STATE ENTERPRISES, SUCH AS THE BUILDING
+21 DECARBONIZATION ENTERPRISE CREATED IN SECTION 24-38.5-125, MAY
+22 PROVIDE AN ALTERNATIVE OPTION FOR ADMINISTERING COMPETITIVE
+23 SOLICITATIONS FOR THIRD-PARTY PROGRAM ADMINISTRATION; AND
+24 (VI) THEREFORE, THE COMMISSION SHOULD BE AUTHORIZED TO
+25 REQUIRE COMMISSION-REGULATED UTILITIES TO ENGAGE ONE OR MORE
+26 THIRD PARTIES TO ADMINISTER SPECIFIC CUSTOMER-FACING PROGRAMS IF
+27 THE COMMISSION DEEMS THE USE OF ONE OR MORE THIRD PARTIES
+-15- HB26-1326
+
+1 PRUDENT AND IN THE BEST INTEREST OF RATEPAYERS. IN ADDITION, THE
+2 COMMISSION SHOULD BE AUTHORIZED TO REQUIRE THE USE OF A
+3 COMPETITIVE BIDDING PROCESS TO PROCURE THE SERVICES OF A
+4 THIRD-PARTY ADMINISTRATOR.
+5 (b) IN AN ADJUDICATORY PROCEEDING, THE COMMISSION MAY
+6 REQUIRE A COMMISSION-REGULATED UTILITY TO ENGAGE ONE OR MORE
+7 THIRD PARTIES TO ADMINISTER SPECIFIC CUSTOMER-FACING PROGRAMS IF
+8 THE COMMISSION DEEMS THE USE OF ONE OR MORE THIRD PARTIES
+9 PRUDENT AND IN THE BEST INTEREST OF RATEPAYERS. THE COMMISSION
+10 MAY REQUIRE A COMPETITIVE BIDDING PROCESS TO PROCURE THE
+11 SERVICES OF A THIRD-PARTY ADMINISTRATOR.
+12 (c) AS USED IN THIS SUBSECTION (6), "CUSTOMER-FACING
+13 PROGRAM" MEANS A PROGRAM AIMED AT REDUCING ENERGY BILLS,
+14 REDUCING ENERGY CONSUMPTION, OR SUPPORTING THE TRANSITION TO
+15 LOWER- OR ZERO-CARBON-EMITTING TECHNOLOGIES.
+16 SECTION 13. In Colorado Revised Statutes, 29-20-108, add
+17 (5)(b.5) as follows:
+18 29-20-108. Local government regulation - location,
+19 construction, or improvement of major electrical or natural gas
+20 facilities - powerline trail notification - appeals process - expedited
+21 review for certain transmission line projects - legislative declaration
+22 - definitions.
+23 (5) (b.5) (I) NOTWITHSTANDING THE CONDITIONS SET FORTH IN
+24 SUBSECTIONS (5)(a)(I) TO (5)(a)(III) OF THIS SECTION, A MUNICIPALLY
+25 OWNED UTILITY, A COOPERATIVE ELECTRIC ASSOCIATION, AN
+26 INDEPENDENT TRANSMISSION DEVELOPER, OR AN INDEPENDENT POWER
+27 PRODUCER MAY APPEAL TO THE PUBLIC UTILITIES COMMISSION PURSUANT
+-16- HB26-1326
+
+1 TO THE PROCESS SET FORTH IN THIS SUBSECTION (5) A LOCAL
+2 GOVERNMENT'S DENIAL OF A PERMIT OR AN APPLICATION THAT RELATES
+3 TO THE LOCATION, CONSTRUCTION, OR IMPROVEMENT OF MAJOR
+4 ELECTRICAL OR NATURAL GAS FACILITIES OWNED OR OPERATED BY THE
+5 MUNICIPALLY OWNED UTILITY, COOPERATIVE ELECTRIC ASSOCIATION,
+6 INDEPENDENT TRANSMISSION DEVELOPER, OR INDEPENDENT POWER
+7 PRODUCER.
+8 (II) ONLY TO THE EXTENT NECESSARY TO ADJUDICATE AN APPEAL
+9 FILED PURSUANT TO THIS SUBSECTION (5)(b.5), THE PUBLIC UTILITIES
+10 COMMISSION'S HEARING AND APPEALS PROCEDURES SET FORTH IN ARTICLE
+11 6 OF TITLE 40 AND IN THE PUBLIC UTILITIES COMMISSION'S RULES
+12 IMPLEMENTING ARTICLE 6 OF TITLE 40 APPLY TO A MUNICIPALLY OWNED
+13 UTILITY, A COOPERATIVE ELECTRIC ASSOCIATION, AN INDEPENDENT
+14 TRANSMISSION DEVELOPER, OR AN INDEPENDENT POWER PRODUCER THAT
+15 HAS AVAILED ITSELF OF THE PUBLIC UTILITIES COMMISSION'S PROCEDURES
+16 BY FILING AN APPEAL PURSUANT TO THIS SUBSECTION (5)(b.5).
+17 (III) NOTHING IN THIS SUBSECTION (5)(b.5) SUBJECTS A
+18 MUNICIPALLY OWNED UTILITY, A COOPERATIVE ELECTRIC ASSOCIATION,
+19 AN INDEPENDENT TRANSMISSION DEVELOPER, OR AN INDEPENDENT POWER
+20 PRODUCER TO REGULATION BY THE PUBLIC UTILITIES COMMISSION BEYOND
+21 THE APPLICATION OF THE PUBLIC UTILITIES COMMISSION'S HEARING AND
+22 APPEALS PROCEDURES TO WHICH A MUNICIPALLY OWNED UTILITY, A
+23 COOPERATIVE ELECTRIC ASSOCIATION, AN INDEPENDENT TRANSMISSION
+24 DEVELOPER, OR AN INDEPENDENT POWER PRODUCER AVAILS ITSELF BY
+25 FILING AN APPEAL PURSUANT TO THIS SUBSECTION (5)(b.5).
+26 SECTION 14. In Colorado Revised Statutes, 40-41-102, amend
+27 (7)(a), (12), and (18) as follows:
+-17- HB26-1326
+
+1 40-41-102. Definitions.
+2 As used in this article 41, unless the context otherwise requires:
+3 (7) (a) "CO-EI costs" means
+4 (I) (A) At the option of and upon petition by an electric utility, and
+5 as approved by the commission, any of the pretax costs that the electric
+6 utility has incurred or will incur that are caused by, associated with, or
+7 remain as a result of the retirement of an electric generating facility
+8 located in the state.
+9 (B) As used in this subsection (7), "pretax costs", if approved by
+10 the commission, include, but are not limited to, the unrecovered
+11 capitalized cost of a retired electric generating facility, costs of
+12 decommissioning and restoring the site of the electric generating facility,
+13 and other applicable ANY PRETAX COSTS APPROVED BY THE COMMISSION,
+14 INCLUDING capital and operating costs, accrued carrying charges, deferred
+15 expenses, reductions for applicable insurance and salvage proceeds,
+16 AMOUNTS FOR ASSISTANCE TO AFFECTED WORKERS AND COMMUNITIES,
+17 and the costs of retiring any existing indebtedness, fees, costs, and
+18 expenses to modify existing debt agreements or for waivers or consents
+19 related to existing debt agreements.
+20 (II) Amounts for assistance to affected workers and communities
+21 if approved by the commission;
+22 (III) Pretax costs that an electric utility has previously incurred
+23 related to the commission-approved closure of an electric generating
+24 facility occurring before May 30, 2019; and
+25 (IV) As approved by the commission, any of the pretax costs
+26 associated with the implementation of an approved program or project to
+27 mitigate the effects of extreme weather, wildfires, climate change, or
+-18- HB26-1326
+
+1 other hazards, including but not limited to the costs associated with an
+2 electric utility's wildfire mitigation plan that has been approved by the
+3 commission.
+4 (12) "Electric utility" means an entity operating for the purpose of
+5 supplying electricity to the public for domestic, mechanical, or public
+6 uses and includes an investor-owned electric utility subject to regulation
+7 under articles 1 to 7 of this title 40, a municipally owned utility, and a
+8 cooperative electric association.
+9 (18) "Successor" means, with respect to any legal entity, another
+10 legal entity that succeeds by operation of law to the rights and obligations
+11 of the first legal entity pursuant to any bankruptcy, reorganization,
+12 restructuring, other insolvency proceeding, merger, acquisition,
+13 consolidation, or sale or transfer of assets, whether any of these occur due
+14 to a restructuring of the electric power industry or otherwise. Solely for
+15 the purpose of implementing this article 41, "successor" does not include
+16 any municipally owned electric utility established and providing retail
+17 electric service before the date on which CO-EI bonds are issued pursuant
+18 to a financing order relating to electric generating facilities that serve or
+19 previously served the service area of the municipally owned electric
+20 utility.
+21 SECTION 15. In Colorado Revised Statutes, 40-41-103, amend
+22 (1) and (2)(c); and repeal (2)(a) and (2)(b) as follows:
+23 40-41-103. Financing orders - application requirements.
+24 (1) THE COMMISSION MAY DIRECT AN ELECTRIC UTILITY TO FILE AN
+25 APPLICATION FOR A FINANCING ORDER WITH THE COMMISSION. An electric
+26 utility in its sole discretion, may ALSO apply to the commission for a
+27 financing order as authorized by this section.
+-19- HB26-1326
+
+1 (2) (a) An investor-owned or other regulated electric utility may
+2 file an application for approval to issue CO-EI bonds in one or more
+3 series, impose, charge, and collect CO-EI charges, and create CO-EI
+4 property related to:
+5 (I) The retirement of an electric generating facility in Colorado
+6 that has previously been approved by the commission; or
+7 (II) Other programs or projects as approved by the commission,
+8 including programs or projects to mitigate the effects of extreme weather,
+9 wildfires, climate change, or other hazards.
+10 (b) An electric utility that is not regulated may file an application
+11 for approval to issue CO-EI bonds in one or more series, impose, charge,
+12 and collect CO-EI charges, and create CO-EI property related to:
+13 (I) The retirement of an electric generating facility in Colorado;
+14 or
+15 (II) Other programs or projects as approved by the commission,
+16 including programs or projects to mitigate the effects of extreme weather,
+17 wildfires, climate change, or other hazards.
+18 (c) The commission shall take final action to approve, deny, or
+19 modify any application for a financing order as described in subsection
+20 (2)(a) or (2)(b) of this section in a final order issued in accordance with
+21 the commission's rules for addressing applications.
+22 SECTION 16. In Colorado Revised Statutes, 40-41-104, amend
+23 (1) introductory portion, (1)(a), (2)(a), (2)(i), and (2)(l) as follows:
+24 40-41-104. Issuance of financing orders.
+25 (1) Following notice and A hearing on an application for a
+26 financing order as required by the commission's rules, practice, and
+27 procedure RULES OF PRACTICE AND PROCEDURE, the commission may
+-20- HB26-1326
+
+1 issue a financing order if the commission finds that:
+2 (a) The CO-EI costs described in the application related to the
+3 retirement of the electric generating facilities are reasonable AND IN THE
+4 INTEREST OF RATEPAYERS;
+5 (2) The financing order must:
+6 (a) Determine the maximum amount of CO-EI costs that may TO
+7 be financed from proceeds of CO-EI bonds authorized to be issued by the
+8 financing order;
+9 (i) Authorize the applicant electric utility to finance CO-EI costs
+10 through the issuance of one or more series of CO-EI bonds; An electric
+11 utility is not required to secure a separate financing order for each
+12 issuance of CO-EI bonds or for each scheduled phase of the previously
+13 approved retirement of electric generating facilities approved in the
+14 financing order.
+15 (l) Specify the timing of actions required by the order, including:
+16 (I) The timing of issuance of the CO-EI bonds; independent of the
+17 schedule of retirement of the electric generating facility;
+18 (II) The energy assistance funds, if included in the bond issue,
+19 may be transferred to a third-party entity designated by the commission
+20 to administer transition assistance on behalf of displaced workers and
+21 affected communities; no later than the date on which the electric
+22 generating facility ceases operation; and
+23 (III) The applicant electric utility files to reduce its rates as
+24 required in subsection (4) of this section simultaneously with the
+25 inception of the CO-EI charges; and independently of the schedule of
+26 closing and decommissioning of the electric generating facility; and
+27 SECTION 17. In Colorado Revised Statutes, 40-41-105, amend
+-21- HB26-1326
+
+1 (4) introductory portion as follows:
+2 40-41-105. Effect of financing order.
+3 (4) Notwithstanding subsection (3) of this section, upon the
+4 request of an electric utility or at the request of parties in the commission
+5 proceeding, the commission may commence a proceeding and issue a
+6 subsequent financing order that provides for refinancing, retiring, or
+7 refunding CO-EI bonds issued pursuant to the original financing order if:
+8 SECTION 18. In Colorado Revised Statutes, 40-41-106, amend
+9 (3) as follows:
+10 40-41-106. Effect on commission jurisdiction - rules.
+11 (3) UNLESS A FINANCING ORDER REQUIRES THE RECOVERY OF
+12 COSTS ASSOCIATED WITH THE RETIREMENT OF AN ELECTRIC GENERATION
+13 FACILITY TO BE FINANCED THROUGH CO-EI BONDS, the commission may
+14 SHALL not refuse to allow the recovery of any costs associated with the
+15 retirement of electric generating facilities by an electric utility solely
+16 because the electric utility has elected to recover those costs through
+17 traditional rate-making methods or to finance those activities through a
+18 financing mechanism other than CO-EI bonds, whether or not a financing
+19 order with respect to such costs has been applied for by the utility or
+20 issued by the commission.
+21 SECTION 19. In Colorado Revised Statutes, 40-41-109, amend
+22 (1)(c) as follows:
+23 40-41-109. Electric utilities - duties - rate impact notice to
+24 customers.
+25 (1) The electric bills of an electric utility that has obtained a
+26 financing order and caused CO-EI bonds to be issued:
+27 (c) Must explain to customers in an annual filing with the
+-22- HB26-1326
+
+1 commission the rate impact that financing the retirement of electric
+2 generating facilities THE FINANCING ORDER will have on customer rates.
+3 SECTION 20. In Colorado Revised Statutes, add 40-8.7-113 as
+4 follows:
+5 40-8.7-113. Responsibilities of the public utilities commission
+6 - study - rules.
+7 (1) THE COMMISSION SHALL ADOPT RULES REGARDING THE
+8 IMPLEMENTATION OF INCOME-QUALIFIED ENERGY ASSISTANCE PROGRAMS
+9 PROVIDED BY INVESTOR-OWNED GAS AND ELECTRIC UTILITIES. THE RULES
+10 MUST ESTABLISH A STANDARD PROCESS FOR:
+11 (a) HOW INVESTOR-OWNED GAS AND ELECTRIC UTILITIES
+12 IMPLEMENT INCOME-QUALIFIED ENERGY ASSISTANCE PROGRAMS;
+13 (b) CUSTOMER ACCESS TO INCOME-QUALIFIED ENERGY
+14 ASSISTANCE PROGRAMS, INCLUDING STANDARDIZING THE APPLICATION
+15 PROCESS, ELIGIBILITY REQUIREMENTS, AND TIMELINES FOR ENROLLMENT;
+16 AND
+17 (c) HOW INCOME-QUALIFIED ENERGY ASSISTANCE PROGRAMS
+18 ACCOUNT FOR:
+19 (I) THE LOW-INCOME ENERGY ASSISTANCE PROGRAM CREATED IN
+20 SECTION 40-8.7-104 (1);
+21 (II) THE COLORADO ENERGY OFFICE'S WEATHERIZATION
+22 ASSISTANCE PROGRAM;
+23 (III) THE ENERGY ASSISTANCE PROGRAM IMPLEMENTED BY THE
+24 ORGANIZATION; AND
+25 (IV) THE FUEL ASSISTANCE PAYMENTS PROGRAM IMPLEMENTED BY
+26 THE DEPARTMENT OF HUMAN SERVICES PURSUANT TO SECTION 26-2-307.
+27 (2) AS SOON AS PRACTICABLE, THE COMMISSION SHALL CONDUCT
+-23- HB26-1326
+
+1 A STUDY REGARDING LOW-INCOME ENERGY ASSISTANCE PROGRAMS
+2 OFFERED BY UTILITIES IN THE STATE. THE PURPOSE OF THE STUDY IS TO
+3 DETERMINE WHETHER ACCESS TO AND EQUITY IN LOW-INCOME ENERGY
+4 ASSISTANCE FUNDING CAN BE IMPROVED.
+5 SECTION 21. In Colorado Revised Statutes, 40-10.1-605,
+6 amend (7) and (9); and add (11), (12), and (13) as follows:
+7 40-10.1-605. Operational requirements - driver impersonation
+8 - misdemeanor - rules.
+9 (7) (a) A transportation network company is not liable for a
+10 driver's violation of subsection (6) of this section unless the driver's
+11 violation has been previously reported to the transportation network
+12 company in writing, and the transportation network company has failed
+13 to reasonably address the alleged violation. The commission shall afford
+14 a transportation network company the same due process rights afforded
+15 transportation providers in defending against civil penalties assessed by
+16 the commission.
+17 (b) The commission may assess a civil penalty IN AN AMOUNT up
+18 to five hundred fifty ONE THOUSAND ONE HUNDRED dollars under this
+19 subsection (7) FOR A DRIVER'S VIOLATION OF SUBSECTION (6) OF THIS
+20 SECTION.
+21 (9) A driver shall immediately report to the transportation network
+22 company any refusal to transport a passenger pursuant to paragraph (a) of
+23 subsection (6) SUBSECTION (6) of this section, and the transportation
+24 network company shall ANONYMIZE AND annually report all such refusals
+25 to the commission in a form and manner determined by the commission.
+26 THE COMMISSION SHALL MAKE THE ANONYMIZED REPORTS AVAILABLE TO
+27 THE PUBLIC.
+-24- HB26-1326
+
+1 (11) (a) AN INDIVIDUAL SHALL NOT IMPERSONATE A DRIVER OR
+2 ENGAGE IN AN ACT THAT FALSELY REPRESENTS THAT THE INDIVIDUAL IS
+3 REPRESENTING A TRANSPORTATION NETWORK COMPANY OR IS
+4 RESPONDING TO A RIDER'S REQUEST FOR TRANSPORTATION NETWORK
+5 COMPANY SERVICES.
+6 (b) AN INDIVIDUAL WHO VIOLATES THIS SECTION COMMITS A CLASS
+7 2 MISDEMEANOR AND SHALL BE PUNISHED AS PROVIDED IN SECTION
+8 18-1.3-501 (1)(a.5); EXCEPT THAT AN INDIVIDUAL WHO COMMITS A
+9 VIOLATION OF THIS SECTION DURING THE COMMISSION OF A FELONY
+10 OFFENSE COMMITS A CLASS 6 FELONY AND SHALL BE PUNISHED AS
+11 PROVIDED IN SECTION 18-1.3-401 (1)(a)(V.5).
+12 (c) NOTHING IN THIS SUBSECTION (11) PRECLUDES THE
+13 PROSECUTION OF CONDUCT FORMING THE BASIS OF A VIOLATION OF THIS
+14 SUBSECTION (11) UNDER THE CRIMINAL IMPERSONATION STATUTE,
+15 SECTION 18-5-113, OR ANY OTHER RELEVANT CRIMINAL STATUTE.
+16 (12) (a) A TRANSPORTATION NETWORK COMPANY SHALL CONDUCT
+17 PERIODIC CHECKS UTILIZING FACIAL RECOGNITION SOFTWARE TO PREVENT
+18 DRIVER IMPERSONATION IN ACCORDANCE WITH RULES ADOPTED BY THE
+19 COMMISSION PURSUANT TO SUBSECTION (12)(b) OF THIS SECTION.
+20 (b) ON OR BEFORE EIGHTEEN MONTHS AFTER THE EFFECTIVE DATE
+21 OF THIS SUBSECTION (12), THE COMMISSION SHALL ADOPT RULES
+22 ESTABLISHING REQUIREMENTS AND PROCEDURES FOR PERIODIC CHECKS
+23 UTILIZING FACIAL RECOGNITION SOFTWARE TO PREVENT DRIVER
+24 IMPERSONATION PROHIBITED PURSUANT TO SUBSECTION (11)(a) OF THIS
+25 SECTION.
+26 (13) (a) A TRANSPORTATION NETWORK COMPANY SHALL PROVIDE
+27 INFORMATION ABOUT THE COMMISSION TO A RIDER IN ACCORDANCE WITH
+-25- HB26-1326
+
+1 RULES ADOPTED BY THE COMMISSION PURSUANT TO SUBSECTION (13)(b)
+2 OF THIS SECTION.
+3 (b) ON OR BEFORE EIGHTEEN MONTHS AFTER THE EFFECTIVE DATE
+4 OF THIS SUBSECTION (13), THE COMMISSION SHALL ADOPT RULES
+5 ESTABLISHING REQUIREMENTS AND PROCEDURES FOR A TRANSPORTATION
+6 NETWORK COMPANY TO PROVIDE INFORMATION ABOUT THE COMMISSION,
+7 INCLUDING CONTACT INFORMATION FOR THE COMMISSION, TO A RIDER
+8 PURSUANT TO SUBSECTION (13)(a) OF THIS SECTION.
+9 SECTION 22. In Colorado Revised Statutes, 40-10.1-609, add
+10 (3) as follows:
+11 40-10.1-609. Reporting requirements - report - rules.
+12 (3) (a) ON AN ANNUAL BASIS, A TRANSPORTATION NETWORK
+13 COMPANY SHALL SUBMIT A REPORT TO THE COMMISSION, REDACTED TO
+14 PROTECT PERSONAL IDENTIFYING INFORMATION OF DRIVERS AND RIDERS,
+15 THAT CONTAINS ALL SAFETY-RELATED INCIDENT REPORTS MADE TO OR
+16 CREATED BY THE TRANSPORTATION NETWORK COMPANY IN THE
+17 PRECEDING CALENDAR YEAR. THE COMMISSION SHALL DETERMINE THE
+18 DEADLINE FOR THE ANNUAL REPORTS BY RULE.
+19 (b) THE COMMISSION SHALL MAKE THE REPORTS SUBMITTED
+20 PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION AVAILABLE TO THE
+21 PUBLIC.
+22 SECTION 23. In Colorado Revised Statutes, 40-10.1-110,
+23 amend (1)(a) as follows:
+24 40-10.1-110. Record check - rules.
+25 (1) (a) An individual who wishes to drive: DRIVE a taxicab MOTOR
+26 VEHICLE for a motor carrier that is the holder of a certificate to provide
+27 taxicab service OR A CONTRACT CARRIER PERMIT issued under part 2 of
+-26- HB26-1326
+
+1 this article 10.1; a motor vehicle for a motor carrier that is the holder of
+2 a permit to operate as a charter bus, children's activity bus, luxury
+3 limousine, or off-road scenic charter under part 3 of this article 10.1; or
+4 a motor vehicle for a motor carrier that is the holder of a permit to operate
+5 as a large-market taxicab service under part 7 of this article 10.1 must
+6 SHALL have the individual's fingerprints taken by a local law enforcement
+7 agency or any A third party approved by the Colorado bureau of
+8 investigation for the purpose of obtaining a fingerprint-based criminal
+9 history record check.
+10 SECTION 24. In Colorado Revised Statutes, add 40-10.1-119 as
+11 follows:
+12 40-10.1-119. Market study and report - common and contract
+13 carriers - definition - repeal.
+14 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+15 REQUIRES, "STUDY" MEANS THE STUDY REQUIRED BY THIS SECTION.
+16 (2) THE COMMISSION SHALL CONDUCT A STUDY ON THE CURRENT
+17 REGULATORY STRUCTURE FOR INTRASTATE CONTRACT AND COMMON
+18 CARRIERS. THE STUDY MUST ADDRESS THE FOLLOWING ISSUES:
+19 (a) WHETHER THE CURRENT MODELS, INCLUDING REGULATED
+20 MONOPOLY AND REGULATED COMPETITION, FOR MARKET ENTRY OF
+21 COMMON CARRIERS AND CONTRACT CARRIERS ARE STILL AN APPROPRIATE
+22 STANDARD TO BE IMPLEMENTED IN THE STATE IN LIGHT OF FACTORS SUCH
+23 AS THE ECONOMIC LANDSCAPE AND JOB CREATION;
+24 (b) IF THE CURRENT MARKET ENTRY MODELS DESCRIBED IN
+25 SUBSECTION (2)(a) OF THIS SECTION ARE NOT AN APPROPRIATE STANDARD,
+26 HOW THE CURRENT MODELS SHOULD BE CHANGED;
+27 (c) WHETHER THE CURRENT MODELS FOR ECONOMIC REGULATION
+-27- HB26-1326
+
+1 OF COMMON CARRIERS AND CONTRACT CARRIERS THAT REQUIRE RATE
+2 STRUCTURES TO BE APPROVED AND SET IN A JUST, REASONABLE, AND
+3 CONSISTENT MANNER FOR EACH PASSENGER ARE STILL BENEFICIAL TO THE
+4 INDUSTRY AND TO CONSUMERS;
+5 (d) IF THE CURRENT ECONOMIC REGULATION MODELS DESCRIBED
+6 IN SUBSECTION (2)(c) OF THIS SECTION ARE NOT AN APPROPRIATE
+7 STANDARD, HOW THE CURRENT MODELS SHOULD BE CHANGED; AND
+8 (e) IDENTIFYING THE PROPER BALANCE BETWEEN SERVICE
+9 TERRITORY PROTECTIONS, SUCH AS REGULATED MONOPOLY AND
+10 REGULATED COMPETITION, AND THE POTENTIAL BURDENS ASSOCIATED
+11 WITH THESE MARKET ENTRY AND ECONOMIC REGULATION STANDARDS.
+12 (3) IN CONDUCTING THE STUDY, THE COMMISSION SHALL CONSIDER
+13 THE FOLLOWING:
+14 (a) WHETHER THE CONDITIONS THAT LED TO THE CURRENT
+15 REGULATION OF COMMON CARRIERS AND CONTRACT CARRIERS HAVE
+16 CHANGED AND WHETHER OTHER CONDITIONS HAVE ARISEN THAT
+17 WARRANT MORE, LESS, OR THE SAME DEGREE OF OVERSIGHT BY THE
+18 COMMISSION;
+19 (b) WHETHER EXISTING STATUTES AND COMMISSION RULES
+20 ESTABLISH THE LEAST RESTRICTIVE FORM OF OVERSIGHT THAT IS
+21 CONSISTENT WITH THE PUBLIC INTEREST, CONSIDERING OTHER AVAILABLE
+22 MEANS OF REGULATION;
+23 (c) WHETHER EXISTING STATUTES AND COMMISSION RULES
+24 STIMULATE OR RESTRICT COMPETITION; AND
+25 (d) WHETHER STATUTORY OR RULE CHANGES ARE NECESSARY TO
+26 IMPROVE COMMISSION EFFICIENCY OR TO ENHANCE THE PUBLIC INTEREST.
+27 (4) AFTER CONDUCTING THE STUDY, THE COMMISSION SHALL
+-28- HB26-1326
+
+1 PUBLISH A REPORT OF THE STUDY'S FINDINGS AND MAKE
+2 RECOMMENDATIONS TO THE GENERAL ASSEMBLY BY JANUARY 1, 2028.
+3 (5) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2028.
+4 SECTION 25. In Colorado Revised Statutes, 40-10.1-302,
+5 amend (4) as follows:
+6 40-10.1-302. Permit requirements - rules.
+7 (4) In order to obtain a permit under this section, an applicant
+8 must have SHALL DEMONSTRATE THAT each vehicle operated under the
+9 permit HAS BEEN inspected within the immediately preceding twenty days
+10 by a qualified mechanic in accordance with rules promulgated by the
+11 commission. The applicant must also attach a report showing each vehicle
+12 passed inspection IN ACCORDANCE WITH RULES ADOPTED BY THE
+13 COMMISSION.
+14 SECTION 26. In Colorado Revised Statutes, 40-10.1-702,
+15 amend (3) as follows:
+16 40-10.1-702. Large-market taxicab service - permit required
+17 - rules.
+18 (3) In order to obtain a permit under this section, an applicant
+19 must SHALL demonstrate that each vehicle operated under the permit has
+20 been inspected within the immediately preceding twelve months by a
+21 qualified mechanic in accordance with rules promulgated ADOPTED by the
+22 commission.
+23 SECTION 27. In Colorado Revised Statutes, 40-18-101, amend
+24 (3) and (6); repeal (5); and add (2.4) and (2.6) as follows:
+25 40-18-101. Definitions.
+26 As used in this article 18, unless the context otherwise requires:
+27 (2.4) "PROGRAM STANDARD" MEANS A STATE SAFETY OVERSIGHT
+-29- HB26-1326
+
+1 PROGRAM STANDARD DEVELOPED BY THE COMMISSION IN CONFORMANCE
+2 WITH 49 CFR 674, "STATE SAFETY OVERSIGHT".
+3 (2.6) "PUBLIC TRANSPORTATION AGENCY SAFETY PLAN" MEANS
+4 THE DOCUMENTED COMPREHENSIVE AGENCY SAFETY PLAN FOR A RAIL
+5 FIXED GUIDEWAY PUBLIC TRANSPORTATION SYSTEM, INCLUDING A RAIL
+6 TRANSIT AUTHORITY, THAT IS REQUIRED BY 49 U.S.C. SEC. 5329 (d) AND
+7 BASED ON A SAFETY MANAGEMENT SYSTEM, AS DEFINED IN 49 CFR 673.5.
+8 (3) (a) "Rail fixed guideway PUBLIC TRANSPORTATION system"
+9 means any A light, heavy, or rapid rail system, monorail, inclined plane,
+10 funicular, trolley, or automated guideway used to transport passengers
+11 that is not regulated by the federal railroad administration.
+12 (b) The term "Rail fixed guideway PUBLIC TRANSPORTATION
+13 system" does not include:
+14 (I) Funiculars that are passenger tramways as defined in section
+15 12-150-103 (5)(c) and are subject to the jurisdiction of the Colorado
+16 passenger tramway safety board created in section 12-150-104; OR
+17 (II) AUTOMATED PEOPLE MOVERS THAT ARE CONVEYANCES, AS
+18 DEFINED IN SECTION 9-5.5-103 (11), AND ARE SUBJECT TO THE
+19 JURISDICTION OF THE DIRECTOR OF THE DIVISION OF OIL AND PUBLIC
+20 SAFETY CREATED IN SECTION 8-20-101.
+21 (5) "System safety program standard" means a safety standard
+22 developed by the commission in conformance with 49 CFR 674, entitled
+23 "State Safety Oversight".
+24 (6) "Transit agency" means an entity operating a rail fixed
+25 guideway PUBLIC TRANSPORTATION system.
+26 SECTION 28. In Colorado Revised Statutes, amend 40-18-102
+27 as follows:
+-30- HB26-1326
+
+1 40-18-102. Rail fixed guideway public transportation system
+2 oversight program - commission may establish.
+3 The commission is authorized to establish an oversight program
+4 for the safety and security of rail fixed guideway PUBLIC
+5 TRANSPORTATION systems in accordance with section 28 of the
+6 "Intermodal Surface Transportation Efficiency Act of 1991", 49 U.S.C.
+7 sec. 5330, and the "Moving Ahead for Progress in the 21st Century Act",
+8 49 U.S.C. sec. 5329.
+9 SECTION 29. In Colorado Revised Statutes, amend 40-18-103
+10 as follows:
+11 40-18-103. Commission to adopt rules.
+12 (1) The commission shall promulgate ADOPT rules as are
+13 necessary to:
+14 (a) Require, review, approve, and monitor the creation and
+15 implementation of a system PUBLIC TRANSPORTATION AGENCY safety
+16 program plan for each rail fixed guideway PUBLIC TRANSPORTATION
+17 system operating in Colorado;
+18 (b) Investigate hazardous conditions and accidents SAFETY
+19 EVENTS on rail fixed guideway PUBLIC TRANSPORTATION systems;
+20 (c) Require corrective action BY A RAIL FIXED GUIDEWAY PUBLIC
+21 TRANSPORTATION SYSTEM OPERATED by a transit agency to correct or
+22 eliminate hazardous conditions; AND
+23 (d) Require that system safety THE program standards comply
+24 STANDARD THAT THE COMMISSION DEVELOPS COMPLIES with the
+25 requirements of 49 CFR 674, entitled "State Safety Oversight", at a
+26 minimum, and also adequately address the issue of personal security
+27 PROGRAM STANDARD.
+-31- HB26-1326
+
+1 (2) The commission shall promulgate ADOPT rules to establish a
+2 system safety oversight program for rail fixed guideway PUBLIC
+3 TRANSPORTATION systems operating within the state. that, at a minimum,
+4 meets the requirements of 49 CFR 674, entitled "State Safety Oversight".
+5 SECTION 30. In Colorado Revised Statutes, 40-4-106, amend
+6 (6)(e), (6)(f), and (6)(g)(II) as follows:
+7 40-4-106. Rules for public safety - crossings - civil fines -
+8 allocation of expenses - definitions.
+9 (6) As used in this section, unless the context otherwise requires:
+10 (e) "Rail fixed guideway" means a person possessing rail fixed
+11 guideway PUBLIC TRANSPORTATION system facilities by ownership or
+12 lease.
+13 (f) (I) "Rail fixed guideway PUBLIC TRANSPORTATION system" has
+14 the meaning set forth in section 40-18-101 (3).
+15 (II) "Rail fixed guideway PUBLIC TRANSPORTATION system"
+16 includes street railroads, street railways, and electric railroads, as those
+17 terms are used in article 24 of this title 40.
+18 (g) (II) "Railroad" does not include A rail fixed guideways
+19 GUIDEWAY or A rail fixed guideway systems PUBLIC TRANSPORTATION
+20 SYSTEM.
+21 SECTION 31. In Colorado Revised Statutes, repeal 40-18-105
+22 as follows:
+23 40-18-105. Calculation and assessment of fees.
+24 (1) Repealed.
+25 (2) (a) At each regular session, the general assembly shall
+26 determine the amounts to be expended by the commission from the public
+27 utilities commission fixed utility fund created in section 40-2-114 for its
+-32- HB26-1326
+
+1 administrative expenses under this article, including any additional FTE
+2 that may be necessary.
+3 (b) The director of the public utilities commission shall provide
+4 written notice to the revisor of statutes once the federal grant moneys
+5 made available under the "Moving Ahead for Progress in the 21st Century
+6 Act", 49 U.S.C. sec. 5329, have been awarded to the state. This
+7 subsection (2) takes effect upon the receipt by the revisor of statutes of
+8 such written notice.
+9 SECTION 32. In Colorado Revised Statutes, 40-2-109, amend
+10 (2)(a) introductory portion and (2)(a)(II); and repeal (2)(b) as follows:
+11 40-2-109. Report to executive director of the department of
+12 revenue.
+13 (2) (a) On March 1 of each year, the public utilities commission
+14 shall furnish the executive director of the department of revenue with a
+15 list of those public utilities subject to its THE COMMISSION'S jurisdiction,
+16 supervision, and regulation on January 1 of each year. The provisions of
+17 This subsection (2) shall DOES not apply to:
+18 (II) Rail fixed guideway PUBLIC TRANSPORTATION systems that are
+19 regulated by the public utilities commission pursuant to part 1 of article
+20 18 of this title TITLE 40.
+21 (b) The director of the public utilities commission shall provide
+22 written notice to the revisor of statutes once the federal grant money made
+23 available under the "Moving Ahead for Progress in the 21st Century Act",
+24 49 U.S.C. sec. 5329, have been awarded to the state. This subsection (2)
+25 takes effect upon the receipt by the revisor of statutes of such written
+26 notice.
+27 SECTION 33. In Colorado Revised Statutes, 40-2-114, amend
+-33- HB26-1326
+
+1 (1)(a) introductory portion and (1)(a)(I) as follows:
+2 40-2-114. Disposition of fees collected - telecommunications
+3 utility fund - fixed utility fund - appropriation.
+4 (1) (a) Three percent of the fees collected under section 40-2-113
+5 by the department of revenue shall be remitted to the state treasurer and
+6 credited by The state treasurer SHALL CREDIT THE FEES COLLECTED UNDER
+7 SECTION 40-2-113 as follows:
+8 (I) Notwithstanding any other provision of this paragraph (a), for
+9 the 2016-17 fiscal year and SUBSECTION (1)(a), for any STATE fiscal year
+10 thereafter in which a grant match is required for the receipt of federal
+11 money under the federal "Moving Ahead for Progress in the 21st Century
+12 Act", Pub.L. 112-141, 126 Stat. 405, 49 U.S.C. SEC. 5329 for rail fixed
+13 guideway system PUBLIC TRANSPORTATION safety oversight
+14 responsibilities under article 18 of this title, the lesser of all of the fees or
+15 up to one hundred fifty thousand dollars of the fees, or as much thereof
+16 as TITLE 40, THE AMOUNT the commission deems necessary to the public
+17 utilities commission fixed utility fund created in paragraph (b) of this
+18 subsection (1) SUBSECTION (1)(b) OF THIS SECTION IN ORDER TO OBTAIN
+19 THE FEDERAL GRANT MATCH;
+20 SECTION 34. In Colorado Revised Statutes, 6-1-905, amend
+21 (3)(b) introductory portion and (3)(b)(II) as follows:
+22 6-1-905. Establishment and operation of a Colorado no-call
+23 list - rules.
+24 (3) (b) The public utilities commission shall establish, by rule,
+25 guidelines for the designated agent for the development and maintenance
+26 of the Colorado no-call list so that the no-call list can easily be accessed
+27 by persons or entities desiring to make telephone solicitations and by state
+-34- HB26-1326
+
+1 and local law enforcement agencies. As soon as practicable, after March
+2 25, 2003, the public utilities commission shall promulgate ADOPT rules
+3 that:
+4 (II) Specify that there shall be an annual registration fee IN AN
+5 AMOUNT of not more than five hundred ONE THOUSAND dollars for TO BE
+6 PAID BY persons or entities that wish to make telephone solicitations or
+7 otherwise access the database of telephone numbers and zip codes
+8 contained in the Colorado no-call list database. The public utilities
+9 commission shall determine such THE AMOUNT OF THE fee on a sliding
+10 scale so that persons or entities with fewer than five employees shall DO
+11 NOT pay no A fee. In addition, there A FEE shall be no fee NOT BE charged
+12 to conforming list brokers or nonprofit corporations, as defined in section
+13 7-121-401 (26). C.R.S. The maximum fee AMOUNT TO BE PAID BY
+14 PERSONS OR ENTITIES THAT WISH TO MAKE TELEPHONE SOLICITATIONS OR
+15 OTHERWISE ACCESS THE COLORADO NO-CALL LIST DATABASE shall be
+16 charged only to persons or entities with more than one thousand
+17 employees. Moneys THE COMMISSION SHALL ESTABLISH, BY RULE, A
+18 SEPARATE FEE CHARGED TO CONFORMING LIST BROKERS. MONEY collected
+19 from such AS fees PURSUANT TO THIS SUBSECTION (3)(b)(II) shall BE USED
+20 TO cover the direct and indirect costs related to the creation and operation
+21 of the Colorado no-call list. Moneys from such THE fees shall be
+22 collected by and paid directly to the designated agent. The public utilities
+23 commission shall have the authority to MAY annually adjust the fees
+24 below the stated maximum based on revenue history of the fees received
+25 by the designated agent. The designated agent shall provide means for
+26 online registration and credit card payment of fees charged pursuant to
+27 this subparagraph (II) SUBSECTION (3)(b)(II). Each such person or entity
+-35- HB26-1326
+
+1 shall provide a current business name, business address, email address if
+2 available, and telephone number when initially registering for the no-call
+3 list. This information shall be updated when changes occur.
+4 SECTION 35. In Colorado Revised Statutes, 40-1-102, add (8.4),
+5 (13), (14), and (15) as follows:
+6 40-1-102. Definitions.
+7 As used in articles 1 to 7 of this title 40, unless the context
+8 otherwise requires:
+9 (8.4) (a) "INTRASTATE TELECOMMUNICATIONS" MEANS A
+10 COMMUNICATION OR TRANSMISSION USING A TELECOMMUNICATIONS
+11 SERVICE THAT ORIGINATES AND TERMINATES WITHIN THE STATE.
+12 (b) "INTRASTATE TELECOMMUNICATIONS" INCLUDES ALL
+13 COMMUNICATION OR TRANSMISSION BETWEEN TWO POINTS WITHIN THE
+14 STATE USING:
+15 (I) LANDLINE OR WIRELINE TELECOMMUNICATIONS SERVICES;
+16 (II) WIRELESS OR CELLULAR TELECOMMUNICATIONS SERVICES;
+17 (III) INTERCONNECTED VOICE-OVER-INTERNET PROTOCOL
+18 SERVICES;
+19 (IV) SATELLITE-BASED TELECOMMUNICATIONS SERVICES; OR
+20 (V) A FUNCTIONALLY EQUIVALENT INTERCONNECTED
+21 TELECOMMUNICATIONS SERVICE, INCLUDING PENAL COMMUNICATIONS
+22 SERVICES AS DEFINED IN SECTION 17-42-103 (2)(e), REGARDLESS OF THE
+23 TECHNOLOGY USED TO PROVIDE THE SERVICE.
+24 (13) "TELECOMMUNICATIONS" AND "TELECOMMUNICATIONS
+25 SERVICE" HAVE THE MEANING SET FORTH IN 47 U.S.C. SEC. 153.
+26 (14) "VOICE-OVER-INTERNET PROTOCOL SERVICE" HAS THE
+27 MEANING SET FORTH IN SECTION 40-15-102 (33).
+-36- HB26-1326
+
+1 (15) "VOICE SERVICE PROVIDER" MEANS ANY PERSON THAT
+2 PROVIDES A TELECOMMUNICATIONS SERVICE, REGARDLESS OF WHETHER
+3 THE PERSON IS CONSIDERED A PUBLIC UTILITY PURSUANT TO SECTION
+4 40-1-103. "VOICE SERVICE PROVIDER" INCLUDES:
+5 (a) A PROVIDER OF A WIRELESS, CELLULAR, OR MOBILE
+6 TELECOMMUNICATIONS SERVICE;
+7 (b) AN INTERCONNECTED VOICE-OVER-INTERNET PROTOCOL
+8 SERVICE;
+9 (c) A LANDLINE OR WIRELINE TELECOMMUNICATIONS SERVICE;
+10 (d) A SATELLITE-BASED TELECOMMUNICATIONS SERVICE; AND
+11 (e) A PENAL COMMUNICATIONS SERVICE PROVIDER, AS DEFINED IN
+12 SECTION 17-42-103 (2).
+13 SECTION 36. In Colorado Revised Statutes, 40-2-109, amend
+14 (2)(a) introductory portion as follows:
+15 40-2-109. Report to executive director of the department of
+16 revenue.
+17 (2) (a) On March 1 of each year, the public utilities commission
+18 shall furnish the executive director of the department of revenue with a
+19 list of those public utilities subject to its THE PUBLIC UTILITIES
+20 COMMISSION'S jurisdiction, supervision, and regulation on January 1 of
+21 each year AND A LIST OF VOICE SERVICE PROVIDERS. The provisions of this
+22 subsection (2) shall DO not apply to:
+23 SECTION 37. In Colorado Revised Statutes, amend 40-2-111 as
+24 follows:
+25 40-2-111. Report of utilities to department of revenue.
+26 Each public utility AND VOICE SERVICE PROVIDER required to pay
+27 such fees shall, on or before May 15 of each year, file a return with the
+-37- HB26-1326
+
+1 department of revenue on such forms as shall be prescribed by the
+2 executive director of the department of revenue and the public utilities
+3 commission setting forth the gross operating revenues of such THE public
+4 utility OR VOICE SERVICE PROVIDER from intrastate utility business only
+5 transacted ONLY in the state of Colorado during the preceding calendar
+6 year. Such THE return shall be executed and verified by two of the
+7 executive officers of the PUBLIC utility OR VOICE SERVICE PROVIDER
+8 making the return and shall contain or be verified by a written declaration
+9 that it is made under the penalties of perjury in the second degree, and any
+10 officer who knowingly and willfully makes and signs a false return is
+11 guilty of perjury in the second degree.
+12 SECTION 38. In Colorado Revised Statutes, 40-2-112, amend
+13 (1) as follows:
+14 40-2-112. Computation of fees.
+15 (1) (a) On or before June 1 of each year, the executive director of
+16 the department of revenue shall ascertain the aggregate amount of gross
+17 operating revenues of telephone corporations VOICE SERVICE PROVIDERS
+18 and all other public utilities filing returns as provided in section 40-2-111.
+19 Based on appropriations made by the general assembly the executive
+20 director of the department of regulatory agencies shall specify, for the
+21 telecommunications utility fund created in section 40-2-114 (1)(b)(I) and
+22 the public utilities commission fixed utility fund created in section
+23 40-2-114 (1)(b)(II), THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF
+24 REGULATORY AGENCIES SHALL SPECIFY the AMOUNT OF revenue THAT IS
+25 needed to provide PAY for the direct and indirect costs of the supervision
+26 and regulation of telephone corporations VOICE SERVICE PROVIDERS and
+27 all other public utilities under the jurisdiction of the department of
+-38- HB26-1326
+
+1 regulatory agencies, excluding the amount of money provided as
+2 administrative support from the various telecommunications programs
+3 administered by the commission, including the high cost support
+4 mechanism established in section 40-15-208, the 911 surcharge
+5 established in section 29-11-102.3, the 988 surcharge established in
+6 section 40-17.5-102, and the telephone disability access surcharge
+7 established in section 40-17-102.
+8 (b) (I) For each telephone corporation VOICE SERVICE PROVIDER,
+9 the executive director of the department of regulatory agencies shall
+10 compute CALCULATE the percentage which the amount of revenue needed
+11 for the direct and indirect costs of the supervision and regulation of
+12 telephone corporations VOICE SERVICE PROVIDERS is of the aggregate
+13 amount of gross operating revenues of the telephone corporation VOICE
+14 SERVICE PROVIDER derived from intrastate utility AND INTRASTATE
+15 TELECOMMUNICATIONS business transacted during the preceding calendar
+16 year, and that percentage shall be the basis upon which fees due from
+17 telephone corporations VOICE SERVICE PROVIDERS for the ensuing year
+18 shall be fixed.
+19 (II) For each public utility other than a telephone corporation, the
+20 executive director of the department of regulatory agencies shall compute
+21 the percentage which the amount of revenue needed for the direct and
+22 indirect costs of the supervision and regulation of public utilities other
+23 than telephone corporations is of the aggregate amount of THE PUBLIC
+24 UTILITY'S gross operating revenues of such public utilities THAT WERE
+25 derived from intrastate utility business transacted during the preceding
+26 calendar year, and that percentage shall be the basis upon which fees due
+27 from the public utilities for the ensuing year shall be fixed.
+-39- HB26-1326
+
+1 SECTION 39. In Colorado Revised Statutes, 40-2-113, amend
+2 (1) and (2) as follows:
+3 40-2-113. Collection of fees - limitation.
+4 (1) On or before June 15 of each year, the department of revenue
+5 shall notify each public utility subject to this article 2 AND EACH VOICE
+6 SERVICE PROVIDER of the amount of its fee for the ensuing fiscal year
+7 beginning July 1, computed by multiplying its gross intrastate utility AND
+8 INTRASTATE TELECOMMUNICATIONS operating revenues for the preceding
+9 calendar year, as set forth in its THE PUBLIC UTILITY'S OR VOICE SERVICE
+10 PROVIDER'S return filed for that purpose, by the percentage determined in
+11 accordance with section 40-2-112; except that the department of revenue
+12 shall not require a public utility that is a telephone corporation to pay a
+13 fee in excess of two-fifths of one percent of its gross intrastate utility AND
+14 INTRASTATE TELECOMMUNICATIONS operating revenues for the preceding
+15 calendar year and shall not require any other public utility to pay a fee in
+16 excess of forty-five one-hundredths of one percent of its gross intrastate
+17 utility AND INTRASTATE TELECOMMUNICATIONS operating revenues for the
+18 preceding calendar year.
+19 (2) Each public utility including penal communications service
+20 providers, as defined in section 17-42-103 (2), AND EACH VOICE SERVICE
+21 PROVIDER shall pay the fee assessed against it to the department of
+22 revenue in equal quarterly installments on or before July 15, October 15,
+23 January 15, and April 15 in each fiscal year. If a public utility OR VOICE
+24 SERVICE PROVIDER does not make a payment by one of the quarterly
+25 deadlines, the department of revenue shall charge the public utility OR
+26 VOICE SERVICE PROVIDER a penalty of ten percent of the installment due,
+27 together with interest at the rate of one percent per month on the amount
+-40- HB26-1326
+
+1 of the unpaid installment until the full amount of the installment, penalty,
+2 and interest has been paid. Upon failure, refusal, or neglect of any public
+3 utility OR VOICE SERVICE PROVIDER to pay the fee, or any penalty or
+4 interest, the attorney general shall bring suit in the name of the state to
+5 collect the amount due.
+6 SECTION 40. In Colorado Revised Statutes, 29-11-104, amend
+7 (2)(a)(II)(A) as follows:
+8 29-11-104. Use of money collected.
+9 (2) (a) (II) If money is available after the costs and charges
+10 enumerated in subsection (2)(a)(I) of this section are fully paid in a given
+11 year, the money may be expended for:
+12 (A) Public safety radio equipment outside the PSAP THAT IS USED
+13 FOR DISPATCHING EMERGENCY SERVICE PROVIDERS TO RESPOND TO 911
+14 CALLS; or
+15 SECTION 41. In Colorado Revised Statutes, 17-42-103, amend
+16 (5)(a) and (5)(c)(III) as follows:
+17 17-42-103. Policies concerning inmates' use of telephones -
+18 excessive rates prohibited - transparency of communications services
+19 in correctional facilities - report - definitions - rules.
+20 (5) (a) Starting on January 1, 2022, THE PUBLIC UTILITIES
+21 COMMISSION MAY ESTABLISH, BY RULE, INTRASTATE rate caps AND CAPS
+22 ON ANCILLARY SERVICE CHARGES established by the federal
+23 communications commission TO apply to all in-state debit, prepaid, and
+24 collect calls to or from a correctional facility. THE INTRASTATE RATE CAPS
+25 MAY TAKE EFFECT JANUARY 1, 2027. THE PUBLIC UTILITIES COMMISSION
+26 MAY ANNUALLY ADJUST THE RATE CAPS IN AN AMOUNT NOT TO EXCEED
+27 ANY INTRASTATE RATE CAPS ESTABLISHED BY THE FEDERAL
+-41- HB26-1326
+
+1 COMMUNICATIONS COMMISSION. THE PUBLIC UTILITIES COMMISSION MAY
+2 ENFORCE THE RATE CAPS.
+3 (c) The public utilities commission shall comply with the
+4 following steps when conducting trial tests of penal communications
+5 services:
+6 (III) Tests may be conducted remotely. All correctional facilities
+7 AND PENAL COMMUNICATIONS SERVICE PROVIDERS shall cooperate with
+8 the public utilities commission in conducting tests of penal
+9 communications services.
+10 SECTION 42. In Colorado Revised Statutes, 40-7-117, amend
+11 (2) introductory portion and (2)(c) as follows:
+12 40-7-117. Gas pipeline safety rules - civil penalty for violations
+13 - other remedies - rules.
+14 (2) Any THE COMMISSION MAY REDUCE THE AMOUNT OF A civil
+15 penalty authorized by this section may be reduced by the commission
+16 based on consideration of objective metrics and factors set forth in rules.
+17 The metrics and factors must include:
+18 (c) The extent to which the violator agrees to spend, in lieu of
+19 payment of part of the civil penalty, a specified dollar amount on
+20 commission-approved measures to reduce the overall risk to pipeline
+21 system safety or integrity; except that the amount of the penalty payable
+22 to the commission shall MUST be no less than five thousand dollars
+23 UNLESS THE VIOLATOR IS A SMALL OPERATOR, AS THAT TERM IS DEFINED
+24 BY THE COMMISSION BY RULE.
+25 SECTION 43. In Colorado Revised Statutes, 40-3-104.4, add (3)
+26 as follows:
+27 40-3-104.4. Simplified regulatory treatment for small or
+-42- HB26-1326
+
+1 nonprofit water utilities - study of privately owned water utilities -
+2 repeal.
+3 (3) (a) ON OR BEFORE EIGHTEEN MONTHS AFTER THE EFFECTIVE
+4 DATE OF THIS SUBSECTION (3), THE COMMISSION SHALL CONDUCT A STUDY
+5 THAT:
+6 (I) IDENTIFIES ALL PRIVATELY OWNED WATER UTILITIES IN THE
+7 STATE;
+8 (II) ASSESSES THE FINANCIAL CONDITION OF EACH OF THE
+9 PRIVATELY OWNED WATER UTILITIES;
+10 (III) ANALYZES WHAT OPTIONS ARE AVAILABLE TO THE PRIVATELY
+11 OWNED WATER UTILITIES TO TRANSITION INTO SPECIAL DISTRICTS,
+12 MUNICIPAL ENTITIES, PUBLIC INTEREST NONPROFIT ORGANIZATIONS,
+13 MEMBER-OWNED NONPROFIT ORGANIZATIONS, OR OTHER TYPES OF
+14 ENTITIES; AND
+15 (IV) ADDRESSES WHAT UPGRADE COSTS ARE NECESSARY FOR THE
+16 MAINTENANCE OR ENVIRONMENTAL COMPLIANCE OF PRIVATELY OWNED
+17 WATER UTILITY INFRASTRUCTURE AND WHETHER A DISTINCT FUNDING
+18 STREAM SHOULD BE MADE AVAILABLE TO SUPPORT THE UPGRADE COSTS.
+19 (b) THE COMMISSION SHALL COMPLETE AND MAKE THE RESULTS OF
+20 THE STUDY PUBLICLY AVAILABLE ON THE COMMISSION'S WEBSITE ON OR
+21 BEFORE OCTOBER 1, 2031.
+22 (c) THIS SUBSECTION (3) IS REPEALED, EFFECTIVE SEPTEMBER 1,
+23 2032.
+24 SECTION 44. Act subject to petition - effective date -
+25 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+26 the expiration of the ninety-day period after final adjournment of the
+27 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+-43- HB26-1326
+
+1 2026); except that, if a referendum petition is filed pursuant to section 1
+2 (3) of article V of the state constitution against this act or an item, section,
+3 or part of this act within such period, then the act, item, section, or part
+4 will not take effect unless approved by the people at the general election
+5 to be held in November 2026 and, in such case, will take effect on the
+6 date of the official declaration of the vote thereon by the governor.
+7 (2) This act applies to conduct occurring on or after the applicable
+8 effective date of this act.
+-44- HB26-1326

@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0348.01 Lindy Schaible x4215 HOUSE BILL 26-1106
+HOUSE SPONSORSHIP
+Lindsay and Velasco,
+SENATE SPONSORSHIP
+Weissman and Michaelson Jenet,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING EVICTION PROTECTIONS FOR TENANTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill limits the number of forcible entry and detainer (eviction)
+actions that a county court schedules on one business day.
+The bill prohibits including a minor defendant as a named
+defendant in an eviction complaint when a parent or adult guardian is also
+listed as a defendant on the same complaint.
+The bill prohibits a court from entering judgment without a trial or
+a hearing when a tenant's answer to an eviction complaint expresses an
+intent to cure nonpayment.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill specifies that the following reasons excuse a tenant from
+filing a timely written answer to an eviction complaint: A hospitalization,
+a sickness or injury, a reasonable accommodation request for a disability,
+a lack of proper service, a transportation issue, a complication related to
+electronic filing that was reasonably outside of the tenant's control, and
+a court issue that was reasonably outside of the tenant's control.
+When a tenant in an eviction action asserts that they were affected
+by one of the specified reasons, the bill requires a court to:
+! Relieve a tenant from final judgment, vacate any judgment
+or writ of restitution that was issued, and provide the tenant
+with a reasonable amount of time to file an answer;
+! Permit additional and amended pleadings; and
+! Extend the trial date.
+The bill repeals appeals bond in eviction cases.
+The bill extends the time for executing a writ of restitution in an
+eviction action from 48 hours to 30 days, except in cases involving
+substantial violations.
+The bill prohibits the execution of writs in eviction actions during
+inclement weather.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend 13-40-109 as
+3 follows:
+4 13-40-109. Jurisdiction of courts - limit daily number of
+5 forcible entry and detainer cases - definition.
+6 (1) The district courts in their respective districts and county
+7 courts in their respective counties have jurisdiction of OVER all cases of
+8 forcible entry, forcible detainer, or unlawful detainer arising pursuant to
+9 this article 40, and the person entitled to the possession of any A premises
+10 may recover possession thereof OF THE PREMISES by action brought in any
+11 of said courts A DISTRICT OR A COUNTY COURT in the manner provided in
+12 this article 40.
+13 (2) On and after January 1, 2019, In all actions AN ACTION brought
+14 before county courts A COUNTY COURT pursuant to section 13-40-104
+-2- HB26-1106
+
+1 (1)(f) to (1)(i), where the allegations of the complaint are put in issue by
+2 a verified answer and in actions AN ACTION in which the verified answer
+3 alleges a monthly rental value of the property in excess of twenty-five
+4 thousand dollars, the county court, upon the filing of said answer AFTER
+5 THE ANSWER IS FILED, shall suspend all proceedings therein BEFORE THE
+6 COUNTY COURT and certify said cause THE ACTION and transmit the papers
+7 therein FILED IN THE COUNTY COURT to the district court of the same
+8 county. Causes so AN ACTION certified by the A county court shall be
+9 proceeded within the courts to which they have been so certified in all
+10 respects as if originally begun in the court to which they have been
+11 certified TO A DISTRICT COURT MUST PROCEED AS IF THE ACTION HAD
+12 ORIGINALLY BEEN FILED IN THE DISTRICT COURT.
+13 (3) On and after January 1, 2019, The jurisdiction of the county
+14 court to enter judgment for rent, or damages, or both, and to render
+15 judgment on a counterclaim in forcible entry and detainer shall be IS
+16 limited to a total of twenty-five thousand dollars in favor of either party,
+17 exclusive of costs and attorney fees.
+18 (4) (a) ON AND AFTER JANUARY 1, 2027, A COUNTY COURT SHALL
+19 NOT SET FOR RETURN MORE THAN THE NUMBER OF FORCIBLE ENTRY AND
+20 DETAINER ACTIONS ON ONE BUSINESS DAY AS FOLLOWS:
+21 (I) FOR COUNTIES THAT HAD FEWER THAN ONE THOUSAND
+22 FORCIBLE ENTRY AND DETAINER ACTIONS FILED IN THE PRECEDING YEAR,
+23 A DAILY CAP OF TWENTY-FIVE ACTIONS;
+24 (II) FOR COUNTIES THAT HAD ONE THOUSAND OR MORE BUT FEWER
+25 THAN FIVE THOUSAND FORCIBLE ENTRY AND DETAINER ACTIONS FILED IN
+26 THE PRECEDING YEAR, A DAILY CAP OF FORTY-FIVE ACTIONS; AND
+27 (III) FOR COUNTIES THAT HAD FIVE THOUSAND OR MORE FORCIBLE
+-3- HB26-1106
+
+1 ENTRY AND DETAINER ACTIONS FILED IN THE PRECEDING YEAR, A DAILY
+2 CAP OF SIXTY-FIVE ACTIONS.
+3 (b) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+4 REQUIRES, "SET FOR RETURN" MEANS AN ACTION IN WHICH THE TENANT IS
+5 COMMANDED TO APPEAR BEFORE THE COURT PURSUANT TO THE SUMMONS
+6 DESCRIBED IN SECTION 13-40-111.
+7 SECTION 2. In Colorado Revised Statutes, 13-40-110, add
+8 (1)(g) as follows:
+9 13-40-110. Action - how commenced - report - definition.
+10 (1) (g) (I) A PERSON SHALL NOT FILE A FORCIBLE ENTRY AND
+11 DETAINER COMPLAINT PURSUANT TO THIS ARTICLE 40 THAT INCLUDES A
+12 MINOR TENANT AS A NAMED DEFENDANT IF A PARENT OR LEGAL GUARDIAN
+13 IS ALSO LISTED ON THE SAME COMPLAINT.
+14 (II) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+15 REQUIRES, "MINOR" MEANS A PERSON WHO IS UNDER EIGHTEEN YEARS OLD
+16 WHO HAS NOT BEEN LEGALLY EMANCIPATED.
+17 (III) A COURT SHALL DISMISS WITHOUT PREJUDICE AN ACTION
+18 FILED IN VIOLATION OF THIS SECTION AND ORDER THE PARTY THAT FILED
+19 THE ACTION TO PAY TO THE MINOR'S PARENT OR LEGAL GUARDIAN ANY
+20 COSTS ASSOCIATED WITH DEFENDING THE ACTION.
+21 SECTION 3. In Colorado Revised Statutes, 13-40-113, amend
+22 (1)(a) and (2); and add (1)(c) and (4)(a.7) as follows:
+23 13-40-113. Answer of defendant - additional and amended
+24 pleadings.
+25 (1) (a) The defendant shall file with the court, at or before the day
+26 specified for the defendant's appearance in the summons, an answer in
+27 writing. The defendant's answer must set forth the grounds on which the
+-4- HB26-1106
+
+1 defendant bases the defendant's claim for possession, admitting or
+2 denying all of the material allegations of the complaint, and presenting
+3 every defense that then exists and upon which the defendant intends to
+4 rely, either by including the same DEFENSE in the defendant's answer or
+5 by simultaneously filing motions setting forth each defense. IF THE
+6 DEFENDANT'S ANSWER EXPRESSES AN INTENTION TO EXERCISE THEIR
+7 RIGHT TO CURE PURSUANT TO SECTION 13-40-115, THEN THE COURT SHALL
+8 NOT ENTER JUDGMENT WITHOUT A TRIAL OR A HEARING.
+9 (c) IF THE DEFENDANT ASSERTS THAT THEY DID NOT TIMELY FILE
+10 AN ANSWER IN WRITING FOR ONE OR MORE OF THE FOLLOWING REASONS,
+11 THE COURT SHALL RELIEVE THE DEFENDANT FROM FINAL JUDGMENT AND
+12 VACATE ANY JUDGMENT OR WRIT OF RESTITUTION THAT MAY HAVE BEEN
+13 ISSUED AND PROVIDE THE DEFENDANT WITH A REASONABLE AMOUNT OF
+14 TIME, NO LESS THAN SEVEN DAYS, TO FILE AN ANSWER TO THE COMPLAINT:
+15 (I) A HOSPITALIZATION;
+16 (II) A SICKNESS OR AN INJURY DOCUMENTED BY A NOTE FROM A
+17 MEDICAL PROFESSIONAL;
+18 (III) A REASONABLE ACCOMMODATION REQUEST MADE TO THE
+19 COURT FOR A DISABILITY;
+20 (IV) A LACK OF PROPER SERVICE IN ACCORDANCE WITH SECTION
+21 13-40-112;
+22 (V) A TRANSPORTATION ISSUE THAT REASONABLY PREVENTED
+23 TIMELY PARTICIPATION;
+24 (VI) A COMPLICATION RELATED TO ELECTRONIC FILING THAT WAS
+25 REASONABLY OUTSIDE THE CONTROL OF THE DEFENDANT; AND
+26 (VII) A COURT ISSUE THAT WAS REASONABLY OUTSIDE THE
+27 CONTROL OF THE DEFENDANT.
+-5- HB26-1106
+
+1 (2) The court for good cause may permit the filing of additional
+2 and amended pleadings if it THE FILING will not result in a delay
+3 prejudicial to the defendant. If the defendant asserts a defense described
+4 in section 13-40-104 (4)(a), OR IF THE DEFENDANT ASSERTS A REASON
+5 LISTED IN SUBSECTION (1)(c) OF THIS SECTION, the court shall permit the
+6 filing of additional and amended pleadings.
+7 (4) After an answer is provided to the court pursuant to this
+8 section:
+9 (a.7) IF A DEFENDANT IN AN ACTION FILED PURSUANT TO THIS
+10 ARTICLE 40 REQUESTS AN EXTENSION OF A SCHEDULED TRIAL DATE DUE
+11 TO A REASON LISTED IN SUBSECTION (1)(c) OF THIS SECTION, THE COURT
+12 SHALL FIND GOOD CAUSE EXISTS TO EXTEND THE TRIAL DATE BEYOND TEN
+13 DAYS AFTER THE ANSWER IS FILED AND SHALL MAKE ALL REASONABLE
+14 EFFORTS TO SCHEDULE THE TRIAL DATE AT THE EARLIEST TIME
+15 PRACTICABLE THAT WOULD ALSO ALLOW BOTH PARTIES TO PARTICIPATE.
+16 A COURT MAY ALSO GRANT AN EXTENSION OF A SCHEDULED TRIAL DATE
+17 FOR ANY OTHER REASON AT ITS DISCRETION PURSUANT TO SUBSECTION
+18 (4)(a) OF THIS SECTION.
+19 SECTION 4. In Colorado Revised Statutes, 13-40-115, amend
+20 (4) introductory portion as follows:
+21 13-40-115. Judgment - writ of restitution - cure period.
+22 (4) A landlord who provides a tenant with proper notice of
+23 nonpayment shall accept payment of the tenant's full payment of all
+24 amounts lawfully due OWED according to the notice RENTAL AGREEMENT,
+25 as well as any rent that remains LAWFULLY due under the rental agreement
+26 or that remains due pursuant to a repayment plan established pursuant to
+27 section 13-40-104 (4)(e), at any time until a judge issues a judgment for
+-6- HB26-1106
+
+1 possession pursuant to subsection (1) or (2) of this section. A tenant may
+2 pay this amount to either the landlord or to the court. Once a court has
+3 confirmation that the full amount has been timely paid, the court shall:
+4 SECTION 5. In Colorado Revised Statutes, 13-40-117, amend
+5 (3) as follows:
+6 13-40-117. Appeals.
+7 (3) If the appellee believes that the appellee may suffer serious
+8 economic harm during the pendency of the appeal, the appellee may
+9 petition the court taking the appeal to require the appellant to have an
+10 additional undertaking to cover the anticipated harm. The court shall
+11 order such AN ADDITIONAL undertaking only after a hearing and upon a
+12 finding that the appellee has shown a substantial likelihood of suffering
+13 such economic harm during the pendency of the appeal and that the
+14 appellee will not be adequately protected under the appeals bond and the
+15 other requirements for appeal pursuant to sections 13-40-118, 13-40-120,
+16 and 13-40-123 PURSUANT TO SECTIONS 13-40-120 AND 13-40-123.
+17 SECTION 6. In Colorado Revised Statutes, repeal 13-40-118 as
+18 follows:
+19 13-40-118. Deposit of rent.
+20 In all appeals from the judgment of a county court, in an action
+21 founded upon section 13-40-104 (1)(d), the defendant, at the time of the
+22 filing thereof, shall deposit with the court the amount of rent found due
+23 and specified in such judgment. Unless such deposit is made, the appeal
+24 is not perfected, and proceedings upon such judgment shall thereupon be
+25 had accordingly. If the appeal is perfected, the court shall transmit such
+26 deposit to the clerk of the appellate court, with the papers in such case;
+27 and the appellant thereafter, at the time when the rents become due as
+-7- HB26-1106
+
+1 specified in the judgment appealed from and as often as the same become
+2 due, shall deposit the amount thereof with the clerk of such appellate
+3 court. In case the appellant, at any time during the pendency of such
+4 appeal and before final judgment therein, neglects or fails to make any
+5 deposit of rent, falling due at the time specified in the judgment appealed
+6 from, the court in which such appeal is pending, upon such fact being
+7 made to appear and upon motion of the appellee, shall affirm the
+8 judgment appealed from with costs; and proceedings thereupon shall be
+9 had as in like cases determined upon the merits.
+10 SECTION 7. In Colorado Revised Statutes, amend 13-40-120 as
+11 follows:
+12 13-40-120. Appellate review.
+13 Appellate review of the judgment of the district courts of this state
+14 in proceedings under this article ARTICLE 40 is allowed as provided by
+15 law and the Colorado appellate rules. In cases of appeal from judgments
+16 founded upon causes of action embraced in section 13-40-104 (1)(d), the
+17 deposit of rent money during pendency of appeal shall be made, or
+18 judgment of affirmance shall be entered, in the manner provided in
+19 section 13-40-118.
+20 SECTION 8. In Colorado Revised Statutes, 13-40-122, amend
+21 (1)(a) and (1)(b); and add (1)(d) and (1)(e) as follows:
+22 13-40-122. Writ of restitution after judgment - definitions.
+23 (1) (a) Except as provided in subsection (1)(a.5) of this section,
+24 a court shall not issue a writ of restitution upon any judgment entered in
+25 any action pursuant to this article 40 until forty-eight hours after the time
+26 of the entry of the judgment. If the writ of restitution concerns a
+27 residential tenant who receives supplemental security income, social
+-8- HB26-1106
+
+1 security disability insurance under Title II of the federal "Social Security
+2 Act", 42 U.S.C. sec. 401 et seq., as amended, or cash assistance through
+3 the Colorado works program created in part 7 of article 2 of title 26, The
+4 writ must specify that the writ is not executable for thirty days after entry
+5 of judgment pursuant to subsection (1)(b) of this section; except in the
+6 case
+7 (I) in which a court has ordered a judgment for possession for a
+8 substantial violation pursuant to section 13-40-107.5. or
+9 (II) Of a landlord with five or fewer single-family rental homes
+10 and no more than five total rental units including any single-family
+11 homes.
+12 (b) A writ of restitution must be executed by the officer having the
+13 same only in the daytime and between sunrise and sunset, and the officer
+14 shall not execute a writ of restitution concerning a residential tenancy
+15 until at least ten days after entry of the judgment; except that the officer
+16 shall not execute a writ of restitution concerning a residential tenancy
+17 until at least thirty days after entry of judgment; if the residential tenant
+18 receives supplemental security income, social security disability insurance
+19 under Title II of the federal "Social Security Act", 42 U.S.C. sec. 401 et
+20 seq., as amended, or cash assistance through the Colorado works program
+21 created in part 7 of article 2 of title 26, as specified in the writ; except in
+22 the case
+23 (I) in which a court has ordered a judgment for possession for a
+24 substantial violation pursuant to section 13-40-107.5. or
+25 (II) Of a landlord with five or fewer single-family rental homes
+26 and no more than five total rental units including any single-family
+27 homes.
+-9- HB26-1106
+
+1 (d) AN OFFICER SHALL NOT EXECUTE A WRIT OF RESTITUTION
+2 DURING INCLEMENT WEATHER.
+3 (e) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+4 REQUIRES, "INCLEMENT WEATHER" MEANS THE FORECASTED DAILY HIGH
+5 IS BELOW THIRTY-TWO DEGREES FAHRENHEIT OR ABOVE NINETY DEGREES
+6 FAHRENHEIT OR SUBSTANTIAL RAIN OR SNOW IS ACCUMULATING OR
+7 PROJECTED.
+8 SECTION 9. Safety clause. The general assembly finds,
+9 determines, and declares that this act is necessary for the immediate
+10 preservation of the public peace, health, or safety or for appropriations for
+11 the support and maintenance of the departments of the state and state
+12 institutions.
+-10- HB26-1106

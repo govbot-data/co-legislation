@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-1021.01 Sarah Lozano x3858 SENATE BILL 26-182
+SENATE SPONSORSHIP
+Snyder and Simpson,
+HOUSE SPONSORSHIP
+Caldwell and Paschal,
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING AN UPDATED CLEAN ENERGY PLAN FROM A MUNICIPALLY
+102 OWNED UTILITY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires certain entities to file, or allows certain
+entities to voluntarily file, a clean energy plan to achieve an 80%
+reduction in greenhouse gas emissions caused by the entity's electricity
+sales in Colorado by 2030, relative to 2005 levels (2030 emission
+reductions).
+A municipally owned utility that has encountered challenges in
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+achieving the 2030 emission reductions may submit to the division of
+administration in the department of public health and environment
+(division), no later than December 31, 2026, an updated clean energy plan
+that demonstrates achievement of the 2030 emission reductions by the
+earliest date possible on or after December 31, 2029, but no later than
+December 31, 2032.
+A municipally owned utility that submits an updated clean energy
+plan to the division must:
+! Provide a detailed generation and transmission plan to the
+division with the updated clean energy plan;
+! Provide an annual report to the division beginning January
+1, 2028, and continuing each year until December 31, 2033,
+that contains certain information related to the updated
+clean energy plan;
+! Cease burning coal by December 31, 2032; and
+! Seek to achieve certain additional reductions in greenhouse
+gas emissions without impairing the municipally owned
+utility's ability to maintain certain electric reliability
+standards.
+The updated clean energy plan must be verified by the division,
+and the municipally owned utility must pay all costs for the verification.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 25-7-105, amend (1)
+3 introductory portion; and add (1)(e)(VIII.5)(I), (1)(e)(XI.1), and
+4 (1)(e)(XI.2) as follows:
+5 25-7-105. Duties of commission - technical secretary - rules -
+6 report - legislative declaration - definitions - repeal.
+7 (1) Except as provided in sections 25-7-130 and 25-7-131, the
+8 commission shall promulgate ADOPT rules that are consistent with the
+9 legislative declaration set forth in section 25-7-102 and necessary for the
+10 proper implementation and administration of this article 7, including:
+11 (e) (VIII.5) (I) NOTWITHSTANDING ANY OTHER REQUIREMENT OF
+12 THIS SUBSECTION (1)(e), A MUNICIPALLY OWNED UTILITY THAT HAS
+13 ENCOUNTERED CHALLENGES IN ACHIEVING THE GREENHOUSE GAS
+-2- SB26-182
+
+1 EMISSION REDUCTION PERCENTAGES IN A PREVIOUSLY FILED CLEAN
+2 ENERGY PLAN MAY SUBMIT TO THE DIVISION, NO LATER THAN DECEMBER
+3 31, 2026, AN UPDATED CLEAN ENERGY PLAN THAT HAS BEEN APPROVED BY
+4 A VOTE OF THE MUNICIPALLY OWNED UTILITY'S GOVERNING BODY AND
+5 THAT DEMONSTRATES THAT THE MUNICIPALLY OWNED UTILITY WILL
+6 ACHIEVE AN EIGHTY PERCENT REDUCTION IN GREENHOUSE GAS EMISSIONS
+7 CAUSED BY THE MUNICIPALLY OWNED UTILITY'S COLORADO RETAIL
+8 ELECTRICITY SALES, RELATIVE TO 2005 LEVELS, BY THE EARLIEST DATE
+9 POSSIBLE ON OR AFTER DECEMBER 31, 2029, BUT NO LATER THAN
+10 DECEMBER 31, 2032.
+11 (XI.1) A MUNICIPALLY OWNED UTILITY THAT SUBMITS AN
+12 UPDATED CLEAN ENERGY PLAN PURSUANT TO SUBSECTION (1)(e)(VIII.5)(I)
+13 OF THIS SECTION SHALL:
+14 (A) ENSURE THAT THE UPDATED CLEAN ENERGY PLAN SUBMITTED
+15 TO THE DIVISION CONTAINS A DETAILED GENERATION AND TRANSMISSION
+16 PLAN THAT IS NOT GENERICALLY CLASSIFIED AS "TO BE DETERMINED", BUT
+17 THAT INCLUDES THE AMOUNT AND TYPES OF RESOURCES ANTICIPATED TO
+18 BE NEEDED TO ACHIEVE AN EIGHTY PERCENT REDUCTION IN GREENHOUSE
+19 GAS EMISSIONS, THE ANTICIPATED DELIVERY AREAS WHERE NEW
+20 GENERATION WOULD BE PROCURED, AND THE ANTICIPATED LOCATION AND
+21 CAPACITY OF ANY NEW TRANSMISSION THAT WOULD NEED TO BE BUILT OR
+22 ACQUIRED THROUGH THE REGIONAL TRANSMISSION ORGANIZATION OF
+23 WHICH THE MUNICIPALLY OWNED UTILITY IS A MEMBER;
+24 (B) BEGINNING JANUARY 1, 2028, AND CONTINUING EACH YEAR
+25 UNTIL DECEMBER 31, 2033, ANNUALLY REPORT TO THE DIVISION AND
+26 MAKE PUBLICLY AVAILABLE ON THE MUNICIPALLY OWNED UTILITY'S
+27 WEBSITE: THE MUNICIPALLY OWNED UTILITY'S PROGRESS IN PLANNING FOR
+-3- SB26-182
+
+1 AND ACQUIRING THE NECESSARY GENERATION AND TRANSMISSION
+2 RESOURCES IDENTIFIED IN ITS UPDATED CLEAN ENERGY PLAN, THE
+3 MUNICIPALLY OWNED UTILITY'S GREENHOUSE GAS EMISSION REDUCTIONS
+4 RELATIVE TO 2005 LEVELS, AND AN UPDATED LOADS AND RESOURCES
+5 TABLE THAT INCLUDES ANY CHANGES TO FORECASTED DEMAND FROM THE
+6 FORECAST USED IN THE UPDATED CLEAN ENERGY PLAN;
+7 (C) NO LATER THAN DECEMBER 31, 2032, CEASE BURNING COAL
+8 AT ANY COAL-FIRED GENERATING UNIT OWNED, OPERATED, OR BOTH BY
+9 THE MUNICIPALLY OWNED UTILITY;
+10 (D) SEEK TO ACHIEVE A NINETY-FIVE PERCENT REDUCTION IN
+11 GREENHOUSE GAS EMISSIONS CAUSED BY THE MUNICIPALLY OWNED
+12 UTILITY'S COLORADO RETAIL ELECTRICITY SALES BY DECEMBER 31, 2039,
+13 RELATIVE TO 2005 LEVELS, WITHOUT IMPAIRING THE MUNICIPALLY OWNED
+14 UTILITY'S ABILITY TO MAINTAIN THE ELECTRIC RELIABILITY STANDARDS
+15 OF A REGIONAL TRANSMISSION ORGANIZATION OF WHICH THE
+16 MUNICIPALLY OWNED UTILITY IS A MEMBER; AND
+17 (E) SEEK TO REDUCE, BETWEEN THE DATE AN EIGHTY PERCENT
+18 REDUCTION IN GREENHOUSE GAS EMISSIONS IS ACHIEVED AND DECEMBER
+19 31, 2035, ANY CUMULATIVE GREENHOUSE GAS EMISSIONS RESULTING
+20 FROM THE UPDATED CLEAN ENERGY PLAN RELATIVE TO THE MUNICIPALLY
+21 OWNED UTILITY'S ORIGINAL CLEAN ENERGY PLAN, WITHOUT IMPAIRING
+22 THE MUNICIPALLY OWNED UTILITY'S ABILITY TO MAINTAIN THE ELECTRIC
+23 RELIABILITY STANDARDS OF A REGIONAL TRANSMISSION ORGANIZATION
+24 OF WHICH THE MUNICIPALLY OWNED UTILITY IS A MEMBER.
+25 (XI.2) (A) AN UPDATED CLEAN ENERGY PLAN SUBMITTED BY A
+26 MUNICIPALLY OWNED UTILITY PURSUANT TO SUBSECTION (1)(e)(VIII.5)(I)
+27 OF THIS SECTION SHALL BE PUBLICLY VERIFIED BY THE DIVISION
+-4- SB26-182
+
+1 CONSISTENT WITH THE REQUIREMENTS OF SUBSECTION (1)(e)(VIII)(F) OF
+2 THIS SECTION; EXCEPT THAT: DIVISION VERIFICATION MUST NOT INCLUDE
+3 THE PUBLIC UTILITIES COMMISSION, AND THE MUNICIPALLY OWNED
+4 UTILITY SHALL PAY ALL REASONABLE COSTS ASSOCIATED WITH THE
+5 DIVISION'S VERIFICATION PURSUANT TO SUBSECTION (1)(e)(VIII)(F) OF
+6 THIS SECTION.
+7 (B) THE DATES ASSOCIATED WITH THE REQUIREMENTS SET FORTH
+8 IN SUBSECTIONS (1)(e)(VIII)(C), (1)(e)(VIII)(F), AND (1)(e)(VIII.3) OF
+9 THIS SECTION SHALL BE CONSTRUED TO ALIGN WITH THE REVISED DATES
+10 IN SUBSECTION (1)(e)(VIII.5)(I) OF THIS SECTION FOR ANY UPDATED
+11 CLEAN ENERGY PLAN SUBMITTED BY A MUNICIPALLY OWNED UTILITY
+12 PURSUANT TO SUBSECTION (1)(e)(VIII.5)(I) OF THIS SECTION.
+13 SECTION 2. Safety clause. The general assembly finds,
+14 determines, and declares that this act is necessary for the immediate
+15 preservation of the public peace, health, or safety or for appropriations for
+16 the support and maintenance of the departments of the state and state
+17 institutions.
+-5- SB26-182

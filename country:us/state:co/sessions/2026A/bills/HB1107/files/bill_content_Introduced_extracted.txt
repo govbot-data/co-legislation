@@ -1,0 +1,404 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0237.01 Eden Rolland x2373 HOUSE BILL 26-1107
+HOUSE SPONSORSHIP
+Feret and Paschal,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO INCREASE ACCESS TO SERVICES IN
+102 FACILITIES THAT PROVIDE MEDICAL CARE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1 and 4 of the bill establish information disclosure
+requirements for a licensed facility that advertises, markets, promotes, or
+offers services, including memory care services, for individuals with
+dementia and dementia-related conditions, including Alzheimer's disease.
+The bill refers to such a facility or agency as a "dementia care facility".
+The bill requires the department of public health and environment
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+(department), in consultation with the state long-term care ombudsman
+or the ombudsman's designee, to create a dementia care services
+information form (form) by January 1, 2027. The form must include fields
+for the disclosure of certain information regarding a dementia care
+facility's dementia care services, including the facility's:
+! Dementia training requirements for staff that are in addition
+to statutory training requirements;
+! Guidelines for using restraints; and
+! Security features and procedures for addressing the needs
+of residents with dementia.
+The bill authorizes the department to regularly review the form and
+update it as needed. After creating or subsequently updating the form, the
+department must provide the form to every dementia care facility in the
+state.
+The bill requires a dementia care facility to complete the form with
+responsive, accurate, and complete information regarding the facility's
+dementia care services. Beginning July 1, 2027, every dementia care
+facility must:
+! Provide its completed form to every individual who
+contacts the facility seeking dementia care services;
+! Review and update the form when a change in information
+occurs to ensure that the facility's information provided on
+the form is current, complete, and correct;
+! Publish the facility's current version of the completed form
+on the facility's website; and
+! At all times, maintain on the facility's premises and have
+available for inspection a copy of the facility's completed
+form with the facility's most current information and
+produce the form upon request by the department during a
+survey or inspection of the facility.
+The bill establishes a facility's violation of the last itemized
+requirements regarding the form as a deceptive trade practice under the
+"Colorado Consumer Protection Act".
+Currently, the department has the power to establish and maintain
+by rule a medication administration program in certain licensed or
+regulated facilities. Current law requires the department of human
+services, the behavioral health administration, the department of health
+care policy and financing, and the department of corrections to develop
+and conduct a medication administration program in certain types of
+residential, assisted living, and correctional facilities.
+Sections 5 and 6 modify the definition of "administration" to
+include administration of medication specifically by injection and allow
+a licensed practical nurse (LPN) or a certified nurse aide (CNA) to
+administer medication by injection as part of a medication administration
+program if the LPN or CNA receives education and training on
+-2- HB26-1107
+
+administering medication by injection.
+The bill requires the department, in consultation with the state
+board of nursing, to establish by rule the education and training required
+for an LPN or a CNA to obtain the authorization created by the bill to
+administer medication by injection. A facility may not require that a
+registered nurse be on site as a prerequisite to an LPN or CNA
+administering medication by injection.
+The bill also adds all facilities and agencies licensed and regulated
+by the department to the list of specified facilities that can have a
+medication administration program.
+Sections 2 and 3 modify the scope of practice for CNAs to include
+the administration of medication by injection as authorized under the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-1-105, add
+3 (1)(qqqq) as follows:
+4 6-1-105. Unfair or deceptive trade practices - definitions.
+5 (1) A person engages in a deceptive trade practice when, in the
+6 course of the person's business, vocation, or occupation, the person:
+7 (qqqq) VIOLATES SECTION 25-1-124.3 (3)(b)(V).
+8 SECTION 2. In Colorado Revised Statutes, 12-255-206, amend
+9 (1)(d) and (1)(e); and add (1)(f) as follows:
+10 12-255-206. Scope of practice - rules.
+11 (1) In addition to any nursing tasks delegated to a certified nurse
+12 aide pursuant to section 12-255-131, a certified nurse aide who is deemed
+13 competent by a registered nurse licensed pursuant to part 1 of this article
+14 255 may perform the following tasks:
+15 (d) Administration of oxygen to clients; and
+16 (e) Changing ostomy bags; AND
+17 (f) ADMINISTRATION OF MEDICATION BY INJECTION SUBJECT TO
+18 AND IN ACCORDANCE WITH PART 3 OF ARTICLE 1.5 OF TITLE 25.
+19 SECTION 3. In Colorado Revised Statutes, 12-255-208, amend
+-3- HB26-1107
+
+1 (1) as follows:
+2 12-255-208. Medication aides - training - scope of duties -
+3 rules.
+4 (1) Prior to a certified nurse aide obtaining authority as a
+5 medication aide to administer medications, the certified nurse aide shall
+6 meet all applicable requirements as established by rules of the board. The
+7 board shall promulgate ADOPT rules regarding the scope of practice,
+8 education, experience, and certification requirements for a nurse aide to
+9 obtain authority to administer medications, INCLUDING THE AUTHORITY TO
+10 ADMINISTER MEDICATION BY INJECTION IN ACCORDANCE WITH PART 3 OF
+11 ARTICLE 1.5 OF TITLE 25. The board shall consider, but not be limited to,
+12 reducing the number of required hours of education, expanding the
+13 allowable routes of administration, reducing or eliminating the required
+14 hours of work experience, and developing different scopes of practice
+15 depending on practice setting, if appropriate.
+16 SECTION 4. In Colorado Revised Statutes, add 25-1-124.3 as
+17 follows:
+18 25-1-124.3. Dementia care services - information disclosure
+19 form - requirements - deceptive trade practice - definitions.
+20 (1) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+21 OTHERWISE REQUIRES:
+22 (a) "DEMENTIA CARE FACILITY" OR "FACILITY" MEANS A FACILITY
+23 THAT IS LICENSED BY THE DEPARTMENT PURSUANT TO SECTION 25-1.5-103
+24 AND THAT PUBLICLY ADVERTISES, MARKETS, PROMOTES, OR OFFERS
+25 SERVICES FOR DEMENTIA DISEASES AND RELATED DISABILITIES, INCLUDING
+26 MEMORY CARE SERVICES.
+27 (b) "DEMENTIA DISEASES AND RELATED DISABILITIES" OR
+-4- HB26-1107
+
+1 "DEMENTIA" HAS THE MEANING SET FORTH IN SECTION 25-1-502 (2.5).
+2 (c) "FORM" MEANS THE DEMENTIA CARE SERVICES INFORMATION
+3 FORM CREATED BY THE DEPARTMENT PURSUANT TO SUBSECTION (2)(a) OF
+4 THIS SECTION.
+5 (d) "STATE LONG-TERM CARE OMBUDSMAN" MEANS THE STATE
+6 LONG-TERM CARE OMBUDSMAN ESTABLISHED PURSUANT TO ARTICLE 11.5
+7 OF TITLE 26 OR THE STATE LONG-TERM CARE OMBUDSMAN'S DESIGNEE.
+8 (2) Dementia care services information form.
+9 (a) BY JANUARY 1, 2027, THE DEPARTMENT SHALL CREATE A
+10 DEMENTIA CARE SERVICES INFORMATION FORM FOR DEMENTIA CARE
+11 FACILITIES TO COMPLETE AND DISTRIBUTE IN ACCORDANCE WITH
+12 SUBSECTION (3) OF THIS SECTION. THE FORM MUST INCLUDE FIELDS FOR
+13 THE DISCLOSURE OF INFORMATION REGARDING THE DEMENTIA CARE
+14 FACILITY'S SERVICES. AT A MINIMUM, THE FORM MUST INCLUDE FIELDS
+15 FOR EACH OF THE FOLLOWING ELEMENTS:
+16 (I) THE FACILITY'S REQUIREMENTS FOR DEMENTIA TRAINING FOR
+17 THE FACILITY'S STAFF THAT ARE IN ADDITION TO THE DEMENTIA TRAINING
+18 REQUIRED PURSUANT TO SECTION 25-1.5-118;
+19 (II) THE FACILITY'S GUIDELINES FOR USING PHYSICAL AND
+20 CHEMICAL RESTRAINTS IN THE COURSE OF PROVIDING CARE TO RESIDENTS
+21 LIVING WITH DEMENTIA;
+22 (III) THE FACILITY'S SECURITY FEATURES AND SECURITY
+23 PROCEDURES FOR ADDRESSING THE NEEDS OF RESIDENTS WITH DEMENTIA,
+24 INCLUDING WANDERING AND EMERGENCY RESPONSE;
+25 (IV) THE CRITERIA AND PROCESSES THE FACILITY USES TO
+26 DETERMINE THE PLACEMENT, TRANSFER, OR DISCHARGE OF RESIDENTS
+27 LIVING WITH DEMENTIA;
+-5- HB26-1107
+
+1 (V) A DESCRIPTION OF HOW THE FACILITY INVOLVES FAMILY
+2 MEMBERS, ESPECIALLY FAMILY CAREGIVERS, IN THE ACTIVITIES AND CARE
+3 OF RESIDENTS LIVING WITH DEMENTIA;
+4 (VI) A DESCRIPTION OF HOW AND WHEN A RESIDENT'S AUTHORIZED
+5 REPRESENTATIVE IS NOTIFIED OF INCIDENTS OR CONCERNS, INCLUDING
+6 MEDICAL CONCERNS, SAFETY CONCERNS, AND OTHER CONCERNS;
+7 (VII) A DESCRIPTION OF THE FACILITY'S ON-SITE AND ON-CALL
+8 MEDICAL PROFESSIONALS;
+9 (VIII) A STATEMENT IDENTIFYING SOURCES, INCLUDING A LINK TO
+10 THE FEDERAL CENTERS FOR MEDICARE AND MEDICAID SERVICES' "CARE
+11 COMPARE" WEBSITE, OR ANY SUCCESSOR WEBSITE, THAT AN INDIVIDUAL
+12 MAY CONSULT TO FIND INFORMATION ABOUT:
+13 (A) PAST ENFORCEMENT ACTIONS OR COMPLAINTS, IF ANY, THAT
+14 RESULTED IN THE DEPARTMENT ISSUING WARNINGS OR FINES; AND
+15 (B) THE HEALTH-CARE COVERAGE PAYER SOURCES THAT THE
+16 FACILITY ACCEPTS, INCLUDING WHETHER THE FACILITY ACCEPTS PAYMENT
+17 FROM PRIVATE INSURANCE PLANS, THROUGH MEDICAID, OR THROUGH THE
+18 UNITED STATES DEPARTMENT OF VETERANS AFFAIRS;
+19 (IX) AN EXPLANATION OF THE FACILITY'S FEE SCHEDULE,
+20 INCLUDING THE FEES CHARGED TO RESIDENTS AND WHAT SERVICES ARE
+21 AND ARE NOT COVERED BY FEES. THE EXPLANATION MUST INCLUDE
+22 DETAILS ABOUT WHEN AND HOW A RESIDENT AND THE RESIDENT'S
+23 AUTHORIZED REPRESENTATIVE WILL BE NOTIFIED OF ANY CHANGE TO THE
+24 FEES.
+25 (X) ANY ADDITIONAL INFORMATION REGARDING DEMENTIA CARE
+26 SERVICES THAT THE DEPARTMENT DEEMS NECESSARY.
+27 (b) THE DEPARTMENT SHALL CREATE THE FORM DESCRIBED IN
+-6- HB26-1107
+
+1 SUBSECTION (2)(a) OF THIS SECTION IN CONSULTATION WITH THE STATE
+2 LONG-TERM CARE OMBUDSMAN. THE DEPARTMENT MAY CONSULT WITH
+3 ANY OTHER STATE DEPARTMENT OR ORGANIZATION AS THE DEPARTMENT
+4 DEEMS NECESSARY.
+5 (c) THE DEPARTMENT MAY REVIEW AND UPDATE THE FORM TO
+6 ENSURE THAT THE FORM FACILITATES THE DISCLOSURE OF THE
+7 INFORMATION SPECIFIED IN SUBSECTION (2)(a) OF THIS SECTION.
+8 (d) AS SOON AS PRACTICABLE AFTER CREATING OR UPDATING THE
+9 FORM PURSUANT TO THIS SUBSECTION (2), THE DEPARTMENT SHALL
+10 PROVIDE THE FORM OR THE MOST RECENTLY UPDATED VERSION OF THE
+11 FORM TO EVERY DEMENTIA CARE FACILITY.
+12 (3) Duty to distribute dementia care information.
+13 (a) A DEMENTIA CARE FACILITY SHALL COMPLETE THE DEMENTIA
+14 CARE SERVICES INFORMATION FORM CREATED OR UPDATED BY THE
+15 DEPARTMENT PURSUANT TO SUBSECTION (2) OF THIS SECTION WITH
+16 RESPONSIVE, ACCURATE, AND COMPLETE INFORMATION REGARDING THE
+17 FACILITY'S DEMENTIA CARE SERVICES.
+18 (b) BEGINNING JULY 1, 2027, A DEMENTIA CARE FACILITY SHALL:
+19 (I) PROVIDE THE FACILITY'S COMPLETED DEMENTIA CARE SERVICES
+20 INFORMATION FORM TO AN INDIVIDUAL WHO CONTACTS THE FACILITY
+21 SEEKING DEMENTIA CARE SERVICES, WHETHER THE INDIVIDUAL IS SEEKING
+22 DEMENTIA CARE SERVICES FOR THEMSELF, FOR A FAMILY MEMBER, OR FOR
+23 SOMEONE WHO IS NOT A FAMILY MEMBER;
+24 (II) REVIEW THE FORM WHEN THE FACILITY'S INFORMATION
+25 CHANGES, AND NO LESS THAN ONCE EVERY FIVE YEARS, TO ENSURE THAT
+26 THE INFORMATION PROVIDED ON THE FORM IS CURRENT, COMPLETE, AND
+27 CORRECT;
+-7- HB26-1107
+
+1 (III) UPDATE THE FACILITY'S INFORMATION ON THE FORM AS SOON
+2 AS PRACTICABLE AFTER A CHANGE TO THE INFORMATION OCCURS;
+3 (IV) PUBLISH THE CURRENT VERSION OF THE COMPLETED FORM ON
+4 THE FACILITY'S PUBLIC-FACING WEBSITE; AND
+5 (V) AT ALL TIMES, MAINTAIN ON THE FACILITY'S PREMISES AND
+6 HAVE AVAILABLE FOR INSPECTION A COPY OF THE FACILITY'S COMPLETED
+7 FORM WITH THE FACILITY'S MOST CURRENT INFORMATION AND PRODUCE
+8 THE FORM UPON REQUEST BY THE DEPARTMENT DURING A SURVEY OR
+9 INSPECTION OF THE FACILITY.
+10 (4) Regulatory oversight and enforcement.
+11 (a) THE DEPARTMENT SHALL REQUIRE A DEMENTIA CARE FACILITY
+12 TO MAINTAIN AND HAVE AVAILABLE FOR INSPECTION A COPY OF THE
+13 FACILITY'S CURRENT AND COMPLETED FORM DESCRIBED IN SUBSECTION
+14 (3)(b)(V) OF THIS SECTION.
+15 (b) DURING EACH SURVEY OR INSPECTION OF A DEMENTIA CARE
+16 FACILITY, THE DEPARTMENT SHALL REQUIRE THE FACILITY TO PRODUCE
+17 FOR INSPECTION THE FACILITY'S CURRENT FORM, COMPLETED AND
+18 UPDATED IN ACCORDANCE WITH SUBSECTION (3)(b)(V) OF THIS SECTION.
+19 THE DEPARTMENT SHALL ENSURE A FACILITY'S COMPLIANCE WITH
+20 SUBSECTION (3)(b)(V) OF THIS SECTION AS A CONDITION OF LICENSURE
+21 AND AS A PART OF THE DEPARTMENT'S PROCEDURE IN AUTHORIZING THE
+22 CONTINUED OPERATION OF THE FACILITY PURSUANT TO SECTION
+23 25-1.5-103.
+24 (c) A DEMENTIA CARE FACILITY THAT VIOLATES SUBSECTION
+25 (3)(b)(V) OF THIS SECTION COMMITS A DECEPTIVE TRADE PRACTICE
+26 PURSUANT TO SECTION 6-1-105 (1)(qqqq). EACH DAY DURING WHICH A
+27 VIOLATION CONTINUES CONSTITUTES A SEPARATE VIOLATION.
+-8- HB26-1107
+
+1 SECTION 5. In Colorado Revised Statutes, 25-1.5-301, amend
+2 (1); and add (2)(b.7) as follows:
+3 25-1.5-301. Definitions.
+4 As used in this part 3, unless the context otherwise requires:
+5 (1) "Administration" means assisting a person in the ingestion,
+6 application, inhalation, INJECTION, or, using universal precautions, rectal
+7 or vaginal insertion of medication, including prescription drugs,
+8 according to the legibly written or printed directions of the attending
+9 physician or other authorized practitioner or as written on the prescription
+10 label and making a written record thereof with regard to each medication
+11 administered, including the time and the amount taken, but
+12 "administration" does not include judgment, evaluation, or assessments
+13 or the injections of medication, the monitoring of medication, or the
+14 self-administration of medication, including prescription drugs and
+15 including the self-injection of medication by the resident.
+16 "Administration" also means ingestion through gastrostomy tubes or
+17 naso-gastric tubes, if administered by a person authorized pursuant to
+18 sections 25.5-10-204 (2)(j) and 27-10.5-103 (2)(i), C.R.S., as part of
+19 residential or day program services provided through service agencies
+20 approved by the department of health care policy and financing and
+21 supervised by a licensed physician or nurse.
+22 (2) "Facility" means:
+23 (b.7) A FACILITY OR AGENCY LICENSED AND REGULATED BY THE
+24 DEPARTMENT PURSUANT TO SECTION 25-1.5-103 (1);
+25 SECTION 6. In Colorado Revised Statutes, 25-1.5-302, amend
+26 (1) and (3); and add (2)(a.5) and (11) as follows:
+27 25-1.5-302. Administration of medications - powers and duties
+-9- HB26-1107
+
+1 of department - record checks - rules - definitions.
+2 (1) The department has, in addition to all other powers and duties
+3 imposed upon it by law, the power to establish and maintain by rule a
+4 program for the administration of medications in facilities. The
+5 department of human services, the behavioral health administration, the
+6 department of health care policy and financing, and the department of
+7 corrections shall develop and conduct a medication administration
+8 program as provided in this part 3. A medication administration program
+9 developed pursuant to this subsection (1) must be conducted within the
+10 following guidelines:
+11 (a) As a condition to authorizing or renewing the authorization to
+12 operate any facility that administers medications to persons under its care,
+13 the authorizing agency shall require that the facility have a staff member
+14 qualified pursuant to subsection (1)(b) of this section on duty at any time
+15 that the facility administers such medications and that the facility
+16 maintain a written record of each medication administered to each
+17 resident, including the date, time, and amount of the medication and the
+18 signature of the person administering the medication. Such THE record is
+19 subject to review by the authorizing agency as a part of the agency's
+20 procedure in authorizing the continued operation of the facility.
+21 Notwithstanding any exemption enumerated in subsection (1)(b) of this
+22 section, any A facility may establish a policy that requires a person
+23 authorized to administer medication to report to, be supervised by, or be
+24 otherwise accountable TO A REGISTERED NURSE AS DEFINED IN SECTION
+25 12-255-104 for the performance of such THE administration; to a
+26 registered nurse as defined in section 12-255-104. EXCEPT THAT A
+27 FACILITY MAY NOT ESTABLISH A POLICY THAT, WITH RESPECT TO LICENSED
+-10- HB26-1107
+
+1 PRACTICAL NURSES OR CERTIFIED NURSE AIDES QUALIFIED IN ACCORDANCE
+2 WITH SUBSECTION (1)(b) OF THIS SECTION:
+3 (I) REQUIRES THE FACILITY TO HAVE A REGISTERED NURSE ON SITE
+4 AT THE FACILITY AS A CONDITION FOR ALLOWING A LICENSED PRACTICAL
+5 NURSE OR A CERTIFIED NURSE AIDE TO ADMINISTER MEDICATION BY
+6 INJECTION; OR
+7 (II) PROHIBITS A LICENSED PRACTICAL NURSE OR A CERTIFIED
+8 NURSE AIDE FROM ADMINISTERING MEDICATION BY INJECTION.
+9 (b) Any individual who is not otherwise authorized by law to
+10 administer medication in a facility shall be allowed to MAY perform such
+11 duties only after passing a competency evaluation; EXCEPT THAT A
+12 LICENSED PRACTICAL NURSE OR A CERTIFIED NURSE AIDE MAY ADMINISTER
+13 MEDICATION BY INJECTION UPON COMPLETING THE EDUCATION AND
+14 TRAINING REQUIREMENTS ESTABLISHED PURSUANT TO RULES ADOPTED IN
+15 ACCORDANCE WITH SUBSECTION (2)(a.5) OF THIS SECTION. A FACILITY
+16 SHALL ALLOW A LICENSED PRACTICAL NURSE OR A CERTIFIED NURSE AIDE
+17 WHO IS NOT OTHERWISE AUTHORIZED BY LAW TO ADMINISTER MEDICATION
+18 BY INJECTION IN THE FACILITY TO ADMINISTER MEDICATION BY INJECTION
+19 AFTER RECEIVING EDUCATION AND TRAINING ON ADMINISTERING
+20 MEDICATION BY INJECTION. An individual who administers medications
+21 in facilities in compliance with the provisions of this part 3 shall be IS
+22 exempt from the licensing requirements of the "Colorado Medical
+23 Practice Act", the "Nurse and Nurse Aide Practice Act", and the laws of
+24 this state pertaining to possession of controlled substances as contained
+25 in article 280 of title 12, part 2 of article 80 of title 27, or the "Uniform
+26 Controlled Substances Act of 2013", article 18 of title 18.
+27 (c) (I) A LICENSED PRACTICAL NURSE OR A CERTIFIED NURSE AIDE
+-11- HB26-1107
+
+1 IS AUTHORIZED TO ADMINISTER MEDICATION BY INJECTION AS PART OF A
+2 MEDICATION ADMINISTRATION PROGRAM DEVELOPED AND CONDUCTED
+3 PURSUANT TO THIS SUBSECTION (1) IF THE LICENSED PRACTICAL NURSE OR
+4 THE CERTIFIED NURSE AIDE HAS RECEIVED EDUCATION AND TRAINING ON
+5 ADMINISTERING MEDICATION BY INJECTION PURSUANT TO RULES ADOPTED
+6 IN ACCORDANCE WITH SUBSECTION (2)(a.5) OF THIS SECTION.
+7 (II) A MEDICATION ADMINISTRATION PROGRAM DEVELOPED AND
+8 CONDUCTED PURSUANT TO THIS SUBSECTION (1) SHALL NOT ALLOW ANY
+9 INDIVIDUAL TO ADMINISTER MEDICATION BY INJECTION IN A FACILITY
+10 UNLESS THE INDIVIDUAL IS AUTHORIZED TO ADMINISTER MEDICATION BY
+11 INJECTION PURSUANT TO SUBSECTION (1)(c)(I) OF THIS SECTION OR IS
+12 OTHERWISE AUTHORIZED BY LAW TO ADMINISTER MEDICATION BY
+13 INJECTION.
+14 (2) (a.5) THE DEPARTMENT, IN CONSULTATION WITH THE STATE
+15 BOARD OF NURSING CREATED IN SECTION 12-255-105 (1)(a), SHALL
+16 ESTABLISH BY RULE THE MINIMUM REQUIREMENTS FOR COURSE CONTENT
+17 FOR MEDICATION ADMINISTRATION BY INJECTION PERFORMED BY A
+18 LICENSED PRACTICAL NURSE OR A CERTIFIED NURSE AIDE IN ACCORDANCE
+19 WITH SUBSECTION (1)(c) OF THIS SECTION AND TO DETERMINE
+20 COMPLIANCE WITH THE REQUIREMENTS FOR FACILITIES LICENSED UNDER
+21 THIS TITLE 25.
+22 (3) The department of human services, the department of health
+23 care policy and financing, and the department of corrections may develop
+24 and approve minimum requirements for course content, including
+25 competency evaluations, for individuals who administer medications in
+26 facilities whose operation is authorized by those departments; EXCEPT
+27 THAT THE DEPARTMENT OF HUMAN SERVICES, THE DEPARTMENT OF
+-12- HB26-1107
+
+1 HEALTH CARE POLICY AND FINANCING, AND THE DEPARTMENT OF
+2 CORRECTIONS SHALL NOT PROHIBIT THE ADMINISTRATION OF MEDICATION
+3 BY INJECTION BY A LICENSED PRACTICAL NURSE OR A CERTIFIED NURSE
+4 AIDE WHO IS QUALIFIED TO ADMINISTER MEDICATION BY INJECTION IN
+5 ACCORDANCE WITH SUBSECTIONS (1)(c) AND (2)(a.5) OF THIS SECTION. A
+6 department that administers competency evaluations shall maintain a
+7 public list of individuals who have successfully completed the
+8 competency evaluation.
+9 (11) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+10 REQUIRES:
+11 (a) "CERTIFIED NURSE AIDE" HAS THE MEANING SET FORTH IN
+12 SECTION 12-255-104 (3.3).
+13 (b) "LICENSED PRACTICAL NURSE" HAS THE MEANING SET FORTH
+14 IN SECTION 12-255-104 (7).
+15 SECTION 7. Act subject to petition - effective date. This act
+16 takes effect at 12:01 a.m. on the day following the expiration of the
+17 ninety-day period after final adjournment of the general assembly (August
+18 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+19 referendum petition is filed pursuant to section 1 (3) of article V of the
+20 state constitution against this act or an item, section, or part of this act
+21 within such period, then the act, item, section, or part will not take effect
+22 unless approved by the people at the general election to be held in
+23 November 2026 and, in such case, will take effect on the date of the
+24 official declaration of the vote thereon by the governor.
+-13- HB26-1107

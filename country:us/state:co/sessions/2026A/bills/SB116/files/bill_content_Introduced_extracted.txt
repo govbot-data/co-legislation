@@ -1,0 +1,463 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0561.01 Alison Killen x4350 SENATE BILL 26-116
+SENATE SPONSORSHIP
+Weissman,
+HOUSE SPONSORSHIP
+Zokaie,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE TAXATION OF PROPERTY, AND, IN CONNECTION
+102 THEREWITH, AUTHORIZING MUNICIPALITIES TO LEVY A
+103 LODGING TAX, CLARIFYING THE VALUATION FOR ASSESSMENT
+104 OF LODGING PROPERTY, EXTENDING THE PORTABLE
+105 QUALIFIED-SENIOR PRIMARY RESIDENCE BENEFIT, AND
+106 MODIFYING THE TAXATION OF BUSINESS PERSONAL PROPERTY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1, 2, and 3 of the bill give municipalities the authority,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+upon voter approval, to levy a lodging tax up to the same rate and for the
+same purposes allowed to counties to be collected, administered, and
+enforced by the state. The bill prohibits, commencing on and after
+January 1, 2027, any municipal tax on lodging or on the business of
+providing lodging that is not a municipal lodging tax adopted in
+accordance with the requirements of section 3. An existing municipal tax
+on lodging or on the business of providing lodging adopted on or before
+December 31, 2026, is allowed to continue under the bill. However, there
+can be no tax rate increase, expansion of tax base, or material change in
+uses of the tax revenue absent adoption of a municipal lodging tax that is
+in accordance with the requirements of section 3.
+Section 4 clarifies that, notwithstanding any provision of law to
+the contrary, in any case in which the income approach is used to
+determine the actual value of any lodging property, the assessor shall
+include "net rental income" and "resort fee income", each income amount
+capitalized to value at a rate typical within the relevant market in the
+actual value of the lodging property. "Net rental income" means the net
+operating income generated from payments made in connection with the
+rental of the lodging property, including any unit within or connected to
+the lodging property, whether or not the unit is individually and separately
+owned, after the deduction of expenses typical in the relevant market and
+excluding any rents remitted to a unit owner for use of the owner's unit.
+"Resort fee income" means the net income generated from the collection
+of any fee or charge, however denominated, by the property, that is
+retained by the property but does not include any fee or charge amounts
+that the property remits to any county, city, city and county, special
+district, or other local government.
+Sections 5 and 6 extend the portable qualified-senior primary
+residence benefit created for property tax years 2025 and 2026 to future
+property tax years.
+Section 7 changes the state property tax exemption for business
+personal property, commencing on and after January 1, 2027, by setting
+the exemption threshold for such property at $60,000, without an
+adjustment for inflation, and by eliminating the reimbursement provision
+for property tax losses due to the exemption.
+Sections 8 and 9 subject the municipal lodging tax authorized by
+section 3 to the department of revenue's administrative scope and
+mandatory electronic filing and payment requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 29-2-201, amend
+3 (8)(e) and (8)(f); and add (8)(g) as follows:
+-2- SB26-116
+
+1 29-2-201. Definitions.
+2 As used in this part 2, unless the context otherwise requires:
+3 (8) "Sales or use tax" includes the:
+4 (e) Prepaid telephone disability access charge imposed pursuant
+5 to section 40-17-104; and
+6 (f) Prepaid wireless 988 charge imposed pursuant to section
+7 27-64-103 (4)(b); AND
+8 (g) MUNICIPAL LODGING TAX IMPOSED PURSUANT TO SECTION
+9 31-20-101.9.
+10 SECTION 2. In Colorado Revised Statutes, 29-2-202, amend
+11 (1)(b)(V) and (1)(b)(VI); and add (1)(b)(VII) as follows:
+12 29-2-202. Applicability.
+13 (1) Except as provided in sections 29-2-209 and 29-2-211, this
+14 part 2 applies to:
+15 (b) (V) The prepaid telephone disability access charge imposed
+16 pursuant to section 40-17-104; and
+17 (VI) The prepaid wireless 988 charge imposed pursuant to section
+18 27-64-103 (4)(b); AND
+19 (VII) THE MUNICIPAL LODGING TAX IMPOSED PURSUANT TO
+20 SECTION 31-20-101.9.
+21 SECTION 3. In Colorado Revised Statutes, add 31-20-101.9 as
+22 follows:
+23 31-20-101.9. Lodging tax.
+24 (1) SUBJECT TO THE REQUIREMENTS OF THIS SECTION, THE
+25 GOVERNING BODY OF A MUNICIPALITY MAY LEVY A MUNICIPAL LODGING
+26 TAX OF NOT MORE THAN SIX PERCENT ON THE PURCHASE PRICE PAID OR
+27 CHARGED TO PERSONS FOR ROOMS OR ACCOMMODATIONS AS INCLUDED IN
+-3- SB26-116
+
+1 THE DEFINITION OF "SALE" IN SECTION 39-26-102 (11).
+2 (2) A GOVERNING BOARD OF A MUNICIPALITY MAY ONLY LEVY THE
+3 TAX SPECIFIED IN SUBSECTION (1) OF THIS SECTION FOR ONE OR MORE OF
+4 THE PURPOSES OF:
+5 (a) ADVERTISING AND MARKETING FOR LOCAL TOURISM;
+6 (b) HOUSING AND CHILDCARE FOR THE TOURISM-RELATED
+7 WORKFORCE, INCLUDING SEASONAL WORKERS, AND OTHER WORKERS IN
+8 THE COMMUNITY;
+9 (c) FACILITATING AND ENHANCING VISITOR EXPERIENCES;
+10 (d) PUBLIC INFRASTRUCTURE MAINTENANCE OR IMPROVEMENTS;
+11 OR
+12 (e) PUBLIC SAFETY MEASURE IMPROVEMENTS, BY FUNDING LOCAL
+13 LAW ENFORCEMENT, FIRE PROTECTION SERVICES, AND EMERGENCY
+14 MEDICAL SERVICES.
+15 (3) (a) THE DEPARTMENT OF REVENUE SHALL COLLECT,
+16 ADMINISTER, AND ENFORCE THE MUNICIPAL LODGING TAX ALLOWED BY
+17 THIS SECTION, AS SPECIFIED IN PART 2 OF ARTICLE 2 OF TITLE 29.
+18 (b) THE DEPARTMENT OF REVENUE SHALL PERFORM, ON AN
+19 ANNUAL BASIS, A COST ANALYSIS TO DETERMINE THE NET INCREMENTAL
+20 COST OF COLLECTING, ADMINISTERING, AND ENFORCING THE MUNICIPAL
+21 LODGING TAX ALLOWED BY THIS SECTION. THE DEPARTMENT OF REVENUE
+22 SHALL RETAIN ONLY THE LESSER OF THE INCREMENTAL COST DETERMINED
+23 BY THE COST ANALYSIS OR THREE AND ONE-THIRD PERCENT OF THE
+24 AMOUNT COLLECTED. THE DEPARTMENT SHALL TRANSMIT THE AMOUNT
+25 IT RETAINS PURSUANT TO THIS SUBSECTION (3)(b) TO THE STATE
+26 TREASURER, WHO SHALL CREDIT THAT AMOUNT TO THE GENERAL FUND,
+27 AND THAT AMOUNT IS SUBJECT TO APPROPRIATION BY THE GENERAL
+-4- SB26-116
+
+1 ASSEMBLY FOR THE NET INCREMENTAL COST OF THE DEPARTMENT'S
+2 COLLECTION, ADMINISTRATION, AND ENFORCEMENT OF THE MUNICIPAL
+3 LODGING TAX ALLOWED BY THIS SECTION.
+4 (c) ANY PERSON PROVIDING ROOMS OR ACCOMMODATIONS AS
+5 INCLUDED IN THE DEFINITION OF "SALE" IN SECTION 39-26-102 (11) IS
+6 LIABLE AND RESPONSIBLE FOR THE PAYMENT OF AN AMOUNT EQUIVALENT
+7 TO A PERCENTAGE RATE OF UP TO SIX PERCENT OF ALL SUCH SALES MADE
+8 AND SHALL MAKE A RETURN TO THE EXECUTIVE DIRECTOR OF THE
+9 DEPARTMENT OF REVENUE AS SPECIFIED IN PART 2 OF ARTICLE 2 OF TITLE
+10 29.
+11 (4) (a) THE GOVERNING BOARD OF THE MUNICIPALITY MAY, BY
+12 ORDINANCE OR RESOLUTION, APPROVE A PROPOSAL TO LEVY A MUNICIPAL
+13 LODGING TAX. THE COUNTY CLERK SHALL REFER THE RESOLUTION TO THE
+14 REGISTERED ELECTORS OF THE MUNICIPALITY AT A REGULAR OR SPECIAL
+15 ELECTION IN ACCORDANCE WITH ARTICLE 10 OF THIS TITLE 31 AND
+16 SECTION 20 OF ARTICLE X OF THE STATE CONSTITUTION.
+17 (b) A PROPOSAL FOR A MUNICIPAL LODGING TAX MUST CONTAIN A
+18 DESCRIPTION OF THE PROPOSED TAX, INCLUDING THE TAX RATE AND THE
+19 PURPOSE OR PURPOSES FOR WHICH THE TAX REVENUE WILL BE USED IN
+20 ACCORDANCE WITH SUBSECTION (2) OF THIS SECTION.
+21 (c) (I) IF A MAJORITY OF THE REGISTERED ELECTORS VOTING ON
+22 THE PROPOSAL APPROVE THE MUNICIPAL LODGING TAX, THE MUNICIPAL
+23 LODGING TAX BECOMES EFFECTIVE AS PROVIDED IN PART 2 OF ARTICLE 2
+24 OF TITLE 29 AND ALL OTHER APPLICABLE LAWS.
+25 (II) IF A MAJORITY OF THE REGISTERED ELECTORS VOTING ON THE
+26 PROPOSAL FAIL TO APPROVE THE MUNICIPAL LODGING TAX, THE COUNTY
+27 CLERK MUST NOT SUBMIT THE BALLOT QUESTION TO THE SAME ELECTORS
+-5- SB26-116
+
+1 AGAIN FOR A PERIOD OF ONE YEAR FROM THE DATE OF THE ELECTION.
+2 (5) (a) ALL REVENUE COLLECTED FROM A MUNICIPAL LODGING TAX
+3 THAT IS APPROVED PURSUANT TO THIS SECTION, EXCEPT THE AMOUNT
+4 RETAINED PURSUANT TO SUBSECTION (3)(b) OF THIS SECTION, MUST BE
+5 CREDITED TO A SPECIAL FUND DESIGNATED AS THE MUNICIPAL LODGING
+6 TAX FUND, WHICH IS CREATED IN THE GENERAL FUND OF THE
+7 MUNICIPALITY. THE MONEY IN THE FUND MUST BE USED ONLY FOR THE
+8 PURPOSES APPROVED BY VOTERS AS SET FORTH IN THE PROPOSAL
+9 DESCRIBED IN SUBSECTION (4)(b) OF THIS SECTION.
+10 (b) UPON THE APPROVAL BY THE ELECTORS OF A MUNICIPAL
+11 LODGING TAX PURSUANT TO THIS SECTION FOR THE PURPOSE OF
+12 ADVERTISING AND MARKETING LOCAL TOURISM, THE GOVERNING BODY OF
+13 THE MUNICIPALITY SHALL SELECT A PANEL OF NO LESS THAN THREE
+14 MEMBERS TO ADMINISTER THE MUNICIPAL LODGING TAX FUND; EXCEPT
+15 THAT, IF THE MONEY IN THE FUND MAY ALSO BE USED FOR ANY OTHER
+16 PURPOSE, THE PANEL SHALL ONLY ADMINISTER THE PORTION OF THE FUND
+17 THAT THE GOVERNING BODY OF THE MUNICIPALITY IDENTIFIES AS BEING
+18 AVAILABLE FOR ADVERTISING AND MARKETING LOCAL TOURISM. THE
+19 GOVERNING BODY OF THE MUNICIPALITY SHALL APPOINT PANEL MEMBERS
+20 FROM THE TOURISM INDUSTRY WITHIN THE MUNICIPALITY. WHERE THERE
+21 IS AN ESTABLISHED AND PROVEN MARKETING ENTITY WITHIN THE
+22 MUNICIPALITY FORMED FOR THE PURPOSE OF ADVERTISING AND
+23 MARKETING TOURISM, THE PANEL IS ENCOURAGED TO USE THAT
+24 MARKETING ENTITY FOR ADVERTISING AND MARKETING TOURISM, AND, IF
+25 THE PANEL USES THAT MARKETING ENTITY, THAT MARKETING ENTITY
+26 SHALL PROVIDE AN ACCOUNTING TO THE PANEL AND TO THE GOVERNING
+27 BODY OF THE MUNICIPALITY.
+-6- SB26-116
+
+1 (6) ON AND AFTER JANUARY 1, 2027, A MUNICIPALITY SHALL NOT
+2 LEVY, COLLECT, OR ENFORCE ANY TAX ON LODGING OR THE BUSINESS OF
+3 PROVIDING LODGING UNLESS THE TAX IS EXPRESSLY AUTHORIZED AND
+4 ADOPTED PURSUANT TO THIS SECTION.
+5 (7) (a) NOTWITHSTANDING SUBSECTION (6) OF THIS SECTION, A
+6 TAX ON LODGING OR THE BUSINESS OF PROVIDING LODGING IMPOSED BY
+7 THE MUNICIPALITY ON OR BEFORE DECEMBER 31, 2026, INCLUDING AN
+8 OCCUPATION TAX LEVIED PURSUANT TO SECTION 31-15-501, MAY
+9 CONTINUE IN EFFECT ACCORDING TO ITS ORIGINAL TERMS.
+10 (b) A MUNICIPALITY THAT CONTINUES TO IMPOSE A TAX ALLOWED
+11 PURSUANT TO SUBSECTION (7)(a) OF THIS SECTION MAY NOT INCREASE THE
+12 TAX RATE, EXPAND THE TAX BASE, OR MATERIALLY ALTER THE PERMITTED
+13 USES OF THE TAX REVENUE, EXCEPT BY ADOPTION OF A MUNICIPAL
+14 LODGING TAX IN ACCORDANCE WITH THE REQUIREMENTS OF THIS SECTION.
+15 SECTION 4. In Colorado Revised Statutes, 39-1-103, add (12.5)
+16 as follows:
+17 39-1-103. Actual value determined - when - legislative
+18 declaration - definition.
+19 (12.5) (a) NOTWITHSTANDING ANY PROVISION OF LAW TO THE
+20 CONTRARY, IN ANY CASE IN WHICH AN ASSESSOR USES THE INCOME
+21 APPROACH TO DETERMINE THE ACTUAL VALUE OF ANY LODGING
+22 PROPERTY, THE ASSESSOR SHALL INCLUDE, IN ADDITION TO ANY OTHER
+23 INCOME GENERATED BY THE PROPERTY, THE FOLLOWING IN DETERMINING
+24 THE ACTUAL VALUE OF THE LODGING PROPERTY:
+25 (I) "NET RENTAL INCOME" CAPITALIZED TO VALUE AT A RATE
+26 TYPICAL WITHIN THE RELEVANT MARKET; AND
+27 (II) "RESORT FEE INCOME" CAPITALIZED TO VALUE AT A RATE
+-7- SB26-116
+
+1 TYPICAL WITHIN THE RELEVANT MARKET.
+2 (b) AS USED IN THIS SUBSECTION (12.5), UNLESS THE CONTEXT
+3 OTHERWISE REQUIRES:
+4 (I) "NET RENTAL INCOME" MEANS THE NET OPERATING INCOME
+5 GENERATED FROM PAYMENTS MADE IN CONNECTION WITH THE RENTAL OF
+6 THE LODGING PROPERTY, INCLUDING ANY UNIT WITHIN OR CONNECTED TO
+7 THE LODGING PROPERTY WHETHER OR NOT THE UNIT IS INDIVIDUALLY AND
+8 SEPARATELY OWNED, AFTER DEDUCTION OF EXPENSES TYPICAL IN THE
+9 RELEVANT MARKET AND EXCLUDE ANY RENTAL PAYMENTS REMITTED TO
+10 A UNIT OWNER FOR USE OF THE OWNER'S UNIT.
+11 (II) "RESORT FEE INCOME" MEANS THE NET INCOME GENERATED
+12 FROM THE COLLECTION OF ANY FEE OR CHARGE, HOWEVER DENOMINATED,
+13 BY THE PROPERTY, THAT IS RETAINED BY THE PROPERTY BUT DOES NOT
+14 INCLUDE ANY FEE OR CHARGE AMOUNTS THAT THE PROPERTY OWNER
+15 REMITS TO ANY COUNTY, CITY, CITY AND COUNTY, SPECIAL DISTRICT, OR
+16 OTHER LOCAL GOVERNMENT.
+17 SECTION 5. In Colorado Revised Statutes, 39-1-104.2, amend
+18 (3)(s)(I) introductory portion, (3)(s)(I)(B), (3)(s)(I)(B.5), (3)(s)(I)(C), and
+19 (3)(s)(I)(D) as follows:
+20 39-1-104.2. Residential real property - valuation for
+21 assessment - legislative declaration - definitions.
+22 (3) (s) (I) For property tax years commencing on or after January
+23 1, 2025, but before January 1, 2027, the valuation for assessment for
+24 qualified-senior primary residence real property, including multifamily
+25 qualified-senior primary residence real property, is:
+26 (B) For the property tax year commencing on January 1, 2026,
+27 AND EACH PROPERTY TAX YEAR THEREAFTER, if the state board of
+-8- SB26-116
+
+1 equalization determines that the statewide actual value growth is less than
+2 or equal to five percent, for the purpose of a levy imposed by a local
+3 governmental entity, 6.8 percent of the amount equal to the actual value
+4 of the property minus either fifty percent of the first two hundred
+5 thousand dollars of that actual value plus the lesser of ten percent of the
+6 actual value of the property or seventy thousand dollars as increased for
+7 inflation in the first year of each subsequent reassessment cycle or the
+8 amount that causes the valuation for assessment of the property to be one
+9 thousand dollars;
+10 (B.5) For the property tax year commencing on January 1, 2026,
+11 AND EACH PROPERTY TAX YEAR THEREAFTER, if the state board of
+12 equalization determines that the statewide actual value growth is greater
+13 than five percent, for the purpose of a levy imposed by a local
+14 governmental entity, 6.7 percent of the amount equal to the actual value
+15 of the property minus either fifty percent of the first two hundred
+16 thousand dollars of that actual value plus the lesser of ten percent of the
+17 actual value of the property or seventy thousand dollars as increased for
+18 inflation in the first year of each subsequent reassessment cycle or the
+19 amount that causes the valuation for assessment of the property to be one
+20 thousand dollars;
+21 (C) For the property tax years commencing on January 1, 2025,
+22 and January 1, 2026, AND EACH PROPERTY TAX YEAR THEREAFTER, if the
+23 state board of equalization determines that the statewide actual value
+24 growth is less than or equal to five percent, for the purpose of a levy
+25 imposed by a school district, 7.05 percent of the amount equal to the
+26 actual value of the property minus the lesser of fifty percent of the first
+27 two hundred thousand dollars of that actual value or the amount that
+-9- SB26-116
+
+1 causes the valuation for assessment of the property to be one thousand
+2 dollars; except that the valuation for assessment for the purpose of a levy
+3 imposed by a school district may be temporarily reduced for a property
+4 tax year as set forth in section 29-1-1702.5; and
+5 (D) For the property tax years commencing on January 1, 2025,
+6 and January 1, 2026, AND EACH PROPERTY TAX YEAR THEREAFTER, if the
+7 state board of equalization determines that the statewide actual value
+8 growth is greater than five percent, for the purpose of a levy imposed by
+9 a school district, 6.95 percent of the amount equal to the actual value of
+10 the property minus the lesser of fifty percent of the first two hundred
+11 thousand dollars of that actual value or the amount that causes the
+12 valuation for assessment of the property to be one thousand dollars;
+13 except that the valuation for assessment for the purpose of a levy imposed
+14 by a school district may be temporarily reduced for a property tax year as
+15 set forth in section 29-1-1702.5.
+16 SECTION 6. In Colorado Revised Statutes, 39-1-104.6, amend
+17 (9)(a) introductory portion, (9)(c)(I)(A), and (9)(d) as follows:
+18 39-1-104.6. Qualified-senior primary residence real property
+19 - valuation for assessment - reimbursement to local governments for
+20 reduced valuation - temporary mechanism for refunding excess state
+21 revenues - legislative declaration - definitions.
+22 (9) Reporting and reimbursement of property tax revenue
+23 reductions.
+24 (a) No later than March 1, 2026, and no later than March 1 2027,
+25 OF EACH YEAR THEREAFTER, each treasurer shall forward to the
+26 administrator a report on the properties in the assessor's county that were
+27 classified as qualified-senior primary residence real property for the
+-10- SB26-116
+
+1 previous property tax year. The administrator shall cross-check the report
+2 as specified in subsection (9)(b) of this section before correcting it, if
+3 necessary, and forwarding it to the state treasurer to enable the state
+4 treasurer to issue a reimbursement warrant to each treasurer in accordance
+5 with subsection (9)(c) of this section. The report must include:
+6 (c) (I) (A) No later than April 15, 2026, and no later than April 15
+7 2027, OF EACH YEAR THEREAFTER, the state treasurer shall issue a warrant
+8 to each treasurer for the amount needed to fully reimburse all local
+9 governmental entities within the treasurer's county for the total property
+10 tax revenue lost for the prior property tax year that are payable during the
+11 year in which the state treasurer issues the warrant. The reimbursement
+12 must be paid from the state general fund and is not subject to the statutory
+13 limitation on state general fund appropriations set forth in section
+14 24-75-201.1.
+15 (d) In accordance with subsection (9)(b) of this section, for any
+16 property tax year commencing on or after January 1, 2025, but before
+17 January 1, 2027, the state treasurer shall not reimburse a treasurer for total
+18 property tax revenue lost as a result of a classification of real property as
+19 qualified-senior primary residence real property that was erroneously
+20 granted in the treasurer's county. If, pursuant to subsection (9)(b) of this
+21 section, the administrator advises the state treasurer that the state treasurer
+22 has provided either too much or too little reimbursement to a treasurer for
+23 classifications of real property as qualified-senior primary residence real
+24 property granted in the treasurer's county for any prior property tax year
+25 commencing on or after January 1, 2025, but before January 1, 2027, the
+26 state treasurer shall adjust the reimbursement for the current property tax
+27 year as directed by the administrator in order to correct the error.
+-11- SB26-116
+
+1 SECTION 7. In Colorado Revised Statutes, 39-3-119.5, amend
+2 (2)(a)(VII), (2)(a)(VIII), (2)(b)(I)(A), (3)(a)(I), (3)(a)(II), (3)(b), (3)(c)(I),
+3 (3)(c)(II), (3)(d), (3)(e), and (3)(f); and add (2)(a)(IX) as follows:
+4 39-3-119.5. Personal property - exemption - reimbursement to
+5 local governments - legislative declaration - definitions.
+6 (2) (a) The exemption created in subsection (1) of this section
+7 shall be up to and including the following amounts:
+8 (VII) Seven thousand seven hundred dollars for property tax years
+9 commencing on January 1, 2019, and January 1, 2020; and
+10 (VIII) Fifty thousand dollars for property tax years commencing
+11 on January 1, 2021, and January 1, 2022; AND
+12 (IX) SIXTY THOUSAND DOLLARS FOR PROPERTY TAX YEARS
+13 COMMENCING ON OR AFTER JANUARY 1, 2027.
+14 (b) (I) (A) Beginning with the property tax year commencing on
+15 January 1, 2023, BUT BEFORE JANUARY 1, 2027, the amount of the
+16 exemption created in subsection (1) of this section shall be adjusted
+17 biennially to account for inflation since the amount of the exemption last
+18 changed pursuant to this subsection (2). On or before November 1, 2022,
+19 and each even-numbered year thereafter BUT BEFORE 2027, the
+20 administrator shall calculate the amount of the exemption for the next
+21 two-year cycle using inflation for the prior two calendar years as of the
+22 date of the calculation. The adjusted exemption shall be rounded upward
+23 to the nearest one hundred dollar increment. The administrator shall
+24 certify the amount of the exemption for the next two-year cycle and
+25 publish the amount on the website maintained by the division of property
+26 taxation in the department of local affairs.
+27 (3) (a) (I) For the EACH property tax year commencing on OR
+-12- SB26-116
+
+1 AFTER January 1, 2021, BUT BEFORE JANUARY 1, 2027, each assessor shall
+2 calculate the aggregate value of exempt business personal property within
+3 the county based on the property that is listed on schedules for the
+4 property tax year with a total value that is more than seven thousand nine
+5 hundred dollars and less than or equal to fifty thousand dollars.
+6 (II) For the EACH property tax year commencing on OR AFTER
+7 January 1, 2021, BUT BEFORE JANUARY 1, 2027, each treasurer shall
+8 calculate the total property tax revenues lost by all local governmental
+9 entities within the treasurer's county based on the exempt business
+10 personal property amount calculated in accordance with subsection
+11 (3)(a)(I) of this section.
+12 (b) No later than February 1, 2022, and each February 1 thereafter
+13 THROUGH FEBRUARY 1, 2026, the administrator shall calculate the
+14 percentage increase or decrease in total valuation of business personal
+15 property in the state over the prior two property tax years. The
+16 administrator shall publish the percentage increase or decrease on the
+17 website maintained by the division of property taxation in the department
+18 of local affairs.
+19 (c) (I) For the property tax years commencing on January 1, 2022,
+20 and each year thereafter BUT BEFORE JANUARY 1, 2027, each assessor
+21 shall calculate an estimate of the aggregate value of exempt business
+22 personal property for the county and each local governmental entity
+23 located within the county that is equal to the applicable baseline
+24 exemption total adjusted by the growth factor for each property tax year
+25 commencing on and after January 1, 2022.
+26 (II) For the property tax years commencing on January 1, 2022,
+27 and each year thereafter BUT BEFORE JANUARY 1, 2027, each treasurer
+-13- SB26-116
+
+1 shall calculate the total property tax revenues lost by all local
+2 governmental entities within the treasurer's county based on the estimate
+3 of exempt business personal property amount calculated in accordance
+4 with subsection (3)(c)(I) of this section.
+5 (d) No later than March 1, 2022, and each March 1 thereafter
+6 THROUGH MARCH 1, 2026, each treasurer shall report the amount
+7 specified in subsection (3)(a)(II) or (3)(c)(II) of this section, as
+8 applicable, and the basis for the amount to the administrator, and the
+9 administrator may require a treasurer to provide additional information as
+10 necessary to evaluate the amount reported. The administrator shall
+11 confirm that the reported amount is correct or rectify the amount, if
+12 necessary. The administrator shall then forward the correct amount for
+13 each county to the state treasurer to enable the state treasurer to issue a
+14 reimbursement warrant to each treasurer in accordance with subsection
+15 (3)(e) of this section.
+16 (e) No later than April 15, 2022, and April 15 of each year
+17 thereafter THROUGH APRIL 15, 2026, the state treasurer shall issue a
+18 warrant to be paid upon demand from the general fund to each treasurer
+19 that is equal to the amount specified by the administrator for the county
+20 under subsection (3)(d) of this section. Each treasurer shall distribute the
+21 total amount received from the state treasurer to the local governmental
+22 entities within the treasurer's county as if the revenues had been regularly
+23 paid as property tax. When distributing the money, the treasurer shall
+24 provide each local governmental entity with a statement of the amount
+25 distributed to the local governmental entity that represents the
+26 reimbursement received under this subsection (3)(e).
+27 (f) No later than May 1, 2022, and May 1 of each year thereafter
+-14- SB26-116
+
+1 THROUGH MAY 1, 2026, the state treasurer shall notify the administrator
+2 whether all counties have received a reimbursement warrant for lost
+3 property tax revenue for the amounts specified in subsection (3)(d) of this
+4 section.
+5 SECTION 8. In Colorado Revised Statutes, 39-21-102, add (10)
+6 as follows:
+7 39-21-102. Scope.
+8 (10) THE PROVISIONS OF THIS ARTICLE 21 APPLY TO THE TAXES
+9 IMPOSED PURSUANT TO SECTION 31-20-101.9, BUT ONLY TO THE EXTENT
+10 THAT THE PROVISIONS OF THIS ARTICLE 21 ARE NOT INCONSISTENT WITH
+11 THE PROVISIONS OF SECTION 31-20-101.9.
+12 SECTION 9. In Colorado Revised Statutes, 39-21-119.5, add
+13 (2)(q.5) as follows:
+14 39-21-119.5. Mandatory electronic filing of returns -
+15 mandatory electronic payment - penalty - waiver - definitions.
+16 (2) Except as provided in subsection (6) of this section, the
+17 executive director may, as specified in subsection (3) of this section,
+18 require the electronic filing of returns and require the payment of any tax
+19 or fee due by electronic funds transfer for the following:
+20 (q.5) ANY MUNICIPAL LODGING TAX RETURN REQUIRED TO BE
+21 FILED AND PAYMENT REQUIRED TO BE MADE PURSUANT TO SECTION
+22 31-20-101.9;
+23 SECTION 10. Act subject to petition - effective date. This act
+24 takes effect at 12:01 a.m. on the day following the expiration of the
+25 ninety-day period after final adjournment of the general assembly (August
+26 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+27 referendum petition is filed pursuant to section 1 (3) of article V of the
+-15- SB26-116
+
+1 state constitution against this act or an item, section, or part of this act
+2 within such period, then the act, item, section, or part will not take effect
+3 unless approved by the people at the general election to be held in
+4 November 2026 and, in such case, will take effect on the date of the
+5 official declaration of the vote thereon by the governor.
+-16- SB26-116
