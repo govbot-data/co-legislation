@@ -1,0 +1,547 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0370.01 Josh Schultz x5486 HOUSE BILL 26-1324
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING REGULATION OF THE DIVISION OF PROFESSIONS AND
+102 OCCUPATIONS, AND, IN CONNECTION THEREWITH,
+103 IMPLEMENTING RECOMMENDATIONS CONTAINED IN THE 2025
+104 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY
+105 AGENCIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Sunset Process - House Health and Human Services
+Committee. The bill implements recommendations of the department of
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,61
+lirpA
+6202
+,31
+lirpA
+HOUSE SPONSORSHIP
+McCormick and Gilchrist, Lindsay, McCluskie
+SENATE SPONSORSHIP
+Daugherty,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+regulatory agencies' sunset review and report on the division of
+professions and occupations in the department of regulatory agencies.
+Sections 1 and 2 of the bill allow a regulator to delegate authority
+for administrative tasks authorized by statute or other tasks specifically
+authorized through the policy of a board or commission to a designee at
+the regulator's discretion.
+Section 3 changes the amount of time a licensee, certificate holder,
+or registrant (licensee) who receives a letter of admonition has to request
+a hearing to within 25 days after the date of issuance of the letter of
+admonition, rather than within 20 days after receipt of the letter.
+Sections 3 through 22 clarify that a regulator may provide
+communications to licensees through email.
+Section 23 raises the amount of the excise tax on renewal fees
+from $1 to $2. The money goes to the legal defense account created
+within the division of professions and occupations cash fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 12-20-102, amend
+3 (1); and add (1.5) as follows:
+4 12-20-102. Definitions.
+5 As used in this title 12, unless the context otherwise requires:
+6 (1) "Applicant" means a person applying, pursuant to a part or
+7 article of this title 12, for a new license, certification, or registration or to
+8 renew, reinstate, or reactivate a license, certification, or registration that
+9 is authorized pursuant to that part or article (a) "ADMINISTRATIVE TASK"
+10 MEANS A TASK THAT IS MINISTERIAL OR ADMINISTRATIVE IN NATURE, THAT
+11 HAS A FIXED AND CERTAIN STANDARD, AND THAT DOES NOT REQUIRE A
+12 SUBORDINATE EMPLOYEE TO EXERCISE SIGNIFICANT JUDGMENT OR
+13 DISCRETION.
+14 (b) "ADMINISTRATIVE TASK" DOES NOT INCLUDE DISCIPLINARY
+15 ACTION TAKEN PURSUANT TO SECTION 12-20-404.
+16 (1.5) "APPLICANT" MEANS A PERSON APPLYING, PURSUANT TO A
+17 PART OR ARTICLE OF THIS TITLE 12, FOR A NEW LICENSE, CERTIFICATION,
+-2- 1324
+
+1 OR REGISTRATION OR TO RENEW, REINSTATE, OR REACTIVATE A LICENSE,
+2 CERTIFICATION, OR REGISTRATION THAT IS AUTHORIZED PURSUANT TO
+3 THAT PART OR ARTICLE.
+4 SECTION 2. In Colorado Revised Statutes, add 12-20-409 as
+5 follows:
+6 12-20-409. Delegation of administrative tasks.
+7 (1) A REGULATOR MAY DELEGATE AUTHORITY FOR
+8 ADMINISTRATIVE TASKS AUTHORIZED BY THIS TITLE 12 OR OTHER TASKS
+9 SPECIFICALLY AUTHORIZED THROUGH THE POLICY OF A BOARD OR
+10 COMMISSION TO A DESIGNEE AT THE REGULATOR'S DISCRETION.
+11 (2) NOTWITHSTANDING SUBSECTION (1) OF THIS SECTION, UNLESS
+12 A REGULATOR IDENTIFIES SPECIFIC CRITERIA TO GOVERN THE REGULATOR'S
+13 DELEGATE IN MAKING A DETERMINATION, A REGULATOR SHALL NOT
+14 DELEGATE THE FOLLOWING TASKS:
+15
+16 (a) COMMENCEMENT OF A HEARING ON AN ORDER TO SHOW CAUSE
+17 IN ACCORDANCE WITH SECTION 12-20-405 (2)(c)(I); OR
+18 (b) APPLICATION FOR INJUNCTION IN ACCORDANCE WITH SECTION
+19 12-20-406.
+20 (3) ALL TASKS DELEGATED PURSUANT TO THIS SECTION BY A
+21 REGULATOR THAT IS NOT THE DIRECTOR MUST BE RATIFIED AT THE NEXT
+22 MEETING OF THE RELEVANT REGULATORY BOARD OR COMMISSION.
+23 SECTION 3. In Colorado Revised Statutes, 12-20-404, amend
+24 (4)(a), (4)(b)(I), and (5)(a) as follows:
+25 12-20-404. Disciplinary actions - regulator powers -
+26 disposition of fines - mistreatment of at-risk adult - exceptions -
+27 definitions.
+-3- 1324
+
+1 (4) Letter of admonition.
+2 (a) When a complaint or investigation discloses an instance of
+3 misconduct that, in the opinion of a regulator, does not warrant formal
+4 action by the regulator but that should not be dismissed as being without
+5 merit, the regulator may issue and send a letter of admonition to the
+6 licensee, certificate holder, or registrant. A LETTER SENT PURSUANT TO
+7 THIS SUBSECTION (4)(a) MAY BE SENT BY EMAIL IF THE LICENSEE,
+8 CERTIFICATE HOLDER, OR REGISTRANT CONFIRMS RECEIPT OF THE EMAIL
+9 WITHIN SEVEN CALENDAR DAYS. IF THE LICENSEE, CERTIFICATE HOLDER,
+10 OR REGISTRANT DOES NOT CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN
+11 CALENDAR DAYS, THE REGULATOR SHALL SEND THE LETTER OF
+12 ADMONITION THROUGH FIRST-CLASS UNITED STATES MAIL.
+13 (b) (I) When a regulator sends a letter of admonition to a licensee,
+14 certificate holder, or registrant pursuant to subsection (4)(a) of this
+15 section, the regulator shall also advise the licensee, certificate holder, or
+16 registrant that the person has the right to request in writing, within twenty
+17 TWENTY-FIVE CALENDAR days after receipt ISSUANCE of the letter, that the
+18 regulator initiate formal disciplinary proceedings to adjudicate the
+19 propriety of the conduct upon which the letter of admonition is based.
+20 (5) Confidential letter of concern.
+21 (a) When a complaint or investigation discloses an instance of
+22 conduct that does not warrant formal action by a regulator and, in the
+23 opinion of the regulator, should be dismissed, but the regulator has
+24 noticed indications of possible errant conduct by the licensee, certificate
+25 holder, or registrant that could lead to serious consequences if not
+26 corrected, the regulator may or shall, in accordance with the part or article
+27 of this title 12 governing the particular profession or occupation, send the
+-4- 1324
+
+1 licensee, certificate holder, or registrant a confidential letter of concern.
+2 A LETTER SENT PURSUANT TO THIS SUBSECTION (5)(a) MAY BE SENT BY
+3 EMAIL IF THE LICENSEE, CERTIFICATE HOLDER, OR REGISTRANT CONFIRMS
+4 RECEIPT OF THE EMAIL WITHIN SEVEN CALENDAR DAYS. IF THE LICENSEE,
+5 CERTIFICATE HOLDER, OR REGISTRANT DOES NOT CONFIRM RECEIPT OF THE
+6 EMAIL WITHIN SEVEN CALENDAR DAYS, THE REGULATOR SHALL SEND THE
+7 CONFIDENTIAL LETTER OF CONCERN THROUGH FIRST-CLASS UNITED
+8 STATES MAIL.
+9 SECTION 4. In Colorado Revised Statutes, 12-20-202, add (7)
+10 as follows:
+11 12-20-202. Licenses, certifications, and registrations - renewal
+12 - reinstatement - fees - occupational credential portability program
+13 - exceptions for military personnel, spouses, gold star military
+14 spouses, and dependents - rules - consideration of criminal
+15 convictions or driver's history - executive director authority - email
+16 communications - definitions.
+17 (7) Email communications. NOTWITHSTANDING ANY OTHER
+18 PROVISION OF THIS TITLE 12, A REGULATOR MAY PROVIDE
+19 COMMUNICATIONS REQUIRED BY THIS TITLE 12 THROUGH EMAIL. FOR A
+20 DISCIPLINARY ACTION TAKEN PURSUANT TO SECTION 12-20-404, THE
+21 REGULATOR MAY PROVIDE COMMUNICATIONS THROUGH EMAIL IF THE
+22 LICENSEE, CERTIFICATE HOLDER, OR REGISTRANT CONFIRMS RECEIPT OF
+23 THE EMAIL WITHIN SEVEN CALENDAR DAYS. IF THE LICENSEE, CERTIFICATE
+24 HOLDER, OR REGISTRANT DOES NOT CONFIRM RECEIPT OF THE EMAIL
+25 WITHIN SEVEN CALENDAR DAYS, THE REGULATOR SHALL SEND THE
+26 COMMUNICATIONS THROUGH FIRST-CLASS UNITED STATES MAIL.
+27 SECTION 5. In Colorado Revised Statutes, 12-20-405, amend
+-5- 1324
+
+1 (2)(b) as follows:
+2 12-20-405. Cease-and-desist orders.
+3 (2) (b) The regulator shall promptly notify the person of the
+4 issuance of the order to show cause and shall include in the notice a copy
+5 of the order, the factual and legal basis for the order, and the date set by
+6 the regulator for a hearing on the order. The regulator may serve the
+7 notice by EMAIL, BY personal service, by first-class United States mail,
+8 postage prepaid, or as may be practicable upon any person against whom
+9 the order is issued. Personal service or proof of receipt of mailing of an
+10 order or document pursuant to this subsection (2)(b) constitutes notice to
+11 the person of the existence and contents of the order or document. IF THE
+12 REGULATOR SENDS THE NOTICE THROUGH EMAIL, THE REGULATOR SHALL
+13 REQUEST THAT THE PERSON CONFIRM RECEIPT OF THE EMAIL WITHIN
+14 SEVEN CALENDAR DAYS. IF THE PERSON DOES NOT CONFIRM RECEIPT OF
+15 THE EMAIL WITHIN SEVEN CALENDAR DAYS, THE REGULATOR SHALL SEND
+16 THE NOTICE THROUGH PERSONAL SERVICE OR FIRST-CLASS UNITED STATES
+17 MAIL, POSTAGE PREPAID.
+18 SECTION 6. In Colorado Revised Statutes, 12-110-111, amend
+19 (2)(b)(IV) as follows:
+20 12-110-111. Grounds for discipline.
+21 (2) (b) Upon completing an investigation in accordance with
+22 section 12-20-403, the director shall make one of the following findings:
+23 (IV) The investigation discloses an instance of conduct that does
+24 not warrant formal action but should not be dismissed as being without
+25 merit. If this finding is made, the director may send a letter of admonition
+26 to the licensee in accordance with section 12-20-404 (4). by certified
+27 mail.
+-6- 1324
+
+1 SECTION 7. In Colorado Revised Statutes, 12-100-124, amend
+2 (2)(b)(IV) as follows:
+3 12-100-124. Investigations - findings - board actions -
+4 confidentiality of complaints.
+5 (2) (b) Upon completing an investigation, the board shall make
+6 one of the following findings:
+7 (IV) The investigation discloses an instance of conduct that does
+8 not warrant formal action but should not be dismissed as being without
+9 merit. If this finding is made, the board may send a letter of admonition
+10 in accordance with section 12-20-404 (4) to the licensee or registrant by
+11 certified mail OR EMAIL.
+12 SECTION 8. In Colorado Revised Statutes, 12-20-206, amend
+13 (2) as follows:
+14 12-120-206. Disciplinary actions - grounds for discipline.
+15 (2) The board may issue and send a letter of admonition by
+16 first-class mail OR EMAIL to a professional engineer or engineer-intern at
+17 the individual's last-known address under the circumstances specified in
+18 and in accordance with section 12-20-404 (4).
+19 SECTION 9. In Colorado Revised Statutes, 12-120-306, amend
+20 (2) as follows:
+21 12-120-306. Disciplinary actions - grounds for discipline.
+22 (2) The board may issue and send a letter of admonition by
+23 first-class mail OR EMAIL to a professional land surveyor or land
+24 surveyor-intern at the individual's last-known address under the
+25 circumstances specified in and in accordance with section 12-20-404 (4).
+26 SECTION 10. In Colorado Revised Statutes, 12-120-406, amend
+27 (2) as follows:
+-7- 1324
+
+1 12-120-406. Disciplinary actions - grounds for discipline.
+2 (2) The board may issue and send a letter of admonition by
+3 first-class mail OR EMAIL to a licensee at the licensee's last-known address
+4 under the circumstances specified in and in accordance with section
+5 12-20-404 (4).
+6 SECTION 11. In Colorado Revised Statutes, 12-130-113, amend
+7 (2) and (3) as follows:
+8 12-130-113. Disciplinary actions by board - procedures.
+9 (2) The board may issue and send to a licensee, by certified mail
+10 OR EMAIL, a written letter of admonition under the circumstances
+11 specified in and in accordance with section 12-20-404 (4).
+12 (3) The board may send a confidential letter of concern to a
+13 licensee under the circumstances specified in section 12-20-404 (5). The
+14 confidential letter of concern and notice of the issuance of the letter shall
+15 be sent to the licensee by certified mail OR EMAIL. Issuance of a
+16 confidential letter of concern shall not be construed to be discipline.
+17 SECTION 12. In Colorado Revised Statutes, 12-155-123, amend
+18 (3)(b) as follows:
+19 12-155-123. Violation - fines - rules.
+20 (3) (b) A citation or copy of a citation issued pursuant to this
+21 section may be served by certified mail, BY EMAIL, or in person by the
+22 program director or the program director's designee upon a person or the
+23 person's agent in accordance with rule 4 of the Colorado rules of civil
+24 procedure. IF THE PROGRAM DIRECTOR OR THE PROGRAM DIRECTOR'S
+25 DESIGNEE SENDS THE NOTICE THROUGH EMAIL, THE PROGRAM DIRECTOR
+26 OR THE PROGRAM DIRECTOR'S DESIGNEE SHALL REQUEST THAT THE
+27 PERSON CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN CALENDAR DAYS.
+-8- 1324
+
+1 IF THE PERSON DOES NOT CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN
+2 CALENDAR DAYS, THE PROGRAM DIRECTOR OR THE PROGRAM DIRECTOR'S
+3 DESIGNEE SHALL SEND THE NOTICE THROUGH FIRST-CLASS UNITED STATES
+4 MAIL.
+5 SECTION 13. In Colorado Revised Statutes, 12-200-110, amend
+6 (2)(c) as follows:
+7 12-200-110. Disciplinary authority and proceedings.
+8 (2) Disciplinary actions may consist of the following:
+9 (c) Issuing and sending a letter of admonition by first-class mail
+10 OR EMAIL to the licensee under the circumstances specified in and in
+11 accordance with section 12-20-404 (4); and
+12 SECTION 14. In Colorado Revised Statutes, 12-215-118, amend
+13 (7) as follows:
+14 12-215-118. Disciplinary proceedings.
+15 (7) The board may send a letter of admonition by certified mail OR
+16 EMAIL to a chiropractor against whom a complaint was made under the
+17 circumstances specified in and in accordance with section 12-20-404 (4)
+18 and shall also send a copy of the letter of admonition to the person
+19 making the complaint.
+20 SECTION 15. In Colorado Revised Statutes, 12-240-125, amend
+21 (4)(a)(I) as follows:
+22 12-240-125. Disciplinary action by board - rules.
+23 (4) (a) (I) Written complaints relating to the conduct of a licensee
+24 licensed or authorized to practice medicine in this state may be made by
+25 any person or may be initiated by an inquiry panel of the board on its own
+26 motion. The licensee complained of shall be given notice by first-class
+27 mail OR EMAIL of the nature of the complaint and shall be given thirty
+-9- 1324
+
+1 days to answer or explain in writing the matters described in such
+2 complaint. Upon receipt of the licensee's answer or at the conclusion of
+3 thirty days, whichever occurs first, the inquiry panel may take further
+4 action as set forth in subsection (4)(a)(II) of this section. IF THE INQUIRY
+5 PANEL SENDS THE NOTICE THROUGH EMAIL, THE INQUIRY PANEL SHALL
+6 REQUEST THAT THE LICENSEE CONFIRM RECEIPT OF THE EMAIL WITHIN
+7 SEVEN CALENDAR DAYS. IF THE LICENSEE DOES NOT CONFIRM RECEIPT OF
+8 THE EMAIL WITHIN SEVEN CALENDAR DAYS, THE INQUIRY PANEL SHALL
+9 SEND THE NOTICE THROUGH FIRST-CLASS UNITED STATES MAIL.
+10 SECTION 16. In Colorado Revised Statutes, 12-245-225, amend
+11 (1)(a) as follows:
+12 12-245-225. Authority of boards - cease-and-desist orders -
+13 rules - fines.
+14 (1) If a licensee, registrant, or certificate holder violates any
+15 provision of section 12-245-224, the board that licenses, registers, or
+16 certifies the licensee, registrant, or certificate holder may, in accordance
+17 with section 12-20-404:
+18 (a) Issue and send, by certified mail OR EMAIL, a letter of
+19 admonition to a licensee, registrant, or certificate holder under the
+20 circumstances specified in and in accordance with section 12-20-404 (4);
+21 SECTION 17. In Colorado Revised Statutes, 12-255-119, amend
+22 (3)(a)(II) as follows:
+23 12-255-119. Disciplinary procedures of the board - inquiry
+24 and hearings panels - mental and physical examinations - definitions
+25 - rules.
+26 (3) (a) (II) Written complaints relating to the conduct of a nurse
+27 licensed or authorized to practice nursing in this state or relating to the
+-10- 1324
+
+1 conduct of a certified midwife licensed or authorized to practice as a
+2 certified midwife in this state may be made by any person or may be
+3 initiated by an inquiry panel of the board on its own motion. Unless the
+4 board determines the complaint to be without merit of investigation, the
+5 board shall give notice of the complaint to the nurse or certified midwife
+6 complained of, by first-class mail OR EMAIL, and shall state in the notice
+7 the nature of the complaint and that the failure to respond in a materially
+8 factual and timely manner constitutes grounds for discipline. The nurse
+9 or certified midwife complained of shall be given thirty days to answer
+10 or explain in writing the matters described in the complaint. Upon receipt
+11 of the nurse's or certified midwife's answer or at the conclusion of thirty
+12 days, whichever occurs first, the inquiry panel may take further action as
+13 set forth in subsection (3)(a)(III) of this section. IF THE BOARD SENDS THE
+14 NOTICE THROUGH EMAIL, THE BOARD SHALL REQUEST THAT THE NURSE OR
+15 CERTIFIED MIDWIFE CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN
+16 CALENDAR DAYS. IF THE NURSE OR CERTIFIED MIDWIFE DOES NOT CONFIRM
+17 RECEIPT OF THE EMAIL WITHIN SEVEN CALENDAR DAYS, THE BOARD SHALL
+18 SEND THE NOTICE THROUGH FIRST-CLASS UNITED STATES MAIL.
+19 SECTION 18. In Colorado Revised Statutes, 12-255-212, amend
+20 (12) as follows:
+21 12-255-212. Disciplinary proceedings - hearing officers.
+22 (12) Except when a decision to proceed with a disciplinary action
+23 has been agreed upon by a majority of the board or its designee and notice
+24 of formal complaint is drafted and served on the licensee by first-class
+25 mail OR EMAIL, any investigations, examinations, hearings, meetings, or
+26 any other proceedings of the board related to discipline that are conducted
+27 pursuant to this section are exempt from the open records provisions of
+-11- 1324
+
+1 article 72 of title 24 requiring that the proceedings of the board be
+2 conducted publicly or that the minutes or records of the board with
+3 respect to action of the board taken pursuant to this section be open to
+4 public inspection.
+5 SECTION 19. In Colorado Revised Statutes, 12-275-122, amend
+6 (3) as follows:
+7 12-275-122. Discipline - procedure - professional review -
+8 immunity - reconsideration and review of action by board - rules.
+9 (3) The board may send a letter of admonition by certified mail OR
+10 EMAIL to a licensee under the circumstances specified in and in
+11 accordance with section 12-20-404 (4).
+12 SECTION 20. In Colorado Revised Statutes, 12-290-113, amend
+13 (2)(a) as follows:
+14 12-290-113. Disciplinary action by board.
+15 (2) (a) Complaints in writing relating to the conduct of any
+16 podiatrist licensed or authorized to practice podiatry in this state may be
+17 made by any person or may be initiated by the board on its own motion.
+18 The podiatrist complained of shall be given notice by first-class mail OR
+19 EMAIL of the nature of all matters complained of within thirty days of the
+20 receipt of the complaint or initiation of the complaint by the board and
+21 shall be given thirty days to make explanation or answer thereto.
+22 SECTION 21. In Colorado Revised Statutes, 12-295-109, amend
+23 (4) as follows:
+24 12-295-109. Approved psychiatric technician education
+25 program.
+26 (4) The board shall examine, from time to time, the approved
+27 psychiatric technician education programs of all institutions in the state
+-12- 1324
+
+1 with approved programs. The executive secretary or other authorized
+2 representative of the board shall conduct the examinations and submit the
+3 examination results to the board in the form of written reports. If the
+4 board determines that an institution with an approved psychiatric
+5 technician education program is not maintaining the standards required
+6 by this article 295, the board shall serve notice of its determination in
+7 writing, specifying the defect, on the institution by EMAIL OR certified
+8 mail, postage prepaid, return receipt requested. If the institution receiving
+9 the notice fails, within one year after mailing of OR EMAILING the notice,
+10 to correct the conditions complained of in the notice, the board shall
+11 revoke the institution's authority to conduct an approved psychiatric
+12 technician education program. An institution has the right, at any time
+13 before the expiration of one year from the date it receives the notice, to
+14 demand and be granted a hearing before the board. In case of a demand,
+15 the board shall not take action until after the hearing. IF THE BOARD SENDS
+16 THE NOTICE THROUGH EMAIL, THE BOARD SHALL REQUEST THAT THE
+17 INSTITUTION CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN CALENDAR
+18 DAYS. IF THE INSTITUTION DOES NOT CONFIRM RECEIPT OF THE EMAIL
+19 WITHIN SEVEN CALENDAR DAYS, THE BOARD SHALL SEND THE NOTICE
+20 THROUGH FIRST-CLASS UNITED STATES MAIL.
+21 SECTION 22. In Colorado Revised Statutes, 12-300-109, amend
+22 (11)(b) as follows:
+23 12-300-109. Grounds for action - disciplinary proceedings.
+24 (11) (b) Subsection (11)(a) of this section shall not apply after the
+25 director has made a decision to proceed with a disciplinary action and has
+26 served by first-class mail OR EMAIL a notice of formal complaint on the
+27 licensee. IF THE DIRECTOR SENDS THE NOTICE THROUGH EMAIL, THE
+-13- 1324
+
+1 DIRECTOR SHALL REQUEST THAT THE LICENSEE CONFIRM RECEIPT OF THE
+2 EMAIL WITHIN SEVEN CALENDAR DAYS. IF THE LICENSEE DOES NOT
+3 CONFIRM RECEIPT OF THE EMAIL WITHIN SEVEN CALENDAR DAYS, THE
+4 DIRECTOR SHALL SEND THE NOTICE THROUGH FIRST-CLASS UNITED STATES
+5 MAIL.
+6 SECTION 23. In Colorado Revised Statutes, 12-20-104, amend
+7 (1) as follows:
+8 12-20-104. Renewal fees - report to joint budget committee -
+9 definition.
+10 (1) Notwithstanding any provision of law to the contrary, there is
+11 imposed, and the executive director shall collect, an excise tax
+12 ADDITIONAL FEE of one dollar TWO DOLLARS for each year of the renewal
+13 period upon the payment of renewal fees that are required to be paid by
+14 individuals for the renewal of a license, registration, or certificate
+15 granting the individual authority or permission from the state to continue
+16 the practice of a profession or occupation; except that the excise tax
+17 ADDITIONAL FEE shall not be imposed on the renewal fee paid by nurse
+18 aides pursuant to section 12-255-107.
+19 SECTION 24. In Colorado Revised Statutes, 12-20-105, amend
+20 (5)(a) as follows:
+21 12-20-105. Fee adjustments - division of professions and
+22 occupations cash fund created - legal defense account created -
+23 general fund transfer - definition - repeal.
+24 (5) (a) The excise tax FEE collected pursuant to section 12-20-104
+25 shall be credited to the legal defense account, which account is hereby
+26 created within the division of professions and occupations cash fund. The
+27 excise tax FEE is the sole source of funding for the account, and no other
+-14- 1324
+
+1 fee or portion of a fee collected by a regulator and credited to the division
+2 of professions and occupations cash fund shall be deposited in or
+3 transferred to the account. The account shall be used to supplement
+4 revenues REVENUE received by the division but shall only be used for the
+5 purpose of paying legal expenses incurred by a regulator. Upon a
+6 determination of the need of a regulator for additional revenues REVENUE
+7 for the payment of legal expenses, the director may authorize the
+8 allocation of revenues REVENUE from the legal defense account to a
+9 regulator for legal expenses.
+10 SECTION 25. In Colorado Revised Statutes, 12-120-211,
+11 recreate and reenact, with amendments, (1) as follows:
+12 12-120-211. Qualifications for engineer-interns.
+13 (1) (a) AN APPLICANT MAY QUALIFY FOR ENROLLMENT AS AN
+14 ENGINEER-INTERN BY ENDORSEMENT IF THE APPLICANT IS ENROLLED IN
+15 GOOD STANDING IN ANOTHER JURISDICTION REQUIRING QUALIFICATIONS
+16 SUBSTANTIALLY EQUIVALENT TO THOSE CURRENTLY REQUIRED OF
+17 APPLICANTS UNDER THIS PART 2 OR IF, AT THE TIME OF INITIAL
+18 ENROLLMENT IN THE OTHER JURISDICTION, THE APPLICANT MET THE
+19 REQUIREMENTS FOR ENROLLMENT THEN IN EXISTENCE UNDER COLORADO
+20 LAW.
+21 (b) UPON COMPLETION OF THE APPLICATION AND APPROVAL BY
+22 THE BOARD, AN APPLICANT QUALIFIED PURSUANT TO SUBSECTION (1)(a)
+23 OF THIS SECTION SHALL BE ENROLLED AS AN ENGINEER-INTERN IF THE
+24 APPLICANT IS OTHERWISE QUALIFIED PURSUANT TO SECTION 12-120-210.
+25 SECTION 26. In Colorado Revised Statutes, 12-120-213,
+26 recreate and reenact, with amendments, (1) as follows:
+27 12-120-213. Qualifications for professional engineer.
+-15- 1324
+
+1 (1) (a) AN APPLICANT MAY QUALIFY FOR LICENSING AS A
+2 PROFESSIONAL ENGINEER BY ENDORSEMENT IF THE APPLICANT IS LICENSED
+3 IN GOOD STANDING IN ANOTHER JURISDICTION REQUIRING QUALIFICATIONS
+4 SUBSTANTIALLY EQUIVALENT TO THOSE CURRENTLY REQUIRED OF
+5 APPLICANTS UNDER THIS PART 2 OR IF, AT THE TIME OF INITIAL LICENSURE
+6 IN THE OTHER JURISDICTION, THE APPLICANT MET THE REQUIREMENTS FOR
+7 LICENSURE THEN IN EXISTENCE UNDER COLORADO LAW.
+8 (b) UPON COMPLETION OF THE APPLICATION AND APPROVAL BY
+9 THE BOARD, AN APPLICANT QUALIFIED PURSUANT TO SUBSECTION (1)(a)
+10 OF THIS SECTION SHALL BE LICENSED AS A PROFESSIONAL ENGINEER IF THE
+11 APPLICANT IS OTHERWISE QUALIFIED PURSUANT TO SECTION 12-120-212.
+12 SECTION 27. In Colorado Revised Statutes, 12-120-215,
+13 recreate and reenact, with amendments, (1)(a)(III) and (1)(b)(III) as
+14 follows:
+15 12-120-215. Fees - disposition.
+16 (1) Pursuant to section 12-20-105, the board shall charge and
+17 collect fees for the following:
+18 (a) With respect to professional engineers:
+19 (III) APPLICATION FOR LICENSURE BY ENDORSEMENT;
+20 (b) With respect to engineer-interns:
+21 (III) APPLICATION FOR ENROLLMENT BY ENDORSEMENT.
+22 SECTION 28. In Colorado Revised Statutes, 12-120-311,
+23 recreate and reenact, with amendments, (1) as follows:
+24 12-120-311. Qualifications for land surveyor-interns.
+25 (1) (a) AN APPLICANT MAY QUALIFY FOR ENROLLMENT AS A LAND
+26 SURVEYOR-INTERN BY ENDORSEMENT IF THE APPLICANT IS ENROLLED IN
+27 GOOD STANDING IN ANOTHER JURISDICTION REQUIRING QUALIFICATIONS
+-16- 1324
+
+1 SUBSTANTIALLY EQUIVALENT TO THOSE CURRENTLY REQUIRED OF
+2 APPLICANTS UNDER THIS PART 3 OR IF, AT THE TIME OF INITIAL
+3 ENROLLMENT IN THE OTHER JURISDICTION, THE APPLICANT MET THE
+4 REQUIREMENTS FOR ENROLLMENT THEN IN EXISTENCE UNDER COLORADO
+5 LAW.
+6 (b) UPON COMPLETION OF THE APPLICATION AND APPROVAL BY
+7 THE BOARD, AN APPLICANT QUALIFIED PURSUANT TO SUBSECTION (1)(a)
+8 OF THIS SECTION SHALL BE ENROLLED AS A LAND SURVEYOR-INTERN IF THE
+9 APPLICANT IS OTHERWISE QUALIFIED PURSUANT TO SECTION 12-120-310.
+10 SECTION 29. In Colorado Revised Statutes, 12-120-313,
+11 recreate and reenact, with amendments, (1) as follows:
+12 12-120-313. Qualifications for professional land surveyor.
+13 (1) (a) AN APPLICANT MAY QUALIFY FOR LICENSING AS A
+14 PROFESSIONAL LAND SURVEYOR BY ENDORSEMENT AND EXAMINATION IF
+15 THE APPLICANT PASSES THE APPROPRIATE EXAMINATION AS ADOPTED BY
+16 THE BOARD IN ACCORDANCE WITH SECTION 12-120-104 (3)(b) AND THE
+17 EXAMINATION PERTAINING TO COLORADO LAW.
+18 (b) TO BE ADMITTED TO AN EXAMINATION PURSUANT TO
+19 SUBSECTION (1)(a) OF THIS SECTION, AN APPLICANT MUST BE LICENSED IN
+20 GOOD STANDING IN ANOTHER JURISDICTION REQUIRING QUALIFICATIONS
+21 SUBSTANTIALLY EQUIVALENT TO THOSE CURRENTLY REQUIRED OF
+22 APPLICANTS UNDER THIS PART 3 OR, AT THE TIME OF INITIAL LICENSURE IN
+23 THE OTHER JURISDICTION, MUST HAVE MET THE REQUIREMENTS FOR
+24 LICENSURE THEN IN EXISTENCE UNDER COLORADO LAW.
+25 (c) UPON PASSING THE APPROPRIATE EXAMINATIONS, AN
+26 APPLICANT QUALIFIED FOR LICENSING BY ENDORSEMENT AND
+27 EXAMINATION PURSUANT TO THIS SUBSECTION (1) SHALL BE LICENSED AS
+-17- 1324
+
+1 A PROFESSIONAL LAND SURVEYOR IF THE APPLICANT IS OTHERWISE
+2 QUALIFIED PURSUANT TO SECTION 12-120-312.
+3 SECTION 30. In Colorado Revised Statutes, 12-120-315,
+4 recreate and reenact, with amendments, (1)(a)(III) and (1)(b)(III) as
+5 follows:
+6 12-120-315. Fees - disposition.
+7 (1) Pursuant to section 12-20-105, the board shall charge and
+8 collect fees for the following:
+9 (a) With respect to professional land surveyors:
+10 (III) APPLICATION FOR LICENSURE BY ENDORSEMENT AND
+11 EXAMINATION;
+12 (b) With respect to land surveyor-interns:
+13 (III) APPLICATION FOR ENROLLMENT AS A LAND
+14 SURVEYOR-INTERN BY ENDORSEMENT.
+15 SECTION 31. Act subject to petition - effective date. This act
+16 takes effect at 12:01 a.m. on the day following the expiration of the
+17 ninety-day period after final adjournment of the general assembly (August
+18 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+19 referendum petition is filed pursuant to section 1 (3) of article V of the
+20 state constitution against this act or an item, section, or part of this act
+21 within such period, then the act, item, section, or part will not take effect
+22 unless approved by the people at the general election to be held in
+23 November 2026 and, in such case, will take effect on the date of the
+24 official declaration of the vote thereon by the governor.
+-18- 1324

@@ -1,0 +1,341 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0038.01 Brita Darling x2241 HOUSE BILL 26-1139
+House Committees Senate Committees
+Health & Human Services Business, Labor, & Technology
+A BILL FOR AN ACT
+101 CONCERNING THE USE OF ARTIFICIAL INTELLIGENCE IN HEALTH CARE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill requires entities that use an artificial
+intelligence system or algorithm (AI system) for the purpose of
+conducting utilization review of health-care services, including health
+insurance carriers, pharmacy benefit managers, private utilization review
+organizations, behavioral health administrative services organizations,
+and managed care entities, to ensure that the AI system complies with
+certain requirements specified in the bill when determining coverage for
+services. Specifically, the AI system used must:
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+6202
+,8
+yaM
+6202
+,61
+hcraM
+6202
+,31
+hcraM
+HOUSE SPONSORSHIP
+Joseph and Lieder, Duran, Froelich, Lindsay, Nguyen, Story, Titone
+SENATE SPONSORSHIP
+Cutter and Daugherty, Amabile, Coleman, Gonzales J., Hinrichsen, Jodeh, Kipp,
+Marchman, Mullica
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Not base its determination solely on group data; and
+! Make determinations based on medical or clinical history,
+the patient's individual clinical circumstances, and other
+relevant factors specified in the bill, with denial of
+coverage reviewed by a licensed clinician or physician.
+The AI system may be used to assist in utilization review,
+including expedited approvals. A denial or delay of coverage for a service
+based in whole or in part on medical necessity must be reviewed by a
+licensed clinician or physician who is competent to evaluate the specific
+clinical issues.
+Section 3 defines a "mental health companion chatbot", in part, as
+an AI system that:
+! Uses generative artificial intelligence to provide adaptive,
+personalized, and emotionally resonant responses to sustain
+a one-on-one relationship with a user;
+! Engages in interactive conversations similar to those an
+individual would have with a licensed mental health
+professional; and
+! Is represented by the AI systems provider as, or that a
+reasonable person believes to be, capable of providing
+mental health therapy or of helping to manage or treat
+mental health conditions.
+Sections 2, 5, 6, and 7:
+! Declare that an AI systems provider engages in the
+unauthorized practice of psychotherapy if the AI system
+used:
+! Represents, states, or indicates, explicitly or
+implicitly, that the AI system is a human mental
+health provider or is authorized to engage in the
+practice of psychotherapy;
+! Uses prohibited titles, abbreviations or descriptions
+of professions, credentials, or services that only a
+mental health professional authorized to provide
+psychotherapy in the state (regulated professional)
+may use;
+! Delivers psychotherapy services that would be
+considered the practice of psychotherapy without
+oversight by an individual who is a regulated
+professional; or
+! Is a mental health companion chatbot and: Fails to
+provide clear and conspicuous notice to the user that
+the AI system is not a human and is not authorized
+to provide psychotherapy, therapy, or counseling or
+to manage or treat mental health conditions; fails to
+disclose that the AI system is artificial intelligence
+-2- 1139
+
+when asked; fails to implement a protocol to address
+suicidal ideation or self-harm expressed by users,
+including referring users to a suicide hotline or
+crisis text line; or sells, shares, or discloses
+identifiable mental health data or conditions the use
+of the mental health companion chatbot on a user
+agreeing to those practices;
+! Allow for the use of an AI system to provide general
+information, support, or education, without representing
+that the AI system is a regulated professional;
+! Exempt from the bill the development, testing, or
+evaluation of an AI system conducted for the purpose of
+research by an institutional review board; and
+! Prohibit a regulated professional from billing a public or
+private payer for psychotherapy services that are provided
+directly to a client and that are conducted by an AI system
+or for supervision of candidates or professional
+consultations that are provided by an AI system without
+human oversight.
+Section 4 requires a regulated professional to disclose to a client
+the purposes for which the regulated professional uses AI systems or
+therapeutic or diagnostic devices that include AI systems in their practice
+and when those AI systems or devices are used, the right of a client to
+consent to a disclosure of confidential communications, and other
+disclosures.
+Sections 2 and 7 prohibit a health insurance carrier and a payer of
+services under the "Colorado Medical Assistance Act" and the "Children's
+Basic Health Plan Act" from paying for psychotherapy services that are
+provided directly to a client and that are conducted by an AI system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Health-care decisions affect the most intimate, complex, and
+5 consequential aspects of human life, including physical survival, mental
+6 well-being, family stability, and personal dignity, and therefore must be
+7 grounded in compassion, clinical judgment, and individualized
+8 understanding;
+-3- 1139
+
+1 (b) Artificial intelligence systems may offer valuable tools to
+2 support efficiency, data analysis, and administrative functions in
+3 health-care delivery; however, these systems cannot comprehend the full
+4 breadth and depth of the human experience, including trauma, culture,
+5 disability, grief, fear, hope, and the lived realities that shape patient health
+6 outcomes;
+7 (c) The state of Colorado has a compelling interest in ensuring
+8 that health care remains human-centered and that decisions involving
+9 coverage determinations, medical necessity, and access to treatment,
+10 particularly denials of care, are made by qualified human clinicians
+11 or physicians who are accountable for these decisions and can exercise
+12 professional judgment and ethical reasoning;
+13 (d) Reliance on artificial intelligence systems to make or
+14 materially influence adverse health-care determinations without
+15 meaningful human oversight risks compounding inequities, embedding
+16 bias, and eroding trust between patients, providers, and health-care
+17 systems;
+18 (e) Artificial intelligence systems may be used as an assistive tool
+19 in health-care delivery and administration but must not replace human
+20 judgment, human accountability, or the therapeutic relationship that is
+21 essential to safe, ethical, and effective care; and
+22 (f) Every Coloradan, regardless of income, insurance status,
+23 disability, language access needs, race, ethnicity, geography, or
+24 immigration status, deserves access to human-centered health care that
+25 recognizes their dignity, individuality, and humanity.
+26 (2) Therefore, the general assembly declares that it is essential to:
+27 (a) Regulate the use of artificial intelligence systems in health care
+-4- 1139
+
+1 to ensure transparency, accountability, equity, and patient safety;
+2 (b) Prohibit automated systems from making adverse coverage
+3 determinations without qualified human review; and
+4 (c) Preserve the central role of licensed clinicians in decisions that
+5 affect the health, well-being, and lives of Coloradans.
+6 SECTION 2. In Colorado Revised Statutes, add 10-16-112.7 as
+7 follows:
+8 10-16-112.7. Use of artificial intelligence systems - utilization
+9 review - prohibition on payment for AI-delivered psychotherapy
+10 services - definitions.
+11 (1) AS USED IN THIS SECTION:
+12 (a) "ARTIFICIAL INTELLIGENCE SYSTEM" HAS THE MEANING SET
+13 FORTH IN SECTION 6-1-1701 (2).
+14 (b) "BEHAVIORAL HEALTH ADMINISTRATIVE SERVICES
+15 ORGANIZATION" MEANS AN ORGANIZATION SELECTED BY THE BEHAVIORAL
+16 HEALTH ADMINISTRATION PURSUANT TO SECTION 27-50-402 TO ESTABLISH
+17 AND MAINTAIN A NETWORK OF BEHAVIORAL HEATH PROVIDERS.
+18 (c) "MANAGED CARE ENTITY" HAS THE MEANING SET FORTH IN
+19 SECTION 25.5-5-403 (4).
+20 (d) "PRIVATE UTILIZATION REVIEW ORGANIZATION" OR
+21 "ORGANIZATION" MEANS A PRIVATE UTILIZATION REVIEW ORGANIZATION,
+22 AS DEFINED IN SECTION 10-16-112 (1)(a), THAT HAS A CONTRACT WITH OR
+23 PERFORMS PRIOR AUTHORIZATION ON BEHALF OF A CARRIER.
+24 (2) Utilization review. SUBSECTIONS (3), (4), AND (5) OF THIS
+25 SECTION APPLY TO:
+26 (a) A CARRIER THAT:
+27 (I) USES AN ARTIFICIAL INTELLIGENCE SYSTEM FOR THE
+-5- 1139
+
+1 PURPOSE OF UTILIZATION REVIEW; OR
+2 (II) CONTRACTS WITH OR OTHERWISE WORKS THROUGH A PERSON
+3 THAT USES AN ARTIFICIAL INTELLIGENCE SYSTEM FOR THE PURPOSE OF
+4 UTILIZATION REVIEW;
+5 (b) A PHARMACY BENEFIT MANAGER OR PRIVATE UTILIZATION
+6 REVIEW ORGANIZATION THAT CONTRACTS WITH A CARRIER TO PROVIDE
+7 UTILIZATION REVIEW SERVICES ON BEHALF OF THE CARRIER AND USES AN
+8 ARTIFICIAL INTELLIGENCE SYSTEM FOR THE PURPOSE OF CONDUCTING
+9 THE UTILIZATION REVIEW; AND
+10 (c) A BEHAVIORAL HEALTH ADMINISTRATIVE SERVICES
+11 ORGANIZATION OR MANAGED CARE ENTITY THAT USES AN ARTIFICIAL
+12 INTELLIGENCE SYSTEM FOR THE PURPOSE OF CONDUCTING UTILIZATION
+13 REVIEW OF MENTAL OR BEHAVIORAL HEALTH SERVICES.
+14 (3) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION THAT
+15 USES AN ARTIFICIAL INTELLIGENCE SYSTEM TO CONDUCT UTILIZATION
+16 REVIEW SHALL ENSURE THAT:
+17 (a) THE ARTIFICIAL INTELLIGENCE SYSTEM BASES ITS
+18 DETERMINATION ON THE FOLLOWING INFORMATION, AS APPLICABLE:
+19 (I) AN INDIVIDUAL'S MEDICAL OR OTHER CLINICAL HISTORY;
+20 (II) INDIVIDUAL CLINICAL CIRCUMSTANCES AS PRESENTED BY THE
+21 REQUESTING PROVIDER; AND
+22 (III) OTHER RELEVANT CLINICAL INFORMATION CONTAINED IN THE
+23 INDIVIDUAL'S MEDICAL OR OTHER CLINICAL RECORD;
+24 (b) THE ARTIFICIAL INTELLIGENCE SYSTEM DOES NOT BASE ITS
+25 DETERMINATIONS SOLELY ON GROUP DATA, WITHOUT REFERENCE TO THE
+26 INDIVIDUAL'S DATA;
+27
+-6- 1139
+
+1 (c) THE ARTIFICIAL INTELLIGENCE SYSTEM IS NOT USED IN ANY
+2 WAY THAT DISCRIMINATES AGAINST INDIVIDUALS IN VIOLATION OF OTHER
+3 STATE OR FEDERAL LAWS;
+4 (d) THE ARTIFICIAL INTELLIGENCE SYSTEM IS FAIRLY AND
+5 EQUITABLY APPLIED, INCLUDING IN ACCORDANCE WITH APPLICABLE
+6 REGULATIONS AND GUIDANCE ISSUED BY THE FEDERAL DEPARTMENT OF
+7 HEALTH AND HUMAN SERVICES;
+8 (e) THE ARTIFICIAL INTELLIGENCE SYSTEM PRODUCES AND
+9 RETAINS DOCUMENTATION, AUDIT LOGS, AND MODEL-GOVERNANCE
+10 RECORDS IN ORDER TO DEMONSTRATE COMPLIANCE WITH THIS SECTION
+11 AND SECTION 10-3-1104.9;
+12 (f) THE ARTIFICIAL INTELLIGENCE SYSTEM'S PERFORMANCE,
+13 USE, AND OUTCOMES ARE PERIODICALLY REVIEWED TO MAXIMIZE
+14 ACCURACY AND RELIABILITY;
+15 (g) AN INDIVIDUAL'S HEALTH DATA IS NOT USED BEYOND ITS
+16 INTENDED OR STATED PURPOSE, CONSISTENT WITH APPLICABLE STATE AND
+17 FEDERAL LAWS; AND
+18 (h) THE ARTIFICIAL INTELLIGENCE SYSTEM'S OR ALGORITHM'S
+19 CRITERIA AND GUIDELINES COMPLY WITH OTHER APPLICABLE STATE OR
+20 FEDERAL LAWS CONCERNING UTILIZATION REVIEW AND COVERAGE FOR
+21 HEALTH-CARE SERVICES.
+22 (4) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION
+23 SHALL PROVIDE WRITTEN DISCLOSURES TO THE DIVISION, THE
+24 DEPARTMENT OF HUMAN SERVICES, OR THE DEPARTMENT OF HEALTH CARE
+25 POLICY AND FINANCING, AS APPLICABLE, THAT IDENTIFY:
+26 (a) THE UTILIZATION REVIEW FUNCTIONS FOR WHICH THE
+27 ARTIFICIAL INTELLIGENCE SYSTEM WILL BE USED;
+-7- 1139
+
+1 (b) THE POINTS IN THE UTILIZATION REVIEW PROCESS WHEN THE
+2 ARTIFICIAL INTELLIGENCE SYSTEM IS USED;
+3 (c) THE HUMAN OVERSIGHT PROCESS, INCLUDING THE
+4 QUALIFICATIONS OF THE REVIEWER AND WHETHER THE A HUMAN MUST
+5 APPROVE AN ADVERSE DETERMINATION; AND
+6 (d) THE PROCESS FOR MAINTAINING AUDIT INFORMATION
+7 SUFFICIENT TO DEMONSTRATE COMPLIANCE WITH SUBSECTION (3) OF THIS
+8 SECTION.
+9 (5) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, AN
+10 ARTIFICIAL INTELLIGENCE SYSTEM MAY BE USED TO ASSIST WITH
+11 UTILIZATION REVIEW, INCLUDING EXPEDITED APPROVALS.
+12 (b) A CARRIER'S DENIAL OF COVERAGE BASED IN WHOLE OR IN
+13 PART ON MEDICAL NECESSITY SHALL NOT BE ISSUED SOLELY ON THE
+14 OUTPUT OF AN ARTIFICIAL INTELLIGENCE SYSTEM WITHOUT HUMAN
+15 REVIEW AND APPROVAL OF THE DENIAL BY A LICENSED CLINICIAN,
+16 LICENSED PHYSICIAN, OR OTHER REGULATED PROFESSIONAL THAT IS
+17 COMPETENT TO EVALUATE THE SPECIFIC CLINICAL ISSUES INVOLVED IN THE
+18 HEALTH-CARE SERVICES REQUESTED BY THE PROVIDER AND A REVIEW OF
+19 THE HEALTH BENEFIT PLAN'S TERMS OF COVERAGE FOR THE HEALTH-CARE
+20 SERVICE.
+21 (6) Prohibition on payment for AI-delivered psychotherapy
+22 services.
+23 (a) A CARRIER OFFERING A HEALTH BENEFIT PLAN ISSUED OR
+24 RENEWED IN THE STATE ON OR AFTER THE EFFECTIVE DATE OF THIS
+25 SECTION SHALL NOT PROVIDE COVERAGE FOR SERVICES THAT CONSTITUTE
+26 PSYCHOTHERAPY SERVICES, AS DEFINED IN SECTION 12-245-202 (14),
+27 THAT ARE PROVIDED DIRECTLY TO AN INDIVIDUAL AND THAT ARE
+-8- 1139
+
+1 CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM.
+2 (b) SUBSECTION (6)(a) OF THIS SECTION DOES NOT PROHIBIT THE
+3 USE OF BILLING SOFTWARE, ELECTRONIC HEALTH RECORDS, VIDEO
+4 PLATFORMS, OR OTHER NONTHERAPEUTIC SOFTWARE TOOLS INCIDENT TO
+5 SERVICES PROVIDED BY A HUMAN PROVIDER.
+6 (c) THE USE OF VIDEOCONFERENCING, MESSAGING PLATFORMS, OR
+7 OTHER COMMUNICATIONS SOFTWARE TO ENABLE SUPERVISION OR
+8 CONSULTATION BY A LICENSED, REGISTERED, OR CERTIFIED INDIVIDUAL
+9 DOES NOT CONSTITUTE SUPERVISION OR CONSULTATION THAT IS
+10 CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM, AS REFERENCED IN
+11 SUBSECTION (6)(a) OF THIS SECTION.
+12
+13 SECTION 3. In Colorado Revised Statutes, add 25.5-1-209 as
+14 follows:
+15 25.5-1-209. Prohibition on payment for AI-delivered
+16 psychotherapy services.
+17 A PAYER OF MENTAL OR BEHAVIORAL HEALTH-CARE SERVICES
+18 PROVIDED UNDER THE "COLORADO MEDICAL ASSISTANCE ACT", AS
+19 SPECIFIED IN ARTICLES 4, 5, AND 6 OF THIS TITLE 25.5, OR THE "CHILDREN'S
+20 BASIC HEALTH PLAN ACT", AS SPECIFIED IN ARTICLE 8 OF THIS TITLE 25.5,
+21 SHALL NOT PAY FOR SERVICES THAT CONSTITUTE PSYCHOTHERAPY
+22 SERVICES, AS DEFINED IN SECTION 12-245-202 (14), THAT ARE PROVIDED
+23 DIRECTLY TO AN INDIVIDUAL AND THAT ARE CONDUCTED BY AN
+24 ARTIFICIAL INTELLIGENCE SYSTEM, AS THAT TERM IS DEFINED IN SECTION
+25 10-16-112.7 (1)(b).
+26 SECTION 4. Act subject to petition - effective date -
+27 applicability. (1) This act takes effect January 1, 2027; except that, if a
+-9- 1139
+
+1 referendum petition is filed pursuant to section 1 (3) of article V of the
+2 state constitution against this act or an item, section, or part of this act
+3 within the ninety-day period after final adjournment of the general
+4 assembly, then the act, item, section, or part will not take effect unless
+5 approved by the people at the general election to be held in November
+6 2026 and, in such case, will take effect January 1, 2027, or on the date of
+7 the official declaration of the vote thereon by the governor, whichever is
+8 later.
+9 (2) This act applies to actions taken on or after the applicable
+10 effective date of this act.
+-10- 1139

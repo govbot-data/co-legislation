@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0754.01 Jacob Baus x2173 HOUSE BILL 26-1176
+HOUSE SPONSORSHIP
+Sirota and Taggart, Brown
+SENATE SPONSORSHIP
+Amabile and Bridges, Kirkmeyer
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO THE FOURTH-YEAR INNOVATION
+102 PILOT PROGRAM, AND, IN CONNECTION THEREWITH, REDUCING
+103 AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Budget Committee. Under current law, the fourth-year
+innovation pilot program (program) provides state funding to students
+with low incomes who graduate early from a high school participating in
+the program.
+Under the program, each year the general assembly appropriates
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+an amount to the department of education (department) for the department
+to distribute to local education providers from which an eligible graduate
+graduated early.
+The bill:
+! Discontinues the amount appropriated by the general
+assembly to the department for distribution to eligible local
+education providers for eligible graduates who graduate
+during the 2025-26 school year; and
+! Requires the department to prorate the amount distributed
+from the appropriation, if any.
+Under the program, an eligible graduate may receive funding for
+tuition, fees, books, transportation, and other costs of attendance
+associated with their postsecondary program if, among other
+requirements, the eligible graduate commences their postsecondary
+program within 18 months after graduating early.
+The bill requires an eligible graduate who graduates early in the
+2025-26 school year to commence their postsecondary program by
+December 31, 2026.
+Under current law, the department of higher education is required
+to submit a final evaluation report, including the impacts and outcomes
+of the program on the student cohorts that participated in the program and
+recommended next steps for the program. The bill repeals this
+requirement.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 23-3.3-1303, amend
+3 (3)(b)(II) as follows:
+4 23-3.3-1303. Fourth-year innovation pilot program - creation
+5 - eligibility - award of state funding - commission policies.
+6 (3) (b) (II) (A) FOR AN ELIGIBLE GRADUATE WHO GRADUATES
+7 EARLY DURING THE 2021-22, 2022-23, 2023-24, OR 2024-25 SCHOOL
+8 YEAR, the general assembly shall also MAY appropriate to the department
+9 of education in the budget year that commences in July following the
+10 student's early graduation an amount sufficient for payment of NOT TO
+11 EXCEED twenty-five percent of the average state share of the state average
+12 per-pupil revenues for the 2021-22 budget year, as calculated during the
+-2- HB26-1176
+
+1 2021 regular legislative session, for distribution to the local education
+2 provider from which the eligible graduate graduated early prior to
+3 completion of the eligible graduate's fourth year of high school. The local
+4 education provider is encouraged to direct a portion of the money
+5 received pursuant to this subsection (3)(b)(II) to high-quality career and
+6 postsecondary counseling and supports to ensure that students who may
+7 be eligible for state funding are aware of the pilot program and receive
+8 appropriate assistance in determining how to allocate state funding
+9 received pursuant to the pilot program to their intended postsecondary
+10 program.
+11 (B) IN A STATE FISCAL YEAR FOR WHICH THE AMOUNT
+12 APPROPRIATED IS LESS THAN TWENTY-FIVE PERCENT OF THE AVERAGE
+13 STATE SHARE AS DESCRIBED IN SUBSECTION (3)(b)(II)(A) OF THIS SECTION,
+14 THE DEPARTMENT OF EDUCATION SHALL PRORATE THE DISTRIBUTION TO
+15 EACH LOCAL EDUCATION PROVIDER FROM WHICH AN ELIGIBLE GRADUATE
+16 GRADUATED FROM ANY MONEY APPROPRIATED PURSUANT TO SUBSECTION
+17 (3)(b)(II)(A) OF THIS SECTION.
+18 SECTION 2. In Colorado Revised Statutes, 23-3.3-1305, repeal
+19 (4) and (5) as follows:
+20 23-3.3-1305. Reporting requirements.
+21 (4) On or before November 1, 2026, the department, in
+22 collaboration with the department of education, shall submit a final
+23 evaluation to the governor's office of state planning and budgeting, the
+24 joint budget committee, and the education committees of the house of
+25 representatives and of the senate, or their successor committees, which
+26 must be posted to the department's website and include, at a minimum,
+27 the following:
+-3- HB26-1176
+
+1 (a) Analysis of all the data collected pursuant to the annual
+2 reporting requirements of this section to assess the impacts and outcomes
+3 of the pilot program on the student cohorts participating in the pilot
+4 program;
+5 (b) Objective measures of changes in student behavior resulting
+6 from implementation of the pilot program, including whether a student
+7 enrolled in a participating school is:
+8 (I) More likely to graduate early; and
+9 (II) More likely to enroll in a postsecondary program, if the
+10 student graduated early;
+11 (c) Analysis of the cost-effectiveness of the pilot program,
+12 including the impact on the state budget of the pilot program's incentives
+13 for school districts and students when students graduate from high school
+14 a single semester or a year early;
+15 (d) Other information relevant to the costs, benefits, successes,
+16 and challenges of the pilot program; and
+17 (e) Recommendations concerning the feasibility and advisability
+18 of continuing the pilot program beyond the pilot stage and changes, if
+19 any, that are needed to continue the program beyond the pilot stage.
+20 (5) (a) The department, in collaboration with the department of
+21 education, may request, and participating local education providers shall
+22 provide, data necessary to complete the final evaluation required in
+23 subsection (4) of this section.
+24 (b) Student data collected pursuant to subsection (4) of this
+25 section and this subsection (5) must be disaggregated by gender, grade
+26 level, local education provider type, ethnicity, disability, English language
+27 learner status, free and reduced-price lunch status, and housing status to
+-4- HB26-1176
+
+1 the maximum extent possible in compliance with the "Colorado Privacy
+2 Act", established pursuant to part 13 of article 1 of title 6; the federal
+3 "Family Educational Rights and Privacy Rights Act of 1974", 20 U.S.C.
+4 sec. 1232g; and the "Student Data Transparency and Security Act"
+5 created pursuant to article 16 of title 22. The department and the
+6 department of education shall maintain strict standards for student data
+7 privacy; comply with standards for reporting data for a student with an
+8 accommodation pursuant to section 504 of the federal "Rehabilitation Act
+9 of 1973", 29 U.S.C. sec. 701 et seq., as amended, and its implementing
+10 regulations, or a student with an individualized education plan; and shall
+11 not publicly report individual student data for any purpose.
+12 SECTION 3. In Colorado Revised Statutes, 23-3.3-1304, amend
+13 (1) and (2)(a) as follows:
+14 23-3.3-1304. Receipt and use of state funding.
+15 (1) To receive state funding pursuant to the pilot program, an
+16 eligible graduate must graduate early from a high school participating in
+17 the pilot program. The AN eligible graduate WHO GRADUATES EARLY
+18 DURING THE 2021-22, 2022-23, 2023-24, OR 2024-25 SCHOOL YEAR must
+19 commence a postsecondary program within eighteen months after
+20 graduating early, or the eligible graduate forfeits the state funding. AN
+21 ELIGIBLE GRADUATE WHO GRADUATES EARLY DURING THE 2025-26
+22 SCHOOL YEAR MUST COMMENCE A POSTSECONDARY PROGRAM NO LATER
+23 THAN DECEMBER 31, 2026, OR THE ELIGIBLE GRADUATE FORFEITS THE
+24 STATE FUNDING.
+25 (2) (a) The department shall disburse state funding on behalf of
+26 the eligible graduate to the eligible graduate's postsecondary program
+27 within thirty business days after a request is made in the manner
+-5- HB26-1176
+
+1 determined pursuant to commission policies and department guidelines.
+2 The eligible graduate's postsecondary program shall remit to the eligible
+3 graduate that portion of state funding remaining after payment of tuition,
+4 fees, and other expenses related to the student's cost of attendance that are
+5 payable to the postsecondary program. The eligible graduate shall use
+6 remaining state funding for the purposes described in subsection (2)(b)
+7 of this section. NOTWITHSTANDING ANY OTHER REQUIREMENTS OF THIS
+8 SECTION, THE DEPARTMENT SHALL MAKE ALL DISBURSEMENTS TO ELIGIBLE
+9 GRADUATES' POSTSECONDARY PROGRAMS REQUIRED PURSUANT TO THIS
+10 SUBSECTION (2)(a) NO LATER THAN THE CLOSE OF THE 2026-27 STATE
+11 FISCAL YEAR.
+-6- HB26-1176
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 SECTION 4. Appropriation to the department of higher education for the fiscal year beginning July 1, 2025. In Session Laws of Colorado 2025, section 2 of chapter
+2 476, (SB 25-206), amend Part VII (3)(C) and the affected totals as follows:
+3 Section 2. Appropriation.
+4 PART VII
+5 DEPARTMENT OF HIGHER EDUCATION
+6
+7 (3) COLORADO COMMISSION ON HIGHER EDUCATION FINANCIAL AID
+8 (C) Special Purpose
+9 Veterans'/Law Enforcement/
+10 POW Tuition Assistance 1,643,700 1,643,700
+11 Native American
+12 Students/Fort Lewis College 21,307,918 21,307,918
+13 Colorado Opportunity
+14 Scholarship Initiative Fund 10,000,000 10,000,000
+-7- HB26-1176
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Tuition Assistance for Career
+2 and Technical Education
+3 Certificate Programs 450,000 450,000
+4 Fourth-year Innovation Pilot
+5 Program 555,573 555,573
+6 524,615 524,615
+7 (1.0 FTE)
+8 (0.7 FTE)
+9 State Aid for Foster Students
+10 Program 2,962,463 2,962,463
+11 (4.0 FTE)
+-8- HB26-1176
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Postsecondary Assistance for
+2 Students who were Homeless
+3 in High School 1,655,041 1,655,041
+4 (2.0 FTE)
+5 38,574,695.0
+6 38,543,737
+7
+8 TOTALS PART VII
+9 (HIGHER EDUCATION) $6,492,016,560 $452,336,026 $1,232,865,809a $3,430,837,406b $1,349,232,021 $26,745,298c
+10 $6,491,985,602 $452,305,068
+11
+12 a This amount shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S.
+13 b Of this amount, $329,555,015 contains an (I) notation.
+14 c This amount contains an (I) notation.
+15
+-9- HB26-1176
+
+1 SECTION 5. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-10- HB26-1176

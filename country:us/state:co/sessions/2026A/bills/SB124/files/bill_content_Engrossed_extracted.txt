@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0259.01 Shelby Ross x4510 SENATE BILL 26-124
+Senate Committees House Committees
+Judiciary
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING INFORMATION RELATED TO THE AUTOMATED
+102 PROTECTION ORDER NOTIFICATION SYSTEM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+If a defendant raises the affirmative defense of self-defense, the
+bill authorizes the defendant to offer relevant evidence of an act of
+violence committed by the alleged victim that is known to the defendant
+or perpetrated against the defendant and that affects the reasonableness
+of the defendant's belief in their justification in using self-defense.
+The bill creates an alternative mandatory sentence for a defendant
+ETANES
+gnidaeR
+dn2
+dednemA
+6202
+,12
+lirpA
+SENATE SPONSORSHIP
+Wallace,
+HOUSE SPONSORSHIP
+Stewart R.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+who is a victim of an act of violence if the court determines, based on the
+relevant evidence presented, that the act of violence was a significant
+contributing factor to the offense for which the defendant is being
+sentenced. If a victim-defendant meets the criteria, the court is not
+required to sentence the victim-defendant to the department of corrections
+and the victim-defendant is eligible for probation or other alternative
+sentences. A victim-defendant convicted of certain criminal offenses is
+not eligible for alternative sentencing.
+The bill authorizes an individual serving a sentence with the
+department of corrections to file a petition with the court where the
+conviction was obtained requesting post-conviction relief from the terms
+of the sentence (petition) if the individual is a victim of an act of violence
+and:
+! If an offense resulting in conviction was committed before
+July 1, 2026; and
+! If the victim-petitioner received a sentence in the case of 15
+years or more to the department of corrections, excluding
+the parole term of the sentence.
+The petition must allege that the victim-petitioner was subjected
+to an act of violence and that the act of violence was a significant
+contributing factor to the offense for which the victim-petitioner was
+initially sentenced. The court shall determine whether to grant a hearing
+on the petition and, based on the evidence presented, determine by a
+preponderance of the evidence if the victim-petitioner was subjected to
+an act of violence and if the following criteria are met:
+! The act of violence was a significant contributing factor to
+the offense; or
+! The prosecution agrees that the best interests of justice and
+the welfare of society would be served by departure from
+the presumptive sentencing range initially imposed.
+If the court determines the victim-petitioner meets the criteria, the
+victim-petitioner may file a motion for reconsideration and reduction of
+the initial sentence. A victim-petitioner convicted of certain criminal
+offenses is not eligible for post-conviction relief.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-33.5-539, amend
+3 (3)(d), (3)(e), and (4); and repeal (3)(f) as follows:
+4 24-33.5-539. Automated protection order notification system
+5 - definitions.
+-2- 124
+
+1 (3) The automated protection order notification system must
+2 include, but is not limited to, the following information, if available:
+3 (d) Whether an extreme risk protection order was issued against
+4 the restrained person pursuant to article 14.5 of title 13, and if so, the date
+5 the extreme risk protection order was served or was attempted to be
+6 served; AND
+7 (e) Whether the restrained person applied for and was denied the
+8 purchase or transfer of a firearm as the result of a background check. and
+9 (f) Whether the restrained person completed and submitted a
+10 firearm purchase or transfer application that indicated the restrained
+11 person was ineligible to possess a firearm pursuant to state or federal law.
+12 (4) The Colorado bureau of investigation in the division
+13 DEPARTMENT AND THE COLORADO INTEGRATED CRIMINAL JUSTICE
+14 INFORMATION SYSTEM PROGRAM CREATED IN SECTION 16-20.5-103 shall
+15 make the information described in subsection (3) of this section available
+16 to the division for the purpose of providing the information to a protected
+17 person, the protected person's immediate family, or other interested
+18 persons pursuant to subsection (2) of this section.
+19 SECTION 2. Act subject to petition - effective date. This act
+20 takes effect at 12:01 a.m. on the day following the expiration of the
+21 ninety-day period after final adjournment of the general assembly (August
+22 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+23 referendum petition is filed pursuant to section 1 (3) of article V of the
+24 state constitution against this act or an item, section, or part of this act
+25 within such period, then the act, item, section, or part will not take effect
+26 unless approved by the people at the general election to be held in
+-3- 124
+
+1 November 2026 and, in such case, will take effect on the date of the
+2 official declaration of the vote thereon by the governor.
+-4- 124

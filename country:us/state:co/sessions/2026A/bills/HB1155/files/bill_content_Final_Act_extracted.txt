@@ -1,0 +1,716 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 26-1155
+BY REPRESENTATIVE(S) Sirota, Brown, Boesenecker, Duran,
+McCluskie;
+also SENATOR(S) Bridges, Amabile.
+CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF
+HEALTH CARE POLICY AND FINANCING.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Appropriation to the department of health care
+policy and financing for the fiscal year beginning July 1, 2025. In
+Session Laws of Colorado 2025, section 2 of chapter 476, (SB 25-206),
+amend Part VI, as Part VI is amended by section 5 of chapter 150, (SB
+25-228), and section 17 of chapter 151, (SB 25-270), Session Laws of
+Colorado, as follows:
+Section 2. Appropriation.
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+PART VI
+DEPARTMENT OF HEALTH CARE POLICY AND FINANCING
+(1) EXECUTIVE DIRECTOR'S OFFICE
+(A) General Administration
+Personal Services 75,859,772
+76,144,403
+(791.2 FTE)
+(795.8 FTE)
+Health, Life, and Dental 12,823,330
+13,063,358
+Short-term Disability 51,482
+51,631
+Paid Family and Medical
+Leave Insurance 377,655
+378,612
+Unfunded Liability
+Amortization Equalization
+Disbursement Payments 7,918,630
+7,939,888
+Salary Survey 2,299,634
+Step Pay 151,359
+PERA Direct Distribution 1,638,429
+Workers' Compensation 230,107
+Operating Expenses 3,334,907
+3,400,301
+Legal Services 2,824,915
+PAGE 2-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Administrative Law Judge
+Services 2,172,417
+2,636,344
+Payment to Risk
+Management and Property
+Funds 280,008
+Leased Space 3,700,205
+3,712,918
+Payments to OIT 17,787,189
+15,566,219
+CORE Operations 35,879
+General Professional
+Services and Special
+Projects 45,810,958
+47,899,410
+177,296,876 68,415,360 14,014,622a 3,852,606b 91,014,288(I)
+178,253,415 69,183,269 14,104,503a 91,113,037(I)
+a Of this amount, $12,528,882 $12,618,763 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.,$399,810 shall
+be from the Healthcare Affordability and Sustainability Nursing Facility Provider Fee Cash Fund created in Section 25.5-4-402.4 (5.5)(a), C.R.S., $361,397 shall be from the Children's
+Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., $278,999 shall be from the Adult Dental Fund created in Section 25.5-5-207 (4)(a), C.R.S., $204,488 shall be from
+the Primary Care Fund created in Section 24-22-117 (2)(b)(I), C.R.S., $131,531 shall be from the Nursing Home Penalty Cash Fund created in Section 25.5-6-205 (3)(a), C.R.S., $59,140
+shall be from the Healthcare Affordability and Sustainability Intermediate Care Facility Fee Cash Fund created in Section 25.5-4-402.4 (5.7)(a), C.R.S., and $50,375 shall be from the
+Breast and Cervical Cancer Prevention and Treatment Fund created in Section 25.5-5-308 (8)(a)(I), C.R.S.
+b Of this amount, $1,374,082 shall be transferred from the Department of Human Services from the Health Care and Economic Security Staff Development Center line item appropriation,
+$881,600 shall be from statewide indirect cost recoveries, $839,181 shall be transferred from the Colorado Benefits Management System, Health Care and Economic Security Staff
+Development Center line item appropriation in this department, $577,832 shall be transferred from the Department of Higher Education from the Fee-for-service Contracts with State
+Institutions for Speciality Education Programs line item, $95,773 shall be from the Department of Personnel and Administration, $57,678 shall be from the Department of Early Childhood,
+and $26,460 shall be from the Department of Public Health and Environment from the Women, Infants, and Children Supplemental Food Grant line item.
+PAGE 3-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+(B) Information Technology Contracts and Projects
+Medicaid Management
+Information System
+Maintenance and Projects 104,857,279 14,958,219 10,671,589a 12,204b 79,215,267(I)
+108,417,161 14,972,432 10,679,408a 82,753,117(I)
+Colorado Benefits
+Management Systems,
+Operating and Contract
+Expenses18, 19 88,214,394 12,900,116(M) 8,079,990c 15,526,968d 51,707,320
+106,142,146 12,909,380(M) 8,407,287c 32,110,715d 52,714,764
+Colorado Benefits
+Management Systems,
+Health Care and Economic
+Security Staff Development
+Center18, 19 2,173,592 693,353(M) 379,255e 73b 1,100,911
+Office of eHealth
+Innovations Operations 8,812,035 2,450,382 671,985f 5,689,668(I)
+8,716,035 2,411,251 664,397f 5,640,387(I)
+(3.0 FTE)
+All-Payer Claims Database 9,619,029 3,541,068 685,936f 5,392,025(I)
+213,676,329
+235,067,963
+a Of this amount, $8,832,713 $8,840,532 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $1,240,975 shall
+be from the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., and $597,901 shall be from the Department of Health Care Policy and Financing Cash Fund
+created in Section 25.5-1-109, C.R.S.
+b These amounts shall be transferred from the Old Age Pension State Medical Program line item appropriation in the Other Medical Services division of this department.
+PAGE 4-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+c Of this amount, $7,549,605 $7,796,902 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., and $530,385 shall
+be from the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., AND $80,000 SHALL BE FROM AN INTERGOVERNMENTAL TRANSFER FROM THE REGIONAL
+TRANSPORTATION DISTRICT.
+d Of this amount, $14,847,374 $31,377,858 shall be transferred from the Department of Human Services, $560,254 shall be transferred from the Department of Early Childhood, $117,688
+$126,334 shall be transferred from the Department of Public Health and Environment, $44,617 SHALL BE FROM THE DEPARTMENT OF LABOR AND EMPLOYMENT, and $1,652 shall be
+transferred from the Old Age Pension State Medical Program line item appropriation in the Other Medical Services division of this department.
+e Of this amount, $358,144 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S. and $21,111 shall be from the
+Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S.
+f These amounts shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+(C) Eligibility Determinations and Client Services
+Contracts for Special
+Eligibility Determinations 5,588,957 1,234,071(M) 913,169a 3,441,717
+6,863,957 2,036,615(M) 748,125a 4,079,217
+County Administration 136,311,489 21,555,147(M) 30,777,803b 83,978,539
+134,990,813 21,338,324(M) 30,475,191b 83,177,298
+Medical Assistance Sites 1,531,968 402,984a 1,128,984(I)
+Administrative Case
+Management 869,744 434,872(M) 434,872
+Customer Outreach 3,461,519 1,141,090(M) 589,670a 1,730,759
+Centralized Eligibility
+Vendor Contract Project 7,959,455 2,753,409a 5,206,046(I)
+Connect for Health
+Colorado Eligibility
+Determinations 11,174,846 4,995,156c 6,179,690(I)
+Eligibility Overflow
+Processing Center 1,904,677 313,938(M) 162,231a 1,428,508
+Returned Mail Processing 3,298,808 979,135(M) 251,592d 111,942e 1,956,139
+Income Verification
+Programs 11,341,713 1,869,398(M) 966,030a 8,506,285
+PAGE 5-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Non-Emergent Medical
+Transportation Broker 3,950,066 1,185,020(M) 790,013a 1,975,033
+187,393,242
+187,347,566
+a These amounts shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+b Of this amount, $22,358,429(I) $22,134,496(I) shall be from local funds and $8,419,374 $8,340,695 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created
+in Section 25.5-4-402.4 (5)(a), C.R.S.
+c This amount represents public funds certified as expenditures incurred by Connect for Health Colorado that are eligible for federal financial participation under the Medicaid program.
+d Of this amount, $212,856 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., and $38,736 shall be from the
+Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S.
+e Of this amount, $111,929 shall be transferred from the Department of Human Services from the Colorado Benefits Management System, Ongoing Expenses line item and $13 shall
+be transferred from the Old Age Pension State Medical Program line item appropriation in the Other Medical Services division of this department.
+(D) Utilization and Quality Review Contracts
+Professional Services
+Contracts 38,038,830 10,008,906(M) 2,223,661a 25,806,263
+37,774,263 9,870,372(M) 25,680,230
+a Of this amount, $2,033,593 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $88,750 shall be from the Adult
+Dental Fund created in Section 25.5-5-207 (4)(a), C.R.S., $64,443 shall be from the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., and $36,875 shall be
+from the Healthcare Affordability and Sustainability Nursing Facility Provider Fee Cash Fund created in Section 25.5-4-402.4 (5.5)(a), C.R.S.
+(E) Provider Audits and Services
+Professional Audit Contracts 4,708,809 1,845,401(M) 579,974a 2,283,434
+4,616,813 533,976a 2,237,436
+a Of this amount, $418,568 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $102,988 shall be from the
+Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., $45,998 shall be from the Primary Care Fund created in Section 24-22-117 (2)(b)(I), C.R.S., and $12,420
+shall be from the Healthcare Affordability and Sustainability Nursing Facility Provider Fee Cash Fund created in Section 25.5-4-402.4 (5.5)(a), C.R.S.
+PAGE 6-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+(F) Recoveries and Recoupment Contract Costs
+Estate Recovery 1,165,841 582,920a 582,921(I)
+Third-Party Liability Cost
+Avoidance Contract 8,838,738 2,916,784(M) 1,502,585b 4,419,369
+10,004,579
+a This amount shall be from estate recoveries.
+b This amount shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+(G) Indirect Cost Recoveries
+Indirect Cost Assessment 881,600 277,887a 79,516b 524,197(I)
+a Of this amount, $243,707 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $12,116 shall be from the Medical
+Nursing Facility Cash Fund created in Section 25.5-6-203 (2)(a), C.R.S., $8,504 shall be from the Adult Dental Fund created in Section 25.5-5-207 (4)(a), C.R.S., $6,252 shall be from
+the Primary Care Fund created in Section 24-22-117 (2)(b)(I), C.R.S., $3,974 shall be from the Nursing Home Penalty Cash Fund created in Section 25.5-6-205 (3)(a), C.R.S., $1,778
+shall be from the Healthcare Affordability and Sustainability Intermediate Care Facility Fee Cash Fund created in Section 25.5-4-402.4 (5.7)(a), C.R.S., and $1,556 shall be from the
+Breast and Cervical Cancer Prevention and Treatment Fund created in Section 25.5-5-308 (8)(a)(I), C.R.S.
+b Of this amount, $37,472 shall be transferred from the Department of Human Services from the Health Care and Economic Security Staff Development Center line item appropriation,
+$26,899 shall be from transferred from the Colorado Benefits Management System, Health Care and Economic Security Staff Development Center line item appropriation in this
+department, and $15,145 shall be transferred from the Department of Higher Education from the Fee-for-service Contracts with State Institutions for Speciality Education Programs line
+item.
+632,000,265
+653,946,199
+PAGE 7-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+(2) MEDICAL SERVICES PREMIUMS
+Medical and Long-Term
+Care Services for Medicaid
+Eligible Individuals 13,365,398,428 2,591,984,332(M) 1,292,968,309a 1,480,091,193b 124,197,922c 7,876,156,672
+14,017,977,042 2,682,195,022(M) 1,648,116,456b 8,270,499,333
+a This amount shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S.
+b Of this amount, $1,121,530,725 $1,279,811,834 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $76,010,738
+$102,007,068 recoveries and recoupments, $73,586,261 $58,809,782 shall be from the Adult Dental Fund created in Section 25.5-5-207 (4)(a), C.R.S., $62,525,000 $61,501,951 shall
+be from the Healthcare Affordability and Sustainability Nursing Facility Provider Fee Cash Fund created in Section 25.5-4-402.4 (5.5)(a), C.R.S., $60,581,773 represents public funds
+certified as expenditures incurred by public emergency medical transportation providers, $46,929,200 shall be from the Health Care Expansion Fund created in Section 24-22-117 (2)(a)(I),
+C.R.S., $28,169,342 $28,029,692 represents public funds certified as expenditures incurred by public hospitals and agencies that are eligible for federal financial participation under the
+Medicaid program, $6,660,761 shall be from the Healthcare Affordability and Sustainability Medicaid Buy-in Cash Fund created in Section 25.5-4-402.4 (5.1)(a), C.R.S., $1,503,600
+$1,491,000 shall be from the Tobacco Tax Cash Fund created in section 24-22-117 (1)(a), C.R.S., and meets the requirement to appropriate a portion of the revenues collected from the
+imposition of additional state cigarette and tobacco taxes to the Old Age Pension program for health related purposes pursuant to Section 21 of Article X of the State Constitution,
+$857,151 shall be from the Tobacco Education Programs Fund created in Section 24-22-117 (2)(c)(I), C.R.S., $836,182 $535,784 shall be from the Breast and Cervical Cancer Prevention
+and Treatment Fund created in Section 25.5-5-308 (8)(a)(I), C.R.S., $700,000 shall be from an intergovernmental transfer from Denver Health, and $200,460 shall be from the Healthcare
+Affordability and Sustainability Intermediate Care Facility Fee Cash Fund created in Section 25.5-4-402.4 (5.7)(a), C.R.S.
+c Of this amount, $112,280,907 shall be transferred from the Department of Higher Education from the Fee-for-service Contracts with State Institutions for Speciality Education Programs
+line item, $9,253,841 shall be transferred from the Old Age Pension State Medical Program line item appropriation in the Other Medical Services division of this department, $1,505,000
+shall be from the Department of Early Childhood from the Home Visiting line item, and $1,158,174 shall be transferred from Public School Health Services line item in the Other Medical
+Services division of this department.
+(3) BEHAVIORAL HEALTH COMMUNITY PROGRAMS
+Behavioral Health
+Capitation Payments 1,451,675,162 349,844,933(M) 121,980,456a 979,849,773
+1,576,377,067 366,639,665(M) 127,670,433a 1,082,066,969
+PAGE 8-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Behavioral Health
+Fee-for-service Payments 11,346,614 2,726,359(M) 673,095a 7,947,160
+10,336,937 2,483,755(M) 613,201a 7,239,981
+1,463,021,776
+1,586,714,004
+a Of these amounts, $122,607,105 $127,743,581 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $500,000
+SHALL BE FROM THE MARIJUANA TAX CASH FUND CREATED IN SECTION 39-28.8-501 (1), C.R.S., and $46,446 $40,053 shall be from the Breast and Cervical Cancer Prevention and
+Treatment Fund created in Section 25.5-5-308 (8)(a)(I), C.R.S.
+(4) OFFICE OF COMMUNITY LIVING
+(A) Division of Intellectual and Developmental Disabilities
+(1) Administrative Costs
+Personal Services 3,469,613 1,858,480(M) 1,611,133
+(39.5 FTE)
+Operating Expenses 281,510 164,636(M) 116,874
+Community and Contract
+Management System 137,480 89,362(M) 48,118
+Support Level
+Administration 58,350 28,920(M) 255a 29,175
+3,946,953
+a This amount shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+(2) Medicaid Programs20
+Adult Comprehensive
+Services 943,198,318
+969,544,678
+PAGE 9-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Adult Supported Living
+Services 125,347,265
+107,263,637
+Children's Extensive
+Support Services 147,638,446
+148,787,890
+Children's Habilitation
+Residential Program 31,570,797
+38,368,867
+Case Management for
+People with Disabilities 149,895,987
+166,577,105
+1,397,650,813 675,945,687(M) 20,943,946a 700,761,180
+1,430,542,177 695,276,500(M) 20,606,171a 714,659,506
+a Of this amount, $20,943,945 $20,606,170 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., and $1 shall be
+from the Health Care Expansion Fund created in Section 24-22-117 (2)(a)(I), C.R.S.
+(3) State-only Programs21
+Family Support Services 11,436,277
+11,315,225
+State Supported Living
+Services 5,375,632
+5,318,732
+State Supported Living
+Services Case Management 5,238,505
+5,183,056
+PAGE 10-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Preventive Dental Hygiene22 72,271
+71,506
+22,122,685 22,122,685
+21,888,519 21,888,519
+1,423,720,451
+1,456,377,649
+(5) INDIGENT CARE PROGRAM
+Safety Net Provider
+Payments 226,610,308 113,305,154a 113,305,154(I)
+Pediatric Specialty Hospital 13,455,012 6,727,506(M) 6,727,506
+4,580,424(M) 8,874,588
+Appropriation from
+Tobacco Tax Cash Fund to
+the General Fund 293,077 293,077b
+Primary Care Fund Program 34,771,339 17,516,461c 17,254,878(I)
+Children's Basic Health Plan
+Administration 3,864,405 1,352,542(H)d 2,511,863
+Children's Basic Health Plan
+Medical and Dental Costs 317,847,540 59,359,766 293,077e 51,658,796(H)f 206,535,901
+295,050,786 52,520,811 50,518,887(H)f 191,718,011
+596,841,681
+574,044,927
+a This amount shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+b This amount shall be from the Tobacco Tax Cash Fund created in Section 24-22-117 (l)(a), C.R.S. This appropriation partially meets the requirement to appropriate a portion of the
+revenues collected from imposition of additional state cigarette and tobacco taxes to the General Fund pursuant to Section 21 of Article X of the State Constitution.
+c This amount shall be from the Primary Care Fund created in Section 24-22-117 (2)(b)(I), C.R.S.
+PAGE 11-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+d Of this amount, $1,347,131 shall be from the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., and $5,411 shall be from the Healthcare Affordability and
+Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+e This amount shall be from General Fund Exempt Account pursuant to Section 24-22-117 (1)(c)(I)(B.5), C.R.S., and is not subject to the statutory limitation on General Fund
+appropriations imposed by Section 24-75-201.1, C.R.S.
+f Of this amount, $40,584,673 $39,466,086 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., $10,569,497
+$10,569,625 shall be from the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S., $404,625 $383,175 shall be from the Colorado Immunization Fund created
+in Section 25-4-2301, C.R.S., $100,000 shall be from recoveries and recoupments, and $1 shall be from the Health Care Expansion Fund created in Section 24-22-117 (2)(a)(I), C.R.S.
+(6) OTHER MEDICAL SERVICES
+Old Age Pension State
+Medical Program 10,000,000 10,000,000a
+Senior Dental Program 3,990,358 3,962,510 27,848b
+3,490,358 3,462,510
+Commission on Family
+Medicine Residency
+Training Programs 9,490,170 4,520,085(M) 225,000c 4,745,085
+3,034,046(M) 196,737c 6,259,387
+Medicare Modernization
+Act State Contribution
+Payment 272,802,633 272,802,633
+268,225,649 268,225,649
+Public School Health
+Services Contract
+Administration 2,000,000 1,000,000(M) 1,000,000
+Public School Health
+Services 198,563,973 99,281,987d 99,281,986(I)
+187,451,256 93,725,628d 93,725,628(I)
+PAGE 12-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Screening, Brief
+Intervention, and Referral to
+Treatment Training Grant
+Program23 1,500,000 1,500,000e
+1,000,000 1,000,000e
+Reproductive Health Care
+for Individuals Not Eligible
+for Medicaid 2,614,490 2,614,490
+Health Benefits for Children
+Lacking Access Due to
+Immigration Status 32,075,606 32,075,606
+53,360,259 53,360,259
+Telehealth Remote
+Monitoring Grant Program 500,000 500,000
+533,537,230
+538,132,182
+a This amount shall be from the Old Age Pension Health and Medical Care Fund created in Section 25.5-2-101 (2), C.R.S.
+b This amount shall be from the Department of Health Care Policy and Financing Cash Fund created in Section 25.5-1-109, C.R.S.
+c This amount shall be transferred from the Department of Higher Education from the Fee-for-service Contracts with State Institutions for Speciality Education Programs line item.
+d This amount represents funds certified as public expenditures incurred by school districts or boards of cooperative educational services that are eligible for federal financial participation
+under Medicaid.
+e This amount shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S.
+(7) TRANSFERS TO OTHER STATE DEPARTMENT MEDICAID-FUNDED PROGRAMS
+(A) Early Childhood
+Transfer to Department of
+Early Childhood for Early
+Intervention 5,940,111 2,970,056(M) 2,970,055
+PAGE 13-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+(B) Education
+Public School Health
+Services 208,269 104,135(M) 104,134
+(C) Human Services
+(1) Executive Director's
+Office24 17,942,157 8,971,079(M) 8,971,078
+18,204,527 9,102,264(M) 9,102,263
+(2) Office of Children, Youth and Families
+Child Welfare
+Administration 352,543 145,627(M) 206,916
+Child Welfare Services 14,383,230 7,191,615(M) 7,191,615
+Division of Youth Services 758,785 379,394(M) 379,391
+15,494,558
+(3) Office of Economic Security
+Administration 240,000 72,180(M) 47,820a 120,000
+Systematic Alien
+Verification for Eligibility 116,804 58,403(M) 58,401
+356,804
+a This amount shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+(4) Behavioral Health Administration
+Community Behavioral
+Health Administration 926,843 463,421(M) 463,422
+PAGE 14-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Children and Youth Mental
+Health Treatment Act 137,680 68,840(M) 68,840
+1,064,523
+(5) Office of Civil and
+Forensic Mental Health
+Mental Health Institutes 8,762,879 4,381,439(M) 4,381,440
+11,014,933 5,507,466(M) 5,507,467
+Mental Health Transitional
+Living Homes 5,165,032 2,582,516(M) 2,582,516
+13,927,911
+16,179,965
+(6) Office of Adults, Aging and Disability Services
+Administration 503,562 251,781(M) 251,781
+Regional Centers for People
+with Developmental
+Disabilities 59,760,345 27,991,270(M) 1,888,903a 29,880,172
+Community Services for the
+Elderly 1,001,800 500,900(M) 500,900
+61,265,707
+a This amount shall be from the Healthcare Affordability and Sustainability Intermediate Care Facility Fee Cash Fund created in Section 25.5-4-402.4 (5.7)(a), C.R.S.
+(7) Other
+Department of Human
+Services Indirect Cost
+Assessment 24,117,640 12,058,820(M) 12,058,820
+24,523,468 12,261,734(M) 12,261,734
+PAGE 15-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+(D) Local Affairs
+Home Modifications Benefit
+Administration 313,881 156,941(M) 156,940
+Host Home Regulation 325,578 162,789(M) 162,789
+639,459
+(E) Public Health and Environment
+Facility Survey and
+Certification 9,279,704 3,861,449(M) 5,418,255
+Prenatal Statistical
+Information 6,196 3,098(M) 3,098
+9,285,900
+(F) Regulatory Agencies
+Nurse Aide Certification 324,041 147,369(M) 14,652a 162,020
+Sunset Reviews 3,750 1,875(M) 1,875
+327,791
+a This amount shall be transferred from the Department of Regulatory Agencies from the Payments to Department of Health Care Policy and Financing line item appropriation.
+(G) Revenue
+Hospital Tax Exemptions 100,000 50,000(H)a 50,000
+a This amount shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+150,670,830
+153,591,082
+PAGE 16-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+TOTALS PART VI
+(HEALTH CARE
+POLICY AND
+FINANCING)25 $18,165,190,661 $4,247,295,247 $1,293,261,386a $2,002,883,994b $144,020,883 $10,477,729,151c
+$18,980,783,085 $4,381,549,873 $2,168,909,052b $160,576,367 $10,976,486,407c
+a Of this amount, $1,292,968,309 shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S., and $293,077 shall be General Fund Exempt pursuant to
+Section 24-22-117 (1)(c)(I)(B.5), C.R.S. Said $293,077 is not subject to the statutory limitation on General Fund appropriations imposed by Section 24-75-201.1, C.R.S.
+b Of this amount, $22,358,429 $22,134,496 contains an (I) notation.
+c Of this amount, $424,775,104 $422,806,064 contains an (I) notation.
+FOOTNOTES -- The following statements are referenced to the numbered footnotes throughout section 2.
+18 Department of Health Care Policy and Financing, Executive Director's Office, Information Technology Contracts and Projects, Colorado Benefits Management
+Systems, Operating and Contract Expenses; Colorado Benefits Management Systems, Health Care and Economic Security Staff Development Center -- In
+addition to the transfer authority provided in Section 24-75-108, C.R.S., the Department may transfer up to 5.0 percent of the total appropriations within the
+line items designated with this footnote. The Department is also authorized to transfer up to 5.0 percent of the total appropriations within the line items
+designated with this footnote to line item appropriations within the Department of Human Services, Office of Information Technology Services, Colorado
+Benefits Management System subsection.
+19 Department of Health Care Policy and Financing, Executive Director's Office, Information Technology Contracts and Projects, Colorado Benefits Management
+Systems, Operating and Contract Expenses; Colorado Benefits Management Systems, Health Care and Economic Security Staff Development Center -- Of
+this appropriation, $2,500,000 remains available for expenditure until the close of the 2025-26 state fiscal year.
+20 Department of Health Care Policy and Financing, Office of Community Living, Division of Intellectual and Developmental Disabilities, Medicaid Programs
+-- It is the General Assembly's intent that expenditures for these services be recorded only against the Long Bill group total for Medicaid Programs.
+21 Department of Health Care Policy and Financing, Office of Community Living, Division of Intellectual and Developmental Disabilities, State-only Programs
+-- It is the General Assembly's intent that expenditures for these services be recorded only against the Long Bill group total for State-only Programs.
+22 Department of Health Care Policy and Financing, Office of Community Living, Division of Intellectual and Developmental Disabilities, State-only Programs,
+Preventive Dental Hygiene -- It is the General Assembly's intent that this appropriation be used to provide special dental services for persons with intellectual
+PAGE 17-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+and developmental disabilities.
+23 Department of Health Care Policy and Financing, Other Medical Services, Screening, Brief Intervention, and Referral to Treatment Training Grant Program
+-- It is the General Assembly's intent that this appropriation be used to sustain the grant program for screening, brief intervention, and referral to treatment
+for individuals at risk of substance abuse that is authorized in Section 25.5-5-208, C.R.S., in accordance with the requirements set forth in that section.
+24 Department of Health Care Policy and Financing, Transfers to Other State Department Medicaid-Funded Programs, Human Services, Executive Director's
+Office -- The appropriation in this Health Care Policy and Financing line item corresponds to the Medicaid funding in the Department of Human Services,
+Executive Director's Office, General Administration. As such, the appropriation contains amounts that correspond to centralized appropriation amounts in
+the Department of Human Services. Consistent with section 24-75-105, C.R.S., the Department of Human Services may transfer the centralized appropriations
+to other line item appropriations in the Department of Human Services. In order to aid budget reconciliation between the Department of Health Care Policy
+and Financing and the Department of Human Services, the Department of Health Care Policy and Financing may make line item transfers out of this
+appropriation to other Department of Human Services Medicaid-funded programs appropriations in this section (7) in amounts equal to the centralized
+appropriation transfers made by the Department of Human Services for Medicaid-funded programs in the Department of Human Services.
+25 Department of Health Care Policy and Financing, Totals; Department of Higher Education, College Opportunity Fund Program, Fee-for-service Contracts
+with State Institutions, Fee-for-service Contracts with State Institutions for Specialty Education Programs; Governing Boards, Regents of the University of
+Colorado -- The Department of Higher Education shall transfer $900,000 to the Department of Health Care Policy and Financing for administrative costs and
+family medicine residency placements associated with care provided by the faculty of the health sciences center campus at the University of Colorado that
+are eligible for payment pursuant to Section 25.5-4-401, C.R.S. If the federal Centers for Medicare and Medicaid services continues to allow the Department
+of Health Care Policy and Financing to make supplemental payments to the University of Colorado School of Medicine, the Department of Higher Education
+shall transfer the amount approved, up to $112,280,907, to the Department of Health Care Policy and Financing pursuant to Section 23-18-304(1)(c), C.R.S.
+If permission is discontinued, or is granted for a lesser amount, the Department of Higher Education shall transfer any portion of the $112,280,907 that is not
+transferred to the Department of Health Care Policy and Financing to the Regents of the University of Colorado.
+PAGE 18-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+SECTION 2. Appropriation to the department of health care policy and financing for the fiscal year beginning July 1, 2024. In Session Laws of Colorado 2024, section
+2 of chapter 519, (HB 24-1430), amend Part VI (1)(C) and the affected totals as Part VI (1)(C) and the affected totals are amended by section 1 of chapter 456, (SB 25-093), and section
+9 of chapter 476, (SB 25-206), Session Laws of Colorado 2025, as follows:
+Section 2. Appropriation.
+PART VI
+DEPARTMENT OF HEALTH CARE POLICY AND FINANCING
+(1) EXECUTIVE DIRECTOR'S OFFICE
+(C) Eligibility Determinations and Client Services
+Contracts for Special
+Eligibility Determinations 12,039,555 1,134,071(M) 4,338,468a 6,567,016
+County Administration 123,048,230 21,004,349(M) 26,624,750b 75,419,131
+124,745,669 77,116,570
+Medical Assistance Sites 1,531,968 402,984a 1,128,984(I)
+Administrative Case
+Management 869,744 434,872(M) 434,872
+Customer Outreach 3,461,519 1,394,139(M) 336,621a 1,730,759
+Centralized Eligibility
+Vendor Contract Project 7,959,455 2,753,409a 5,206,046(I)
+Connect for Health
+Colorado Eligibility
+Determinations 11,174,846 4,995,156c 6,179,690(I)
+Eligibility Overflow
+Processing Center 1,904,677 285,320(M) 190,849a 1,428,508
+Returned Mail Processing 3,298,808 985,808(M) 244,919d 111,942e 1,956,139
+Income Verification
+Programs 11,341,713 1,741,440(M) 1,093,988a 8,506,285
+PAGE 19-HOUSE BILL 26-1155
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+Non-emergent Medical
+Transportation Broker 3,950,066 1,185,020(M) 790,013a 1,975,033
+180,580,581
+182,278,020
+a These amounts shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S.
+b Of this amount, $19,254,185(I) shall be from local funds and $7,370,565 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4
+(5)(a), C.R.S.
+c This amount represents public funds certified as expenditures incurred by Connect for Health Colorado that are eligible for federal financial participation under the Medicaid
+program.
+d Of this amount, $206,183 shall be from the Healthcare Affordability and Sustainability Fee Cash Fund created in Section 25.5-4-402.4 (5)(a), C.R.S., and $38,736 shall be from
+the Children's Basic Health Plan Trust created in Section 25.5-8-105 (1), C.R.S.
+e Of this amount, $111,929 shall be transferred from the Department of Human Services from the Colorado Benefits Management System, Ongoing Expenses line item and $13 shall
+be transferred from the Old Age Pension State Medical Program line item appropriation in the Other Medical Services division of this department.
+TOTALS PART VI
+(HEALTH CARE
+POLICY AND
+FINANCING)30 $16,893,635,423 $3,927,780,977 $1,249,130,701a $1,947,905,981b $137,592,164 $9,631,225,600c
+$16,895,332,862 $9,632,923,039c
+a Of this amount, $1,247,280,333 shall be from the General Fund Exempt Account created in Section 24-77-103.6 (2), C.R.S., and $291,034 shall be General Fund Exempt pursuant
+to Section 24-22-117 (1)(c)(I)(B.5), C.R.S. Said $291,034 is not subject to the statutory limitation on General Fund appropriations imposed by Section 24-75-201.1, C.R.S.
+b Of this amount, $19,254,185 contains an (I) notation.
+c Of this amount, $442,530,087 contains an (I) notation.
+PAGE 20-HOUSE BILL 26-1155
+
+SECTION 3. Appropriation to the department of health care
+policy and financing for the fiscal year beginning July 1, 2024.
+(1) For the 2024-25 state fiscal year, $109,143,378 is appropriated to the
+department of health care policy and financing and is for the payment of
+overexpenditures of line item appropriations contained in Part VI of
+section 2 of chapter 519 (HB 24-1430), Session Laws of Colorado 2024,
+as follows:
+(a) $15,267,906 reappropriated funds from the department of
+human services for Colorado benefits management systems, operating and
+contract expenses;
+(b) $52,435 reappropriated funds from the department of early
+childhood for Colorado benefits management systems, operating and
+contract expenses;
+(c) $30,415 reappropriated funds from the department of public
+health and environment for Colorado benefits management systems,
+operating and contract expenses;
+(d) $46,153,277 from the general fund, for medical and long-term
+care services for Medicaid eligible individuals;
+(e) $5,371,383 from the general fund for behavioral health
+capitation payments;
+(f) $478,777 from the general fund for adult comprehensive
+services;
+(g) $3,225,375 from the home- and community-based services
+improvement fund created in section 25.5-6-1805 (1), C.R.S., for adult
+comprehensive services;
+(h) $1,959,736 from the general fund for adult supported living
+waiver services;
+(i) $5,830,197 from the general fund for children's extensive
+support services;
+(j) $642,696 from the general fund for case management for
+people with disabilities;
+PAGE 21-HOUSE BILL 26-1155
+
+(k) $20,246,694 from the healthcare affordability and sustainability
+fee cash fund created in section 25.5-4-402.4 (5)(a), C.R.S., for safety net
+provider payments;
+(l) $409,393 from the primary care fund created in section
+24-22-117 (2)(b)(I), C.R.S., for the primary care fund program;
+(m) $536,414 from the general fund for Medicare modernization
+act state contribution payment;
+(n) $1,322,335 cash funds from certified public expenditures for
+public school health services;
+(o) $1,743,037 from the general fund for health benefits for
+children lacking access due to immigration status;
+(p) $3,400,285 from the general fund, for child welfare services;
+and
+(q) $2,473,023 from the general fund for mental health institutes.
+(2) In accordance with section 24-75-109 (4)(a), C.R.S., all
+restrictions on funds for the department of health care policy and
+financing for the 2025-26 state fiscal year for the amounts and items of
+appropriation listed in this section are released.
+SECTION 4. Appropriation to the department of health care
+policy and financing for the fiscal year beginning July 1, 2025. In
+Session Laws of Colorado 2025, section 5 of chapter 274, (SB 25-290),
+amend (1)(c) as follows:
+Section 5. Appropriation. (1) For the 2025-26 state fiscal year,
+$25,000,000 $45,000,000 is appropriated to the department of health care
+policy and financing. This appropriation is from the provider stabilization
+fund created in section 25.5-3-603 (1)(a), C.R.S. To implement this act,
+the department may use this appropriation as follows:
+(c) $24,845,595 $44,845,595 for provider stabilization payments
+related to other medical services.
+PAGE 22-HOUSE BILL 26-1155
+
+SECTION 5. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Vanessa Reilly Esther van Mourik
+CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 23-HOUSE BILL 26-1155

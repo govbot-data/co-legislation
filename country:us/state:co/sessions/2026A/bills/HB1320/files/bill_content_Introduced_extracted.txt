@@ -1,0 +1,248 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0774.03 Rebecca Bayetti x4348 HOUSE BILL 26-1320
+HOUSE SPONSORSHIP
+Nguyen and Garcia,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING STATUTORY REQUIREMENTS FOR BALLOT TITLE
+102 LANGUAGE, AND, IN CONNECTION THEREWITH, REQUIRING THE
+103 USE OF ACCESSIBLE LANGUAGE AND ALLOWING FOR THE
+104 MODIFICATION OF STATUTORILY REQUIRED BALLOT TITLE
+105 LANGUAGE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, the title board must set a ballot title for an
+initiative petition that is brief, does not conflict with another title for an
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+initiative petition filed for the same election, and is in the form of a
+question that may be answered "yes/for" or "no/against" and that
+unambiguously states the principle of the provision sought to be added,
+amended, or repealed by the initiative. The bill adds a requirement that
+the title board write a ballot title using accessible language, which means
+plain language that is understood by the widest possible audience.
+In addition, current law requires that specific language appear in
+the ballot title for certain initiatives that increase or reduce tax revenue.
+For initiatives that reduce state tax revenue or local district property tax
+revenue through a tax change, this required language must appear at the
+beginning of the ballot title. For initiatives that increase tax revenue for
+any district through a tax change, this required language must appear
+directly after language required by the Taxpayer's Bill of Rights. The bill
+modifies these statutory provisions so that the required ballot title
+language must only be substantially similar to the specific statutory
+language and may appear anywhere in the ballot title.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-40-106, amend
+3 (3)(b), (3)(e), (3)(f), (3)(g)(I), and (3)(h) as follows:
+4 1-40-106. Title board - meetings - ballot title - initiative and
+5 referendum - definitions - rules.
+6 (3) (b) (I) In setting a title, the title board shall consider the public
+7 confusion that might be caused by misleading titles and shall, whenever
+8 practicable, avoid titles for which the general understanding of the effect
+9 of a "yes/for" or "no/against" vote will be unclear. The title for the
+10 proposed law or constitutional amendment, which shall MUST correctly
+11 and fairly express the true intent and meaning thereof, together with the
+12 ballot title and submission clause, shall MUST be completed, except as
+13 otherwise required by section 1-40-107, within two weeks after the first
+14 meeting of the title board. Immediately upon completion, the secretary of
+15 state shall deliver the same with the original to the designated
+16 representatives of the proponents, keeping the copy with a record of the
+-2- HB26-1320
+
+1 action taken thereon.
+2 (II) THE TITLE BOARD SHALL SET ballot titles shall THAT:
+3 (A) be ARE brief; shall
+4 (B) ARE WRITTEN USING ACCESSIBLE LANGUAGE, WHICH IS PLAIN
+5 LANGUAGE THAT IS UNDERSTOOD BY THE WIDEST POSSIBLE AUDIENCE;
+6 (C) DO not conflict with those BALLOT TITLES selected for any
+7 petition previously filed for the same election; and shall
+8 (D) be ARE in the form of a question which THAT may be
+9 answered "yes/for" (to vote in favor of the proposed law or constitutional
+10 amendment) or "no/against" (to vote against the proposed law or
+11 constitutional amendment) and which shall THAT unambiguously state
+12 STATES the principle of the provision sought to be added, amended, or
+13 repealed.
+14 (e) For measures that reduce state tax revenue through a tax
+15 change, the ballot title must begin INCLUDE LANGUAGE SUBSTANTIALLY
+16 SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY APPEAR ANYWHERE
+17 IN THE BALLOT TITLE: "Shall there be a reduction to the (description of
+18 tax) by (the percentage by which the tax is reduced in the first full fiscal
+19 year that the measure reduces revenue) thereby reducing state revenue,
+20 which will reduce funding for state expenditures that include but are not
+21 limited to (the three largest areas of program expenditure) by an estimated
+22 (projected dollar figure of revenue reduction to the state in the first full
+23 fiscal year that the measure reduces revenue) in tax revenue...?". If the
+24 ballot measure specifies the public services or programs that are to be
+25 reduced by the tax change, those public services or programs must be
+26 stated in the ballot title. If the public services or programs identified in
+27 the measure are insufficient to account for the full dollar value of the tax
+-3- HB26-1320
+
+1 change in the first full fiscal year that the measure reduces revenue, then
+2 the three largest areas of program expenditure must be stated in the bill
+3 title along with the public services or programs identified in the measure.
+4 The estimates reflected in the ballot title shall not be interpreted as
+5 restrictions of the state's budgeting process.
+6 (f) For measures that reduce local district property tax revenue
+7 through a tax change, the ballot title must begin INCLUDE LANGUAGE
+8 SUBSTANTIALLY SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY
+9 APPEAR ANYWHERE IN THE BALLOT TITLE: "Shall funding available for
+10 counties, school districts, water districts, fire districts, and other districts
+11 funded, at least in part, by property taxes be impacted by a reduction of
+12 (projected dollar figure of property tax revenue reduction to all districts
+13 in the first full fiscal year that the measure reduces revenue) in property
+14 tax revenue...?". The title board shall exclude any districts whose property
+15 tax revenue would not be reduced by the measure from the measure's
+16 ballot title. The estimates reflected in the ballot title shall not be
+17 interpreted as restrictions of a local district's budgeting process.
+18 (g) (I) For measures that increase tax revenue for any district
+19 through a tax change and specify the public services to be funded by the
+20 increased revenue, THE BALLOT TITLE MUST INCLUDE LANGUAGE
+21 SUBSTANTIALLY SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY BE
+22 PLACED ANYWHERE after the language required by section 20 (3)(c) of
+23 article X of the state constitution: the ballot title shall state "in order to
+24 increase or improve levels of public services, including (the public
+25 service specified in the measure)...". For measures that increase tax
+26 revenue for any district through a tax change and do not specify the public
+27 services to be funded by the increased revenue, THE BALLOT TITLE MUST
+-4- HB26-1320
+
+1 INCLUDE LANGUAGE SUBSTANTIALLY SIMILAR TO THE FOLLOWING
+2 LANGUAGE, WHICH MAY APPEAR ANYWHERE after the language required
+3 by section 20 (3)(c) of article X of the state constitution: the ballot title
+4 shall state "in order to increase or improve levels of public services...".
+5 (h) In determining whether a ballot title qualifies as brief for
+6 purposes of section 1-40-102 (10) and subsection (3)(b) SUBSECTION
+7 (3)(b)(II)(A) of this section AND WHETHER A BALLOT TITLE USES
+8 ACCESSIBLE LANGUAGE FOR PURPOSES OF SUBSECTION (3)(b)(II)(B) OF
+9 THIS SECTION, the language required by subsection (3)(e), (3)(f), (3)(g),
+10 or (3)(j) of this section may not be considered.
+11 SECTION 2. In Colorado Revised Statutes, 1-40-106, amend
+12 (3)(b), (3)(e), (3)(f), (3)(g)(I), and (3)(h) as follows:
+13 1-40-106. Title board - meetings - ballot title - initiative and
+14 referendum - definitions - rules.
+15 (3) (b) (I) In setting a title, the title board shall consider the public
+16 confusion that might be caused by misleading titles and shall, whenever
+17 practicable, avoid titles for which the general understanding of the effect
+18 of a "yes/for" or "no/against" vote will be unclear. The title for the
+19 proposed law or constitutional amendment, which shall MUST correctly
+20 and fairly express the true intent and meaning thereof, together with the
+21 ballot title and submission clause, shall MUST be completed, except as
+22 otherwise required by section 1-40-107, within two weeks after the first
+23 meeting of the title board. Immediately upon completion, the secretary of
+24 state shall deliver the same with the original to the designated
+25 representatives of the proponents, keeping the copy with a record of the
+26 action taken thereon.
+27 (II) THE TITLE BOARD SHALL SET ballot titles shall THAT:
+-5- HB26-1320
+
+1 (A) be ARE brief; shall
+2 (B) ARE WRITTEN USING ACCESSIBLE LANGUAGE, WHICH IS PLAIN
+3 LANGUAGE THAT IS UNDERSTOOD BY THE WIDEST POSSIBLE AUDIENCE;
+4 (C) DO not conflict with those BALLOT TITLES selected for any
+5 petition previously filed for the same election; and shall
+6 (D) be ARE in the form of a question which THAT may be
+7 answered "yes/for" (to vote in favor of the proposed law or constitutional
+8 amendment) or "no/against" (to vote against the proposed law or
+9 constitutional amendment) and which shall THAT unambiguously state
+10 STATES the principle of the provision sought to be added, amended, or
+11 repealed.
+12 (e) For measures that reduce state tax revenue through a tax
+13 change, the ballot title must begin INCLUDE LANGUAGE SUBSTANTIALLY
+14 SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY APPEAR ANYWHERE
+15 IN THE BALLOT TITLE: "Shall there be a reduction to the (description of
+16 tax) by (the percentage by which the tax is reduced in the first full fiscal
+17 year that the measure reduces revenue) thereby reducing state revenue,
+18 which will reduce funding for state expenditures that include but are not
+19 limited to (the three largest areas of program expenditure) by an estimated
+20 (projected dollar figure of revenue reduction to the state in the first full
+21 fiscal year that the measure reduces revenue) in tax revenue...?". If the
+22 ballot measure specifies the public services or programs that are to be
+23 reduced by the tax change, those public services or programs must be
+24 stated in the ballot title. If the public services or programs identified in
+25 the measure are insufficient to account for the full dollar value of the tax
+26 change in the first full fiscal year that the measure reduces revenue, then
+27 the three largest areas of program expenditure must be stated in the bill
+-6- HB26-1320
+
+1 title along with the public services or programs identified in the measure.
+2 The estimates reflected in the ballot title shall not be interpreted as
+3 restrictions of the state's budgeting process.
+4 (f) For measures that reduce local district property tax revenue
+5 through a tax change, the ballot title must begin INCLUDE LANGUAGE
+6 SUBSTANTIALLY SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY
+7 APPEAR ANYWHERE IN THE BALLOT TITLE: "Shall funding available for
+8 counties, school districts, water districts, fire districts, and other districts
+9 funded, at least in part, by property taxes be impacted by a reduction of
+10 (projected dollar figure of property tax revenue reduction to all districts
+11 in the first full fiscal year that the measure reduces revenue) in property
+12 tax revenue...?". The title board shall exclude any districts whose property
+13 tax revenue would not be reduced by the measure from the measure's
+14 ballot title. The estimates reflected in the ballot title shall not be
+15 interpreted as restrictions of a local district's budgeting process.
+16 (g) (I) For measures that increase tax revenue for any district
+17 through a tax change and specify the public services to be funded by the
+18 increased revenue, THE BALLOT TITLE MUST INCLUDE LANGUAGE
+19 SUBSTANTIALLY SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY
+20 APPEAR ANYWHERE after the language required by section 20 (3)(c) of
+21 article X of the state constitution: the ballot title shall state "in order to
+22 increase or improve levels of public services, including (the public
+23 service specified in the measure)...". For measures that increase tax
+24 revenue for any district through a tax change and do not specify the public
+25 services to be funded by the increased revenue, THE BALLOT TITLE MUST
+26 INCLUDE LANGUAGE SIMILAR TO THE FOLLOWING LANGUAGE, WHICH MAY
+27 APPEAR ANYWHERE after the language required by section 20 (3)(c) of
+-7- HB26-1320
+
+1 article X of the state constitution: the ballot title shall state "in order to
+2 increase or improve levels of public services...".
+3 (h) In determining whether a ballot title qualifies as brief for
+4 purposes of section 1-40-102 (10) and subsection (3)(b) SUBSECTION
+5 (3)(b)(II)(A) of this section AND WHETHER A BALLOT TITLE USES
+6 ACCESSIBLE LANGUAGE FOR PURPOSES OF SUBSECTION (3)(b)(II)(B) OF
+7 THIS SECTION, the language required by subsection (3)(e), (3)(e.5), (3)(f),
+8 (3)(g), or (3)(j) of this section may not be considered.
+9 SECTION 3. Act subject to petition - effective date -
+10 applicability. (1) (a) Except as otherwise provided in this section, this
+11 act takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+20 (b) Section 1 of this act takes effect only if House Bill 26-1084
+21 does not become law, in which case section 1 takes effect on the
+22 applicable effective date of this act.
+23 (c) Section 2 of this act takes effect only if House Bill 26-1084
+24 becomes law, in which case section 2 takes effect on the applicable
+25 effective date of this act or on the effective date of House Bill 26-1084,
+26 whichever is later.
+27 (2) This act applies to initiative petition drafts submitted to the
+-8- HB26-1320
+
+1 secretary of state for title setting on or after the applicable effective date
+2 of this act.
+-9- HB26-1320

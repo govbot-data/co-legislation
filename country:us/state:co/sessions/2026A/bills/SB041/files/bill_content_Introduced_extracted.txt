@@ -1,0 +1,1289 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0015.01 Josh Schultz x5486 SENATE BILL 26-041
+SENATE SPONSORSHIP
+Kipp and Weissman,
+HOUSE SPONSORSHIP
+Brown and McCormick,
+Senate Committees House Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING CONSUMER PROTECTIONS IN TRANSACTIONS INVOLVING
+102 MEDICAL CARE ENTITIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 1 of the bill amends and relocates the current requirements
+for notification to the attorney general regarding certain mergers,
+acquisitions, or transfers of securities or assets. Current law prohibits the
+attorney general from charging a party to a merger a fee connected with
+filing of the merger or a fee for providing additional information
+regarding the merger. The bill allows the attorney general to charge each
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+filing party a reasonable fee, not to exceed $5,000.
+Section 1 also requires that the parties to a merger, acquisition, or
+contracting affiliation of one or more health-care entities (material change
+transaction) comply with specified notice requirements at least 60 days
+before the closing of the material change transaction. If the material
+change transaction requires the filing of a premerger notification with the
+federal trade commission or the United States department of justice
+pursuant to the federal "Hart-Scott-Rodino Antitrust Improvements Act
+of 1976", the parties shall also submit notice to the attorney general. If the
+terms of the material change transaction are altered following the
+submission of the written notice to the attorney general, the parties must
+provide notice to the attorney general of the alteration.
+The attorney general may deem information and materials
+provided in compliance with the notice requirements as public records
+subject to disclosure under the "Colorado Open Records Act".
+Section 1 also prohibits a material change transaction if the
+material change transaction may substantially lessen competition or tend
+to create a monopoly or may harm consumer welfare. A party to a
+material change transaction shall not close the material change transaction
+until specified conditions are met.
+Sections 3 through 9 amend the current requirements for
+transactions that involve licensed hospitals and are subject to notice
+requirements to the attorney general (covered transactions) by:
+! Including in the definition of a "covered transaction" a
+transaction that would result in the sale, transfer, lease,
+exchange, or other disposition of the management, control,
+or operations of a hospital;
+! Requiring parties to a covered transaction to include, in the
+notice to the attorney general of the transaction, a statement
+describing the charitable missions of each nonprofit entity
+entering into the covered transaction and the services
+provided by each nonprofit entity in furtherance of the
+nonprofit entity's charitable purposes and charitable
+missions;
+! Specifying that if a covered transaction will not result in a
+material change in the charitable purposes, charitable
+missions, or services provided in furtherance of the
+charitable purposes or missions of a nonprofit entity
+entering into the covered transaction, and will not result in
+a termination of the attorney general's jurisdiction over the
+charitable assets due to a transfer of a material amount of
+those assets outside of the state of Colorado, the parties
+may proceed with the covered transaction without
+additional review by the attorney general. The attorney
+general may perform specified actions to review, and use
+-2- SB26-041
+
+specified criteria to determine, whether the covered
+transaction will result in a material change.
+! Authorizing the attorney general to exercise their common
+law authority to assess and review or challenge a covered
+transaction that will result in a material change in the
+charitable purposes, charitable missions, or services
+provided in furtherance of the charitable purposes or
+missions of a nonprofit entity entering into the covered
+transaction or will result in a termination of the attorney
+general's jurisdiction over the charitable assets due to a
+transfer of a material amount of those assets outside of the
+state of Colorado;
+! Adding specified information to the notice requirements for
+covered transactions in which the parties involved in the
+transaction are all for-profit entities; and
+! Creating notice requirements for and attorney general
+review of covered transactions involving a for-profit
+hospital and a nonprofit entity.
+Section 10 requires that, if certain health-care providers refer a
+patient to an entity for health-care services and the provider, or an
+immediate family member of the provider, has a financial relationship
+with the entity, the provider shall disclose the nature of the financial
+relationship to the patient at the time of the referral. The attorney general
+is required to study the effect of these provisions and the impact the
+provisions have on consumer knowledge and costs and submit a report on
+the findings of the study.
+Sections 11 through 30 make conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add part 3 to article
+3 4 of title 6; and add with amended and relocated provisions part 2 to
+4 article 4 of title 6 as follows:
+5 PART 2
+6 UNIFORM ANTITRUST PRE-MERGER
+7 NOTIFICATION ACT
+8 6-4-201. [Formerly 6-4.5-101] Short title.
+9 This article 4.5 PART 2 may be cited as the "Uniform Antitrust
+10 Pre-Merger Notification Act".
+-3- SB26-041
+
+1 6-4-202. [Formerly 6-4.5-102] Definitions.
+2 In this article 4.5 AS USED IN THIS PART 2:
+3 (1) "Additional documentary material" means the additional
+4 documentary material filed with a Hart-Scott-Rodino form.
+5 (2) "Electronic" means relating to technology having electrical,
+6 digital, magnetic, wireless, optical, electromagnetic, or similar
+7 capabilities.
+8 (3) "Filing threshold" means the minimum size of a transaction
+9 that requires the transaction to be reported under the Hart-Scott-Rodino
+10 Act in effect when a person files a pre-merger notification.
+11 (4) "Hart-Scott-Rodino Act" means section 201 of the FEDERAL
+12 "Hart-Scott-Rodino Antitrust Improvements Act of 1976", 15 U.S.C. sec.
+13 18 (a) 18a.
+14 (5) "Hart-Scott-Rodino form" means the form filed with a
+15 pre-merger notification, excluding additional documentary material.
+16 (6) "Person" means an individual; estate; business or nonprofit
+17 entity; government or governmental subdivision, agency, or
+18 instrumentality; or other legal entity.
+19 (7) "Pre-merger notification" means a notification filed under the
+20 Hart-Scott-Rodino Act with the federal trade commission or the United
+21 States department of justice antitrust division, or a successor agency.
+22 (8) "State" means a state of the United States, the District of
+23 Columbia, Puerto Rico, the United States Virgin Islands, or any other
+24 territory or possession subject to the jurisdiction of the United States.
+25 6-4-203. [Formerly 6-4.5-103] Filing requirement - rules.
+26 (a) A person filing a pre-merger notification shall file
+27 contemporaneously a complete electronic copy of the Hart-Scott-Rodino
+-4- SB26-041
+
+1 form with the attorney general if EITHER PARTY TO THE MERGER:
+2 (1) The person Has its principal place of business in this state; or
+3 (2) The person or a person it controls Directly or indirectly had
+4 annual net sales in this state of the goods or services involved in the
+5 transaction of at least twenty percent of the filing threshold.
+6 (b) A person that files a form under subsection (2)(a) (a) of this
+7 section shall include with the filing a complete electronic copy of the
+8 additional documentary material.
+9 (c) On request of the attorney general, a person that filed a form
+10 under subsection (2)(a) of this section shall provide a complete electronic
+11 copy of the additional documentary material to the attorney general not
+12 later than seven days after receipt of the request.
+13 (d) (1) The attorney general may not charge a REASONABLE fee
+14 connected with filing or providing the form or additional documentary
+15 material under this section.
+16 (2) THE ATTORNEY GENERAL SHALL ADOPT RULES GOVERNING THE
+17 FEE DESCRIBED IN SUBSECTION (d)(1) OF THIS SECTION. THE FEE MUST NOT
+18 EXCEED FIVE THOUSAND DOLLARS FOR EACH FILING PARTY.
+19 6-4-204. [Formerly 6-4.5-104] Confidentiality.
+20 (a) Except as provided in subsection (c) of this section or section
+21 6-4.5-105 6-4-205, the attorney general may not make public or disclose:
+22 (1) A Hart-Scott-Rodino form filed under section 6-4.5-103
+23 6-4-203;
+24 (2) The additional documentary material filed or provided under
+25 section 6-4.5-103 6-4-203;
+26 (3) A Hart-Scott-Rodino form or additional documentary material
+27 provided by the attorney general of another state;
+-5- SB26-041
+
+1 (4) That the form or the additional documentary material were
+2 WAS filed or provided under section 6-4.5-103 6-4-203 or provided by the
+3 attorney general of another state; or
+4 (5) The merger proposed in the form.
+5 (b) A form, additional documentary material, and other
+6 information listed in subsection (a) of this section are exempt from
+7 disclosure under the "Colorado Open Records Act", part 2 of article 72
+8 of title 24.
+9 (c) Subject to a protective order entered by an agency, court, or
+10 judicial officer, the attorney general may disclose a form, additional
+11 documentary material, or other information listed in subsection (a) of this
+12 section in an administrative proceeding or judicial action if the proposed
+13 merger is relevant to the proceeding or action.
+14 (d) This article 4.5 PART 2 does not:
+15 (1) Limit any other confidentiality or information-security
+16 obligation of the attorney general;
+17 (2) Preclude the attorney general from sharing information with
+18 the federal trade commission or the United States department of justice
+19 antitrust division, or a successor agency; or
+20 (3) Preclude the attorney general from sharing information with
+21 the attorney general of another state that has enacted the "Uniform
+22 Antitrust Pre-Merger Notification Act" or a substantively equivalent act.
+23 The other state's act must include confidentiality provisions at least as
+24 protective as the confidentiality provisions of the "Uniform Antitrust
+25 Pre-Merger Notification Act".
+26 6-4-205. [Formerly 6-4.5-105] Reciprocity.
+27 (a) The attorney general may disclose a Hart-Scott-Rodino form
+-6- SB26-041
+
+1 and additional documentary material filed or provided under section
+2 6-4.5-103 6-4-203 to the attorney general of another state that enacts the
+3 "Uniform Antitrust Pre-Merger Notification Act" or a substantively
+4 equivalent act. The other state's act must include confidentiality
+5 provisions at least as protective as the confidentiality provisions of the
+6 "Uniform Antitrust Pre-Merger Notification Act".
+7 (b) At least two business days before making a disclosure under
+8 subsection (a) of this section, the attorney general shall give notice of the
+9 disclosure to the person filing or providing the form or additional
+10 documentary material under section 6-4.5-103 6-4-203.
+11 6-4-206. [Formerly 6-4.5-106] Civil penalty.
+12 The attorney general may seek imposition of a civil penalty of not
+13 more than ten thousand dollars per day of noncompliance on a person that
+14 fails to comply with section 6-4.5-103 (a), (b), or (c) 6-4-203 (a) OR (b).
+15 A civil penalty imposed under this section is subject to procedural
+16 requirements applicable to the attorney general, including the
+17 requirements of due process.
+18 6-4-207. [Formerly 6-4.5-107] Uniformity of application and
+19 construction.
+20 In applying and construing this uniform act, a court shall consider
+21 the promotion of uniformity of the law among jurisdictions that enact it.
+22 6-4-208. [Formerly 6-4.5-108] Transitional provision.
+23 This article 4.5 PART 2 applies only to a pre-merger notification
+24 filed on or after August 6, 2025.
+25 PART 3
+26 TRANSACTIONS AFFECTING HEALTH-CARE ENTITIES
+27 6-4-301. Definitions.
+-7- SB26-041
+
+1 AS USED IN THIS PART 3, UNLESS THE CONTEXT OTHERWISE
+2 REQUIRES:
+3 (1) (a) "CLINICALLY INTEGRATED NETWORK" MEANS A NETWORK
+4 IMPLEMENTING AN ACTIVE, ONGOING, AND WRITTEN PROGRAM TO
+5 EVALUATE AND MODIFY PRACTICE PATTERNS OF THE NETWORK'S
+6 PHYSICIAN PARTICIPANTS AND TO CREATE A HIGH DEGREE OF
+7 INTERDEPENDENCE AND COOPERATION AMONG THE PHYSICIANS, WHICH
+8 NETWORK IS REASONABLY DESIGNED TO CONTROL COSTS AND IMPROVE
+9 PATIENT OUTCOMES.
+10 (b) "CLINICALLY INTEGRATED NETWORK" INCLUDES AN
+11 ACCOUNTABLE CARE ORGANIZATION, AS DESCRIBED IN 42 U.S.C. SEC.
+12 1395jjj.
+13 (2) (a) "HEALTH-CARE ENTITY" MEANS:
+14 (I) ANY OF THE FOLLOWING FACILITIES REQUIRED TO BE
+15 CURRENTLY OR PREVIOUSLY LICENSED OR CERTIFIED IN THE STATE:
+16 (A) A HEALTH FACILITY DESCRIBED IN SECTION 25-1.5-103 (1)(a);
+17 OR
+18 (B) A HOSPITAL AUTHORITY ESTABLISHED PURSUANT TO PART 5 OF
+19 ARTICLE 21 OF TITLE 23 OR ARTICLE 29 OF TITLE 25;
+20 (II) A FACILITY PROVIDING URGENT CARE;
+21 (III) ANY OF THE FOLLOWING EMERGENCY MEDICAL AND TRAUMA
+22 SERVICES AND ENTITIES:
+23 (A) AN AMBULANCE SERVICE LICENSED PURSUANT TO SECTION
+24 25-3.5-314, EXCEPT THOSE WHOLLY OWNED AND OPERATED BY A
+25 POLITICAL SUBDIVISION OR A GOVERNMENTAL UNIT OR AGENCY;
+26 (B) A HEALTH FACILITY THAT EMPLOYS OR CONTRACTS FOR
+27 EMERGENCY MEDICAL SERVICE PROVIDERS PURSUANT TO ARTICLE 3.5 OF
+-8- SB26-041
+
+1 TITLE 25 TO RENDER MEDICAL CARE TO PATIENTS, EXCEPT THOSE HEALTH
+2 FACILITIES WHOLLY OWNED AND OPERATED BY A POLITICAL SUBDIVISION
+3 OR A GOVERNMENTAL UNIT OR AGENCY;
+4 (C) IMAGING, RADIOLOGY, AND DIAGNOSTIC SERVICES
+5 ESTABLISHED PURSUANT TO SECTION 25-1-108;
+6 (D) A CLINICAL LABORATORY REQUIRED TO BE CERTIFIED
+7 PURSUANT TO 42 U.S.C. SEC. 263a;
+8 (E) A MAMMOGRAPHY FACILITY REQUIRED TO BE CERTIFIED
+9 PURSUANT TO 42 U.S.C. SEC. 263b;
+10 (F) A BEHAVIORAL HEALTH ENTITY, AS DEFINED IN SECTION
+11 27-50-101;
+12 (G) A PHARMACY BENEFIT MANAGER PROVIDING SERVICES FOR
+13 HEALTH PLANS IN COLORADO; AND
+14 (H) A CORPORATION, PROFESSIONAL SERVICE CORPORATION,
+15 PARTNERSHIP, GROUP PRACTICE, PROVIDER NETWORK, BUSINESS TRUST,
+16 ASSOCIATION, ORGANIZATION, FACILITY, OR OTHER ENTITY THAT
+17 PROVIDES PROFESSIONAL SERVICES REQUIRED TO BE LICENSED OR
+18 CERTIFIED PURSUANT TO ARTICLE 200, 210, 215, 220, 230, 240, 245, 255,
+19 270, 275, 280, 285, 290, 310, OR 315 OF TITLE 12; OR
+20 (IV) AN ENTITY THAT MEETS THE DEFINITION OF A CARRIER, AS
+21 DEFINED IN SECTION 10-16-102 (8) OR 24-50-603 (2).
+22 (b) "HEALTH-CARE ENTITY" DOES NOT INCLUDE:
+23 (I) A HEALTH FACILITY REQUIRED TO BE LICENSED OR CERTIFIED
+24 PURSUANT TO ARTICLE 27 OR 27.5 OF TITLE 25, ARTICLE 6 OF TITLE 25.5,
+25 OR SECTION 25.5-10-214 OR OTHER NURSING, LONG-TERM, HOME, OR
+26 HOSPICE CARE FACILITIES DESCRIBED IN SECTION 25-1.5-103; OR
+27 (II) A HEALTH-CARE ENTITY DESCRIBED IN SUBSECTION
+-9- SB26-041
+
+1 (2)(a)(III)(H) OF THIS SECTION REPRESENTING FEWER THAN SEVEN
+2 HEALTH-CARE PROVIDERS LICENSED OR CERTIFIED IN COLORADO.
+3 (3) "HEALTH-CARE PROVIDER" MEANS A PHYSICIAN OR PHYSICIAN
+4 ASSISTANT LICENSED UNDER ARTICLE 240 OF TITLE 12, OR AN ADVANCED
+5 PRACTICE REGISTERED NURSE LICENSED UNDER ARTICLE 255 OF TITLE 12,
+6 WHO PROVIDES HEALTH-CARE SERVICES, INCLUDING MEDICAL CARE,
+7 CONSULTATION, DIAGNOSIS, OR TREATMENT.
+8 (4) (a) "MATERIAL CHANGE TRANSACTION" OR "TRANSACTION"
+9 MEANS AN AGREEMENT, ARRANGEMENT, OR ACTIVITY THAT RESULTS IN:
+10 (I) A PERSON ACQUIRING, DIRECTLY OR INDIRECTLY, INCLUDING
+11 THROUGH THE ACQUISITION OF AN ULTIMATE PARENT COMPANY, THE
+12 OWNERSHIP, MANAGEMENT, OPERATIONS, OR CONTROL OF A HEALTH-CARE
+13 ENTITY;
+14 (II) THE CONSOLIDATION OF TWO OR MORE ENTITIES, INCLUDING
+15 CONSOLIDATING THROUGH A COMMON PARENT ORGANIZATION OR
+16 FORMING A NEW ORGANIZATION, WHERE THE ACQUIRED ENTITY IS A
+17 HEALTH-CARE ENTITY OR WHERE TWO OR MORE HEALTH-CARE ENTITIES
+18 ARE UNDER COMMON OWNERSHIP, MANAGEMENT, OR CONTROL AS A
+19 RESULT OF THE CONSOLIDATION; OR
+20 (III) ANY RELATIONSHIP BETWEEN TWO OR MORE ENTITIES THAT
+21 PERMITS THE ENTITIES TO NEGOTIATE JOINTLY WITH INSURERS OR
+22 THIRD-PARTY ADMINISTRATORS REGARDING RATES PROVIDED BY A
+23 HEALTH-CARE ENTITY OR THAT PERMITS ONE HEALTH-CARE ENTITY TO
+24 NEGOTIATE ON BEHALF OF THE OTHER HEALTH-CARE ENTITY WITH
+25 INSURERS OR THIRD-PARTY ADMINISTRATORS REGARDING RATES FOR
+26 SERVICES PROVIDED BY A HEALTH-CARE ENTITY.
+27 (b) "MATERIAL CHANGE TRANSACTION" OR "TRANSACTION"
+-10- SB26-041
+
+1 INCLUDES:
+2 (I) A SERIES OF TRANSACTIONS TAKING PLACE IN ANY FIVE-YEAR
+3 PERIOD WHERE AN ENTITY THAT HAS PREVIOUSLY ENGAGED IN A
+4 MATERIAL CHANGE TRANSACTION ACQUIRES ONE OR MORE ADDITIONAL
+5 HEALTH-CARE ENTITIES ENGAGED IN THE SAME OR SUBSTANTIALLY
+6 SIMILAR PROFESSIONAL SERVICES AS THAT ENTITY'S PREVIOUS MATERIAL
+7 CHANGE TRANSACTION;
+8 (II) AN ACQUISITION OF FORTY PERCENT OR MORE OF VOTING
+9 SECURITIES OR NONCORPORATE INTERESTS, INCLUDING ASSETS, CAPITAL,
+10 STOCK, MEMBERSHIP INTERESTS, OR EQUITY INTERESTS, OF A
+11 HEALTH-CARE ENTITY OR AN ULTIMATE PARENT COMPANY OF A
+12 HEALTH-CARE ENTITY;
+13 (III) AN ARRANGEMENT THAT INCLUDES THE SALE OF VOTING
+14 SECURITIES OR NONCORPORATE INTERESTS IN ANY AMOUNT THAT ALTERS
+15 VOTING CONTROL OF, OR RESPONSIBILITY FOR, THE GOVERNING BODY OF
+16 A HEALTH-CARE ENTITY OR AN ULTIMATE PARENT COMPANY OF A
+17 HEALTH-CARE ENTITY;
+18 (IV) AN ARRANGEMENT THAT ALLOWS AN ENTITY TO EXERCISE
+19 DECISION-MAKING AUTHORITY, DIRECTLY OR INDIRECTLY, OVER A
+20 HEALTH-CARE ENTITY'S ASSETS, LIABILITIES, CONTRACTS, OPERATIONS, OR
+21 ADMINISTRATION; AND
+22 (V) AN EXCLUSIVE EMPLOYMENT CONTRACT INVOLVING THE
+23 ACQUISITION OF FIVE OR MORE HEALTH-CARE PROVIDERS THAT PRACTICE
+24 AS PART OF THE SAME HEALTH-CARE ENTITY.
+25 (c) "MATERIAL CHANGE TRANSACTION" OR "TRANSACTION" DOES
+26 NOT INCLUDE:
+27 (I) A CORPORATE REORGANIZATION;
+-11- SB26-041
+
+1 (II) RELATIONSHIPS BETWEEN ENTITIES UNDER COMMON
+2 OWNERSHIP;
+3 (III) A TRANSACTION IDENTIFIED IN SUBSECTION (4)(a) OR (4)(b)
+4 OF THIS SECTION:
+5 (A) THAT HAS A PURCHASE PRICE, CAPITAL COMMITMENT, OR
+6 EQUIVALENT CONSIDERATION OF LESS THAN TEN MILLION DOLLARS; OR
+7 (B) WHERE ANY HEALTH-CARE FACILITY THAT IS A PARTY TO THE
+8 TRANSACTION HAS AN ANNUAL NET PATIENT SERVICE REVENUE OF NO
+9 MORE THAN FIVE MILLION DOLLARS;
+10 (IV) A SERVICE OR MANAGEMENT CONTRACT TO PROVIDE
+11 ADMINISTRATIVE SERVICES TO A HEALTH-CARE ENTITY IF THE CONTRACT
+12 DOES NOT ALLOW FOR THE SERVICE OR MANAGEMENT PROVIDER TO
+13 EXERCISE DIRECT OR INDIRECT OPERATIONAL CONTROL OF THE
+14 HEALTH-CARE ENTITY, INCLUDING DECISIONS RELATED TO SERVICES
+15 OFFERED AND PRICES;
+16 (V) THE FORMATION OF CLINICALLY INTEGRATED NETWORKS;
+17 (VI) CLINICAL AFFILIATIONS SOLELY FOR COLLABORATING ON
+18 CLINICAL TRIALS AND PROVIDING GRADUATE MEDICAL EDUCATION; OR
+19 (VII) NONEXCLUSIVE CONTRACTS BETWEEN A HEALTH-CARE
+20 ENTITY AND A HEALTH-CARE PROVIDER PRIMARILY FOR CLINICAL
+21 SERVICES.
+22 (5) "THIRD-PARTY ADMINISTRATOR" MEANS AN ENTITY THAT
+23 ADMINISTERS PAYMENTS FOR HEALTH-CARE SERVICES ON BEHALF OF A
+24 CLIENT IN EXCHANGE FOR AN ADMINISTRATIVE FEE.
+25 (6) "ULTIMATE PARENT COMPANY" MEANS AN ENTITY THAT IS NOT
+26 CONTROLLED BY ANOTHER ENTITY.
+27 6-4-302. Notice of material change transaction - form of notice
+-12- SB26-041
+
+1 - notice after modification of terms.
+2 (1) NO LATER THAN SIXTY DAYS BEFORE THE CLOSING OF A
+3 MATERIAL CHANGE TRANSACTION, THE PARTIES TO THE MATERIAL CHANGE
+4 TRANSACTION SHALL SUBMIT WRITTEN NOTICE TO THE ATTORNEY
+5 GENERAL OF THE MATERIAL CHANGE TRANSACTION IF:
+6 (a) FOR MATERIAL CHANGE TRANSACTIONS INVOLVING PARTIES
+7 DESCRIBED IN SECTION 6-4-301 (3):
+8 (I) ONE OR MORE PARTIES TO THE TRANSACTION, OR AN ULTIMATE
+9 PARENT COMPANY TO A PARTY TO THE TRANSACTION, HAVE AN AVERAGE
+10 ANNUAL GROSS REVENUE OF AT LEAST FIVE MILLION DOLLARS;
+11 (II) THE TRANSACTION WILL RESULT IN AN ENTITY HAVING A
+12 PROJECTED AVERAGE ANNUAL GROSS REVENUE OF AT LEAST FIVE MILLION
+13 DOLLARS; OR
+14 (III) THE TOTAL CONSIDERATION OFFERED IN THE TRANSACTION
+15 IS AT LEAST FIVE MILLION DOLLARS; OR
+16 (b) FOR MATERIAL CHANGE TRANSACTIONS INVOLVING PARTIES
+17 DESCRIBED IN SECTION 6-4-301 (2):
+18 (I) ONE OR MORE PARTIES TO THE TRANSACTION, OR AN ULTIMATE
+19 PARENT COMPANY TO A PARTY TO THE TRANSACTION, HAVE AN AVERAGE
+20 ANNUAL GROSS REVENUE OF AT LEAST FIFTEEN MILLION DOLLARS;
+21 (II) THE TRANSACTION WILL RESULT IN AN ENTITY HAVING A
+22 PROJECTED AVERAGE ANNUAL GROSS REVENUE OF AT LEAST FIFTEEN
+23 MILLION DOLLARS; OR
+24 (III) THE TOTAL CONSIDERATION OFFERED IN THE TRANSACTION
+25 IS AT LEAST FIFTEEN MILLION DOLLARS.
+26 (2) FOR A MATERIAL CHANGE TRANSACTION THAT IS SUBJECT TO
+27 THE NOTICE REQUIREMENTS OF SUBSECTION (1) OF THIS SECTION, WRITTEN
+-13- SB26-041
+
+1 NOTICE PROVIDED BY THE PARTIES MUST INCLUDE:
+2 (a) THE NAMES AND HEADQUARTERS BUSINESS ADDRESSES OF ALL
+3 PARTIES TO THE MATERIAL CHANGE TRANSACTION;
+4 (b) IDENTIFICATION OF EACH LOCATION WHERE HEALTH-CARE
+5 SERVICES ARE CURRENTLY PROVIDED BY EACH PARTY TO THE MATERIAL
+6 CHANGE TRANSACTION;
+7 (c) THE ANTICIPATED EFFECTIVE DATE OF THE PROPOSED
+8 MATERIAL CHANGE TRANSACTION; AND
+9 (d) A BRIEF DESCRIPTION OF THE NATURE AND PURPOSE OF THE
+10 PROPOSED MATERIAL CHANGE TRANSACTION AND ANY MATERIAL CHANGE
+11 TRANSACTIONS COMPLETED BY ONE OR MORE OF THE PARTIES IN THE FIVE
+12 FISCAL YEARS PRECEDING THE NOTICE. IN LIEU OF PROVIDING A
+13 DESCRIPTION OF A MATERIAL CHANGE TRANSACTION COMPLETED IN THE
+14 FIVE FISCAL YEARS PRECEDING THE NOTICE, A PARTY MAY PROVIDE A COPY
+15 OF THE NOTICE FILED WITH THE ATTORNEY GENERAL IN CONNECTION WITH
+16 THAT MATERIAL CHANGE TRANSACTION PURSUANT TO SUBSECTION (1) OF
+17 THIS SECTION.
+18 (3) NO LATER THAN SIXTY DAYS BEFORE THE EFFECTIVE DATE OF
+19 A MATERIAL CHANGE TRANSACTION, THE PARTIES TO A MATERIAL CHANGE
+20 TRANSACTION THAT REQUIRES THE FILING OF A PREMERGER NOTIFICATION
+21 WITH THE FEDERAL TRADE COMMISSION OR THE UNITED STATES
+22 DEPARTMENT OF JUSTICE PURSUANT TO THE FEDERAL
+23 "HART-SCOTT-RODINO ANTITRUST IMPROVEMENTS ACT OF 1976", 15
+24 U.S.C. SEC. 18a ET SEQ., SHALL PROVIDE WRITTEN NOTICE TO THE
+25 ATTORNEY GENERAL, INCLUDING:
+26 (a) INFORMATION SUFFICIENT TO COMPLY WITH THE PREMERGER
+27 NOTIFICATION REQUIREMENTS OF THE FEDERAL "HART-SCOTT-RODINO
+-14- SB26-041
+
+1 ANTITRUST IMPROVEMENTS ACT OF 1976", 15 U.S.C. SEC. 18a ET SEQ.;
+2 (b) ANY PREVIOUS NOTICES FILED PURSUANT TO SUBSECTION (3)(a)
+3 OF THIS SECTION OR A BRIEF DESCRIPTION OF THE NATURE AND PURPOSE
+4 OF EACH MATERIAL CHANGE TRANSACTION INVOLVING ONE OR MORE OF
+5 THE PARTIES THAT OCCURRED IN THE FIVE FISCAL YEARS PRECEDING THE
+6 NOTICE; AND
+7 (c) A CERTIFICATION THAT THE PARTIES WILL MAKE A DESCRIPTION
+8 OF THE MATERIAL CHANGE TRANSACTION AVAILABLE ON A PUBLIC
+9 WEBSITE WITHIN SEVEN DAYS AFTER THE MATERIAL CHANGE
+10 TRANSACTION HAS BEEN CONSUMMATED, OR AS SOON THEREAFTER AS
+11 PERMITTED BY STATE AND FEDERAL LAW.
+12 (4) FOR A MATERIAL CHANGE TRANSACTION THAT IS NOT COVERED
+13 BY SUBSECTION (1), (2), OR (3) OF THIS SECTION, IF ONE OR MORE PARTIES,
+14 OR AN ULTIMATE PARENT COMPANY TO A PARTY, HAVE AN AVERAGE
+15 ANNUAL GROSS REVENUE OF AT LEAST THIRTY MILLION DOLLARS; IF THE
+16 MATERIAL CHANGE TRANSACTION WILL RESULT IN AN ENTITY HAVING A
+17 PROJECTED AVERAGE ANNUAL GROSS REVENUE OF AT LEAST THIRTY
+18 MILLION DOLLARS; OR IF THE TOTAL CONSIDERATION OFFERED IN THE
+19 TRANSACTION IS AT LEAST THIRTY MILLION DOLLARS, THE PARTIES SHALL
+20 PROVIDE WRITTEN NOTICE TO THE ATTORNEY GENERAL NO LATER THAN
+21 SIXTY DAYS BEFORE THE EFFECTIVE DATE OF THE MATERIAL CHANGE
+22 TRANSACTION, INCLUDING:
+23 (a) THE PARTIES INVOLVED IN THE MATERIAL CHANGE
+24 TRANSACTION, INCLUDING THE NAMES, HEADQUARTERS BUSINESS
+25 ADDRESSES, AND WEBSITES OF ALL PARTIES, AND THE NAMES, CURRENT
+26 HEADQUARTERS BUSINESS ADDRESSES, AND WEBSITES OF ANY ULTIMATE
+27 PARENT COMPANIES OF THE PARTIES, AS DESCRIBED IN 16 CFR 801.1;
+-15- SB26-041
+
+1 (b) THE LEADERSHIP OF THE ENTITIES INVOLVED IN THE MATERIAL
+2 CHANGE TRANSACTION, INCLUDING ALL BOARD MEMBERS, MANAGING
+3 PARTNERS, MEMBER MANAGERS, AND OFFICERS;
+4 (c) THE SERVICES IMPACTED BY THE MATERIAL CHANGE
+5 TRANSACTION;
+6 (d) THE CURRENT CONTRACTUAL RELATIONSHIPS BETWEEN THE
+7 ENTITIES AND INSURERS OR THIRD-PARTY ADMINISTRATORS THAT PROVIDE
+8 FOR COVERAGE OF HEALTH-CARE SERVICES AND THE PROPOSED
+9 RELATIONSHIPS BETWEEN THE ENTITIES AND THE AFFECTED INSURERS OR
+10 THIRD-PARTY ADMINISTRATORS;
+11 (e) THE AGREEMENT OR AGREEMENTS THAT GIVE RISE TO THE
+12 MATERIAL CHANGE TRANSACTION AND ANY RELATED MANAGEMENT OR
+13 SERVICES CONTRACTS;
+14 (f) PLANNED AREAS OF EXPANSION, WHETHER IN EXISTING
+15 MARKETS OR NEW MARKETS;
+16 (g) ANY PLANS TO CLOSE FACILITIES, REDUCE WORKFORCES, OR
+17 REDUCE OR ELIMINATE SERVICES;
+18 (h) ANY PREVIOUS NOTICES FILED WITH THE ATTORNEY GENERAL
+19 PURSUANT TO THIS SECTION OR A BRIEF DESCRIPTION OF THE NATURE AND
+20 PURPOSE OF EACH MATERIAL CHANGE TRANSACTION COMPLETED BY ONE
+21 OR MORE OF THE PARTIES IN THE FIVE FISCAL YEARS PRECEDING THE
+22 NOTICE; AND
+23 (i) A CERTIFICATION THAT THE PARTIES WILL MAKE A DESCRIPTION
+24 OF THE MATERIAL CHANGE TRANSACTION AVAILABLE ON A PUBLIC
+25 WEBSITE WITHIN SEVEN DAYS AFTER THE MATERIAL CHANGE
+26 TRANSACTION HAS BEEN CONSUMMATED, OR AS SOON THEREAFTER AS
+27 PERMITTED BY STATE AND FEDERAL LAW.
+-16- SB26-041
+
+1 (5) A NOTICE SUBMITTED PURSUANT TO SUBSECTION (1) OR (2) OF
+2 THIS SECTION IS NOT SUBJECT TO A CHALLENGE BY THE ATTORNEY
+3 GENERAL.
+4 (6) A PARTY TO A MATERIAL CHANGE TRANSACTION MAY SUBMIT
+5 INFORMATION PURSUANT TO THIS SECTION ON BEHALF OF ANOTHER PARTY
+6 TO THE SAME TRANSACTION.
+7 (7) A TRANSACTION OR OTHER DEVICE ENTERED INTO OR
+8 EMPLOYED FOR THE PURPOSE OF AVOIDING THE OBLIGATION TO COMPLY
+9 WITH THIS SECTION IS VOID, AND WHETHER THE PARTIES MUST COMPLY
+10 WITH THE NOTICE REQUIREMENTS OF THIS SECTION IS DETERMINED BY
+11 APPLYING THIS PART 3 AND ANY ASSOCIATED RULES TO THE SUBSTANCE
+12 OF THE MATERIAL CHANGE TRANSACTION.
+13 (8) A PARTY TO A MATERIAL CHANGE TRANSACTION MAY REQUEST
+14 THAT THE ATTORNEY GENERAL SUBJECT THE MATERIAL CHANGE
+15 TRANSACTION TO A DIFFERENT CATEGORY OF NOTICE REQUIREMENT, AS
+16 DESCRIBED IN SUBSECTIONS (1), (2), (3), AND (4) OF THIS SECTION, THAN
+17 THE NOTICE REQUIREMENT THAT APPLIES DUE TO THE AVERAGE ANNUAL
+18 GROSS REVENUE CLASSIFICATION OF THE MATERIAL CHANGE
+19 TRANSACTION. THE ATTORNEY GENERAL MAY GRANT THE PARTY'S
+20 REQUEST, CONSIDERING FACTORS INCLUDING WHETHER THE TRANSACTION
+21 WILL PREVENT THE CLOSURE OF A FACILITY OR PRACTICE IN A RURAL OR
+22 FRONTIER COMMUNITY.
+23 (9) (a) A NOTICE PROVIDED PURSUANT TO THIS SECTION CEASES TO
+24 BE EFFECTIVE IF THE TERMS OF THE MATERIAL CHANGE TRANSACTION ARE
+25 MATERIALLY ALTERED FOLLOWING THE SUBMISSION OF A WRITTEN NOTICE
+26 PURSUANT TO THIS SECTION.
+27 (b) IF THE TERMS OF A MATERIAL CHANGE TRANSACTION ARE
+-17- SB26-041
+
+1 MATERIALLY ALTERED FOLLOWING THE SUBMISSION OF A WRITTEN NOTICE
+2 PURSUANT TO THIS SECTION, THE PARTIES SHALL PROVIDE NOTICE TO THE
+3 ATTORNEY GENERAL OF THE ALTERATION, INCLUDING NEW COPIES OF THE
+4 INFORMATION REQUIRED UNDER THIS SECTION THAT IS SUBJECT TO
+5 ALTERATION.
+6 (10) NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE
+7 CONTRARY, THE ATTORNEY GENERAL MAY WAIVE ALL OR PART OF THE
+8 DISCLOSURE REQUIREMENTS DESCRIBED IN THIS SECTION.
+9 (11) NOTHING IN THIS PART 3 PROHIBITS THE PARTIES TO A
+10 MATERIAL CHANGE TRANSACTION FROM VOLUNTARILY PROVIDING
+11 INFORMATION TO THE ATTORNEY GENERAL.
+12 (12) A FINAL ADVERSE ACTION BY A STATE REGULATOR AGAINST
+13 A PARTY INVOLVED IN A MATERIAL CHANGE TRANSACTION OR A CHANGE
+14 OF OWNERSHIP FORM REQUIRED BY THE COLORADO DEPARTMENT OF
+15 PUBLIC HEALTH AND ENVIRONMENT MAY BE SUBMITTED TO ASSIST IN
+16 SATISFYING THE NOTICE REQUIREMENTS OF THIS SECTION.
+17 (13) A PARTY TO A MATERIAL CHANGE TRANSACTION SATISFIES
+18 THE NOTICE REQUIREMENTS DESCRIBED IN THIS SECTION, AS APPLICABLE,
+19 BY:
+20 (a) SUBMITTING A PREACQUISITION NOTIFICATION FILED WITH THE
+21 COMMISSIONER OF INSURANCE PURSUANT TO SECTION 10-3-803.5 (3);
+22 (b) SUBMITTING AN APPLICATION FOR A CHANGE OF OWNERSHIP
+23 REQUIRED BY THE COLORADO DEPARTMENT OF PUBLIC HEALTH AND
+24 ENVIRONMENT FOR THE MATERIAL CHANGE TRANSACTION TO THE
+25 ATTORNEY GENERAL; OR
+26 (c) SUBMITTING NOTICE TO THE ATTORNEY GENERAL PURSUANT TO
+27 SECTION 6-19-202, 6-19-302, OR 6-19-402.
+-18- SB26-041
+
+1 6-4-303. Public inspection of records.
+2 (1) THE ATTORNEY GENERAL SHALL TREAT ALL INFORMATION AND
+3 MATERIALS PROVIDED TO THE ATTORNEY GENERAL UNDER THIS PART 3 AS
+4 INVESTIGATIVE RECORDS OR RECORDS REGARDING INTELLIGENCE
+5 INFORMATION PURSUANT TO SECTION 6-4-111 (6).
+6 (2) THIS SECTION DOES NOT PROHIBIT THE ATTORNEY GENERAL
+7 FROM DISCLOSING INFORMATION OBTAINED PURSUANT TO THIS SECTION TO
+8 ANOTHER LAW ENFORCEMENT AGENCY, ANOTHER DEPARTMENT OF ANY
+9 GOVERNMENTAL OR PUBLIC ENTITY OF THIS OR ANY OTHER STATE, OR THE
+10 FEDERAL GOVERNMENT IF THE OTHER LAW ENFORCEMENT AGENCY OR
+11 DEPARTMENT EXECUTES AN AGREEMENT THAT THE INFORMATION WILL
+12 REMAIN CONFIDENTIAL AND WILL NOT BE USED IN ANY CRIMINAL
+13 PROSECUTION AGAINST THE PERSON PROVIDING THE WRITTEN RESPONSE,
+14 TESTIMONY, OR DOCUMENTS.
+15 6-4-304. Prohibition of proposed material change transactions
+16 that may have harmful effects - enforcement.
+17 (1) A PERSON THAT CONSUMMATES A MATERIAL CHANGE
+18 TRANSACTION VIOLATES PART 1 OF THIS ARTICLE 4 IF THE MATERIAL
+19 CHANGE TRANSACTION MAY SUBSTANTIALLY LESSEN COMPETITION OR
+20 TEND TO CREATE A MONOPOLY OR MAY HARM CONSUMER WELFARE.
+21 (2) (a) A PARTY TO A MATERIAL CHANGE TRANSACTION SHALL NOT
+22 CLOSE THE MATERIAL CHANGE TRANSACTION UNTIL:
+23 (I) AT LEAST SIXTY DAYS HAVE ELAPSED SINCE THE PARTIES TO
+24 THE MATERIAL CHANGE TRANSACTION LAST SUBMITTED WRITTEN NOTICE
+25 TO THE ATTORNEY GENERAL OF THE TRANSACTION PURSUANT TO SECTION
+26 6-4-302 AND THE ATTORNEY GENERAL HAS NOT NOTIFIED THE PARTIES TO
+27 THE TRANSACTION THAT THE ATTORNEY GENERAL REQUIRES MORE TIME
+-19- SB26-041
+
+1 TO REVIEW THE TRANSACTION OR THAT THE ATTORNEY GENERAL WILL
+2 CHALLENGE THE TRANSACTION PURSUANT TO PART 1 OF THIS ARTICLE 4;
+3 (II) IF THE ATTORNEY GENERAL HAS NOTIFIED THE PARTIES AND
+4 PROVIDES A GOOD FAITH REASON THAT MORE TIME IS REQUIRED TO
+5 REVIEW THE TRANSACTION PURSUANT TO SUBSECTION (2)(a)(I) OF THIS
+6 SECTION, AND THE ATTORNEY GENERAL HAS NOT PROVIDED A SECOND
+7 NOTICE PURSUANT TO SUBSECTION (2)(a)(III) OF THIS SECTION, AT LEAST
+8 FORTY-FIVE DAYS HAVE ELAPSED SINCE THE ATTORNEY GENERAL
+9 PROVIDED THE NOTICE; OR
+10 (III) IF, NO LATER THAN FORTY-FIVE DAYS AFTER THE FIRST NOTICE
+11 FOR ADDITIONAL TIME PROVIDED PURSUANT TO SUBSECTION (2)(a)(II) OF
+12 THIS SECTION, THE ATTORNEY GENERAL AGAIN NOTIFIES THE PARTIES
+13 THAT MORE TIME IS REQUIRED TO REVIEW THE TRANSACTION AND IS ABLE
+14 TO SHOW BAD FAITH BY ANY OF THE PARTIES INVOLVED, AT LEAST
+15 FORTY-FIVE DAYS HAVE ELAPSED SINCE THE ATTORNEY GENERAL
+16 PROVIDED THE SECOND NOTICE.
+17 (b) (I) A PARTY TO A MATERIAL CHANGE TRANSACTION DOES NOT
+18 VIOLATE THIS SECTION BY INITIATING A PROCESS TO OBTAIN APPROVAL OF
+19 THE MATERIAL CHANGE TRANSACTION FROM ANOTHER STATE AGENCY AS
+20 REQUIRED BY LAW.
+21 (II) A DECISION BY ANOTHER STATE AGENCY TO PERMIT OR
+22 AUTHORIZE A MATERIAL CHANGE TRANSACTION DOES NOT PREVENT THE
+23 ATTORNEY GENERAL FROM SEEKING RELIEF PURSUANT TO THIS SECTION OR
+24 PREVENT A COURT FROM FINDING THAT THE MATERIAL CHANGE
+25 TRANSACTION MAY SUBSTANTIALLY LESSEN COMPETITION OR TEND TO
+26 CREATE A MONOPOLY OR MAY HARM CONSUMER WELFARE.
+27 6-4-305. Penalties - remedy - injunction.
+-20- SB26-041
+
+1 (1) FAILURE OF A PARTY TO A MATERIAL CHANGE TRANSACTION TO
+2 PROVIDE NOTICE OF THE MATERIAL CHANGE TRANSACTION AS REQUIRED
+3 BY THIS PART 3 IS AN INDEPENDENT AND SUFFICIENT GROUND FOR A COURT
+4 TO ENJOIN OR UNWIND THE MATERIAL CHANGE TRANSACTION OR PROVIDE
+5 OTHER EQUITABLE RELIEF.
+6 (2) A PERSON THAT FAILS TO PROVIDE TIMELY INFORMATION AS
+7 REQUIRED BY THE ATTORNEY GENERAL IS LIABLE TO THE STATE FOR A
+8 CIVIL PENALTY OF NOT MORE THAN TWO HUNDRED DOLLARS PER DAY FOR
+9 EACH DAY DURING WHICH THE PERSON IS IN VIOLATION OF THIS PART 3.
+10 BEFORE BRINGING SUCH AN ACTION OR SEEKING TO RECOVER A CIVIL
+11 PENALTY, THE ATTORNEY GENERAL SHALL PERMIT THE PERSON TO COME
+12 INTO COMPLIANCE WITH THIS PART 3 WITHIN TEN DAYS AFTER BEING
+13 NOTIFIED OF THE ALLEGED NONCOMPLIANCE. THE RIGHT TO CURE
+14 NONCOMPLIANCE DOES NOT EXIST ON OR AFTER THE CLOSING DATE OF THE
+15 MATERIAL CHANGE TRANSACTION.
+16 6-4-306. Effect on existing authorities - rules.
+17 (1) THE ATTORNEY GENERAL MAY ADOPT RULES TO CARRY OUT
+18 THE PURPOSES OF THIS PART 3, INCLUDING:
+19 (a) RULES CLARIFYING THE TERMS USED IN THIS PART 3;
+20 (b) RULES REQUIRING THAT PERSONS PROVIDE ADDITIONAL
+21 INFORMATION IN ORDER TO COMPLY WITH SECTION 6-4-302 OR
+22 PRESCRIBING THE FORM OF NOTICES SUBMITTED PURSUANT TO SECTION
+23 6-4-302; AND
+24 (c) OTHER RULES AS MAY BE NECESSARY AND APPROPRIATE TO
+25 CARRY OUT THE PURPOSES OF THIS PART 3.
+26 (2) (a) NOTHING IN THIS PART 3 LIMITS THE ATTORNEY GENERAL'S
+27 AUTHORITY UNDER THIS ARTICLE 4, EXCEPT AS EXPRESSLY PROVIDED IN
+-21- SB26-041
+
+1 THIS PART 3.
+2 (b) NOTHING IN THIS PART 3 LIMITS THE ATTORNEY GENERAL'S
+3 COMMON LAW POWERS.
+4 (c) NOTHING IN THIS PART 3 AFFECTS THE REGULATORY
+5 AUTHORITY OF A GOVERNMENTAL AGENCY OTHER THAN THE DEPARTMENT
+6 OF LAW.
+7 (d) THIS PART 3 PROVIDES THE EXCLUSIVE REMEDY FOR A
+8 VIOLATION OF THIS PART 3.
+9 SECTION 2. Repeal of relocated provisions in this act. In
+10 Colorado Revised Statutes, repeal article 4.5 of title 6.
+11 SECTION 3. In Colorado Revised Statutes, 6-19-101, amend (2)
+12 as follows:
+13 6-19-101. Legislative declaration.
+14 (2) Furthermore, for purposes of the attorney general's authority
+15 over the transfer of nonprofit hospital assets, all nonprofit hospitals shall
+16 be deemed to hold all of their assets in trust, and those assets shall be
+17 deemed to be dedicated to the specific charitable purposes set forth in the
+18 articles of incorporation or other organic documents of the nonprofit
+19 entities that hold them in trust. The public is the beneficiary of this trust.
+20 Nonprofit hospitals have a substantial and beneficial effect on the
+21 provision of health care to the people of Colorado, providing as part of
+22 their charitable purposes uncompensated care to the uninsured or
+23 underinsured and including, but not limited to, providing moneys MONEY
+24 and support for health-related research and education or other community
+25 benefits. The general assembly also finds that transfers of the assets of
+26 nonprofit hospitals to the for-profit sector may directly affect the
+27 character and extent of the charitable use of those assets or the proceeds
+-22- SB26-041
+
+1 from the assets. The public also has an interest in knowing that the
+2 transfer of the assets of a nonprofit hospital, or the proceeds from the
+3 assets, preserves, to the extent practicable, their charitable purpose. The
+4 general assembly believes it is in the best interest of the public to ensure
+5 that the public interest is fully protected whenever the assets of a hospital
+6 are transferred, to a for-profit entity except in the ordinary course of
+7 business.
+8 SECTION 4. In Colorado Revised Statutes, 6-19-102, amend the
+9 introductory portion, (1), and (3); and add (4) as follows:
+10 6-19-102. Definitions.
+11 As used in this article ARTICLE 19, unless the context otherwise
+12 requires:
+13 (1) (a) (I) "Covered transaction" means any transaction that would
+14 result in the sale, transfer, lease, exchange, or other disposition of:
+15 (A) Fifty percent or more of the assets of a hospital; OR
+16 (B) THE MANAGEMENT, CONTROL, OR OPERATIONS OF A HOSPITAL.
+17 (II) A series of transactions taking place in any five-year period
+18 which THAT would result in the aggregate of the transfer of fifty percent
+19 or more of a hospital's assets shall in all circumstances be OR THE
+20 TRANSFER OF THE MANAGEMENT, CONTROL, OR OPERATIONS OF A
+21 HOSPITAL IS deemed to be a covered transaction.
+22 (b) "Covered transaction" shall also include INCLUDES the sale,
+23 transfer, or other disposition of the control of a parent company, holding
+24 company, or other entity controlling a hospital.
+25 (c) For the purposes of AS USED IN this subsection (1), "fifty
+26 percent or more of the assets" shall be based on the fair market value of
+27 all of the assets of the hospital.
+-23- SB26-041
+
+1 (3) "Hospital" means a FACILITY REQUIRED TO BE CURRENTLY OR
+2 PREVIOUSLY licensed or certified AS A hospital as described in section
+3 25-1.5-103 (1)(a)(I) and (1)(a)(II), C.R.S. (1)(a), INCLUDING GENERAL
+4 HOSPITALS, HOSPITAL UNITS, FREESTANDING EMERGENCY DEPARTMENTS,
+5 CRITICAL ACCESS HOSPITALS, PSYCHIATRIC HOSPITALS, COMMUNITY
+6 CLINICS, REHABILITATION HOSPITALS, AMBULATORY SURGICAL CENTERS,
+7 AND OTHER SIMILAR FACILITIES.
+8 (4) "NONPROFIT ENTITY" MEANS AN ENTITY THAT IS NOT A
+9 FOR-PROFIT ENTITY, INCLUDING A NONPROFIT CORPORATION AND AN
+10 ENTITY OPERATED BY A SPECIAL DISTRICT.
+11 SECTION 5. In Colorado Revised Statutes, 6-19-103, amend (1)
+12 as follows:
+13 6-19-103. Procedures for covered transactions - notice -
+14 attorney general powers.
+15 (1) The parties to a covered transaction shall provide notice of
+16 such transaction to the attorney general no later than sixty NINETY days
+17 prior to the transaction closing or THE effective date of the transaction.
+18 The notice to the attorney general shall be in writing; shall include the
+19 information required in section 6-19-202, 6-19-302, or 6-19-402, OR
+20 6-19-502, as applicable; and shall contain a certification that public notice
+21 of the transaction will be given within seven days after the notification to
+22 the attorney general.
+23 SECTION 6. In Colorado Revised Statutes, amend 6-19-202 as
+24 follows:
+25 6-19-202. Notice.
+26 Notice shall be provided by the parties to a covered transaction
+27 according to section 6-19-103 and shall include a statement on the
+-24- SB26-041
+
+1 charitable purposes AND CHARITABLE MISSIONS of each nonprofit entity
+2 entering into the covered transaction AND THE SERVICES PROVIDED BY
+3 EACH NONPROFIT ENTITY IN FURTHERANCE OF THE NONPROFIT ENTITY'S
+4 CHARITABLE PURPOSES AND CHARITABLE MISSIONS, as well as a statement
+5 concerning the relationship of these CHARITABLE purposes AND MISSIONS
+6 to the EACH hospital involved in the transaction. IF APPLICABLE, the
+7 statement may SHALL include a certification by the chief executive officer
+8 as approved by the board of directors or board of trustees of the nonprofit
+9 entity transferring its assets that there will be no material change in the
+10 charitable purposes, CHARITABLE MISSIONS, OR SERVICES PROVIDED IN
+11 FURTHERANCE OF THE CHARITABLE PURPOSES OR MISSIONS to which the
+12 transferred assets are dedicated as a result of the transaction.
+13 SECTION 7. In Colorado Revised Statutes, repeal and reenact,
+14 with amendments, 6-19-203 as follows:
+15 6-19-203. Attorney general review and assessment.
+16 (1) A COVERED TRANSACTION THAT WILL NOT RESULT IN A
+17 MATERIAL CHANGE IN THE CHARITABLE PURPOSES, CHARITABLE MISSIONS,
+18 OR SERVICES PROVIDED IN FURTHERANCE OF THE CHARITABLE PURPOSES
+19 OR MISSIONS OF A NONPROFIT ENTITY ENTERING INTO THE COVERED
+20 TRANSACTION, AND WILL NOT RESULT IN A TERMINATION OF THE
+21 ATTORNEY GENERAL'S JURISDICTION OVER THE CHARITABLE ASSETS DUE
+22 TO A TRANSFER OF A MATERIAL AMOUNT OF THOSE ASSETS OUTSIDE OF
+23 THE STATE OF COLORADO, MAY PROCEED WITHOUT FURTHER REVIEW
+24 UNDER THIS ARTICLE 19. WHEN REVIEWING WHETHER A MATERIAL
+25 CHANGE WILL RESULT FROM A TRANSACTION, THE ATTORNEY GENERAL'S
+26 AUTHORITY INCLUDES:
+27 (a) CONTRACTING WITH, CONSULTING WITH, AND RECEIVING
+-25- SB26-041
+
+1 ADVICE FROM A STATE AGENCY ON TERMS AND CONDITIONS THAT THE
+2 ATTORNEY GENERAL AND THE DIRECTOR OF THE AGENCY DEEM
+3 APPROPRIATE;
+4 (b) REQUIRING PRODUCTION OF MATERIAL DOCUMENTATION,
+5 INCLUDING THE PROPOSED AGREEMENTS RELATING TO THE PROPOSED
+6 TRANSACTION, AGREEMENTS REGARDING COLLATERAL TRANSACTIONS
+7 RELATING TO THE PROPOSED TRANSACTION, AND ANY REPORTS OF
+8 FINANCIAL AND ECONOMIC ANALYSIS THAT THE PARTIES REVIEWED OR
+9 RELIED ON IN NEGOTIATING THE PROPOSED TRANSACTION. EXCEPT FOR
+10 DOCUMENTS THE ATTORNEY GENERAL DETERMINES TO BE CONFIDENTIAL
+11 AS A MATTER OF LAW, THE DOCUMENTS FILED PURSUANT TO THIS
+12 SUBSECTION (1)(b) MUST BE MADE AVAILABLE TO THE PUBLIC FOR REVIEW
+13 AND COPYING DURING NORMAL BUSINESS HOURS AT BOTH THE ATTORNEY
+14 GENERAL'S OFFICE AND THE OFFICES OF THE PARTIES TO THE
+15 TRANSACTION. REASONABLE COSTS OF COPYING SHALL BE BORNE BY THE
+16 PARTIES IF COPIES ARE REQUESTED AT THEIR OFFICES.
+17 (c) PUBLISHING PUBLIC NOTICE OF THE COVERED TRANSACTION.
+18 THE PUBLIC NOTICE MAY INCLUDE THE FOLLOWING INFORMATION:
+19 (I) A GENERAL STATEMENT DESCRIBING THE TERMS OF THE
+20 TRANSACTION;
+21 (II) THE PROPOSED DATE FOR THE CLOSING OR THE EFFECTIVE
+22 DATE OF THE TRANSACTION;
+23 (III) IF APPLICABLE, THE CHIEF EXECUTIVE OFFICER'S
+24 CERTIFICATION, AS REQUIRED BY SECTION 6-19-202;
+25 (IV) THE MEANS BY WHICH PUBLIC COMMENT CAN BE RECEIVED;
+26 AND
+27 (V) INFORMATION RELATED TO A PUBLIC HEARING HELD PURSUANT
+-26- SB26-041
+
+1 TO SUBSECTION (1)(e) OF THIS SECTION;
+2 (d) PROVIDING AN OPPORTUNITY FOR PUBLIC COMMENT; AND
+3 (e) HOLDING A PUBLIC HEARING IN THE SAME MANNER AS
+4 REQUIRED BY SECTION 6-19-404 (1).
+5 (2) IN CONDUCTING A REVIEW TO DETERMINE WHETHER A
+6 MATERIAL CHANGE WILL RESULT FROM A TRANSACTION, THE ATTORNEY
+7 GENERAL MAY CONSIDER THE FOLLOWING FACTORS:
+8 (a) WHETHER THE TRANSACTION WILL RESULT IN ANY REDUCTIONS
+9 IN THE AVAILABILITY AND ACCESSIBILITY OF HEALTH-CARE SERVICES IN
+10 THE COMMUNITIES SERVED BY THE HOSPITAL;
+11 (b) WHETHER THE TRANSACTION WILL RESULT IN ANY REDUCTION
+12 IN THE PROVISION OF COMMUNITY BENEFIT SPENDING OR ACTIVITIES AS
+13 SET FORTH IN PART 7 OF ARTICLE 1 OF TITLE 25.5; OR
+14 (c) WHETHER THE TRANSACTION WILL RESULT IN ANY REDUCTIONS
+15 IN HEALTH-CARE SERVICES PROVIDED TO PUBLIC BENEFITS RECIPIENTS,
+16 THE UNDERINSURED, OR THE UNINSURED.
+17 (3) IF A TRANSACTION COVERED BY THIS PART 2 WILL RESULT IN A
+18 MATERIAL CHANGE IN THE CHARITABLE PURPOSES, CHARITABLE MISSIONS,
+19 OR SERVICES PROVIDED IN FURTHERANCE OF THE CHARITABLE PURPOSES
+20 OR MISSIONS OF A NONPROFIT ENTITY ENTERING INTO THE COVERED
+21 TRANSACTION, OR IF A TRANSACTION WILL RESULT IN A TERMINATION OF
+22 THE ATTORNEY GENERAL'S JURISDICTION OVER A HOSPITAL'S ASSETS DUE
+23 TO A TRANSFER OF A MATERIAL AMOUNT OF THOSE ASSETS OUTSIDE THE
+24 STATE OF COLORADO, THE ATTORNEY GENERAL MAY EXERCISE THEIR
+25 COMMON LAW AUTHORITY TO ASSESS AND REVIEW OR CHALLENGE THE
+26 TRANSACTION AS DEEMED APPROPRIATE BY THE ATTORNEY GENERAL. IF
+27 THE ATTORNEY GENERAL CONDUCTS AN ASSESSMENT OR REVIEW, THE
+-27- SB26-041
+
+1 FOLLOWING PROVISIONS APPLY TO THE ACTIONS OF THE ATTORNEY
+2 GENERAL:
+3 (a) THE ATTORNEY GENERAL SHALL PERFORM A REVIEW AND
+4 ASSESSMENT TO THE EXTENT PRACTICABLE AND WITH DUE
+5 CONSIDERATION TO THE FINANCIAL CIRCUMSTANCES OF THE PARTIES TO
+6 THE TRANSACTION;
+7 (b) IN ADDITION TO THE AUTHORITY GRANTED TO THE ATTORNEY
+8 GENERAL UNDER SUBSECTION (1) OF THIS SECTION, THE ATTORNEY
+9 GENERAL MAY:
+10 (I) CONTRACT WITH PERSONS, INCLUDING ATTORNEYS,
+11 ACCOUNTANTS, ACTUARIES, FINANCIAL ANALYSTS, AND HEALTH-CARE
+12 ANALYSTS, AS IS REASONABLE AND NECESSARY TO ASSIST IN REVIEWING
+13 A PROPOSED TRANSACTION. CONTRACT COSTS SHALL BE BORNE BY THE
+14 PARTIES TO THE TRANSACTION AND MUST NOT EXCEED AN AMOUNT THAT
+15 IS REASONABLY NECESSARY TO CONDUCT THE REVIEW AND ASSESSMENT.
+16 (II) ACCEPT AND EXPEND GRANTS, DONATIONS, OR BOTH, NOT TO
+17 EXCEED FIFTY THOUSAND DOLLARS FOR THE PURPOSE OF THE
+18 IMPLEMENTATION OF THIS ARTICLE 19. THE STATE TREASURER SHALL
+19 CREDIT THE GRANT OR DONATION TO THE NONPROFIT HEALTH CARE
+20 ENTITY REVIEW CASH FUND CREATED IN SECTION 6-19-406 (1)(f). THE
+21 ATTORNEY GENERAL MAY EXPEND MONEY FROM THE NONPROFIT HEALTH
+22 CARE ENTITY REVIEW CASH FUND CREATED IN SECTION 6-19-406 (1)(f)
+23 FOR THE PURPOSES OF THIS ARTICLE 19.
+24 (c) THE ATTORNEY GENERAL MAY ALLOW A TRANSACTION THAT
+25 SATISFIES THE FOLLOWING CRITERIA:
+26 (I) THE ASSETS CONTINUE TO BE DEDICATED TO THE SAME
+27 CHARITABLE PURPOSE AND MISSION RELATED TO THE PROVISION OF
+-28- SB26-041
+
+1 HEALTH-CARE SERVICES IN THE COMMUNITY SERVED BY THE HOSPITAL,
+2 UNLESS DOING SO IS UNLAWFUL, IMPRACTICABLE, IMPOSSIBLE TO ACHIEVE,
+3 OR WASTEFUL, IN WHICH CASE THE ASSETS CONTINUE TO BE DEDICATED TO
+4 A SIMILAR CHARITABLE PURPOSE AND MISSION;
+5 (II) THE DIRECTORS OR TRUSTEES OF THE PARTIES TO THE
+6 TRANSACTION HAVE NOT ACTED UNREASONABLY IN LIGHT OF THE
+7 FINANCIAL CIRCUMSTANCES OF THE PARTIES;
+8 (III) THE DIRECTORS OR TRUSTEES OF THE PARTIES TO THE
+9 TRANSACTION HAVE NOT ACTED UNREASONABLY IN ACCOMMODATING THE
+10 AFFECTED COMMUNITY OR COMMUNITIES; AND
+11 (IV) THE DIRECTORS OR TRUSTEES OF THE PARTIES TO THE
+12 TRANSACTION HAVE NOT BREACHED THEIR FIDUCIARY DUTIES OR
+13 OTHERWISE ENGAGED IN MISCONDUCT IN NEGOTIATING OR ENGAGING IN
+14 THE TRANSACTION; AND
+15 (d) THE ATTORNEY GENERAL MAY LIBERALLY CONSTRUE THE
+16 CRITERIA SET FORTH IN SUBSECTION (3)(c) OF THIS SECTION IN FAVOR OF
+17 ALLOWING A TRANSACTION TO PROCEED.
+18 SECTION 8. In Colorado Revised Statutes, amend 6-19-302 as
+19 follows:
+20 6-19-302. Notice.
+21 (1) The parties to a covered transaction governed by this part 3
+22 shall provide the notice required by section 6-19-103.
+23 (2) THE NOTICE REQUIRED BY THIS SECTION MUST:
+24 (a) IDENTIFY THE ENTITIES INVOLVED IN THE TRANSACTION; AND
+25 (b) INCLUDE A SUMMARY OF THE MAIN TERMS OF THE
+26 TRANSACTION, INCLUDING HOW HOSPITAL ASSETS AND HEALTH-CARE
+27 SERVICES WILL BE AFFECTED BY THE TRANSACTION AND WHETHER A
+-29- SB26-041
+
+1 NONPROFIT ENTITY'S ASSETS WILL BE AFFECTED BY THE TRANSACTION.
+2 SECTION 9. In Colorado Revised Statutes, add part 5 to article
+3 19 of title 6 as follows:
+4 PART 5
+5 FOR-PROFIT TO NONPROFIT TRANSACTIONS
+6 6-19-501. Scope of part 5.
+7 THIS PART 5 APPLIES TO COVERED TRANSACTIONS INVOLVING A
+8 FOR-PROFIT HOSPITAL AND A NONPROFIT ENTITY.
+9 6-19-502. Notice.
+10 (1) THE PARTIES TO A COVERED TRANSACTION GOVERNED BY THIS
+11 PART 5 SHALL PROVIDE THE NOTICE REQUIRED BY SECTION 6-19-103. THE
+12 NOTICE MUST IDENTIFY:
+13 (a) THE ENTITIES INVOLVED IN THE TRANSACTION;
+14 (b) A SUMMARY OF THE MAIN TERMS OF THE TRANSACTION,
+15 INCLUDING HOW HOSPITAL ASSETS AND HEALTH-CARE SERVICES WILL BE
+16 AFFECTED BY THE TRANSACTION; AND
+17 (c) THE CHARITABLE PURPOSES AND MISSIONS OF THE NONPROFIT
+18 ENTITIES INVOLVED IN THE TRANSACTION, INCLUDING THE PROPOSED
+19 CHARITABLE PURPOSE AND MISSION OF THE NEW NONPROFIT HOSPITAL.
+20 6-19-503. Attorney general review and assessment.
+21 THE ATTORNEY GENERAL MAY EXERCISE THEIR COMMON LAW
+22 AUTHORITY TO ASSESS AND REVIEW OR CHALLENGE A COVERED
+23 TRANSACTION GOVERNED BY THIS PART 5 AS DEEMED APPROPRIATE BY
+24 THE ATTORNEY GENERAL. IF THE ATTORNEY GENERAL DECIDES TO
+25 CONDUCT AN ASSESSMENT OR REVIEW, THE ATTORNEY GENERAL MAY
+26 CONSIDER THE FACTORS AND TAKE THE ACTIONS SET FORTH IN SECTION
+27 6-19-203.
+-30- SB26-041
+
+1 SECTION 10. In Colorado Revised Statutes, add 25-49-107 as
+2 follows:
+3 25-49-107. Providers - physicians - disclosure of certain
+4 referrals - study and report - definitions - repeal.
+5 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+6 REQUIRES:
+7 (a) "DESIGNATED HEALTH SERVICES" HAS THE MEANING SET FORTH
+8 IN SECTION 25.5-4-414 (1)(a).
+9 (b) "FINANCIAL RELATIONSHIP" MEANS AN OWNERSHIP OR
+10 INVESTMENT INTEREST IN AN ENTITY FURNISHING DESIGNATED HEALTH
+11 SERVICES. AN OWNERSHIP OR INVESTMENT INTEREST MAY BE REFLECTED
+12 IN EQUITY, DEBT, OR OTHER INSTRUMENTS.
+13 (c) "IMMEDIATE FAMILY MEMBER OF THE PROVIDER" MEANS A
+14 SPOUSE, NATURAL OR ADOPTIVE PARENT, SIBLING, NATURAL OR ADOPTIVE
+15 CHILD, STEPPARENT, STEPCHILD, STEPSIBLING, IN-LAW, GRANDPARENT,
+16 GRANDCHILD, OR SPOUSE OF A GRANDPARENT OR GRANDCHILD OF A
+17 PROVIDER.
+18 (d) "PROVIDER" MEANS:
+19 (I) A DOCTOR OF MEDICINE OR OSTEOPATHY WHO IS LICENSED TO
+20 PRACTICE MEDICINE PURSUANT TO ARTICLE 240 OF TITLE 12;
+21 (II) A DOCTOR OF DENTAL SURGERY OR DENTAL MEDICINE WHO IS
+22 LICENSED TO PRACTICE DENTISTRY PURSUANT TO ARTICLE 220 OF TITLE
+23 12;
+24 (III) A DOCTOR OF PODIATRIC MEDICINE WHO IS LICENSED TO
+25 PRACTICE PODIATRY PURSUANT TO ARTICLE 290 OF TITLE 12;
+26 (IV) A DOCTOR OF OPTOMETRY WHO IS LICENSED TO PRACTICE
+27 OPTOMETRY PURSUANT TO ARTICLE 275 OF TITLE 12; OR
+-31- SB26-041
+
+1 (V) A CHIROPRACTOR WHO IS LICENSED TO PRACTICE
+2 CHIROPRACTIC PURSUANT TO ARTICLE 215 OF TITLE 12.
+3 (2) (a) IF A PROVIDER REFERS A PATIENT TO AN ENTITY FOR
+4 DESIGNATED HEALTH SERVICES AND THE PROVIDER, OR AN IMMEDIATE
+5 FAMILY MEMBER OF THE PROVIDER, HAS A FINANCIAL RELATIONSHIP WITH
+6 THE ENTITY, THE PROVIDER SHALL DISCLOSE, OR PROVIDE CONSPICUOUS
+7 NOTICE IN A COMMON AREA THAT IS ACCESSIBLE TO ANYONE, THE NATURE
+8 OF THE FINANCIAL RELATIONSHIP TO THE PATIENT AT THE TIME OF THE
+9 REFERRAL. AT THE PATIENT'S REQUEST, THE PROVIDER MAY PROVIDE THE
+10 PATIENT WITH REASONABLE ALTERNATIVE REFERRAL OPTIONS FOR
+11 ENTITIES WITH WHICH THE PROVIDER, OR AN IMMEDIATE FAMILY MEMBER
+12 OF THE PROVIDER, DOES NOT HAVE A FINANCIAL RELATIONSHIP.
+13 (b) SUBSECTION (2)(a) OF THIS SECTION DOES NOT APPLY TO A
+14 FINANCIAL RELATIONSHIP THAT MEETS THE REQUIREMENTS OF AN
+15 EXCEPTION TO THE PROHIBITIONS ESTABLISHED IN 42 U.S.C. SEC. 1395nn
+16 OR REGULATIONS ADOPTED PURSUANT TO 42 U.S.C. SEC. 1395nn.
+17 (c) SUBSECTION (2)(a) OF THIS SECTION DOES NOT APPLY TO A
+18 FINANCIAL RELATIONSHIP OR A REFERRAL FOR DESIGNATED HEALTH
+19 SERVICES IF THE FINANCIAL RELATIONSHIP OR REFERRAL FOR DESIGNATED
+20 HEALTH SERVICES WOULD NOT VIOLATE 42 U.S.C. SEC. 1395nn OR
+21 REGULATIONS ADOPTED PURSUANT TO 42 U.S.C. SEC. 1395nn.
+22 (3) AN ENTITY THAT PROVIDES DESIGNATED HEALTH SERVICES AS
+23 A RESULT OF A REFERRAL WITHOUT INFORMING THE PATIENT OF THE
+24 REFERRING PROVIDER'S FINANCIAL INTEREST, OR THE FINANCIAL INTEREST
+25 OF AN IMMEDIATE FAMILY MEMBER OF THE REFERRING PROVIDER, IN THE
+26 ENTITY PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION SHALL NOT
+27 PRESENT A CLAIM OR BILL TO AN INDIVIDUAL, A THIRD-PARTY PAYER, THE
+-32- SB26-041
+
+1 DEPARTMENT OF HEALTH CARE POLICY AND FINANCING, OR ANY OTHER
+2 ENTITY FOR THE DESIGNATED HEALTH SERVICES.
+3 (4) A PROVIDER THAT FAILS TO PROVIDE THE FINANCIAL
+4 RELATIONSHIP DISCLOSURE REQUIRED UNDER THIS SECTION THREE OR
+5 MORE TIMES IS SUBJECT TO A FIVE-HUNDRED-DOLLAR FINE.
+6 (5) (a) THE ATTORNEY GENERAL SHALL STUDY THE EFFECT OF THIS
+7 SECTION AND THE IMPACT ON CONSUMER KNOWLEDGE AND COSTS.
+8 (b) ON OR BEFORE NOVEMBER 15, 2029, THE ATTORNEY GENERAL
+9 SHALL INCLUDE, AS PART OF THE DEPARTMENT OF LAW'S PRESENTATION
+10 DURING ITS"SMART ACT" HEARING REQUIRED BY SECTION 2-7-203, THE
+11 FINDINGS OF THE STUDY CONDUCTED PURSUANT TO SUBSECTION (5)(a) OF
+12 THIS SECTION.
+13 (c) THIS SUBSECTION (5) IS REPEALED, EFFECTIVE JANUARY 1,
+14 2030.
+15 SECTION 11. In Colorado Revised Statutes, amend 6-4-101 as
+16 follows:
+17 6-4-101. Short title.
+18 The short title of this article 4 PART 1 is the "Colorado State
+19 Antitrust Act of 2023".
+20 SECTION 12. In Colorado Revised Statutes, amend 6-4-108 as
+21 follows:
+22 6-4-108. Facilitating or aiding and abetting.
+23 (1) It is unlawful to facilitate or aid and abet another person in
+24 violating this article 4 PART 1.
+25 (2) Each separate instance of facilitating or aiding and abetting
+26 another person in violating this article 4 PART 1 is a separate violation of
+27 this article 4 PART 1.
+-33- SB26-041
+
+1 SECTION 13. In Colorado Revised Statutes, 6-4-109, amend (2)
+2 introductory portion, (3), (4), and (5) introductory portion as follows:
+3 6-4-109. Exemptions.
+4 (2) Nothing in this article 4 PART 1 shall be construed to:
+5 (3) A professional review committee constituted and conducting
+6 its reviews and activities in accordance with the provisions of part 2 of
+7 article 30 of title 12, or the members of the professional review
+8 committee, shall not be held or construed to be an illegal combination or
+9 conspiracy in restraint of trade under this article 4 PART 1.
+10 (4) Any person, activity, or conduct exempt or immune under the
+11 laws of this state or exempt or immune from the federal antitrust laws is
+12 exempt or immune from this article 4 PART 1 without regard to any
+13 monetary threshold imposed by federal law; except that nothing in this
+14 article 4 PART 1 shall be deemed to modify the specific provisions of part
+15 4 of article 4 of title 10.
+16 (5) Nothing in this article 4 PART 1 prohibits or shall be construed
+17 to prohibit the formation and operation of:
+18 SECTION 14. In Colorado Revised Statutes, amend 6-4-110 as
+19 follows:
+20 6-4-110. Jurisdiction - venue.
+21 (1) Primary jurisdiction of any cause of action brought pursuant
+22 to this article 4 PART 1 is vested in the district courts of this state.
+23 (2) Any cause of action brought pursuant to this article 4 PART 1
+24 may be brought in any judicial district in which the alleged violation
+25 occurred, any injury was allegedly suffered, or any defendant resides.
+26 SECTION 15. In Colorado Revised Statutes, 6-4-111, amend (1)
+27 introductory portion, (1)(c), (5) introductory portion, and (6) as follows:
+-34- SB26-041
+
+1 6-4-111. Civil discovery request - rules.
+2 (1) When the attorney general has reasonable cause to believe that
+3 any person has engaged in, is engaging in, or may have information
+4 related to a violation of this article 4 PART 1 or of any provision of the
+5 federal antitrust statutes that may be enforced by the attorney general, the
+6 attorney general may:
+7 (c) Make true copies, at the expense of the attorney general, of any
+8 documents examined pursuant to subsection (1)(b) of this section, which
+9 copies may be offered into evidence in lieu of the originals in any civil
+10 action brought pursuant to this article 4 PART 1. The person producing the
+11 documents may require that the attorney general make copies of the
+12 documents. If the attorney general determines the use of originals is
+13 necessary, the attorney general shall pay to have copies of those
+14 documents made for use by the person producing the documents.
+15 (5) If any person fails to appear or fails to cooperate with any
+16 investigation or inquiry pursuant to a request or subpoena issued pursuant
+17 to this section, the attorney general may apply to any district court for an
+18 appropriate order to effect the purposes of this section. The application
+19 must state that there is reasonable cause to believe that the order applied
+20 for is necessary to investigate, prosecute, or terminate a violation of this
+21 article 4 PART 1. If the court is satisfied that reasonable cause exists, the
+22 court may:
+23 (6) (a) The attorney general may deem any investigative records
+24 or records regarding intelligence information obtained under this article
+25 4 PART 1 public records subject to public inspection pursuant to part 2 of
+26 article 72 of title 24.
+27 (b) Nothing in this subsection (6) shall be construed to prevent or
+-35- SB26-041
+
+1 limit the attorney general's authority to issue public statements describing
+2 or warning of any course of conduct or conspiracy that violates this article
+3 4 PART 1, whether the public statements are made on a local, statewide,
+4 regional, or nationwide basis.
+5 SECTION 16. In Colorado Revised Statutes, amend 6-4-112 as
+6 follows:
+7 6-4-112. Enforcement by the attorney general.
+8 (1) The attorney general may institute actions or proceedings to
+9 prevent or restrain violations of this article 4 PART 1, including actions to
+10 prevent or restrain unfair methods of competition in or affecting
+11 commerce.
+12 (2) The attorney general may bring a civil action on behalf of the
+13 state or any governmental or public entity injured, either directly or
+14 indirectly, in its business or property by reason of any violation of this
+15 article 4 PART 1 and, if successful, shall recover any actual damages
+16 sustained by the entity. If the violation alleged and proved is determined
+17 by the court to be a per se violation of this article 4 PART 1, the attorney
+18 general, on behalf of the entity, may recover three times the actual
+19 damages that the entity sustains.
+20 (3) (a) The attorney general may bring a civil action as parens
+21 patriae on behalf of any individual residing within the state who is
+22 injured, either directly or indirectly, in the individual's business or
+23 property by reason of any violation of this article 4 PART 1 and, if
+24 successful, shall recover any actual damages sustained by the individual.
+25 If the violation alleged and proved is determined by the court to be a per
+26 se violation of this article 4 PART 1, the attorney general, on behalf of the
+27 individual, may recover three times the actual damages that the individual
+-36- SB26-041
+
+1 sustains.
+2 (b) In any parens patriae action in which actual or treble damages
+3 are recovered, the court, in its discretion, may determine that the amount
+4 of damages recovered is too small to make any refund to parens group
+5 members practicable. In that event, the court may direct the damages to
+6 be paid to the general fund of the state or to some other governmental or
+7 public entity as the court deems appropriate or may require that damages
+8 be paid as rebates or price reductions to future consumers.
+9 (4) In addition to any other remedies provided in this article 4
+10 PART 1, the attorney general may request, and a court may make, orders
+11 or judgments as may be necessary to:
+12 (a) Fully compensate or make whole any person injured, either
+13 directly or indirectly, by means of any restraint of trade in violation of this
+14 article 4 PART 1; or
+15 (b) Prevent any unjust enrichment by any person through any
+16 restraint of trade in violation of this article 4 PART 1.
+17 (5) In any action brought pursuant to this article 4 PART 1, the
+18 attorney general, if successful, is entitled to recover the costs of
+19 investigation, expert fees, costs of the action, and reasonable attorney
+20 fees.
+21 SECTION 17. In Colorado Revised Statutes, 6-4-113, amend (1)
+22 as follows:
+23 6-4-113. Civil penalties.
+24 (1) The attorney general may bring a civil action on behalf of the
+25 state to seek the imposition of a civil penalty for any violation of this
+26 article 4 PART 1. The court, upon finding a violation of this article 4 PART
+27 1, shall impose a civil penalty to be paid to the general fund of the state
+-37- SB26-041
+
+1 in an amount not to exceed one million dollars for each such violation.
+2 SECTION 18. In Colorado Revised Statutes, 6-4-114, amend (1)
+3 as follows:
+4 6-4-114. Enforcement - injunction.
+5 (1) Any person injured, either directly or indirectly, in its business
+6 or property by reason of a violation of this article 4 PART 1 may file an
+7 action to prevent or restrain the violation.
+8 SECTION 19. In Colorado Revised Statutes, 6-4-115, amend (1)
+9 as follows:
+10 6-4-115. Enforcement - civil damages.
+11 (1) Any person injured, either directly or indirectly, in its business
+12 or property by reason of any violation of this article 4 PART 1 may sue
+13 and, if successful, is entitled to recover any actual damages that the
+14 person sustained. If the violation alleged and proved is determined by the
+15 court to be a per se violation of this article 4 PART 1, the person may
+16 recover three times the actual damages that the person sustains.
+17 SECTION 20. In Colorado Revised Statutes, amend 6-4-116 as
+18 follows:
+19 6-4-116. Notice to the attorney general.
+20 Any person that files a civil action that includes any allegation of
+21 a violation of this article 4 PART 1 shall, simultaneously with the filing of
+22 the action in district court, serve a copy of the complaint on the attorney
+23 general.
+24 SECTION 21. In Colorado Revised Statutes, 6-4-118, amend (1)
+25 as follows:
+26 6-4-118. Enforcement - criminal proceedings.
+27 (1) The attorney general shall prosecute all criminal proceedings
+-38- SB26-041
+
+1 for violations of this article 4 PART 1, whether by indictment or direct
+2 information filed in the appropriate district court.
+3 SECTION 22. In Colorado Revised Statutes, amend 6-4-119 as
+4 follows:
+5 6-4-119. Statute of limitations.
+6 (1) Any civil action commenced pursuant to this article 4 PART 1
+7 must be brought within four years after the date that the cause of action
+8 accrued. For purposes of this article 4 PART 1, a cause of action accrues:
+9 (a) When the circumstances giving rise to the cause of action are
+10 discovered or should have been discovered in the exercise of reasonable
+11 diligence; or
+12 (b) On the date that the last in a series of acts or practices in
+13 violation of this article 4 PART 1 occurred, including any acquisitions or
+14 series of acquisitions that, in the aggregate, may constitute a violation of
+15 this article 4 PART 1.
+16 (2) Any criminal proceeding brought pursuant to this article 4
+17 PART 1 must be commenced within six years after the alleged criminal act
+18 occurred.
+19 (3) If the attorney general commences a proceeding or action for
+20 any violation of this article 4 PART 1, the running of the statute of
+21 limitations with respect to every cause of action that is based in whole or
+22 in part on any matter complained of in the proceeding or action is
+23 suspended during the pendency of the proceeding or action and for one
+24 year after the conclusion of the proceeding or action.
+25 (4) Whenever any civil or criminal proceeding is brought by the
+26 United States to prevent, restrain, or punish violations of any federal
+27 antitrust laws, the running of the statute of limitations with respect to any
+-39- SB26-041
+
+1 action under this article 4 PART 1 that is based in whole or in part on any
+2 matter complained of in the federal proceeding is suspended during the
+3 pendency of the federal proceeding and for one year after the conclusion
+4 of the federal proceeding.
+5 (5) Except as expressly provided in subsections (1) and (2) of this
+6 section, no other limitation terminates the period within which the
+7 attorney general may file an action for a violation of this article 4 PART 1.
+8 SECTION 23. In Colorado Revised Statutes, amend 6-4-120 as
+9 follows:
+10 6-4-120. Remedies - cumulative.
+11 The remedies provided in this article 4 PART 1 are cumulative
+12 except as otherwise expressly limited.
+13 SECTION 24. In Colorado Revised Statutes, amend 6-4-121 as
+14 follows:
+15 6-4-121. Void contracts - refund.
+16 (1) Any contract or agreement that a person makes while a
+17 member of any combination, conspiracy, trust, or pool prohibited under
+18 this article 4 PART 1 that is founded upon, is the result of, grows out of,
+19 or is connected with any violation of this article 4 PART 1, either directly
+20 or indirectly, is void, and the person may not recover based on or benefit
+21 from the contract or agreement.
+22 (2) Any payments made upon, under, or pursuant to a contract or
+23 agreement for the benefit of a person that is a member of any
+24 combination, conspiracy, trust, or pool prohibited under this article 4
+25 PART 1 may be recovered in an action brought by the party making the
+26 payments or by the party's heirs, personal representatives, or assigns.
+27 SECTION 25. In Colorado Revised Statutes, amend 24-21-626
+-40- SB26-041
+
+1 as follows:
+2 24-21-626. Unfair trade practices.
+3 (1) The provisions of the "Unfair Practices Act", article 2 of title
+4 6, and the "Colorado State Antitrust Act of 2023", PART 1 OF article 4 of
+5 title 6, are specifically applicable to charitable gaming activities
+6 conducted by any licensee. Within thirty days after receiving a complaint
+7 alleging a violation of either of the acts, the licensing authority shall
+8 transmit the complaint to the attorney general.
+9 (2) The licensing authority shall revoke the license of a licensee
+10 that violates any provision of article 2 of title 6 or PART 1 OF article 4 of
+11 title 6 for a period of one year after the date of the finding of the
+12 violation. Upon the expiration of such period, the licensee may apply for
+13 the issuance of a new license.
+14 SECTION 26. In Colorado Revised Statutes, amend 25-17-410
+15 as follows:
+16 25-17-410. Limited exemption from antitrust, restraint of
+17 trade, and unfair trade practices provisions.
+18 If a producer or group of producers participating in a paint
+19 stewardship program or a stewardship organization contracted by one or
+20 more producers to implement a paint stewardship program engages in an
+21 activity performed solely in furtherance of implementing the paint
+22 stewardship program and in compliance with the provisions of this part
+23 4, the activity is not a violation of the antitrust, restraint of trade, and
+24 unfair trade practices provisions of the "Unfair Practices Act", article 2
+25 of title 6, or the "Colorado State Antitrust Act of 2023", PART 1 OF article
+26 4 of title 6.
+27 SECTION 27. In Colorado Revised Statutes, amend 25-17-711
+-41- SB26-041
+
+1 as follows:
+2 25-17-711. Limited exemption from antitrust, restraint of
+3 trade, and unfair trade practices provisions.
+4 If the program or any other plan approved by the executive director
+5 pursuant to this part 7 engages in an activity performed solely in
+6 furtherance of implementing the program or plan and in compliance with
+7 this part 7, the activity is not a violation of the antitrust, restraint of trade,
+8 and unfair trade practices provisions of the "Unfair Practices Act", article
+9 2 of title 6, or the "Colorado State Antitrust Act of 2023", PART 1 OF
+10 article 4 of title 6.
+11 SECTION 28. In Colorado Revised Statutes, amend 25-17-1016
+12 as follows:
+13 25-17-1016. Antitrust.
+14 If a battery stewardship organization engages in an activity
+15 performed solely in furtherance of implementing an approved plan in
+16 compliance with this part 10, the activity is not a violation of the antitrust,
+17 restraint of trade, and unfair trade practices provisions of the "Unfair
+18 Practices Act", article 2 of title 6, or the "Colorado State Antitrust Act of
+19 2023", PART 1 OF article 4 of title 6.
+20 SECTION 29. In Colorado Revised Statutes, 40-3-104.3, amend
+21 (1)(a)(II)(D) as follows:
+22 40-3-104.3. Manner of regulation - competitive responses -
+23 economic development rate - definitions - repeal.
+24 (1) (a) Upon application by any public utility providing electric,
+25 natural gas, or steam service, the commission shall authorize such public
+26 utility to provide utility services to a specific customer or potential
+27 customer by contract without reference to its tariffs on file with the
+-42- SB26-041
+
+1 commission if the commission finds that:
+2 (II) For contracts with existing customers involving natural gas
+3 service:
+4 (D) The price of any such service provided pursuant to this
+5 subparagraph (II) SUBSECTION (1)(a)(II) shall be justified and shall not be
+6 less than the marginal cost of the service to the public utility. If the price
+7 is less than marginal cost, this shall be deemed to be an illegal restraint
+8 of trade subject to the provisions of PART 1 OF article 4 of title 6; C.R.S.;
+9 and
+10 SECTION 30. In Colorado Revised Statutes, amend 40-15-106
+11 as follows:
+12 40-15-106. Cross-subsidization prohibited - illegal restraint of
+13 trade.
+14 The price of telecommunications services or products which THAT
+15 are not subject to the jurisdiction of the commission shall not be priced
+16 below cost by use of subsidization from customers of services and
+17 products subject to the jurisdiction of the commission, and any such
+18 cross-subsidization is deemed to be an illegal restraint of trade subject to
+19 the provisions of PART 1 OF article 4 of title 6. C.R.S.
+20 SECTION 31. Effective date - applicability. (1) Except as
+21 otherwise provided in this section, this act takes effect upon passage.
+22 (2) Part 3 of article 4 of title 6, Colorado Revised Statutes, as
+23 enacted in section 1 of this act, takes effect November 1, 2026.
+24 (3) Section 6-4-302, Colorado Revised Statutes, as enacted in
+25 section 1 of this act, applies to material change transactions in which an
+26 offer is made on or after November 1, 2026.
+27 SECTION 32. Safety clause. The general assembly finds,
+-43- SB26-041
+
+1 determines, and declares that this act is necessary for the immediate
+2 preservation of the public peace, health, or safety or for appropriations for
+3 the support and maintenance of the departments of the state and state
+4 institutions.
+-44- SB26-041

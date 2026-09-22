@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0328.01 Alison Killen x4350 HOUSE BILL 26-1104
+HOUSE SPONSORSHIP
+Bradfield,
+SENATE SPONSORSHIP
+Simpson,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING ESTABLISHING A PROGRAM FOR THIRD-PARTY CREDIT
+102 BUREAU VOTER ADDRESS VERIFICATION ADMINISTERED BY THE
+103 SECRETARY OF STATE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the secretary of state (secretary) to cause to be
+conducted an annual change of address search of the computerized
+statewide voter registration list (statewide list) using a third-party credit
+bureau (credit bureau) to verify voters' address information. All electors
+in the statewide list are included in the search, except participants in the
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+state address confidentiality program and electors, including first
+responders, enrolled as confidential voters. The secretary is allowed to
+transmit to the credit bureau only electors' names, birth years, and
+residential addresses. Within 30 days of receipt, the credit bureau must
+compare this information to its database and identify any discrepancy in
+address information. Within 30 days of this comparison, the credit bureau
+must create and transmit to the secretary a list of all electors with a
+discrepancy in address information, including the address information for
+each elector from the credit bureau's database. The secretary must then
+distribute this information to the relevant county clerks and recorders for
+further verification and possible action, in their discretion and in
+accordance with existing law.
+Prior to transmitting any voter registration information, the
+secretary must retain the credit bureau in accordance with the state
+"Procurement Code" and enter into an agreement that:
+! Acknowledges and complies with the technological
+security measures previously developed by the secretary to
+prevent unauthorized access to the computerized statewide
+voter registration list;
+! Acknowledges and complies with the technological
+security requirements for the exchange or transfer of data
+related to voter registration between the secretary and any
+other agency as if the credit bureau is such an agency;
+! Prohibits the credit bureau from selling, disclosing, or
+otherwise releasing the voter registration information
+transmitted by the secretary.
+The secretary may establish rules necessary to implement and administer
+the address verification program.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 1-2-302.5, amend
+3 (5); and add (1.5) as follows:
+4 1-2-302.5. Change of address search - rules.
+5 (1.5) (a) EXCEPT AS PROVIDED IN SUBSECTION (1.5)(b) OF THIS
+6 SECTION, IN ADDITION TO THE MONTHLY CHANGE OF ADDRESS SEARCH
+7 CONDUCTED PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION, ON OR
+8 BEFORE JUNE 1, 2027, AND ON OR BEFORE JUNE 1 IN EACH ODD-NUMBERED
+9 YEAR THEREAFTER, AND ON OR BEFORE FEBRUARY 1, 2028, AND ON OR
+-2- HB26-1104
+
+1 BEFORE FEBRUARY 1 IN EACH EVEN-NUMBERED YEAR THEREAFTER, THE
+2 SECRETARY OF STATE SHALL CAUSE TO BE CONDUCTED AN ANNUAL
+3 CHANGE OF ADDRESS SEARCH FOR ALL ELECTORS WHOSE NAMES APPEAR
+4 IN THE STATEWIDE VOTER REGISTRATION LIST BY TRANSMITTING ONLY THE
+5 FOLLOWING VOTER REGISTRATION INFORMATION FOR EACH ELECTOR TO
+6 A THIRD-PARTY CREDIT BUREAU FOR ADDRESS VERIFICATION IN
+7 ACCORDANCE WITH THE REQUIREMENTS OF THIS SUBSECTION (1.5):
+8 (I) FIRST AND LAST NAME;
+9 (II) BIRTH YEAR; AND
+10 (III) RESIDENTIAL ADDRESS.
+11 (b) THE SECRETARY OF STATE SHALL NOT TRANSMIT PURSUANT TO
+12 SUBSECTION (1.5)(a) OF THIS SECTION THE VOTER REGISTRATION
+13 INFORMATION FOR THE FOLLOWING ELECTORS WHOSE NAMES APPEAR IN
+14 THE STATEWIDE VOTER REGISTRATION LIST:
+15 (I) ELECTORS WHO ARE PARTICIPANTS IN THE ADDRESS
+16 CONFIDENTIALITY PROGRAM CREATED IN PART 21 OF ARTICLE 30 OF TITLE
+17 24; AND
+18 (II) ELECTORS, INCLUDING FIRST RESPONDERS, WHO HAVE
+19 ENROLLED AS CONFIDENTIAL VOTERS PURSUANT TO SECTION 24-72-204
+20 (3.5).
+21 (c) PRIOR TO THE TRANSMISSION OF ANY VOTER REGISTRATION
+22 INFORMATION PURSUANT TO SUBSECTION (1.5)(a) OF THIS SECTION, THE
+23 SECRETARY OF STATE SHALL ENTER INTO AN AGREEMENT WITH THE
+24 THIRD-PARTY CREDIT BUREAU IN ACCORDANCE WITH THE STATE
+25 "PROCUREMENT CODE", ARTICLES 101 TO 112 OF TITLE 24, AND THAT:
+26 (I) ACKNOWLEDGES AND COMPLIES WITH THE TECHNOLOGICAL
+27 SECURITY MEASURES DEVELOPED PURSUANT TO SECTION 1-2-302 (8) TO
+-3- HB26-1104
+
+1 PREVENT UNAUTHORIZED ACCESS TO THE COMPUTERIZED STATEWIDE
+2 VOTER REGISTRATION LIST;
+3 (II) ACKNOWLEDGES AND COMPLIES WITH THE TECHNOLOGICAL
+4 SECURITY REQUIREMENTS FOR THE EXCHANGE OR TRANSFER OF DATA
+5 RELATED TO VOTER REGISTRATION BETWEEN THE SECRETARY OF STATE
+6 AND ANY OTHER AGENCY ESTABLISHED PURSUANT TO SECTION 1-2-302 (8)
+7 AS IF THE CREDIT BUREAU IS SUCH AN AGENCY;
+8 (III) PROVIDES THAT, NOT MORE THAN THIRTY DAYS AFTER THE
+9 RECEIPT OF THE VOTER REGISTRATION INFORMATION SPECIFIED IN
+10 SUBSECTION (1.5)(a) OF THIS SECTION, THE THIRD-PARTY CREDIT BUREAU
+11 SHALL COMPARE THE VOTER REGISTRATION INFORMATION TO THE NAME,
+12 BIRTH YEAR, AND ADDRESS INFORMATION IN THE THIRD-PARTY CREDIT
+13 BUREAU'S DATABASE AND IDENTIFY ANY DISCREPANCY IN THE ADDRESS
+14 INFORMATION OF AN ELECTOR;
+15 (IV) PROVIDES THAT, NOT MORE THAN THIRTY DAYS AFTER
+16 COMPLETING THE COMPARISON REQUIRED BY SUBSECTION (1.5)(c)(III) OF
+17 THIS SECTION, THE THIRD-PARTY CREDIT BUREAU SHALL CREATE AND
+18 TRANSMIT TO THE SECRETARY OF STATE A LIST OF ALL ELECTORS WITH A
+19 DISCREPANCY IN THEIR ADDRESS INFORMATION, INCLUDING THE ADDRESS
+20 INFORMATION FOR EACH ELECTOR FROM THE THIRD-PARTY CREDIT
+21 BUREAU'S DATABASE; AND
+22 (V) PROHIBITS THE THIRD-PARTY CREDIT BUREAU FROM SELLING,
+23 DISCLOSING, OR OTHERWISE RELEASING THE VOTER REGISTRATION
+24 INFORMATION TRANSMITTED FROM THE SECRETARY OF STATE TO THE
+25 THIRD-PARTY CREDIT BUREAU.
+26 (d) THE SECRETARY OF STATE SHALL TRANSMIT ANNUALLY TO THE
+27 APPROPRIATE COUNTY CLERK AND RECORDER THE DATA OBTAINED FROM
+-4- HB26-1104
+
+1 THE SEARCH CONDUCTED UNDER THIS SUBSECTION (1.5) FOR THE PURPOSE
+2 OF IDENTIFYING POTENTIAL DISCREPANCIES IN ELECTOR ADDRESS
+3 INFORMATION. SUCH DATA SHALL NOT CONSTITUTE DETERMINATIVE
+4 PROOF OF AN ELECTOR'S ADDRESS OR REQUIRE A COUNTY CLERK AND
+5 RECORDER TO CHANGE TO AN ELECTOR'S VOTER REGISTRATION
+6 INFORMATION.
+7 (e) EACH COUNTY CLERK AND RECORDER SHALL REVIEW THE DATA
+8 TRANSMITTED PURSUANT TO SUBSECTION (1.5)(d) OF THIS SECTION AND
+9 TAKE SUCH ACTION AS IS NECESSARY, IN THEIR DISCRETION, TO RESOLVE
+10 IN ACCORDANCE WITH EXISTING LAW, ANY DISCREPANCIES IN ELECTOR
+11 ADDRESS INFORMATION THAT ARE PRESENTED BY THE DATA. THIS
+12 SUBSECTION (1.5) DOES NOT CREATE ANY NEW DUTY, OBLIGATION, OR
+13 RESPONSIBILITY FOR A COUNTY CLERK AND RECORDER BEYOND THOSE
+14 OTHERWISE PROVIDED BY LAW.
+15 (f) THE SECRETARY OF STATE MAY ESTABLISH RULES NECESSARY
+16 TO IMPLEMENT AND ADMINISTER THIS SUBSECTION (1.5).
+17 (g) NOTHING IN THIS SUBSECTION (1.5) SHALL BE CONSTRUED TO
+18 ALTER, SUPERSEDE, OR OTHERWISE AFFECT COMPLIANCE WITH THE
+19 FEDERAL "NATIONAL VOTER REGISTRATION ACT OF 1993", 52 U.S.C. SEC.
+20 20501 ET SEQ., OR VOTER REGISTRATION RECORD MAINTENANCE
+21 PROCEDURES OTHERWISE REQUIRED BY THIS TITLE 1 OR FEDERAL LAW.
+22 (5) In addition to the search SEARCHES conducted by the secretary
+23 of state pursuant to subsection SUBSECTIONS (1) AND (1.5) of this section,
+24 a county clerk and recorder may conduct a national change of address
+25 search using the national change of address database administered by the
+26 United States postal service as frequently as he or she THE COUNTY CLERK
+27 AND RECORDER sees fit.
+-5- HB26-1104
+
+1 SECTION 2. Act subject to petition - effective date. This act
+2 takes effect at 12:01 a.m. on the day following the expiration of the
+3 ninety-day period after final adjournment of the general assembly (August
+4 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+5 referendum petition is filed pursuant to section 1 (3) of article V of the
+6 state constitution against this act or an item, section, or part of this act
+7 within such period, then the act, item, section, or part will not take effect
+8 unless approved by the people at the general election to be held in
+9 November 2026 and, in such case, will take effect on the date of the
+10 official declaration of the vote thereon by the governor.
+-6- HB26-1104

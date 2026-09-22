@@ -1,0 +1,585 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0998.01 Jennifer Berman x3286 SENATE BILL 26-186
+Senate Committees House Committees
+Business, Labor, & Technology State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO THE "WORKERS' COMPENSATION ACT OF
+102 COLORADO" NECESSITATED BY TECHNOLOGY UPDATES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Joint Technology Committee. The bill makes various updates to
+language in the "Workers' Compensation Act of Colorado" to align with
+technology changes in the division of workers' compensation in the
+department of labor and employment. These updates include changing
+current statutory language requiring mailing of documents to allow for
+electronic mailing or filing of the documents.
+ESUOH
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dn2
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+6202
+,11
+yaM
+6202
+,7
+yaM
+6202
+,6
+yaM
+SENATE SPONSORSHIP
+Marchman and Baisley, Rodriguez, Coleman, Kipp
+HOUSE SPONSORSHIP
+Titone and Keltie, Paschal
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 8-40-201, add (10.5),
+3 (11.3), and (17.5) as follows:
+4 8-40-201. Definitions.
+5 As used in articles 40 to 47 of this title 8, unless the context
+6 otherwise requires:
+7 (10.5) "FILING" MEANS SERVICE OF A DOCUMENT WITH THE
+8 DIVISION OR WITH A COURT.
+9 (11.3) "MAILED" OR "MAILING" MEANS SERVICE UPON A PARTY BY
+10 ANY MEANS, WHETHER WITH A PHYSICAL COPY, THROUGH EMAIL, OR
+11 THROUGH THE DIVISION'S ELECTRONIC FILING SYSTEM.
+12 (17.5) "SERVICE", "SERVE", OR "SERVED" MEANS PROVIDING A
+13 COPY OF A DOCUMENT OR FILING TO ALL REQUIRED PARTIES BY PHYSICAL
+14 OR ELECTRONIC MEANS AND INCLUDES A PROPER FILING THROUGH THE
+15 DIVISION'S ELECTRONIC SYSTEM.
+16 SECTION 2. In Colorado Revised Statutes, 8-41-202, amend (1)
+17 as follows:
+18 8-41-202. Rejection of coverage by corporate officers and
+19 others.
+20 (1) Notwithstanding any provisions of articles 40 to 47 of this title
+21 TITLE 8 to the contrary, a corporate officer of a corporation or a member
+22 of a limited liability company may elect to reject the provisions of articles
+23 40 to 47 of this title TITLE 8. If so elected, said THE corporate officer or
+24 member shall provide written notice on a form approved by the division
+25 through a rule promulgated ADOPTED by the director of such THE election
+26 to the worker's WORKERS' compensation insurer of the employing
+-2- 186
+
+1 corporation or company, if any. by certified mail. If there is no workers'
+2 compensation insurance company, the notice shall be provided to the
+3 division. by certified mail. Such THE notice shall become BECOMES
+4 effective the day following receipt of said THE notice by the insurer or the
+5 division.
+6 SECTION 3. In Colorado Revised Statutes, 8-42-105, amend
+7 (2)(a) as follows:
+8 8-42-105. Temporary total disability - hearings - rules.
+9 (2) (a) The first installment of compensation shall be paid no later
+10 than the date that liability for the claim is admitted by the insurance
+11 carrier or self-insured employer. If the insurance carrier or self-insured
+12 employer denies liability for the claim, the claimant may request an
+13 expedited hearing on the issue of compensability if the application is filed
+14 within forty-five days after the date of mailing SERVICE of the notice of
+15 contest. The director shall set any such expedited matter for hearing
+16 within forty days after the date of the application, when the issue is
+17 liability for the disease or injury. The time schedule for such an expedited
+18 hearing is subject to the extensions set forth in section 8-43-209. If a
+19 claimant elects not to request an expedited hearing pursuant to this
+20 paragraph (a) SUBSECTION (2)(a), the time schedule for hearing the matter
+21 shall be IS as set forth in section 8-43-209. Compensation shall be paid at
+22 least once every two weeks, except where the director determines that
+23 payment in installments should be made at some other interval. The
+24 director may by rule convert monthly benefit schedules to weekly or other
+25 periodic schedules.
+26 SECTION 4. In Colorado Revised Statutes, 8-42-107.2, amend
+27 (2)(a)(I) introductory portion, (2)(a)(I)(A), (2)(b), (3)(a), (3)(b), and (4)(c)
+-3- 186
+
+1 as follows:
+2 8-42-107.2. Selection of independent medical examiner -
+3 procedure - time - allocation of costs - disclosures regarding
+4 physician relationships with insurers, self-insured employers, or
+5 claimants - rules - applicability.
+6 (2) (a) (I) Except as otherwise provided in subparagraph (II) of
+7 this paragraph (a) SUBSECTION (2)(a)(II) OF THIS SECTION, the time for
+8 selection of an IME commences as follows, depending on which party
+9 initiates the dispute:
+10 (A) For the claimant, the time for selection of an IME commences
+11 with the date of mailing SERVICE of a final admission of liability by the
+12 insurer or self-insured employer that includes an impairment rating issued
+13 in accordance with section 8-42-107.
+14 (b) If any party disputes a finding or determination of the
+15 authorized treating physician, such THE party shall request the selection
+16 of an IME. The requesting party shall notify all other parties in writing of
+17 the request, on a form prescribed by the division by rule, and shall
+18 propose one or more acceptable candidates for the purpose of entering
+19 into negotiations for the selection of an IME. Such THE notice and
+20 proposal is effective upon mailing via United States mail, first-class
+21 postage paid, addressed SERVICE to the division and to the last-known
+22 address of each of the other parties. Unless such THE notice and proposal
+23 are given within thirty days after the date of mailing SERVICE of the final
+24 admission of liability or the date of mailing or delivery SERVICE of the
+25 disputed finding or determination, as applicable pursuant to paragraph (a)
+26 of this subsection (2) SUBSECTION (2)(a) OF THIS SECTION, the authorized
+27 treating physician's findings and determinations shall be ARE binding on
+-4- 186
+
+1 all parties and on the division.
+2 (3) (a) (I) Upon receiving the requesting party's notice and
+3 proposal pursuant to subsection (2) of this section, the other parties have
+4 until the end of the thirtieth day after the date of mailing of such SERVICE
+5 OF THE notice and proposal within which to negotiate and select an IME.
+6 If the parties agree on an IME on or before such THE thirtieth day, the
+7 requesting party shall promptly notify the IME in writing that he or she
+8 THE IME has been selected. If, within such time, the parties are unable to
+9 agree or the requesting party receives no DOES NOT RECEIVE A response
+10 to the notice and proposal, the insurer or self-insured employer shall give
+11 written notice of such THE fact to the division within thirty days. via
+12 United States mail, first-class postage paid.
+13 (II) The division shall then, within ten days after receiving such
+14 written notice, select three physicians by a revolving selection process
+15 established by the division from the list of physicians maintained by the
+16 division. The division shall administer the list in such fashion as to ensure
+17 A FASHION THAT ENSURES that the names of candidates to serve as IME
+18 in each pending case remain confidential until the IME is selected. The
+19 director of the division shall promulgate ADOPT rules to implement the
+20 process of selecting a panel of three physicians from which the parties
+21 may select a physician to conduct a division independent medical
+22 examination. The selection of a physician panel shall MUST be based on
+23 various factors, including, but not limited to, the designation by rule of
+24 the fields of specialization authorized to perform independent medical
+25 examinations for conditions listed under each medical treatment guideline
+26 and measures to prevent the over-utilization of physicians or specialists.
+27 (III) The requesting party shall have BE GIVEN the opportunity to
+-5- 186
+
+1 strike one of the three physicians from the list, followed by the opposing
+2 party who shall then be given the opportunity to strike one physician from
+3 the list. The remaining IME physician shall be designated by the division
+4 to conduct the IME. If one or neither party strikes a physician from the
+5 list, the division shall select the physician to conduct the IME from the
+6 remaining physicians on the list.
+7 (b) Upon selection of the IME, the insurance carrier shall provide
+8 to the IME and all other parties a copy of all medical records in its
+9 possession relevant to the subject injury postmarked or hand-delivered
+10 within fourteen days prior to the independent medical examination. If the
+11 insurance carrier or its representative fails to timely submit such THE
+12 medical records, the claimant may request that the division cancel the
+13 independent medical examination or the claimant may submit copies of
+14 all medical records relevant to the subject injury that the claimant has
+15 available within ten days prior to the independent medical examination,
+16 or as otherwise arranged by the division with the IME. If the claimant
+17 submits medical records, the defaulting party may supplement such THE
+18 records pursuant to rules of the division. This subsection (3)(b) shall not
+19 be construed to prohibit an independent medical examination from being
+20 rescheduled.
+21 (4) (c) Within twenty days after the date of the mailing SERVICE
+22 of the division's notice that it has received the IME's report, the insurer or
+23 self-insured employer shall either file its admission of liability pursuant
+24 to section 8-43-203 or request a hearing before the division contesting
+25 one or more of the IME's findings or determinations contained in such
+26 THE report.
+27 SECTION 5. In Colorado Revised Statutes, 8-43-103, amend (1)
+-6- 186
+
+1 as follows:
+2 8-43-103. Notice of injury - time limit.
+3 (1) Notice of an injury, for which compensation and benefits are
+4 payable, shall be given by the employer to the division and insurance
+5 carrier, unless the employer is self-insured, within ten days after the
+6 injury, and, in case of the death of any employee resulting from any such
+7 injury or any accident in which three or more employees are injured, the
+8 employer shall give immediate notice thereof OF DEATH OR INJURY to the
+9 director. If no such notice is NOT given by the employer, as required by
+10 articles 40 to 47 of this title, such TITLE 8, notice may be given by any
+11 person. Any notice required to be filed by an injured employee or, if
+12 deceased, by said THE employee's dependents may be made and filed by
+13 anyone on behalf of such THE claimant and shall be considered as done
+14 by such THE claimant if not specifically disclaimed or objected to by such
+15 THE claimant in writing filed with the division within a reasonable time.
+16 Such THE notice shall MUST be in writing and upon forms prescribed by
+17 the division for that purpose and served upon the division. by delivering
+18 to, or by mailing by registered mail two copies thereof addressed to, the
+19 division at its office in Denver, Colorado. Upon receipt of such THE
+20 notice from a claimant, the division shall immediately mail one SERVE A
+21 copy thereof to said TO THE employer or said THE employer's agent or
+22 insurance carrier.
+23 SECTION 6. In Colorado Revised Statutes, 8-43-104, amend (1)
+24 as follows:
+25 8-43-104. Electronic filings - rules.
+26 (1) The rejection for technical errors by the division of any
+27 document, form, or notice that is filed electronically shall DOES not affect
+-7- 186
+
+1 the validity of the notice to the claimant or any other party; EXCEPT THAT
+2 SUCH REJECTION MAY RESULT IN A FINDING THAT THERE WAS NOT PROPER
+3 SERVICE TO THE DIVISION, OTHER PARTIES, OR BOTH.
+4 SECTION 7. In Colorado Revised Statutes, 8-43-203, amend
+5 (1)(a), (2)(a), (2)(b)(II)(A), (3) introductory portion, (3)(d)(VI),
+6 (3)(d)(VII), and (4) as follows:
+7 8-43-203. Notice concerning liability - notice to claimants -
+8 notice of rights and claims process - rules.
+9 (1) (a) The employer or, if insured, the employer's insurance
+10 carrier shall notify in writing the division and the injured employee or, if
+11 deceased, the decedent's dependents within twenty days after a report is,
+12 or should have been, filed with the division pursuant to section 8-43-101,
+13 whether liability is admitted or contested; except that, for the purpose of
+14 this section, any knowledge on the part of the employer, if insured, is not
+15 knowledge on the part of the insurance carrier. The employer or the
+16 employer's insurance carrier may notify the division electronically. Unless
+17 exempted by the director pursuant to rule because of a small number of
+18 filings or a showing of financial hardship, beginning July 1, 2006, all
+19 notices of contest shall be filed electronically. The rejection of an
+20 electronically filed notice by the division for a technical error shall DOES
+21 not affect the validity of the notice to the claimant, BUT WILL NOT BE
+22 CONSIDERED PROPER SERVICE TO THE DIVISION. If the insurance carrier or
+23 self-insured employer denies liability for the claim, the claimant may
+24 request an expedited hearing on the issue of compensability if the
+25 application therefor FOR AN EXPEDITED HEARING is filed within forty-five
+26 days after the date of mailing SERVICE of the notice of contest. The
+27 director shall set any such expedited matter for hearing within sixty days
+-8- 186
+
+1 after the date of the application, when the issue is liability for the disease
+2 or injury. The time schedule for such an expedited hearing is subject to
+3 the extensions set forth in section 8-43-209. If a claimant elects not to
+4 request an expedited hearing pursuant to this subsection (1), the time
+5 schedule for hearing the matter shall be IS as set forth in section 8-43-209.
+6 (2) (a) If such notice is not filed as provided in subsection (1) of
+7 this section, the employer or, if insured, the employer's insurance carrier,
+8 as the case may be, may become liable to the claimant, if the claimant is
+9 successful on the claim for compensation, for up to one day's
+10 compensation for each day's failure to so notify; except that the employer
+11 or, if insured, the employer's insurance carrier shall not be liable for more
+12 than the aggregate amount of three hundred sixty-five days' compensation
+13 for failure to timely admit or deny liability. Fifty percent of any penalty
+14 paid pursuant to this subsection (2) shall be paid to the subsequent injury
+15 COLORADO UNINSURED EMPLOYER fund, created in section 8-46-101
+16 SECTION 8-67-105, and fifty percent to the claimant.
+17 (b) (II) (A) An admission of liability for final payment of
+18 compensation must include a statement that this is the final admission by
+19 the workers' compensation insurance carrier in the case, that the claimant
+20 may contest this admission if the claimant feels entitled to more
+21 compensation, to whom the claimant should provide written objection,
+22 and notice to the claimant that the case will be automatically closed as to
+23 the issues admitted in the final admission if the claimant does not, within
+24 thirty days after the date of the final admission, contest the final
+25 admission in writing and request a hearing on any disputed issues that are
+26 ripe for hearing, including the selection of an independent medical
+27 examiner pursuant to section 8-42-107.2 if an independent medical
+-9- 186
+
+1 examination has not already been conducted. If an independent medical
+2 examination is requested pursuant to section 8-42-107.2, the claimant is
+3 not required to file a request for hearing on disputed issues that are ripe
+4 for hearing until the division's independent medical examination process
+5 is terminated for any reason. Any issue for which a hearing or an
+6 application for a hearing is pending at the time that the final admission of
+7 liability is filed shall proceed to the hearing without the need for the
+8 applicant to refile an application for hearing on the issue. This
+9 information must also be included in the admission of liability for final
+10 payment of compensation. The respondents have twenty days after the
+11 date of mailing SERVICE of the notice from the division of the receipt of
+12 the IME's report to file an admission or to file an application for hearing.
+13 The claimant has thirty days after the date respondents file the admission
+14 or application for hearing to file an application for hearing, or a response
+15 to the respondents' application for hearing, as applicable, on any disputed
+16 issues that are ripe for hearing. The revised final admission, if any, must
+17 contain the statement required by this subparagraph (II) SUBSECTION
+18 (2)(b)(II), and the provisions relating to contesting the revised final
+19 admission apply. When the final admission is predicated upon medical
+20 reports, the reports must accompany the final admission.
+21 (3) In addition to any other notice required by this section, at the
+22 time that the employer or, if insured, the employer's insurance carrier
+23 provides the notice required by subsection (1) of this section, the
+24 employer or insurance carrier shall provide to the claimant a brochure
+25 written in easily understood language, in a form developed by the director
+26 after consultation with employers, insurance carriers, and representatives
+27 of injured workers, describing the claims process and informing the
+-10- 186
+
+1 claimant of the claimant's rights. If the claimant has previously authorized
+2 the employer or, if insured, the employer's insurance carrier to
+3 communicate with the claimant through electronic transmission, the
+4 brochure may be sent to the claimant electronically. The brochure shall
+5 MUST, at a minimum, contain the following information:
+6 (d) A description of how the claims process works, including:
+7 (VI) The claimant's right to object to and request a hearing on any
+8 final admission of liability within thirty days after the mailing SERVICE of
+9 the admission in order to retain certain rights;
+10 (VII) The claimant's right to challenge a finding of an impairment
+11 rating or maximum medical improvement in a final admission of liability
+12 within thirty days after the mailing SERVICE of the admission in order to
+13 retain certain rights;
+14 (4) Within fifteen days after the mailing SERVICE of a written
+15 SUBMISSION OR request for a copy of the claim file, the employer or, if
+16 insured, the employer's insurance carrier or third-party administrator shall
+17 provide to the claimant or his or her THE CLAIMANT'S representative a
+18 complete copy of the claim file that includes all medical records,
+19 pleadings, correspondence, investigation files, investigation reports,
+20 witness statements, information addressing designation of the authorized
+21 treating physician, and wage and fringe benefit information for the twelve
+22 months leading up to the date of injury and thereafter, regardless of the
+23 format. If a privilege or other protection is claimed for any materials, the
+24 materials must be detailed in an accompanying privilege log.
+25 SECTION 8. In Colorado Revised Statutes, 8-43-204, amend
+26 (8)(a) and (8)(c) as follows:
+27 8-43-204. Settlements - rules.
+-11- 186
+
+1 (8) The director shall adopt rules as necessary to implement the
+2 procedure to review and approve settlement documents. At a minimum,
+3 the rules must:
+4 (a) Allow a represented claimant to submit settlement documents
+5 for approval by electronic mail ELECTRONICALLY;
+6 (c) Require the division to electronically mail to SERVE counsel of
+7 record, or to the insurance carrier or self-insured employer if not
+8 represented, WITH a copy of the division's order approving the settlement
+9 agreement of the parties.
+10 SECTION 9. In Colorado Revised Statutes, 8-43-207, amend (1)
+11 introductory portion, (1)(e), (1)(f), and (1)(i) as follows:
+12 8-43-207. Hearings.
+13 (1) Hearings shall be held to determine any controversy
+14 concerning any issue arising under articles 40 to 47 of this title TITLE 8.
+15 In connection with hearings, the director and administrative law judges
+16 are empowered to:
+17 (e) Upon written motion and for good cause shown, permit parties
+18 to engage in discovery; except that permission need not be sought if each
+19 party is represented by an attorney. The director or administrative law
+20 judge may rule on discovery matters and impose the sanctions provided
+21 in the rules of civil procedure in the district courts for willful failure to
+22 comply with permitted discovery.
+23 (f) Upon written motion and for good cause shown, conduct
+24 prehearing conferences for the settlement or simplification of issues;
+25 (i) Upon written motion and for good cause shown, grant
+26 reasonable extensions of time for the taking of any action contained in
+27 this article ARTICLE 43;
+-12- 186
+
+1 SECTION 10. In Colorado Revised Statutes, 8-43-211, amend
+2 (1) introductory portion as follows:
+3 8-43-211. Notice - request for hearing.
+4 (1) At least thirty days before any hearing, the office of
+5 administrative courts in the department of personnel shall send written
+6 notice to all parties by regular or electronic mail. or by facsimile. The
+7 notice must:
+8 SECTION 11. In Colorado Revised Statutes, 8-43-215, amend
+9 (1) as follows:
+10 8-43-215. Orders.
+11 (1) No more than fifteen working days after the conclusion of a
+12 hearing, the administrative law judge or director shall issue a written
+13 order allowing or denying the claim. The written order must either be a
+14 summary order or a full order. A full order must contain specific findings
+15 of fact and conclusions of law. If compensation benefits are granted, the
+16 written order must specify the amounts thereof OF THE COMPENSATION
+17 BENEFITS, the disability for which compensation benefits are granted, by
+18 whom and to whom such benefits are to be paid, and the method and time
+19 of the payments. A certificate of mailing SERVICE and a copy of the
+20 written order shall be served by regular or electronic mail or by facsimile
+21 to UPON each of the parties in interest or their representatives, the original
+22 of which is a part of the records in the case. If an administrative law judge
+23 has issued a summary order, a party dissatisfied with the order may make
+24 a written request for a full order within ten working days after the date of
+25 mailing SERVICE of the summary order. The request is a prerequisite to
+26 review under section 8-43-301. If a request for a full order is made, the
+27 administrative law judge has ten working days after receipt of the request
+-13- 186
+
+1 to issue the order. A full order shall be entered as the final award of the
+2 administrative law judge or director subject to review as provided in this
+3 article ARTICLE 43.
+4 SECTION 12. In Colorado Revised Statutes, 8-43-301, amend
+5 (2)(a)(I), (2)(b), (6), and (10) as follows:
+6 8-43-301. Petitions to review.
+7 (2) (a) (I) If a party is dissatisfied with an order that determines
+8 compensability of a claim or liability of any party, that requires any party
+9 to pay a penalty or benefits, or that denies a claimant any benefit or
+10 penalty, the party may file a petition to review the order. If the order was
+11 entered by the director, the party must file the petition with the division.
+12 If the order was entered by an administrative law judge, the party must
+13 file the petition at the Denver office of the office of administrative courts
+14 in the department of personnel. The party must serve the petition to
+15 review by regular or electronic mail on all the parties.
+16 (b) A dissatisfied party may file the petition to review, by regular
+17 or electronic mail, and the petition is deemed filed upon the date of
+18 mailing SERVICE, as determined by the certificate of mailing SERVICE, if
+19 the certificate of mailing SERVICE indicates that the petition to review was
+20 mailed to SERVED ON the division or to the Denver office of the office of
+21 administrative courts in the department of personnel, as appropriate. The
+22 petition to review must be in writing and must set forth in detail the
+23 particular errors and objections of the petitioner. A petitioner must, at the
+24 time of filing the petition, order any transcript relied upon for the petition
+25 to review, arrange with the hearing reporter to pay for the transcript, and
+26 notify opposing parties of the transcript ordered. Opposing parties must
+27 order any other transcript not ordered by the petitioner and arrange with
+-14- 186
+
+1 the hearing reporter to pay for the other transcript within twenty days after
+2 the date of the certificate of mailing SERVICE of the petition to review the
+3 order.
+4 (6) A party dissatisfied with a supplemental order may file a
+5 petition for review by the panel. The petition shall be filed with the
+6 division if the supplemental order was issued by the director or at the
+7 Denver office of the office of administrative courts in the department of
+8 personnel if the supplemental order was issued by an administrative law
+9 judge. The petition shall be filed within twenty days after the date of the
+10 certificate of mailing SERVICE of the supplemental order. The petition
+11 shall MUST be in writing, shall set forth in detail the particular errors and
+12 objections relied upon, and shall be accompanied by a brief in support
+13 thereof OF THE PETITION. The petition and brief shall be mailed SERVED
+14 by petitioner to all other parties at the time the petition is filed. All
+15 parties, except the petitioner, shall be deemed opposing parties and shall
+16 have twenty days after the date of the certificate of mailing SERVICE of the
+17 petition and brief to file with the division or the Denver office of the
+18 office of administrative courts, as appropriate, briefs in opposition to the
+19 petition.
+20 (10) The panel's order must be mailed to SERVED ON all parties of
+21 record. Any party dissatisfied with the panel's order has twenty-one days
+22 after the date of the certificate of mailing SERVICE of such THE order to
+23 commence an action for judicial review in the court of appeals.
+24 SECTION 13. In Colorado Revised Statutes, 8-43-302, amend
+25 (2) as follows:
+26 8-43-302. Corrected orders.
+27 (2) Any order corrected for clerical error, mistake, or inadvertence
+-15- 186
+
+1 shall be labeled "corrected order" and mailed SERVED by the division.
+2 Any corrected order may be appealed in the manner provided in this
+3 article ARTICLE 43 for any other order.
+4 SECTION 14. In Colorado Revised Statutes, amend 8-43-317 as
+5 follows:
+6 8-43-317. Service of documents.
+7 All documents that are required to be exchanged under articles 40
+8 to 47 of this title TITLE 8 shall be transmitted or served in the same
+9 manner or by the same means to all required recipients ON THE SAME DAY.
+10 SECTION 15. In Colorado Revised Statutes, 8-43-404, amend
+11 as it exists until January 1, 2028, (5)(a)(III)(C) as follows:
+12 8-43-404. Examination - refusal - personal responsibility -
+13 physicians to testify and furnish results - injured worker right to
+14 select treating physician - injured worker right to third-party
+15 communications - rules.
+16 (5) (a) (III) An employee may obtain a one-time change in the
+17 designated authorized treating physician under this section by providing
+18 notice that meets the following requirements:
+19 (C) The notice is directed to the insurance carrier or to the
+20 employer's authorized representative, if self-insured, and to the initially
+21 authorized treating physician and is deposited in the United States mail
+22 or hand-delivered PROVIDED to the employer, who shall notify the
+23 insurance carrier, if necessary, and the initially authorized treating
+24 physician;
+25 SECTION 16. In Colorado Revised Statutes, 8-43-409, amend
+26 (1) introductory portion as follows:
+27 8-43-409. Defaulting employers - investigation - penalties -
+-16- 186
+
+1 enjoined from continuing business - fines - procedure - definition -
+2 repeal.
+3 (1) An employer subject to the terms and provisions of articles 40
+4 to 47 of this title who TITLE 8 THAT fails to insure or to keep the insurance
+5 required by such articles ARTICLES 40 TO 47 OF THIS TITLE 8 in force,
+6 allows the insurance to lapse, or fails to effect a renewal of the insurance
+7 shall not continue business operations while such THE default in effective
+8 insurance continues. Upon receiving information that an employer is in
+9 default of its insurance obligations, the director shall investigate. and, if
+10 the information can be substantiated, shall notify the employer of the
+11 opportunity to request a prehearing conference on the issue of default. As
+12 part of the director's investigation, the director may verify that all
+13 employees of that employer are insured through the employer's workers'
+14 compensation plan. The director may forward any workers' compensation
+15 coverage issue to the employer's workers' compensation carrier for further
+16 investigation by the carrier. Thereafter, if necessary, the director may set
+17 the issue of the employer's default for hearing in accordance with hearing
+18 time schedule and procedures set forth in articles 40 to 47 of this title
+19 TITLE 8 and rules promulgated ADOPTED by the director. Upon a finding
+20 that the employer is in default of its insurance obligations, the director
+21 shall take either or both of the following actions:
+22 SECTION 17. In Colorado Revised Statutes, 8-43-501, amend
+23 (2)(a) as follows:
+24 8-43-501. Utilization review process - legislative declaration -
+25 cash fund - rules.
+26 (2) (a) An insurer, self-insured employer, or claimant may request
+27 a review of services rendered pursuant to this article ARTICLE 8 by a
+-17- 186
+
+1 health-care provider. Requests for utilization review shall be submitted
+2 on forms promulgated ADOPTED by the director by rule. At the time of
+3 submission of a review request, the requester shall pay the division a fee
+4 prescribed by the director by rule. Such THE fee shall MUST cover the
+5 division's administrative costs and the costs of compensating utilization
+6 review committee members. If a claimant is successful in a utilization
+7 review case brought pursuant to this section, the division shall reimburse
+8 the fee charged pursuant to this paragraph (a) SUBSECTION (2)(a) and
+9 assess it against the insurer or self-insured employer. The state treasurer
+10 shall credit fees collected pursuant to this section to the utilization review
+11 cash fund, which fund is hereby created. Moneys MONEY in the
+12 utilization review cash fund are IS continuously appropriated to the
+13 division for the purpose of administering the utilization review program
+14 and may not revert to the general fund at the end of any fiscal year. The
+15 division shall mail PROVIDE to any claimant, insurer, or self-insured
+16 employer a notice that a case is to be reviewed and that the claimant may
+17 be examined as a result of such THE review. The claimant, insurer, or
+18 self-insured employer has thirty days from the date of mailing of such
+19 SERVICE OF THE notice to examine the medical records submitted by the
+20 party who requested the review and may add medical records to the
+21 utilization review file that the party believes may be relevant to the
+22 utilization review. The division shall maintain a special file for utilization
+23 review cases. Such THE file shall be MADE accessible only to interested
+24 parties in a utilization review case and shall not otherwise be open to any
+25 person.
+26 SECTION 18. In Colorado Revised Statutes, 8-46-102, amend
+27 (1)(b) as follows:
+-18- 186
+
+1 8-46-102. Funding for subsequent injury fund, Colorado
+2 uninsured employer fund, and major medical insurance fund.
+3 (1) (b) In the event that the deceased is a minor with no WITHOUT
+4 ANY persons either wholly or partially dependent upon the deceased, the
+5 employer or the employer's insurance carrier, if any, shall pay to the
+6 parents of the deceased the sum of fifteen thousand dollars, not to exceed
+7 one hundred percent of the death benefit. In the event that there are no
+8 NOT surviving parents, the employer or the employer's insurance carrier,
+9 if any, shall pay such THE benefits to the division, to be transmitted to the
+10 state treasurer, as custodian, and credited by the state treasurer to the
+11 subsequent injury COLORADO UNINSURED EMPLOYER fund CREATED IN
+12 SECTION 8-67-105. In the event that there are persons only partially
+13 dependent upon the deceased, the employer or the employer's insurance
+14 carrier, if any, shall first pay such benefits to such THE partially dependent
+15 persons and shall pay the balance to the surviving parents of the deceased,
+16 or in the event that there are no NOT surviving parents, the remaining
+17 balance shall be paid to the division, to be transmitted to the state
+18 treasurer, as custodian, who shall credit the same to the subsequent injury
+19 COLORADO UNINSURED EMPLOYER fund CREATED IN SECTION 8-67-105.
+20 SECTION 19. Act subject to petition - effective date. This act
+21 takes effect at 12:01 a.m. on the day following the expiration of the
+22 ninety-day period after final adjournment of the general assembly (August
+23 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+24 referendum petition is filed pursuant to section 1 (3) of article V of the
+25 state constitution against this act or an item, section, or part of this act
+26 within such period, then the act, item, section, or part will not take effect
+27 unless approved by the people at the general election to be held in
+-19- 186
+
+1 November 2026 and, in such case, will take effect on the date of the
+2 official declaration of the vote thereon by the governor.
+-20- 186

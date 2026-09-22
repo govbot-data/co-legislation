@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0537.01 Christopher McMichael x4775 HOUSE BILL 26-1129
+HOUSE SPONSORSHIP
+Barron and Flanell,
+SENATE SPONSORSHIP
+Kirkmeyer and Pelton B.,
+House Committees Senate Committees
+Energy & Environment
+A BILL FOR AN ACT
+101 CONCERNING GAS UTILITY SERVICE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires a gas distribution utility (utility) to exempt carbon
+dioxide emissions resulting from the combustion of gas by residential
+customers from the utility's clean heat plan filed with the public utilities
+commission (commission). A utility must exclude residential carbon
+dioxide emissions from the baseline and projected emissions calculations
+used in the utility's clean heat plan.
+If a utility has already submitted a clean heat plan to the
+commission prior to the effective date of the bill, the utility may submit
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+a revised clean heat plan to the commission that excludes residential
+carbon dioxide emissions from the utility's baseline and projected
+emissions calculations. The bill requires the commission to adopt rules
+that allow a utility to submit a revised clean heat plan.
+The bill permits a utility to recover costs related to a system safety
+and integrity project, which is defined as a certain type of project that
+improves the safety or integrity of the gas distribution system.
+The bill repeals a prohibition on a gas utility providing incentives
+to customers for establishing gas service to a property.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 40-3.2-108, amend
+3 (3)(c)(I)(B), (10)(a), and (11); and add (2)(q.5), (3)(g), (4)(i), (5)(c),
+4 (5)(d), (5)(e), and (12) as follows:
+5 40-3.2-108. Clean heat targets - legislative declaration -
+6 exclusion of residential sector - revised clean heat plans - system
+7 safety and integrity projects - definitions - plans - rules - reports.
+8 (2) Definitions. As used in this section, unless the context
+9 otherwise requires:
+10 (q.5) "SYSTEM SAFETY AND INTEGRITY PROJECT" MEANS A
+11 PROJECT CONDUCTED BY A GAS DISTRIBUTION UTILITY THAT IMPROVES OR
+12 UPGRADES THE SAFETY OR INTEGRITY OF THE GAS DISTRIBUTION SYSTEM,
+13 INCLUDING:
+14 (I) PIPELINE AND STORAGE INTEGRITY MANAGEMENT PROGRAMS;
+15 (II) EXPOSED PIPE INSPECTION AND REMEDIATION;
+16 (III) PIPE OR COMPRESSOR STATION UPGRADES;
+17 (IV) PROJECTS UNDERTAKEN TO MEET THE UNITED STATES
+18 DEPARTMENT OF TRANSPORTATION PIPELINE AND HAZARDOUS MATERIALS
+19 SAFETY ADMINISTRATION REQUIREMENTS; AND
+20 (V) SUPERVISORY CONTROL AND DATA ACQUISITION UPGRADES.
+-2- HB26-1129
+
+1 (3) Clean heat targets.
+2 (c) (I) In calculating the baseline and projected emissions covered
+3 under a clean heat plan, a gas distribution utility must include the
+4 following:
+5 (B) Carbon dioxide emissions resulting from the combustion of
+6 gas by residential, commercial and industrial customers not otherwise
+7 subject to federal greenhouse gas emission reporting and excluding all
+8 transport customers; and
+9 (g) (I) A GAS DISTRIBUTION UTILITY SHALL NOT INCLUDE CARBON
+10 DIOXIDE EMISSIONS RESULTING FROM THE COMBUSTION OF GAS BY
+11 RESIDENTIAL CUSTOMERS AS PART OF THE GAS DISTRIBUTION UTILITY'S
+12 CLEAN HEAT PLAN.
+13 (II) A GAS DISTRIBUTION UTILITY SHALL EXCLUDE CARBON
+14 DIOXIDE EMISSIONS RESULTING FROM THE COMBUSTION OF GAS BY
+15 RESIDENTIAL CUSTOMERS IN CALCULATING THE UTILITY'S BASELINE AND
+16 PROJECTED EMISSIONS COVERED UNDER A CLEAN HEAT PLAN.
+17 (4) Submission of clean heat plans - revised clean heat plans.
+18 (i) (I) A GAS DISTRIBUTION UTILITY THAT HAS SUBMITTED A CLEAN
+19 HEAT PLAN PURSUANT TO THIS SECTION PRIOR TO THE EFFECTIVE DATE OF
+20 THIS SUBSECTION (4)(i) THAT RELIES ON A CALCULATION OF BASELINE AND
+21 PROJECTED EMISSIONS THAT INCLUDES CARBON DIOXIDE EMISSIONS
+22 RESULTING FROM THE COMBUSTION OF GAS BY RESIDENTIAL CUSTOMERS
+23 MAY REVISE ITS CLEAN HEAT PLAN WITH CALCULATIONS THAT EXCLUDE
+24 CARBON DIOXIDE EMISSIONS RESULTING FROM THE COMBUSTION OF GAS
+25 BY RESIDENTIAL CUSTOMERS.
+26 (II) A GAS DISTRIBUTION UTILITY THAT SUBMITS A REVISED CLEAN
+27 HEAT PLAN IN ACCORDANCE WITH THIS SUBSECTION (4)(i) MUST SUBMIT
+-3- HB26-1129
+
+1 ITS REVISED PLAN ON OR BEFORE DECEMBER 31, 2027, OR WITHIN TWO
+2 YEARS AFTER THE UTILITY SUBMITS ITS ORIGINAL CLEAN HEAT PLAN,
+3 WHICHEVER DATE IS LATER.
+4 (III) IF A GAS DISTRIBUTION UTILITY HAS NOT SUBMITTED A CLEAN
+5 HEAT PLAN ON OR BEFORE DECEMBER 31, 2027, THE GAS DISTRIBUTION
+6 UTILITY SHALL SUBMIT ITS INITIAL CLEAN HEAT PLAN AND EXCLUDE
+7 CARBON DIOXIDE EMISSIONS RESULTING FROM THE COMBUSTION OF GAS
+8 BY RESIDENTIAL CUSTOMERS IN ITS CALCULATION OF BASELINE AND
+9 PROJECTED EMISSIONS.
+10 (IV) A GAS DISTRIBUTION UTILITY SHALL EXCLUDE CARBON
+11 DIOXIDE EMISSIONS RESULTING FROM THE COMBUSTION OF GAS BY
+12 RESIDENTIAL CUSTOMERS IN ITS CALCULATION OF BASELINE AND
+13 PROJECTED EMISSIONS FOR ANY SUBSEQUENT CLEAN HEAT PLANS OR
+14 UPDATES TO CLEAN HEAT PLANS THAT MAY BE REQUIRED PURSUANT TO
+15 THIS SECTION.
+16 (5) Commission rules.
+17 (c) ON OR BEFORE DECEMBER 31, 2026, THE COMMISSION SHALL
+18 ADOPT RULES THAT ALLOW A GAS DISTRIBUTION UTILITY TO SUBMIT A
+19 REVISED CLEAN HEAT PLAN THAT EXCLUDES CARBON DIOXIDE EMISSIONS
+20 RESULTING FROM THE COMBUSTION OF GAS BY RESIDENTIAL CUSTOMERS
+21 IN THE UTILITY'S CALCULATION OF BASELINE AND PROJECTED EMISSIONS
+22 IN ACCORDANCE WITH THIS SECTION.
+23 (d) THE COMMISSION SHALL NOT ADOPT ANY RULE THAT
+24 PROHIBITS, OR EFFECTIVELY PROHIBITS, A GAS DISTRIBUTION UTILITY
+25 FROM INSTALLING, MAINTAINING, OR UPGRADING GAS UTILITY
+26 INFRASTRUCTURE SERVICE TO A RESIDENTIAL PROPERTY.
+27 (e) THE COMMISSION SHALL ADOPT ANY RULES NECESSARY FOR A
+-4- HB26-1129
+
+1 GAS DISTRIBUTION UTILITY TO RECOVER SYSTEM SAFETY AND INTEGRITY
+2 PROJECT COSTS IN ACCORDANCE WITH SUBSECTION (12) OF THIS SECTION.
+3 (10) No later than December 1, 2025, the commission, in
+4 consultation with the division, shall determine mass-based greenhouse
+5 gas emission reduction targets for clean heat plans for 2035. In
+6 establishing these targets, the commission shall:
+7 (a) Ensure that gas distribution utilities' greenhouse gas emissions
+8 will be in line with the residential, commercial and industrial sectors'
+9 contribution to statewide greenhouse gas pollution; and
+10 (11) No later than December 1, 2032, the commission, in
+11 consultation with the division, shall determine the mass-based greenhouse
+12 gas emission reduction goals for clean heat plans for 2040, 2045, and
+13 2050 using a 2015 baseline that, at minimum, ensure that gas distribution
+14 utilities' greenhouse gas emission reductions will be proportionate to the
+15 residential, commercial and industrial sectors' contribution to the
+16 greenhouse gas emission reduction goals, excluding transportation gas
+17 service customers or customers that report their own greenhouse gas
+18 emissions to the federal environmental protection agency under
+19 applicable federal law, including 40 CFR 98, subpart NN. In determining
+20 these goals, the commission shall consider savings achieved or projected
+21 to be achieved in other sectors of the state's economy, as well as the
+22 commercial availability of technologies to achieve emission reductions
+23 in this sector.
+24 (12) System safety and integrity projects - cost recovery.
+25 (a) A GAS DISTRIBUTION UTILITY THAT IS REGULATED BY THE
+26 COMMISSION SHALL BE PERMITTED TO RECOVER ALL PROJECTED SYSTEM
+27 SAFETY AND INTEGRITY PROJECT COSTS ANNUALLY.
+-5- HB26-1129
+
+1 (b) THE COMMISSION SHALL APPROVE THE RECOVERY OF
+2 PROJECTED SYSTEM SAFETY AND INTEGRITY PROJECT COSTS THROUGH AN
+3 ANNUAL RATE ADJUSTMENT CLAUSE OR A SEPARATE RATE ADJUSTMENT
+4 CLAUSE, INCLUDING A RETURN BASED ON THE GAS DISTRIBUTION UTILITY'S
+5 MOST RECENTLY APPROVED WEIGHTED AVERAGE COST OF CAPITAL THAT
+6 IS EFFECTIVE JANUARY 1 OF EACH YEAR.
+7 SECTION 2. In Colorado Revised Statutes, 40-3.2-104.3, repeal
+8 (1)(d) and (2)(a) as follows:
+9 40-3.2-104.3. Options for high-efficiency electric heating -
+10 exemptions - definitions.
+11 (1) As used in this section, unless the context otherwise requires:
+12 (d) "Line extension allowance" means a bundle of costs that
+13 includes construction allowances for new service lines, meters, and other
+14 infrastructure associated with the addition of a new customer to a gas
+15 utility's distribution system.
+16 (2) (a) A gas utility shall not provide an applicant an incentive,
+17 including a line extension allowance, to establish gas service to a
+18 property.
+19 SECTION 3. Act subject to petition - effective date. This act
+20 takes effect at 12:01 a.m. on the day following the expiration of the
+21 ninety-day period after final adjournment of the general assembly (August
+22 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+23 referendum petition is filed pursuant to section 1 (3) of article V of the
+24 state constitution against this act or an item, section, or part of this act
+25 within such period, then the act, item, section, or part will not take effect
+26 unless approved by the people at the general election to be held in
+-6- HB26-1129
+
+1 November 2026 and, in such case, will take effect on the date of the
+2 official declaration of the vote thereon by the governor.
+-7- HB26-1129

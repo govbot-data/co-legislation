@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0722.01 Eden Rolland x2373 SENATE BILL 26-162
+Senate Committees House Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING RELEASING HEALTH-CARE TEST RESULTS TO PATIENTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Beginning July 1, 2027, the bill prohibits the immediate release of
+a patient's sensitive test results to the patient's electronic health record or
+through a patient portal. Instead, the bill requires that sensitive test
+results, once they are finalized, not be released as part of the patient's
+electronic health record or through a patient portal for 3 business days.
+The bill establishes 2 exceptions to this requirement: Sensitive test
+results may be immediately released as part of the patient's electronic
+health record or through a patient portal if the patient's health-care
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,92
+lirpA
+6202
+,82
+lirpA
+SENATE SPONSORSHIP
+Frizell and Mullica, Amabile, Benavidez, Bright, Coleman, Exum, Kirkmeyer, Pelton B.,
+Rich, Roberts, Simpson, Snyder
+HOUSE SPONSORSHIP
+Hartsook and Hamrick,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+provider authorizes immediate release of the results or if the patient
+requests to receive the sensitive test results of a particular test without
+delay.
+The bill defines "sensitive test results" as:
+! A pathology or radiology report that is ordered for the
+purpose of diagnosing or monitoring a patient for cancer;
+or
+! Test results that may reveal a genetic marker that relates to
+a cancer condition.
+The bill specifies that a custodian of a patient's electronic health
+record that contains sensitive test results is responsible for implementing
+the requirements of the bill. A person that fails to comply with the
+requirements of the bill is not subject to civil, criminal, or administrative
+liability or professional disciplinary action.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add 12-30-126 as
+3 follows:
+4 12-30-126. Sensitive test results protection act - prohibition
+5 against early release - exception - short title - legislative declaration
+6 - definitions.
+7 (1) Short title. THE SHORT TITLE OF THIS SECTION IS THE
+8 "SENSITIVE TEST RESULTS PROTECTION ACT".
+9 (2) Legislative declaration.
+10 (a) THE GENERAL ASSEMBLY FINDS THAT:
+11 (I) THE FEDERAL "21ST CENTURY CURES ACT", PUB.L. 114-255,
+12 130 STAT. 1033, ESTABLISHES STANDARDS AND REQUIREMENTS FOR
+13 PROVIDING PATIENTS WITH ACCESS TO THEIR ELECTRONIC HEALTH
+14 INFORMATION. THE FEDERAL ACT ALSO STATES THAT INFORMATION
+15 BLOCKING BY HEALTH-CARE PROVIDERS, INCLUDING PHYSICIANS, IS A
+16 PRACTICE THAT IS LIKELY TO INTERFERE WITH, PREVENT, OR MATERIALLY
+17 DISCOURAGE THE ACCESS, EXCHANGE, OR USE OF ELECTRONIC HEALTH
+-2- 162
+
+1 INFORMATION.
+2 (II) THE FEDERAL ACT ALLOWS STATES TO ESTABLISH EXCEPTIONS
+3 TO THE FEDERAL ACT'S REQUIREMENTS;
+4 (III) REGULATIONS IMPLEMENTING THE FEDERAL ACT REQUIRE THE
+5 ELECTRONIC RELEASE OF ALL TEST RESULTS TO PATIENTS IMMEDIATELY,
+6 BEFORE PATIENTS HAVE AN OPPORTUNITY TO TALK WITH THEIR PHYSICIAN
+7 OR HEALTH-CARE PROVIDER ABOUT THE TEST RESULTS. THIS
+8 REQUIREMENT CAN POTENTIALLY LEAD TO PATIENT CONFUSION AND
+9 PROLONGED OR UNNECESSARY CONCERN ABOUT THE TEST RESULTS.
+10 (IV) PATIENTS HAVE A FUNDAMENTAL RIGHT TO ACCESS THEIR
+11 OWN HEALTH INFORMATION. HOWEVER, FEDERAL REGULATIONS DO NOT
+12 CONTEMPLATE A BRIEF AND PURPOSEFUL DELAY IN THE RELEASE OF TEST
+13 RESULTS TO AFFORD A PATIENT'S PHYSICIAN OR HEALTH-CARE PROVIDER
+14 AN OPPORTUNITY TO ACCOMMODATE THE PATIENT'S PREFERENCES OR
+15 CONTACT THE PATIENT ABOUT SENSITIVE TEST RESULTS.
+16 (V) RULES AND STANDARDS CONCERNING COMMUNICATING WITH
+17 PATIENTS SHOULD REFLECT THE COMPLEXITIES AND CONSEQUENCES OF
+18 RELEASING SENSITIVE TEST RESULTS TO PATIENTS. THIS IS ESPECIALLY THE
+19 CASE WHEN COMMUNICATING WITH A PATIENT ABOUT SENSITIVE TEST
+20 RESULTS OR WHEN A PATIENT'S UNDERSTANDING OF SENSITIVE TEST
+21 RESULTS MAY BENEFIT FROM A PHYSICIAN'S OR HEALTH-CARE PROVIDER'S
+22 REVIEW OF THE RESULTS BEFORE THE RESULTS ARE RELEASED AND MADE
+23 AVAILABLE TO THE PATIENT AS PART OF THE PATIENT'S ELECTRONIC
+24 HEALTH RECORD OR THROUGH A PATIENT PORTAL.
+25 (VI) IF A RADIOLOGIC TEST, GENETIC MARKER TEST, OR
+26 PATHOLOGIC EXAM REPORT REVEALS RESULTS THAT ARE LIKELY TO BE
+27 DISTRESSING TO OR UNEXPECTED BY THE PATIENT, THE PHYSICIAN OR
+-3- 162
+
+1 HEALTH-CARE PROVIDER WHO ORDERED THE TEST OR EXAM SHOULD HAVE
+2 AN OPPORTUNITY TO REVIEW THE RESULTS BEFORE THE RESULTS ARE
+3 RELEASED AND MADE AVAILABLE TO THE PATIENT AS PART OF THE
+4 PATIENT'S ELECTRONIC HEALTH RECORD OR THROUGH A PATIENT PORTAL.
+5 IN THIS WAY, THE PHYSICIAN OR HEALTH-CARE PROVIDER MAY SHARE THE
+6 RESULTS MORE PERSONALLY WITH THE PATIENT, PROVIDE APPROPRIATE
+7 MEDICAL GUIDANCE AND SUPPORT, ANSWER QUESTIONS ABOUT PROGNOSIS
+8 AND TREATMENT OPTIONS, AND GATHER APPROPRIATE RESOURCES FOR
+9 THE PATIENT.
+10
+11 (b) THE GENERAL ASSEMBLY, THEREFORE, DECLARES THAT
+12 PATIENTS SHOULD BE PROTECTED FROM THE RISK OF MISUNDERSTANDING
+13 SENSITIVE TEST RESULTS WITHOUT THE BENEFIT OF THE REVIEW AND
+14 GUIDANCE OF THE PHYSICIAN OR HEALTH-CARE PROVIDER WHO ORDERED
+15 THE TEST OR EXAM. THERE SHOULD BE AN EXCEPTION TO THE FEDERAL
+16 ACT'S REQUIREMENT THAT SENSITIVE TEST RESULTS BE RELEASED TO A
+17 PATIENT IMMEDIATELY AFTER THE RESULTS ARE FINALIZED REGARDLESS
+18 OF THE SENSITIVITY OF THE TEST RESULTS OR THE PATIENT'S WISHES.
+19 INSTEAD, A PHYSICIAN OR HEALTH-CARE PROVIDER WHO ORDERS A TEST
+20 OR EXAM SHOULD HAVE AN OPPORTUNITY TO REVIEW SENSITIVE TEST
+21 RESULTS BEFORE THEY ARE RELEASED AND MADE AVAILABLE TO THE
+22 PATIENT AS PART OF THE PATIENT'S ELECTRONIC HEALTH RECORD OR
+23 THROUGH A PATIENT PORTAL.
+24 (3) Definitions. AS USED IN THIS SECTION, UNLESS THE CONTEXT
+25 OTHERWISE REQUIRES:
+26
+27 (a) "ELECTRONIC HEALTH RECORD" HAS THE SAME MEANING AS
+-4- 162
+
+1 "QUALIFIED EHR" AS DEFINED IN 45 CFR 170.102.
+2 (b) "FEDERAL ACT" MEANS THE FEDERAL "21ST CENTURY CURES
+3 ACT", PUB.L. 114-255, 130 STAT. 1033.
+4 (c) "PATIENT PORTAL" MEANS A SECURE ONLINE SYSTEM THAT
+5 PROVIDES A PATIENT WITH ELECTRONIC ACCESS TO THEIR PERSONAL
+6 HEALTH INFORMATION AND THAT DIRECTLY LINKS TO AN ELECTRONIC
+7 HEALTH RECORD.
+8 (d) "SENSITIVE TEST RESULT" MEANS:
+9 (I) A PATHOLOGY REPORT OR RADIOLOGY REPORT THAT IS
+10 ORDERED FOR THE PURPOSE OF DIAGNOSING OR MONITORING A PATIENT
+11 FOR CANCER; OR
+12 (II) A TEST RESULT THAT MAY REVEAL A GENETIC MARKER THAT
+13 RELATES TO A CANCER CONDITION.
+14 (4) Prohibition against immediate release of sensitive test
+15 results - exceptions.
+16 (a) BEGINNING JULY 1, 2027, EXCEPT AS PERMITTED UNDER
+17 SUBSECTION (4)(b) OF THIS SECTION, SENSITIVE TEST RESULTS SHALL NOT
+18 BE RELEASED OR BE MADE AVAILABLE TO A PATIENT AS PART OF THE
+19 PATIENT'S ELECTRONIC HEALTH RECORD OR THROUGH A PATIENT PORTAL
+20 EARLIER THAN THREE BUSINESS DAYS AFTER THE SENSITIVE TEST RESULTS
+21 ARE FINALIZED.
+22 (b) SENSITIVE TEST RESULTS MAY BE RELEASED AND BE MADE
+23 AVAILABLE TO A PATIENT AS PART OF THE PATIENT'S ELECTRONIC HEALTH
+24 RECORD OR THROUGH A PATIENT PORTAL IMMEDIATELY AND WITHOUT
+25 DELAY AFTER THE SENSITIVE TEST RESULTS ARE FINALIZED IF THE
+26 PATIENT'S PHYSICIAN OR TREATING HEALTH-CARE PROVIDER AUTHORIZES
+27 THE SENSITIVE TEST RESULTS TO BE RELEASED BEFORE THE END OF THE
+-5- 162
+
+1 THREE-BUSINESS-DAY PERIOD.
+2
+3 (c) A PERSON THAT ADMINISTERS AND CONTROLS A PATIENT'S
+4 ELECTRONIC HEALTH RECORD SHALL IMPLEMENT THIS SUBSECTION (4).
+5 (d) COMPLIANCE WITH THE REQUIREMENTS OF THIS SECTION IS NOT
+6 INFORMATION BLOCKING UNDER 42 U.S.C. SEC. 300jj-52.
+7 (e) A PERSON IS NOT SUBJECT TO CIVIL, CRIMINAL, OR
+8 ADMINISTRATIVE LIABILITY OR PROFESSIONAL DISCIPLINARY ACTION FOR
+9 FAILING TO COMPLY WITH THE REQUIREMENTS OF THIS SECTION.
+10 SECTION 2. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+14 referendum petition is filed pursuant to section 1 (3) of article V of the
+15 state constitution against this act or an item, section, or part of this act
+16 within such period, then the act, item, section, or part will not take effect
+17 unless approved by the people at the general election to be held in
+18 November 2026 and, in such case, will take effect on the date of the
+19 official declaration of the vote thereon by the governor.
+-6- 162

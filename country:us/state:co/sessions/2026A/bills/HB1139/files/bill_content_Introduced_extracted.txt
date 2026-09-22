@@ -1,0 +1,490 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0038.01 Brita Darling x2241 HOUSE BILL 26-1139
+HOUSE SPONSORSHIP
+Joseph and Lieder,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THE USE OF ARTIFICIAL INTELLIGENCE IN HEALTH CARE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill requires entities that use an artificial
+intelligence system or algorithm (AI system) for the purpose of
+conducting utilization review of health-care services, including health
+insurance carriers, pharmacy benefit managers, private utilization review
+organizations, behavioral health administrative services organizations,
+and managed care entities, to ensure that the AI system complies with
+certain requirements specified in the bill when determining coverage for
+services. Specifically, the AI system used must:
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Not base its determination solely on group data; and
+! Make determinations based on medical or clinical history,
+the patient's individual clinical circumstances, and other
+relevant factors specified in the bill, with denial of
+coverage reviewed by a licensed clinician or physician.
+The AI system may be used to assist in utilization review,
+including expedited approvals. A denial or delay of coverage for a service
+based in whole or in part on medical necessity must be reviewed by a
+licensed clinician or physician who is competent to evaluate the specific
+clinical issues.
+Section 3 defines a "mental health companion chatbot", in part, as
+an AI system that:
+! Uses generative artificial intelligence to provide adaptive,
+personalized, and emotionally resonant responses to sustain
+a one-on-one relationship with a user;
+! Engages in interactive conversations similar to those an
+individual would have with a licensed mental health
+professional; and
+! Is represented by the AI systems provider as, or that a
+reasonable person believes to be, capable of providing
+mental health therapy or of helping to manage or treat
+mental health conditions.
+Sections 2, 5, 6, and 7:
+! Declare that an AI systems provider engages in the
+unauthorized practice of psychotherapy if the AI system
+used:
+! Represents, states, or indicates, explicitly or
+implicitly, that the AI system is a human mental
+health provider or is authorized to engage in the
+practice of psychotherapy;
+! Uses prohibited titles, abbreviations or descriptions
+of professions, credentials, or services that only a
+mental health professional authorized to provide
+psychotherapy in the state (regulated professional)
+may use;
+! Delivers psychotherapy services that would be
+considered the practice of psychotherapy without
+oversight by an individual who is a regulated
+professional; or
+! Is a mental health companion chatbot and: Fails to
+provide clear and conspicuous notice to the user that
+the AI system is not a human and is not authorized
+to provide psychotherapy, therapy, or counseling or
+to manage or treat mental health conditions; fails to
+disclose that the AI system is artificial intelligence
+-2- HB26-1139
+
+when asked; fails to implement a protocol to address
+suicidal ideation or self-harm expressed by users,
+including referring users to a suicide hotline or
+crisis text line; or sells, shares, or discloses
+identifiable mental health data or conditions the use
+of the mental health companion chatbot on a user
+agreeing to those practices;
+! Allow for the use of an AI system to provide general
+information, support, or education, without representing
+that the AI system is a regulated professional;
+! Exempt from the bill the development, testing, or
+evaluation of an AI system conducted for the purpose of
+research by an institutional review board; and
+! Prohibit a regulated professional from billing a public or
+private payer for psychotherapy services that are provided
+directly to a client and that are conducted by an AI system
+or for supervision of candidates or professional
+consultations that are provided by an AI system without
+human oversight.
+Section 4 requires a regulated professional to disclose to a client
+the purposes for which the regulated professional uses AI systems or
+therapeutic or diagnostic devices that include AI systems in their practice
+and when those AI systems or devices are used, the right of a client to
+consent to a disclosure of confidential communications, and other
+disclosures.
+Sections 2 and 7 prohibit a health insurance carrier and a payer of
+services under the "Colorado Medical Assistance Act" and the "Children's
+Basic Health Plan Act" from paying for psychotherapy services that are
+provided directly to a client and that are conducted by an AI system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Health-care decisions affect the most intimate, complex, and
+5 consequential aspects of human life, including physical survival, mental
+6 well-being, family stability, and personal dignity, and therefore must be
+7 grounded in compassion, clinical judgment, and individualized
+8 understanding;
+-3- HB26-1139
+
+1 (b) Artificial intelligence systems may offer valuable tools to
+2 support efficiency, data analysis, and administrative functions in
+3 health-care delivery; however, these systems cannot comprehend the full
+4 breadth and depth of the human experience, including trauma, culture,
+5 disability, grief, fear, hope, and the lived realities that shape patient health
+6 outcomes;
+7 (c) The state of Colorado has a compelling interest in ensuring
+8 that health care remains human-centered and that decisions involving
+9 coverage determinations, medical necessity, and access to treatment,
+10 particularly denials or delays of care, are made by qualified human
+11 clinicians or physicians who are accountable for these decisions and can
+12 exercise professional judgment and ethical reasoning;
+13 (d) Reliance on automated or algorithmic systems to make or
+14 materially influence adverse health-care determinations without
+15 meaningful human oversight risks compounding inequities, embedding
+16 bias, and eroding trust between patients, providers, and health-care
+17 systems;
+18 (e) Artificial intelligence systems may be used as an assistive tool
+19 in health-care delivery and administration but must not replace human
+20 judgment, human accountability, or the therapeutic relationship that is
+21 essential to safe, ethical, and effective care; and
+22 (f) Every Coloradan, regardless of income, insurance status,
+23 disability, language access needs, race, ethnicity, geography, or
+24 immigration status, deserves access to human-centered health care that
+25 recognizes their dignity, individuality, and humanity.
+26 (2) Therefore, the general assembly declares that it is essential to:
+27 (a) Regulate the use of artificial intelligence systems in health care
+-4- HB26-1139
+
+1 to ensure transparency, accountability, equity, and patient safety;
+2 (b) Prohibit automated systems from making adverse coverage
+3 determinations without qualified human review; and
+4 (c) Preserve the central role of licensed clinicians in decisions that
+5 affect the health, well-being, and lives of Coloradans.
+6 SECTION 2. In Colorado Revised Statutes, add 10-16-112.7 as
+7 follows:
+8 10-16-112.7. Use of artificial intelligence systems - utilization
+9 review - prohibition on payment for AI-delivered psychotherapy
+10 services - definitions.
+11 (1) AS USED IN THIS SECTION:
+12 (a) "ALGORITHM" MEANS A COMPUTATIONAL OR MACHINE
+13 LEARNING PROCESS THAT INFORMS HUMAN DECISION-MAKING IN
+14 INSURANCE PRACTICES.
+15 (b) "ARTIFICIAL INTELLIGENCE SYSTEM" OR "AI SYSTEM" MEANS
+16 A MACHINE-BASED SYSTEM THAT, FOR ANY EXPLICIT OR IMPLICIT
+17 OBJECTIVE, INFERS FROM THE INPUTS THE SYSTEM RECEIVES HOW TO
+18 GENERATE OUTPUTS, INCLUDING CONTENT, DECISIONS, PREDICTIONS, OR
+19 RECOMMENDATIONS, THAT CAN INFLUENCE PHYSICAL OR VIRTUAL
+20 ENVIRONMENTS.
+21 (c) "BEHAVIORAL HEALTH ADMINISTRATIVE SERVICES
+22 ORGANIZATION" MEANS AN ORGANIZATION SELECTED BY THE BEHAVIORAL
+23 HEALTH ADMINISTRATION PURSUANT TO SECTION 27-50-402 TO ESTABLISH
+24 AND MAINTAIN A NETWORK OF BEHAVIORAL HEATH PROVIDERS.
+25 (d) "MANAGED CARE ENTITY" HAS THE MEANING SET FORTH IN
+26 SECTION 25.5-5-403 (4).
+27 (e) "PRIVATE UTILIZATION REVIEW ORGANIZATION" OR
+-5- HB26-1139
+
+1 "ORGANIZATION" MEANS A PRIVATE UTILIZATION REVIEW ORGANIZATION,
+2 AS DEFINED IN SECTION 10-16-112 (1)(a), THAT HAS A CONTRACT WITH OR
+3 PERFORMS PRIOR AUTHORIZATION ON BEHALF OF A CARRIER.
+4 (2) Utilization review. SUBSECTIONS (3), (4), AND (5) OF THIS
+5 SECTION APPLY TO:
+6 (a) A CARRIER THAT:
+7 (I) USES AN ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM FOR
+8 THE PURPOSE OF UTILIZATION REVIEW; OR
+9 (II) CONTRACTS WITH OR OTHERWISE WORKS THROUGH A PERSON
+10 THAT USES AN ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM FOR THE
+11 PURPOSE OF UTILIZATION REVIEW;
+12 (b) A PHARMACY BENEFIT MANAGER OR PRIVATE UTILIZATION
+13 REVIEW ORGANIZATION THAT CONTRACTS WITH A CARRIER TO PROVIDE
+14 UTILIZATION REVIEW SERVICES ON BEHALF OF THE CARRIER AND USES AN
+15 ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM FOR THE PURPOSE OF
+16 CONDUCTING THE UTILIZATION REVIEW; AND
+17 (c) A BEHAVIORAL HEALTH ADMINISTRATIVE SERVICES
+18 ORGANIZATION OR MANAGED CARE ENTITY THAT USES AN ARTIFICIAL
+19 INTELLIGENCE SYSTEM OR ALGORITHM FOR THE PURPOSE OF CONDUCTING
+20 UTILIZATION REVIEW OF MENTAL OR BEHAVIORAL HEALTH SERVICES.
+21 (3) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION THAT
+22 USES AN ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM TO CONDUCT
+23 UTILIZATION REVIEW SHALL ENSURE THAT:
+24 (a) THE ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM BASES
+25 ITS DETERMINATION ON THE FOLLOWING INFORMATION, AS APPLICABLE:
+26 (I) AN INDIVIDUAL'S MEDICAL OR OTHER CLINICAL HISTORY;
+27 (II) INDIVIDUAL CLINICAL CIRCUMSTANCES AS PRESENTED BY THE
+-6- HB26-1139
+
+1 REQUESTING PROVIDER; AND
+2 (III) OTHER RELEVANT CLINICAL INFORMATION CONTAINED IN THE
+3 INDIVIDUAL'S MEDICAL OR OTHER CLINICAL RECORD;
+4 (b) THE ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM DOES
+5 NOT BASE ITS DETERMINATIONS SOLELY ON GROUP DATA, WITHOUT
+6 REFERENCE TO THE INDIVIDUAL'S DATA;
+7 (c) (I) THE USE OF THE ARTIFICIAL INTELLIGENCE SYSTEM OR
+8 ALGORITHM DOES NOT, DIRECTLY OR INDIRECTLY:
+9 (A) RESULT IN ALGORITHMIC DISCRIMINATION AS DEFINED IN
+10 SECTION 6-1-1701 OR UNFAIR DISCRIMINATION PURSUANT TO SECTION
+11 10-3-1104; OR
+12 (B) UNFAIRLY DISCRIMINATE PURSUANT TO SECTION 10-3-1104.9;
+13 AND
+14 (II) THE ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM IS NOT
+15 USED IN ANY WAY THAT DISCRIMINATES AGAINST INDIVIDUALS IN
+16 VIOLATION OF OTHER STATE OR FEDERAL LAWS RELATING TO ACCESS TO
+17 HEALTH-CARE SERVICES AND UTILIZATION AND PAYMENT FOR THOSE
+18 SERVICES;
+19 (d) THE ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM IS
+20 FAIRLY AND EQUITABLY APPLIED, INCLUDING IN ACCORDANCE WITH
+21 APPLICABLE REGULATIONS AND GUIDANCE ISSUED BY THE FEDERAL
+22 DEPARTMENT OF HEALTH AND HUMAN SERVICES;
+23 (e) THE ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM
+24 PRODUCES AND RETAINS DOCUMENTATION, AUDIT LOGS, AND
+25 MODEL-GOVERNANCE RECORDS IN ORDER TO DEMONSTRATE COMPLIANCE
+26 WITH THIS SECTION AND SECTION 10-3-1104.9;
+27 (f) THE ARTIFICIAL INTELLIGENCE SYSTEM'S OR ALGORITHM'S
+-7- HB26-1139
+
+1 PERFORMANCE, USE, AND OUTCOMES ARE PERIODICALLY REVIEWED TO
+2 MAXIMIZE ACCURACY AND RELIABILITY;
+3 (g) AN INDIVIDUAL'S HEALTH DATA IS NOT USED BEYOND ITS
+4 INTENDED OR STATED PURPOSE, CONSISTENT WITH APPLICABLE STATE AND
+5 FEDERAL LAWS; AND
+6 (h) THE ARTIFICIAL INTELLIGENCE SYSTEM'S OR ALGORITHM'S
+7 CRITERIA AND GUIDELINES COMPLY WITH OTHER APPLICABLE STATE OR
+8 FEDERAL LAWS CONCERNING UTILIZATION REVIEW AND COVERAGE FOR
+9 HEALTH-CARE SERVICES.
+10 (4) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION
+11 SHALL PROVIDE WRITTEN DISCLOSURES TO THE DIVISION, THE
+12 DEPARTMENT OF HUMAN SERVICES, OR THE DEPARTMENT OF HEALTH CARE
+13 POLICY AND FINANCING, AS APPLICABLE, PERTAINING TO HOW THE
+14 ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM WILL BE USED AND
+15 WHAT OVERSIGHT WILL BE PROVIDED BY THE PERSON DESCRIBED IN
+16 SUBSECTION (2) OF THIS SECTION.
+17 (5) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, AN
+18 ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM MAY BE USED TO ASSIST
+19 WITH UTILIZATION REVIEW, INCLUDING EXPEDITED APPROVALS.
+20 (b) A CARRIER'S DENIAL OR DELAY OF COVERAGE BASED IN WHOLE
+21 OR IN PART ON MEDICAL NECESSITY SHALL NOT BE ISSUED SOLELY ON THE
+22 OUTPUT OF AN AI SYSTEM OR ALGORITHM WITHOUT INDEPENDENT REVIEW
+23 AND APPROVAL OF THE DENIAL OR DELAY BY A LICENSED CLINICIAN,
+24 LICENSED PHYSICIAN, OR OTHER REGULATED PROFESSIONAL THAT IS
+25 COMPETENT TO EVALUATE THE SPECIFIC CLINICAL ISSUES INVOLVED IN THE
+26 HEALTH-CARE SERVICES REQUESTED BY THE PROVIDER AND A REVIEW OF
+27 THE HEALTH BENEFIT PLAN'S TERMS OF COVERAGE FOR THE HEALTH-CARE
+-8- HB26-1139
+
+1 SERVICE.
+2 (6) Prohibition on payment for AI-delivered psychotherapy
+3 services.
+4 (a) A CARRIER OFFERING A HEALTH BENEFIT PLAN ISSUED OR
+5 RENEWED IN THE STATE ON OR AFTER THE EFFECTIVE DATE OF THIS
+6 SECTION SHALL NOT PROVIDE COVERAGE FOR SERVICES THAT CONSTITUTE
+7 PSYCHOTHERAPY SERVICES, AS DEFINED IN SECTION 12-245-202 (14),
+8 THAT ARE PROVIDED DIRECTLY TO AN INDIVIDUAL AND THAT ARE
+9 CONDUCTED BY AN AI SYSTEM OR ALGORITHM.
+10 (b) SUBSECTION (6)(a) OF THIS SECTION DOES NOT PROHIBIT THE
+11 USE OF BILLING SOFTWARE, ELECTRONIC HEALTH RECORDS, VIDEO
+12 PLATFORMS, OR OTHER NONTHERAPEUTIC SOFTWARE TOOLS INCIDENT TO
+13 SERVICES PROVIDED BY A HUMAN PROVIDER.
+14 (c) THE USE OF VIDEOCONFERENCING, MESSAGING PLATFORMS, OR
+15 OTHER COMMUNICATIONS SOFTWARE TO ENABLE SUPERVISION OR
+16 CONSULTATION BY A LICENSED, REGISTERED, OR CERTIFIED INDIVIDUAL
+17 DOES NOT CONSTITUTE SUPERVISION OR CONSULTATION THAT IS
+18 CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM OR ALGORITHM, AS
+19 REFERENCED IN SUBSECTION (6)(a) OF THIS SECTION.
+20 SECTION 3. In Colorado Revised Statutes, 12-245-202, amend
+21 (1); and add (1.5), (4.5), and (9.5) as follows:
+22 12-245-202. Definitions.
+23 As used in this article 245, unless the context otherwise requires:
+24 (1) "Board" includes the state board of psychologist examiners,
+25 the state board of social work examiners, the state board of licensed
+26 professional counselor examiners, the state board of marriage and family
+27 therapist examiners, the state board of unlicensed psychotherapists, and
+-9- HB26-1139
+
+1 the state board of addiction counselor examiners "ARTIFICIAL
+2 INTELLIGENCE SYSTEM" OR "AI SYSTEM" HAS THE MEANING SET FORTH IN
+3 SECTION 10-16-112.7 (1)(b) AND INCLUDES A MENTAL HEALTH
+4 COMPANION CHATBOT.
+5 (1.5) "BOARD" INCLUDES THE STATE BOARD OF PSYCHOLOGIST
+6 EXAMINERS, THE STATE BOARD OF SOCIAL WORK EXAMINERS, THE STATE
+7 BOARD OF LICENSED PROFESSIONAL COUNSELOR EXAMINERS, THE STATE
+8 BOARD OF MARRIAGE AND FAMILY THERAPIST EXAMINERS, THE STATE
+9 BOARD OF UNLICENSED PSYCHOTHERAPISTS, AND THE STATE BOARD OF
+10 ADDICTION COUNSELOR EXAMINERS.
+11 (4.5) "GENERATIVE AI" HAS THE MEANING SET FORTH IN SECTION
+12 1-46-102 (4).
+13 (9.5) (a) "MENTAL HEALTH COMPANION CHATBOT" MEANS AN
+14 ARTIFICIAL INTELLIGENCE SYSTEM THAT:
+15 (I) USES GENERATIVE AI TECHNOLOGY THAT, THROUGH DESIGN
+16 AND FUNCTION, IS CAPABLE OF GENERATING ADAPTIVE, PERSONALIZED,
+17 AND EMOTIONALLY RESONANT RESPONSES TO SUSTAIN A COHERENT,
+18 ONE-ON-ONE CONVERSATIONAL RELATIONSHIP WITH A USER;
+19 (II) ENGAGES IN INTERACTIVE CONVERSATIONS WITH A USER
+20 SIMILAR TO THE CONFIDENTIAL COMMUNICATIONS THAT AN INDIVIDUAL
+21 WOULD HAVE WITH A HUMAN LICENSEE, REGISTRANT, OR CERTIFICATE
+22 HOLDER CONCERNING MENTAL OR BEHAVIORAL HEALTH CONDITIONS; AND
+23 (III) IS REPRESENTED BY THE PERSON THAT PROVIDES OR MAKES
+24 THE AI SYSTEM AVAILABLE FOR USE IN THE STATE AS, OR THAT A
+25 REASONABLE PERSON BELIEVES TO BE, CAPABLE OF PROVIDING MENTAL
+26 HEALTH THERAPY OR OF HELPING TO MANAGE OR TREAT MENTAL OR
+27 BEHAVIORAL HEALTH CONDITIONS.
+-10- HB26-1139
+
+1 (b) "MENTAL HEALTH COMPANION CHATBOT" DOES NOT INCLUDE
+2 AN ARTIFICIAL INTELLIGENCE SYSTEM THAT ONLY:
+3 (I) PROVIDES SCRIPTED OUTPUT, SUCH AS GUIDED MEDITATIONS,
+4 MINDFULNESS EXERCISES, OR OTHER WELLNESS PRACTICES; OR
+5 (II) ANALYZES AN INDIVIDUAL'S INPUT FOR PURPOSES OF
+6 CONNECTING THE INDIVIDUAL WITH A HUMAN LICENSEE, REGISTRANT, OR
+7 CERTIFICATE HOLDER.
+8 SECTION 4. In Colorado Revised Statutes, 12-245-216, add
+9 (3.5) as follows:
+10 12-245-216. Mandatory disclosure of information to clients -
+11 use of artificial intelligence in psychotherapy practice.
+12 (3.5) IF A LICENSEE, REGISTRANT, OR CERTIFICATE HOLDER USES
+13 AN ARTIFICIAL INTELLIGENCE SYSTEM FOR ANY PURPOSE RELATING TO THE
+14 PRACTICE OF PSYCHOTHERAPY, THEY MUST INCLUDE WITH THE
+15 INFORMATION PROVIDED TO THE CLIENT PURSUANT TO SUBSECTION (1)(d)
+16 OF THIS SECTION INFORMATION CONCERNING:
+17 (a) THE NAME OF THE AI SYSTEM USED;
+18 (b) WHETHER A THERAPEUTIC OR DIAGNOSTIC DEVICE USED BY A
+19 CLIENT THAT INCLUDES AN ARTIFICIAL INTELLIGENCE SYSTEM IS A
+20 FEDERAL DRUG ADMINISTRATION-APPROVED DEVICE;
+21 (c) A WEBSITE ADDRESS WHERE THE AI SYSTEM OR THERAPEUTIC
+22 OR DIAGNOSTIC DEVICE IS DESCRIBED;
+23 (d) THE SPECIFIC PURPOSES FOR WHICH THE LICENSEE,
+24 REGISTRANT, OR CERTIFICATE HOLDER USES AI SYSTEMS OR THERAPEUTIC
+25 OR DIAGNOSTIC DEVICES IN THEIR PRACTICE AND WHEN AI SYSTEMS OR
+26 DEVICES ARE USED;
+27 (e) WHETHER THERE IS A BUSINESS ASSOCIATE AGREEMENT
+-11- HB26-1139
+
+1 BETWEEN THE LICENSEE, REGISTRANT, OR CERTIFICATE HOLDER AND THE
+2 PROVIDER OF THE AI SYSTEM OR THERAPEUTIC OR DIAGNOSTIC DEVICE
+3 USED;
+4 (f) HOW THE LICENSEE, REGISTRANT, OR CERTIFICATE HOLDER
+5 PROTECTS AGAINST THE DISCLOSURE OF CONFIDENTIAL COMMUNICATIONS
+6 OF PATIENT INFORMATION PURSUANT TO SECTION 12-245-220 AND THE
+7 FEDERAL "HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT
+8 OF 1996", AS AMENDED, PUB.L. 104-191.
+9 (g) THE RIGHT OF THE CLIENT TO CONSENT TO ANY DISCLOSURE OF
+10 CONFIDENTIAL COMMUNICATIONS.
+11 SECTION 5. In Colorado Revised Statutes, 12-245-224, add
+12 (1)(t)(VI) as follows:
+13 12-245-224. Prohibited activities - related provisions -
+14 definition.
+15 (1) A person licensed, registered, or certified under this article 245
+16 violates this article 245 if the person:
+17 (t) Has engaged in any of the following activities and practices:
+18 (VI) CHARGES, BILLS, OR OTHERWISE REQUESTS OR RECEIVES
+19 PAYMENT OR OTHER BENEFIT FROM A PUBLIC OR PRIVATE PAYER FOR:
+20 (A) PSYCHOTHERAPY SERVICES THAT ARE PROVIDED DIRECTLY TO
+21 A CLIENT AND THAT ARE CONDUCTED BY AN ARTIFICIAL INTELLIGENCE
+22 SYSTEM;
+23 (B) PROFESSIONAL SUPERVISION OF A REGISTRANT THAT IS
+24 CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM; OR
+25 (C) PROFESSIONAL CONSULTATION WITH A LICENSEE, REGISTRANT,
+26 OR CERTIFICATE HOLDER THAT IS CONDUCTED BY AN ARTIFICIAL
+27 INTELLIGENCE SYSTEM;
+-12- HB26-1139
+
+1 SECTION 6. In Colorado Revised Statutes, add 12-245-228.5 as
+2 follows:
+3 12-245-228.5. Unauthorized practice of psychotherapy - use
+4 of artificial intelligence - penalties - definition.
+5 (1) AS USED IN THIS SECTION, "IDENTIFIABLE MENTAL HEALTH
+6 DATA" MEANS INFORMATION THAT DIRECTLY OR INDIRECTLY IDENTIFIES
+7 A USER AND RELATES TO THE USER'S MENTAL HEALTH CONDITION,
+8 SYMPTOMS, TREATMENT HISTORY, OR PSYCHOLOGICAL STATE.
+9 (2) A PERSON THAT PROVIDES OR MAKES AVAILABLE FOR USE IN
+10 THE STATE AN ARTIFICIAL INTELLIGENCE SYSTEM ENGAGES IN THE
+11 UNAUTHORIZED PRACTICE OF PSYCHOTHERAPY IF:
+12 (a) THE ARTIFICIAL INTELLIGENCE SYSTEM:
+13 (I) REPRESENTS, STATES, OR INDICATES, EXPLICITLY OR
+14 IMPLICITLY, THAT THE AI SYSTEM OR ANY COMPONENT, FEATURE, OR
+15 EMBODIMENT OF THE AI SYSTEM IS A MENTAL HEALTH PROVIDER,
+16 INCLUDING A LICENSEE, REGISTRANT, CERTIFICATE HOLDER, SCHOOL
+17 COUNSELOR, OR OTHER MENTAL OR BEHAVIORAL HEALTH PROVIDER;
+18 (II) USES PROHIBITED TITLES, ABBREVIATIONS OR DESCRIPTIONS
+19 OF PROFESSIONS, CREDENTIALS, OR SERVICES THAT WOULD VIOLATE
+20 SECTION 12-245-218 IF USED BY AN INDIVIDUAL WHO IS NOT LICENSED,
+21 CERTIFIED, OR REGISTERED PURSUANT TO THIS ARTICLE 245;
+22 (III) REPRESENTS, STATES, OR INDICATES, EXPLICITLY OR
+23 IMPLICITLY, THAT THE AI SYSTEM IS AUTHORIZED TO ENGAGE IN THE
+24 PRACTICE OF PSYCHOTHERAPY IN THE STATE; OR
+25 (IV) DELIVERS PSYCHOTHERAPY SERVICES THAT WOULD BE
+26 CONSIDERED THE PRACTICE OF PSYCHOTHERAPY WITHOUT OVERSIGHT BY
+27 AN INDIVIDUAL WHO IS NOT LICENSED, CERTIFIED, OR REGISTERED
+-13- HB26-1139
+
+1 PURSUANT TO THIS ARTICLE 245; OR
+2 (b) THE ARTIFICIAL INTELLIGENCE SYSTEM IS A MENTAL HEALTH
+3 COMPANION CHATBOT AND:
+4 (I) FAILS TO PROVIDE CLEAR AND CONSPICUOUS NOTICE TO THE
+5 USER THAT THE USER IS INTERACTING WITH AN AI SYSTEM THAT IS NOT A
+6 HUMAN AND IS NOT LICENSED BY THE STATE TO PROVIDE PSYCHOTHERAPY,
+7 THERAPY, OR COUNSELING OR TO MANAGE OR TREAT MENTAL OR
+8 BEHAVIORAL HEALTH CONDITIONS:
+9 (A) AT THE BEGINNING OF A USER INTERACTION AND THROUGH A
+10 POP-UP WINDOW THAT APPEARS AT LEAST EVERY THIRTY MINUTES
+11 THEREAFTER DURING THE SAME SESSION OR ENCOUNTER; AND
+12 (B) WHEN ASKED BY THE USER IF THE MENTAL HEALTH
+13 COMPANION CHATBOT IS ARTIFICIAL INTELLIGENCE, IS A CHATBOT, OR IS
+14 HUMAN;
+15 (II) THE PERSON THAT PROVIDES OR MAKES THE MENTAL HEALTH
+16 COMPANION CHATBOT AVAILABLE FOR USE IN THE STATE FAILS TO
+17 IMPLEMENT A PROTOCOL FOR ADDRESSING SUICIDAL IDEATION OR
+18 SELF-HARM EXPRESSED BY A USER TO THE MENTAL HEALTH COMPANION
+19 CHATBOT THAT INCLUDES A CLEAR AND CONSPICUOUS NOTIFICATION THAT
+20 REFERS THE USER TO CRISIS SERVICES PROVIDERS, INCLUDING A SUICIDE
+21 HOTLINE OR CRISIS TEXT LINE; OR
+22 (III) THE PERSON THAT PROVIDES OR MAKES THE MENTAL HEALTH
+23 COMPANION CHATBOT AVAILABLE FOR USE IN THE STATE:
+24 (A) SELLS, SHARES, TRANSFERS, DISCLOSES, OR OTHERWISE MAKES
+25 AVAILABLE ANY IDENTIFIABLE MENTAL HEALTH DATA COLLECTED FROM
+26 A USER OF THE MENTAL HEALTH COMPANION CHATBOT; OR
+27 (B) REQUIRES A USER TO CONSENT TO THE SALE OR TRANSFER OF
+-14- HB26-1139
+
+1 IDENTIFIABLE MENTAL HEALTH DATA AS A CONDITION OF ACCESS TO THE
+2 MENTAL HEALTH COMPANION CHATBOT.
+3 (3) A PERSON THAT PROVIDES OR MAKES A MENTAL HEALTH
+4 COMPANION CHATBOT AVAILABLE FOR USE IN THE STATE SHALL REPORT
+5 ANNUALLY TO THE OFFICE OF SUICIDE PREVENTION IN THE DEPARTMENT
+6 OF PUBLIC HEALTH AND ENVIRONMENT CONCERNING THE NUMBER OF
+7 TIMES THAT THE MENTAL HEALTH COMPANION CHATBOT DETECTED
+8 EXHIBITIONS OF SUICIDAL IDEATION BY USERS AND THE NUMBER OF TIMES
+9 THE MENTAL HEALTH COMPANION CHATBOT BROUGHT UP SUICIDAL
+10 IDEATION OR ACTIONS WITH THE USER.
+11 (4) NOTWITHSTANDING THE PROVISIONS OF THIS SECTION, A
+12 PERSON THAT PROVIDES OR MAKES AVAILABLE FOR USE IN THE STATE AN
+13 ARTIFICIAL INTELLIGENCE SYSTEM THAT PROVIDES GENERAL
+14 INFORMATION, SUPPORT, OR EDUCATION AND THAT DOES NOT ENGAGE IN
+15 THE CONDUCT PROHIBITED PURSUANT TO SUBSECTION (2) OF THIS SECTION
+16 IS NOT ENGAGED IN THE UNAUTHORIZED PRACTICE OF PSYCHOTHERAPY.
+17 (5) THIS SECTION DOES NOT APPLY TO THE DEVELOPMENT,
+18 TESTING, OR EVALUATION OF AN ARTIFICIAL INTELLIGENCE SYSTEM
+19 CONDUCTED SOLELY FOR RESEARCH PURPOSES UNDER THE OVERSIGHT OF
+20 AN INSTITUTIONAL REVIEW BOARD REGISTERED WITH THE UNITED STATES
+21 DEPARTMENT OF HEALTH AND HUMAN SERVICES, SO LONG AS THE AI
+22 SYSTEM IS NOT OFFERED TO CONSUMERS OR USED TO PROVIDE
+23 PSYCHOTHERAPY SERVICES OUTSIDE OF THE RESEARCH SETTING.
+24 SECTION 7. In Colorado Revised Statutes, add 25.5-1-209 as
+25 follows:
+26 25.5-1-209. Prohibition on payment for AI-delivered
+27 psychotherapy services.
+-15- HB26-1139
+
+1 A PAYER OF MENTAL OR BEHAVIORAL HEALTH-CARE SERVICES
+2 PROVIDED UNDER THE "COLORADO MEDICAL ASSISTANCE ACT", AS
+3 SPECIFIED IN ARTICLES 4, 5, AND 6 OF THIS TITLE 25.5, OR THE "CHILDREN'S
+4 BASIC HEALTH PLAN ACT", AS SPECIFIED IN ARTICLE 8 OF THIS TITLE 25.5,
+5 SHALL NOT PAY FOR SERVICES THAT CONSTITUTE PSYCHOTHERAPY
+6 SERVICES, AS DEFINED IN SECTION 12-245-202 (14), THAT ARE PROVIDED
+7 DIRECTLY TO AN INDIVIDUAL AND THAT ARE CONDUCTED BY AN
+8 ARTIFICIAL INTELLIGENCE SYSTEM, AS THAT TERM IS DEFINED IN SECTION
+9 10-16-112.7 (1)(b).
+10 SECTION 8. Effective date - applicability. This act takes effect
+11 January 1, 2027, and applies to actions taken on or after said date.
+12 SECTION 9. Safety clause. The general assembly finds,
+13 determines, and declares that this act is necessary for the immediate
+14 preservation of the public peace, health, or safety or for appropriations for
+15 the support and maintenance of the departments of the state and state
+16 institutions.
+-16- HB26-1139

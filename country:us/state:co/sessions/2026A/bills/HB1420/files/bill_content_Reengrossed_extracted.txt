@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0995.01 Jennifer Berman x3286 HOUSE BILL 26-1420
+House Committees Senate Committees
+Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING CHANGES TO THE APPROVAL PROCESS FOR
+102 LIGHT-MITIGATING TECHNOLOGY THAT IS REQUIRED TO BE
+103 INSTALLED AT CERTAIN WIND-POWERED ENERGY GENERATION
+104 FACILITIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+In 2022, the general assembly enacted Senate Bill 22-110 to
+require an owner or operator of a new wind-powered energy generation
+facility (facility) to install light-mitigating technology designed to detect
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+dednemanU
+gnidaeR
+dn2
+6202
+,03
+lirpA
+6202
+,92
+lirpA
+HOUSE SPONSORSHIP
+Paschal and Richardson, Barron, Caldwell, Clifford, Duran, Flanell, Jackson, Johnson,
+Keltie, McCormick, Smith, Story, Weinberg, Woog
+SENATE SPONSORSHIP
+Kolker and Pelton R.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+aircraft (technology) at the facility and to obtain federal aviation
+administration (FAA) approval before installing the technology. An
+owner or operator of a facility can request from the governing body of the
+local government in which the facility is located an extension of up to 24
+months to install the technology.
+The bill requires the owner or operator of a facility to also obtain
+federal communications commission (FCC) approval for installation of
+the technology and requires that a governing body of a local government
+grant an owner or operator of a facility an extension of time to install the
+technology if FAA, FCC, or other federal agency approval is delayed. The
+bill also requires that an extension of time granted by the governing body
+of a local government is at least 24 months in duration.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 38-30.7-106, amend
+3 (1) and (2); and add (5)(c.5) as follows:
+4 38-30.7-106. Wind-powered energy generation facilities
+5 inclusion of light-mitigating technology - requirement - enforcement
+6 - definitions.
+7 (1) (a) Subject to subsection (1)(b) of this section and subject to
+8 approval from the FAA, THE FCC, AND ANY OTHER APPLICABLE FEDERAL
+9 AGENCY, for the installation of approved light-mitigating technology, for
+10 any new wind-powered energy generation facility that is subject to local
+11 government land-use permitting requirements pursuant to section
+12 29-20-108 or is owned by an independent power producer, and for which
+13 the owner or operator of the new facility begins vertical construction of
+14 the first wind turbine included within the facility on or after April 1,
+15 2022, the owner or operator shall install light-mitigating technology at the
+16 new facility.
+17 (b) The owner or operator of a new wind-powered energy
+18 generation facility subject to subsection (1)(a) of this section, within six
+19 months after the facility receives a determination of no hazard from the
+-2- 1420
+
+1 FAA, shall:
+2 (I) Apply to the FAA, THE FCC, AND any other applicable federal
+3 agency or both, for the installation of approved light-mitigating
+4 technology; and
+5 (II) EXCEPT AS PROVIDED IN SUBSECTION (2) OF THIS SECTION,
+6 within twenty-four months after receiving FINAL approval from the FAA,
+7 THE FCC, AND ANY OTHER APPLICABLE FEDERAL AGENCY, in accordance
+8 with subsection (1)(b)(I) of this section, and subject to the availability of
+9 light-mitigating technology from the manufacturer or supplier, install,
+10 test, and commence operation consistent with FAA requirements or other
+11 applicable federal agency requirements, of the light-mitigating technology
+12 at the new facility, CONSISTENT WITH REQUIREMENTS OF THE FAA, THE
+13 FCC, AND ANY OTHER APPLICABLE FEDERAL AGENCY.
+14 (2) (a) The owner or operator of a wind-powered energy
+15 generation facility may seek an extension of time from the governing
+16 body of the local government IN WHICH THE WIND-POWERED ENERGY
+17 GENERATION FACILITY IS LOCATED OR WILL BE LOCATED to comply with
+18 subsection (1) of this section. AN EXTENSION OF TIME GRANTED UNDER
+19 THIS SUBSECTION (2)(a) MUST BE for a period of up to AT LEAST
+20 twenty-four months. THE GOVERNING BODY OF THE LOCAL GOVERNMENT
+21 MAY GRANT A LONGER EXTENSION AND MAY GRANT ADDITIONAL
+22 EXTENSIONS IF WARRANTED.
+23 (b) The governing body of the local government shall grant the
+24 request FOR AN EXTENSION OF TIME if:
+25 (I) The owner or operator can demonstrate that, despite the
+26 owner's or operator's exercise of commercially reasonable efforts, the
+27 availability of light-mitigating technology THE OWNER'S OR OPERATOR'S
+-3- 1420
+
+1 ABILITY TO COMPLY WITH SUBSECTION (1) OF THIS SECTION WITHIN THE
+2 TIME FRAME AFFORDED WAS constrained BY the owner's or operator's
+3 ability to comply with subsection (1) of this section in the time frame
+4 afforded. AVAILABILITY OF LIGHT-MITIGATING TECHNOLOGY OR BY OTHER
+5 DOCUMENTED CIRCUMSTANCES OUTSIDE OF THE OWNER'S OR OPERATOR'S
+6 CONTROL; OR
+7 (II) FINAL APPROVAL FROM THE FAA, THE FCC, OR ANY OTHER
+8 APPLICABLE FEDERAL AGENCY IS DELAYED.
+9 (c) A board shall not impose any penalties against the owner or
+10 operator pursuant to subsection (3) of this section during the extension
+11 period granted.
+12 (5) As used in this section, unless the context otherwise requires:
+13 (c.5) "FCC" MEANS THE FEDERAL COMMUNICATIONS COMMISSION.
+14 SECTION 2. Applicability. This act applies to applications and
+15 requests for extension of time that are pending on or after the effective
+16 date of this act.
+17 SECTION 3. Safety clause. The general assembly finds,
+18 determines, and declares that this act is necessary for the immediate
+19 preservation of the public peace, health, or safety or for appropriations for
+20 the support and maintenance of the departments of the state and state
+21 institutions.
+-4- 1420

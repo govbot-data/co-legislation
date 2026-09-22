@@ -1,0 +1,355 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0482.02 Caroline Martin x5902 HOUSE BILL 26-1206
+House Committees Senate Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING IMPROVED FUNDING TO SUPPORT AFFORDABLE HOUSING
+102 DEVELOPMENT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill gives city and county housing authorities (housing
+authority) the power to provide for the levy of a sales tax, sales and use
+tax, or property tax within the jurisdiction of the authority, the resulting
+revenue of which will be directed to the housing authority, subject to the
+following conditions:
+! The city or county has adopted a resolution determining
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,82
+lirpA
+6202
+,72
+lirpA
+HOUSE SPONSORSHIP
+Joseph and Gonzalez R., Boesenecker, Duran, English
+SENATE SPONSORSHIP
+Lindstedt and Benavidez,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that the levying of the tax will fairly distribute the costs of
+the housing authority's activities among the beneficiaries of
+the housing authority's activities and will not impose an
+undue burden on any particular group of people; and
+! A ballot question has been submitted to a vote of the
+registered electors of the city or county and subsequently
+approved by a majority of such registered electors, and the
+ballot question describes the purposes for which the tax
+will be used by the housing authority and complies with
+section 20 of article X of the state constitution.
+If a sales or sales and use tax is approved by the voters of a
+housing authority:
+! The rate of the sales or sales and use tax must not exceed
+1% on any transaction taxable by the state;
+! The authority shall designate a liaison to coordinate with
+the department of revenue to implement the collection of
+the tax and to identify people eligible to collect the sales
+and use tax; and
+! The tax revenue must be directed to a fund of the authority.
+If an ad valorem property tax is approved by the voters of a
+housing authority:
+! The rate of the ad valorem property tax must not exceed 5
+mills on each dollar of valuation for assessment of the
+taxable property within the authority's jurisdiction;
+! The board of county commissioners of the county in which
+the housing authority is located shall levy the ad valorem
+property tax upon the valuation for assessment of all
+taxable property within the authority's jurisdiction;
+! The officials charged with collecting ad valorem property
+taxes for the county in which the housing authority is
+located shall collect the taxes at the time and in the form
+and manner and with like interest and penalties as other
+property taxes collected within the county;
+! The property tax revenue must be directed to a fund of the
+authority; and
+! All property tax revenue, together with interest thereon and
+penalties for default in payment thereof, and all costs of
+collecting the same shall constitute, until paid, a perpetual
+lien on and against the property taxed, and such lien shall
+be on a parity with the tax lien of other general taxes.
+The bill gives county housing authorities the power to issue
+revenue or general obligation bonds and to pledge the authority's revenues
+and revenue-raising powers for the payment of such bonds.
+The bill allows an urban renewal authority to enter into a shortfall
+guaranty contract with an urban renewal project developer (developer)
+-2- 1206
+
+specifying that, if the tax increment revenue is insufficient to pay the
+indebtedness incurred by the authority that is due, the developer is
+obligated to make a direct payment covering the full amount of the
+insufficiency. A shortfall guaranty contract:
+! Constitutes a lien on the urban renewal project property the
+same as, and equal in priority to, a tax lien;
+! Has priority over any mortgage, lien that is not a tax lien,
+or other encumbrance;
+! Constitutes a covenant running with the land for the term
+of the contract; and
+! May be recorded against the real property upon which the
+urban renewal project is developed.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Access to safe, stable, and affordable housing is essential for
+5 all Coloradans. Access to housing supports individual well-being, family
+6 stability, workforce participation, and long-term economic growth for the
+7 state.
+8 (b) There is a severe housing supply shortfall in Colorado, which
+9 represents the gap between the number of homes needed and those
+10 available, estimated at approximately 106,000 units;
+11 (c) Based on current population projections, to prevent further
+12 growth of the housing supply shortfall, developers would need to
+13 construct approximately 34,100 new homes annually in Colorado over the
+14 next decade;
+15 (d) The housing supply shortfall is particularly acute for renters
+16 who earn an extremely low income (those who earn at or below 30% of
+17 Area Median Income), since Colorado has a deficit of roughly 134,000
+18 rental homes that are affordable for such households;
+19 (e) Many households are cost-burdened, with 46.8% of renters and
+-3- 1206
+
+1 21.5% of homeowners spending over 30% of their income on housing.
+2 Only 11% of renters could afford to purchase a typical home in Colorado
+3 as of 2025.
+4 (f) The affordability gap is not solely due to low supply; housing
+5 prices and rents have increased faster than incomes, deepening the
+6 challenge of obtaining stable, affordable homes, particularly for working
+7 families, seniors, and other vulnerable populations;
+8 (g) The work of public housing authorities and developers is
+9 essential to expanding the stock of deeply affordable housing. However,
+10 current financing tools and incentive structures do not sufficiently
+11 prioritize or support these entities.
+12 (h) Allowing housing authorities to collect tax revenue within
+13 their jurisdictions will help these mission-driven entities more quickly
+14 expand the supply of deeply affordable housing.
+15 (2) Therefore, the general assembly finds and declares that
+16 expanding and modernizing affordable housing funding tools:
+17 (a) Is a matter of mixed statewide and local concern; and
+18 (b) Will increase housing availability, affordability, and stability,
+19 promote equitable development, and strengthen the public benefit of
+20 development investments in Colorado communities.
+21 SECTION 2. In Colorado Revised Statutes, 29-4-209, amend
+22 (1)(x) and (1)(y); and add (1)(z), (4), (5), (6), and (7) as follows:
+23 29-4-209. Powers of authority - definition.
+24 (1) An authority shall constitute a body both corporate and politic,
+25 exercising public powers and having all the powers necessary or
+26 convenient to carry out and effectuate the purposes and provisions of this
+27 part 2, including the following powers in addition to others granted in this
+-4- 1206
+
+1 section:
+2 (x) To make available to such agencies, boards, or commissions
+3 as are charged with the duty of abating nuisances or demolishing unsafe
+4 structures within its territorial limits its findings and recommendations
+5 with regard to any building or property where conditions exist which are
+6 dangerous to the public health, morals, safety, or welfare; and
+7 (y) To do all things necessary or convenient to carry out the
+8 powers given in this part 2; AND
+9 (z) TO PROVIDE FOR THE LEVY OF A UNIFORM SALES TAX, SALES
+10 AND USE TAX, OR BOTH IN ACCORDANCE WITH SUBSECTION (4) OF THIS
+11 SECTION.
+12 (4) (a) IF THE AUTHORITY ADOPTS A RESOLUTION DETERMINING
+13 THAT THE LEVYING OF A SALES TAX, SALES AND USE TAX, OR BOTH WILL
+14 FAIRLY DISTRIBUTE THE COSTS OF THE AUTHORITY'S ACTIVITIES AMONG
+15 THE BENEFICIARIES OF THE AUTHORITY'S ACTIVITIES AND WILL NOT IMPOSE
+16 AN UNDUE BURDEN ON ANY PARTICULAR GROUP OF PEOPLE OR BUSINESSES
+17 AND THE COUNCIL CONSENTS TO SUBMITTING A QUESTION TO THE CITY'S
+18 ELECTORS, THE COUNCIL SHALL SUBMIT TO THE CITY'S REGISTERED
+19 ELECTORS A BALLOT QUESTION IN THE FORM APPROVED BY THE
+20 AUTHORITY AND IN COMPLIANCE WITH SECTION 20 OF ARTICLE X OF THE
+21 STATE CONSTITUTION. ALL NEW TAX REVENUES GENERATED BY THE
+22 APPROVAL OF THE BALLOT QUESTION ARE IRREVOCABLY PLEDGED TO THE
+23 AUTHORITY FOR THE PURPOSES SET FORTH IN THE APPROVED BALLOT
+24 QUESTION, EXCEPTING ONLY THOSE DE MINIMUS ADMINISTRATIVE COSTS
+25 EXPENDED BY THE CITY IN PRESENTING THE BALLOT QUESTION TO THE
+26 ELECTORS AND EXPENDED BY THE CITY TO PAY THE DEPARTMENT OF
+27 REVENUE ITS COSTS IN THE ADMINISTRATION AND COLLECTION OF THE
+-5- 1206
+
+1 APPROVED TAX.
+2 (b) ANY SALES TAX, USE TAX, OR BOTH APPROVED PURSUANT TO
+3 THIS SUBSECTION (4) MUST BE LEVIED AT A RATE DETERMINED BY THE
+4 AUTHORITY NOT TO EXCEED ONE PERCENT, UPON EVERY TRANSACTION OR
+5 OTHER INCIDENT WITH RESPECT TO WHICH A SALES OR USE TAX IS LEVIED
+6 BY THE STATE PURSUANT TO ARTICLE 26 OF TITLE 39, EXCLUDING THE
+7 SALE OR USE OF CIGARETTES.
+8 (c) ANY SALES TAX, USE TAX, OR BOTH APPROVED PURSUANT TO
+9 THIS SUBSECTION (4) IS IN ADDITION TO ANY OTHER SALES TAX, USE TAX,
+10 OR BOTH IMPOSED PURSUANT TO LAW.
+11 (d) THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF REVENUE
+12 SHALL COLLECT, ADMINISTER, AND ENFORCE ANY SALES TAX, SALES AND
+13 USE TAX, OR BOTH AUTHORIZED PURSUANT TO THIS SUBSECTION (4)
+14 PURSUANT TO PART 2 OF ARTICLE 2 OF TITLE 29. NOTWITHSTANDING
+15 SUBSECTION (4)(a) OF THIS SECTION, THE CITY SHALL PAY THE NET
+16 INCREMENTAL COST INCURRED BY THE DEPARTMENT IN THE
+17 ADMINISTRATION AND COLLECTION OF THE SALES AND USE TAX.
+18
+19 (5) (a) FOR THE PURPOSE OF DETERMINING AN AUTHORITY'S FISCAL
+20 YEAR SPENDING LIMIT UNDER SECTION 20 (7)(b) OF ARTICLE X OF THE
+21 STATE CONSTITUTION, THE INITIAL SPENDING BASE OF THE AUTHORITY IS
+22 THE AMOUNT OF REVENUES COLLECTED BY THE AUTHORITY FROM
+23 SOURCES NOT EXCLUDED FROM FISCAL YEAR SPENDING PURSUANT TO
+24 SECTION 20 (2)(e) OF ARTICLE X OF THE STATE CONSTITUTION DURING THE
+25 FIRST FULL FISCAL YEAR FOR WHICH THE AUTHORITY COLLECTED
+26 REVENUES.
+27 (b) AS USED IN THIS SUBSECTION (5), "FISCAL YEAR" MEANS ANY
+-6- 1206
+
+1 YEAR-LONG PERIOD USED BY AN AUTHORITY FOR FISCAL ACCOUNTING
+2 PURPOSES.
+3 (6) THE DEPARTMENT OF REVENUE MAY SEEK, ACCEPT, AND
+4 EXPEND GIFTS, GRANTS, OR DONATIONS FROM PRIVATE OR PUBLIC SOURCES
+5 TO ADMINISTER A SALES OR SALES AND USE TAX THAT IS LEVIED IN
+6 ACCORDANCE WITH THIS SECTION. THE DEPARTMENT OF REVENUE IS NOT
+7 REQUIRED TO ADMINISTER A SALES OR SALES AND USE TAX THAT IS LEVIED
+8 IN ACCORDANCE WITH THIS SECTION UNTIL THE DEPARTMENT HAS
+9 RECEIVED SUFFICIENT MONEY TO DO SO. FOR STATE FISCAL YEAR 2027-28
+10 AND ANY SUBSEQUENT STATE FISCAL YEAR, THE GENERAL ASSEMBLY MAY
+11 APPROPRIATE MONEY FROM THE GENERAL FUND FOR THE
+12 IMPLEMENTATION OF THIS SECTION.
+13 (7) SUBSECTIONS (1)(z), (4), AND (5) OF THIS SECTION WILL TAKE
+14 EFFECT IF THE DEPARTMENT OF REVENUE RECEIVES AN AMOUNT OF GIFTS,
+15 GRANTS, AND DONATIONS SUFFICIENT TO PAY FOR THE DEPARTMENT'S
+16 COSTS IN ADMINISTERING A SALES OR SALES AND USE TAX LEVIED IN
+17 ACCORDANCE WITH THIS SECTION. THE EXECUTIVE DIRECTOR OF THE
+18 DEPARTMENT OF REVENUE SHALL NOTIFY THE REVISOR OF STATUTES IN
+19 WRITING OF THE DATE WHEN THE CONDITION SPECIFIED IN THIS
+20 SUBSECTION (7) HAS OCCURRED BY EMAILING THE NOTICE TO
+21 REVISOROFSTATUTES.GA@COLEG.GOV. SUBSECTIONS (1)(z), (4), AND (5)
+22 OF THIS SECTION TAKE EFFECT UPON THE DATE IDENTIFIED IN THE NOTICE
+23 THAT THE DEPARTMENT RECEIVED AN AMOUNT OF GIFTS, GRANTS, AND
+24 DONATIONS SUFFICIENT TO PAY FOR THE DEPARTMENT'S COSTS IN
+25 ADMINISTERING A SALES OR SALES AND USE TAX LEVIED IN ACCORDANCE
+26 WITH THIS SECTION OR, IF THE NOTICE DOES NOT SPECIFY THAT DATE,
+27 UPON THE DATE OF THE NOTICE TO THE REVISOR OF STATUTES.
+-7- 1206
+
+1 SECTION 3. In Colorado Revised Statutes, 29-4-505, amend (1)
+2 introductory portion and (1)(g); and add (1)(h), (1)(i), (2), (3), (4), and (5)
+3 as follows:
+4 29-4-505. Powers of authority - definition.
+5 (1) A housing authority shall constitute a public body, corporate
+6 and politic, exercise public and essential governmental functions, and
+7 have all the powers necessary and convenient to carry out and effectuate
+8 the purposes and provisions of this part 5, (but not the power to levy and
+9 collect taxes or special assessments) including the following powers:
+10 (g) To do all acts and things necessary or convenient to carry out
+11 the powers given AND THE PURPOSES DESCRIBED in this part 5; or the
+12 purposes hereof.
+13 (h) TO PROVIDE FOR THE LEVY OF A UNIFORM SALES TAX, SALES
+14 AND USE TAX, OR BOTH IN ACCORDANCE WITH SUBSECTION (2) OF THIS
+15 SECTION; AND
+16 (i) TO ISSUE REVENUE OR GENERAL OBLIGATION BONDS AND TO
+17 PLEDGE THE AUTHORITY'S REVENUES AND REVENUE-RAISING POWERS FOR
+18 THE PAYMENT OF SUCH BONDS. SUCH BONDS MUST BE ISSUED ON THE
+19 TERMS AND SUBJECT TO THE CONDITIONS SET FORTH IN SECTION 43-4-609.
+20 (2) (a) IF THE HOUSING AUTHORITY ADOPTS A RESOLUTION
+21 DETERMINING THAT THE LEVYING OF A SALES TAX, SALES AND USE TAX, OR
+22 BOTH WILL FAIRLY DISTRIBUTE THE COSTS OF THE AUTHORITY'S ACTIVITIES
+23 AMONG THE BENEFICIARIES OF THE AUTHORITY'S ACTIVITIES AND WILL
+24 NOT IMPOSE AN UNDUE BURDEN ON ANY PARTICULAR GROUP OF PEOPLE OR
+25 BUSINESSES AND THE BOARD CONSENTS TO SUBMITTING A QUESTION TO
+26 THE COUNTY'S ELECTORS, THE COUNTY SHALL SUBMIT TO THE COUNTY'S
+27 REGISTERED ELECTORS A BALLOT QUESTION IN THE FORM APPROVED BY
+-8- 1206
+
+1 THE AUTHORITY AND IN COMPLIANCE WITH SECTION 20 OF ARTICLE X OF
+2 THE STATE CONSTITUTION. ALL NEW TAX REVENUES GENERATED BY THE
+3 APPROVAL OF THE BALLOT QUESTION ARE IRREVOCABLY PLEDGED TO THE
+4 HOUSING AUTHORITY FOR THE PURPOSES SET FORTH IN THE APPROVED
+5 BALLOT QUESTION, EXCEPTING ONLY THOSE DE MINIMUS ADMINISTRATIVE
+6 COSTS EXPENDED BY THE COUNTY IN PRESENTING THE BALLOT QUESTION
+7 TO THE ELECTORS AND EXPENDED BY THE COUNTY TO PAY THE
+8 DEPARTMENT OF REVENUE ITS COSTS IN ADMINISTRATING THE COLLECTION
+9 OF THE APPROVED TAX.
+10 (b) ANY SALES TAX, USE TAX, OR BOTH APPROVED PURSUANT TO
+11 THIS SUBSECTION (2) MUST BE LEVIED AT A RATE DETERMINED BY THE
+12 HOUSING AUTHORITY NOT TO EXCEED ONE PERCENT, UPON EVERY
+13 TRANSACTION OR OTHER INCIDENT WITH RESPECT TO WHICH A SALES OR
+14 USE TAX IS LEVIED BY THE STATE PURSUANT TO ARTICLE 26 OF TITLE 39,
+15 EXCLUDING THE SALE OR USE OF CIGARETTES.
+16 (c) ANY SALES TAX, USE TAX, OR BOTH APPROVED PURSUANT TO
+17 THIS SUBSECTION (2) IS IN ADDITION TO ANY OTHER SALES TAX, USE TAX,
+18 OR BOTH IMPOSED PURSUANT TO LAW.
+19 (d) THE EXECUTIVE DIRECTOR OF THE DEPARTMENT OF REVENUE
+20 SHALL COLLECT, ADMINISTER, AND ENFORCE ANY SALES TAX, SALES AND
+21 USE TAX, OR BOTH AUTHORIZED PURSUANT TO THIS SUBSECTION (2)
+22 PURSUANT TO PART 2 OF ARTICLE 2 OF TITLE 29. NOTWITHSTANDING
+23 SUBSECTION (2)(a) OF THIS SECTION, THE COUNTY SHALL PAY THE NET
+24 INCREMENTAL COST INCURRED BY THE DEPARTMENT IN THE
+25 ADMINISTRATION AND COLLECTION OF THE SALES AND USE TAX.
+26
+27 (3) (a) FOR THE PURPOSE OF DETERMINING AN AUTHORITY'S FISCAL
+-9- 1206
+
+1 YEAR SPENDING LIMIT UNDER SECTION 20 (7)(b) OF ARTICLE X OF THE
+2 STATE CONSTITUTION, THE INITIAL SPENDING BASE OF THE AUTHORITY IS
+3 THE AMOUNT OF REVENUES COLLECTED BY THE AUTHORITY FROM
+4 SOURCES NOT EXCLUDED FROM FISCAL YEAR SPENDING PURSUANT TO
+5 SECTION 20 (2)(e) OF ARTICLE X OF THE STATE CONSTITUTION DURING THE
+6 FIRST FULL FISCAL YEAR FOR WHICH THE AUTHORITY COLLECTED
+7 REVENUES.
+8 (b) AS USED IN THIS SUBSECTION (3), "FISCAL YEAR" MEANS ANY
+9 YEAR-LONG PERIOD USED BY AN AUTHORITY FOR FISCAL ACCOUNTING
+10 PURPOSES.
+11 (4) THE DEPARTMENT OF REVENUE MAY SEEK, ACCEPT, AND
+12 EXPEND GIFTS, GRANTS, OR DONATIONS FROM PRIVATE OR PUBLIC SOURCES
+13 TO ADMINISTER A SALES OR SALES AND USE TAX THAT IS LEVIED IN
+14 ACCORDANCE WITH THIS SECTION. THE DEPARTMENT OF REVENUE IS NOT
+15 REQUIRED TO ADMINISTER A SALES OR SALES AND USE TAX THAT IS LEVIED
+16 IN ACCORDANCE WITH THIS SECTION UNTIL THE DEPARTMENT HAS
+17 RECEIVED SUFFICIENT MONEY TO DO SO. FOR STATE FISCAL YEAR 2027-28
+18 AND ANY SUBSEQUENT STATE FISCAL YEAR, THE GENERAL ASSEMBLY MAY
+19 APPROPRIATE MONEY FROM THE GENERAL FUND FOR THE
+20 IMPLEMENTATION OF THIS SECTION.
+21 (7) SUBSECTIONS (1)(h), (1)(i), (2), AND (3) OF THIS SECTION WILL
+22 TAKE EFFECT IF THE DEPARTMENT OF REVENUE RECEIVES AN AMOUNT OF
+23 GIFTS, GRANTS, AND DONATIONS SUFFICIENT TO PAY FOR THE
+24 DEPARTMENT'S COSTS IN ADMINISTERING A SALES OR SALES AND USE TAX
+25 LEVIED IN ACCORDANCE WITH THIS SECTION. THE EXECUTIVE DIRECTOR OF
+26 THE DEPARTMENT OF REVENUE SHALL NOTIFY THE REVISOR OF STATUTES
+27 IN WRITING OF THE DATE WHEN THE CONDITION SPECIFIED IN THIS
+-10- 1206
+
+1 SUBSECTION (7) HAS OCCURRED BY EMAILING THE NOTICE TO
+2 REVISOROFSTATUTES.GA@COLEG.GOV. SUBSECTIONS (1)(h), (1)(i), (2),
+3 AND (3) OF THIS SECTION TAKE EFFECT UPON THE DATE IDENTIFIED IN THE
+4 NOTICE THAT THE DEPARTMENT RECEIVED AN AMOUNT OF GIFTS, GRANTS,
+5 AND DONATIONS SUFFICIENT TO PAY FOR THE DEPARTMENT'S COSTS IN
+6 ADMINISTERING A SALES OR SALES AND USE TAX LEVIED IN ACCORDANCE
+7 WITH THIS SECTION OR, IF THE NOTICE DOES NOT SPECIFY THAT DATE,
+8 UPON THE DATE OF THE NOTICE TO THE REVISOR OF STATUTES.
+9
+10 SECTION 4. Effective date. This act takes effect January 1,
+11 2027.
+12 SECTION 5. Safety clause. The general assembly finds,
+13 determines, and declares that this act is necessary for the immediate
+14 preservation of the public peace, health, or safety or for appropriations for
+15 the support and maintenance of the departments of the state and state
+16 institutions.
+-11- 1206

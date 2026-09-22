@@ -1,0 +1,398 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0225.01 Clare Haffner x6137 HOUSE BILL 26-1081
+House Committees Senate Committees
+Energy & Environment Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO OPTIMIZE COLORADO'S ELECTRIC
+102 TRANSMISSION SYSTEM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 3 of the bill defines "advanced transmission technologies"
+as hardware or software technologies that increase the capacity,
+efficiency, reliability, or resiliency of an existing or new transmission
+facility.
+Section 4 requires the Colorado public utilities commission
+(commission) to adopt rules requiring a regulated electric utility to
+ETANES
+ETANES
+ESUOH
+ESUOH
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,8
+lirpA
+6202
+,7
+lirpA
+6202
+,6
+hcraM
+6202
+,5
+hcraM
+HOUSE SPONSORSHIP
+Camacho and Duran, Bacon, Boesenecker, Brown, Lindsay, McCormick, Nguyen,
+Paschal, Smith
+SENATE SPONSORSHIP
+Roberts, Amabile, Bridges, Coleman, Cutter, Gonzales J., Jodeh, Kipp, Lindstedt, Mullica,
+Simpson, Wallace, Weissman
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+consider advanced transmission technologies in the electric utility's
+10-year transmission plan and to identify strategies to reduce the costs of
+new transmission.
+Section 5 requires the Colorado electric transmission authority
+(authority) to, as much as practicable, engage and coordinate with formal
+subregional transmission planning organizations.
+Under current law, the authority is required to annually submit a
+report of its activities, including a complete operating and financial
+statement covering the operations of the authority for the previous state
+fiscal year, to certain committees of reference of the general assembly.
+Section 6 requires that the annual report also include a description of the
+activities and accomplishments of the authority during the previous
+calendar year.
+Section 7 adds a nonvoting seat to the authority's board of
+directors for the director of the commission or the director's designee.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Colorado Grid Optimization Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and declares that:
+6 (a) Both in-state and regional electric transmission systems are
+7 essential to maintaining grid reliability and resilience amid unprecedented
+8 load growth. As new transmission projects undergo lengthy planning,
+9 permitting, and review processes, commercially available and proven
+10 advanced transmission technologies present near-term opportunities to
+11 accelerate the interconnection of new resources, maximize the
+12 performance of existing transmission assets, and deliver least-cost energy
+13 to consumers.
+14 (b) Advanced transmission technologies are technologies that
+15 increase the capacity, efficiency, reliability, or resiliency of a transmission
+16 facility and have the potential to optimize the transmission grid by
+17 lowering costs, reducing congestion, and expediting the interconnection
+-2- 1081
+
+1 of new load;
+2 (c) Advanced transmission technologies have been shown to
+3 complement transmission expansion by optimizing the cost, utilization,
+4 and value of new transmission build-out. When planned in tandem with
+5 proposed new transmission facilities, these technologies can alleviate
+6 transmission constraints, improve system efficiency, inform more
+7 strategic siting and sequencing of infrastructure, and support broader
+8 benefits for customers, landowners, wildlife, and disproportionately
+9 impacted communities.
+10 (d) National analyses, the federal energy regulatory commission,
+11 and various state utility commissions have identified advanced
+12 transmission technologies as cost-effective tools that can be deployed on
+13 faster timelines than new transmission construction, thereby supporting
+14 near-term reliability and job creation while mitigating rate impacts for
+15 customers;
+16 (e) Strategic use of advanced transmission technologies also has
+17 the potential to reduce wildfire risk and prevent power outages during
+18 emergencies by improving real-time situational awareness and reducing
+19 stress on existing transmission lines under extreme conditions;
+20 (f) Integrating advanced transmission technologies into relevant
+21 transmission planning processes and decision-making can support
+22 Colorado's long-term energy affordability and grid modernization efforts
+23 by making sufficient information available to regulators and the public
+24 regarding where such technologies can deliver system-wide and customer
+25 benefits;
+26 (g) The Colorado electric transmission authority, referred to in this
+27 section as the "authority", was created by Senate Bill 21-072 to enable the
+-3- 1081
+
+1 expansion and financing of electric transmission facilities and
+2 infrastructure and has since helped advance the state's clean energy goals
+3 and reliability with an interregional focus. Additionally, Senate Bill
+4 23-016 required the authority to conduct a transmission capacity
+5 expansion study to assess the need for expanded transmission capacity in
+6 the state.
+7 (h) It is in the state's best interest to have coordinated statewide
+8 transmission planning, and there is great potential value in the authority
+9 providing leadership in regional transmission coordination and
+10 interregional project development, including by supporting the
+11 advancement of priority projects through joint studies and the facilitation
+12 of multi-utility and grid operator collaboration where appropriate; and
+13 (i) Regional planning groups, along with the authority, can
+14 provide the state with a dedicated venue to coordinate interregional
+15 transmission needs and advocate for equitable cost allocation and public
+16 policy alignment in regional transmission organization governance
+17 structures.
+18 SECTION 3. In Colorado Revised Statutes, 40-42-102, add (1.3),
+19 (1.5), and (12.5) as follows:
+20 40-42-102. Definitions.
+21 As used in this article 42, unless the context otherwise requires:
+22 (1.3) "ADVANCED CONDUCTOR" MEANS A CONDUCTOR
+23 TECHNOLOGY USED IN AN ELECTRIC TRANSMISSION SYSTEM THAT, WHEN
+24 COMPARED TO AN ALUMINUM CONDUCTOR STEEL REINFORCED
+25 CONDUCTOR OF THE SAME DIAMETER, PLUS OR MINUS ONE PERCENT:
+26 (a) HAS A DIRECT CURRENT ELECTRICAL RESISTANCE, MEASURED
+27 AT A STANDARD REFERENCE TEMPERATURE OF TWENTY DEGREES CELSIUS
+-4- 1081
+
+1 CONSISTENT WITH INDUSTRY PRACTICE, THAT IS AT LEAST FIFTEEN
+2 PERCENT LOWER OR MEETS HIGHER PERFORMANCE STANDARDS
+3 RECOGNIZED BY THE COMMISSION TO ACCOUNT FOR EVOLVING
+4 TECHNOLOGIES OR TRANSMISSION SYSTEM NEEDS; AND
+5 (b) INCREASES THE POTENTIAL ENERGY CARRYING CAPACITY BY
+6 AT LEAST SIXTY PERCENT OR MEETS HIGHER PERFORMANCE STANDARDS
+7 RECOGNIZED BY THE COMMISSION TO ACCOUNT FOR EVOLVING
+8 TECHNOLOGIES OR TRANSMISSION SYSTEM NEEDS.
+9 (1.5) "ADVANCED TRANSMISSION TECHNOLOGIES" MEANS
+10 HARDWARE OR SOFTWARE TECHNOLOGIES THAT INCREASE THE CAPACITY,
+11 EFFICIENCY, RELIABILITY, OR RESILIENCY OF AN EXISTING OR NEW
+12 TRANSMISSION FACILITY, INCLUDING:
+13 (a) ADVANCED CONDUCTORS; AND
+14 (b) GRID-ENHANCING TECHNOLOGIES.
+15 (12.5) "GRID-ENHANCING TECHNOLOGY" MEANS A HARDWARE OR
+16 SOFTWARE TECHNOLOGY THAT REDUCES CONGESTION OR ENHANCES THE
+17 FLEXIBILITY OF ELECTRIC TRANSMISSION AND DISTRIBUTION SYSTEMS BY
+18 INCREASING THE CAPACITY OF A TRANSMISSION OR DISTRIBUTION LINE, OR
+19 BY REROUTING ELECTRICITY FROM OVERLOADED LINES TO UNCONGESTED
+20 LINES, WHILE MAINTAINING INDUSTRY SAFETY STANDARDS.
+21 "GRID-ENHANCING TECHNOLOGY" INCLUDES:
+22 (a) DYNAMIC LINE RATINGS;
+23 (b) ADVANCED POWER FLOW CONTROLLERS;
+24 (c) TOPOLOGY OPTIMIZATION;
+25 (d) ENERGY STORAGE, INCLUDING ANY TYPE OF MOBILE OR
+26 RELOCATABLE ENERGY STORAGE SYSTEM, WHEN USED AS A TRANSMISSION
+27 OR DISTRIBUTION RESOURCE; AND
+-5- 1081
+
+1 (e) OTHER TECHNOLOGIES THAT INCREASE GRID RELIABILITY,
+2 FLEXIBILITY, AND CAPACITY.
+3 SECTION 4. In Colorado Revised Statutes, 40-2-126, amend (6);
+4 and add (7), (8), and (9) as follows:
+5 40-2-126. Transmission facilities - biennial review - energy
+6 resource zones - plans - approval - cost recovery - powerline trail
+7 consideration - rules - definitions.
+8 (6) The commission shall amend its rules requiring the filing of
+9 ten-year transmission plans by utilities to also require utilities to:
+10 (a) Consider and address plans for the construction of new
+11 powerline trails in coordination with applicable local governments in each
+12 two-year update to a ten-year transmission plan; and
+13 (b) Demonstrate compliance with section 33-45-103 (2);
+14 (c) FOR UTILITIES SUBJECT TO RATE REGULATION BY THE
+15 COMMISSION, IDENTIFY STRATEGIES TO REDUCE THE COSTS OF
+16 CONSTRUCTION AND OBTAINING ADEQUATE FINANCING FOR IDENTIFIED
+17 PROJECTS IN THE UTILITY'S TEN-YEAR TRANSMISSION PLAN, INCLUDING BY
+18 CONSIDERING, AFTER EVALUATING WHETHER APPLICABLE, THE USE OF
+19 BONDS ISSUED BY THE COLORADO ELECTRIC TRANSMISSION AUTHORITY
+20 PURSUANT TO SECTION 40-42-104 (1)(r). IF A UTILITY IDENTIFIES OR
+21 EVALUATES THE POTENTIAL USE OF BONDS ISSUED BY THE COLORADO
+22 ELECTRIC TRANSMISSION AUTHORITY AS A COST-REDUCTION STRATEGY IN
+23 THE UTILITY'S TEN-YEAR TRANSMISSION PLAN, THE UTILITY SHALL
+24 CONSULT WITH THE COLORADO ELECTRIC TRANSMISSION AUTHORITY
+25 PRIOR TO FILING THE UTILITY'S TEN-YEAR TRANSMISSION PLAN.
+26 (d) INCORPORATE, IN THE UTILITY'S TEN-YEAR TRANSMISSION
+27 PLAN, AN EVALUATION OF ADVANCED TRANSMISSION TECHNOLOGIES,
+-6- 1081
+
+1 AS DEFINED IN SECTION 40-42-102 (1.5), WHICH EVALUATION MUST
+2 INCLUDE:
+3 (I) A TECHNICAL FEASIBILITY ASSESSMENT;
+4 (II) IF TECHNICALLY FEASIBLE, A COST-EFFECTIVENESS ANALYSIS
+5 AND TIMETABLE FOR POTENTIAL DEPLOYMENT;
+6 (III) AN ASSESSMENT OF ADVANCED TRANSMISSION
+7 TECHNOLOGIES ABLE TO REDUCE OR MITIGATE TRANSMISSION SYSTEM
+8 NEEDS WITH THE POTENTIAL TO ACHIEVE THE FOLLOWING, AS APPLICABLE:
+9 (A) AN INCREASE IN TRANSMISSION SYSTEM CAPACITY,
+10 COST-EFFECTIVENESS, RELIABILITY, OR RESILIENCY;
+11 (B) A REDUCTION OF TRANSMISSION SYSTEM CONGESTION;
+12 (C) A REDUCTION IN THE TIMELINE TO CONNECT NEW GENERATION
+13 OR LOAD TO THE GRID;
+14 (D) A REDUCTION OF THE RISK OF IGNITING WILDFIRES;
+15 (E) AN INCREASE IN CAPACITY TO CONNECT NEW RENEWABLE
+16 ENERGY AND CLEAN ENERGY RESOURCES REFLECTING THE UTILITY'S
+17 GENERATION AND LOAD PLANNING FORECASTS FROM THE UTILITY'S MOST
+18 RECENT ELECTRIC RESOURCE PLAN; OR
+19 (F) AN INCREASE IN THE TRANSFER CAPABILITY OF ELECTRICITY
+20 BETWEEN COLORADO AND NEIGHBORING STATES;
+21 (IV) A DESCRIPTION OF ANY ADDITIONAL POTENTIAL BENEFITS OF
+22 DEPLOYING ADVANCED TRANSMISSION TECHNOLOGIES, WHICH BENEFITS
+23 MAY INCLUDE:
+24 (A) THE ABILITY TO MEET SHORT-TERM TRANSMISSION NEEDS
+25 WHILE NEW TRANSMISSION IS BEING SITED, PERMITTED, OR CONSTRUCTED;
+26 AND
+27 (B) A REDUCTION IN IMPACTS TO HIGH-PRIORITY HABITATS,
+-7- 1081
+
+1 WILDLIFE MOVEMENT CORRIDORS AND CROSSINGS, AND SPECIES OF
+2 GREATEST CONSERVATION NEED, AS IDENTIFIED BY THE DIVISION OF PARKS
+3 AND WILDLIFE CREATED IN SECTION 33-9-104; AND
+4 (V) IF ADVANCED TRANSMISSION TECHNOLOGIES ARE FOUND TO
+5 OFFER A MORE COST-EFFECTIVE STRATEGY TO ACHIEVE THE GOALS LISTED
+6 IN SUBSECTION (6)(d)(III) OF THIS SECTION, WHETHER IN COMBINATION
+7 WITH OR INSTEAD OF OTHER CAPITAL INVESTMENTS, BUT ARE NOT
+8 INCORPORATED INTO THE UTILITY'S TEN-YEAR TRANSMISSION PLAN, A
+9 DETAILED EXPLANATION, INCLUDING RELEVANT ANALYSES, SUBMITTED TO
+10 THE COMMISSION AS PART OF THE UTILITY'S TEN-YEAR TRANSMISSION
+11 PLAN AND ADVANCED TRANSMISSION TECHNOLOGIES EVALUATION,
+12 EXPLAINING WHY ADVANCED TRANSMISSION TECHNOLOGIES SHOULD NOT
+13 BE DEPLOYED TO MEET A SPECIFIC NEED OR IN LIEU OF ANOTHER PROJECT.
+14 (7) AN IDENTIFICATION OF A WILDFIRE-RELATED BENEFIT AS
+15 DESCRIBED IN SUBSECTION (6)(d)(III)(D) OF THIS SECTION IN AN
+16 ASSESSMENT OF ADVANCED TRANSMISSION TECHNOLOGIES CONDUCTED
+17 BY A UTILITY PURSUANT TO SUBSECTION (6)(d)(III) OF THIS SECTION DOES
+18 NOT TRIGGER A SEPARATE COMMISSION APPROVAL PROCESS. THE
+19 COMMISSION MAY CONSIDER THE IDENTIFIED WILDFIRE-RELATED BENEFIT
+20 DURING THE COMMISSION'S REVIEW OF THE UTILITY'S NEXT WILDFIRE
+21 MITIGATION PLAN FILING OR A FUTURE CERTIFICATE OF PUBLIC
+22 CONVENIENCE AND NECESSITY FILED BY THE UTILITY.
+23 (8) NOTHING IN SUBSECTION (6) OF THIS SECTION PRECLUDES THE
+24 EVALUATION OF OTHER TECHNOLOGIES OR DEVICES THAT ENHANCE THE
+25 RELIABILITY, RESILIENCE, OR PROTECTION OF THE ELECTRIC TRANSMISSION
+26 SYSTEM, INCLUDING BY IMPROVING THE STABILITY OF EXISTING
+27 TRANSMISSION INFRASTRUCTURE.
+-8- 1081
+
+1 (9) (a) IN AMENDING ITS RULES PURSUANT TO SUBSECTION (6) OF
+2 THIS SECTION, THE COMMISSION SHALL SEEK TO MINIMIZE DUPLICATION OF
+3 TRANSMISSION PLANNING PROCESSES, TECHNICAL STUDIES, OR ANALYSES
+4 CONDUCTED THROUGH AN APPLICABLE REGIONAL TRANSMISSION
+5 ORGANIZATION OR INDEPENDENT SYSTEM OPERATOR. IN DOING SO, THE
+6 COMMISSION MAY ALLOW A UTILITY TO REFERENCE AND INCORPORATE
+7 ANALYSES CONDUCTED THROUGH AN APPLICABLE REGIONAL
+8 TRANSMISSION ORGANIZATION OR INDEPENDENT SYSTEM OPERATOR, AS
+9 APPROPRIATE, AND TO RELY ON THESE ANALYSES TO SATISFY THE
+10 REQUIREMENTS OF THIS SECTION TO THE EXTENT THAT THE ANALYSES
+11 ADDRESS THE REQUIREMENTS OF THIS SECTION.
+12 (b) A UTILITY RELYING ON ANALYSES CONDUCTED THROUGH AN
+13 APPLICABLE REGIONAL TRANSMISSION ORGANIZATION OR INDEPENDENT
+14 SYSTEM OPERATOR SHALL IDENTIFY IN THE UTILITY'S FILING THE SECTION
+15 OF EACH ANALYSIS THAT ADDRESSES THE REQUIREMENTS OF THE
+16 ADVANCED TRANSMISSION TECHNOLOGIES EVALUATION SET FORTH IN
+17 SUBSECTION (6)(d) OF THIS SECTION AND THE RELEVANCE OF THE
+18 ANALYSIS TO THOSE REQUIREMENTS.
+19 (c) PARTICIPATION IN A REGIONAL TRANSMISSION PLANNING
+20 PROCESS DOES NOT BY ITSELF SATISFY THE REQUIREMENTS OF COMMISSION
+21 RULES AMENDED PURSUANT TO SUBSECTION (6) OF THIS SECTION.
+22 SECTION 5. In Colorado Revised Statutes, 40-42-104, add (10)
+23 as follows:
+24 40-42-104. General and specific powers and duties of the
+25 authority.
+26 (10) IN CONDUCTING ITS DUTIES IN ACCORDANCE WITH THIS
+27 ARTICLE 42, THE AUTHORITY SHALL, TO THE EXTENT PRACTICABLE,
+-9- 1081
+
+1 ENGAGE AND COORDINATE WITH FORMAL SUBREGIONAL TRANSMISSION
+2 PLANNING ORGANIZATIONS.
+3 SECTION 6. In Colorado Revised Statutes, amend 40-42-108 as
+4 follows:
+5 40-42-108. Report to general assembly.
+6 Commencing in 2022, the authority shall submit a report of its
+7 activities to the energy and environment committee of the house of
+8 representatives and the transportation and energy committee of the senate,
+9 or any successor committees, not later than December 1 JANUARY 31 of
+10 each year. The report shall set forth a complete operating and financial
+11 statement covering the operations of the authority for the previous state
+12 fiscal year AND A DESCRIPTION OF THE ACTIVITIES AND ACCOMPLISHMENTS
+13 OF THE AUTHORITY DURING THE PREVIOUS CALENDAR YEAR.
+14 Notwithstanding section 24-1-136 (11)(a)(I), the requirement to submit
+15 the report continues indefinitely.
+16 SECTION 7. In Colorado Revised Statutes, 40-42-103, amend
+17 (2)(a) as follows:
+18 40-42-103. Authority - creation - board - open meetings and
+19 open records.
+20 (2) (a) The powers of the authority are vested in a board of
+21 directors, which consists of the following nine TEN members:
+22 (I) Two members appointed by the governor with the consent of
+23 the senate;
+24 (II) The director of the Colorado energy office created in section
+25 24-38.5-101 or the director's designee;
+26 (III) Three members appointed by the speaker of the house of
+27 representatives; and
+-10- 1081
+
+1 (IV) Three members appointed by the president of the senate; AND
+2 (V) THE DIRECTOR OF THE COMMISSION OR THE DIRECTOR'S
+3 DESIGNEE, WHO IS A NONVOTING EX OFFICIO MEMBER.
+4 SECTION 8. In Colorado Revised Statutes, 24-92-303, amend
+5 (1) and (5)(b)(II)(C); and add (1.5) as follows:
+6 24-92-303. Definitions.
+7 As used in this part 3, unless the context otherwise requires:
+8 (1) "Construction" means the construction, alteration, or repair of
+9 an energy sector public works project, consistent with and including the
+10 same limitations as the definition of construction as established in section
+11 45 (b)(7)(a) of the federal "Internal Revenue Code of 1986", as amended,
+12 and as described in all related official guidance from the federal internal
+13 revenue service and the United States department of labor implementing
+14 the applicable sections of the federal "Inflation Reduction Act".
+15 "ADVANCED TRANSMISSION TECHNOLOGIES" HAS THE MEANING SET FORTH
+16 IN SECTION 40-42-102 (1.5).
+17 (1.5) "CONSTRUCTION" MEANS THE CONSTRUCTION, ALTERATION,
+18 OR REPAIR OF AN ENERGY SECTOR PUBLIC WORKS PROJECT, CONSISTENT
+19 WITH AND INCLUDING THE SAME LIMITATIONS AS THE DEFINITION OF
+20 CONSTRUCTION AS ESTABLISHED IN SECTION 45 (b)(7)(a) OF THE FEDERAL
+21 "INTERNAL REVENUE CODE OF 1986", AS AMENDED, AND AS DESCRIBED
+22 IN ALL RELATED OFFICIAL GUIDANCE FROM THE FEDERAL INTERNAL
+23 REVENUE SERVICE AND THE UNITED STATES DEPARTMENT OF LABOR
+24 IMPLEMENTING THE APPLICABLE SECTIONS OF THE FEDERAL "INFLATION
+25 REDUCTION ACT".
+26 (5) (b) "Energy sector public works project" includes the
+27 following project types, so long as they satisfy the criteria in subsection
+-11- 1081
+
+1 (5)(a)(I) or (5)(a)(II) of this section:
+2 (II) Other projects with a total project cost of one million dollars
+3 or more that include:
+4 (C) Electric transmission projects, INCLUDING PROJECTS THAT
+5 INCLUDE ADVANCED TRANSMISSION TECHNOLOGIES;
+6 SECTION 9. In Colorado Revised Statutes, 24-92-304, add (6)
+7 as follows:
+8 24-92-304. Energy sector public works projects - craft labor
+9 employment - training - wage requirements.
+10 (6) (a) AN ENERGY SECTOR PUBLIC WORKS PROJECT THAT
+11 INCLUDES ADVANCED TRANSMISSION TECHNOLOGIES MUST MEET THE
+12 PREVAILING WAGE REQUIREMENTS SET FORTH IN THIS PART 3 AND THE
+13 APPRENTICESHIP UTILIZATION REQUIREMENTS SET FORTH IN SECTION
+14 24-92-115.
+15 (b) NOTHING IN THIS ARTICLE 92 APPLIES TO A PROJECT THAT
+16 INCLUDES ADVANCED TRANSMISSION TECHNOLOGIES, WHICH PROJECT
+17 DOES NOT REQUIRE UTILITY LINE CONSTRUCTION WORK PERFORMED BY A
+18 JOURNEYMAN LINEWORKER OR PROPERLY SUPERVISED APPRENTICE, SUCH
+19 AS A SOFTWARE UPGRADE OR SMALL INSTALLATION THAT DOES NOT MEET
+20 THE REQUIREMENTS FOR AN ENERGY SECTOR PUBLIC WORKS PROJECT.
+21 SECTION 10. Act subject to petition - effective date. This act
+22 takes effect at 12:01 a.m. on the day following the expiration of the
+23 ninety-day period after final adjournment of the general assembly (August
+24 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+25 referendum petition is filed pursuant to section 1 (3) of article V of the
+26 state constitution against this act or an item, section, or part of this act
+27 within such period, then the act, item, section, or part will not take effect
+-12- 1081
+
+1 unless approved by the people at the general election to be held in
+2 November 2026 and, in such case, will take effect on the date of the
+3 official declaration of the vote thereon by the governor.
+-13- 1081

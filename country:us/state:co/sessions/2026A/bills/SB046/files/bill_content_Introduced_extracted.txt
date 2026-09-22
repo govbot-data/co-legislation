@@ -1,0 +1,510 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0269.01 Rebecca Bayetti x4348 SENATE BILL 26-046
+SENATE SPONSORSHIP
+Frizell and Ball,
+HOUSE SPONSORSHIP
+Richardson and Zokaie,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING PROCEDURAL REQUIREMENTS FOR THE ADMINISTRATION
+102 OF PROPERTY TAX, AND, IN CONNECTION THEREWITH,
+103 MODIFYING DEADLINES AND CERTAIN REQUIREMENTS FOR
+104 TRANSMITTING INFORMATION RELATED TO TAXABLE PROPERTY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes multiple changes to procedural requirements for the
+administration of property tax in 2 broad categories: Deadlines and
+requirements for transmitting information.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Modifications to deadlines. The bill modifies property tax-related
+deadlines as follows:
+! Aligns the regular and late application dates for the
+qualified-senior primary residence real property
+classification and the property tax exemption for qualifying
+veterans with disabilities and their spouses with those for
+the property tax exemption for qualifying seniors and their
+spouses. The regular application deadline is July 15 and
+late applications may be accepted until August 15 (sections
+1, 5, and 6 of the bill).
+! Increases from $10,000 to $20,000 the current threshold for
+a board of county commissioners (board) to recommend, or
+a county assessor with the approval of a board to settle, an
+abatement or refund of taxes. The threshold for the board
+being required to submit recommended abatement
+applications to the property tax administrator
+(administrator) for review is similarly increased from
+$10,000 to $20,000. The board is not required to submit an
+application to the administrator in the case of an abatement
+or refund caused by a valuation change made to ensure
+matching values within the same reassessment cycle
+(section 3).
+! Changes the real property protest deadline from June 8 to
+June 1 (sections 7 and 8);
+! Changes the deadline for a county assessor to send a notice
+of valuation of personal property from June 15 to July 15
+and changes the personal property protest deadline from
+June 30 to July 31 for a county that uses alternate protest
+and appeal procedures (alternate procedures) to determine
+objections and protests for taxable property (sections 7 and
+8);
+! Clarifies that a county's use of alternate procedures may
+apply to real or personal property, or both (section 9); and
+! Aligns the protest deadline for personal property with the
+date that county assessors must conclude their hearings on
+such protests so that both the protest and hearing
+conclusion dates for personal property are June 30, or, for
+a county that uses alternate procedures, July 31 (section 8).
+Modifications to requirements for transmitting information.
+The bill modifies requirements for transmitting property tax information
+as follows:
+! Clarifies that a county assessor or the board may transmit
+a required abstract of assessment, certification of taxes
+levied, or application for a recommended abatement or
+refund in excess of $20,000 to the administrator in a paper
+-2- SB26-046
+
+or electronic format (sections 2, 3, 4, 10 and 11);
+! Reduces the number of copies of an application for a
+recommended abatement or refund in excess of $20,000
+that the board must send to the administrator for review to
+one (section 3);
+! Reduces the number of copies of a notice of determination
+that an assessor must send to a taxpayer who has objected
+to the valuation of the taxpayer's property to one (section
+8); and
+! Reduces the number of copies of an abstract of assessment
+that need to be prepared to one (sections 4, 10, and 11).
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 39-1-104.6, amend
+3 (7)(b)(II) as follows:
+4 39-1-104.6. Qualified-senior primary residence real property
+5 - valuation for assessment - reimbursement to local governments for
+6 reduced valuation - temporary mechanism for refunding excess state
+7 revenues - legislative declaration - definitions.
+8 (7) Notice of classification - appeal.
+9 (b) (II) An individual who has not timely filed an application with
+10 the assessor by March 15 JULY 15 may file a late application no later than
+11 the July 15 AUGUST 15 that immediately follows that deadline. The
+12 assessor shall MAY accept any such application but may not accept any
+13 late application filed after July 15 AUGUST 15. A decision of an assessor
+14 to disallow the filing of a late application after July 15 or to grant or deny
+15 the classification to an applicant who has filed a late application after
+16 March 15 but no later than July 15 is final, and an applicant who is denied
+17 late filing or classification of property as qualified-senior primary
+18 residence real property may not contest the denial.
+19 SECTION 2. In Colorado Revised Statutes, 39-1-111, amend (2)
+-3- SB26-046
+
+1 as follows:
+2 39-1-111. Taxes levied by board of county commissioners.
+3 (2) As soon as such levies have been made, the board of county
+4 commissioners, or other body authorized by law to levy taxes, or either
+5 group's authorized party shall forthwith certify all such levies to the
+6 assessor, upon forms prescribed by the administrator, and shall transmit
+7 a copy of such certification to the administrator, to the division of local
+8 government, and to the department of education, IN AN ELECTRONIC OR
+9 PAPER FORMAT.
+10 SECTION 3. In Colorado Revised Statutes, 39-1-113, amend
+11 (1.5), (2), and (3) as follows:
+12 39-1-113. Abatement and refund of taxes.
+13 (1.5) Upon authorization by the board of county commissioners,
+14 the assessor may review petitions for abatement or refund and settle by
+15 written mutual agreement any such petition for abatement or refund in an
+16 amount of ten TWENTY thousand dollars or less per tract, parcel, or lot of
+17 land or per schedule of personal property. Any abatement or refund
+18 agreed upon and settled pursuant to this subsection (1.5) shall not be
+19 subject to the requirements of subsection (1) of this section.
+20 (2) (a) Whenever any abatement or refund in an amount of ten
+21 TWENTY thousand dollars or less is recommended by the board of county
+22 commissioners, the board shall order the abatement of taxes pro rata for
+23 all levies applicable to such property, or, in the case of a refund, the board
+24 shall order the refund of taxes pro rata by all jurisdictions receiving
+25 payment thereof.
+26 (b) Whenever any abatement or refund in an amount of ten
+27 TWENTY thousand dollars or less has been agreed upon and settled by the
+-4- SB26-046
+
+1 assessor pursuant to subsection (1.5) of this section, the assessor shall
+2 order the abatement of taxes pro rata for all levies applicable to such
+3 property, or, in the case of a refund, the assessor shall order the refund of
+4 taxes pro rata by all jurisdictions receiving payment thereof.
+5 (3) Whenever any abatement or refund in an amount in excess of
+6 ten TWENTY thousand dollars is recommended by the board of county
+7 commissioners, THE BOARD SHALL SUBMIT two copies ONE COPY of an
+8 application therefor FOR ABATEMENT OR REFUND IN AN ELECTRONIC OR
+9 PAPER FORMAT, reciting the amount of such abatement or refund and the
+10 grounds upon which it should be allowed, shall be submitted to the
+11 administrator for review pursuant to section 39-2-116; EXCEPT THAT, THE
+12 BOARD OF COUNTY COMMISSIONERS IS NOT REQUIRED TO SUBMIT AN
+13 APPLICATION TO THE ADMINISTRATOR IN THE CASE OF AN ABATEMENT OR
+14 REFUND CAUSED BY A VALUATION CHANGE TO ENSURE MATCHING VALUES
+15 WITHIN THE SAME REASSESSMENT CYCLE. If an application is approved,
+16 the board of county commissioners shall order the abatement of taxes pro
+17 rata for all levies applicable to such property, or, in the case of a refund,
+18 the board of county commissioners shall order the refund of taxes pro rata
+19 by all jurisdictions receiving payment thereof.
+20 SECTION 4. In Colorado Revised Statutes, 39-2-115, amend
+21 (1)(a) as follows:
+22 39-2-115. Review of abstracts of assessment -
+23 recommendations - repeal.
+24 (1) (a) No later than August 25 of each year, each county assessor
+25 shall file with the property tax administrator two copies ONE COPY of an
+26 abstract of assessment of the county IN AN ELECTRONIC OR PAPER FORMAT.
+27 SECTION 5. In Colorado Revised Statutes, 39-3-205, amend
+-5- SB26-046
+
+1 (1)(b) as follows:
+2 39-3-205. Exemption applications - penalty for providing false
+3 information - confidentiality.
+4 (1) (b) To claim the exemption allowed by section 39-3-203 (1.5),
+5 an individual shall file with the assessor a completed exemption
+6 application and proof of qualifying veteran with a disability status no later
+7 than July 1 JULY 15 of the first property tax year for which the exemption
+8 is claimed. An application returned by mail shall be deemed filed on the
+9 date it is postmarked. An individual who filed an exemption application
+10 with the division rather than with the assessor as was required before this
+11 subsection (1)(b) was amended by Senate Bill 23-036, enacted in 2023,
+12 and who qualified for and received an exemption for a property tax year
+13 commencing before January 1, 2024, retains the exemption and is not
+14 required to submit a new application or proof of qualifying veteran with
+15 a disability status to the assessor.
+16 SECTION 6. In Colorado Revised Statutes, 39-3-206, amend
+17 (2)(a.7) as follows:
+18 39-3-206. Notice to individuals returning incomplete or
+19 nonqualifying exemption applications - denial of exemption -
+20 administrative remedies.
+21 (2) (a.7) An individual who wishes to claim the exemption for
+22 qualifying veterans with a disability allowed by section 39-3-203 (1.5),
+23 but who has not timely filed an exemption application, may request that
+24 the assessor waive the application deadline and allow the individual to
+25 file a late exemption application no later than the August 1 AUGUST 15
+26 that immediately follows the original application deadline. The assessor
+27 may accept an application if, in the assessor's sole discretion, the
+-6- SB26-046
+
+1 applicant shows good cause for not timely filing an application. If the
+2 assessor accepts a late application, the assessor shall determine whether
+3 the application should be granted or denied pursuant to subsection (1.5)
+4 of this section and shall mail notice of its determination to the applicant
+5 no later than the August 25 that immediately follows the late application
+6 deadline. A decision of the assessor to allow or disallow the filing of a
+7 late application or of an assessor to grant or deny an exemption to an
+8 applicant who has filed a late application is final, and an applicant who
+9 is denied late filing or an exemption may not contest the denial.
+10 SECTION 7. In Colorado Revised Statutes, 39-5-121, amend
+11 (1)(a)(I), (1.5)(a)(I), and (4)(a); and add (1.5)(a)(III) as follows:
+12 39-5-121. Notice of valuation - legislative declaration -
+13 definition - repeal.
+14 (1) (a) (I) No later than May 1 in each year, the assessor shall mail
+15 to each person who owns land or improvements a notice setting forth the
+16 valuation of such land or improvements. For agricultural property, the
+17 notice must separately state the actual value of such land or improvements
+18 in the previous year, the actual value in the current year, and the amount
+19 of any adjustment in actual value. For all other property, the notice must
+20 state the total actual value of such land and improvements together in the
+21 previous year, the total actual value in the current year, and the amount
+22 of any adjustment in total actual value. The notice must not state the
+23 valuation for assessment of such land or improvements or combination of
+24 land and improvements. Based upon the classification of such taxable
+25 property, the notice must also set forth the appropriate ratio of valuation
+26 for assessment to be applied to said actual value prior to the calculation
+27 of property taxes for the current year and that any change or adjustment
+-7- SB26-046
+
+1 of the ratio of valuation for assessment must DOES not constitute grounds
+2 for the protest or abatement of taxes. The notice must state, in bold-faced
+3 type, that the taxpayer has the right to protest any adjustment in valuation,
+4 the classification of the property that determines the assessment
+5 percentage to be applied, and the dates and places at which the assessor
+6 will hear such protest. The notice must also set forth the following: That,
+7 to preserve the taxpayer's right to protest, the taxpayer shall notify the
+8 assessor either in writing or in person of the taxpayer's objection and
+9 protest; that such notice must be delivered, postmarked, or given in
+10 person no later than June 8 JUNE 1; and that, after such date, the
+11 taxpayer's right to object and protest the adjustment in valuation is lost.
+12 The notice must be mailed together with a form that, if completed by the
+13 taxpayer, allows the taxpayer to explain the basis for the taxpayer's
+14 valuation of the property. Such form may be completed by the taxpayer
+15 to initiate an appeal of the assessor's valuation. However, in accordance
+16 with section 39-5-122 (2), completion of this form does not constitute the
+17 exclusive means of appealing the assessor's valuation. For the years that
+18 intervene between changes in the level of value, if the difference between
+19 the actual value of such land or improvements in the previous year and
+20 the actual value of such land or improvements in the intervening year as
+21 set forth in such notice constitutes an increase in actual value of more
+22 than seventy-five percent, the assessor shall mail together with the notice
+23 an explanation of the reasons for such increase in actual value.
+24 (1.5) (a) (I) EXCEPT AS PROVIDED IN SUBSECTION (1.5)(a)(III) OF
+25 THIS SECTION FOR A COUNTY THAT USES AN ALTERNATE PROTEST AND
+26 APPEAL PROCEDURE PURSUANT TO SECTION 39-5-122.7, no later than June
+27 15 each year, the assessor shall mail to each person who owns taxable
+-8- SB26-046
+
+1 personal property a notice setting forth the valuation of the personal
+2 property. The notice must state the actual value of such personal property
+3 in the previous year, the actual value in the current year, and the amount
+4 of any adjustment in actual value. The notice must not state the valuation
+5 for assessment of the personal property. The notice must also set forth the
+6 ratio of valuation for assessment to be applied to said actual value prior
+7 to the calculation of property taxes for the current year. With the approval
+8 of the board of county commissioners, the assessor may include in the
+9 notice an estimate of the taxes owed for the current property tax year. If
+10 such an estimate is included, the notice must clearly state that the tax
+11 amount is merely an estimate based upon the best available information.
+12 The notice must state, in bold-faced type, that the taxpayer has the right
+13 to protest any adjustment in valuation but not the estimate of taxes if such
+14 an estimate is included in the notice, and the dates and places at which the
+15 assessor will hear protests. The notice must also set forth the following:
+16 To preserve the taxpayer's right to protest, the taxpayer shall notify the
+17 assessor either by mail or in person of the taxpayer's objection and
+18 protest; that the notice must be postmarked or physically delivered no
+19 later than June 30; and that, after such date, the taxpayer's right to object
+20 and protest the adjustment in valuation is lost. The notice must be mailed
+21 together with a form that, if completed by the taxpayer, allows the
+22 taxpayer to explain the basis for the taxpayer's valuation of the property.
+23 The form may be completed by the taxpayer to initiate an appeal of the
+24 assessor's valuation. However, in accordance with section 39-5-122 (2),
+25 completion of this form does not constitute the exclusive means of
+26 appealing the assessor's valuation.
+27 (III) FOR A COUNTY THAT USES AN ALTERNATE PROTEST AND
+-9- SB26-046
+
+1 APPEAL PROCEDURE PURSUANT TO SECTION 39-5-122.7, NO LATER THAN
+2 JULY 15 EACH YEAR, THE ASSESSOR SHALL MAIL TO EACH PERSON WHO
+3 OWNS TAXABLE PERSONAL PROPERTY A NOTICE SETTING FORTH THE
+4 VALUATION OF THE PERSONAL PROPERTY. THE NOTICE MUST STATE THE
+5 ACTUAL VALUE OF SUCH PERSONAL PROPERTY IN THE PREVIOUS YEAR, THE
+6 ACTUAL VALUE IN THE CURRENT YEAR, AND THE AMOUNT OF ANY
+7 ADJUSTMENT IN ACTUAL VALUE. THE NOTICE MUST NOT STATE THE
+8 VALUATION FOR ASSESSMENT OF THE PERSONAL PROPERTY. THE NOTICE
+9 MUST ALSO SET FORTH THE RATIO OF VALUATION FOR ASSESSMENT TO BE
+10 APPLIED TO SAID ACTUAL VALUE PRIOR TO THE CALCULATION OF
+11 PROPERTY TAXES FOR THE CURRENT YEAR. WITH THE APPROVAL OF THE
+12 BOARD OF COUNTY COMMISSIONERS, THE ASSESSOR MAY INCLUDE IN THE
+13 NOTICE AN ESTIMATE OF THE TAXES OWED FOR THE CURRENT PROPERTY
+14 TAX YEAR. IF SUCH AN ESTIMATE IS INCLUDED, THE NOTICE MUST CLEARLY
+15 STATE THAT THE TAX AMOUNT IS MERELY AN ESTIMATE BASED UPON THE
+16 BEST AVAILABLE INFORMATION. THE NOTICE MUST STATE, IN BOLD-FACE
+17 TYPE, THAT THE TAXPAYER HAS THE RIGHT TO PROTEST ANY ADJUSTMENT
+18 IN VALUATION BUT NOT THE ESTIMATE OF TAXES IF SUCH AN ESTIMATE IS
+19 INCLUDED IN THE NOTICE, AND THE DATES AND PLACES AT WHICH THE
+20 ASSESSOR WILL HEAR PROTESTS. THE NOTICE MUST ALSO SET FORTH THE
+21 FOLLOWING: TO PRESERVE THE TAXPAYER'S RIGHT TO PROTEST, THE
+22 TAXPAYER SHALL NOTIFY THE ASSESSOR EITHER BY MAIL OR IN PERSON OF
+23 THE TAXPAYER'S OBJECTION AND PROTEST; THAT THE NOTICE MUST BE
+24 POSTMARKED OR PHYSICALLY DELIVERED NO LATER THAN JULY 31; AND
+25 THAT, AFTER SAID DATE, THE TAXPAYER'S RIGHT TO OBJECT AND PROTEST
+26 THE ADJUSTMENT IN VALUATION IS LOST. THE NOTICE MUST BE MAILED
+27 TOGETHER WITH A FORM THAT, IF COMPLETED BY THE TAXPAYER, ALLOWS
+-10- SB26-046
+
+1 THE TAXPAYER TO EXPLAIN THE BASIS FOR THE TAXPAYER'S VALUATION
+2 OF THE PROPERTY. THE FORM MAY BE COMPLETED BY THE TAXPAYER TO
+3 INITIATE AN APPEAL OF THE ASSESSOR'S VALUATION. HOWEVER, IN
+4 ACCORDANCE WITH SECTION 39-5-122 (2), COMPLETION OF THIS FORM
+5 DOES NOT CONSTITUTE THE EXCLUSIVE MEANS OF APPEALING THE
+6 ASSESSOR'S VALUATION.
+7 (4) (a) Any notice of valuation required by subsections (1) and
+8 (1.5) of this section sent to the owner of any real property must include
+9 the following statement: "If a property owner does not timely object to
+10 their property's valuation by June 8 JUNE 1 under section 39-5-122,
+11 C.R.S., they may file a request for an abatement under section 39-10-114
+12 C.R.S., by contacting the county assessor."
+13 SECTION 8. In Colorado Revised Statutes, 39-5-122, amend
+14 (1)(a), (2), and (4) as follows:
+15 39-5-122. Taxpayer's remedies to correct errors.
+16 (1) (a) On or before May 1 of each year, the assessor shall give
+17 public notice in at least one issue of a newspaper published in the
+18 assessor's county that, beginning on the first working day after notices of
+19 adjusted valuation are mailed to taxpayers, the assessor will sit to hear all
+20 objections and protests concerning valuations of taxable real property
+21 determined by the assessor for the current year; that, for a taxpayer's
+22 objection and protest to be heard, notice must be given to the assessor;
+23 and that such notice must be postmarked, delivered, or given in person by
+24 June 8 JUNE 1. The notice must also state that objections and protests
+25 concerning valuations of taxable personal property determined by the
+26 assessor for the current year will be heard commencing June 15; that, for
+27 a taxpayer's objection and protest to be heard, notice must be given to the
+-11- SB26-046
+
+1 assessor; and that such notice must be postmarked or physically delivered
+2 by June 30 OR, FOR A COUNTY THAT USES AN ALTERNATE PROTEST AND
+3 APPEAL PROCEDURE PURSUANT TO SECTION 39-5-122.7, BY JULY 31. If
+4 there is no such newspaper, then such notice must be conspicuously
+5 posted in the offices of the assessor, the treasurer, and the county clerk
+6 and recorder and in at least two other public places in the county seat. The
+7 assessor shall send news releases containing such notice to radio stations,
+8 television stations, and newspapers of general circulation in the county.
+9 (2) If any person is of the opinion that the person's property has
+10 been valued too high, has been twice valued, or is exempt by law from
+11 taxation or that property has been erroneously assessed to such person, the
+12 person may appear before the assessor and object, complete the form
+13 mailed with the person's notice of valuation pursuant to section 39-5-121
+14 (1) or (1.5), or file a written letter of objection and protest by mail with
+15 the assessor's office before the last day specified in the notice, stating in
+16 general terms the reason for the objection and protest. Reasons for the
+17 objection and protest may include, but shall not be limited to, the
+18 installation and operation of surface equipment relating to oil and gas
+19 wells on agricultural land. Any change or adjustment of any ratio of
+20 valuation for assessment shall not constitute grounds for an objection. If
+21 the form initiating an appeal or the written letter of objection and protest
+22 is filed by mail, it shall be presumed that it was received as of the day it
+23 was postmarked. If the form initiating an appeal or the written letter of
+24 objection and protest is hand-delivered, the date it was received by the
+25 assessor shall be stamped on the form or letter. As stated in the public
+26 notice given by the assessor pursuant to subsection (1) of this section, the
+27 taxpayer's notification to the assessor of the taxpayer's objection and
+-12- SB26-046
+
+1 protest to the adjustment in valuation must be delivered, postmarked, or
+2 given in person by June 8 JUNE 1 in the case of real property. In the case
+3 of personal property, the notice must be postmarked or physically
+4 delivered by June 30; EXCEPT THAT, FOR A COUNTY THAT USES AN
+5 ALTERNATE PROTEST AND APPEAL PROCEDURE PURSUANT TO SECTION
+6 39-5-122.7, THE NOTICE MUST BE POSTMARKED OR PHYSICALLY
+7 DELIVERED BY JULY 31. All such forms and letters received from
+8 protesters shall be presumed to be on time unless the assessor can present
+9 evidence to show otherwise. The county shall not prescribe the written
+10 form of objection and protest to be used. The protester shall have the
+11 opportunity on the days specified in the public notice to present the
+12 protester's objection in writing or protest in person and be heard, whether
+13 or not there has been a change in valuation of such property from the
+14 previous year and whether or not any change is the result of a
+15 determination by the assessor for the current year or by the state board of
+16 equalization for the previous year. If the assessor finds any valuation to
+17 be erroneous or otherwise improper, the assessor shall correct the error.
+18 If the assessor declines to change any valuation that the assessor has
+19 determined, the assessor shall provide reasons in writing on the form
+20 described in section 39-8-106, shall insert the information otherwise
+21 required by the form, and shall mail two copies ONE COPY of the
+22 completed form to the person presenting the objection and protest so
+23 denied on or before the last regular working day of the assessor in June
+24 in the case of real property and on or before July 10 in the case of
+25 personal property; except that, if a county uses an alternate protest and
+26 appeal procedure pursuant to section 39-5-122.7, the assessor shall mail
+27 the copies on or before August 15 in the case of both real and personal
+-13- SB26-046
+
+1 property.
+2 (4) The assessor shall continue the assessor's hearings from day
+3 to day until all objections and protests have been heard, but all such
+4 hearings must be concluded by June 8 JUNE 1 in the case of real property
+5 and July 5 JUNE 30 in the case of personal property; EXCEPT THAT, FOR A
+6 COUNTY THAT USES AN ALTERNATE PROTEST AND APPEAL PROCEDURE
+7 PURSUANT TO SECTION 39-5-122.7, THE HEARINGS MUST BE CONCLUDED
+8 BY JULY 31 IN THE CASE OF PERSONAL PROPERTY.
+9 SECTION 9. In Colorado Revised Statutes, 39-5-122.7, amend
+10 (1) and (4) as follows:
+11 39-5-122.7. Alternate protest and appeal procedure for
+12 specified counties.
+13 (1) The governing body of any county may, at the request of the
+14 assessor, elect to use an alternate protest and appeal procedure to
+15 determine objections and protests concerning valuations of taxable REAL
+16 OR PERSONAL property. The election shall MUST not be made unless the
+17 assessor has requested the use of the alternative protest and appeal
+18 procedure. The election shall MUST be made on or before May 1 of each
+19 year and shall be IS effective for all objections and protests concerning
+20 valuations of taxable REAL OR PERSONAL property for the year. The
+21 governing body of the county shall provide notice of the election to the
+22 board of assessment appeals and to the district court in such county.
+23 (4) Notwithstanding subsection (1) of this section, beginning
+24 January 1, 2024, counties with a population greater than three hundred
+25 thousand, as determined pursuant to the most recently published
+26 population estimates from the state demographer appointed by the
+27 executive director of the department of local affairs, shall in any year of
+-14- SB26-046
+
+1 general reassessment of real property that is valued biennially by an
+2 assessor pursuant to section 39-1-104 (10.2) use an alternative protest and
+3 appeal procedure to determine objections and protests concerning
+4 valuations of taxable REAL property. When following an alternative
+5 protest and appeal procedure pursuant to this subsection (4), the assessor
+6 shall issue any written determination regarding the objection and protest
+7 by the date specified in section 39-5-122 (2).
+8 SECTION 10. In Colorado Revised Statutes, 39-5-123, amend
+9 (1)(a) and (2) as follows:
+10 39-5-123. Abstract of assessment or amended abstract of
+11 assessment.
+12 (1) (a) Upon conclusion of hearings by the county board of
+13 equalization, as provided in article 8 of this title 39, the assessor shall
+14 complete the assessment roll of all taxable property within the assessor's
+15 county, and, no later than August 25 in each year or no later than
+16 November 21 in each year in any county that uses an alternate protest and
+17 appeal procedure pursuant to section 39-5-122.7, the assessor shall
+18 prepare therefrom three copies of the abstract of assessment and in
+19 person, and not by deputy, shall subscribe the assessor's name, under oath,
+20 to the following statement, which shall be a part of such abstract:
+21 I, .............., the assessor of .............. county,
+22 Colorado, do solemnly swear that in the assessment roll of
+23 such county I have listed and valued all taxable property
+24 located therein and that such property has been assessed
+25 for the current year in the manner prescribed by law and
+26 that the foregoing abstract of assessment is a true and
+27 correct compilation of each schedule.
+-15- SB26-046
+
+1 ...................
+2 (2) The assessor shall file, two copies IN AN ELECTRONIC OR PAPER
+3 FORMAT, ONE COPY of the abstract of assessment with the administrator,
+4 and, appended thereto, the assessor shall also file the aggregate valuation
+5 for assessment of all taxable property in the county, each municipality,
+6 and each school district within the county, by classes and subclasses, on
+7 a form prescribed by the administrator.
+8 SECTION 11. In Colorado Revised Statutes, 39-5-124, amend
+9 (1) as follows:
+10 39-5-124. Property tax administrator to examine abstract.
+11 (1) When the abstract of assessment has been subscribed and
+12 sworn to by the assessor and by the chairman of the board of county
+13 commissioners, the assessor shall transmit, two copies IN ELECTRONIC OR
+14 PAPER FORMAT, ONE COPY thereof to the administrator. and shall retain the
+15 third copy for endorsement of the tax warrant thereon
+16 SECTION 12. Act subject to petition - effective date. Section
+17 39-1-104.6, Colorado Revised Statutes, as amended in section 1 of this
+18 act, section 39-1-113, Colorado Revised Statutes, as amended in section
+19 3 of this act, section 39-3-205, Colorado Revised Statutes, as amended in
+20 section 5 of this act, section 39-3-206, Colorado Revised Statutes, as
+21 amended in section 6 of this act, section 39-5-121, Colorado Revised
+22 Statutes, as amended in section 7 of this act, section 39-5-122, Colorado
+23 Revised Statutes, as amended in section 8 of this act, and section
+24 39-5-122.7, Colorado Revised Statutes, as amended in section 9 of this
+25 act take effect January 1, 2027, and the remainder of this act takes effect
+26 at 12:01 a.m. on the day following the expiration of the ninety-day period
+27 after final adjournment of the general assembly; except that, if a
+-16- SB26-046
+
+1 referendum petition is filed pursuant to section 1 (3) of article V of the
+2 state constitution against this act or an item, section, or part of this act
+3 within such period, then the act, item, section, or part will not take effect
+4 unless approved by the people at the general election to be held in
+5 November 2026 and, in such case, will take effect on the date of the
+6 official declaration of the vote thereon by the governor; except that
+7 section 39-1-104.6, Colorado Revised Statutes, as amended in section 1
+8 of this act, section 39-1-113, Colorado Revised Statutes, as amended in
+9 section 3 of this act, section 39-3-205, Colorado Revised Statutes, as
+10 amended in section 5 of this act, section 39-3-206, Colorado Revised
+11 Statutes, as amended in section 6 of this act, section 39-5-121, Colorado
+12 Revised Statutes, as amended in section 7 of this act, section 39-5-122,
+13 Colorado Revised Statutes, as amended in section 8 of this act, and
+14 section 39-5-122.7, Colorado Revised Statutes, as amended in section 9
+15 of this act take effect January 1, 2027, or on the date of the official
+16 declaration of the vote thereon by the governor, whichever is later.
+-17- SB26-046

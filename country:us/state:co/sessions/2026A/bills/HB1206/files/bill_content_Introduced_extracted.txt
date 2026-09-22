@@ -1,0 +1,358 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0482.02 Caroline Martin x5902 HOUSE BILL 26-1206
+HOUSE SPONSORSHIP
+Joseph,
+SENATE SPONSORSHIP
+Lindstedt,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING IMPROVED FUNDING TO SUPPORT DEVELOPMENT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill gives city and county housing authorities (housing
+authority) the power to provide for the levy of a sales tax, sales and use
+tax, or property tax within the jurisdiction of the authority, the resulting
+revenue of which will be directed to the housing authority, subject to the
+following conditions:
+! The city or county has adopted a resolution determining
+that the levying of the tax will fairly distribute the costs of
+the housing authority's activities among the beneficiaries of
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+the housing authority's activities and will not impose an
+undue burden on any particular group of people; and
+! A ballot question has been submitted to a vote of the
+registered electors of the city or county and subsequently
+approved by a majority of such registered electors, and the
+ballot question describes the purposes for which the tax
+will be used by the housing authority and complies with
+section 20 of article X of the state constitution.
+If a sales or sales and use tax is approved by the voters of a
+housing authority:
+! The rate of the sales or sales and use tax must not exceed
+1% on any transaction taxable by the state;
+! The authority shall designate a liaison to coordinate with
+the department of revenue to implement the collection of
+the tax and to identify people eligible to collect the sales
+and use tax; and
+! The tax revenue must be directed to a fund of the authority.
+If an ad valorem property tax is approved by the voters of a
+housing authority:
+! The rate of the ad valorem property tax must not exceed 5
+mills on each dollar of valuation for assessment of the
+taxable property within the authority's jurisdiction;
+! The board of county commissioners of the county in which
+the housing authority is located shall levy the ad valorem
+property tax upon the valuation for assessment of all
+taxable property within the authority's jurisdiction;
+! The officials charged with collecting ad valorem property
+taxes for the county in which the housing authority is
+located shall collect the taxes at the time and in the form
+and manner and with like interest and penalties as other
+property taxes collected within the county;
+! The property tax revenue must be directed to a fund of the
+authority; and
+! All property tax revenue, together with interest thereon and
+penalties for default in payment thereof, and all costs of
+collecting the same shall constitute, until paid, a perpetual
+lien on and against the property taxed, and such lien shall
+be on a parity with the tax lien of other general taxes.
+The bill gives county housing authorities the power to issue
+revenue or general obligation bonds and to pledge the authority's revenues
+and revenue-raising powers for the payment of such bonds.
+The bill allows an urban renewal authority to enter into a shortfall
+guaranty contract with an urban renewal project developer (developer)
+specifying that, if the tax increment revenue is insufficient to pay the
+indebtedness incurred by the authority that is due, the developer is
+-2- HB26-1206
+
+obligated to make a direct payment covering the full amount of the
+insufficiency. A shortfall guaranty contract:
+! Constitutes a lien on the urban renewal project property the
+same as, and equal in priority to, a tax lien;
+! Has priority over any mortgage, lien that is not a tax lien,
+or other encumbrance;
+! Constitutes a covenant running with the land for the term
+of the contract; and
+! May be recorded against the real property upon which the
+urban renewal project is developed.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Access to safe, stable, and affordable housing is essential for
+5 all Coloradans. Access to housing supports individual well-being, family
+6 stability, workforce participation, and long-term economic growth for the
+7 state.
+8 (b) There is a severe housing supply shortfall in Colorado, which
+9 represents the gap between the number of homes needed and those
+10 available, estimated at approximately 106,000 units;
+11 (c) Based on current population projections, to prevent further
+12 growth of the housing supply shortfall, developers would need to
+13 construct approximately 34,100 new homes annually in Colorado over the
+14 next decade;
+15 (d) The housing supply shortfall is particularly acute for renters
+16 who earn an extremely low income (those who earn at or below 30% of
+17 Area Median Income), since Colorado has a deficit of roughly 134,000
+18 rental homes that are affordable for such households;
+19 (e) Many households are cost-burdened, with 46.8% of renters and
+20 21.5% of homeowners spending over 30% of their income on housing.
+-3- HB26-1206
+
+1 Only 11% of renters could afford to purchase a typical home in Colorado
+2 as of 2025.
+3 (f) The affordability gap is not solely due to low supply; housing
+4 prices and rents have increased faster than incomes, deepening the
+5 challenge of obtaining stable, affordable homes, particularly for working
+6 families, seniors, and other vulnerable populations;
+7 (g) The work of public housing authorities and developers is
+8 essential to expanding the stock of deeply affordable housing. However,
+9 current financing tools and incentive structures do not sufficiently
+10 prioritize or support these entities.
+11 (h) Allowing housing authorities to collect tax revenue within
+12 their jurisdictions will help these mission-driven entities more quickly
+13 expand the supply of deeply affordable housing;
+14 (i) Providing statutory authorization for shortfall guaranty
+15 contracts in urban renewal areas that use tax increment financing protects
+16 public entities from financial risk, ensuring those entities can continue to
+17 support housing-focused projects effectively; and
+18 (j) The measures proposed in this act will enhance Colorado's
+19 capacity to finance, build, preserve, and sustain affordable housing and
+20 equitable community development projects in a manner that maximizes
+21 public return, addresses urgent housing needs, and ensures access to
+22 housing for all Coloradans.
+23 (2) Therefore, the general assembly finds and declares that
+24 expanding and modernizing affordable housing funding tools:
+25 (a) Is a matter of mixed statewide and local concern; and
+26 (b) Will increase housing availability, affordability, and stability,
+27 promote equitable development, and strengthen the public benefit of
+-4- HB26-1206
+
+1 development investments in Colorado communities.
+2 SECTION 2. In Colorado Revised Statutes, 29-4-209, amend
+3 (1)(x) and (1)(y); and add (1)(z), (4), and (5) as follows:
+4 29-4-209. Powers of authority - definition.
+5 (1) An authority shall constitute a body both corporate and politic,
+6 exercising public powers and having all the powers necessary or
+7 convenient to carry out and effectuate the purposes and provisions of this
+8 part 2, including the following powers in addition to others granted in this
+9 section:
+10 (x) To make available to such agencies, boards, or commissions
+11 as are charged with the duty of abating nuisances or demolishing unsafe
+12 structures within its territorial limits its findings and recommendations
+13 with regard to any building or property where conditions exist which are
+14 dangerous to the public health, morals, safety, or welfare; and
+15 (y) To do all things necessary or convenient to carry out the
+16 powers given in this part 2; AND
+17 (z) TO PROVIDE FOR THE LEVY OF A SALES TAX, SALES AND USE
+18 TAX, OR PROPERTY TAX IN ACCORDANCE WITH SUBSECTION (4) OF THIS
+19 SECTION.
+20 (4) AN AUTHORITY MAY PROVIDE FOR THE LEVY OF A SALES TAX,
+21 SALES AND USE TAX, OR PROPERTY TAX, THE REVENUE OF WHICH WILL BE
+22 DIRECTED TO THE AUTHORITY, SUBJECT TO THE FOLLOWING CONDITIONS:
+23 (a) THE CITY HAS ADOPTED A RESOLUTION DETERMINING THAT THE
+24 LEVYING OF A SALES TAX, SALES AND USE TAX, OR PROPERTY TAX WILL
+25 FAIRLY DISTRIBUTE THE COSTS OF THE AUTHORITY'S ACTIVITIES AMONG
+26 THE BENEFICIARIES OF THE AUTHORITY'S ACTIVITIES AND WILL NOT IMPOSE
+27 AN UNDUE BURDEN ON ANY PARTICULAR GROUP OF PEOPLE;
+-5- HB26-1206
+
+1 (b) A BALLOT QUESTION HAS BEEN SUBMITTED TO A VOTE OF THE
+2 REGISTERED ELECTORS OF THE CITY IN WHICH THE HOUSING AUTHORITY
+3 IS LOCATED AND SUBSEQUENTLY APPROVED BY A MAJORITY OF SUCH
+4 REGISTERED ELECTORS VOTING THEREON, AND THE BALLOT QUESTION:
+5 (I) DESCRIBES THE PURPOSES FOR WHICH THE TAX WILL BE USED
+6 BY THE AUTHORITY; AND
+7 (II) COMPLIES WITH SECTION 20 OF ARTICLE X OF THE STATE
+8 CONSTITUTION;
+9 (c) IF A SALES OR SALES AND USE TAX IS APPROVED BY VOTERS
+10 PURSUANT TO THIS SECTION:
+11 (I) THE RATE OF THE SALES OR SALES AND USE TAX MUST NOT
+12 EXCEED ONE PERCENT ON ANY TRANSACTION TAXABLE BY THE STATE;
+13 (II) THE AUTHORITY SHALL DESIGNATE A LIAISON TO COORDINATE
+14 WITH THE DEPARTMENT OF REVENUE TO IMPLEMENT THE COLLECTION OF
+15 THE SALES OR SALES AND USE TAX PURSUANT TO PART 2 OF ARTICLE 2 OF
+16 THIS TITLE 29 AND TO IDENTIFY PEOPLE ELIGIBLE TO COLLECT THE SALES
+17 AND USE TAX; AND
+18 (III) THE TAX REVENUE COLLECTED PURSUANT TO THIS
+19 SUBSECTION (4)(c) MUST BE DIRECTED TO THE AUTHORITY;
+20 (d) IF AN AD VALOREM PROPERTY TAX IS APPROVED BY VOTERS
+21 PURSUANT TO THIS SECTION:
+22 (I) THE RATE OF THE AD VALOREM PROPERTY TAX MUST NOT
+23 EXCEED FIVE MILLS ON EACH DOLLAR OF VALUATION FOR ASSESSMENT OF
+24 THE TAXABLE PROPERTY;
+25 (II) THE BOARD OF COUNTY COMMISSIONERS OF THE COUNTY IN
+26 WHICH THE AUTHORITY IS LOCATED SHALL LEVY THE AD VALOREM
+27 PROPERTY TAX UPON THE VALUATION FOR ASSESSMENT OF ALL TAXABLE
+-6- HB26-1206
+
+1 PROPERTY LOCATED WITHIN THE JURISDICTION OF THE AUTHORITY;
+2 (III) THE OFFICIALS CHARGED WITH COLLECTING AD VALOREM
+3 PROPERTY TAXES FOR THE COUNTY IN WHICH THE AUTHORITY IS LOCATED
+4 SHALL COLLECT THE TAXES AT THE TIME AND IN THE FORM AND MANNER
+5 AND WITH LIKE INTEREST AND PENALTIES AS OTHER PROPERTY TAXES
+6 COLLECTED WITHIN THE COUNTY;
+7 (IV) THE TAX REVENUE COLLECTED PURSUANT TO THIS
+8 SUBSECTION (4)(d) MUST BE DIRECTED TO THE AUTHORITY; AND
+9 (V) ALL TAX REVENUE COLLECTED PURSUANT TO THIS SUBSECTION
+10 (4)(d), TOGETHER WITH INTEREST THEREON AND PENALTIES FOR DEFAULT
+11 IN PAYMENT THEREOF, AND ALL COSTS OF COLLECTING THE SAME SHALL
+12 CONSTITUTE, UNTIL PAID, A PERPETUAL LIEN ON AND AGAINST THE
+13 PROPERTY TAXED, AND SUCH LIEN SHALL BE ON A PARITY WITH THE TAX
+14 LIEN OF OTHER GENERAL TAXES.
+15 (5) (a) FOR THE PURPOSE OF DETERMINING AN AUTHORITY'S FISCAL
+16 YEAR SPENDING LIMIT UNDER SECTION 20 (7)(b) OF ARTICLE X OF THE
+17 STATE CONSTITUTION, THE INITIAL SPENDING BASE OF THE AUTHORITY IS
+18 THE AMOUNT OF REVENUES COLLECTED BY THE AUTHORITY FROM
+19 SOURCES NOT EXCLUDED FROM FISCAL YEAR SPENDING PURSUANT TO
+20 SECTION 20 (2)(e) OF ARTICLE X OF THE STATE CONSTITUTION DURING THE
+21 FIRST FULL FISCAL YEAR FOR WHICH THE AUTHORITY COLLECTED
+22 REVENUES.
+23 (b) AS USED IN THIS SUBSECTION (5), "FISCAL YEAR" MEANS ANY
+24 YEAR-LONG PERIOD USED BY AN AUTHORITY FOR FISCAL ACCOUNTING
+25 PURPOSES.
+26 SECTION 3. In Colorado Revised Statutes, 29-4-505, amend (1)
+27 introductory portion and (1)(g); and add (1)(h), (1)(i), (2), and (3) as
+-7- HB26-1206
+
+1 follows:
+2 29-4-505. Powers of authority - definition.
+3 (1) A housing authority shall constitute a public body, corporate
+4 and politic, exercise public and essential governmental functions, and
+5 have all the powers necessary and convenient to carry out and effectuate
+6 the purposes and provisions of this part 5, (but not the power to levy and
+7 collect taxes or special assessments) including the following powers:
+8 (g) To do all acts and things necessary or convenient to carry out
+9 the powers given AND THE PURPOSES DESCRIBED in this part 5; or the
+10 purposes hereof.
+11 (h) TO PROVIDE FOR THE LEVY OF A SALES TAX, SALES AND USE
+12 TAX, OR PROPERTY TAX IN ACCORDANCE WITH SUBSECTION (2) OF THIS
+13 SECTION; AND
+14 (i) TO ISSUE REVENUE OR GENERAL OBLIGATION BONDS AND TO
+15 PLEDGE THE AUTHORITY'S REVENUES AND REVENUE-RAISING POWERS FOR
+16 THE PAYMENT OF SUCH BONDS. SUCH BONDS MUST BE ISSUED ON THE
+17 SAME TERMS AND SUBJECT TO THE SAME CONDITIONS AS SET FORTH FOR
+18 REGIONAL TRANSPORTATION AUTHORITY BONDS IN SECTION 43-4-609.
+19 (2) A HOUSING AUTHORITY MAY PROVIDE FOR THE LEVY OF A
+20 SALES TAX, SALES AND USE TAX, OR PROPERTY TAX, THE REVENUE OF
+21 WHICH WILL BE DIRECTED TO THE AUTHORITY, SUBJECT TO THE
+22 FOLLOWING CONDITIONS:
+23 (a) THE BOARD HAS ADOPTED A RESOLUTION DETERMINING THAT
+24 THE LEVYING OF A SALES TAX, SALES AND USE TAX, OR PROPERTY TAX
+25 WILL FAIRLY DISTRIBUTE THE COSTS OF THE AUTHORITY'S ACTIVITIES
+26 AMONG THE BENEFICIARIES OF THE AUTHORITY'S ACTIVITIES AND WILL
+27 NOT IMPOSE AN UNDUE BURDEN ON ANY PARTICULAR GROUP OF PEOPLE;
+-8- HB26-1206
+
+1 (b) A BALLOT QUESTION HAS BEEN SUBMITTED TO A VOTE OF THE
+2 REGISTERED ELECTORS OF THE COUNTY IN WHICH THE HOUSING
+3 AUTHORITY IS LOCATED AND SUBSEQUENTLY APPROVED BY A MAJORITY
+4 OF THE REGISTERED ELECTORS VOTING THEREON, AND THE BALLOT
+5 QUESTION:
+6 (I) DESCRIBES THE PURPOSES FOR WHICH THE TAX WILL BE USED
+7 BY THE AUTHORITY; AND
+8 (II) COMPLIES WITH SECTION 20 OF ARTICLE X OF THE STATE
+9 CONSTITUTION;
+10 (c) IF A SALES OR SALES AND USE TAX IS APPROVED BY VOTERS
+11 PURSUANT TO THIS SECTION:
+12 (I) THE RATE OF THE SALES OR SALES AND USE TAX MUST NOT
+13 EXCEED ONE PERCENT ON ANY TRANSACTION TAXABLE BY THE STATE; AND
+14 (II) THE AUTHORITY SHALL DESIGNATE A LIAISON TO COORDINATE
+15 WITH THE DEPARTMENT OF REVENUE TO IMPLEMENT THE COLLECTION OF
+16 A SALES OR SALES AND USE TAX PURSUANT TO PART 2 OF ARTICLE 2 OF
+17 THIS TITLE 29 AND TO IDENTIFY PEOPLE ELIGIBLE TO COLLECT THE SALES
+18 AND USE TAX; AND
+19 (III) THE TAX REVENUE COLLECTED PURSUANT TO THIS
+20 SUBSECTION (2)(c) MUST BE DIRECTED TO THE AUTHORITY;
+21 (d) IF AN AD VALOREM PROPERTY TAX IS APPROVED BY VOTERS
+22 PURSUANT TO THIS SECTION:
+23 (I) THE RATE OF THE AD VALOREM PROPERTY TAX MUST NOT
+24 EXCEED FIVE MILLS ON EACH DOLLAR OF VALUATION FOR ASSESSMENT;
+25 (II) THE BOARD SHALL LEVY THE AD VALOREM PROPERTY TAX
+26 UPON THE VALUATION FOR ASSESSMENT OF ALL TAXABLE PROPERTY
+27 LOCATED WITHIN THE JURISDICTION OF THE AUTHORITY;
+-9- HB26-1206
+
+1 (III) THE OFFICIALS CHARGED WITH COLLECTING AD VALOREM
+2 PROPERTY TAXES FOR THE COUNTY SHALL COLLECT THE TAXES AT THE
+3 TIME AND IN THE FORM AND MANNER AND WITH LIKE INTEREST AND
+4 PENALTIES AS OTHER PROPERTY TAXES COLLECTED WITHIN THE COUNTY;
+5 (IV) THE TAX REVENUE COLLECTED PURSUANT TO THIS
+6 SUBSECTION (2)(d) MUST BE DIRECTED TO THE AUTHORITY; AND
+7 (V) ALL TAX REVENUE COLLECTED PURSUANT TO THIS SUBSECTION
+8 (2)(d), TOGETHER WITH INTEREST THEREON AND PENALTIES FOR DEFAULT
+9 IN PAYMENT THEREOF, AND ALL COSTS OF COLLECTING THE SAME SHALL
+10 CONSTITUTE, UNTIL PAID, A PERPETUAL LIEN ON AND AGAINST THE
+11 PROPERTY TAXED, AND SUCH LIEN SHALL BE ON A PARITY WITH THE TAX
+12 LIEN OF OTHER GENERAL TAXES.
+13 (3) (a) FOR THE PURPOSE OF DETERMINING AN AUTHORITY'S FISCAL
+14 YEAR SPENDING LIMIT UNDER SECTION 20 (7)(b) OF ARTICLE X OF THE
+15 STATE CONSTITUTION, THE INITIAL SPENDING BASE OF THE AUTHORITY IS
+16 THE AMOUNT OF REVENUES COLLECTED BY THE AUTHORITY FROM
+17 SOURCES NOT EXCLUDED FROM FISCAL YEAR SPENDING PURSUANT TO
+18 SECTION 20 (2)(e) OF ARTICLE X OF THE STATE CONSTITUTION DURING THE
+19 FIRST FULL FISCAL YEAR FOR WHICH THE AUTHORITY COLLECTED
+20 REVENUES.
+21 (b) AS USED IN THIS SUBSECTION (3), "FISCAL YEAR" MEANS ANY
+22 YEAR-LONG PERIOD USED BY AN AUTHORITY FOR FISCAL ACCOUNTING
+23 PURPOSES.
+24 SECTION 4. In Colorado Revised Statutes, 31-25-107, add
+25 (11.5) as follows:
+26 31-25-107. Approval of urban renewal plans by local
+27 governing body - definitions.
+-10- HB26-1206
+
+1 (11.5) (a) FOR PURPOSES OF THIS SUBSECTION (11.5),
+2 "INDEBTEDNESS INCURRED BY THE AUTHORITY" MEANS THE PRINCIPAL OF,
+3 THE INTEREST ON, AND ANY PREMIUMS DUE IN CONNECTION WITH THE
+4 BONDS OF, LOANS OR ADVANCES TO, OR INDEBTEDNESS INCURRED BY,
+5 WHETHER FUNDED, REFUNDED, ASSUMED, OR OTHERWISE, THE AUTHORITY
+6 FOR FINANCING OR REFINANCING, IN WHOLE OR IN PART, AN URBAN
+7 RENEWAL PROJECT, OR TO MAKE PAYMENTS UNDER AN AGREEMENT
+8 EXECUTED PURSUANT TO THIS SECTION.
+9 (b) AFTER A GOVERNING BODY OR AN AUTHORITY HAS ENTERED
+10 INTO A CONTRACT WITH A DEVELOPER FOR THE DEVELOPER TO WORK ON
+11 AN URBAN RENEWAL PROJECT, THE GOVERNING BODY OR AUTHORITY MAY
+12 ENTER INTO A SHORTFALL GUARANTY CONTRACT WITH THE DEVELOPER
+13 SPECIFYING THAT, IF, AT THE TIME THAT INDEBTEDNESS INCURRED BY THE
+14 AUTHORITY OR ANY PORTION THEREOF COMES DUE, TAX INCREMENT
+15 REVENUE THAT HAS BEEN ALLOCATED PURSUANT TO SUBSECTION (9)(a) OF
+16 THIS SECTION IS INSUFFICIENT TO PAY THE INDEBTEDNESS THAT IS DUE,
+17 THE DEVELOPER IS OBLIGATED TO MAKE A DIRECT PAYMENT COVERING
+18 THE FULL AMOUNT OF THE INSUFFICIENCY. A SHORTFALL GUARANTY
+19 CONTRACT ENTERED INTO PURSUANT TO THIS SUBSECTION (11.5):
+20 (I) CONSTITUTES A LIEN ON THE URBAN RENEWAL PROJECT
+21 PROPERTY THE SAME AS, AND EQUAL IN PRIORITY TO, A TAX LIEN;
+22 (II) HAS PRIORITY OVER ANY MORTGAGE, LIEN THAT IS NOT A TAX
+23 LIEN, OR OTHER ENCUMBRANCE;
+24 (III) CONSTITUTES A COVENANT RUNNING WITH THE LAND FOR THE
+25 TERM OF THE CONTRACT; AND
+26 (IV) MAY BE RECORDED AGAINST THE REAL PROPERTY UPON
+27 WHICH THE URBAN RENEWAL PROJECT IS DEVELOPED.
+-11- HB26-1206
+
+1 SECTION 5. Effective date. This act takes effect January 1,
+2 2027.
+3 SECTION 6. Safety clause. The general assembly finds,
+4 determines, and declares that this act is necessary for the immediate
+5 preservation of the public peace, health, or safety or for appropriations for
+6 the support and maintenance of the departments of the state and state
+7 institutions.
+-12- HB26-1206

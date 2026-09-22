@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0822.01 Veronica Parish x2606 HOUSE BILL 26-1260
+House Committees Senate Committees
+Health & Human Services Health & Human Services
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING PROGRAMS FOR CHILD CARE ASSISTANCE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under existing law, the implementation dates for capping family
+copayments for child care at 7% of family income, for paying child care
+providers in advance of the provision of services, and for utilizing grants
+and contracts to improve access to child care for underserved populations
+is August 1, 2026. The bill extends the implementation dates to August
+1, 2028.
+The bill clarifies that no more than 5% of money allocated to
+counties for child care assistance may be used for administrative costs.
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,92
+lirpA
+6202
+,52
+hcraM
+6202
+,42
+hcraM
+HOUSE SPONSORSHIP
+Garcia and Willford, Bacon, Boesenecker, Camacho, Clifford, Duran, Froelich, Gonzalez
+R., Joseph, Lieder, Lindsay, McCluskie, Nguyen, Phillips, Rutinel, Stewart K., Story
+SENATE SPONSORSHIP
+Cutter and Bright,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 26.5-4-111, amend
+3 (4)(b) and (12)(a) as follows:
+4 26.5-4-111. Services - eligibility - assistance provided - waiting
+5 lists - rules - exceptions from cooperating with child support
+6 establishment.
+7 (4) (b) The executive director by rule shall establish, and at least
+8 every five years review and revise, as appropriate, a copayment schedule
+9 so that the copayment gradually increases as the family income
+10 approaches self-sufficiency income levels, but must be no greater than
+11 seven percent of the family's gross monthly income on or before August
+12 1, 2026 AUGUST 1, 2028, regardless of the number of children in care, as
+13 determined based on one month of income, unless one month of income
+14 does not provide an accurate indication of anticipated income, in which
+15 case the county may use evidence of up to the most recent twelve months
+16 of income; however, if a federal rule limits copayments to less than seven
+17 percent of the family's gross monthly income, the department shall
+18 immediately comply with the federal limit. This revised copayment
+19 schedule should allow families to retain a portion of their increases in
+20 income.
+21 (12) Each county:
+22 (a) Upon notification to counties by the department that the
+23 relevant case management systems, including the Colorado child care
+24 automated tracking system, are capable of accommodating this subsection
+25 (12)(a), and pursuant to department rules, on or before August 1, 2026
+26 AUGUST 1, 2028, and subject to available federal appropriations, in
+-2- 1260
+
+1 addition to regular provider reimbursement rates, the county departments
+2 shall pay providers for care in alignment with common practices in the
+3 private market for child care, including paying providers weekly for each
+4 child based on child enrollment in advance of the provision of services.
+5 The department rules governing payment policies must allow daily
+6 reimbursement rates only for drop-in child care, back-up child care, and
+7 care that is commonly paid on a daily reimbursement basis in the private
+8 child care market and must incentivize providers to promote regular
+9 program attendance. On or before August 1, 2026 AUGUST 1, 2028, and
+10 subject to available federal appropriations, the department and county
+11 departments shall utilize grants and contracts for underserved
+12 populations, including children in underserved geographic areas, infants
+13 and toddlers, children with disabilities, and families needing
+14 nontraditional-hour care, to improve equitable access for these
+15 populations. The department shall annually evaluate data regarding the
+16 numbers and percentages of underserved populations being served by
+17 CCCAP to determine if equitable access is improved or achieved. The
+18 executive director shall promulgate ADOPT rules for the implementation
+19 of this subsection (12).
+20
+21 SECTION 2. In Colorado Revised Statutes, 26.5-4-114, amend
+22 (1) introductory portion, (1)(i), and (1)(j)(V); and add (1)(k) as follows:
+23 26.5-4-114. Colorado child care assistance program -
+24 reporting requirements.
+25 (1) On or before November 1, 2022, and on or before November
+26 1 each year thereafter, the department shall prepare a report on CCCAP.
+27 Notwithstanding section 24-1-136 (11)(a)(I), the department shall provide
+-3- 1260
+
+1 the report to the joint budget committee of the general assembly, the
+2 public and behavioral health and human services committee of the house
+3 of representatives, and the health and human services committee of the
+4 senate, or any successor committees. The report must include, at a
+5 minimum, the following information related to benchmarks of success for
+6 CCCAP:
+7 (i) An estimate of unmet need for CCCAP in each county and
+8 throughout the state based on estimates of the number of children and
+9 families who are likely to be eligible for CCCAP in each county but who
+10 are not enrolled in CCCAP, disaggregated by estimated ages from birth
+11 through thirteen years of age; and
+12 (j) Beginning with the report submitted November 1, 2024, and
+13 in each annual report thereafter:
+14 (V) An explanation of the quality incentives made available to
+15 providers; AND
+16 (k) BEGINNING WITH THE REPORT SUBMITTED NOVEMBER 1, 2026,
+17 AND IN EACH ANNUAL REPORT THEREAFTER:
+18 (I) THE TOTAL AMOUNT OF CCCAP ALLOCATION THAT IS SPENT BY
+19 THE DEPARTMENT AND EACH COUNTY ON:
+20 (A) ADMINISTRATIVE EXPENSES, INCLUDING SALARIES AND
+21 OPERATING EXPENSES OF STAFF WHO PERFORM ADMINISTRATIVE
+22 FUNCTIONS;
+23 (B) COUNTY INDIRECT EXPENSES, CHARGED IN ACCORDANCE WITH
+24 COUNTY COST ALLOCATION PLANS;
+25 (C) PROGRAM IMPLEMENTATION COSTS THAT ARE REPORTED AS
+26 NONDIRECT SERVICES IN ACCORDANCE WITH FEDERAL CHILD CARE
+27 DEVELOPMENT FUND REGULATIONS, SUCH AS SALARIES AND OPERATING
+-4- 1260
+
+1 EXPENSES FOR CASEWORKERS TO COMPLETE ELIGIBILITY DETERMINATION
+2 AND REDETERMINATION, ERROR RATE REVIEWS AND COMPLIANCE, AND
+3 OTHER PROGRAM ACTIVITIES NECESSARY TO OPERATE THE PROGRAM; AND
+4 (D) DIRECT SERVICE EXPENSES.
+5 SECTION 3. Effective date. This act takes effect August 1,
+6 2026.
+7 SECTION 4. Safety clause. The general assembly finds,
+8 determines, and declares that this act is necessary for the immediate
+9 preservation of the public peace, health, or safety or for appropriations for
+10 the support and maintenance of the departments of the state and state
+11 institutions.
+-5- 1260

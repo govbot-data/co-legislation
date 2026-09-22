@@ -1,0 +1,335 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0482.02 Caroline Martin x5902 HOUSE BILL 26-1206
+House Committees Senate Committees
+Finance Finance
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING IMPROVED FUNDING TO SUPPORT AFFORDABLE HOUSING
+102 DEVELOPMENT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill gives city and county housing authorities (housing
+authority) the power to provide for the levy of a sales tax, sales and use
+tax, or property tax within the jurisdiction of the authority, the resulting
+revenue of which will be directed to the housing authority, subject to the
+following conditions:
+! The city or county has adopted a resolution determining
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,7
+yaM
+6202
+,82
+lirpA
+6202
+,72
+lirpA
+HOUSE SPONSORSHIP
+Joseph and Gonzalez R., Boesenecker, Duran, English
+SENATE SPONSORSHIP
+Lindstedt and Benavidez,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that the levying of the tax will fairly distribute the costs of
+the housing authority's activities among the beneficiaries of
+the housing authority's activities and will not impose an
+undue burden on any particular group of people; and
+! A ballot question has been submitted to a vote of the
+registered electors of the city or county and subsequently
+approved by a majority of such registered electors, and the
+ballot question describes the purposes for which the tax
+will be used by the housing authority and complies with
+section 20 of article X of the state constitution.
+If a sales or sales and use tax is approved by the voters of a
+housing authority:
+! The rate of the sales or sales and use tax must not exceed
+1% on any transaction taxable by the state;
+! The authority shall designate a liaison to coordinate with
+the department of revenue to implement the collection of
+the tax and to identify people eligible to collect the sales
+and use tax; and
+! The tax revenue must be directed to a fund of the authority.
+If an ad valorem property tax is approved by the voters of a
+housing authority:
+! The rate of the ad valorem property tax must not exceed 5
+mills on each dollar of valuation for assessment of the
+taxable property within the authority's jurisdiction;
+! The board of county commissioners of the county in which
+the housing authority is located shall levy the ad valorem
+property tax upon the valuation for assessment of all
+taxable property within the authority's jurisdiction;
+! The officials charged with collecting ad valorem property
+taxes for the county in which the housing authority is
+located shall collect the taxes at the time and in the form
+and manner and with like interest and penalties as other
+property taxes collected within the county;
+! The property tax revenue must be directed to a fund of the
+authority; and
+! All property tax revenue, together with interest thereon and
+penalties for default in payment thereof, and all costs of
+collecting the same shall constitute, until paid, a perpetual
+lien on and against the property taxed, and such lien shall
+be on a parity with the tax lien of other general taxes.
+The bill gives county housing authorities the power to issue
+revenue or general obligation bonds and to pledge the authority's revenues
+and revenue-raising powers for the payment of such bonds.
+The bill allows an urban renewal authority to enter into a shortfall
+guaranty contract with an urban renewal project developer (developer)
+-2- 1206
+
+specifying that, if the tax increment revenue is insufficient to pay the
+indebtedness incurred by the authority that is due, the developer is
+obligated to make a direct payment covering the full amount of the
+insufficiency. A shortfall guaranty contract:
+! Constitutes a lien on the urban renewal project property the
+same as, and equal in priority to, a tax lien;
+! Has priority over any mortgage, lien that is not a tax lien,
+or other encumbrance;
+! Constitutes a covenant running with the land for the term
+of the contract; and
+! May be recorded against the real property upon which the
+urban renewal project is developed.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Access to safe, stable, and affordable housing is essential for
+5 all Coloradans. Access to housing supports individual well-being, family
+6 stability, workforce participation, and long-term economic growth for the
+7 state.
+8 (b) There is a severe housing supply shortfall in Colorado, which
+9 represents the gap between the number of homes needed and those
+10 available, estimated at approximately 106,000 units;
+11 (c) Based on current population projections, to prevent further
+12 growth of the housing supply shortfall, developers would need to
+13 construct approximately 34,100 new homes annually in Colorado over the
+14 next decade;
+15 (d) The housing supply shortfall is particularly acute for renters
+16 who earn an extremely low income (those who earn at or below 30% of
+17 Area Median Income), since Colorado has a deficit of roughly 134,000
+18 rental homes that are affordable for such households;
+19 (e) Many households are cost-burdened, with 46.8% of renters and
+-3- 1206
+
+1 21.5% of homeowners spending over 30% of their income on housing.
+2 Only 11% of renters could afford to purchase a typical home in Colorado
+3 as of 2025.
+4 (f) The affordability gap is not solely due to low supply; housing
+5 prices and rents have increased faster than incomes, deepening the
+6 challenge of obtaining stable, affordable homes, particularly for working
+7 families, seniors, and other vulnerable populations;
+8 (g) The work of public housing authorities and developers is
+9 essential to expanding the stock of deeply affordable housing. However,
+10 current financing tools and incentive structures do not sufficiently
+11 prioritize or support these entities.
+12 (h) Allowing housing authorities to collect tax revenue within
+13 their jurisdictions will help these mission-driven entities more quickly
+14 expand the supply of deeply affordable housing.
+15 (2) Therefore, the general assembly finds and declares that
+16 expanding and modernizing affordable housing funding tools:
+17 (a) Is a matter of mixed statewide and local concern; and
+18 (b) Will increase housing availability, affordability, and stability,
+19 promote equitable development, and strengthen the public benefit of
+20 development investments in Colorado communities.
+21 SECTION 2. In Colorado Revised Statutes, add 29-4-233 as
+22 follows:
+23 29-4-233. Intergovernmental agreement for housing revenue.
+24 (1) AN AUTHORITY AND A CITY MAY ENTER INTO AN
+25 INTERGOVERNMENTAL AGREEMENT TO PROVIDE FOR THE IMPOSITION OF
+26 A GENERAL SALES TAX, SALES AND USE TAX, OR BOTH, PURSUANT TO
+27 SECTION 29-2-102, BY THE CITY UPON EVERY TRANSACTION OR OTHER
+-4- 1206
+
+1 INCIDENT WITH RESPECT TO WHICH A SALES OR USE TAX IS IMPOSED BY THE
+2 CITY. THE AUTHORITY SHALL USE THE REVENUE RAISED BY THIS TAX TO
+3 EFFECT THE PLANNING, FINANCING, ACQUISITION, CONSTRUCTION,
+4 RECONSTRUCTION, OR REPAIR, MAINTENANCE, MANAGEMENT, AND
+5 OPERATION OF HOUSING PROJECTS OR PROGRAMS PURSUANT TO THIS PART
+6 2.
+7 (2) AN INTERGOVERNMENTAL AGREEMENT ENTERED INTO
+8 PURSUANT TO THIS SECTION MUST ADDRESS:
+9 (a) THE TYPE OF TAX TO BE IMPOSED PURSUANT TO THIS SECTION
+10 AND THE RATE OF THAT TAX;
+11 (b) THE DURATION OF A TAX IMPOSED PURSUANT TO THIS SECTION
+12 AND OF THE AGREEMENT, BOTH OF WHICH MAY BE CONTINUED FOR A
+13 DEFINITE TERM OR UNTIL RESCINDED OR TERMINATED, AND THE METHOD,
+14 IF ANY, BY WHICH EITHER MAY BE RESCINDED OR TERMINATED; EXCEPT
+15 THAT NEITHER MAY BE RESCINDED OR TERMINATED SO LONG AS THE
+16 AUTHORITY HAS BONDS, NOTES, OR OTHER OBLIGATIONS OUTSTANDING TO
+17 WHICH THE AUTHORITY HAS PLEDGED REVENUE RAISED FROM THE TAX,
+18 UNLESS PROVISION FOR FULL PAYMENT OF THESE OBLIGATIONS, BY
+19 ESCROW OR OTHERWISE, HAS BEEN MADE PURSUANT TO THE TERMS OF THE
+20 OBLIGATIONS;
+21 (c) THE DISTRIBUTION OF ALL OR PART OF THE REVENUE RAISED BY
+22 A TAX IMPOSED PURSUANT TO THIS SECTION TO THE AUTHORITY;
+23 (d) THE IRREVOCABLE PLEDGE TO THE AUTHORITY OF ALL NEW
+24 TAX REVENUES RAISED BY A TAX IMPOSED PURSUANT TO THIS SECTION FOR
+25 THE PURPOSES SET FORTH IN THE APPROVED BALLOT QUESTION, EXCEPTING
+26 ANY COSTS OF ELECTIONS RELATED TO THE TAX OR THE ADMINISTRATION
+27 OR COLLECTION OF THE TAX;
+-5- 1206
+
+1 (e) COMPLIANCE WITH SECTION 20 OF ARTICLE X OF THE STATE
+2 CONSTITUTION;
+3 (f) THE PAYMENT OF ANY COSTS OF ANY ELECTION RELATED TO A
+4 TAX IMPOSED PURSUANT TO THIS SECTION;
+5 (g) THE RETENTION BY THE CITY OF AN AMOUNT OF THE REVENUE
+6 RAISED BY A TAX IMPOSED PURSUANT TO THIS SECTION NOT TO EXCEED
+7 THE COST OF THE COLLECTION, ADMINISTRATION, AND ENFORCEMENT OF
+8 THAT TAX; AND
+9 (h) ANY OTHER PROVISIONS DEEMED NECESSARY BY THE
+10 AUTHORITY AND THE CITY.
+11 (3) (a) AN ACTION BY A CITY TO IMPOSE OR INCREASE ANY TAX OR
+12 TO PLEDGE REVENUES PURSUANT TO THIS SECTION DOES NOT TAKE EFFECT
+13 UNLESS FIRST SUBMITTED TO A VOTE OF THE REGISTERED ELECTORS OF
+14 THE CITY TO THE EXTENT REQUIRED BY SECTION 20 OF ARTICLE X OF THE
+15 STATE CONSTITUTION OR OTHER APPLICABLE LAW.
+16 (b) A BALLOT QUESTION SUBMITTED TO A CITY'S REGISTERED
+17 ELECTORS PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION MUST BE
+18 SUBMITTED AT A GENERAL ELECTION OR ANY ELECTION TO BE HELD ON
+19 THE FIRST TUESDAY IN NOVEMBER OF AN ODD-NUMBERED YEAR AND IS
+20 ONLY APPROVED IF A MAJORITY OF THE REGISTERED ELECTORS VOTING ON
+21 THE BALLOT QUESTION AT THE ELECTION VOTE IN FAVOR OF THE BALLOT
+22 QUESTION.
+23 (4) (a) THE AUTHORITY GRANTED PURSUANT TO THIS SECTION
+24 DOES NOT LIMIT THE POWERS OF GOVERNMENTS TO ENTER INTO
+25 INTERGOVERNMENTAL COOPERATION OR CONTRACTS, TO ESTABLISH
+26 SEPARATE LEGAL ENTITIES PURSUANT TO SECTION 29-1-203 OR ANY
+27 OTHER APPLICABLE LAW, OR TO OTHERWISE CARRY OUT THEIR INDIVIDUAL
+-6- 1206
+
+1 POWERS UNDER APPLICABLE STATUTORY OR CHARTER PROVISIONS.
+2 (b) THE AUTHORITY GRANTED PURSUANT TO THIS SECTION DOES
+3 NOT LIMIT THE POWERS RESERVED TO CITIES AND TOWNS BY SECTION 2 OF
+4 ARTICLE XI OF THE STATE CONSTITUTION OR ARTICLE XX OF THE STATE
+5 CONSTITUTION.
+6 SECTION 3. In Colorado Revised Statutes, 29-4-505, amend (1)
+7 introductory portion and (1)(g); and add (1)(h) as follows:
+8 29-4-505. Powers of authority.
+9 (1) A housing authority shall constitute CONSTITUTES a public
+10 body, corporate and politic, SHALL exercise public and essential
+11 governmental functions, and have HAS all the powers necessary and
+12 convenient to carry out and effectuate the purposes and provisions of this
+13 part 5; (but not EXCEPT FOR the power to levy and collect taxes or special
+14 assessments), including the following powers:
+15 (g) To do all acts and things necessary or convenient to carry out
+16 the powers given AND THE PURPOSES DESCRIBED in this part 5 or the
+17 purposes hereof OF THIS PART 5; AND
+18 (h) TO ISSUE REVENUE OR GENERAL OBLIGATION BONDS AND TO
+19 PLEDGE THE HOUSING AUTHORITY'S REVENUES AND REVENUE-RAISING
+20 POWERS FOR THE PAYMENT OF THESE BONDS. WHEN ISSUING BONDS
+21 PURSUANT TO THIS SUBSECTION (1)(h), THE AUTHORITY SHALL ISSUE THE
+22 BONDS ACCORDING TO THE TERMS AND SUBJECT TO THE CONDITIONS
+23 DESCRIBED IN SECTION 43-4-609.
+24 SECTION 4. In Colorado Revised Statutes, add 29-4-510 as
+25 follows:
+26 29-4-510. Intergovernmental agreement for housing revenue.
+27 (1) AN AUTHORITY AND A COUNTY MAY ENTER INTO AN
+-7- 1206
+
+1 INTERGOVERNMENTAL AGREEMENT TO PROVIDE FOR THE IMPOSITION OF
+2 A GENERAL SALES TAX, SALES AND USE TAX, OR BOTH, PURSUANT TO
+3 SECTION 29-2-103, BY THE COUNTY UPON EVERY TRANSACTION OR OTHER
+4 INCIDENT WITH RESPECT TO WHICH A SALES OR USE TAX IS IMPOSED BY THE
+5 COUNTY. THE AUTHORITY SHALL USE THE REVENUE RAISED BY THIS TAX
+6 TO EFFECT THE PLANNING, FINANCING, ACQUISITION, CONSTRUCTION,
+7 RECONSTRUCTION, OR REPAIR, MAINTENANCE, MANAGEMENT, AND
+8 OPERATION OF HOUSING PROJECTS OR PROGRAMS PURSUANT TO THIS PART
+9 5.
+10 (2) AN INTERGOVERNMENTAL AGREEMENT ENTERED INTO
+11 PURSUANT TO THIS SECTION SHALL ADDRESS:
+12 (a) THE TYPE OF TAX TO BE LEVIED PURSUANT TO THIS SECTION
+13 AND THE RATE OF THAT TAX;
+14 (b) THE DURATION OF A TAX IMPOSED PURSUANT TO THIS SECTION
+15 AND OF THE AGREEMENT, BOTH OF WHICH MAY BE CONTINUED FOR A
+16 DEFINITE TERM OR UNTIL RESCINDED OR TERMINATED, AND THE METHOD,
+17 IF ANY, BY WHICH EITHER MAY BE RESCINDED OR TERMINATED; EXCEPT
+18 THAT NEITHER MAY BE RESCINDED OR TERMINATED SO LONG AS THE
+19 AUTHORITY HAS BONDS, NOTES, OR OTHER OBLIGATIONS OUTSTANDING TO
+20 WHICH THE AUTHORITY HAS PLEDGED REVENUE RAISED FROM THE TAX,
+21 UNLESS PROVISION FOR FULL PAYMENT OF THESE OBLIGATIONS, BY
+22 ESCROW OR OTHERWISE, HAS BEEN MADE PURSUANT TO THE TERMS OF THE
+23 OBLIGATIONS;
+24 (c) THE DISTRIBUTION OF ALL OR PART OF THE REVENUE RAISED BY
+25 A TAX IMPOSED PURSUANT TO THIS SECTION TO THE AUTHORITY;
+26 (d) THE IRREVOCABLE PLEDGE TO THE AUTHORITY OF ALL NEW
+27 TAX REVENUES RAISED BY A TAX IMPOSED PURSUANT TO THIS SECTION FOR
+-8- 1206
+
+1 THE PURPOSES SET FORTH IN THE APPROVED BALLOT QUESTION, EXCEPTING
+2 ANY COSTS OF ELECTIONS RELATED TO THE TAX OR THE ADMINISTRATION
+3 OR COLLECTION OF THE TAX;
+4 (e) COMPLIANCE WITH SECTION 20 OF ARTICLE X OF THE STATE
+5 CONSTITUTION;
+6 (f) THE PAYMENT OF ANY COSTS OF ANY ELECTION RELATED TO A
+7 TAX IMPOSED PURSUANT TO THIS SECTION;
+8 (g) THE RETENTION BY THE COUNTY OR THE DEPARTMENT OF
+9 REVENUE FOR TAXES COLLECTED BY THE DEPARTMENT OF REVENUE, OF AN
+10 AMOUNT OF THE REVENUE RAISED BY A TAX IMPOSED PURSUANT TO THIS
+11 SECTION NOT TO EXCEED THE COST OF THE COLLECTION, ADMINISTRATION,
+12 AND ENFORCEMENT OF THAT TAX; AND
+13 (h) ANY OTHER PROVISIONS DEEMED NECESSARY BY THE
+14 AUTHORITY AND THE COUNTY.
+15 (3) (a) AN ACTION BY A COUNTY TO IMPOSE OR INCREASE ANY TAX
+16 OR TO PLEDGE REVENUES PURSUANT TO THIS SECTION DOES NOT TAKE
+17 EFFECT UNLESS FIRST SUBMITTED TO A VOTE OF THE REGISTERED
+18 ELECTORS OF THE COUNTY TO THE EXTENT REQUIRED BY SECTION 20 OF
+19 ARTICLE X OF THE STATE CONSTITUTION OR OTHER APPLICABLE LAW.
+20 (b) A BALLOT QUESTION SUBMITTED TO A COUNTY'S REGISTERED
+21 ELECTORS PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION MUST BE
+22 SUBMITTED AT A GENERAL ELECTION OR ANY ELECTION TO BE HELD ON
+23 THE FIRST TUESDAY IN NOVEMBER OF AN ODD-NUMBERED YEAR AND IS
+24 ONLY APPROVED IF A MAJORITY OF THE REGISTERED ELECTORS VOTING ON
+25 THE BALLOT QUESTION AT THE ELECTION VOTE IN FAVOR OF THE BALLOT
+26 QUESTION.
+27 (4) A COUNTY THAT ENTERS INTO AN INTERGOVERNMENTAL
+-9- 1206
+
+1 AGREEMENT PURSUANT TO THIS SECTION SHALL, BEFORE IMPOSING OR
+2 INCREASING ANY TAX OR PLEDGING ANY REVENUES FROM A TAX IMPOSED
+3 OR INCREASED PURSUANT TO THIS SECTION, ENTER INTO A MEMORANDUM
+4 OF UNDERSTANDING CONCERNING THE PLEDGING OF ANY REVENUE RAISED
+5 FROM A TAX IMPOSED OR INCREASED PURSUANT TO THIS SECTION WITH
+6 THE AUTHORITY AND ANY CITY WITHIN THE AUTHORITY'S BOUNDARIES.
+7 (5) THE AUTHORITY GRANTED PURSUANT TO THIS SECTION DOES
+8 NOT LIMIT THE POWERS OF GOVERNMENTS TO ENTER INTO
+9 INTERGOVERNMENTAL COOPERATION OR CONTRACTS, TO ESTABLISH
+10 SEPARATE LEGAL ENTITIES PURSUANT TO SECTION 29-1-203 OR ANY
+11 OTHER APPLICABLE LAW, OR TO OTHERWISE CARRY OUT THEIR INDIVIDUAL
+12 POWERS UNDER APPLICABLE STATUTORY OR CHARTER PROVISIONS.
+13
+14 SECTION 5. Safety clause. The general assembly finds,
+15 determines, and declares that this act is necessary for the immediate
+16 preservation of the public peace, health, or safety or for appropriations for
+17 the support and maintenance of the departments of the state and state
+18 institutions.
+-10- 1206

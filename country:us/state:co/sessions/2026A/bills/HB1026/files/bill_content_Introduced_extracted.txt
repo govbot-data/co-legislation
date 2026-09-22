@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0198.02 Caroline Martin x5902 HOUSE BILL 26-1026
+HOUSE SPONSORSHIP
+Marshall and Hamrick,
+SENATE SPONSORSHIP
+Kolker,
+House Committees Senate Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING AN EXPANSION OF PLAN OPTIONS FOR THE PUBLIC
+102 EMPLOYEES' RETIREMENT ASSOCIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, a member of the public employees' retirement
+association (PERA) earns service credit for each year worked during
+which the member makes contributions to PERA. A member may
+purchase additional years of service credit for any previous period of
+public or private employment during which the member was not making
+contributions to PERA, subject to certain conditions. Sections 1 and 3 of
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+the bill allow a member of PERA to also purchase service credit for
+previous periods of unemployment during which the member was 21
+years old or older, subject to certain conditions. Sections 2, 3, 4, and 7
+make conforming amendments.
+Sections 5 and 6 require PERA's voluntary investment program to
+include options for an employee to make tax-deferred voluntary
+contributions and Roth voluntary contributions to the program and make
+other conforming changes.
+Sections 8 and 9 require PERA employers to affiliate with PERA's
+deferred compensation plan and offer the plan to employees. The sections
+require the deferred compensation plan to include options for an
+employee to make pre-tax voluntary contributions and Roth voluntary
+contributions to the plan and make other conforming changes.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-51-101, add
+3 (33.3), (33.5), and (37.5) as follows:
+4 24-51-101. Definitions.
+5 As used in this article 51, unless the context otherwise requires and
+6 except as otherwise defined in part 17 of this article 51:
+7 (33.3) "NONCOVERED TIME" MEANS TIME DURING WHICH A
+8 MEMBER WAS NOT EARNING SERVICE CREDIT FROM THE ASSOCIATION.
+9 (33.5) "NONQUALIFIED SERVICE" MEANS NONCOVERED TIME THAT
+10 IS NONQUALIFIED SERVICE CREDIT PURSUANT TO SECTION 415 (n)(3)(C) OF
+11 THE FEDERAL "INTERNAL REVENUE CODE OF 1986".
+12 (37.5) "QUALIFIED SERVICE" MEANS NONCOVERED TIME THAT IS
+13 NOT NONQUALIFIED SERVICE CREDIT PURSUANT TO SECTION 415 (n)(3)(C)
+14 OF THE FEDERAL "INTERNAL REVENUE CODE OF 1986".
+15 SECTION 2. In Colorado Revised Statutes, 24-51-208, amend
+16 (1) introductory portion, (1)(f), and (1)(f.5) as follows:
+17 24-51-208. Allocation of money.
+18 (1) The money of the association shall MUST be divided into
+-2- HB26-1026
+
+1 several trust funds, including, but not limited to:
+2 (f) The health care trust fund, created pursuant to the provisions
+3 of section 24-51-1201 (1), which consists of a portion of the employer
+4 contributions equal to one and two one-hundredths percent of member
+5 salaries; a portion of the amount paid by members to purchase service
+6 credit relating to noncovered employment TIME as determined pursuant
+7 to section 24-51-505 (7); thirty percent of the amount of any reduction in
+8 the employer contribution rates as determined in section 24-51-408.5 (5)
+9 to amortize any overfunding in each division's trust fund; deductions of
+10 premium amounts from monthly benefits of participating benefit
+11 recipients; premiums paid directly to the trust fund by participating
+12 benefit recipients, members, and dependents; monthly payments made by
+13 employers on behalf of participating benefit recipients, members, and
+14 dependents; and interest; in addition to a proportional share of investment
+15 income earned thereon;
+16 (f.5) The Denver public schools division health care trust fund,
+17 created pursuant to the provisions of section 24-51-1201 (2), which
+18 consists of a portion of the employer contributions equal to two-tenths of
+19 one percent of member salaries; a portion of the amount paid by members
+20 to purchase service credit relating to noncovered employment TIME as
+21 determined pursuant to section 24-51-505 (7); deductions of premium
+22 amounts from monthly benefits of participating benefit recipients;
+23 premiums paid directly to the trust fund by participating benefit
+24 recipients, members, and dependents; monthly payments made by
+25 employers on behalf of participating benefit recipients, members, and
+26 dependents; and interest; in addition to a proportional share of investment
+27 income earned thereon;
+-3- HB26-1026
+
+1 SECTION 3. In Colorado Revised Statutes, 24-51-501, amend
+2 (6) as follows:
+3 24-51-501. Earned service credit.
+4 (6) Service credit of DPS members prior to or on December 31,
+5 2009, shall be IS governed by section 24-51-1710. Beginning January 1,
+6 2010, DPS members shall earn service credit pursuant to this section and
+7 shall MAY purchase service credit relating to a refunded member
+8 contribution account and noncovered employment TIME pursuant to this
+9 part 5; except that purchases by DPS members that are ongoing as of
+10 January 1, 2010, shall be ARE governed by section 24-51-1705.
+11 SECTION 4. In Colorado Revised Statutes, 24-51-505, amend
+12 (1), (2), (3), (6), and (7) as follows:
+13 24-51-505. Purchase of service credit relating to noncovered
+14 time.
+15 (1) A MEMBER MAY PURCHASE service credit may be purchased for
+16 any period of previous employment with any public or private employer
+17 in the United States, its territories, or any foreign country NONCOVERED
+18 TIME subject to the following conditions:
+19 (a) If the service credit to be purchased is for noncovered
+20 employment with an employer affiliated with the association, the member
+21 must have A MEMBER MAY PURCHASE SERVICE CREDIT FOR QUALIFIED
+22 SERVICE IF THE MEMBER:
+23 (I) HAS AT LEAST one year of earned service credit with the
+24 association at the time of the purchase; If the service credit to be
+25 purchased is for previous employment with a nonaffiliated employer, the
+26 member must have one year of earned service credit with the association
+27 at the time of the purchase; except that, if the previous employment for
+-4- HB26-1026
+
+1 which the service credit is to be purchased is nonqualified service, as
+2 defined in section 415 (n)(3)(C) of the federal "Internal Revenue Code of
+3 1986", as amended, and the member first became a member of the
+4 association on or after January 1, 1999, the member must have five years
+5 of earned service credit with the association at the time of the purchase.
+6 AND
+7 (II) PROVIDES THE ASSOCIATION WITH DOCUMENTATION OF THE
+8 DATES OF EMPLOYMENT AND A RECORD OF SALARY RECEIVED.
+9 (a.3) A MEMBER WHO BECAME A MEMBER OF THE ASSOCIATION
+10 BEFORE JANUARY 1, 1999, MAY PURCHASE SERVICE CREDIT FOR
+11 NONQUALIFIED SERVICE IF THE MEMBER HAS AT LEAST ONE YEAR OF
+12 EARNED SERVICE CREDIT WITH THE ASSOCIATION AT THE TIME OF THE
+13 PURCHASE.
+14 (a.5) A MEMBER WHO BECAME A MEMBER OF THE ASSOCIATION ON
+15 OR AFTER JANUARY 1, 1999, MAY PURCHASE SERVICE CREDIT FOR
+16 NONQUALIFIED SERVICE IF THE MEMBER HAS AT LEAST FIVE YEARS OF
+17 EARNED SERVICE CREDIT WITH THE ASSOCIATION AT THE TIME OF THE
+18 PURCHASE.
+19 (a.7) A MEMBER MAY NOT PURCHASE SERVICE CREDIT FOR
+20 NONCOVERED TIME DURING WHICH THE MEMBER WAS NOT EMPLOYED AND
+21 WAS UNDER TWENTY-ONE YEARS OLD. A MEMBER MAY PURCHASE SERVICE
+22 CREDIT FOR NONCOVERED TIME DURING WHICH THE MEMBER WAS
+23 EMPLOYED AND WAS UNDER TWENTY-ONE YEARS OLD IF THE MEMBER
+24 PROVIDES THE ASSOCIATION WITH DOCUMENTATION OF THE DATES OF
+25 EMPLOYMENT AND A RECORD OF SALARY RECEIVED.
+26 (b) The member must provide documentation of the dates of
+27 employment and a record of salary received.
+-5- HB26-1026
+
+1 (c) The A member must provide certification from any retirement
+2 program covering such THE MEMBER'S employment that the service credit
+3 to be purchased has not vested with that program, DOES NOT CAUSE A
+4 MEMBER TO RECEIVE A RETIREMENT BENEFIT FOR THE SAME SERVICE
+5 UNDER MORE THAN ONE PLAN, except to the extent otherwise required by
+6 federal law.
+7 (2) (a) Except as otherwise provided in paragraph (b) of this
+8 subsection (2) THIS SUBSECTION (2), one year of service credit may be
+9 purchased for each year of noncovered employment TIME. ANY SERVICE
+10 CREDIT PURCHASED FOR NONCOVERED TIME DURING WHICH A MEMBER
+11 WAS EMPLOYED MUST BE determined pursuant to the provisions of section
+12 24-51-501 (2) to (4) applicable to earned service credit.
+13 (b) Members A MEMBER who first became members A MEMBER on
+14 or after January 1, 1999, may purchase no more than five years of service
+15 credit for noncovered TIME employment that is nonqualified service. as
+16 defined in section 415 (n)(3)(C) of the federal "Internal Revenue Code of
+17 1986", as amended
+18 (c) Members A MEMBER who initiate INITIATES a purchase on or
+19 after November 1, 2003, may not purchase service credit that would cause
+20 the total years of noncovered service TIME purchased during their
+21 membership to exceed ten years. This limit shall not apply to members A
+22 MEMBER who provide PROVIDED all required documentation of previous
+23 service to the association by October 31, 2003, together with application
+24 to purchase the service if the purchase is successfully completed pursuant
+25 to the service credit purchase agreement resulting from said THE
+26 application.
+27 (d) Members A MEMBER employed by a public entity affiliated
+-6- HB26-1026
+
+1 with the association pursuant to section 24-51-309 may purchase service
+2 credit for years employed by the entity without limit, if the purchase is
+3 completed before the member terminates employment with the entity, and
+4 any such purchase for years employed by the entity in excess of ten years
+5 is completed or installment payments initiated within three years after the
+6 date the employer affiliates with the association or November 1, 2006,
+7 whichever is later, UNLESS OTHERWISE RESTRICTED UNDER FEDERAL LAW.
+8 (3) The cost to purchase service credit for noncovered
+9 employment TIME shall be determined by the board and shall be sufficient
+10 to pay the actuarial liability associated with the purchase.
+11 (6) Service credit purchased pursuant to the provisions of this
+12 section for periods of nonmembership shall NONCOVERED TIME MUST not
+13 be credited toward the earned service credit requirement for disability
+14 retirement benefits OR SHORT-TERM DISABILITY PROGRAM PAYMENTS as
+15 provided for in part 7 of this article ARTICLE 51 or TOWARD the earned
+16 service credit requirement for survivor benefit coverage as provided for
+17 in part 9 of this article ARTICLE 51.
+18 (7) A portion of the amount paid by a member to purchase service
+19 credit related to noncovered employment shall TIME MUST be transferred
+20 PAID to the health care trust fund. on the effective date of the member's
+21 retirement or, in case of death prior to retirement, on the effective date of
+22 the survivor benefit The amount transferred shall be one and two
+23 one-hundredths percent of PAID TO THE HEALTH CARE TRUST FUND MUST
+24 BE THE SAME PERCENTAGE OF THE MEMBER'S SALARY PAID BY THE
+25 EMPLOYER CONTRIBUTION SPECIFIED IN SECTION 24-51-208 (1)(f),
+26 DETERMINED USING the member's highest average salary at the time of the
+27 purchase. with interest at the rate specified in section 24-51-101 (28)(a)
+-7- HB26-1026
+
+1 ANY REFUND PURSUANT TO SECTION 24-51-506 (3) OR (4) WILL BE PAID
+2 FROM THE MEMBER'S APPLICABLE DIVISION TRUST FUND AND WILL NOT BE
+3 PAID FROM THE HEALTH CARE TRUST FUND.
+4 SECTION 5. In Colorado Revised Statutes, 24-51-1401, amend
+5 (2) and (4); and repeal (3) as follows:
+6 24-51-1401. Voluntary investment program established and
+7 fund created - definitions.
+8 (2) The voluntary investment program shall ESTABLISHED
+9 PURSUANT TO THIS SECTION MUST:
+10 (a) Be available to all members DPS members, retirees, and DPS
+11 retirees; and shall EMPLOYEES OF AN EMPLOYER;
+12 (b) Be in addition to any other retirement or tax-deferred
+13 compensation system established by the state or its political subdivisions;
+14 AND
+15 (c) INCLUDE OPTIONS FOR AN EMPLOYEE OF AN EMPLOYER TO
+16 MAKE TAX-DEFERRED VOLUNTARY CONTRIBUTIONS AND ROTH
+17 VOLUNTARY CONTRIBUTIONS TO THE VOLUNTARY INVESTMENT PROGRAM.
+18 (3) The board is hereby authorized to offer participation in the
+19 voluntary investment program to all employees of employers that are
+20 affiliated with the association, regardless of whether those employees are
+21 members or retirees.
+22 (4) For purposes of this part 14, members and retirees shall
+23 include DPS members and DPS retirees THE TERM "MEMBER" INCLUDES
+24 A DPS MEMBER AND THE TERM "RETIREE" INCLUDES A DPS RETIREE.
+25 SECTION 6. In Colorado Revised Statutes, 24-51-1402, amend
+26 (1), (3), and (4); and repeal (2) as follows:
+27 24-51-1402. Contributions to the voluntary investment
+-8- HB26-1026
+
+1 program.
+2 (1) An eligible employee pursuant to section 24-51-1401 OF AN
+3 EMPLOYER may participate in the voluntary investment program
+4 authorized in section 24-51-1401 by authorizing his or her THEIR
+5 employer as defined in section 24-51-101 (20), to contribute an amount
+6 by payroll deduction in lieu of receiving such amount as salary or pay.
+7 The amount of such contribution by a participant shall be IS subject to any
+8 limitations established by federal law. These voluntary contributions, in
+9 addition to investment earnings, shall be exempt from federal and state
+10 income taxes until the ultimate distribution of such contributions has been
+11 made to the participant, member, former member, or beneficiary.
+12 (2) The board may, at its discretion, allow participants in the
+13 voluntary investment program to elect to make after-tax voluntary
+14 contributions to the voluntary investment program by payroll deduction.
+15 Investment earnings on such contributions are exempt from federal and
+16 state income taxes until the ultimate distribution of such contributions has
+17 been made to the participant, member, former member, or beneficiary.
+18 (3) All voluntary contributions by a participating member shall OR
+19 RETIREE MUST be included in the salary of such member THE MEMBER OR
+20 RETIREE for the purpose of calculating member, WORKING RETIREE, and
+21 employer contributions pursuant to the provisions of section 24-51-401.
+22 The member contribution provisions of section 24-51-401 and the
+23 matching employer contribution provisions of section 24-51-408.5 shall
+24 not apply to any voluntary contribution made by a retiree.
+25 (4) The employer shall deliver all voluntary contributions to the
+26 VOLUNTARY INVESTMENT PROGRAM VIA THE ASSOCIATION, OR THE service
+27 provider designated by the association, IF APPLICABLE, within five days
+-9- HB26-1026
+
+1 after the date that the participants are paid and consistent with the
+2 provisions of section 24-51-401 (1.7)(c) and (1.7)(d).
+3 SECTION 7. In Colorado Revised Statutes, 24-51-1506, amend
+4 (2) as follows:
+5 24-51-1506. Additional choices within first five years.
+6 (2) A member who elects to join the defined benefit plan pursuant
+7 to subsection (1) of this section may, upon meeting the requirements of
+8 section 24-51-505, purchase service credit for the period of employment
+9 covered by the defined contribution plan. The cost to purchase such
+10 service shall be IS the same as the cost determined by the board for the
+11 purchase of noncovered employment TIME. The member may elect to have
+12 any portion of the member's account paid from the defined contribution
+13 plan to the defined benefit plan to facilitate the purchase of service credit
+14 through a direct rollover in accordance with section 401 (a)(31) of the
+15 federal "Internal Revenue Code of 1986". as amended The member may
+16 not be vested in the defined contribution plan upon purchasing service
+17 credit for employment that was covered by the defined contribution plan.
+18 SECTION 8. In Colorado Revised Statutes, amend 24-51-1602
+19 as follows:
+20 24-51-1602. Affiliation with the deferred compensation plan.
+21 (1) An employee is not eligible to participate in the deferred
+22 compensation plan authorized in section 24-51-1601 unless his or her
+23 employer is affiliated with such plan.
+24 (2) An EACH employer as defined in section 24-51-101 (20), may
+25 SHALL affiliate with the deferred compensation plan. by making
+26 application to the association. All applications shall be subject to approval
+27 by the association. Upon affiliation, employees of the employer are
+-10- HB26-1026
+
+1 eligible to begin deferring salary to the deferred compensation plan.
+2 (2.5) THE DEFERRED COMPENSATION PLAN ESTABLISHED
+3 PURSUANT TO SECTION 24-51-1601 MUST:
+4 (a) BE IN ADDITION TO ANY OTHER RETIREMENT OR TAX-DEFERRED
+5 COMPENSATION SYSTEM ESTABLISHED BY THE STATE OR ITS POLITICAL
+6 SUBDIVISIONS; AND
+7 (b) INCLUDE OPTIONS FOR AN EMPLOYEE TO MAKE PRE-TAX
+8 VOLUNTARY CONTRIBUTIONS AND ROTH VOLUNTARY CONTRIBUTIONS TO
+9 THE DEFERRED COMPENSATION PLAN.
+10 (3) NOTWITHSTANDING SUBSECTION (2) OF THIS SECTION, all
+11 employers that are affiliated with the deferred compensation plan prior to
+12 July 1, 2009, including entities that are not affiliated employers of the
+13 association, as employer is defined in section 24-51-101 (20), shall
+14 remain affiliated and shall not have to apply to the association pursuant
+15 to subsection (2) of this section WITH THE DEFERRED COMPENSATION
+16 PLAN.
+17 (4) Any employee who is employed by an entity that is affiliated
+18 with the deferred compensation plan shall be IS entitled to participate in
+19 the plan regardless of whether that individual EMPLOYEE is a member or
+20 retiree of the association.
+21 SECTION 9. In Colorado Revised Statutes, 24-51-1603, amend
+22 (1), (2), and (3) as follows:
+23 24-51-1603. Contributions to the deferred compensation plan.
+24 (1) An employee of an employer affiliated with the deferred
+25 compensation plan pursuant to section 24-51-1602 (2) or (3) may
+26 participate in the deferred compensation plan authorized in section
+27 24-51-1601 by electing with his or her THEIR employer to defer receipt of
+-11- HB26-1026
+
+1 salary by specifying an amount contributed by payroll deduction. The
+2 amount of such deferral by the employee shall be IS subject to any
+3 limitations established by federal law. The amount deferred, including
+4 investment earnings, shall be exempt from federal and state income taxes
+5 until the ultimate distribution of such contributions has been made to the
+6 participant, former participant, or beneficiary.
+7 (2) All voluntary deferrals by a participating member shall OR
+8 RETIREE MUST be included in the salary of such member THE MEMBER OR
+9 RETIREE in accordance with section 24-51-101 (42) for the purpose of
+10 calculating member, WORKING RETIREE, and employer contributions
+11 pursuant to the provisions of section 24-51-401. The member contribution
+12 provisions of section 24-51-401 shall not apply to any deferral made by
+13 a retiree.
+14 (3) Consistent with the provisions of section 24-51-401 (1.7)(c)
+15 and (1.7)(d), the AN employer shall deliver all deferred compensation
+16 contributions to the trust fund via THE ASSOCIATION OR the service
+17 provider designated by the association, if applicable, within five days
+18 after the date the employees are paid.
+19 SECTION 10. Act subject to petition - effective date. This act
+20 takes effect January 1, 2027; except that, if a referendum petition is filed
+21 pursuant to section 1 (3) of article V of the state constitution against this
+22 act or an item, section, or part of this act within the ninety-day period
+23 after final adjournment of the general assembly, then the act, item,
+24 section, or part will not take effect unless approved by the people at the
+25 general election to be held in November 2026 and, in such case, will take
+26 effect January 1, 2027, or on the date of the official declaration of the
+27 vote thereon by the governor, whichever is later.
+-12- HB26-1026

@@ -1,0 +1,543 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0554.02 Brita Darling x2241 SENATE BILL 26-032
+Senate Committees House Committees
+Health & Human Services Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THE PROMOTION OF IMMUNIZATION ACCESS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill amends existing law and adds new provisions relating to
+access to vaccines as follows:
+! Updates insurance coverage for cervical cancer
+vaccinations to refer to the vaccine as the human
+papillomavirus vaccine, rather than the cervical cancer
+vaccine; recognizes coverage for both women and men;
+and authorizes the commissioner of insurance to adopt
+coverage rules for the vaccine if the advisory committee on
+ESUOH
+ETANES
+ETANES
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,31
+hcraM
+6202
+,5
+yraurbeF
+6202
+,4
+yraurbeF
+SENATE SPONSORSHIP
+Daugherty and Mullica, Amabile, Ball, Coleman, Cutter, Exum, Gonzales J., Jodeh, Kipp,
+Kolker, Lindstedt, Michaelson Jenet, Snyder, Wallace, Weissman
+HOUSE SPONSORSHIP
+Feret and Brown,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+immunization practices to the centers for disease control in
+the federal department of health and human services
+(ACIP) no longer recommends the vaccine (section 3 of
+the bill);
+! In naturopathic medicine practice, references a schedule of
+immunizations and guidelines established by the state
+board of health (board of health) in addition to ACIP's
+schedule of immunizations and guidelines referenced in
+existing law (sections 4 and 5);
+! Authorizes pharmacists to exercise independent
+prescriptive authority for vaccines and requires the state
+board of pharmacy to adopt rules establishing and
+amending, as necessary, requirements for independent
+prescriptive authority for vaccines (sections 6 and 7);
+! In the context of vaccines required for school entry,
+updates vaccine-related liability limitation provisions to
+limit liability for injuries if the vaccine was administered
+according to the board of health schedule of immunizations
+or to ACIP's schedule referenced in existing law (section
+8);
+! Directs the board of health, in adopting rules addressing
+which vaccines are to be administered to infants, to
+consider the recommendations of ACIP, as well as the
+recommendations of the American Academy of Pediatrics
+and other similar entities (section 9);
+! Removes a prohibition on the use of state money for infant
+immunization programs if the state does not receive federal
+money for the immunization programs (section 10);
+! Adds pharmacies and manufacturers to liability limitation
+provisions for hospitals, clinics, and other providers
+relating to the handling, storage, and distribution of
+vaccines for infants. Manufacturer liability limitation
+provisions are removed from the law for claims brought on
+or after January 31, 2029 (section 11).
+! Authorizes the department of public health and
+environment to consider recommendations of the American
+Academy of Pediatrics and other similar entities, in
+addition to ACIP, in recommending the purchase of
+vaccines, sending notifications concerning overdue
+vaccines and vaccine-preventable disease outbreaks, and
+when considering equivalent vaccines (section 12);
+! Updates language in the cervical cancer immunization
+program to define the cervical cancer vaccine as the human
+papillomavirus vaccine and to refer to underinsured minors,
+rather than just uninsured female minors, since both male
+-2- 032
+
+and female minors receive the vaccine (sections 13 and
+14);
+! Adds a new limitation on liability for civil damages for
+injury or death of an adult caused by a vaccine or
+immunizing agent if the vaccine or immunizing agent was
+administered according to the schedule of immunizations
+establish by the board of health, there were no medical
+contraindications, and the vaccine or immunizing agent
+was administered in accordance with generally accepted
+clinical methods. For claims brought on or before January
+30, 2029, against a hospital, clinic, pharmacy,
+manufacturer, or provider arising from injuries resulting
+from the handling, storage, or distribution of vaccines,
+there is no liability unless the injuries are the result of the
+negligent failure of an employee of the hospital, clinic,
+pharmacy, or manufacturer to conform to recognized
+standards to protect public health. Manufacturer liability
+protections are removed from the law for claims brought on
+or after January 31, 2029 (section 15).
+! Authorizes the department of health care policy and
+financing to purchase for the children's basic health plan
+vaccines that are recommended by the American Academy
+of Pediatrics and other similar entities, in addition to those
+recommended by ACIP (section 16).
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Ensuring Immunization Access for Coloradans Act".
+4 SECTION 2. Legislative declaration. (1) The general assembly
+5 finds and determines that:
+6 (a) Freedom from debilitating and life-threatening illness is
+7 necessary to maintain Colorado's economy and prosperity;
+8 (b) Access to life-saving vaccines and other immunizing agents
+9 is critical to the health of all individuals living in the state;
+10 (c) Coloradans, including health-care providers, teachers, police
+11 and other public safety professionals, food industry professionals, grocery
+-3- 032
+
+1 and retail workers, children in day care settings, and students from
+2 kindergarten to college seniors, among others, should feel safe working,
+3 learning, and participating in society; and
+4 (d) Individuals who want to be vaccinated against disease should
+5 have access to safe and effective vaccines that are administered by trusted
+6 health-care professionals, with no cost sharing.
+7 (2) Therefore, the general assembly declares that the purpose of
+8 this act is to:
+9 (a) Ensure consistent and equitable access to vaccines and other
+10 immunizing agents for all Coloradans;
+11 (b) Ensure continued alignment of the administration of vaccines
+12 and other immunizing agents across care settings with evidence-based
+13 science and medical standards of care, while maintaining protections for
+14 health-care providers; and
+15 (c) Support the health-care workforce, including physicians,
+16 physician assistants, nurse practitioners, pharmacists, and other
+17 professionals who are qualified to administer vaccines and immunizing
+18 agents, in delivering safe and necessary immunization services.
+19 SECTION 3. In Colorado Revised Statutes, 10-16-104, amend
+20 (17)(a); and add (17)(e) as follows:
+21 10-16-104. Mandatory coverage provisions - applicability -
+22 rules - definitions.
+23 (17) Human papillomavirus vaccines - rules.
+24 (a) All individual and all group sickness and accident insurance
+25 policies, except supplemental policies covering a specified disease or
+26 other limited benefit, that are delivered or issued for delivery within the
+27 state by an entity subject to the provisions of part 2 of this article ARTICLE
+-4- 032
+
+1 16 and all individual and group health-care service or indemnity contracts
+2 issued by an entity subject to the provisions of part 3 or 4 of this article
+3 ARTICLE 16, as well as any other group health-care coverage offered to
+4 residents of this state, shall provide coverage for the full cost of cervical
+5 cancer HUMAN PAPILLOMAVIRUS vaccination for all females INDIVIDUALS
+6 for whom a vaccination is recommended by the advisory committee on
+7 immunization practices of the United States department of health and
+8 human services ACIP. IF THE ACIP NO LONGER RECOMMENDS HUMAN
+9 PAPILLOMAVIRUS VACCINATIONS, THE COMMISSIONER MAY ADOPT RULES
+10 TO REQUIRE COVERAGE IN ACCORDANCE WITH SUBSECTION (18) OF THIS
+11 SECTION.
+12 (e) AS USED IN THIS SUBSECTION (17), "ACIP" HAS THE MEANING
+13 SET FORTH IN SUBSECTION (18)(c)(I) OF THIS SECTION.
+14 SECTION 4. In Colorado Revised Statutes, 12-250-103, repeal
+15 (1); and add (5.5) as follows:
+16 12-250-103. Definitions.
+17 As used in this article 250, unless the context otherwise requires:
+18 (1) "ACIP" means the advisory committee on immunization
+19 practices to the centers for disease control and prevention in the United
+20 States department of health and human services or its successor entity.
+21 (5.5) "BOARD OF HEALTH" MEANS THE STATE BOARD OF HEALTH
+22 CREATED IN SECTION 25-1-103 (1)(a).
+23 SECTION 5. In Colorado Revised Statutes, 12-250-106, amend
+24 (1)(c)(I)(F), (2)(e) introductory portion, (2)(e)(I), (2)(f) introductory
+25 portion, and (2)(f)(I) as follows:
+26 12-250-106. Practice of naturopathic medicine by
+27 naturopathic doctors - exclusions - protected activities - definition -
+-5- 032
+
+1 rules.
+2 (1) The practice of naturopathic medicine by a naturopathic doctor
+3 includes the following:
+4 (c) (I) Obtaining, dispensing, administering, ordering, or
+5 prescribing, as specified, medicines listed in the naturopathic formulary,
+6 which include:
+7 (F) Vaccines, in accordance with the ACIP guidelines SCHEDULE
+8 OF IMMUNIZATIONS ESTABLISHED BY THE BOARD OF HEALTH BY RULE, for
+9 patients who are at least eighteen years of age OLD; and
+10 (2) A naturopathic doctor shall not:
+11 (e) Treat a child who is less than two years of age OLD, unless the
+12 naturopathic doctor:
+13 (I) Provides to the parent or legal guardian of the child a copy of
+14 the most recent immunizations schedule recommended by the ACIP
+15 SCHEDULE OF IMMUNIZATIONS ESTABLISHED BY THE BOARD OF HEATH BY
+16 RULE and recommends that the parent or legal guardian follow the
+17 immunizations IMMUNIZATION schedule;
+18 (f) Treat a child who is two years of age OLD or older but less than
+19 eight years of age OLD, unless the naturopathic doctor:
+20 (I) Provides to the parent or legal guardian of the child a copy of
+21 the most recent immunizations schedule recommended by the ACIP
+22 SCHEDULE OF IMMUNIZATIONS ESTABLISHED BY THE BOARD OF HEALTH BY
+23 RULE and recommends that the parent or legal guardian follow the
+24 immunizations IMMUNIZATION schedule;
+25 SECTION 6. In Colorado Revised Statutes, 12-280-103, amend
+26 (39)(g)(IV) introductory portion, (39)(g)(IV)(C), and (39)(g)(V); and add
+27 (39)(g)(VI) as follows:
+-6- 032
+
+1 12-280-103. Definitions - rules.
+2 As used in this article 280, unless the context otherwise requires
+3 or the term is otherwise defined in another part of this article 280:
+4 (39) "Practice of pharmacy" means:
+5 (g) Exercising independent prescriptive authority:
+6 (IV) For drugs that are not controlled substances, drug categories,
+7 or devices that are prescribed in accordance with the product's
+8 FDA-approved labeling and to patients who are at least twelve years of
+9 age OLD and that are limited to conditions that:
+10 (C) Have a test that is used to guide diagnosis or clinical
+11 decision-making and is waived under the federal "Clinical Laboratory
+12 Improvement Amendments of 1988", Pub.L. 100-578, as amended; or
+13 (V) For any FDA-approved product indicated for opioid use
+14 disorder in accordance with federal law and regulations, including
+15 medications for opioid use disorder, if authorized pursuant to part 6 of
+16 this article 280; OR
+17 (VI) FOR VACCINES;
+18 SECTION 7. In Colorado Revised Statutes, 12-280-107, add (4)
+19 as follows:
+20 12-280-107. Rules.
+21 (4) NOT LATER THAN OCTOBER 1, 2026, THE BOARD SHALL
+22 REVIEW EXISTING RECORD-KEEPING RULES TO ENSURE THAT DUPLICATE,
+23 INCONSISTENT, OR OUTDATED RULES RELATING TO VACCINES ARE
+24 REPEALED OR AMENDED. THE BOARD MAY CONFER WITH THE DEPARTMENT
+25 OF PUBLIC HEALTH AND ENVIRONMENT AND OTHER APPLICABLE STATE
+26 AGENCIES TO FACILITATE A CONSISTENT REGULATORY FRAMEWORK
+27 RELATING TO VACCINES.
+-7- 032
+
+1 SECTION 8. In Colorado Revised Statutes, 25-4-909, amend (2)
+2 introductory portion and (2)(b) as follows:
+3 25-4-909. Vaccine-related injury or death - limitations on
+4 liability - legislative declaration.
+5 (2) No person AN INDIVIDUAL who administers a vaccine
+6 which THAT is required under the provisions of this part 9 to an infant or
+7 child whose age is greater than twenty days shall NOT be held liable for
+8 injuries sustained pursuant to such THE vaccine if:
+9 (b) The vaccine was administered according to the schedule of
+10 immunization as published by the communicable disease control
+11 administration of the federal government CENTERS FOR DISEASE CONTROL
+12 AND PREVENTION IN THE UNITED STATES DEPARTMENT OF HEALTH AND
+13 HUMAN SERVICES OR THE SCHEDULE OF IMMUNIZATIONS ESTABLISHED BY
+14 RULE OF THE STATE BOARD OF HEALTH; and
+15 SECTION 9. In Colorado Revised Statutes, 25-4-1705, amend
+16 (5) introductory portion and (5)(c) as follows:
+17 25-4-1705. Department of public health and environment -
+18 powers and duties - rules.
+19 (5) The board of health, in consultation with the medical services
+20 board in the state department of health care policy and financing and such
+21 other persons, agencies, or organizations that the board of health deems
+22 advisable, shall formulate AND adopt and promulgate rules governing the
+23 implementation and operation of the infant immunization program. Such
+24 THE rules shall MUST address the following:
+25 (c) Which vaccines shall be required to be administered, AFTER
+26 TAKING INTO CONSIDERATION THE RECOMMENDATIONS OF THE ADVISORY
+27 COMMITTEE ON IMMUNIZATION PRACTICES TO THE CENTERS FOR DISEASE
+-8- 032
+
+1 CONTROL AND PREVENTION IN THE UNITED STATES DEPARTMENT OF
+2 HEALTH AND HUMAN SERVICES, THE AMERICAN ACADEMY OF PEDIATRICS,
+3 THE AMERICAN ACADEMY OF FAMILY PHYSICIANS, THE AMERICAN
+4 COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS, OR THE AMERICAN
+5 COLLEGE OF PHYSICIANS;
+6 SECTION 10. In Colorado Revised Statutes, 25-4-1708, amend
+7 (2) as follows:
+8 25-4-1708. Immunization fund - created - transfer - repeal.
+9 (2) If federal funds are not received to implement and operate the
+10 immunization programs created in this part 17 and part 24 of this article
+11 ARTICLE 4, no ANY additional general fund moneys MONEY NEEDED shall
+12 be appropriated for such purposes ADDRESSED THROUGH THE ANNUAL
+13 BUDGET PROCESS OR EMERGENCY SUPPLEMENTAL PROCESS.
+14 SECTION 11. In Colorado Revised Statutes, 25-4-1709, amend
+15 (4); and add (4.5) as follows:
+16 25-4-1709. Limitations on liability - repeal.
+17 (4) (a) Where a claim BROUGHT ON OR BEFORE JANUARY 30, 2029,
+18 against a hospital, clinic, pharmacy, WHOLESALER, or provider arises
+19 from injuries resulting from the handling, storage, or distribution of
+20 vaccines required by this part 17, such THE hospital, clinic, PHARMACY,
+21 WHOLESALER, or provider shall not be IS NOT liable unless such THE
+22 injuries are the result of the negligent failure of an employee of such THE
+23 hospital, clinic, PHARMACY, WHOLESALER, or provider to conform to
+24 recognized standards of practice which THAT are necessary for the
+25 protection of public health.
+26 (b) THIS SUBSECTION (4) IS REPEALED, EFFECTIVE JULY 1, 2031.
+27 (4.5) WHERE A CLAIM BROUGHT ON OR AFTER JANUARY 31, 2029,
+-9- 032
+
+1 AGAINST A HOSPITAL, CLINIC, PHARMACY, OR PROVIDER ARISES FROM
+2 INJURIES RESULTING FROM THE HANDLING, STORAGE, OR DISTRIBUTION OF
+3 VACCINES REQUIRED BY THIS PART 17, THE HOSPITAL, CLINIC, PHARMACY,
+4 OR PROVIDER IS NOT LIABLE UNLESS THE INJURIES ARE THE RESULT OF THE
+5 NEGLIGENT FAILURE OF AN EMPLOYEE OF THE HOSPITAL, CLINIC,
+6 PHARMACY, OR PROVIDER TO CONFORM TO RECOGNIZED STANDARDS OF
+7 PRACTICE THAT ARE NECESSARY FOR THE PROTECTION OF PUBLIC HEALTH.
+8 SECTION 12. In Colorado Revised Statutes, 25-4-2403, amend
+9 (1)(f), (6)(a), and (13)(d)(III); and add (9.5) as follows:
+10 25-4-2403. Department of public health and environment -
+11 powers and duties - immunization tracking system - rules -
+12 definitions.
+13 (1) In order to expand the immunization registry and increase
+14 access to immunizations, the department may address:
+15 (f) The ability of the department of health care policy and
+16 financing to purchase vaccines recommended by ACIP, THE AMERICAN
+17 ACADEMY OF PEDIATRICS, THE AMERICAN ACADEMY OF FAMILY
+18 PHYSICIANS, THE AMERICAN COLLEGE OF OBSTETRICIANS AND
+19 GYNECOLOGISTS, OR THE AMERICAN COLLEGE OF PHYSICIANS through a
+20 purchasing system, if developed pursuant to this subsection (1) and
+21 subsection (1.3) of this section, for children who are enrolled in the
+22 children's basic health plan created in article 8 of title 25.5. C.R.S.
+23 (6) (a) The department of public health and environment or the
+24 department's contractor may directly contact the individual who is the
+25 subject of immunization records or the individual's parent or legal
+26 guardian for the purpose of notifying the individual, parent, or legal
+27 guardian if immunizations are due or overdue as indicated by the advisory
+-10- 032
+
+1 committee on immunization practices of the United States department of
+2 health and human services or ACIP, the American Academy of Pediatrics,
+3 THE AMERICAN ACADEMY OF FAMILY PHYSICIANS, THE AMERICAN
+4 COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS, OR THE AMERICAN
+5 COLLEGE OF PHYSICIANS. The department or the department's contractor
+6 shall contact the individual, parent, or legal guardian if it is necessary to
+7 control an outbreak of or prevent the spread of a vaccine-preventable
+8 disease pursuant to section 25-1.5-102 (1)(a) or 25-4-908.
+9 (9.5) THE DEPARTMENT MAY NEGOTIATE FOR AND PURCHASE
+10 VACCINES ADOPTED BY THE BOARD BY RULE OR RECOMMENDED BY ACIP,
+11 THE AMERICAN ACADEMY OF PEDIATRICS, THE AMERICAN ACADEMY OF
+12 FAMILY PHYSICIANS, THE AMERICAN COLLEGE OF OBSTETRICIANS AND
+13 GYNECOLOGISTS, OR THE AMERICAN COLLEGE OF PHYSICIANS.
+14 (13) As used in this section:
+15 (d) "Equivalent vaccines" means two or more vaccines that:
+16 (III) Are recommended for comparable populations by the federal
+17 centers for disease control and prevention ACIP, THE AMERICAN
+18 ACADEMY OF PEDIATRICS, THE AMERICAN ACADEMY OF FAMILY
+19 PHYSICIANS, THE AMERICAN COLLEGE OF OBSTETRICIANS AND
+20 GYNECOLOGISTS, OR THE AMERICAN COLLEGE OF PHYSICIANS.
+21 SECTION 13. In Colorado Revised Statutes, 25-4-2502, amend
+22 (2) as follows:
+23 25-4-2502. Definitions.
+24 As used in this part 25, unless the context otherwise requires:
+25 (2) "Cervical cancer vaccine" or "cervical cancer immunization"
+26 means the series of HUMAN PAPILLOMAVIRUS vaccines to prevent cervical
+27 cancer AND OTHER CANCERS as determined by the board of health to be
+-11- 032
+
+1 necessary to conform to recognized standard medical practices.
+2 SECTION 14. In Colorado Revised Statutes, amend 25-4-2503
+3 as follows:
+4 25-4-2503. Cervical cancer immunization program - rules.
+5 (1) There is hereby created in the department the cervical cancer
+6 immunization program. The department is directed to investigate manners
+7 in which the cervical cancer vaccine may be administered in an
+8 economical fashion. The state board OF HEALTH is authorized to
+9 promulgate ADOPT rules to assist the department in making the vaccine
+10 available.
+11 (2) FQHCs are encouraged to enter into agreements with local
+12 public health agencies to administer vaccinations to underinsured female
+13 minors through a federally recognized vaccination program for children.
+14 If a local public health agency enters into an agreement WITH AN FQHC,
+15 the agency shall administer vaccinations, including but not limited to
+16 cervical cancer vaccinations, pursuant to the agreement with the FQHC.
+17 The department shall pay to a local public health agency the agency's
+18 administrative cost for administering a cervical cancer vaccination to an
+19 underinsured female MINOR entering the sixth grade.
+20 SECTION 15. In Colorado Revised Statutes, add part 26 to
+21 article 4 of title 25 as follows:
+22 PART 26
+23 ADULT IMMUNIZATION ACT
+24 25-4-2601. Short title.
+25 THE SHORT TITLE OF THIS PART 26 IS THE "ADULT IMMUNIZATION
+26 ACT".
+27 25-4-2602. Legislative declaration.
+-12- 032
+
+1 (1) THE GENERAL ASSEMBLY FINDS AND DETERMINES THAT:
+2 (a) VACCINE-PREVENTABLE DISEASES REPRESENT A SERIOUS
+3 PUBLIC HEALTH THREAT TO PEOPLE IN THE STATE;
+4 (b) IT HAS BEEN WELL DOCUMENTED THAT VACCINES AND OTHER
+5 IMMUNIZING AGENTS ARE AN EFFECTIVE WAY TO PREVENT SICKNESS AND
+6 DEBILITATING DISEASE;
+7 (c) (I) THE VACCINE MANUFACTURING SECTOR IS FOUNDATIONAL
+8 TO COLORADO'S PUBLIC HEALTH SECURITY AND ECONOMIC STRENGTH,
+9 SUPPORTING HIGH-SKILLED JOBS, HEALTH-CARE INFRASTRUCTURE, AND
+10 THE CONTINUITY OF ESSENTIAL PUBLIC SERVICES;
+11 (II) A SMALL NUMBER OF HIGHLY SPECIALIZED MANUFACTURERS
+12 PRODUCE MOST OF THE WORLD'S VACCINES IN A COMPLEX AND
+13 CAPITAL-INTENSIVE ENVIRONMENT, ADVANCING INFECTIOUS DISEASE
+14 PREVENTION AND EMERGING THERAPIES, INCLUDING MRNA-BASED
+15 CANCER TREATMENTS; AND
+16 (III) MAINTAINING A STABLE, SCIENCE-BASED REGULATORY
+17 FRAMEWORK IS CRITICAL TO PRESERVING MANUFACTURING CAPACITY,
+18 SUPPORTING ONGOING INNOVATION, AND ENSURING THE ONGOING
+19 AVAILABILITY OF SAFE AND EFFECTIVE VACCINES FOR COLORADANS; AND
+20 (d) INDIVIDUALS WHO WANT TO BE VACCINATED AGAINST DISEASE
+21 SHOULD HAVE ACCESS TO SAFE AND EFFECTIVE VACCINES THAT ARE
+22 ADMINISTERED BY TRUSTED HEALTH-CARE PROFESSIONALS WITH NO COST
+23 SHARING.
+24 (2) THEREFORE, THE GENERAL ASSEMBLY DECLARES THAT
+25 PROMOTING EVIDENCE-BASED ADMINISTRATION OF VACCINES AND OTHER
+26 IMMUNIZING AGENTS TO ADULTS IS CRITICAL TO PRESERVING THE HEALTH
+27 OF ALL PEOPLE IN THE STATE.
+-13- 032
+
+1 25-4-2603. Definitions.
+2 AS USED IN THIS PART 26, UNLESS THE CONTEXT OTHERWISE
+3 REQUIRES:
+4 (1) "ACIP" MEANS THE ADVISORY COMMITTEE ON IMMUNIZATION
+5 PRACTICES TO THE CENTERS FOR DISEASE CONTROL AND PREVENTION IN
+6 THE UNITED STATES DEPARTMENT OF HEALTH AND HUMAN SERVICES, OR
+7 ITS SUCCESSOR ENTITY.
+8 (2) "ADULT" MEANS AN INDIVIDUAL WHO IS EIGHTEEN YEARS OLD
+9 OR OLDER.
+10 (3) "BOARD OF HEALTH" MEANS THE STATE BOARD OF HEALTH
+11 CREATED IN SECTION 25-1-103 (1)(a).
+12
+13 (4) "IMMUNIZING AGENT" MEANS ANY BIOLOGICAL SUBSTANCE,
+14 INCLUDING VACCINES, TOXOIDS, OR OTHER ANTIGENIC COMPONENTS, THAT
+15 IS ADMINISTERED TO AN INDIVIDUAL FOR THE PURPOSE OF PRODUCING
+16 ACTIVE OR PASSIVE IMMUNITY AGAINST A SPECIFIC DISEASE.
+17 (5) "VACCINE" MEANS A BIOLOGICAL PREPARATION THAT
+18 CONTAINS ANTIGENIC MATERIAL DESIGNED TO STIMULATE AN
+19 INDIVIDUAL'S IMMUNE SYSTEM TO DEVELOP ACTIVE IMMUNITY AGAINST
+20 A SPECIFIC INFECTIOUS DISEASE TO PREVENT ILLNESS, TYPICALLY BY
+21 INTRODUCING A WEAKENED, INACTIVATED, OR PARTIAL FORM OF A
+22 PATHOGEN OR ITS COMPONENTS.
+23 25-4-2604. Rules - adult immunization rules - rule-making
+24 authority of state board of health.
+25 (1) THE BOARD OF HEALTH SHALL ADOPT RULES ESTABLISHING A
+26 SCHEDULE OF RECOMMENDED ADULT IMMUNIZATIONS, INCLUDING:
+27 (a) THE VACCINES OR OTHER IMMUNIZING AGENTS RECOMMENDED
+-14- 032
+
+1 FOR ADULTS, AFTER TAKING INTO CONSIDERATION THE
+2 RECOMMENDATIONS OF THE ACIP, THE AMERICAN ACADEMY OF
+3 PEDIATRICS, THE AMERICAN ACADEMY OF FAMILY PHYSICIANS, THE
+4 AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS, OR THE
+5 AMERICAN COLLEGE OF PHYSICIANS; AND
+6 (b) THE MANNER AND FREQUENCY OF ADMINISTRATION.
+7 25-4-2605. Limitations on liability - repeal.
+8 (1) A PERSON THAT ADMINISTERS A VACCINE OR OTHER
+9 IMMUNIZING AGENT TO AN ADULT IS NOT LIABLE FOR INJURIES SUSTAINED
+10 PURSUANT TO THE VACCINE OR OTHER IMMUNIZING AGENT IF:
+11 (a) THE VACCINE OR OTHER IMMUNIZING AGENT WAS
+12 ADMINISTERED IN ACCORDANCE WITH THE SCHEDULE OF RECOMMENDED
+13 ADULT IMMUNIZATIONS ESTABLISHED BY THE STATE BOARD OF HEALTH
+14 PURSUANT TO SECTION 25-4-2604;
+15 (b) THERE WERE NO MEDICAL CONTRAINDICATIONS FOR
+16 ADMINISTERING THE VACCINE OR OTHER IMMUNIZING AGENT; AND
+17 (c) THE VACCINE OR OTHER IMMUNIZING AGENT WAS
+18 ADMINISTERED USING GENERALLY ACCEPTED CLINICAL METHODS.
+19 (2) AN ACTION SHALL NOT BE MAINTAINED FOR A
+20 VACCINE-RELATED OR IMMUNIZING-AGENT-RELATED INJURY OR DEATH
+21 UNTIL ACTION FOR COMPENSATION FOR THE ALLEGED INJURY IS
+22 EXHAUSTED UNDER THE TERMS OF THE FEDERAL "NATIONAL CHILDHOOD
+23 VACCINE INJURY ACT OF 1986", 42 U.S.C. SECS. 300aa-10 TO 300aa-33,
+24 AS SUCH LAW IS FROM TIME TO TIME AMENDED, SO LONG AS THE FEDERAL
+25 "NATIONAL CHILDHOOD VACCINE INJURY ACT OF 1986" APPLIES TO THE
+26 PARTICULAR VACCINE OR IMMUNIZING AGENT ADMINISTERED.
+27 (3) IF THE INJURY THAT IS SUSTAINED OR THE DEATH DOES NOT
+-15- 032
+
+1 FALL WITHIN THE PARAMETERS OF THE VACCINE OR IMMUNIZING AGENT
+2 INJURY TABLE AS DEFINED IN 42 U.S.C. SEC. 300aa-14, AS ENACTED ON
+3 NOVEMBER 14, 1986, A REBUTTABLE PRESUMPTION IS ESTABLISHED THAT
+4 THE INJURY SUSTAINED OR THE DEATH WAS NOT DUE TO THE
+5 ADMINISTRATION OF THE VACCINE OR IMMUNIZING AGENT. THE
+6 PRESUMPTION IS OVERCOME BY A PREPONDERANCE OF THE EVIDENCE.
+7 (4) (a) WHERE A CLAIM BROUGHT ON OR BEFORE JANUARY 30,
+8 2029, AGAINST A HOSPITAL, CLINIC, PHARMACY, WHOLESALER, OR
+9 PROVIDER ARISES FROM INJURIES RESULTING FROM THE HANDLING,
+10 STORAGE, OR DISTRIBUTION OF VACCINES OR IMMUNIZING AGENTS
+11 PURSUANT TO THIS PART 26, THE HOSPITAL, CLINIC, PHARMACY,
+12 WHOLESALER, OR PROVIDER IS NOT LIABLE UNLESS THE INJURIES ARE THE
+13 RESULT OF THE NEGLIGENT FAILURE OF AN EMPLOYEE OF THE HOSPITAL,
+14 CLINIC, PHARMACY, WHOLESALER, OR PROVIDER TO CONFORM TO
+15 RECOGNIZED STANDARDS OF PRACTICE THAT ARE NECESSARY FOR THE
+16 PROTECTION OF PUBLIC HEALTH.
+17 (b) THIS SUBSECTION (4) IS REPEALED, EFFECTIVE JULY 1, 2031.
+18 (5) WHERE A CLAIM BROUGHT ON OR AFTER JANUARY 31, 2029,
+19 AGAINST A HOSPITAL, CLINIC, PHARMACY, OR PROVIDER ARISES FROM
+20 INJURIES RESULTING FROM THE HANDLING, STORAGE, OR DISTRIBUTION OF
+21 VACCINES OR IMMUNIZING AGENTS PURSUANT TO THIS PART 26, THE
+22 HOSPITAL, CLINIC, PHARMACY, OR PROVIDER IS NOT LIABLE UNLESS THE
+23 INJURIES ARE THE RESULT OF THE NEGLIGENT FAILURE OF AN EMPLOYEE
+24 OF THE HOSPITAL, CLINIC, PHARMACY, OR PROVIDER TO CONFORM TO
+25 RECOGNIZED STANDARDS OF PRACTICE THAT ARE NECESSARY FOR THE
+26 PROTECTION OF PUBLIC HEALTH.
+27 SECTION 16. In Colorado Revised Statutes, 25.5-8-107, amend
+-16- 032
+
+1 (5) as follows:
+2 25.5-8-107. Duties of the department - schedule of services -
+3 premiums - copayments - subsidies - purchase of childhood
+4 immunizations.
+5 (5) The department may purchase vaccines recommended by the
+6 advisory committee on immunization practices to the centers for disease
+7 control and prevention in the federal department of health and human
+8 services, or its successor entity, THE AMERICAN ACADEMY OF PEDIATRICS,
+9 THE AMERICAN ACADEMY OF FAMILY PHYSICIANS, THE AMERICAN
+10 COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS, OR THE AMERICAN
+11 COLLEGE OF PHYSICIANS through a vaccine purchasing system, if such a
+12 system is developed pursuant to section 25-4-2403 (1), C.R.S., for
+13 children enrolled in the children's basic health plan.
+14 SECTION 17. Safety clause. The general assembly finds,
+15 determines, and declares that this act is necessary for the immediate
+16 preservation of the public peace, health, or safety or for appropriations for
+17 the support and maintenance of the departments of the state and state
+18 institutions.
+-17- 032

@@ -1,0 +1,806 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0721.01 Josh Schultz x5486 SENATE BILL 26-138
+Senate Committees House Committees
+Health & Human Services Health & Human Services
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO REDUCE THE ADMINISTRATIVE BURDEN ON
+102 THE HEALTH-CARE SYSTEM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill requires the commissioner of insurance
+(commissioner) to conduct a performance audit of all division of
+insurance (division) rules related to health care on or before January 1,
+2029, and at least once every 5 years thereafter. Commencing January
+2029, and every 5 years thereafter, the division shall report on the
+findings of the audit during its "SMART Act" hearing.
+ESUOH
+ESUOH
+ETANES
+ETANES
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,7
+yaM
+6202
+,6
+yaM
+6202
+,1
+yaM
+6202
+,03
+lirpA
+SENATE SPONSORSHIP
+Daugherty and Mullica, Ball, Bridges, Bright, Carson, Coleman, Cutter, Danielson, Exum,
+Jodeh, Kipp, Kolker, Marchman, Roberts
+HOUSE SPONSORSHIP
+Stewart K., Bacon, Boesenecker, Duran, Lindsay, McCluskie, McCormick
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Section 3 repeals provisions that require health insurance carriers
+(carriers) to comply with federal price transparency laws and to make
+available an internet-based self-service tool that provides real-time
+responses to a covered person's questions concerning carrier prices that
+are based on cost-sharing information.
+Section 3 also repeals a requirement that carriers submit
+information required by federal pharmacy benefit and drug cost reporting
+laws to the commissioner and make certain information regarding price
+transparency publicly available.
+Section 4 repeals a requirement that health-care profession
+regulators adopt rules that require each licensed health-care provider, as
+a condition of renewing, reactivating, or reinstating a license, to complete
+up to 4 credit hours of training per licensing cycle in order to demonstrate
+competency regarding topics related to prescribing drugs and treatment.
+Section 5 changes the frequency that specific health-care facilities
+are required to apply for a license issued by the department of public
+health and environment from annually to every 2 years.
+Section 6 requires the department of health care policy and
+financing (state department) to conduct a performance audit of all state
+department rules related to health care on or before January 1, 2029, and
+at least once every 5 years thereafter. Commencing January 2029, and
+every 5 years thereafter, the state department shall report on the findings
+of the audit during its "SMART Act" hearing.
+Under current law, a health-care facility is required to screen each
+uninsured patient for eligibility for public health insurance programs and
+discounted care (screening) utilizing a single uniform application
+developed by the state department. Sections 7 through 12 change these
+requirements in the following ways:
+! Changing the method used to conduct the screening from
+a uniform application to use of a third-party resource, such
+as a major credit bureau, or use of a uniform screening
+questionnaire (questionnaire) developed by the state
+department;
+! Allowing a health-care facility the option of screening a
+patient for eligibility for the health-care facility's financial
+assistance program;
+! Requiring a health-care facility to provide specified
+notifications upon completion of the screening;
+! Creating an application for discounted care (application)
+for use by a health-care facility upon completion of the
+screening through which additional information is
+requested from a patient to enable the health-care facility
+to determine whether the patient has qualified or is likely
+to qualify for public health-care coverage or discounted
+care;
+-2- 138
+
+! Requiring a health-care facility to provide specified notice
+and appeal rights to a patient upon completion and review
+of the application; and
+! Requiring the state department to adopt rules regarding the
+questionnaire and application.
+Section 12 also narrows state department review requirements of
+health-care facilities' and licensed health-care professionals' billing for
+patients who are indigent. The bill prohibits the state department from
+making changes to regulatory documents or imposing new requirements
+unless the changes or new requirements are adopted by rule by specified
+dates and are subject to stakeholder engagement.
+Section 13 requires the state department to establish the content
+and format of the information each hospital must provide to the state
+department for a hospital transparency report by rule at least 30 days prior
+to the hospital's fiscal year. Current law requires that each hospital has a
+minimum of 15 days to review the hospital transparency report; the bill
+requires that a statewide hospital association must also have a minimum
+of 15 days to review the report.
+Sections 14 through 17 make conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Every Colorado family deserves a fair, dignified, and
+5 understandable path to financial assistance when seeking health care.
+6 Patients benefit from hospitals' discounted care programs and these
+7 programs increase access to affordable care. Reducing duplication and
+8 confusion in navigating the process for both patients and health-care
+9 providers is essential to ensure the process does not create barriers for the
+10 very people the law was intended to help.
+11
+12 (b) It is the intent of the general assembly to reduce unnecessary
+13 paperwork, eliminate avoidable burdens, and create a process that
+14 respects people's time, circumstances, and dignity. Streamlining and
+-3- 138
+
+1 clarifying these pathways will allow health-care providers to focus more
+2 resources on helping families instead of on navigating shifting rules or
+3 administrative obstacles.
+4 (c) The general assembly affirms that all patient rights, including
+5 the right to appeal and to provide information demonstrating eligibility
+6 for public health-care coverage or discounted care, must remain fully
+7 protected; and
+8 (d) This act strengthens the promise that discounted care in our
+9 state will be accessible and rooted in compassion.
+10 SECTION 2. In Colorado Revised Statutes, amend 12-30-114 as
+11 follows:
+12 12-30-114. Demonstrated competency - repeal of rules -
+13 repeal.
+14 (1) (a) The regulator for each licensed health-care provider, in
+15 consultation with the center for research into substance use disorder
+16 prevention, treatment, and recovery support strategies created in section
+17 27-80-118, shall promulgate rules that require each licensed health-care
+18 provider, as a condition of renewing, reactivating, or reinstating a license
+19 on or after October 1, 2022, to complete up to four credit hours of
+20 training per licensing cycle in order to demonstrate competency
+21 regarding:
+22 (I) Best practices for opioid prescribing, according to the most
+23 recent version of the division's guidelines for the safe prescribing and
+24 dispensing of opioids;
+25 (II) The potential harm of inappropriately limiting prescriptions
+26 to chronic pain patients;
+27 (III) Best practices for prescribing benzodiazepines;
+-4- 138
+
+1 (IV) Recognition of substance use disorders;
+2 (V) Referral of patients with substance use disorders for
+3 treatment; and
+4 (VI) The use of the electronic prescription drug monitoring
+5 program created in part 4 of article 280 of this title 12.
+6 (b) The rules promulgated by each regulator shall exempt a
+7 licensed health-care provider who:
+8 (I) Maintains a national board certification that requires equivalent
+9 substance use prevention training; or
+10 (II) Attests to the regulator that the health-care provider does not
+11 prescribe opioids.
+12 (2) For the purposes of this section, "licensed health-care
+13 provider" includes any of the following providers who are licensed
+14 pursuant to this title 12:
+15 (a) A physician;
+16 (b) A physician assistant;
+17 (c) A podiatrist;
+18 (d) A dentist;
+19 (e) An advanced practice registered nurse or certified midwife
+20 with prescriptive authority;
+21 (f) An optometrist; and
+22 (g) A veterinarian.
+23 (3) EACH REGULATOR THAT ADOPTED RULES PURSUANT TO THIS
+24 SECTION BEFORE THE EFFECTIVE DATE OF THIS SUBSECTION (3), WHICH
+25 RULES REQUIRE A LICENSED HEALTH-CARE PROVIDER, AS A CONDITION OF
+26 RENEWING, REACTIVATING, OR REINSTATING A LICENSE, TO COMPLETE UP
+27 TO FOUR CREDIT HOURS OF TRAINING PER LICENSING CYCLE IN ORDER TO
+-5- 138
+
+1 DEMONSTRATE OPIATE PRESCRIBER COMPETENCY SHALL REPEAL THE
+2 RULES ON OR BEFORE JULY 1, 2027.
+3 (4) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2029.
+4 SECTION 3. In Colorado Revised Statutes, 12-220-308, add (3)
+5 as follows:
+6 12-220-308. Continuing education requirements - rules.
+7 (3) (a) THE BOARD MAY ADOPT RULES REQUIRING EVERY DENTIST,
+8 DENTAL THERAPIST, AND DENTAL HYGIENIST, AS CONDITION OF RENEWING,
+9 REACTIVATING, OR REINSTATING A LICENSE ISSUED UNDER THIS ARTICLE
+10 220, TO COMPLETE UP TO FOUR CREDIT HOURS OF TRAINING PER LICENSING
+11 CYCLE REGARDING:
+12 (I) BEST PRACTICES FOR OPIOID PRESCRIBING;
+13 (II) BEST PRACTICES FOR BENZODIAZEPINE PRESCRIBING;
+14 (III) RECOGNITION OF SUBSTANCE USE DISORDERS;
+15 (IV) REFERRAL OF PATIENTS WITH SUSPECTED SUBSTANCE USE
+16 DISORDERS FOR TREATMENT; AND
+17 (V) THE USE OF THE ELECTRONIC PRESCRIPTION DRUG MONITORING
+18 PROGRAM CREATED IN PART 4 OF ARTICLE 280 OF THIS TITLE 12.
+19 (b) REGARDLESS OF WHETHER THE BOARD ADOPTS RULES TO
+20 REQUIRE TRAINING PURSUANT TO SUBSECTION (3)(a) OF THIS SECTION, IF
+21 A LICENSED DENTIST, DENTAL THERAPIST, OR DENTAL HYGIENIST
+22 COMPLETES TRAINING REGARDING OPIOID PRESCRIBER COMPETENCY, THE
+23 BOARD SHALL COUNT UP TO FOUR HOURS OF SUCH TRAINING TOWARD THE
+24 LICENSEE'S CONTINUING EDUCATION REQUIRED BY SUBSECTION (1) OF THIS
+25 SECTION.
+26 SECTION 4. In Colorado Revised Statutes, 12-315-110, add
+27 (3)(d), (3)(e), and (3)(f) as follows:
+-6- 138
+
+1 12-315-110. License renewal - waiver - rules - continuing
+2 education.
+3 (3) (d) A LICENSED VETERINARIAN SHALL COMPLETE AT LEAST ONE
+4 HOUR OF TRAINING REGARDING SUBSTANCE USE PREVENTION PER
+5 RENEWAL PERIOD TO DEMONSTRATE COMPETENCY REGARDING:
+6 (I) BEST PRACTICES FOR VETERINARY OPIOID PRESCRIBING;
+7 (II) BEST PRACTICES FOR VETERINARY BENZODIAZEPINE
+8 PRESCRIBING;
+9 (III) RECOGNITION OF HUMAN SUBSTANCE USE DISORDERS;
+10 (IV) REFERRAL OF HUMANS WITH SUSPECTED SUBSTANCE USE
+11 DISORDERS FOR TREATMENT; AND
+12 (V) THE USE OF THE ELECTRONIC PRESCRIPTION DRUG MONITORING
+13 PROGRAM CREATED IN PART 4 OF ARTICLE 280 OF THIS TITLE 12.
+14 (e) SUBSECTION (3)(d) OF THIS SECTION DOES NOT APPLY TO A
+15 LICENSED VETERINARIAN WHO:
+16 (I) MAINTAINS A NATIONAL BOARD CERTIFICATION THAT REQUIRES
+17 EQUIVALENT SUBSTANCE USE PREVENTION TRAINING; OR
+18 (II) ATTESTS TO THE BOARD THAT THE LICENSED VETERINARIAN
+19 DOES NOT PRESCRIBE OPIOIDS.
+20 (f) THE BOARD SHALL ADOPT RULES TO IMPLEMENT SUBSECTIONS
+21 (3)(d) AND (3)(e) OF THIS SECTION.
+22 SECTION 5. In Colorado Revised Statutes, 25-3-102, amend
+23 (1)(a); and repeal (1)(d) as follows:
+24 25-3-102. License - application - issuance - waiver - certificate
+25 of compliance required - rules.
+26 (1) (a) (I) An applicant for a license described in section 25-3-101
+27 shall apply to the department of public health and environment annually
+-7- 138
+
+1 EVERY TWO YEARS upon such form and in such manner as prescribed by
+2 the department; except that a community residential home shall make
+3 application for a license pursuant to section 25.5-10-214. C.R.S.
+4 (II) ON OR BEFORE JULY 1, 2030, NOTWITHSTANDING SUBSECTION
+5 (1)(a)(I) OF THIS SECTION, THE DEPARTMENT MAY ISSUE A LICENSE
+6 DESCRIBED IN SECTION 25-3-101 TO AN APPLICANT AND REQUIRE THE
+7 APPLICANT TO APPLY TO THE DEPARTMENT AFTER A ONE-YEAR PERIOD AS
+8 THE DEPARTMENT DEEMS APPROPRIATE.
+9 (d) The license expires one year after the date of issuance.
+10 SECTION 6. In Colorado Revised Statutes, 25.5-3-501, amend
+11 (6); and add (6.7) as follows:
+12 25.5-3-501. Definitions.
+13 As used in this part 5, unless the context otherwise requires:
+14 (6) "Screen" or "screening" means a process identified in rule by
+15 the state department DESCRIBED IN SECTION 25.5-3-502 whereby
+16 health-care facilities assess a patient's circumstances related to eligibility
+17 criteria and determine whether the patient HAS QUALIFIED OR is likely to
+18 qualify for public health-care coverage or discounted care AND, AT THE
+19 OPTION OF THE HEALTH-CARE FACILITY, IS ELIGIBLE OR IS LIKELY ELIGIBLE
+20 FOR THE HEALTH-CARE FACILITY'S FINANCIAL ASSISTANCE PROGRAM;
+21 inform the patient of the health-care facility's determination; and provide
+22 information to the patient about how the patient can enroll in public
+23 health-care coverage OR THE HEALTH-CARE FACILITY'S FINANCIAL
+24 ASSISTANCE PROGRAM.
+25 (6.7) "UNIFORM APPLICATION" OR "APPLICATION" MEANS A
+26 UNIFORM FORM THAT IS DEVELOPED BY THE STATE DEPARTMENT TO
+27 DETERMINE WHETHER A PATIENT IS A QUALIFIED PATIENT AND IS
+-8- 138
+
+1 COMPLETED FOLLOWING A SCREENING OR WHEN REQUIRED BY SECTION
+2 25.5-3-502.5.
+3 SECTION 7. In Colorado Revised Statutes, amend 25.5-3-502
+4 as follows:
+5 25.5-3-502. Requirement to screen patients for eligibility for
+6 financial assistance - questionnaire - definition - rules.
+7 (1) Beginning September 1, 2022, a health-care facility shall
+8 screen, unless a patient declines, each uninsured patient for eligibility for:
+9 (a) Public health insurance programs, including but not limited to
+10 medicare; the state medical assistance program DESCRIBED IN articles 4,
+11 5, and 6 of this title 25.5; emergency medicaid; and the children's basic
+12 health plan DESCRIBED IN article 8 of this title 25.5; and
+13 (b) Repealed.
+14 (c) (b) Discounted care, as described in section 25.5-3-503; AND
+15 (c) AT THE OPTION OF THE HEALTH-CARE FACILITY, THE
+16 HEALTH-CARE FACILITY'S FINANCIAL ASSISTANCE PROGRAM, WHICH OFTEN
+17 OFFERS BROADER ELIGIBILITY THAN PUBLIC HEALTH INSURANCE
+18 PROGRAMS.
+19 (2) Health-care facilities shall use a single uniform application
+20 developed by the state department when screening a patient pursuant to
+21 subsection (1) of this section. A HEALTH-CARE FACILITY MAY CONDUCT
+22 SCREENINGS PURSUANT TO SUBSECTION (1) OF THIS SECTION THROUGH:
+23 (a) ACCESSING ELIGIBILITY INFORMATION THROUGH AN
+24 INDUSTRY-STANDARD THIRD-PARTY RESOURCE, SUCH AS A MAJOR CREDIT
+25 BUREAU;
+26 (b) REQUESTING THE PATIENT COMPLETE A UNIFORM SCREENING
+27 QUESTIONNAIRE DEVELOPED BY THE STATE DEPARTMENT; OR
+-9- 138
+
+1 (c) A COMBINATION OF INFORMATION OBTAINED THROUGH
+2 SUBSECTIONS (2)(a) AND (2)(b) OF THIS SECTION.
+3 (3) If a health-care facility determines that a patient is ineligible
+4 for discounted care, the facility shall provide the patient notice of the
+5 determination and an opportunity for the patient to appeal the
+6 determination in accordance with state department rules IF A
+7 HEALTH-CARE FACILITY DETERMINES IT HAS OBTAINED SUFFICIENT
+8 INFORMATION THROUGH THE SCREENING CONDUCTED PURSUANT TO
+9 SUBSECTION (1) OF THIS SECTION, THE HEALTH-CARE FACILITY MAY MAKE
+10 A DETERMINATION OF WHETHER THE PATIENT IS A QUALIFIED PATIENT OR
+11 IS LIKELY ELIGIBLE FOR PUBLIC HEALTH-CARE COVERAGE WITHOUT
+12 REQUIRING THE PATIENT TO PROVIDE FURTHER INFORMATION THROUGH A
+13 UNIFORM APPLICATION PURSUANT TO SECTION 25.5-3-502.5.
+14 (3.5) UPON COMPLETION OF THE SCREENING CONDUCTED
+15 PURSUANT TO SUBSECTION (1) OF THIS SECTION, A HEALTH-CARE FACILITY
+16 SHALL:
+17 (a) IF THE HEALTH-CARE FACILITY DETERMINES THAT A PATIENT
+18 IS A QUALIFIED PATIENT, PROVIDE THE PATIENT NOTICE OF THE
+19 DETERMINATION, THE PATIENT'S IDENTIFIED FEDERAL POVERTY GUIDELINE
+20 PERCENTAGE, AND THE PATIENT'S MONTHLY INSTALLMENT MAXIMUM
+21 PAYMENT AS DESCRIBED IN SECTION 25.5-3-503;
+22 (b) IF THE HEALTH-CARE FACILITY DETERMINES THAT A PATIENT
+23 IS LIKELY NOT A QUALIFIED PATIENT, INFORM THE PATIENT OF THE
+24 RESULTS OF THE SCREENING, INCLUDING THE PATIENT'S IDENTIFIED
+25 FEDERAL POVERTY GUIDELINE PERCENTAGE, AND PROVIDE THE PATIENT
+26 WITH:
+27 (I) INFORMATION ON HOW TO COMPLETE AN APPLICATION
+-10- 138
+
+1 PURSUANT TO SECTION 25.5-3-502.5; AND
+2 (II) IF APPLICABLE, AT THE OPTION OF THE HEALTH-CARE FACILITY,
+3 INFORMATION REGARDING THE PATIENT'S ELIGIBILITY FOR THE
+4 HEALTH-CARE FACILITY'S FINANCIAL ASSISTANCE PROGRAM AND THE
+5 AMOUNT OF ANY DISCOUNT OFFERED THROUGH THE PROGRAM;
+6 (c) IF THE HEALTH-CARE FACILITY IS CERTIFIED BY THE STATE
+7 DEPARTMENT AS A PRESUMPTIVE ELIGIBILITY SITE AND DETERMINES THAT
+8 THE PATIENT IS PRESUMPTIVELY ELIGIBLE FOR MEDICAL ASSISTANCE,
+9 INFORM THE PATIENT OF THE DETERMINATION AND PROVIDE THE PATIENT
+10 WITH INFORMATION ON HOW THE PATIENT CAN ENROLL IN PUBLIC
+11 HEALTH-CARE COVERAGE;
+12 (d) IF THE HEALTH-CARE FACILITY DETERMINES THAT A PATIENT
+13 IS LIKELY ELIGIBLE FOR PUBLIC HEALTH-CARE COVERAGE INFORM THE
+14 PATIENT OF THE DETERMINATION AND:
+15 (I) PROVIDE THE PATIENT WITH INFORMATION EXPLAINING HOW TO
+16 APPLY FOR PUBLIC HEALTH-CARE COVERAGE, INCLUDING AT LEAST ONE
+17 AVAILABLE METHOD FOR SUBMITTING AN APPLICATION;
+18 (II) OFFER REASONABLE ASSISTANCE OR REFERRAL FOR SUPPORT
+19 TO COMPLETE AN APPLICATION FOR PUBLIC-HEALTH CARE COVERAGE; AND
+20 (III) TREAT COMPLETION OF AN APPLICATION FOR PUBLIC
+21 HEALTH-CARE COVERAGE AS THE PRIMARY PATHWAY FOR RESOLVING THE
+22 PATIENT'S FINANCIAL RESPONSIBILITY FOR HOSPITAL SERVICES UNTIL THE
+23 PATIENT IS DENIED PUBLIC HEALTH-CARE COVERAGE OR 45 DAYS AFTER
+24 THE DATE OF DISCHARGE, WHICHEVER OCCURS FIRST; AND
+25 (e) IF THE HEALTH-CARE FACILITY NEEDS MORE INFORMATION TO
+26 MAKE A DETERMINATION OF WHETHER THE PATIENT HAS QUALIFIED OR IS
+27 LIKELY TO QUALIFY FOR DISCOUNTED CARE OR A FINANCIAL ASSISTANCE
+-11- 138
+
+1 PROGRAM, INFORM THE PATIENT OF THE PATIENT'S IDENTIFIED FEDERAL
+2 POVERTY GUIDELINE PERCENTAGE AND NOTIFY THE PATIENT THAT THE
+3 PATIENT MUST PROVIDE ADDITIONAL INFORMATION TO COMPLETE AN
+4 APPLICATION PURSUANT TO SECTION 25.5-3-502.5.
+5 (3.7) (a) (I) IF A PATIENT HAS NOT BEEN DETERMINED ELIGIBLE FOR
+6 PUBLIC HEALTH-CARE COVERAGE PURSUANT TO SUBSECTION (3.5)(d) OF
+7 THIS SECTION WITHIN 45 DAYS AFTER THE DATE OF DISCHARGE, A
+8 HEALTH-CARE FACILITY SHALL PROCEED WITH A DETERMINATION OF
+9 WHETHER THE PATIENT IS A QUALIFIED PATIENT.
+10 (II) UPON NOTIFICATION OF A DETERMINATION THAT A PATIENT IS
+11 INELIGIBLE FOR PUBLIC HEALTH-CARE COVERAGE PURSUANT TO
+12 SUBSECTION (3.5)(d) OF THIS SECTION, A HEALTH-CARE FACILITY SHALL
+13 PROCEED WITH A DETERMINATION OF WHETHER THE PATIENT IS A
+14 QUALIFIED PATIENT.
+15 (b) SUBSECTION (3.5)(d) OF THIS SECTION DOES NOT PROHIBIT A
+16 PATIENT OR HEALTH-CARE FACILITY FROM COMPLETING AN APPLICATION
+17 PURSUANT TO SECTION 25.5-3-502.5 WHILE A DETERMINATION OF THE
+18 PATIENT'S ELIGIBILITY FOR PUBLIC HEALTH-CARE COVERAGE IS PENDING.
+19 (c) WHILE A DETERMINATION OF A PATIENT'S ELIGIBILITY FOR
+20 PUBLIC HEALTH-CARE COVERAGE IS PENDING, A HEALTH-CARE FACILITY
+21 MAY DEFER COMPLETION OF A FINAL DETERMINATION FOR DISCOUNTED
+22 CARE IF THE PATIENT IS AFFORDED THE PROTECTIONS FROM BILLING AND
+23 COLLECTION ACTIVITY REQUIRED BY SECTION 25.5-3-506.
+24 (d) IF A PATIENT IS DETERMINED ELIGIBLE FOR PUBLIC
+25 HEALTH-CARE COVERAGE PURSUANT TO SUBSECTION (3.5)(d) OF THIS
+26 SECTION, REIMBURSEMENT THROUGH PUBLIC HEALTH-CARE COVERAGE IS
+27 THE PRIMARY REIMBURSEMENT BEFORE ANY DISCOUNTS ARE PROVIDED
+-12- 138
+
+1 PURSUANT TO THIS SECTION.
+2 (e) WHERE A HEALTH-CARE FACILITY DETERMINES, BASED ON
+3 AVAILABLE INFORMATION, THAT A PATIENT IS FACIALLY INELIGIBLE FOR
+4 PUBLIC HEALTH-CARE COVERAGE, THE HEALTH-CARE FACILITY MAY
+5 PROCEED DIRECTLY WITH A DETERMINATION OF WHETHER THE PATIENT IS
+6 A QUALIFIED PATIENT.
+7 (f) A HEALTH-CARE FACILITY SHALL NOT DENY ELIGIBILITY FOR
+8 DISCOUNTED CARE SOLELY BECAUSE A PATIENT DID NOT APPLY FOR PUBLIC
+9 HEALTH-CARE COVERAGE.
+10 (4) If the patient declines the screening described in subsection (1)
+11 of this section, the health-care facility shall document the patient's
+12 decision in accordance with state department rules. A patient's decision
+13 to decline the screening that is documented and complies with state
+14 department rules is a complete defense to a claim brought by a patient
+15 under section 25.5-3-506 (2) for a violation of section 25.5-3-506 (1)(a)
+16 or (1)(b).
+17 (5) If requested by the AN INSURED patient, a health-care facility
+18 shall screen an insured patient for discounted care pursuant to subsections
+19 (1)(b) and (1)(c) of this section PERFORM THE SCREENING DESCRIBED IN
+20 THIS SECTION AND, IF APPLICABLE, COMPLETE THE APPLICATION PURSUANT
+21 TO SECTION 25.5-3-502.5 TO DETERMINE IF THE INSURED PATIENT IS A
+22 QUALIFIED PATIENT.
+23 (6) AS USED IN THIS SECTION, "INFORM" MEANS TO CONVEY
+24 REQUIRED INFORMATION, UNLESS OTHERWISE SPECIFIED IN THIS SECTION,
+25 INCLUDING THROUGH VERBAL, ELECTRONIC, OR OTHER FORMATS. THE
+26 HEALTH-CARE FACILITY SHALL DOCUMENT THE MANNER IN WHICH THE
+27 INFORMATION WAS PROVIDED.
+-13- 138
+
+1 (7) A HEALTH-CARE FACILITY MAY USE THE SAME
+2 COMMUNICATION TO COMPLY WITH BOTH STATE AND FEDERAL
+3 REQUIREMENTS.
+4 SECTION 8. In Colorado Revised Statutes, add 25.5-3-502.5 as
+5 follows:
+6 25.5-3-502.5. Uniform application for discounted care.
+7 (1) AFTER COMPLETION OF THE SCREENING CONDUCTED PURSUANT
+8 TO SECTION 25.5-3-502, A HEALTH-CARE FACILITY SHALL REQUEST
+9 INFORMATION FROM A PATIENT TO COMPLETE A UNIFORM APPLICATION
+10 FOR DISCOUNTED CARE IF:
+11 (a) THE HEALTH-CARE FACILITY NEEDS MORE INFORMATION TO
+12 MAKE A DETERMINATION OF WHETHER THE PATIENT HAS QUALIFIED OR IS
+13 LIKELY TO QUALIFY FOR DISCOUNTED CARE OR THE HEALTH-CARE
+14 FACILITY'S FINANCIAL ASSISTANCE PROGRAM, INCLUDING IF THE
+15 HEALTH-CARE FACILITY'S POLICY IS TO REQUIRE AN APPLICATION PRIOR TO
+16 MAKING A FINAL DETERMINATION; OR
+17 (b) THE PATIENT REQUESTS AN APPLICATION, UNLESS THE PATIENT
+18 HAS NO BALANCE REMAINING AFTER APPLYING ANY DISCOUNTS PURSUANT
+19 TO SECTION 25.5-3-503 OR THE HEALTH-CARE FACILITY'S FINANCIAL
+20 ASSISTANCE PROGRAM.
+21 (2) A HEALTH-CARE FACILITY SHALL USE THE UNIFORM
+22 APPLICATION DEVELOPED BY THE STATE DEPARTMENT TO COMPLETE THE
+23 APPLICATION REQUIRED BY THIS SECTION.
+24 (3) UPON COMPLETION AND REVIEW OF THE APPLICATION, A
+25 HEALTH-CARE FACILITY SHALL:
+26 (a) IF THE HEALTH-CARE FACILITY DETERMINES THAT A PATIENT
+27 IS A QUALIFIED PATIENT, PROVIDE THE PATIENT NOTICE OF THE
+-14- 138
+
+1 DETERMINATION, THE PATIENT'S IDENTIFIED FEDERAL POVERTY GUIDELINE
+2 PERCENTAGE, AND THE PATIENT'S MONTHLY INSTALLMENT MAXIMUM
+3 PAYMENT AS DESCRIBED IN SECTION 25.5-3-503;
+4 (b) IF THE HEALTH-CARE FACILITY DETERMINES THAT A PATIENT
+5 IS NOT A QUALIFIED PATIENT, PROVIDE THE PATIENT NOTICE OF THE
+6 DETERMINATION, WHICH, IF APPLICABLE, MAY ALSO INCLUDE NOTICE THAT
+7 THE PATIENT IS ELIGIBLE FOR THE HEALTH-CARE FACILITY'S FINANCIAL
+8 ASSISTANCE PROGRAM AND THE AMOUNT OF ANY DISCOUNT OFFERED
+9 THROUGH THAT PROGRAM, AND SHALL PROVIDE EITHER:
+10 (I) AN OPPORTUNITY FOR THE PATIENT TO APPEAL THE
+11 DETERMINATION IN ACCORDANCE WITH STATE DEPARTMENT RULES; OR
+12 (II) A STATEMENT THAT THE PATIENT HAS NO BALANCE DUE AFTER
+13 APPLYING ANY DISCOUNTS FROM THE HEALTH-CARE FACILITY'S FINANCIAL
+14 ASSISTANCE PROGRAM; AND
+15 (c) IF THE HEALTH-CARE FACILITY IS CERTIFIED BY THE STATE
+16 DEPARTMENT AS A PRESUMPTIVE ELIGIBILITY SITE AND DETERMINES THAT
+17 THE PATIENT IS PRESUMPTIVELY ELIGIBLE FOR MEDICAL ASSISTANCE,
+18 PROVIDE THE PATIENT NOTICE OF THE DETERMINATION AND INFORMATION
+19 ON HOW THE PATIENT CAN ENROLL IN PUBLIC HEALTH-CARE COVERAGE.
+20 SECTION 9. In Colorado Revised Statutes, 25.5-3-503, amend
+21 (1) introductory portion and (2)(a) as follows:
+22 25.5-3-503. Health-care discounts on services not eligible for
+23 Colorado indigent care program reimbursement - definition.
+24 (1) Beginning September 1, 2022, if a patient is screened pursuant
+25 to section 25.5-3-502 OR HAS COMPLETED A UNIFORM APPLICATION
+26 PURSUANT TO SECTION 25.5-3-502.5 and is determined to be a qualified
+27 patient, a health-care facility and a licensed health-care professional shall,
+-15- 138
+
+1 for emergency hospital and other health-care services:
+2 (2) A health-care facility shall not:
+3 (a) Deny discounted care on the basis that the patient has not
+4 applied for any public benefits program, unless during the initial
+5 screening the patient is determined to be presumptively eligible for the
+6 state medical assistance program; or
+7 SECTION 10. In Colorado Revised Statutes, 25.5-3-504, amend
+8 (1) introductory portion; and add (2) as follows:
+9 25.5-3-504. Notification of patients' rights - website link.
+10 (1) Beginning September 1, 2022, A health-care facility shall
+11 make information developed by the state department about patients' rights
+12 under this part 5 and the uniform application A LINK ON THE STATE
+13 DEPARTMENT WEBSITE TO ACCESS THE UNIFORM APPLICATION developed
+14 by the state department pursuant to section 25.5-3-505 (2)(i) available to
+15 the public and to each patient. At a minimum, the health-care facility
+16 shall:
+17 (2) THE STATE DEPARTMENT SHALL POST THE UNIFORM
+18 APPLICATION DEVELOPED PURSUANT TO SECTION 25.5-3-505 (2)(i) IN ALL
+19 REQUIRED LANGUAGES ON A PUBLICLY ACCESSIBLE WEBSITE.
+20 SECTION 11. In Colorado Revised Statutes, 25.5-3-505, amend
+21 (2) introductory portion, (2)(c)(II), (2)(d), (2)(e), (2)(f), (2)(g), (2)(i), (5)
+22 introductory portion, (5)(b)(I), and (5)(b)(II); and add (2)(d.5) and (7) as
+23 follows:
+24 25.5-3-505. Health-care facility reporting requirements -
+25 agency enforcement - report - rules.
+26 (2) No later than April 1, 2022 JULY 1, 2027, the state board shall
+27 promulgate ADOPT rules necessary for the administration and
+-16- 138
+
+1 implementation of this part 5. At a minimum, the rules must:
+2 (c) Establish the process for and the maximum number of days
+3 that a health-care facility has to:
+4 (II) Request information from the A patient needed for the
+5 screening process IF THE HEALTH-CARE FACILITY CONDUCTS A SCREENING
+6 USING THE UNIFORM SCREENING QUESTIONNAIRE AS DESCRIBED IN
+7 SECTION 25.5-3-502 (2); and
+8 (d) Outline the requirements for notifying the patient of the results
+9 of the screening, including:
+10 (I) An explanation of the basis for a denial of discounted care; and
+11 (II) The process for appealing a denial COMPLETING AN
+12 APPLICATION TO PROVIDE MORE INFORMATION TO DETERMINE WHETHER
+13 THE PATIENT IS A QUALIFIED PATIENT;
+14 (d.5) ESTABLISH A PROCESS FOR AND THE MAXIMUM NUMBER OF
+15 DAYS THAT A HEALTH-CARE FACILITY HAS TO:
+16 (I) REQUEST INFORMATION FROM THE PATIENT TO COMPLETE AN
+17 APPLICATION, IF THE APPLICATION IS REQUIRED PURSUANT TO SECTION
+18 25.5-3-502.5; AND
+19 (II) COMPLETE THE APPLICATION PROCESS AS DESCRIBED IN
+20 SECTION 25.5-3-502.5;
+21 (e) Establish guidelines for patient appeals regarding eligibility for
+22 discounted care pursuant to section 25.5-3-503 25.5-3-502.5;
+23 (f) Establish a methodology that all ACCEPTABLE METHODOLOGIES
+24 FOR health-care facilities must use to determine monthly household
+25 income. FOR PURPOSES OF THE SCREENING CONDUCTED PURSUANT TO
+26 SECTION 25.5-3-502, THE USE OF AN INDUSTRY-STANDARD THIRD-PARTY
+27 RESOURCE, INCLUDING MAJOR CREDIT BUREAUS, IS AN ACCEPTABLE
+-17- 138
+
+1 METHODOLOGY. A HEALTH-CARE FACILITY SHALL DISCLOSE TO THE
+2 DEPARTMENT WHICH INDUSTRY-STANDARD THIRD-PARTY RESOURCES
+3 THEY USE TO DETERMINE MONTHLY HOUSEHOLD INCOME. The
+4 methodology METHODOLOGIES must not consider a patient's assets.
+5 (g) FOR PURPOSES OF THE APPLICATION, identify the documents
+6 that may be required to establish income eligibility for discounted care
+7 using the minimum amount of information needed to determine
+8 eligibility;
+9 (i) Create a uniform application that a health-care facility must use
+10 when AN APPLICATION IS REQUIRED AFTER screening a patient for
+11 eligibility for discounted care, as described in section 25.5-3-502
+12 SECTIONS 25.5-3-502 AND 25.5-3-502.5; AND
+13 (5) No later than April 1, 2022, The state department: shall:
+14 (b) (I) SHALL establish a process for patients to submit a
+15 complaint relating to noncompliance with this part 5 to the state
+16 department by phone, BY mail, or online. The state department shall
+17 conduct a review OF A PATIENT'S COMPLAINT within thirty days after
+18 receiving a THE complaint.
+19 (II) (A) The state department Shall periodically review health-care
+20 facilities and licensed health-care professionals to ensure compliance with
+21 this section QUALIFIED PATIENTS ARE IDENTIFIED IN COMPLIANCE WITH
+22 THIS PART 5, ARE NOT CHARGED MORE THAN THE DISCOUNTED RATE
+23 ESTABLISHED IN STATE BOARD RULES PURSUANT TO SUBSECTION (2)(j) OF
+24 THIS SECTION, ARE OFFERED INSTALLMENT PAYMENTS AS REQUIRED BY
+25 SECTION 25.5-3-503, AND DO NOT HAVE THEIR DEBT ASSIGNED OR SOLD
+26 BEFORE ALL REQUIREMENTS OF SECTION 25.5-3-506 ARE MET. THE REVIEW
+27 SHALL BE CONDUCTED IN ACCORDANCE WITH STATE DEPARTMENT RULES,
+-18- 138
+
+1 AND THE FREQUENCY, SAMPLE SIZE, AND TIMELINE OF THE REVIEW MUST
+2 BE REASONABLE CONSIDERING THE SIZE AND RESOURCES OF THE
+3 HEALTH-CARE FACILITY.
+4 (B) If the state department finds that a health-care facility or
+5 licensed health-care professional is not in compliance with this section,
+6 AND THE NONCOMPLIANCE HAS RESULTED IN A DELAY OR DENIAL OF A
+7 DISCOUNT OWED TO A PATIENT AS A RESULT OF THE SCREENING OR
+8 APPLICATION REQUIRED PURSUANT TO SECTION 25.5-3-502 OR
+9 25.5-3-502.5, AS A RESULT OF THE HEALTH-CARE FACILITY OR THE
+10 LICENSED HEALTH-CARE PROFESSIONAL CHARGING THE PATIENT MORE
+11 THAN THE DISCOUNTED RATE ESTABLISHED IN STATE DEPARTMENT RULE
+12 PURSUANT TO SECTION 25.5-3-505 (2)(j), DUE TO A FAILURE TO OFFER
+13 INSTALLMENT PAYMENTS PURSUANT TO SECTION 25.5-3-503 OR DUE TO
+14 THE ASSIGNING OR SELLING OF PATIENT DEBT TO A COLLECTION AGENCY
+15 IN VIOLATION OF SECTION 25.5-3-506, the state department shall notify the
+16 health-care facility or licensed health-care professional and the facility or
+17 professional has ninety days AFTER NOTIFICATION to file a corrective
+18 action plan with the state department. that IF THE NONCOMPLIANCE
+19 RESULTED IN EXCESS CHARGES TO THE PATIENT, THE CORRECTIVE ACTION
+20 PLAN must include measures to inform the patient about the
+21 noncompliance and provide a financial correction consistent with this part
+22 5. A health-care facility or licensed health-care professional may request
+23 up to one hundred twenty days to submit a corrective action plan. The
+24 state department may require a health-care facility or licensed health-care
+25 professional that is not in compliance with this part 5 or any state board
+26 rules adopted pursuant to this part 5 to develop and operate under a
+27 corrective action plan until the state department determines the
+-19- 138
+
+1 health-care facility or licensed health-care professional is in compliance.
+2 (C) IF A HEALTH-CARE FACILITY'S OR LICENSED HEALTH-CARE
+3 PROFESSIONAL'S NONCOMPLIANCE WITH THIS PART 5 DID NOT RESULT IN A
+4 DELAY OR DENIAL OF A DISCOUNT OWED TO A PATIENT, THE STATE
+5 DEPARTMENT MAY NOTIFY THE HEALTH-CARE FACILITY OR LICENSED
+6 HEALTH-CARE PROFESSIONAL OF THE NONCOMPLIANCE FOR PURPOSES OF
+7 QUALITY IMPROVEMENT.
+8 (7) (a) THE STATE DEPARTMENT SHALL COMPLY WITH SECTION
+9 24-4-103 (1) WHEN IMPOSING CHANGES TO THE UNIFORM SCREENING
+10 QUESTIONNAIRE, CHANGES TO THE APPLICATION, NEW REQUIREMENTS,
+11 NEW REPORTING OBLIGATIONS, NEW DOCUMENTATION STANDARDS, NEW
+12 DATA ELEMENTS, OR NEW PROGRAM CRITERIA. THE STATE DEPARTMENT
+13 SHALL ENSURE THE CHANGES OR NEW REQUIREMENTS ARE:
+14 (I) ADOPTED BY RULE PURSUANT TO THE "STATE ADMINISTRATIVE
+15 PROCEDURE ACT", ARTICLE 4 OF TITLE 24 , BY SEPTEMBER 1, 2026, FOR A
+16 RULE THAT WILL GO INTO EFFECT DURING TO THE 2026-27 STATE FISCAL
+17 YEAR AND EVERY YEAR THEREAFTER BY JUNE 1 PRIOR TO THE STATE
+18 FISCAL YEAR FOR WHICH THE RULE WILL GO INTO EFFECT; AND
+19 (II) SUBJECT TO STAKEHOLDER ENGAGEMENT PURSUANT TO
+20 SUBSECTION (4) OF THIS SECTION.
+21 (b) ANY CHANGE OR NEW REQUIREMENT DESCRIBED IN
+22 SUBSECTION (7)(a) OF THIS SECTION THAT WAS NOT ADOPTED THROUGH
+23 RULE-MAKING IS ADVISORY ONLY AND DOES NOT SERVE AS THE BASIS FOR
+24 ENFORCEMENT.
+25 (c) THE STATE DEPARTMENT SHALL MAINTAIN AN UPDATED PUBLIC
+26 ARCHIVE OF ALL MANUALS AND SUBREGULATORY ISSUANCES, INCLUDING
+27 THE RATIONALE FOR CHANGES AND CITATIONS TO STATUTORY OR
+-20- 138
+
+1 REGULATORY AUTHORITY FOR EACH CHANGE OR NEW REQUIREMENT.
+2 (d) THIS SUBSECTION (7) DOES NOT APPLY TO RULES ADOPTED BY
+3 THE STATE DEPARTMENT OR THE STATE BOARD TO UPDATE ANNUAL
+4 FEDERAL POVERTY GUIDELINES OR IN RESPONSE TO EMERGENT AND
+5 IMMEDIATE TRENDS THAT ARE IDENTIFIED BY CONSUMERS OR HOSPITALS
+6 AS LIMITING THE PROGRAM'S EFFECTIVENESS AND ARE DEMONSTRATED BY
+7 DATA SUBMITTED TO THE STATE DEPARTMENT OR THE STATE BOARD.
+8 SECTION 12. In Colorado Revised Statutes, 25.5-4-402.8,
+9 amend (2)(b) introductory portion, (2)(b)(II)(A), and (2)(e) as follows:
+10 25.5-4-402.8. Hospital transparency report and requirements
+11 - definitions - rules.
+12 (2) (b) Except as provided in subsection (2)(c) of this section,
+13 each hospital licensed pursuant to part 1 of article 3 of title 25, or certified
+14 pursuant to section 25-1.5-103 (1)(a)(II), shall make information available
+15 to the state department for purposes of preparing the annual hospital
+16 transparency report. The state board shall establish the CONTENT AND
+17 format of the information provided by each hospital on an annual basis BY
+18 RULE, ESTABLISHING THE FORMAT FOR INFORMATION FOR THE 2026
+19 ANNUAL REPORT AS THE DEFAULT FORMAT UNLESS MODIFIED BY RULE.
+20 Each hospital shall provide the following information to the state
+21 department ON AN ANNUAL BASIS USING THE MOST RECENT CONTENT AND
+22 FORMAT REQUIREMENTS THAT WERE ADOPTED BY THE STATE BOARD AT
+23 LEAST THIRTY DAYS PRIOR TO THE BEGINNING OF THE HOSPITAL'S FISCAL
+24 YEAR:
+25 (II) (A) Annual audited financial statements, prepared in
+26 accordance with generally accepted accounting principles. Each hospital
+27 shall submit the statements within one hundred twenty FIFTY days after
+-21- 138
+
+1 the end of its fiscal year unless the state department grants an extension
+2 in writing in advance of that date.
+3 (e) Prior to issuing the hospital transparency report, the state
+4 department shall provide any hospital referenced in the hospital
+5 transparency report a copy of the DRAFT report BY DECEMBER 1 OF EACH
+6 YEAR. Each hospital AND A STATEWIDE HOSPITAL ASSOCIATION must have
+7 a minimum of fifteen BUSINESS days to review the hospital transparency
+8 report and any underlying data and submit corrections or clarifications to
+9 the state department.
+10 SECTION 13. In Colorado Revised Statutes, 6-20-201, amend
+11 the introductory portion and (1) as follows:
+12 6-20-201. Definitions.
+13 For the purposes of AS USED IN this part 2, unless the context
+14 otherwise requires:
+15 (1) "Collection activity" means only those activities provided or
+16 performed by a licensed collection agency, using a business name other
+17 than the name of the health-care provider, for purposes of collecting a
+18 MEDICAL debt. The term does not include any standard billing procedures
+19 used by the health-care provider or its agent in the normal course of
+20 business on current, nondelinquent accounts.
+21 SECTION 14. In Colorado Revised Statutes, 6-20-203, amend
+22 (5)(b) and (5)(c) as follows:
+23 6-20-203. Limitations on collection actions - definition.
+24 (5) Beginning September 1, 2022, a medical creditor collecting on
+25 a debt for hospital services shall not sell a medical debt to another party
+26 unless, prior to the sale, the medical debt seller has entered into a legally
+27 binding written agreement with the medical debt buyer of the debt
+-22- 138
+
+1 pursuant to which:
+2 (b) The debt is returnable to or recallable by the medical debt
+3 seller upon a determination that the patient should have been screened
+4 pursuant to section 25.5-3-502 SECTIONS 25.5-3-502 AND 25.5-3-502.5
+5 and is eligible for discounted care pursuant to section 25.5-3-503 or that
+6 the bill underlying the medical debt is eligible for reimbursement through
+7 a public health-care coverage program; and
+8 (c) If it is determined that the patient should have been screened
+9 pursuant to section 25.5-3-502 SECTIONS 25.5-3-502 AND 25.5-3-502.5
+10 and is eligible for discounted care pursuant to section 25.5-3-503 or that
+11 the bill underlying the medical debt is eligible for reimbursement through
+12 a public health-care coverage program and the debt is not returned to or
+13 recalled by the medical debt seller, the medical debt buyer shall adhere to
+14 procedures that must be specified in the agreement that ensures the
+15 patient will not pay, and has no obligation to pay, the medical debt buyer
+16 and the medical creditor together more than the patient is personally
+17 responsible for paying.
+18 SECTION 15. In Colorado Revised Statutes, 12-220-306, amend
+19 (4) as follows:
+20 12-220-306. Dentists may prescribe drugs - surgical operations
+21 - anesthesia - limits on prescriptions - rules.
+22 (4) A licensed dentist is strongly encouraged to purchase or utilize
+23 an electronic health product that includes integration of a tool that
+24 facilitates dentists' compliance with prescription drug monitoring
+25 standards. required by section 12-30-114 (1)(a)(IV).
+26 SECTION 16. In Colorado Revised Statutes, 12-240-130, amend
+27 (2)(a)(II); and repeal (2)(a)(III) and (5) as follows:
+-23- 138
+
+1 12-240-130. Renewal, reinstatement, reactivation -
+2 delinquency - fees - questionnaire.
+3 (2) (a) The board shall design a questionnaire to accompany the
+4 renewal form for the purpose of determining whether a licensee has acted
+5 in violation of this article 240 or has been disciplined for any action that
+6 might be considered a violation of this article 240 or that might make the
+7 licensee unfit to practice medicine with reasonable care and safety. The
+8 board shall include on the questionnaire a question regarding whether:
+9 (II) The licensee is in compliance with section 12-280-403 (2)(a)
+10 and is aware of the penalties for failing to comply with that section; AND
+11 (III) The licensee is in compliance with section 12-30-114; and
+12 (5) On and after October 1, 2022, as a condition of renewal,
+13 reinstatement, or reactivation of a license, each licensee or applicant shall
+14 attest that the licensee or applicant is in compliance with section
+15 12-30-114 and that the licensee or applicant is aware of the penalties for
+16 noncompliance with that section.
+17 SECTION 17. In Colorado Revised Statutes, 12-240-130.5,
+18 amend (6) as follows:
+19 12-240-130.5. Continuing medical education - requirement -
+20 compliance - legislative declaration - rules - definitions.
+21 (6) As part of the CME requirement established pursuant to this
+22 section, in addition to CME programs covering topics selected by the
+23 physician, a physician's CME credit hours must include
+24 (a) CME credit hours that comply with section 12-30-114 and
+25 related board rules; and
+26 (b) CME credit hours covering a topic specified by the board by
+27 rule pursuant to subsection (7)(b) of this section.
+-24- 138
+
+1 SECTION 18. In Colorado Revised Statutes, 25-1.5-103, amend
+2 (1)(a)(I)(A) and (1)(a)(I)(F) as follows:
+3 25-1.5-103. Health facilities - powers and duties of department
+4 - rules - limitations on rules - definitions - repeal.
+5 (1) The department has, in addition to all other powers and duties
+6 imposed upon it by law, the powers and duties provided in this section as
+7 follows:
+8 (a) (I) (A) To annually license and to establish and enforce
+9 standards for the operation of general hospitals, hospital units as defined
+10 in section 25-3-101 (2)(b), freestanding emergency departments as
+11 defined in section 25-1.5-114 (5)(b)(I), critical access hospitals as defined
+12 in section 25-1.5-114.5 (1)(b), psychiatric hospitals, community clinics,
+13 rehabilitation hospitals, convalescent centers, facilities for persons with
+14 intellectual and developmental disabilities, nursing care facilities, hospice
+15 care, assisted living residences, dialysis treatment clinics, ambulatory
+16 surgical centers, birthing centers, home care agencies, and other facilities
+17 of a like nature, except those wholly owned and operated by a
+18 governmental unit or agency.
+19 (F) Sections 24-4-104 C.R.S., and 25-3-102 govern the issuance,
+20 suspension, renewal, revocation, annulment, or modification of licenses.
+21 All licenses issued by the department must contain the date of issue. and
+22 cover a twelve-month period. Nothing contained in this paragraph (a)
+23 SUBSECTION (1)(a) prevents the department from adopting and enforcing,
+24 with respect to projects for which federal assistance has been obtained or
+25 is requested, higher standards as may be required by applicable federal
+26 laws or regulations of federal agencies responsible for the administration
+27 of applicable federal laws.
+-25- 138
+
+1 SECTION 19. Act subject to petition - effective date. Section
+2 25-3-102, Colorado Revised Statutes, as amended in section 5 of this act,
+3 and section 25-1.5-103, Colorado Revised Statutes, as amended in section
+4 18 of this act, take effect July 1, 2028, and the remainder of this act takes
+5 effect at 12:01 a.m. on the day following the expiration of the ninety-day
+6 period after final adjournment of the general assembly; except that, if a
+7 referendum petition is filed pursuant to section 1 (3) of article V of the
+8 state constitution against this act or an item, section, or part of this act
+9 within such period, then the act, item, section, or part will not take effect
+10 unless approved by the people at the general election to be held in
+11 November 2026 and, in such case, will take effect on the date of the
+12 official declaration of the vote thereon by the governor; except that
+13 section 25-3-102, Colorado Revised Statutes, as amended in section 5 of
+14 this act, and section 25-1.5-103, Colorado Revised Statutes, as amended
+15 in section 18 of this act, take effect July 1, 2028.
+-26- 138

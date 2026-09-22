@@ -1,0 +1,445 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+SENATE BILL 26-036
+BY SENATOR(S) Gonzales J. and Weissman, Amabile, Benavidez, Cutter,
+Exum, Hinrichsen, Jodeh, Kipp, Marchman, Rodriguez, Wallace, Coleman;
+also REPRESENTATIVE(S) Bacon and Zokaie, Boesenecker, Brown,
+Camacho, Carter, Clifford, English, Garcia, Jackson, Lindsay, Mabrey,
+Nguyen, Phillips, Sirota, Story.
+CONCERNING INCREASING OPERATIONAL EFFICIENCY OF EXISTING PRISON
+POPULATION MANAGEMENT MEASURES, AND, IN CONNECTION
+THEREWITH, MAKING AND REDUCING AN APPROPRIATION.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds that:
+(a) States across the country have enacted prison population
+management measures that recognize that overcrowded prison facilities are
+a threat to the health and safety of staff and inmates;
+(b) It is universally recognized that ensuring systematic and
+operational efficiencies can effectively manage prison populations without
+compromising public safety;
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(c) In 2018, the Colorado general assembly unanimously adopted
+prison population management measures that trigger specific actions when
+the department of corrections' prison bed vacancy rate falls below a
+specified level for 30 consecutive days;
+(d) On August 16, 2025, the department of corrections' prison bed
+vacancy rate fell to a level that triggered the prison population management
+measures for the first time; and
+(e) The implementation of current prison population management
+measures has not made an impact on prison overcrowding in Colorado.
+There is limited data available to assess the reasons for this lack of impact
+since there is no data reporting required by state law on the implementation
+of the mandated prison population management measures. However, there
+is clearly the potential for impact because reliable data indicates that a
+significant number of inmates are eligible for placement in the community
+through community corrections boards, and roughly 4,600 inmates are past
+their parole eligibility date.
+(2) Therefore, the general assembly declares that revising Colorado's
+existing prison population management measures is necessary in order to
+address operational inefficiencies, obtain necessary data, and increase
+transparency and accountability, and that the efficient management of
+prison populations is a matter of ongoing concern for correctional staff and
+inmates.
+SECTION 2. In Colorado Revised Statutes, amend 17-1-119.7 as
+follows:
+17-1-119.7. Prison population management measures -
+definitions.
+(1) (a) The department shall track the prison bed vacancy rate in
+both correctional facilities and state-funded private contract prison beds on
+a monthly basis. If the PRISON BED vacancy rate falls below three FOUR
+percent for thirty consecutive days, the department shall, WITHIN
+FORTY-EIGHT HOURS, notify THE FOLLOWING:
+(I) The governor;
+PAGE 2-SENATE BILL 26-036
+
+(II) The joint budget committee;
+(III) THE HOUSE OF REPRESENTATIVES JUDICIARY COMMITTEE AND
+THE SENATE JUDICIARY COMMITTEE, OR THEIR SUCCESSOR COMMITTEES;
+(IV) The parole board AND EACH RELEASE HEARING OFFICER AND
+ADMINISTRATIVE HEARING OFFICER UNDER CONTRACT WITH THE PAROLE
+BOARD;
+(V) THE OFFICE OF COMMUNITY CORRECTIONS IN THE DEPARTMENT
+OF PUBLIC SAFETY;
+(VI) EACH COMMUNITY CORRECTIONS BOARD AND COMMUNITY
+CORRECTIONS PROGRAM, AS THOSE TERMS ARE DEFINED IN SECTION
+17-27-102;
+(VII) Each elected district attorney;
+(VIII) THE OFFICE OF STATE PUBLIC DEFENDER CREATED IN SECTION
+21-1-101;
+(IX) THE OFFICE OF ALTERNATE DEFENSE COUNSEL CREATED IN
+SECTION 21-2-101;
+(X) The chief judge of each judicial district; the state public
+defender, and the office of community corrections in the department of
+public safety. The department shall notify the governor, the joint budget
+committee, the parole board, each elected district attorney, the chief judge
+of each judicial district, the state public defender, and the office of
+community corrections once the vacancy rate exceeds four percent for thirty
+consecutive days.
+(XI) THE CHIEF PROBATION OFFICER IN EACH JUDICIAL DISTRICT;
+(XII) THE OFFICE OF THE STATE COURT ADMINISTRATOR; AND
+(XIII) EACH COUNTY SHERIFF OF COLORADO.
+(b) IF THE MANDATES REQUIRED PURSUANT TO THIS SECTION ARE IN
+EFFECT AND THE PRISON BED VACANCY RATE IS FOUR PERCENT OR HIGHER
+PAGE 3-SENATE BILL 26-036
+
+FOR THIRTY CONSECUTIVE DAYS, THE DEPARTMENT SHALL NOTIFY EACH
+PERSON AND ENTITY LISTED IN SUBSECTION (1)(a) OF THIS SECTION THAT THE
+MANDATES REQUIRED PURSUANT TO THIS SECTION ARE NO LONGER IN
+EFFECT.
+(c) EACH INDIVIDUAL AND ENTITY THAT RECEIVES NOTIFICATION
+PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION SHALL ACKNOWLEDGE
+RECEIPT OF THE NOTIFICATION, IN WRITING, AND CONFIRM COMPLIANCE WITH
+THE NOTIFICATION REQUIREMENTS DESCRIBED IN SUBSECTION (2)(e) OF THIS
+SECTION.
+(d) THE NOTIFICATION TO THE GOVERNOR AND THE PAROLE BOARD
+MUST BE UPDATED EVERY THIRTY DAYS WHILE THE MANDATES REQUIRED
+PURSUANT TO THIS SECTION ARE IN EFFECT AND INCLUDE AN ESTIMATE OF
+THE REDUCTION IN THE INMATE POPULATION NEEDED TO ACHIEVE A PRISON
+BED VACANCY RATE OF FOUR PERCENT OR HIGHER.
+(2) (a) If the PRISON BED vacancy rate in correctional facilities and
+state-funded private contract prison beds falls below three FOUR percent for
+thirty consecutive days, the department shall:
+(I) (A) Request the office of community corrections to provide the
+department with information regarding the location and nature of any
+unutilized community corrections beds. The office of community
+corrections shall provide the information TO THE DEPARTMENT within
+seventy-two hours of AFTER the request and on a weekly basis until the
+office of community corrections receives notification FROM THE
+DEPARTMENT that the vacancy rate exceeds three percent MANDATES
+REQUIRED BY THIS SECTION ARE NO LONGER IN EFFECT.
+(B) REQUEST, IN WRITING, THAT EACH COMMUNITY CORRECTIONS
+PROVIDER REVIEW THE STATUTORY CRITERIA FOR EACH TRANSITION INMATE
+WHO HAS RESIDED IN THE COMMUNITY CORRECTIONS PROGRAM OPERATED
+BY THE PROVIDER FOR MORE THAN ONE HUNDRED EIGHTY DAYS AND WHO
+MEETS THE PROGRAM OBJECTIVES FOR AN INTENSIVE SUPERVISION PROGRAM
+PURSUANT TO SECTION 17-27.5-101, AND PROVIDE THE DEPARTMENT WITH
+A LIST OF INTENSIVE SUPERVISION PROGRAM-ELIGIBLE TRANSITION INMATES
+WITH EMPLOYMENT AND HOUSING OPTIONS. AFTER RECEIVING THE LIST OF
+TRANSITION INMATES, THE DEPARTMENT SHALL INVESTIGATE AND APPROVE
+A RESIDENCE PLAN FOR EACH TRANSITION INMATE ON THE LIST AND SUBMIT
+PAGE 4-SENATE BILL 26-036
+
+THE APPROVED RESIDENCE PLAN TO THE RELEVANT COMMUNITY
+CORRECTIONS BOARD.
+(C) REQUEST, IN WRITING, THAT THE OFFICE OF COMMUNITY
+CORRECTIONS INVESTIGATE EXPANDING THE CAPACITY FOR INMATE
+TRANSITION BEDS IN COMMUNITY CORRECTIONS PROGRAMS THAT COULD BE
+PROVIDED ON A TEMPORARY OR LONGER-TERM BASIS, INCLUDING THE
+POTENTIAL NUMBER OF BEDS. THE OFFICE OF COMMUNITY CORRECTIONS
+SHALL PROVIDE THE RESULTS OF THE INVESTIGATION TO THE DEPARTMENT
+AND THE JOINT BUDGET COMMITTEE.
+(D) REQUIRE THAT DEPARTMENT CASE MANAGERS REVIEW THE
+ELIGIBILITY OF EACH INMATE FOR COMMUNITY CORRECTIONS PROGRAM
+PLACEMENT AND INITIATE A REFERRAL OF AN INMATE WHO IS ELIGIBLE TO
+THE RELEVANT COMMUNITY CORRECTIONS BOARD WITHIN SEVEN DAYS
+AFTER THE ELIGIBILITY DETERMINATION; AND
+(E) REQUIRE THAT THE DIVISION OF ADULT PAROLE NOTIFY EACH
+COMMUNITY PAROLE OFFICER, IN WRITING, OF THE PRISON BED SHORTAGE
+AND REQUEST THAT PAROLE OFFICERS CONSIDER ALTERNATIVE SANCTIONS
+FOR TECHNICAL VIOLATIONS OF PAROLE BY A TRANSITION INMATE, IF
+LAWFULLY AVAILABLE AND CONSISTENT WITH PUBLIC SAFETY.
+(II) Request that the parole board review a list of inmates who are
+within ninety days of their mandatory release date have an approved parole
+plan, and do not require full board review or victim notification pursuant to
+section 24-4.1-302.5 (1)(j).
+(III) Coordinate with the parole board to review the WITHIN
+FOURTEEN DAYS AFTER PROVIDING THE NOTIFICATION PURSUANT TO
+SUBSECTION (1)(a) OF THIS SECTION, CREATE A list of inmates who have
+satisfied conditions for conditional release, verified by the department of
+corrections, do not require full board review or victim notification pursuant
+to section 24-4.1-302.5 (1)(j), and have satisfied the condition or conditions
+required for an order to parole. and THE DEPARTMENT SHALL INFORM THE
+PAROLE BOARD IF A LISTED INMATE HAS SATISFIED THE CONDITIONS
+REQUIRED FOR RELEASE. IF A SPECIFIC CONDITION RELATES TO COMPLETING
+A PROGRAM AND THE CONDITION HAS NOT BEEN SATISFIED, THE PAROLE
+BOARD SHALL DETERMINE WHETHER THE CONDITION CAN BE SATISFIED
+AFTER RELEASE AND MANDATED AS A CONDITION OF PAROLE.
+PAGE 5-SENATE BILL 26-036
+
+(IV) (A) WITHIN FOURTEEN DAYS AFTER PROVIDING THE
+NOTIFICATION PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION, submit to
+the parole board a list of eligible inmates with a favorable parole plan who
+have been assessed to be medium or lower risk on the validated risk
+assessment scale developed pursuant to section 17-22.5-404 (2), OR WHO
+HAVE BEEN CLASSIFIED AS MINIMUM OR MINIMUM RESTRICTIVE CUSTODY,
+AND WHO ARE PAST THEIR PAROLE ELIGIBILITY DATE. THE PAROLE BOARD
+SHALL CONSIDER THE LIST AS AN INDIVIDUAL APPLICATION FOR PAROLE FOR
+EACH INMATE ON THE LIST AND REVIEW EACH APPLICATION CONSISTENT
+WITH SECTION 17-2-201. Except as provided in subsection (2)(a)(IV)(B) of
+this section, the parole board shall conduct a file review of each inmate on
+the list and set conditions of release for the inmate within thirty days after
+receipt of the list and set a day of release no later than thirty days after
+conducting the file review.
+(B) If victim notification is required and a victim wishes to provide
+input, the parole board shall schedule a hearing in lieu of a file review and
+set conditions of release for the inmate and a date of release no later than
+thirty days after conducting the hearing.
+(C) If additional information is needed, the parole board may table
+a decision after the file review or hearing and request additional information
+from the department. The parole board may grant or deny parole to an
+applicant, and, if the decision is to deny parole, it must be based on a
+majority vote of the full board.
+(D) An inmate is not eligible for release pursuant to this section if
+he or she is serving a sentence for an offense enumerated in section
+24-4.1-302 or section 16-22-102 (9) or has had a class I code of penal
+discipline violation within the previous twelve months from the date of the
+list or since incarceration, whichever is shorter; has been terminated for lack
+of progress or declined in writing to participate in programs that have been
+recommended and made available to the inmate within the previous twelve
+months or since incarceration, whichever is shorter; has been regressed
+from community-corrections or revoked from parole within the previous
+one hundred eighty days; or has a pending felony charge, detainer, or an
+extraditable warrant.
+(E) An inmate is eligible for release pursuant to this subsection
+(2)(a)(IV) if the inmate is at or past his or her parole eligibility date and is
+PAGE 6-SENATE BILL 26-036
+
+only serving a sentence for a conviction of a level 3 or level 4 drug felony
+or a class 3, class 4, class 5, or class 6 nonviolent felony offense.
+(D) IF AN INMATE HAS A PENDING FELONY CHARGE, DETAINER, OR
+EXTRADITABLE WARRANT, AND IS OTHERWISE ELIGIBLE FOR RELEASE TO
+PAROLE, THE DEPARTMENT SHALL NOTIFY THE LIAISON FOR THE OFFICE OF
+STATE PUBLIC DEFENDER, AS DESCRIBED IN SECTION 21-1-104 (6), TO
+DETERMINE WHETHER THE LEGAL MATTER CAN BE RESOLVED ON A
+FORTHWITH BASIS.
+(V) (A) WITHIN FOURTEEN DAYS AFTER AN OFFENDER IS ADMITTED
+TO THE CUSTODY OF THE DEPARTMENT AS A NEW COURT COMMITMENT, IF
+THE OFFENDER IS DETERMINED BY THE DEPARTMENT DURING ADMISSION TO
+BE PAST OR WITHIN NINETY DAYS OF THE OFFENDER'S PAROLE ELIGIBILITY
+DATE AND THE OFFENDER IS NOT SERVING A SENTENCE FOR A LEVEL 1 DRUG
+FELONY OR FOR AN OFFENSE ENUMERATED IN SECTION 24-4.1-302 (1) OR
+16-22-102 (9), NOTIFY THE SENTENCING COURT AND PROVIDE THE COURT
+WITH INFORMATION ON THE OFFENDER'S PAROLE ELIGIBILITY DATE,
+MANDATORY RELEASE DATE, AND THE RESULTS OF ANY INTAKE
+ASSESSMENTS.
+(B) IF A SENTENCING COURT RECEIVES NOTICE FROM THE
+DEPARTMENT PURSUANT TO SUBSECTION (2)(a)(V)(A) OF THIS SECTION, THE
+COURT SHALL NOTIFY COUNSEL FOR THE DEFENDANT AND THE PROSECUTION
+AND REQUEST THAT THE DEFENDANT FILE A MOTION FOR RECONSIDERATION,
+IF THE DEFENDANT CHOOSES TO DO SO, UNLESS THE PRISON SENTENCE IS THE
+RESULT OF A STIPULATED PLEA AGREEMENT FOR AN EXACT NUMBER OF
+YEARS IN PRISON. IF THE COURT RECEIVES A MOTION FOR RECONSIDERATION,
+THE COURT MAY GRANT THE MOTION WITH OR WITHOUT SCHEDULING A
+HEARING AND MAY IMPOSE AN ALTERNATIVE SENTENCE EXCEPT A SENTENCE
+TO JAIL. THE COURT SHALL DECIDE THE MATTER WITHIN THIRTY-FIVE DAYS
+AFTER THE FILING OF THE MOTION.
+(b) (I) WHILE THE MEASURES DESCRIBED IN SUBSECTION (2)(a) OF
+THIS SECTION ARE IN EFFECT, THE PAROLE BOARD MAY GRANT OR DENY
+PAROLE TO AN APPLICANT WHO IS ELIGIBLE FOR PAROLE PURSUANT TO THIS
+SECTION, AND, IF THE DECISION IS TO DENY PAROLE, THE DECISION MUST BE
+BASED ON A MAJORITY VOTE OF THE FULL PAROLE BOARD.
+(II) A PAROLE APPLICATION HEARING OR RECONSIDERATION OF
+PAGE 7-SENATE BILL 26-036
+
+SENTENCING HEARING HELD PURSUANT TO THIS SECTION MUST COMPLY WITH
+THE APPLICABLE PROVISIONS SET FORTH IN SECTIONS 24-4.1-302.5 AND
+24-4.1-303.
+(III) AN INMATE IS NOT ELIGIBLE FOR CONSIDERATION OF RELEASE
+PURSUANT TO THIS SECTION IF THE INMATE IS SERVING A SENTENCE FOR A
+LEVEL 1 DRUG FELONY OR FOR AN OFFENSE ENUMERATED IN SECTION
+24-4.1-302 (1) OR 16-22-102 (9) OR HAS BEEN FOUND GUILTY OF A CLASS I
+CODE OF PENAL DISCIPLINE VIOLATION WITHIN THE PREVIOUS TWELVE
+MONTHS OR SINCE INCARCERATION, WHICHEVER IS SHORTER.
+(IV) ACTIONS TAKEN REGARDING PLACEMENT, TRANSFER, OR OTHER
+MOVEMENT OF AN INMATE PURSUANT TO THIS SECTION MUST COMPLY WITH
+THE APPLICABLE PROVISIONS SET FORTH IN SECTIONS 24-4.1-302.5 AND
+24-4.1-303.
+(V) THE DEPARTMENT MAY REFER AN INMATE RELEASED PURSUANT
+TO THIS SECTION WHO MAY BENEFIT FROM COMMUNITY-BASED SUPPORT
+SERVICES TO A COMMUNITY-BASED REENTRY PROGRAM THAT RECEIVES
+FUNDING FROM THE REENTRY SERVICES GRANT PROGRAM DESCRIBED IN
+SECTION 17-33-101 (7) OR OTHER COMMUNITY-BASED PROGRAMS THAT THE
+DEPARTMENT CONTRACTS WITH FOR REENTRY SERVICES TO PROMOTE THE
+INMATE'S SUCCESSFUL REINTEGRATION.
+(b) (c) The department may utilize any, all, or a combination of the
+measures described in subsection (2)(a) of this section when the PRISON BED
+vacancy rate falls below two FOUR percent for thirty consecutive days and
+until the vacancy rate is above three FOUR percent for thirty consecutive
+days.
+(d) (I) IF THE MEASURES DESCRIBED IN SUBSECTION (2)(a) OF THIS
+SECTION DO NOT RESULT IN ACHIEVING A PRISON BED VACANCY RATE ABOVE
+FOUR PERCENT WITHIN ONE HUNDRED TWENTY DAYS AFTER THE
+NOTIFICATIONS PROVIDED PURSUANT TO SUBSECTION (1)(a) OF THIS
+SECTION, THE DEPARTMENT SHALL, WITHIN THIRTY DAYS AFTER THE
+DETERMINATION THAT THE MEASURES DO NOT RESULT IN ACHIEVING THE
+SPECIFIC RATES, SUBMIT TO THE PAROLE BOARD AND THE GOVERNOR A LIST
+OF INMATES WHO ARE SERVING A SENTENCE IN THE DEPARTMENT AND WHO
+ARE ELIGIBLE FOR PAROLE, NOTWITHSTANDING ANY OTHER PROVISION OF
+LAW; RECOMMENDS FOR TRANSFER TO COMMUNITY CORRECTIONS FOR
+PAGE 8-SENATE BILL 26-036
+
+RESIDENTIAL OR NONRESIDENTIAL PLACEMENT; OR RECOMMENDS FOR ANY
+OTHER FORM OF RELEASE, INCLUDING, BUT NOT LIMITED TO, COMMUTATION
+OF THE INMATE'S SENTENCE BY THE GOVERNOR.
+(II) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, UPON
+RECEIPT OF THE LIST PROVIDED BY THE DEPARTMENT PURSUANT TO
+SUBSECTION (2)(d)(I) OF THIS SECTION:
+(A) THE PAROLE BOARD MAY RELEASE AN INMATE WHO IS NOT
+SERVING A SENTENCE FOR A LEVEL 1 DRUG FELONY OR FOR AN OFFENSE
+ENUMERATED IN SECTION 24-4.1-302 (1) OR 16-22-102 (9) NINETY DAYS IN
+ADVANCE OF THE INMATE'S CURRENT PAROLE ELIGIBILITY DATE;
+(B) THE DEPARTMENT MAY REFER THE INMATE FOR PLACEMENT IN
+A COMMUNITY CORRECTIONS PROGRAM; AND
+(C) THE GOVERNOR MAY CONSIDER AND GRANT COMMUTATION OF
+THE INMATE'S SENTENCE.
+(e) IF THE PRISON BED VACANCY RATE FALLS BELOW FOUR PERCENT
+FOR THIRTY CONSECUTIVE DAYS AND A NOTIFICATION IS MADE PURSUANT TO
+SUBSECTION (1)(a) OF THIS SECTION AND RECEIVED BY:
+(I) AN ELECTED DISTRICT ATTORNEY, THE ELECTED DISTRICT
+ATTORNEY SHALL NOTIFY EACH DEPUTY DISTRICT ATTORNEY ASSIGNED TO
+FELONY CASES AND EACH DEPUTY DISTRICT ATTORNEY SERVING ON THE
+LOCAL COMMUNITY CORRECTIONS BOARD OF THE PRISON BED SHORTAGE
+AND THAT PRISON POPULATION MANAGEMENT MEASURES ARE IN EFFECT;
+(II) THE OFFICE OF STATE PUBLIC DEFENDER, THE OFFICE SHALL
+NOTIFY EACH ATTORNEY ASSIGNED TO REPRESENT AN INDIVIDUAL CHARGED
+WITH A FELONY OFFENSE AND EACH ATTORNEY SERVING ON THE LOCAL
+COMMUNITY CORRECTIONS BOARD OF THE CURRENT PRISON BED SHORTAGE
+AND THAT PRISON POPULATION MANAGEMENT MEASURES ARE IN EFFECT,
+AND REQUEST THAT EACH ATTORNEY UTILIZE AVAILABLE RESOURCES TO
+INVESTIGATE AND ADVOCATE FOR AN ALTERNATIVE TO A PRISON SENTENCE,
+IF LAWFULLY AVAILABLE, FOR CASES PENDING SENTENCING OR
+RESENTENCING;
+(III) THE OFFICE OF ALTERNATE DEFENSE COUNSEL, THE OFFICE
+PAGE 9-SENATE BILL 26-036
+
+SHALL NOTIFY EACH ATTORNEY ASSIGNED TO REPRESENT AN INDIVIDUAL
+CHARGED WITH A FELONY OFFENSE OF THE CURRENT PRISON BED SHORTAGE
+AND THAT PRISON POPULATION MANAGEMENT MEASURES ARE IN EFFECT,
+AND REQUEST THAT EACH ATTORNEY UTILIZE AVAILABLE RESOURCES TO
+INVESTIGATE AND ADVOCATE FOR AN ALTERNATIVE TO A PRISON SENTENCE,
+IF LAWFULLY AVAILABLE, FOR CASES PENDING SENTENCING OR
+RESENTENCING;
+(IV) A CHIEF JUDGE OF A JUDICIAL DISTRICT, THE CHIEF JUDGE SHALL
+NOTIFY EACH DISTRICT COURT JUDGE IN THE JUDICIAL DISTRICT WHO IS
+ASSIGNED TO FELONY CASES OF THE CURRENT PRISON BED SHORTAGE AND
+THAT PRISON POPULATION MANAGEMENT MEASURES ARE IN EFFECT; OR
+(V) A CHIEF PROBATION OFFICER FOR A JUDICIAL DISTRICT, THE
+CHIEF PROBATION OFFICER SHALL NOTIFY EACH PROBATION OFFICER WHO
+SUPERVISES INDIVIDUALS ON FELONY PROBATION OF THE CURRENT PRISON
+BED SHORTAGE AND THAT PRISON POPULATION MANAGEMENT MEASURES
+ARE IN EFFECT.
+(3) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+REQUIRES:
+(a) "LOCAL JAIL BACKLOG" MEANS THE INMATES UNDER THE
+JURISDICTION OF THE DEPARTMENT WHO ARE BEING HOUSED IN A LOCAL JAIL
+ON BEHALF OF THE DEPARTMENT.
+(b) "OPERATIONAL CAPACITY" MEANS THE NUMBER OF PERMANENT
+BEDS AT A PRISON, EXCLUDING NONCAPACITY BEDS SUCH AS INFIRMARY
+BEDS AND RESTRICTIVE HOUSING AND TRANSPORT BEDS, UNLESS OTHERWISE
+SPECIFIED DUE TO EMERGENCY NEEDS.
+(c) (I) "PRISON BED VACANCY RATE" MEANS THE PERCENTAGE OF
+OPERATIONAL CAPACITY FOR PRISON BEDS THAT IS CURRENTLY UNUSED. FOR
+THE PURPOSES OF CALCULATING THE PRISON BED VACANCY RATE, THE
+DEPARTMENT SHALL INCLUDE INMATES UNDER THE JURISDICTION OF THE
+DEPARTMENT WHO ARE HOUSED IN A LOCAL JAIL AND THOSE DESIGNATED AS
+LOCAL JAIL BACKLOG.
+(II) NOTWITHSTANDING SUBSECTION (3)(c)(I) OF THIS SECTION, THE
+FIRST FOUR HUNDRED INMATES UNDER THE JURISDICTION OF THE
+PAGE 10-SENATE BILL 26-036
+
+DEPARTMENT WHO ARE HOUSED IN A LOCAL JAIL PURSUANT TO A LOCAL JAIL
+CONTRACT MUST NOT BE INCLUDED IN THE PRISON BED VACANCY RATE
+CALCULATION.
+SECTION 3. In Colorado Revised Statutes, 17-1-103, add (1)(s)
+as follows:
+17-1-103. Duties of the executive director.
+(1) The duties of the executive director are:
+(s) TO DEVELOP A COMPREHENSIVE AND ONGOING PRISON
+POPULATION MANAGEMENT PLAN TO ENSURE THE SAFETY OF STAFF AND
+INMATES AND TO ENSURE THAT THE DEPARTMENT COMPLIES WITH ALL
+PRISON POPULATION MANAGEMENT MANDATES REQUIRED BY LAW,
+INCLUDING IMPLEMENTING THE PRISON POPULATION MANAGEMENT
+MEASURES SET FORTH IN SECTION 17-1-119.7, WHEN NECESSARY.
+SECTION 4. In Colorado Revised Statutes, 17-1-103.3, amend
+(1)(a)(I); and add (1)(a)(III) and (1)(a)(IV) as follows:
+17-1-103.3. Reports for budgeting - definition.
+(1) (a) No later than the fifth day of each month, the executive
+director shall report the department's previous month's:
+(I) Bed capacity and average daily inmate population by prison
+facility, security level, and custody classification; and
+(III) CURRENT POPULATION IN THE LOCAL JAIL BACKLOG, AS DEFINED
+IN SECTION 17-1-119.7 (3), BY COUNTY; AND
+(IV) COMPLIANCE WITH THE PRISON POPULATION MANAGEMENT
+MEASURES DESCRIBED IN SECTION 17-1-119.7 IF THE MEASURES ARE IN
+EFFECT DURING THE PREVIOUS MONTH, INCLUDING EACH NOTICE SENT BY
+THE DEPARTMENT, ACTIONS TAKEN BY THE DEPARTMENT TO COMPLY WITH
+THE REQUIRED MEASURES, AND THE DOCUMENTED IMPACT OF
+IMPLEMENTING THE REQUIRED MEASURES.
+SECTION 5. In Colorado Revised Statutes, 17-2-201, add (3)(i) as
+PAGE 11-SENATE BILL 26-036
+
+follows:
+17-2-201. State board of parole - duties - definitions.
+(3) The chairperson, in addition to other provisions of law, has the
+following powers and duties:
+(i) TO ENSURE THAT THE PAROLE BOARD COMPLIES WITH ALL PRISON
+POPULATION MANAGEMENT MANDATES REQUIRED BY LAW, INCLUDING
+IMPLEMENTING, WHEN NECESSARY, THE PRISON POPULATION MANAGEMENT
+MEASURES SET FORTH IN SECTION 17-1-119.7.
+SECTION 6. In Colorado Revised Statutes, 17-27.5-101, amend
+(1)(b) introductory portion and (1)(b)(II) as follows:
+17-27.5-101. Authority to establish intensive supervision
+programs for parolees and community corrections offenders.
+(1) (b) The department shall also be IS authorized to refer for
+placement to an intensive supervision program operated under the
+jurisdiction of units of local government under contract with and approved
+by the department:
+(II) Any offender who has met program objectives of a residential
+community corrections program. and who has not more than one hundred
+eighty days remaining until such offender's parole eligibility date.
+SECTION 7. Appropriation. (1) For the 2026-27 state fiscal year,
+$303,812 is appropriated to the department of corrections. This
+appropriation is from the general fund. To implement this act, the
+department may use this appropriation as follows:
+(a) $142,591 for use by community services for the wrap-around
+services program;
+(b) $140,511 for use by community services for personal services
+related to the parole subprogram, which amount is based on an assumption
+that the subprogram will require an additional 2.0 FTE;
+(c) $16,560 for use by community services for operating expenses
+PAGE 12-SENATE BILL 26-036
+
+related to the parole subprogram; and
+(d) $4,150 for use by support services for operating expenses related
+to the training subprogram.
+SECTION 8. Appropriation - adjustments to 2026 long bill. To
+implement this act, the general fund appropriation made in the annual
+general appropriation act for the 2026-27 state fiscal year to the department
+of corrections for use by management for payments to local jails at a rate of
+$77.16 per inmate per day is decreased by $478,778.
+SECTION 9. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 13-SENATE BILL 26-036
+
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+James Rashad Coleman, Sr. Julie McCluskie
+PRESIDENT OF SPEAKER OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+____________________________ ____________________________
+Esther van Mourik Vanessa Reilly
+SECRETARY OF CHIEF CLERK OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 14-SENATE BILL 26-036
