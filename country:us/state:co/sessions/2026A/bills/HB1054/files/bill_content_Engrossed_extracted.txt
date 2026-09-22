@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0599.01 Josh Schultz x5486 HOUSE BILL 26-1054
+House Committees Senate Committees
+Business Affairs & Labor
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING WORKER SAFETY PROTECTIONS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 1 of the bill requires an employer to ensure the employer's
+workplace is free from recognized hazards, as interpreted consistent with
+the federal occupational safety and health administration's interpretation
+of the general duty clause of the "Occupational Safety and Health Act of
+1970" (OSH Act) as of September 1, 2025. Additionally, employers have
+the general duty to:
+! Ensure that each workplace is constructed, equipped,
+arranged, operated, and conducted as to provide reasonable ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,4
+yaM
+HOUSE SPONSORSHIP
+Rutinel and Velasco,
+SENATE SPONSORSHIP
+Wallace,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+and adequate protection to the lives, health, and safety of
+all individuals employed or working in the workplace; and
+! Comply with standards for workplace health and safety
+adopted by rule by the division of labor standards and
+statistics in the department of labor and employment
+(division).
+The bill authorizes the following actions to address workplace
+health and safety concerns:
+! The attorney general or the division may refer workplace
+health and safety concerns to relevant state or local
+authorities;
+! The attorney general, the division, a labor organization, or
+a person aggrieved by a violation of the bill may file a civil
+action;
+! For each violation of the bill or of rules adopted pursuant
+to the bill, a court may order the person that violates the bill
+or rules to pay statutory damages to a person aggrieved by
+the violation; and
+! A court may order a person that violates the bill or rules
+adopted pursuant to the bill to pay a penalty to the attorney
+general for each violation.
+The bill creates the workplace health and safety fund (fund) into
+which penalties collected pursuant to the bill are credited. The money in
+the fund may be used by the division for specified purposes.
+The bill authorizes the division to adopt rules:
+! To replace any requirement of the OSH Act or the "Federal
+Mine Safety and Health Act of 1977" that is repealed,
+revoked, or amended in any manner that results in the
+federal protections of workers' rights or worker safety
+becoming less stringent;
+! To define standards for workplace health and safety if there
+is no standard in effect under the OSH Act; and
+! As necessary to implement the bill.
+Sections 2 through 8 make conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, add part 2 to article
+3 14.4 of title 8 as follows:
+4 PART 2
+5 WORKPLACE HEALTH AND SAFETY
+-2- 1054
+
+1 8-14.4-201. Short title.
+2 THE SHORT TITLE OF THIS PART 2 IS THE "COLORADO WORKER
+3 SAFETY ACT".
+4 8-14.4-202. Definitions.
+5 AS USED IN THIS PART 2, UNLESS THE CONTEXT OTHERWISE
+6 REQUIRES:
+7
+8 (1) (a) "EMPLOYER" HAS THE MEANING SET FORTH IN SECTION
+9 8-4-101 (6).
+10 (b) "EMPLOYER" DOES NOT INCLUDE:
+11 (I) THE FEDERAL GOVERNMENT;
+12 (II) A PUBLIC ENTITY, AS DEFINED IN SECTION 24-10-103 (5); OR
+13 (III) THE STATE, AS DEFINED IN SECTION 24-10-103 (7).
+14 (2) "LABOR ORGANIZATION" MEANS AN EXCLUSIVE
+15 REPRESENTATIVE, AS DEFINED IN SECTION 8-3.3-102 (13).
+16 (3) "OSH ACT" MEANS THE FEDERAL "OCCUPATIONAL SAFETY
+17 AND HEALTH ACT OF 1970", 29 U.S.C. SEC. 651 ET SEQ.
+18 (4) "STRINGENT" MEANS A LAW, RULE, OR STANDARD'S OVERALL
+19 EFFECTIVENESS IN PROTECTING THE RIGHTS AND SAFETY OF WORKERS. A
+20 LAW, RULE, OR STANDARD IS CONSIDERED TO BE MORE STRINGENT IF IT
+21 IMPOSES A SAFETY REQUIREMENT OR OBLIGATION ON EMPLOYERS THAT IS
+22 STRICTER OR MORE DEMANDING THAN WHAT IS OTHERWISE IMPOSED BY
+23 LAW OR IF IT PROVIDES FOR GREATER RIGHTS, BENEFITS, REMEDIES, OR
+24 PROCEDURES FOR WORKERS THAN WHAT IS OTHERWISE PROVIDED BY LAW.
+25 (5) "WORKER ORGANIZATION" MEANS A COMMUNITY-BASED
+26 NONPROFIT OR MEMBERSHIP-BASED ORGANIZATION DEDICATED TO
+27 SUPPORTING WORKERS, ASSISTING WORKERS WITH MUTUAL AID OR
+-3- 1054
+
+1 PROTECTION IN CONNECTION WITH WORK, OR EMPOWERING VULNERABLE
+2 WORKERS.
+3 (6) "WORKPLACE" MEANS ANY PLACE WHERE AN EMPLOYER
+4 REQUIRES A WORKER TO PERFORM TASKS, JOBS, OR PROJECTS FOR
+5 COMPENSATION.
+6 8-14.4-203. General duty to maintain a safe workplace.
+7 (1) AN EMPLOYER SHALL ENSURE THE EMPLOYER'S WORKPLACE IS
+8 FREE FROM RECOGNIZED HAZARDS, WHICH DUTY SHALL BE INTERPRETED
+9 CONSISTENT WITH THE FEDERAL OCCUPATIONAL SAFETY AND HEALTH
+10 ADMINISTRATION'S INTERPRETATION OF THE GENERAL DUTY CLAUSE OF
+11 THE OSH ACT, 29 U.S.C. SEC. 654 (a)(1), AS OF SEPTEMBER 1, 2025.
+12 (2) AN EMPLOYER HAS THE GENERAL DUTY TO:
+13 (a) ENSURE THAT EACH WORKPLACE IS CONSTRUCTED, EQUIPPED,
+14 ARRANGED, OPERATED, AND CONDUCTED IN A MANNER AS TO PROVIDE
+15 REASONABLE AND ADEQUATE PROTECTION TO THE LIVES, HEALTH, AND
+16 SAFETY OF ALL INDIVIDUALS EMPLOYED OR WORKING IN THE WORKPLACE;
+17 AND
+18 (b) COMPLY WITH STANDARDS FOR WORKPLACE HEALTH AND
+19 SAFETY THAT THE ATTORNEY GENERAL ADOPTS BY RULE PURSUANT TO
+20 THIS PART 2.
+21 8-14.4-204. Enforcement - referral to state or local authorities
+22 - statutory damages - civil action - injunction - withdrawal from
+23 dangerous workplace.
+24 (1) THE ATTORNEY GENERAL MAY REFER WORKPLACE HEALTH
+25 AND SAFETY CONCERNS TO RELEVANT STATE OR LOCAL AUTHORITIES,
+26 INCLUDING THOSE CHARGED WITH ENFORCING BUILDING CODES,
+27 SANITATION, FIRE RISK PREVENTION, AND INDUSTRIAL HAZARD
+-4- 1054
+
+1 PREVENTION.
+2 (2) (a) THE ATTORNEY GENERAL, A LABOR ORGANIZATION, A
+3 WORKER ORGANIZATION, OR A PERSON AGGRIEVED BY A VIOLATION OF
+4 THIS PART 2 MAY FILE A CIVIL ACTION AGAINST AN EMPLOYER THAT
+5 VIOLATES THIS PART 2 FOR ALL AVAILABLE EQUITABLE RELIEF, INCLUDING
+6 THE PREVENTION OF UNJUST ENRICHMENT; INJUNCTION; THE DETERRENCE
+7 OF THE USE OF DANGEROUS MACHINERY, EQUIPMENT, OR DEVICES; AND
+8 THE PREVENTION OF FURTHER WORK IN OR OCCUPANCY OF A DANGEROUS
+9 WORKPLACE.
+10 (b) AN ACTION BROUGHT BY AN AGGRIEVED PERSON PURSUANT TO
+11 THIS SECTION MAY BE BROUGHT BY ONE OR MORE WORKERS ON BEHALF OF
+12 THEMSELVES OR OTHER WORKERS SIMILARLY SITUATED.
+13 (c) IF A COURT IMPOSES AN INJUNCTION OR A STOP WORK ORDER
+14 LIMITING WORK OR PROHIBITING THE USE OF DANGEROUS MACHINERY,
+15 EQUIPMENT, OR DEVICES OR AN INJUNCTION OR A STOP WORK ORDER FOR
+16 A DANGEROUS WORKPLACE, THE EMPLOYER MUST EITHER:
+17 (I) REASSIGN WORKERS TO WORK THAT DOES NOT INVOLVE
+18 DANGEROUS MACHINERY, EQUIPMENT, OR DEVICES AND THAT DOES NOT
+19 OCCUR IN THE DANGEROUS WORKPLACE; OR
+20 (II) PAY WORKERS AT THEIR REGULAR RATE OF PAY FOR AT LEAST
+21 THE FIRST TEN REGULAR WORKING DAYS IF THEY ARE UNABLE TO WORK
+22 DUE TO THE INJUNCTION OR STOP WORK ORDER.
+23 (d) THE COURT MAY AWARD A PERSON FOUND TO HAVE BEEN
+24 AGGRIEVED BY A VIOLATION OF THIS PART 2 STATUTORY DAMAGES IN AN
+25 AMOUNT NOT TO EXCEED ONE THOUSAND DOLLARS PER VIOLATION,
+26 EXCEPT IF THE EMPLOYER:
+27 (I) REPEATEDLY VIOLATES THIS PART 2 OR RULES ADOPTED
+-5- 1054
+
+1 PURSUANT TO SECTION 8-14.4-205, IN WHICH CASE THE STATUTORY
+2 DAMAGES FOR THE SECOND VIOLATION OR ANY SUBSEQUENT VIOLATION
+3 MUST NOT EXCEED TEN THOUSAND DOLLARS; OR
+4 (II) WILLFULLY VIOLATES THIS PART 2 OR RULES ADOPTED
+5 PURSUANT TO SECTION 8-14.4-205 OR DEMONSTRATES PLAIN
+6 INDIFFERENCE TO THIS PART 2 OR RULES ADOPTED PURSUANT TO SECTION
+7 8-14.4-205, IN WHICH CASE THE STATUTORY DAMAGES FOR EACH
+8 VIOLATION MUST NOT EXCEED SEVENTY THOUSAND DOLLARS PER
+9 VIOLATION.
+10 (e) IN ADDITION TO OTHER RELIEF AUTHORIZED BY THIS SECTION,
+11 THE COURT MAY ORDER AN EMPLOYER THAT VIOLATES THIS SECTION TO
+12 PAY A PENALTY FOR EACH VIOLATION OF THIS PART 2 OR RULES ADOPTED
+13 PURSUANT TO SECTION 8-14.4-205. PENALTIES IMPOSED PURSUANT TO
+14 THIS SUBSECTION (2)(e) SHALL BE CREDITED TO THE WORKPLACE HEALTH
+15 AND SAFETY FUND CREATED IN SECTION 24-31-108 (7)(a). THE PENALTIES
+16 MUST NOT EXCEED ONE THOUSAND DOLLARS PER VIOLATION, EXCEPT IF
+17 THE EMPLOYER:
+18 (I) REPEATEDLY VIOLATES THIS PART 2 OR RULES ADOPTED
+19 PURSUANT TO SECTION 8-14.4-205, IN WHICH CASE THE PENALTY FOR THE
+20 SECOND VIOLATION OR ANY SUBSEQUENT VIOLATION MUST NOT EXCEED
+21 TEN THOUSAND DOLLARS; OR
+22 (II) WILLFULLY VIOLATES THIS PART 2 OR RULES ADOPTED
+23 PURSUANT TO SECTION 8-14.4-205 OR DEMONSTRATES PLAIN
+24 INDIFFERENCE TO THIS PART 2 OR RULES ADOPTED PURSUANT TO SECTION
+25 8-14.4-205, IN WHICH CASE THE PENALTY FOR EACH VIOLATION SHALL NOT
+26 EXCEED SEVENTY THOUSAND DOLLARS.
+27 (f) A COURT MAY AWARD THE ATTORNEY GENERAL, A LABOR
+-6- 1054
+
+1 ORGANIZATION, A WORKER ORGANIZATION, OR A PERSON FOUND TO HAVE
+2 BEEN AGGRIEVED BY A VIOLATION OF THIS PART 2 REASONABLE COSTS
+3 AND ATTORNEY FEES INCURRED.
+4 (g) EACH DAY A VIOLATION OF THIS PART 2 CONTINUES
+5 CONSTITUTES A SEPARATE AND DISTINCT OFFENSE, AND EMPLOYMENT OF
+6 ANY WORKER IN VIOLATION OF THIS PART 2 CONSTITUTES, WITH RESPECT
+7 TO EACH WORKER EMPLOYED, A SEPARATE AND DISTINCT OFFENSE.
+8 (h) THIS PART 2 SHALL NOT BE CONSTRUED TO REPLACE THE
+9 "WORKERS' COMPENSATION ACT OF COLORADO", ARTICLES 40 TO 47 OF
+10 THIS TITLE 8, AS THE APPROPRIATE MECHANISM FOR ADDRESSING
+11 JOB-RELATED INJURIES.
+12 (i) THIS PART 2 SHALL NOT BE CONSTRUED TO AUTHORIZE
+13 INJUNCTIVE RELIEF THAT HAS THE PRIMARY PURPOSE OR EFFECT OF
+14 INTERFERING WITH LAWFUL, CONSTITUTIONALLY PROTECTED ACTIVITY OF
+15 THE PRESS, UNLESS SUCH RELIEF IS NECESSARY AND NARROWLY TAILORED
+16 TO REMEDY A SPECIFIC WORKPLACE HEALTH OR SAFETY HAZARD.
+17
+18 8-14.4-205. Rules.
+19 (1) IF, AT ANY TIME AFTER SEPTEMBER 1, 2025, ANY OSH ACT
+20 HEALTH OR SAFETY STANDARD, OR RULE ADOPTED THEREUNDER, IS
+21 REPEALED OR REVOKED, THE ATTORNEY GENERAL MAY, AS SOON AS
+22 PRACTICABLE, ADOPT RULES ESTABLISHING A STATE STANDARD FOR
+23 EMPLOYERS IN THE STATE THAT IS AS STRINGENT AS OR MORE STRINGENT
+24 THAN THE FEDERAL OCCUPATIONAL HEALTH OR SAFETY STANDARD BEING
+25 REPEALED OR REVOKED AS A MINIMUM STANDARD FOR EMPLOYERS IN THIS
+26 STATE.
+27 (2) ANY STANDARD ADOPTED PURSUANT TO SUBSECTION (1) OF
+-7- 1054
+
+1 THIS SECTION MAY BE ENFORCED THROUGH SECTION 8-14.4-204.
+2 (3) THE ATTORNEY GENERAL MAY ADOPT RULES AS NECESSARY TO
+3 IMPLEMENT THIS PART 2.
+4 SECTION 2. In Colorado Revised Statutes, 24-31-1302, add (3)
+5 and (4) as follows:
+6 24-31-1302. Worker and employee protection unit - creation
+7 - duties - court order - injunctive relief - attorney fees.
+8 (3) IF A PERSON, OR AN AGENT THEREOF, FAILS TO OBEY AN
+9 INVESTIGATIVE DEMAND, SUBPOENA, WARRANT, OR OTHER INVESTIGATIVE
+10 PROCESS ISSUED OR CONDUCTED PURSUANT TO SUBSECTION (2) OF THIS
+11 SECTION, THE ATTORNEY GENERAL MAY APPLY TO THE APPROPRIATE
+12 DISTRICT COURT FOR AN ORDER TO EFFECT THE PURPOSES OF THIS SECTION.
+13 THE APPLICATION MUST STATE REASONABLE GROUNDS ON WHICH THE
+14 ATTORNEY GENERAL BELIEVES THAT THE ORDER IS NECESSARY TO
+15 INVESTIGATE A DEPRIVATION OF A PERSON'S RIGHTS, PRIVILEGES, OR
+16 IMMUNITIES SECURED OR PROTECTED BY THE STATE CONSTITUTION OR
+17 LAWS OF THE UNITED STATES OR THE STATE OF COLORADO. IF THE COURT
+18 IS SATISFIED THAT REASONABLE GROUNDS EXIST, THE COURT IN ITS ORDER
+19 MAY:
+20 (a) REQUIRE THE ATTENDANCE OF OR THE PRODUCTION OF
+21 DOCUMENTS BY A PERSON, OR BOTH;
+22 (b) GRANT INJUNCTIVE RELIEF AS NECESSARY TO OBTAIN
+23 COMPLIANCE WITH INVESTIGATIVE DEMANDS, SUBPOENAS, WARRANTS, OR
+24 OTHER INVESTIGATIVE PROCESSES ISSUED OR CONDUCTED PURSUANT TO
+25 SUBSECTION (2) OF THIS SECTION; AND
+26 (c) GRANT FURTHER RELIEF AS MAY BE NECESSARY TO OBTAIN
+27 COMPLIANCE WITH INVESTIGATIVE DEMANDS, SUBPOENAS, WARRANTS, OR
+-8- 1054
+
+1 OTHER INVESTIGATIVE PROCESSES ISSUED OR CONDUCTED PURSUANT TO
+2 SUBSECTION (2) OF THIS SECTION.
+3 (4) COSTS AND ATTORNEY FEES SHALL BE AWARDED TO THE
+4 ATTORNEY GENERAL WHERE THE ATTORNEY GENERAL SUCCESSFULLY
+5 ENFORCES THIS SECTION.
+6 SECTION 3. In Colorado Revised Statutes, 24-31-1303, amend
+7 (1)(b) and (2)(b); and add (3) as follows:
+8 24-31-1303. Worker misclassification - wage determinations
+9 - investigation and enforcement by the unit - coordination with
+10 department of labor and employment.
+11 (1) (b) The unit may investigate and enforce an alleged
+12 misclassification that is not described in subsection (1)(a) of this section
+13 if the unit provides written notice to the division of unemployment
+14 insurance of the unit's intent to pursue a misclassification investigation.
+15 and the division of unemployment insurance:
+16 (I) Declines to investigate the matter;
+17 (II) Has investigated the matter and made a formal determination;
+18 or
+19 (III) Fails to respond to the unit within thirty days after the date
+20 of the notice.
+21 (2) (b) If the division of labor standards and statistics has not
+22 referred a wage determination to the unit, the unit may enforce the wage
+23 determination if the unit provides written notice to the division of labor
+24 standards and statistics of the unit's intent to enforce the wage
+25 determination. and the division of labor standards and statistics:
+26 (I) Declines to pursue enforcement of the wage determination;
+27 (II) Has attempted to pursue enforcement of the wage
+-9- 1054
+
+1 determination and has been unsuccessful in enforcing the determination
+2 in full after the later of twelve months after the determination or the
+3 conclusion of any appeals;
+4 (III) Fails to respond to the unit within thirty days after the date
+5 of the notice; or
+6 (IV) Has not initiated an investigation.
+7 (3) THE UNIT MAY INVESTIGATE AND ENFORCE AN ALLEGED
+8 VIOLATION OF PART 2 OF ARTICLE 14.4 OF TITLE 8.
+9 SECTION 4. In Colorado Revised Statutes, 24-31-101, amend
+10 (1)(i)(XXX) and (1)(i)(XXXI); and add (1)(i)(XXXII) as follows:
+11 24-31-101. Powers and duties of attorney general.
+12 (1) The attorney general:
+13 (i) May independently initiate and bring civil and criminal actions
+14 to enforce state laws, including actions brought pursuant to:
+15 (XXX) Beginning January 1, 2026, part 10 of article 12 of title 38;
+16 and
+17 (XXXI) Section 13-16-126; AND
+18 (XXXII) PART 2 OF ARTICLE 14.4 OF TITLE 8.
+19 SECTION 5. In Colorado Revised Statutes, 8-14.4-101, amend
+20 the introductory portion as follows:
+21 8-14.4-101. Definitions.
+22 As used in this article 14.4 PART 1, unless the context otherwise
+23 requires:
+24 SECTION 6. In Colorado Revised Statutes, 8-14.4-102, amend
+25 (2)(b) and (4) as follows:
+26 8-14.4-102. Prohibition against discrimination based on claims
+27 related to health and safety.
+-10- 1054
+
+1 (2) (b) A contract or agreement that violates subsection (2)(a) of
+2 this section is void and unenforceable as contrary to the public policy of
+3 this state. A principal's attempt to impose such a contract or agreement is
+4 an adverse action in violation of this article 14.4 PART 1.
+5 (4) A principal shall not discriminate, take adverse action, or
+6 retaliate against a worker based on the worker opposing any practice the
+7 worker reasonably believes is unlawful under this article 14.4 PART 1 or
+8 for making a charge, testifying, assisting, or participating in any manner
+9 in an investigation, proceeding, or hearing as to any matter the worker
+10 reasonably believes to be unlawful under this article 14.4 PART 1.
+11 SECTION 7. In Colorado Revised Statutes, 8-14.4-103, amend
+12 (1) as follows:
+13 8-14.4-103. Principal post notice of rights - rules.
+14 (1) A principal shall post notice of a worker's rights under this
+15 article 14.4 PART 1 in a conspicuous location on the principal's premises.
+16 SECTION 8. In Colorado Revised Statutes, 8-14.4-104, amend
+17 (1) introductory portion as follows:
+18 8-14.4-104. Relief for aggrieved person.
+19 (1) A person may seek relief for a violation of this article 14.4
+20 PART 1 by:
+21 SECTION 9. In Colorado Revised Statutes, 8-14.4-105, amend
+22 (1)(a), (1)(b)(I), and (2)(a) as follows:
+23 8-14.4-105. Enforcement by the division - rules.
+24 (1) (a) Within two years after an alleged violation of this article
+25 14.4 PART 1, an aggrieved individual or whistleblower may file a
+26 complaint against a principal with the division as specified in this
+27 subsection (1).
+-11- 1054
+
+1 (b) Until the date the division makes a complaint form publicly
+2 available:
+3 (I) An aggrieved individual or whistleblower may file a complaint
+4 of a violation of this article 14.4 PART 1 with the division in any form, by
+5 mail or electronic mail;
+6 (2) The division shall either:
+7 (a) Investigate alleged principal violations of, or interference with
+8 rights or responsibilities under, this article 14.4 PART 1 and complaints
+9 filed with the division by aggrieved individuals and whistleblowers; or
+10 SECTION 10. In Colorado Revised Statutes, 8-14.4-106, amend
+11 (1), (2) introductory portion, (3)(a), (3)(b), and (4) as follows:
+12 8-14.4-106. Relief authorized.
+13 (1) An aggrieved individual may, within ninety days after
+14 exhausting administrative remedies pursuant to section 8-14.4-105,
+15 commence an action in district court against a principal for a violation of
+16 this article 14.4 PART 1.
+17 (2) A court may order affirmative relief that the court determines
+18 to be appropriate, including the following relief, against a respondent who
+19 is found to have engaged in a discriminatory, adverse, or retaliatory
+20 employment practice prohibited by this article 14.4 PART 1:
+21 (3) (a) In addition to the relief available pursuant to subsection (2)
+22 of this section, in a civil action brought by a plaintiff under this article
+23 14.4 PART 1 against a defendant who is found to have engaged in an
+24 intentional discriminatory, adverse, or retaliatory employment practice,
+25 the plaintiff may recover compensatory and punitive damages as specified
+26 in this subsection (3).
+27 (b) A plaintiff may recover punitive damages against a defendant
+-12- 1054
+
+1 if the plaintiff demonstrates by clear and convincing evidence that the
+2 defendant engaged in a discriminatory, adverse, or retaliatory
+3 employment practice with malice or reckless indifference to the rights of
+4 the plaintiff. However, if the defendant demonstrates good faith efforts
+5 to comply with this article 14.4 PART 1 and to prevent discriminatory,
+6 adverse, and retaliatory employment practices in the workplace, the court
+7 shall not award punitive damages against the defendant.
+8 (4) If a plaintiff in a civil action filed under this article 14.4 PART
+9 1 seeks compensatory or punitive damages pursuant to subsection (3) of
+10 this section, any party to the civil action may demand a trial by jury.
+11 SECTION 11. In Colorado Revised Statutes, 8-14.4-107, amend
+12 (1), (2)(a), (2)(b), and (3)(a) as follows:
+13 8-14.4-107. Whistleblower enforcement - qui tam - definition.
+14 (1) As used in this section, "whistleblower" means a worker with
+15 knowledge of an alleged violation of this article 14.4 PART 1 or the
+16 worker's representative.
+17 (2) (a) A whistleblower who has exhausted the administrative
+18 remedies pursuant to section 8-14.4-105 may bring a civil action against
+19 a principal for a violation of this article 14.4 PART 1 on behalf of the state
+20 in district court pursuant to this section. The state may intervene in the
+21 action to prosecute in its own name.
+22 (b) At the time that the action is filed, the whistleblower shall give
+23 written notice to the division of the specific provisions of this article 14.4
+24 PART 1 alleged to have been violated.
+25 (3) The proceeds of any judgment entered pursuant to this section
+26 shall be distributed as follows:
+27 (a) Seventy-five percent to the division for enforcement of this
+-13- 1054
+
+1 article 14.4 PART 1; and
+2 SECTION 12. In Colorado Revised Statutes, 24-31-108, amend
+3 (4) and add (7) as follows:
+4 24-31-108. Receipt of money - subject to appropriation -
+5 exception for custodial money - legal services cash fund - creation -
+6 workplace health and safety fund - creation - definition.
+7 (4) There is hereby created in the state treasury the legal services
+8 cash fund. also referred to in this subsection (4) as the "fund" The
+9 department shall transmit all money received from state agencies as
+10 payment for legal services to the state treasurer, who shall credit the same
+11 to the LEGAL SERVICES CASH fund. The money in the LEGAL SERVICES
+12 CASH fund and all interest earned on such money is subject to annual
+13 appropriation by the general assembly to the department for the direct and
+14 indirect costs associated with providing legal services to state
+15 governmental entities and for any of the department's litigation expenses.
+16 Any unexpended money in the LEGAL SERVICES CASH fund at the end of
+17 the fiscal year remains in the LEGAL SERVICES CASH fund and shall not be
+18 credited or transferred to any other fund.
+19 (7) (a) THE STATE TREASURER SHALL CREDIT PENALTIES
+20 COLLECTED FOR THE STATE PURSUANT TO PART 2 OF ARTICLE 14.4 OF
+21 TITLE 8 TO THE WORKPLACE HEALTH AND SAFETY FUND, WHICH FUND IS
+22 CREATED IN THE STATE TREASURY. THE MONEY IN THE WORKPLACE
+23 HEALTH AND SAFETY FUND MAY BE USED BY THE ATTORNEY GENERAL TO
+24 COVER DIRECT AND INDIRECT COSTS ASSOCIATED WITH:
+25 (I) ENFORCEMENT ACTIVITIES AUTHORIZED IN PART 2 OF ARTICLE
+26 14.4 OF TITLE 8;
+27 (II) CREATING, DISTRIBUTING, SHARING, AND PUBLICIZING
+-14- 1054
+
+1 MATERIALS DESIGNED TO EDUCATE WORKERS AND EMPLOYERS ABOUT
+2 THEIR OBLIGATIONS UNDER THE FEDERAL "OCCUPATIONAL SAFETY AND
+3 HEALTH ACT OF 1970", 29 U.S.C. SEC. 651 ET SEQ.; PART 2 OF ARTICLE
+4 14.4 OF TITLE 8; AND RELATED REGULATIONS AND POLICIES; AND
+5 (III) RULE-MAKING CONDUCTED PURSUANT TO PART 2 OF ARTICLE
+6 14.4 OF TITLE 8.
+7 (b) (I) MONEY IN THE WORKPLACE HEALTH AND SAFETY FUND IS
+8 ANNUALLY APPROPRIATED TO THE ATTORNEY GENERAL FOR USE IN
+9 IMPLEMENTING THE PURPOSES SET FORTH IN SUBSECTION (7)(a) OF THIS
+10 SECTION.
+11 (II) THE STATE TREASURER MAY INVEST ANY MONEY IN THE
+12 WORKPLACE HEALTH AND SAFETY FUND NOT EXPENDED PURSUANT TO
+13 SUBSECTION (7)(a) OF THIS SECTION FOR THE PURPOSES OF PART 2 OF
+14 ARTICLE 14.4 OF TITLE 8 AS PROVIDED BY LAW. THE STATE TREASURER
+15 SHALL CREDIT ALL INTEREST AND INCOME DERIVED FROM THE
+16 INVESTMENT AND DEPOSIT OF MONEY IN THE WORKPLACE HEALTH AND
+17 SAFETY FUND TO THE WORKPLACE HEALTH AND SAFETY FUND. ANY
+18 UNEXPENDED AND UNENCUMBERED MONEY REMAINING IN THE
+19 WORKPLACE HEALTH AND SAFETY FUND AT THE END OF A FISCAL YEAR
+20 REMAINS IN THE WORKPLACE HEALTH AND SAFETY FUND AND SHALL NOT
+21 BE CREDITED OR TRANSFERRED TO THE GENERAL FUND OR ANOTHER FUND.
+22 (c) THE LIMITATIONS SPECIFIED IN SECTION 24-75-402 DO NOT
+23 APPLY TO THE WORKPLACE HEALTH AND SAFETY FUND.
+24 SECTION 13. Applicability. This act applies to conduct
+25 occurring on or after the effective date of this act.
+26 SECTION 14. Safety clause. The general assembly finds,
+27 determines, and declares that this act is necessary for the immediate
+-15- 1054
+
+1 preservation of the public peace, health, or safety or for appropriations for
+2 the support and maintenance of the departments of the state and state
+3 institutions.
+-16- 1054

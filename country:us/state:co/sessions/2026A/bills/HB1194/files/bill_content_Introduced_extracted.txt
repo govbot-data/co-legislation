@@ -1,0 +1,381 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0358.01 Renee Leone x2695 HOUSE BILL 26-1194
+HOUSE SPONSORSHIP
+English and Barron,
+SENATE SPONSORSHIP
+Hinrichsen,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THE CONTINUATION OF THE OFFICE OF COMBATIVE
+102 SPORTS, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE
+103 RECOMMENDATIONS OF THE DEPARTMENT OF REGULATORY
+104 AGENCIES IN THE DEPARTMENT'S 2025 SUNSET REPORT.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Sunset Process - House Health and Human Services
+Committee. The bill implements the recommendations of the department
+of regulatory agencies in its 2025 sunset review and report.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Section 1 of the bill changes the name of the "Colorado
+Professional Boxing Safety Act" to the "Colorado Combative Sports
+Safety Act". Sections 4, 5, 8, 12, and 13 update terms that reference
+boxing to better align with the new title.
+Sections 2 and 3 continue the "Colorado Combative Sports Safety
+Act" and the office of combative sports (office), including the Colorado
+combative sports commission (commission), for 11 years, until 2037.
+Section 6 grants the 2 physician members of the commission the
+power to vote with the other members and clarifies that the physician
+members must have experience or training in emergency, sports, or
+combative sports medicine.
+Section 9 directs the office director to gather safety data related to
+combative sports to provide to the commission.
+Section 7 directs the commission to consider the safety data
+collected by the office director during the commission's rule-making and
+requires the commission to identify, by rule, the combative sports to
+which the "Colorado Combative Sports Safety Act" applies.
+Section 10 adds, to the combative sports statutes pertaining to
+grounds for discipline, that the director of the division of professions and
+occupations (division) may discipline a licensee or an applicant for a
+license for failing to respond to a letter from the division regarding a
+complaint against the licensee or applicant within the length of time for
+response specified in the letter. Section 10 also removes the requirement
+that a letter of admonition sent to a licensee or applicant be sent by
+certified mail.
+Section 11 prohibits a promoter or matchmaker from having a
+financial interest in the management of a combative sports participant
+(participant) and prohibits a manager from:
+! Having a financial interest in the promotion of a
+participant;
+! Being employed by a promoter or matchmaker; or
+! Receiving compensation or other benefits from a promoter
+or matchmaker beyond the amount received as
+consideration pursuant to the manager's contract with the
+participant.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend 12-110-101
+3 as follows:
+4 12-110-101. Short title.
+5 The short title of this article 110 is the "Colorado Professional
+-2- HB26-1194
+
+1 Boxing Safety Act" "COLORADO COMBATIVE SPORTS SAFETY ACT".
+2 SECTION 2. In Colorado Revised Statutes, amend 12-110-116
+3 as follows:
+4 12-110-116. Repeal of article - subject to review.
+5 This article 110 is repealed, effective September 1, 2026
+6 SEPTEMBER 1, 2037. Before the repeal, the office and the commission are
+7 scheduled for review in accordance with section 24-34-104.
+8 SECTION 3. In Colorado Revised Statutes, 24-34-104, repeal
+9 (27)(a)(V); and add (38)(a)(II) as follows:
+10 24-34-104. General assembly review of regulatory agencies
+11 and functions for repeal, continuation, or reestablishment - legislative
+12 declaration - repeal.
+13 (27) (a) The following agencies, functions, or both, are scheduled
+14 for repeal on September 1, 2026:
+15 (V) The office of combative sports, including the Colorado
+16 combative sports commission, created in article 110 of title 12;
+17 (38) (a) The following agencies, functions, or both, are scheduled
+18 for repeal on September 1, 2037:
+19 (II) THE OFFICE OF COMBATIVE SPORTS, INCLUDING THE
+20 COLORADO COMBATIVE SPORTS COMMISSION, CREATED IN ARTICLE 110 OF
+21 TITLE 12.
+22 SECTION 4. In Colorado Revised Statutes, amend 12-110-102
+23 as follows:
+24 12-110-102. Legislative declaration.
+25 (1) The general assembly hereby finds, determines, and declares
+26 that the federal "Professional Boxing Safety Act of 1996", 15 U.S.C. sec.
+27 6301 et seq., as amended, requires the state of Colorado to establish a
+-3- HB26-1194
+
+1 state boxing commission. Because there is no state boxing commission,
+2 any professional boxing match held in Colorado has to be supervised by
+3 another state's boxing commission, using safety guidelines and procedures
+4 implemented by that state THE STATE HAS THEREFORE CREATED THE
+5 COLORADO COMBATIVE SPORTS COMMISSION.
+6 (2) The general assembly further finds and declares that it is in the
+7 best interests of the residents of Colorado, professional boxing
+8 COMBATIVE SPORTS participants, and the future of the sport of boxing
+9 COMBATIVE SPORTS in Colorado that the conduct of the sport COMBATIVE
+10 SPORTS be subject to an effective and efficient system of strict control
+11 designed by the general assembly. The system shall, at a minimum:
+12 (a) Protect the safety of the participants; and
+13 (b) Promote the public trust and confidence in the conduct of
+14 professional boxing COMBATIVE SPORTS.
+15 (3) To further public confidence and trust, this article 110 and
+16 rules promulgated ADOPTED pursuant to this article 110 shall regulate all
+17 persons, practices, and associations that relate to the operation of live
+18 professional boxing COMBATIVE SPORTS events, performances, or contests
+19 held in Colorado.
+20 SECTION 5. In Colorado Revised Statutes, 12-110-104, amend
+21 (5), (8), (12), (14), (16)(a)(II), and (16)(b)(II); repeal (1); and add (2.7),
+22 (6.8), (8.1), and (15.4) as follows:
+23 12-110-104. Definitions.
+24 As used in this article 110, unless the context otherwise requires:
+25 (1) "Boxer" means an individual who participates in a boxing
+26 match.
+27 (2.7) (a) "COMBATIVE SPORT" OR "COMBATIVE SPORTS" MEANS A
+-4- HB26-1194
+
+1 COMPETITIVE PHYSICAL ACTIVITY THAT INVOLVES TWO OR MORE
+2 INDIVIDUALS ENGAGING IN COMBAT WITH RULES THAT GOVERN CONDUCT,
+3 CONTACT, SCORING, AND SAFETY.
+4 (b) "COMBATIVE SPORT" OR "COMBATIVE SPORTS" INCLUDES
+5 BOXING, KICKBOXING, MARTIAL ARTS, MIXED MARTIAL ARTS, MUAY THAI,
+6 AND ANY OTHER COMBATIVE SPORT THE COMMISSION DEEMS, BY RULE, TO
+7 BE REGULATED PURSUANT TO THIS ARTICLE 110.
+8 (5) "Exhibition" means a match in which participants display their
+9 boxing COMBATIVE SPORTS skills and techniques without striving
+10 earnestly to win.
+11 (6.8) "MANAGER" MEANS A PERSON THAT PROPOSES, SELECTS, AND
+12 ARRANGES THE CONTESTANTS TO PARTICIPATE IN A PROFESSIONAL
+13 COMBATIVE SPORTS MATCH.
+14 (8) "Match" means a professional boxing COMBATIVE SPORTS
+15 contest or exhibition, the object of which is to win by a decision,
+16 knockout, or technical knockout, and includes an event, engagement,
+17 sparring or practice session, show, or program where the public is
+18 admitted and there is intended to be physical contact. "Match" does not
+19 include a training or practice session when no A COST FOR admission is
+20 NOT charged.
+21 (8.1) "MATCHMAKER" MEANS A PERSON THAT:
+22 (a) PROPOSES, ARRANGES, OR SECURES A PARTICIPANT FOR A
+23 PROFESSIONAL COMBATIVE SPORTS MATCH; OR
+24 (b) ASSISTS A PROMOTER IN PROPOSING, ARRANGING, OR SECURING
+25 A PARTICIPANT FOR A PROFESSIONAL COMBATIVE SPORTS MATCH.
+26 (12) "Participant" means a person AN INDIVIDUAL who engages in
+27 a match. as a boxing contestant.
+-5- HB26-1194
+
+1 (14) "Place of training" means a facility where alcohol beverages
+2 are not permitted, an admission fee is not charged for nonstudents,
+3 instructors of particular disciplines train students in the art of boxing
+4 COMBATIVE SPORTS, and students pay a fee to be enrolled in classes and
+5 receive instruction.
+6 (15.4) (a) "PROMOTER" MEANS A PERSON PRIMARILY RESPONSIBLE
+7 FOR ORGANIZING, PROMOTING, AND PRODUCING A PROFESSIONAL
+8 COMBATIVE SPORTS MATCH.
+9 (b) "PROMOTER" DOES NOT INCLUDE A HOTEL, CASINO, RESORT, OR
+10 OTHER COMMERCIAL ESTABLISHMENT HOSTING OR SPONSORING A
+11 PROFESSIONAL COMBATIVE SPORTS MATCH, UNLESS:
+12 (I) THE HOTEL, CASINO, RESORT, OR OTHER COMMERCIAL
+13 ESTABLISHMENT IS PRIMARILY RESPONSIBLE FOR ORGANIZING,
+14 PROMOTING, AND PRODUCING THE MATCH; AND
+15 (II) THERE IS NO OTHER PERSON PRIMARILY RESPONSIBLE FOR
+16 ORGANIZING, PROMOTING, AND PRODUCING THE MATCH.
+17 (16) (a) "Toughperson fighting" means:
+18 (II) A contest, match, tournament, exhibition, bout, or activity, as
+19 described in subsection (16)(a)(I) of this section, that is not recognized by
+20 and not sanctioned by any state, regional, or national boxing COMBATIVE
+21 SPORTS sanctioning authority that is recognized by the director.
+22 (b) "Toughperson fighting" does not mean:
+23 (II) A sanctioned boxing COMBATIVE SPORTS event approved by
+24 the commission.
+25 SECTION 6. In Colorado Revised Statutes, 12-110-106, amend
+26 (3); and add (2)(a.3) and (2)(a.5) as follows.
+27 12-110-106. Colorado combative sports commission - creation
+-6- HB26-1194
+
+1 - repeal.
+2 (2) (a.3) THIS SUBSECTION (2)(a.3) AND SUBSECTION (2)(a) OF THIS
+3 SECTION ARE REPEALED, EFFECTIVE SEPTEMBER 1, 2026.
+4 (a.5) (I) ON AND AFTER SEPTEMBER 1, 2026, THE COMMISSION
+5 CONSISTS OF SEVEN MEMBERS. ALL MEMBERS ARE VOTING MEMBERS AND
+6 MUST BE RESIDENTS OF COLORADO, BE OF GOOD CHARACTER, AND NOT
+7 HAVE BEEN CONVICTED OF ANY FELONY OR MATCH-RELATED OFFENSE,
+8 NOTWITHSTANDING SECTION 24-5-101. THE MEMBERS SHALL BE
+9 APPOINTED AS FOLLOWS:
+10 (A) THE GOVERNOR SHALL APPOINT THREE MEMBERS;
+11 (B) THE PRESIDENT OF THE SENATE SHALL APPOINT TWO MEMBERS,
+12 ONE OF WHOM MUST BE A PHYSICIAN WHO HAS RELEVANT EXPERIENCE OR
+13 TRAINING IN EMERGENCY, SPORTS, OR COMBATIVE SPORTS MEDICINE; AND
+14 (C) THE SPEAKER OF THE HOUSE OF REPRESENTATIVES SHALL
+15 APPOINT TWO MEMBERS, ONE OF WHOM MUST BE A PHYSICIAN WHO HAS
+16 RELEVANT EXPERIENCE OR TRAINING IN EMERGENCY, SPORTS, OR
+17 COMBATIVE SPORTS MEDICINE.
+18 (II) THE TWO PHYSICIAN MEMBERS SHALL ADVISE THE COMMISSION
+19 ON MATTERS CONCERNING THE HEALTH AND PHYSICAL CONDITION OF
+20 PARTICIPANTS AND HEALTH ISSUES RELATING TO THE CONDUCT OF
+21 MATCHES. THE PHYSICIAN MEMBERS MAY PREPARE AND SUBMIT TO THE
+22 COMMISSION FOR ITS CONSIDERATION AND APPROVAL ANY RULES THAT IN
+23 THEIR JUDGMENT WILL SAFEGUARD THE PHYSICAL WELFARE OF THE
+24 PARTICIPANTS ENGAGED IN COMBATIVE SPORTS.
+25 (3) Meetings of the commission shall be held at least annually,
+26 and shall be called by the chair or by any two members of the
+27 commission, and shall MUST be open to the public. Any three voting
+-7- HB26-1194
+
+1 FOUR members shall constitute a quorum at any meeting. Action may be
+2 taken and motions and resolutions may be adopted at any meeting at
+3 which a quorum exists by the affirmative vote of a majority of the voting
+4 members present. Members may participate in a regular or special
+5 meeting by, or conduct the meeting through the use of, any means of
+6 communication by which all members participating may simultaneously
+7 hear one another at all times during the meeting. A member participating
+8 in a meeting by this means is deemed to be present in person at the
+9 meeting.
+10 SECTION 7. In Colorado Revised Statutes, 12-110-107, amend
+11 (1) introductory portion, (1)(a), (1)(k), and (1)(l)(III); and add (1)(m),
+12 (1.1), and (1.5) as follows:
+13 12-110-107. General powers and duties of the commission -
+14 rules.
+15 (1) In addition to any other powers specifically granted to the
+16 commission in this article 110, the commission shall issue ADOPT rules as
+17 necessary for the regulation of the conduct, promotion, and performance
+18 of live boxing matches in this state. The rules must be consistent with this
+19 article 110; the federal "Professional Boxing Safety Act of 1996", 15
+20 U.S.C. sec. 6301 et seq.; as amended, and any other applicable federal
+21 law. The commission's rules must include:
+22 (a) Requirements for issuance of licenses and permits for boxers
+23 PARTICIPANTS, seconds, inspectors, promoters, judges, and referees;
+24 (k) Regulation of facilities; and
+25 (l) Procedures to:
+26 (III) Allow the director to report a nondisciplinary participant
+27 license suspension to a national record keeper approved by the director;
+-8- HB26-1194
+
+1 AND
+2 (m) PROVISIONS INTENDED TO ENSURE THE HEALTH AND SAFETY
+3 OF PARTICIPANTS.
+4 (1.1) WHEN ADOPTING RULES INTENDED TO ENSURE THE HEALTH
+5 AND SAFETY OF PARTICIPANTS PURSUANT TO SUBSECTION (1)(m) OF THIS
+6 SECTION, THE COMMISSION SHALL REVIEW AND CONSIDER THE SAFETY
+7 DATA GATHERED AND PROVIDED TO IT BY THE OFFICE DIRECTOR PURSUANT
+8 TO SECTION 12-110-110 (3)(a)(IV).
+9 (1.5) THE COMMISSION SHALL IDENTIFY, BY RULE, THE COMBATIVE
+10 SPORTS TO WHICH THIS ARTICLE 110 APPLIES.
+11 SECTION 8. In Colorado Revised Statutes, amend 12-110-108
+12 as follows:
+13 12-110-108. License required.
+14 No A person shall NOT participate, officiate, judge, referee,
+15 promote, or second a professional boxing arts contest MATCH unless the
+16 person is licensed pursuant to this article 110.
+17 SECTION 9. In Colorado Revised Statutes, 12-110-110, amend
+18 (3)(a) introductory portion, (3)(a)(II), (3)(a)(III), (3)(b) introductory
+19 portion, and (3)(b)(II); and add (3)(a)(IV) as follows:
+20 12-110-110. Office director - appointment - qualification -
+21 powers and duties - director of division's powers and duties.
+22 (3) (a) In addition to the ALL OTHER duties imposed upon the
+23 office director elsewhere in this article 110, the office director shall, in
+24 accordance with this article 110 and the rules of the commission:
+25 (II) Supervise and administer the operation of matches; and
+26 (III) As deemed necessary by the director of the division, advise
+27 and make recommendations to the director of the division with regard to
+-9- HB26-1194
+
+1 the director of the division's functions; AND
+2 (IV) GATHER DATA RELATED TO ENSURING THE HEALTH AND
+3 SAFETY OF PARTICIPANTS TO PROVIDE TO THE COMMISSION FOR THE
+4 COMMISSION TO CONSIDER WHEN IT ISSUES RULES PURSUANT TO SECTION
+5 12-110-107.
+6 (b) In addition to the ALL OTHER duties imposed upon the director
+7 of the division elsewhere in this article 110, the director of the division
+8 shall:
+9 (II) Advise and recommend to the commission rules and other
+10 procedures as the director of the division deems necessary and advisable
+11 to improve the conduct of boxing COMBATIVE SPORTS;
+12 SECTION 10. In Colorado Revised Statutes, 12-110-111, amend
+13 (1) introductory portion, (1)(e), (1)(g)(I), (1)(h), and (2)(b)(IV); and add
+14 (1)(i) as follows:
+15 12-110-111. Grounds for discipline.
+16 (1) The director may take disciplinary or other action as
+17 authorized in section 12-20-404 against a license LICENSEE or an
+18 application APPLICANT for a license if the applicant or licensee:
+19 (e) Has incurred disciplinary action related to professional boxing
+20 COMBATIVE SPORTS in another jurisdiction. Evidence of disciplinary
+21 action is prima facie evidence for denial of a license or other disciplinary
+22 action if the violation would be grounds for disciplinary action in this
+23 state.
+24 (g) Is guilty of conduct, or is incompetent or negligent in a
+25 manner, that:
+26 (I) Is detrimental to a contest or exhibition of boxing MATCH,
+27 including unsportsmanlike conduct engaged in before, during, or after a
+-10- HB26-1194
+
+1 contest or exhibition of boxing; or MATCH;
+2 (h) Fails to comply with a limitation, restriction, or condition that
+3 the director or any other state or national regulatory authority responsible
+4 for regulating boxing COMBATIVE SPORTS places on the licensee or
+5 applicant; OR
+6 (i) FAILS TO RESPOND TO A LETTER FROM THE DIVISION REGARDING
+7 A COMPLAINT AGAINST THE LICENSEE OR APPLICANT WITHIN THE LENGTH
+8 OF TIME SPECIFIED IN THE LETTER.
+9 (2) (b) Upon completing an investigation in accordance with
+10 section 12-20-403, the director shall make one of the following findings:
+11 (IV) The investigation discloses an instance of conduct that does
+12 not warrant formal action but should not be dismissed as being without
+13 merit. If this finding is made, the director may send a letter of admonition
+14 to the licensee in accordance with section 12-20-404 (4). by certified
+15 mail.
+16 SECTION 11. In Colorado Revised Statutes, amend 12-110-112
+17 as follows:
+18 12-110-112. Toughperson fighting prohibited - promoter and
+19 manager financial interest prohibited.
+20 (1) (a) Toughperson fighting is prohibited in the state of Colorado.
+21 No A person or entity shall NOT promote, advertise, conduct, or compete
+22 or participate in toughperson fighting. No A license or permit shall NOT
+23 be issued for toughperson fighting or for any contests or exhibitions of a
+24 similar nature.
+25 (b) A VIOLATION OF SUBSECTION (1)(a) OF THIS SECTION IS A CLASS
+26 2 MISDEMEANOR AND SHALL BE PUNISHED AS PROVIDED IN SECTION
+27 18-1.3-501.
+-11- HB26-1194
+
+1 (2) Any violation of this section is a class 2 misdemeanor and
+2 shall be punished as provided in section 18-1.3-501.
+3 (3) A PROMOTER OR MATCHMAKER SHALL NOT HAVE A DIRECT OR
+4 INDIRECT FINANCIAL INTEREST IN THE MANAGEMENT OF A PARTICIPANT.
+5 (4) A MANAGER SHALL NOT:
+6 (a) HAVE A DIRECT OR INDIRECT FINANCIAL INTEREST IN THE
+7 PROMOTION OF A PARTICIPANT;
+8 (b) BE EMPLOYED BY A PROMOTER OR MATCHMAKER; OR
+9 (c) RECEIVE COMPENSATION OR OTHER BENEFIT FROM A PROMOTER
+10 OR MATCHMAKER, EXCEPT FOR AN AMOUNT RECEIVED AS CONSIDERATION
+11 PURSUANT TO THE MANAGER'S CONTRACT WITH THE PARTICIPANT.
+12 SECTION 12. In Colorado Revised Statutes, 12-110-115, amend
+13 (2) as follows:
+14 12-110-115. Violations.
+15 (2) Criminal penalties. Any A person who THAT engages in or
+16 offers or attempts to engage in the conduct, promotion, or performance
+17 of live boxing matches without an active license or permit issued under
+18 this article 110 is subject to penalties pursuant to section 12-20-407
+19 (1)(a).
+20 SECTION 13. In Colorado Revised Statutes, 12-20-407, amend
+21 (1)(a)(II) as follows:
+22 12-20-407. Unauthorized practice of profession or occupation
+23 - penalties - exclusions.
+24 (1) (a) A person commits a class 2 misdemeanor and shall be
+25 punished as provided in section 18-1.3-501 if the person:
+26 (II) Engages in or offers or attempts to engage in the conduct,
+27 promotion, or performance of live boxing matches without an active
+-12- HB26-1194
+
+1 license or permit issued under article 110 of this title 12;
+2 SECTION 14. Act subject to petition - effective date. This act
+3 takes effect at 12:01 a.m. on the day following the expiration of the
+4 ninety-day period after final adjournment of the general assembly (August
+5 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+6 referendum petition is filed pursuant to section 1 (3) of article V of the
+7 state constitution against this act or an item, section, or part of this act
+8 within such period, then the act, item, section, or part will not take effect
+9 unless approved by the people at the general election to be held in
+10 November 2026 and, in such case, will take effect on the date of the
+11 official declaration of the vote thereon by the governor.
+-13- HB26-1194

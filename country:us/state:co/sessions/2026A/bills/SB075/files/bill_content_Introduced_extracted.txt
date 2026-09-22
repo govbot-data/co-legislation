@@ -1,0 +1,720 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0287.01 Anna Petrini x5497 SENATE BILL 26-075
+SENATE SPONSORSHIP
+Pelton B. and Roberts, Carson
+HOUSE SPONSORSHIP
+Duran and Winter T.,
+Senate Committees House Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MODIFYING CERTAIN CRIMINAL LAW PROVISIONS, AND,
+102 IN CONNECTION THEREWITH, CHANGING SENTENCING
+103 REQUIREMENTS FOR HUMAN TRAFFICKING AND CERTAIN
+104 PIMPING OFFENSES, PERMITTING A COURT TO CONSIDER THE
+105 SOURCE OF FUNDS WHEN MAKING BOND DETERMINATIONS, AND
+106 UPDATING REFERENCES TO OFFENSES INVOLVING COMMERCIAL
+107 SEXUAL ACTIVITY WITH A CHILD.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+The bill removes human trafficking for involuntary servitude and
+human trafficking for sexual servitude (human trafficking offenses) from
+the list of crimes of violence that are subject to enhanced sentencing if
+they involve the use, or possession and threatened use of, a deadly
+weapon or the infliction of serious bodily injury or death. Instead, the bill
+requires a court to sentence a person convicted of a human trafficking
+offense or a related attempt or conspiracy to the department of corrections
+for a term of at least the midpoint, but not more than twice the maximum,
+of the presumptive range authorized for the applicable offense. It clarifies
+that a class 3 felony human trafficking offense is also subject to
+sentencing modifications that are permitted under current law for crimes
+that present an extraordinary risk of harm to society.
+The bill subjects a person convicted of the following to enhanced
+sentencing:
+! Pimping, if the victim is an at-risk person; and
+! Human trafficking for involuntary servitude, or human
+trafficking for sexual servitude, if the victim is an at-risk
+adult.
+The bill adds the source of money posted to satisfy a monetary
+condition of release, including the likelihood that the money is derived
+from criminal activity, to the list of criteria a court may consider in
+making a determination of the type of bond and conditions of release.
+The bill changes terminology related to child prostitution to
+commercial sexual activity in the crimes of soliciting for child
+prostitution, pandering of a child, keeping a place of child prostitution,
+pimping a child, inducement of child prostitution, and patronizing a
+prostituted child, including changing the name of the offenses for
+soliciting for child prostitution, keeping a place of child prostitution,
+inducement of child prostitution, and patronizing a prostituted child.
+In the crime of soliciting for commercial sexual activity with a
+child, the bill adds soliciting a child for commercial sexual activity as a
+means of committing the offense and requires that when arranging or
+offering to arrange a meeting, the offender must know that the meeting
+will facilitate commercial sexual activity with a child.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 16-1-104, amend
+3 (8.5)(a)(I) as follows:
+4 16-1-104. Definitions.
+5 (8.5) (a) (I) "Crime of violence" means a crime in which the
+-2- SB26-075
+
+1 defendant used, or possessed and threatened the use of, a deadly weapon
+2 during the commission or attempted commission of any crime committed
+3 against an elderly person or a person with a disability or a crime of
+4 murder, first or second degree assault, kidnapping, sexual assault,
+5 robbery, first degree arson, first or second degree burglary, escape, OR
+6 criminal extortion, human trafficking for involuntary servitude of an adult
+7 or a minor, or human trafficking for sexual servitude of an adult or a
+8 minor, or during the immediate flight therefrom, or the defendant caused
+9 serious bodily injury or death to any person, other than to the defendant
+10 or another participant, during the commission or attempted commission
+11 of the felony or during the immediate flight therefrom.
+12 SECTION 2. In Colorado Revised Statutes, 18-1.3-401, add (15)
+13 as follows:
+14 18-1.3-401. Felonies classified - presumptive penalties.
+15 (15) (a) NOTWITHSTANDING ANY OTHER PROVISION OF THIS
+16 SECTION, THE COURT SHALL SENTENCE A PERSON CONVICTED OF THE
+17 CLASS 3 FELONY OF HUMAN TRAFFICKING FOR INVOLUNTARY SERVITUDE
+18 PURSUANT TO SECTION 18-3-503 OR THE CLASS 3 FELONY OF HUMAN
+19 TRAFFICKING FOR SEXUAL SERVITUDE PURSUANT TO SECTION 18-3-504 TO
+20 A TERM OF AT LEAST THE MIDPOINT, BUT NOT MORE THAN TWICE THE
+21 MAXIMUM, OF THE PRESUMPTIVE RANGE AUTHORIZED FOR THE
+22 PUNISHMENT OF THE OFFENSE IN SUBSECTION (1)(a) OF THIS SECTION, AS
+23 MODIFIED FOR AN EXTRAORDINARY RISK CRIME PURSUANT TO SUBSECTION
+24 (10) OF THIS SECTION.
+25 (b) NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION,
+26 THE COURT SHALL SENTENCE A PERSON CONVICTED OF THE CLASS 2
+27 FELONY OF HUMAN TRAFFICKING OF A MINOR FOR INVOLUNTARY
+-3- SB26-075
+
+1 SERVITUDE PURSUANT TO SECTION 18-3-503 OR THE CLASS 2 FELONY OF
+2 HUMAN TRAFFICKING OF A MINOR FOR SEXUAL SERVITUDE PURSUANT TO
+3 SECTION 18-3-504 TO A TERM OF AT LEAST THE MIDPOINT, BUT NOT MORE
+4 THAN TWICE THE MAXIMUM, OF THE PRESUMPTIVE RANGE AUTHORIZED
+5 FOR THE PUNISHMENT OF THE OFFENSE IN SUBSECTION (1)(a) OF THIS
+6 SECTION.
+7 SECTION 3. In Colorado Revised Statutes, 18-1.3-406, amend
+8 (2)(a)(II)(J); and repeal (2)(a)(II)(L) and (2)(a)(II)(M) as follows:
+9 18-1.3-406. Mandatory sentences for violent crimes -
+10 definitions.
+11 (2) (a) (II) Subsection (2)(a)(I) of this section applies to the
+12 following crimes:
+13 (J) Criminal extortion; OR
+14 (L) Human trafficking for involuntary servitude of an adult or a
+15 minor in violation of section 18-3-503; or
+16 (M) Human trafficking for sexual servitude of an adult or a minor
+17 in violation of section 18-3-504.
+18 SECTION 4. In Colorado Revised Statutes, 18-3-503, add (2.5)
+19 as follows:
+20 18-3-503. Human trafficking for involuntary servitude -
+21 human trafficking of a minor for involuntary servitude.
+22 (2.5) (a) THE COURT SHALL SENTENCE A PERSON CONVICTED OF
+23 HUMAN TRAFFICKING FOR INVOLUNTARY SERVITUDE OR HUMAN
+24 TRAFFICKING OF A MINOR FOR INVOLUNTARY SERVITUDE IN ACCORDANCE
+25 WITH THE PROVISIONS OF SECTION 18-1.3-401 (15).
+26 (b) (I) IF A PERSON IS CONVICTED OF COMMITTING, CONSPIRING TO
+27 COMMIT, OR ATTEMPTING TO COMMIT HUMAN TRAFFICKING FOR
+-4- SB26-075
+
+1 INVOLUNTARY SERVITUDE PURSUANT TO SUBSECTION (1) OF THIS SECTION,
+2 THE COURT SHALL SENTENCE THE PERSON TO THE DEPARTMENT OF
+3 CORRECTIONS FOR A TERM OF INCARCERATION OF AT LEAST THE MIDPOINT
+4 IN, BUT NOT MORE THAN TWICE THE MAXIMUM OF, THE PRESUMPTIVE
+5 RANGE PROVIDED FOR THE OFFENSE IN SECTION 18-1.3-401 (1)(a), AS
+6 MODIFIED FOR AN EXTRAORDINARY RISK CRIME PURSUANT TO SECTION
+7 18-1.3-401 (10).
+8 (II) NOTWITHSTANDING SUBSECTION (2.5)(b)(I) OF THIS SECTION,
+9 IF A PERSON IS CONVICTED OF COMMITTING, CONSPIRING TO COMMIT, OR
+10 ATTEMPTING TO COMMIT HUMAN TRAFFICKING OF A MINOR FOR
+11 INVOLUNTARY SERVITUDE PURSUANT TO THIS SECTION, THE COURT SHALL
+12 SENTENCE THE PERSON TO THE DEPARTMENT OF CORRECTIONS FOR A TERM
+13 OF INCARCERATION OF AT LEAST THE MIDPOINT IN, BUT NOT MORE THAN
+14 TWICE THE MAXIMUM OF, THE PRESUMPTIVE RANGE PROVIDED FOR THE
+15 OFFENSE IN SECTION 18-1.3-401 (1)(a).
+16 SECTION 5. In Colorado Revised Statutes, 18-3-504, amend
+17 (1)(b) and (2)(b); and add (1)(c) and (2)(d) as follows:
+18 18-3-504. Human trafficking for sexual servitude - human
+19 trafficking of a minor for sexual servitude.
+20 (1) (b) Human trafficking for sexual servitude is a class 3 felony.
+21 THE COURT SHALL SENTENCE A PERSON CONVICTED OF HUMAN
+22 TRAFFICKING FOR SEXUAL SERVITUDE IN ACCORDANCE WITH THE
+23 PROVISIONS OF SECTION 18-1.3-401 (15).
+24 (c) IF A PERSON IS CONVICTED OF COMMITTING, CONSPIRING TO
+25 COMMIT, OR ATTEMPTING TO COMMIT HUMAN TRAFFICKING FOR SEXUAL
+26 SERVITUDE PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION, THE COURT
+27 SHALL SENTENCE THE PERSON TO THE DEPARTMENT OF CORRECTIONS FOR
+-5- SB26-075
+
+1 A TERM OF INCARCERATION OF AT LEAST THE MIDPOINT IN, BUT NOT MORE
+2 THAN TWICE THE MAXIMUM OF, THE PRESUMPTIVE RANGE PROVIDED FOR
+3 THE OFFENSE IN SECTION 18-1.3-401 (1)(a), AS MODIFIED FOR AN
+4 EXTRAORDINARY RISK CRIME PURSUANT TO SECTION 18-1.3-401 (10).
+5 (2) (b) Human trafficking of a minor for sexual servitude is a class
+6 2 felony. The court shall sentence a person convicted of such a class 2
+7 felony to the department of corrections for a term of at least the minimum
+8 of the presumptive range for a class 2 felony, as set forth in section
+9 18-1.3-401. THE COURT SHALL SENTENCE A PERSON CONVICTED OF
+10 HUMAN TRAFFICKING OF A MINOR FOR SEXUAL SERVITUDE IN ACCORDANCE
+11 WITH THE PROVISIONS OF SECTION 18-1.3-401 (15).
+12 (d) IF A PERSON IS CONVICTED OF COMMITTING, CONSPIRING TO
+13 COMMIT, OR ATTEMPTING TO COMMIT HUMAN TRAFFICKING OF A MINOR
+14 FOR SEXUAL SERVITUDE PURSUANT TO SUBSECTION (2)(a) OF THIS
+15 SECTION, THE COURT SHALL SENTENCE THE PERSON TO THE DEPARTMENT
+16 OF CORRECTIONS FOR A TERM OF INCARCERATION OF AT LEAST THE
+17 MIDPOINT IN, BUT NOT MORE THAN TWICE THE MAXIMUM OF, THE
+18 PRESUMPTIVE RANGE PROVIDED FOR THE OFFENSE IN SECTION 18-1.3-401
+19 (1)(a).
+20 SECTION 6. In Colorado Revised Statutes, 18-6.5-103, add (10)
+21 and (11) as follows:
+22 18-6.5-103. Crimes against at-risk persons - classifications.
+23 (10) (a) A PERSON WHO COMMITS HUMAN TRAFFICKING FOR
+24 INVOLUNTARY SERVITUDE, AS THE CRIME IS DESCRIBED IN SECTION
+25 18-3-503, AND THE VICTIM IS AN AT-RISK ADULT, COMMITS A CLASS 2
+26 FELONY.
+27 (b) A PERSON WHO COMMITS HUMAN TRAFFICKING FOR SEXUAL
+-6- SB26-075
+
+1 SERVITUDE, AS THE CRIME IS DESCRIBED IN SECTION 18-3-504 (1)(a), AND
+2 THE VICTIM IS AN AT-RISK ADULT, COMMITS A CLASS 2 FELONY.
+3 (11) (a) (I) A PERSON COMMITS PIMPING OF AN AT-RISK ADULT
+4 WHEN THE PERSON KNOWINGLY LIVES ON OR IS SUPPORTED OR
+5 MAINTAINED IN WHOLE OR IN PART BY MONEY OR OTHER THING OF VALUE
+6 EARNED, RECEIVED, PROCURED, OR REALIZED BY AN AT-RISK ADULT
+7 THROUGH PROSTITUTION.
+8 (II) PIMPING OF AN AT-RISK ADULT IS A CLASS 2 FELONY.
+9 (b) (I) A PERSON COMMITS PIMPING OF AN AT-RISK JUVENILE WHEN
+10 THE PERSON KNOWINGLY LIVES ON OR IS SUPPORTED OR MAINTAINED IN
+11 WHOLE OR IN PART BY MONEY OR OTHER THING OF VALUE EARNED,
+12 RECEIVED, PROCURED, OR REALIZED BY AN AT-RISK JUVENILE THROUGH
+13 COMMERCIAL SEXUAL ACTIVITY.
+14 (II) PIMPING OF AN AT-RISK JUVENILE IS A CLASS 2 FELONY.
+15 SECTION 7. In Colorado Revised Statutes, 16-4-103, amend
+16 (5)(i) and (5)(j); and add (5)(k) as follows:
+17 16-4-103. Setting and selection type of bond - criteria.
+18 (5) The court may also consider the following criteria as
+19 appropriate and relevant in making a determination of the type of bond
+20 and conditions of release:
+21 (i) Any facts indicating that the defendant is likely to intimidate
+22 or harass possible witnesses; and
+23 (j) Any other facts tending to indicate that the person in custody
+24 has strong ties to the community and is not likely to flee the jurisdiction;
+25 AND
+26 (k) THE SOURCE OF MONEY THE DEFENDANT MAY POST WITH THE
+27 COURT TO SATISFY A MONETARY CONDITION OF RELEASE, INCLUDING THE
+-7- SB26-075
+
+1 LIKELIHOOD THAT THE MONEY IS DIRECTLY OR INDIRECTLY DERIVED FROM
+2 CRIMINAL ACTIVITY.
+3 SECTION 8. In Colorado Revised Statutes, repeal and reenact,
+4 with amendments, 18-7-401 as follows:
+5 18-7-401. Definitions.
+6 AS USED IN THIS PART 4, UNLESS THE CONTEXT OTHERWISE
+7 REQUIRES:
+8 (1) "CHILD" MEANS A PERSON WHO IS UNDER EIGHTEEN YEARS
+9 OLD.
+10 (2) "COMMERCIAL SEXUAL ACTIVITY" MEANS PERFORMING OR
+11 OFFERING OR AGREEING TO PERFORM A SEXUAL ACTIVITY FOR WHICH A
+12 PERSON GIVES, PROMISES, OR RECEIVES ANYTHING OF VALUE.
+13 (3) "SEXUAL ACTIVITY" MEANS SEXUAL CONTACT, SEXUAL
+14 INTRUSION, OR SEXUAL PENETRATION, AS EACH TERM IS DEFINED IN
+15 SECTION 18-3-401.
+16 SECTION 9. In Colorado Revised Statutes, amend 18-7-402 as
+17 follows:
+18 18-7-402. Soliciting for commercial sexual activity with a
+19 child.
+20 (1) A person commits soliciting for child prostitution if he
+21 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD IF THE PERSON:
+22 (a) KNOWINGLY SOLICITS A CHILD FOR COMMERCIAL SEXUAL
+23 ACTIVITY;
+24 (a) (b) KNOWINGLY solicits another for the purpose of prostitution
+25 of a child or by a child COMMERCIAL SEXUAL ACTIVITY WITH A CHILD;
+26 (b) (c) Arranges or offers to arrange a meeting of persons for the
+27 purpose of prostitution of a child or by a child KNOWING THE MEETING
+-8- SB26-075
+
+1 WILL FACILITATE COMMERCIAL SEXUAL ACTIVITY WITH A CHILD; or
+2 (c) (d) Directs another to a place knowing such THE direction is
+3 for the purpose of prostitution of a child or by a child WILL FACILITATE
+4 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD.
+5 (2) Soliciting for child prostitution COMMERCIAL SEXUAL
+6 ACTIVITY WITH A CHILD is a class 3 felony.
+7 SECTION 10. In Colorado Revised Statutes, amend 18-7-403 as
+8 follows:
+9 18-7-403. Pandering of a child.
+10 (1) Any A person who does any of the following for money or
+11 other thing of value commits pandering of a child:
+12 (a) Inducing a child by menacing or criminal intimidation to
+13 commit prostitution ENGAGE IN COMMERCIAL SEXUAL ACTIVITY; or
+14 (b) Knowingly arranging or offering to arrange a situation in
+15 which a child may practice prostitution ENGAGE IN COMMERCIAL SEXUAL
+16 ACTIVITY.
+17 (2) (a) Pandering under paragraph (a) of subsection (1) OF A CHILD
+18 PURSUANT TO SUBSECTION (1)(a) of this section is a class 2 felony.
+19 (b) Pandering under paragraph (b) of subsection (1) OF A CHILD
+20 PURSUANT TO SUBSECTION (1)(b) of this section is a class 3 felony.
+21 SECTION 11. In Colorado Revised Statutes, amend 18-7-403.5
+22 as follows:
+23 18-7-403.5. Procurement of a child.
+24 (1) Any A person who intentionally gives, transports, provides, or
+25 makes available, or who offers to give, transport, provide, or make
+26 available, to another person a child for the purpose of prostitution of the
+27 child COMMERCIAL SEXUAL ACTIVITY commits procurement of a child.
+-9- SB26-075
+
+1 which is a class 3 felony.
+2 (2) PROCUREMENT OF A CHILD IS A CLASS 3 FELONY.
+3 SECTION 12. In Colorado Revised Statutes, amend 18-7-404 as
+4 follows:
+5 18-7-404. Keeping a place for commercial sexual activity with
+6 a child.
+7 (1) Any A person who has or exercises control over the use of any
+8 A place which THAT offers seclusion or shelter for the practice of
+9 prostitution and who performs any one or more of the following
+10 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD commits keeping a place
+11 of child prostitution COMMERCIAL SEXUAL ACTIVITY WITH A CHILD if he
+12 THE PERSON:
+13 (a) Knowingly grants or permits the use of such THE place for the
+14 purpose of prostitution of a child or by a child COMMERCIAL SEXUAL
+15 ACTIVITY WITH A CHILD; or
+16 (b) Permits the continued use of such THE place for the purpose
+17 of prostitution of a child or by a child COMMERCIAL SEXUAL ACTIVITY
+18 WITH A CHILD after becoming aware of facts or circumstances from which
+19 he THE PERSON should reasonably know that the place is being used for
+20 purposes of such prostitution COMMERCIAL SEXUAL ACTIVITY WITH A
+21 CHILD.
+22 (2) Keeping a place of child prostitution COMMERCIAL SEXUAL
+23 ACTIVITY WITH A CHILD is a class 3 felony.
+24 SECTION 13. In Colorado Revised Statutes, amend 18-7-405 as
+25 follows:
+26 18-7-405. Pimping of a child.
+27 (1) Any A person who knowingly lives on or is supported or
+-10- SB26-075
+
+1 maintained in whole or in part by money or other thing of value earned,
+2 received, procured, or realized by a child through prostitution
+3 COMMERCIAL SEXUAL ACTIVITY commits pimping of a child. which is a
+4 class 3 felony.
+5 (2) PIMPING OF A CHILD IS A CLASS 3 FELONY.
+6 SECTION 14. In Colorado Revised Statutes, amend 18-7-405.5
+7 as follows:
+8 18-7-405.5. Inducement of commercial sexual activity with a
+9 child.
+10 (1) Any A person who by word or action, other than conduct
+11 specified in section 18-7-403 (1)(a), induces a child to engage in an act
+12 which is prostitution by a child, as defined in section 18-7-401 (6),
+13 COMMERCIAL SEXUAL ACTIVITY commits inducement of child prostitution
+14 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD.
+15 (2) Inducement of child prostitution COMMERCIAL SEXUAL
+16 ACTIVITY WITH A CHILD is a class 3 felony.
+17 SECTION 15. In Colorado Revised Statutes, amend 18-7-406 as
+18 follows:
+19 18-7-406. Engaging in commercial sexual activity with a child.
+20 (1) Any A person who performs any of the following with a child
+21 WHO IS not his THEIR spouse commits patronizing a prostituted child
+22 ENGAGING IN COMMERCIAL SEXUAL ACTIVITY WITH A CHILD:
+23 (a) Engages in an act which is prostitution of a child or by a child,
+24 as defined in section 18-7-401 (6) or (7) COMMERCIAL SEXUAL ACTIVITY
+25 WITH A CHILD; or
+26 (b) Enters or remains in a place of prostitution FOR COMMERCIAL
+27 SEXUAL ACTIVITY WITH A CHILD with intent to engage in an act which is
+-11- SB26-075
+
+1 prostitution of a child or by a child, as defined in section 18-7-401 (6) or
+2 (7) COMMERCIAL SEXUAL ACTIVITY WITH A CHILD.
+3 (2) Patronizing a prostituted child ENGAGING IN COMMERCIAL
+4 SEXUAL ACTIVITY WITH A CHILD is a class 3 felony.
+5 SECTION 16. In Colorado Revised Statutes, 14-10-129, amend
+6 (3)(b) introductory portion, (3)(b)(XIV), (3)(b)(XVII), (3)(b)(XIX),
+7 (3)(b)(XX), and (3)(c); and add (3)(b)(XXI), (3)(b)(XXII), (3)(b)(XXIII),
+8 and (3)(b)(XXIV) as follows:
+9 14-10-129. Modification of parenting time.
+10 (3) (b) The provisions of paragraph (a) of this subsection (3) shall
+11 apply SUBSECTION (3)(a) OF THIS SECTION APPLIES to the following
+12 crimes:
+13 (XIV) Soliciting for child prostitution, as defined in section
+14 18-7-402, C.R.S. AS IT EXISTED PRIOR TO JULY 1, 2026;
+15 (XVII) Keeping a place of child prostitution, as defined in section
+16 18-7-404, C.R.S. AS IT EXISTED PRIOR TO JULY 1, 2026;
+17 (XIX) Inducement of child prostitution, as defined in section
+18 18-7-405.5, C.R.S. AS IT EXISTED PRIOR TO JULY 1, 2026;
+19 (XX) Patronizing a prostituted child, as defined in section
+20 18-7-406, C.R.S. AS IT EXISTED PRIOR TO JULY 1, 2026;
+21 (XXI) SOLICITING FOR COMMERCIAL SEXUAL ACTIVITY WITH A
+22 CHILD, AS DEFINED IN SECTION 18-7-402;
+23 (XXII) KEEPING A PLACE OF COMMERCIAL SEXUAL ACTIVITY WITH
+24 A CHILD, AS DEFINED IN SECTION 18-7-404;
+25 (XXIII) INDUCEMENT OF COMMERCIAL SEXUAL ACTIVITY WITH A
+26 CHILD, AS DEFINED IN SECTION 18-7-405.5;
+27 (XXIV) ENGAGING IN COMMERCIAL SEXUAL ACTIVITY WITH A
+-12- SB26-075
+
+1 CHILD, AS DEFINED IN SECTION 18-7-406.
+2 (c) If the party was convicted in another state or jurisdiction of an
+3 offense that, if committed in Colorado, would constitute an offense listed
+4 in subparagraphs (III) to (XX) of paragraph (b) of this subsection (3)
+5 SUBSECTIONS (3)(b)(III) TO (3)(b)(XXIV) OF THIS SECTION, the court shall
+6 order that party to submit to a sex-offense-specific evaluation and a
+7 parental risk assessment in Colorado, and the court shall consider the
+8 recommendations of the evaluation and the assessment in any order the
+9 court makes relating to parenting time or parental contact. The convicted
+10 party shall pay for the costs of the evaluation and the assessment.
+11 SECTION 17. In Colorado Revised Statutes, 16-8-115, amend
+12 (4)(g)(XIV), (4)(g)(XVII), (4)(g)(XIX), and (4)(g)(XX); and add
+13 (4)(g)(XX.5) as follows:
+14 16-8-115. Release from commitment after verdict of not guilty
+15 by reason of insanity or not guilty by reason of impaired mental
+16 condition - definitions.
+17 (4) (g) As used in this subsection (4), "an offense involving
+18 unlawful sexual behavior" means any of the following offenses:
+19 (XIV) Soliciting for child prostitution SOLICITING FOR
+20 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, in violation of section
+21 18-7-402; C.R.S.;
+22 (XVII) Keeping a place of child prostitution KEEPING A PLACE OF
+23 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, in violation of section
+24 18-7-404; C.R.S.;
+25 (XIX) Inducement of child prostitution INDUCEMENT OF
+26 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, in violation of section
+27 18-7-405.5; C.R.S.;
+-13- SB26-075
+
+1 (XX) Patronizing a prostituted child ENGAGING IN COMMERCIAL
+2 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-406; C.R.S.;
+3 or
+4 (XX.5) AS EACH OF THE FOLLOWING OFFENSES EXISTED PRIOR TO
+5 JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+6 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+7 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+8 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+9 CHILD, IN VIOLATION OF SECTION 18-7-406; OR
+10 SECTION 18. In Colorado Revised Statutes, 16-11.7-102,
+11 amend (3) introductory portion, (3)(n), (3)(q), (3)(s), and (3)(t); and add
+12 (3)(t.5) as follows:
+13 16-11.7-102. Definitions.
+14 As used in this article 11.7, unless the context otherwise requires:
+15 (3) "Sex offense" means any OF THE FOLLOWING felony or
+16 misdemeanor offense described in this subsection (3) as follows
+17 OFFENSES:
+18 (n) Soliciting for child prostitution SOLICITING FOR COMMERCIAL
+19 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-402; C.R.S.;
+20 (q) Keeping a place of child prostitution KEEPING A PLACE OF
+21 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, in violation of section
+22 18-7-404; C.R.S.;
+23 (s) Inducement of child prostitution INDUCEMENT OF COMMERCIAL
+24 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-405.5;
+25 C.R.S.;
+26 (t) Patronizing a prostituted child ENGAGING IN COMMERCIAL
+27 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-406; C.R.S.;
+-14- SB26-075
+
+1 (t.5) AS EACH OF THE FOLLOWING OFFENSES EXISTED PRIOR TO
+2 JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+3 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+4 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+5 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+6 CHILD, IN VIOLATION OF SECTION 18-7-406;
+7 SECTION 19. In Colorado Revised Statutes, 16-13-303, amend
+8 (1) introductory portion and (1)(g); and add (1)(g.1) as follows:
+9 16-13-303. Class 1 public nuisance.
+10 (1) Every building or part of a building, including the ground
+11 upon which it is situate and all fixtures and contents thereof, every
+12 vehicle, and any real property shall be IS deemed a class 1 public nuisance
+13 when:
+14 (g) Used for prostitution of a child, as defined in section 18-7-401,
+15 C.R.S. AS IT EXISTED PRIOR TO JULY 1, 2026, or used as a place where the
+16 commission of ANY OF THE FOLLOWING, AS THEY EXISTED PRIOR TO JULY
+17 1, 2026, OCCURRED: Soliciting for child prostitution, as defined in section
+18 18-7-402; C.R.S., pandering of a child, as defined in section 18-7-403,
+19 C.R.S., keeping a place of child prostitution, as defined in section
+20 18-7-404; C.R.S., pimping of a child, as defined in section 18-7-405,
+21 C.R.S., or inducement of child prostitution, as defined in section
+22 18-7-405.5; C.R.S., occurs;
+23 (g.1) USED AS A PLACE WHERE THE COMMISSION OF ANY OF THE
+24 FOLLOWING OCCURS: SOLICITING FOR COMMERCIAL SEXUAL ACTIVITY
+25 WITH A CHILD, AS DEFINED IN SECTION 18-7-402; PANDERING OF A CHILD,
+26 AS DEFINED IN SECTION 18-7-403; KEEPING A PLACE OF COMMERCIAL
+27 SEXUAL ACTIVITY WITH A CHILD, AS DEFINED IN SECTION 18-7-404;
+-15- SB26-075
+
+1 PIMPING OF A CHILD, AS DEFINED IN SECTION 18-7-405; OR INDUCEMENT
+2 OF COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, AS DEFINED IN SECTION
+3 18-7-405.5;
+4 SECTION 20. In Colorado Revised Statutes, 16-22-102, amend
+5 (9)(n), (9)(q), (9)(s), and (9)(t); and add (9)(t.5) as follows:
+6 16-22-102. Definitions.
+7 As used in this article 22, unless the context otherwise requires:
+8 (9) "Unlawful sexual behavior" means any of the following
+9 offenses or criminal attempt, conspiracy, or solicitation to commit any of
+10 the following offenses:
+11 (n) Soliciting for child prostitution SOLICITING FOR COMMERCIAL
+12 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-402; C.R.S.;
+13 (q) Keeping a place of child prostitution KEEPING A PLACE OF
+14 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, in violation of section
+15 18-7-404; C.R.S.;
+16 (s) Inducement of child prostitution INDUCEMENT OF COMMERCIAL
+17 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-405.5;
+18 C.R.S.;
+19 (t) Patronizing a prostituted child ENGAGING IN COMMERCIAL
+20 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-406; C.R.S.;
+21 (t.5) AS EACH OF THE FOLLOWING OFFENSES EXISTED PRIOR TO
+22 JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+23 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+24 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+25 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+26 CHILD, IN VIOLATION OF SECTION 18-7-406;
+27 SECTION 21. In Colorado Revised Statutes, 16-22-108, amend
+-16- SB26-075
+
+1 (2.5)(c) as follows:
+2 16-22-108. Registration - procedure - frequency - place -
+3 change of address - fee.
+4 (2.5) (c) For purposes of this section, "child sex crime" means:
+5 (I) Sexual assault on a child, as described in section 18-3-405;
+6 C.R.S.; sexual assault on a child by one in a position of trust, as described
+7 in section 18-3-405.3; C.R.S.; unlawful sexual contact, as described in
+8 section 18-3-404 (1.5); C.R.S.; enticement of a child, as described in
+9 section 18-3-305; C.R.S.; aggravated incest, as described in section
+10 18-6-302 (1)(b); C.R.S.; human trafficking of a minor for sexual
+11 servitude, as described in section 18-3-504 (2); C.R.S.; sexual
+12 exploitation of children A CHILD, as described in section 18-6-403; C.R.S.;
+13 procurement of a child for sexual exploitation, as described in section
+14 18-6-404; C.R.S.; soliciting for child prostitution SOLICITING FOR
+15 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as described in section
+16 18-7-402; C.R.S.; pandering of a child, as described in section 18-7-403;
+17 C.R.S.; procurement of a child, as described in section 18-7-403.5;
+18 C.R.S.; keeping a place of child prostitution KEEPING A PLACE OF
+19 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as described in section
+20 18-7-404; C.R.S.; pimping of a child, as described in section 18-7-405;
+21 C.R.S.; inducement of child prostitution INDUCEMENT OF COMMERCIAL
+22 SEXUAL ACTIVITY WITH A CHILD, as described in section 18-7-405.5;
+23 C.R.S.; patronizing a prostituted child ENGAGING IN COMMERCIAL SEXUAL
+24 ACTIVITY WITH A CHILD, as described in section 18-7-406; C.R.S.; internet
+25 luring of a child, as described in section 18-3-306; C.R.S.; internet sexual
+26 exploitation of a child, as described in section 18-3-405.4; C.R.S.;
+27 wholesale promotion of obscenity to a minor, as described in section
+-17- SB26-075
+
+1 18-7-102 (1.5); C.R.S.; promotion of obscenity to a minor, as described
+2 in section 18-7-102 (2.5); C.R.S.; sexual assault, as described in section
+3 18-3-402 (1)(d) and (1)(e); C.R.S.; OR sexual assault in the second degree
+4 as it existed prior to July 1, 2000, as described in section 18-3-403 (1)(e)
+5 and (1)(e.5); C.R.S.;
+6 (II) EACH OF THE FOLLOWING OFFENSES, AS THEY EXISTED PRIOR
+7 TO JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+8 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+9 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+10 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+11 CHILD, IN VIOLATION OF SECTION 18-7-406; or
+12 (III) Criminal attempt, conspiracy, or solicitation to commit any
+13 of the acts specified in this paragraph (c) SUBSECTION (2.5)(c).
+14 SECTION 22. In Colorado Revised Statutes, 18-1.3-101, amend
+15 (7) introductory portion and (7)(i) as follows:
+16 18-1.3-101. Pretrial diversion - appropriation - repeal.
+17 (7) Notwithstanding any other provision of this section, an
+18 individual accused of any of the following sexual offenses is not eligible
+19 for participation in a diversion program established in a jurisdiction that
+20 receives state moneys MONEY for the creation or operation of diversion
+21 programs pursuant to this section:
+22 (i) Any child prostitution AN offense in part 4 of article 7 of this
+23 title TITLE 18.
+24 SECTION 23. In Colorado Revised Statutes, 18-1.3-1003,
+25 amend (5)(a)(X) as follows:
+26 18-1.3-1003. Definitions.
+27 As used in this part 10, unless the context otherwise requires:
+-18- SB26-075
+
+1 (5) (a) "Sex offense" means any of the following offenses:
+2 (X) ENGAGING IN COMMERCIAL SEXUAL ACTIVITY WITH A CHILD,
+3 AS DESCRIBED IN SECTION 18-7-406, OR patronizing a prostituted child, as
+4 described in section 18-7-406, AS IT EXISTED PRIOR TO JULY 1, 2026;
+5 SECTION 24. In Colorado Revised Statutes, 18-3-411, amend
+6 (1) as follows:
+7 18-3-411. Sex offenses against children - limitation for
+8 commencing proceedings - evidence - statutory privilege - definition.
+9 (1) As used in this section, "unlawful sexual offense" means:
+10 (a) Enticement of a child, as described in section 18-3-305; sexual
+11 assault, as described in section 18-3-402, when the victim at the time of
+12 the commission of the act is a child less than fifteen years of age; sexual
+13 assault in the first degree, as described in section 18-3-402, as it existed
+14 prior to July 1, 2000, when the victim at the time of the commission of the
+15 act is a child less than fifteen years of age; sexual assault in the second
+16 degree, as described in section 18-3-403 (1)(a), (1)(b), (1)(c), (1)(d),
+17 (1)(g), or (1)(h), as it existed prior to July 1, 2000, when the victim at the
+18 time of the commission of the act is a child less than fifteen years of age,
+19 or as described in section 18-3-403 (1)(e), as it existed prior to July 1,
+20 2000, when the victim is less than fifteen years of age and the actor is at
+21 least four years older than the victim; unlawful sexual contact, as
+22 described in section 18-3-404 (1)(a), (1)(b), (1)(c), (1)(d), (1)(f), or (1)(g),
+23 when the victim at the time of the commission of the act is a child less
+24 than fifteen years of age; sexual assault in the third degree, as described
+25 in section 18-3-404 (1)(a), (1)(b), (1)(c), (1)(d), (1)(f), or (1)(g), as it
+26 existed prior to July 1, 2000, when the victim at the time of the
+27 commission of the act is a child less than fifteen years of age; sexual
+-19- SB26-075
+
+1 assault on a child, as described in section 18-3-405; sexual assault on a
+2 child by one in a position of trust, as described in section 18-3-405.3;
+3 aggravated incest, as described in section 18-6-302; human trafficking of
+4 a minor for sexual servitude, as described in section 18-3-504 (2); sexual
+5 exploitation of a child, as described in section 18-6-403; procurement of
+6 a child for sexual exploitation, as described in section 18-6-404; indecent
+7 exposure, as described in section 18-7-302; soliciting for child
+8 prostitution SOLICITING FOR COMMERCIAL SEXUAL ACTIVITY WITH A
+9 CHILD, as described in section 18-7-402; pandering of a child, as
+10 described in section 18-7-403; procurement of a child, as described in
+11 section 18-7-403.5; keeping a place of child prostitution KEEPING A PLACE
+12 OF COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as described in section
+13 18-7-404; pimping of a child, as described in section 18-7-405;
+14 inducement of child prostitution INDUCEMENT OF COMMERCIAL SEXUAL
+15 ACTIVITY WITH A CHILD, as described in section 18-7-405.5; patronizing
+16 a prostituted child ENGAGING IN COMMERCIAL SEXUAL ACTIVITY WITH A
+17 CHILD, as described in section 18-7-406; class 4 felony internet luring of
+18 a child, as described in section 18-3-306 (3); internet sexual exploitation
+19 of a child, as described in section 18-3-405.4; OR unlawful electronic
+20 sexual communication, as described in section 18-3-418;
+21 (b) EACH OF THE FOLLOWING OFFENSES, AS THEY EXISTED PRIOR
+22 TO JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+23 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+24 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+25 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+26 CHILD, IN VIOLATION OF SECTION 18-7-406; or
+27 (c) Criminal attempt, conspiracy, or solicitation to commit any of
+-20- SB26-075
+
+1 the acts specified in this subsection (1).
+2 SECTION 25. In Colorado Revised Statutes, 18-3-412, amend
+3 (1) as follows:
+4 18-3-412. Habitual sex offenders against children - indictment
+5 or information - verdict of the jury.
+6 (1) For the purpose of this section, "unlawful sexual offense"
+7 means:
+8 (a) Sexual assault, as described in section 18-3-402, when the
+9 victim at the time of the commission of the act is a child less than fifteen
+10 years of age, sexual assault in the first degree, as described in section
+11 18-3-402, as it existed prior to July 1, 2000, when the victim at the time
+12 of the commission of the act is a child less than fifteen years of age;
+13 sexual assault in the second degree, as described in section 18-3-403
+14 (1)(a), (1)(b), (1)(c), (1)(d), (1)(g), or (1)(h), as it existed prior to July 1,
+15 2000, when the victim at the time of the commission of the act is a child
+16 less than fifteen years of age, or as described in section 18-3-403 (1)(e),
+17 as it existed prior to July 1, 2000, when the victim is less than fifteen
+18 years of age and the actor is at least four years older than the victim;
+19 unlawful sexual contact, as described in section 18-3-404 (1)(a), (1)(b),
+20 (1)(c), (1)(d), (1)(f), or (1)(g), when the victim at the time of the
+21 commission of the act is a child less than fifteen years of age; sexual
+22 assault in the third degree, as described in section 18-3-404 (1)(a), (1)(b),
+23 (1)(c), (1)(d), (1)(f), or (1)(g), as it existed prior to July 1, 2000, when the
+24 victim at the time of the commission of the act is a child less than fifteen
+25 years of age; sexual assault on a child, as described in section 18-3-405;
+26 sexual assault on a child by one in a position of trust, as described in
+27 section 18-3-405.3; aggravated incest, as described in section 18-6-302;
+-21- SB26-075
+
+1 human trafficking of a minor for sexual servitude, as described in section
+2 18-3-504 (2); sexual exploitation of a child, as described in section
+3 18-6-403; procurement of a child for sexual exploitation, as described in
+4 section 18-6-404; soliciting for child prostitution SOLICITING FOR
+5 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as described in section
+6 18-7-402; pandering of a child, as described in section 18-7-403;
+7 procurement of a child, as described in section 18-7-403.5; keeping a
+8 place of child prostitution KEEPING A PLACE OF COMMERCIAL SEXUAL
+9 ACTIVITY WITH A CHILD, as described in section 18-7-404; pimping of a
+10 child, as described in section 18-7-405; inducement of child prostitution
+11 INDUCEMENT OF COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as
+12 described in section 18-7-405.5; patronizing a prostituted child OR
+13 ENGAGING IN COMMERCIAL SEXUAL ACTIVITY WITH A CHILD, as described
+14 in section 18-7-406;
+15 (b) EACH OF THE FOLLOWING OFFENSES, AS THEY EXISTED PRIOR
+16 TO JULY 1, 2026: SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF
+17 SECTION 18-7-402; KEEPING A PLACE OF CHILD PROSTITUTION, IN
+18 VIOLATION OF SECTION 18-7-404; INDUCEMENT OF CHILD PROSTITUTION,
+19 IN VIOLATION OF SECTION 18-7-405.5; OR PATRONIZING A PROSTITUTED
+20 CHILD, IN VIOLATION OF SECTION 18-7-406; or
+21 (c) Criminal attempt, conspiracy, or solicitation to commit any of
+22 the acts specified in this subsection (1).
+23 SECTION 26. In Colorado Revised Statutes, 18-12-108, amend
+24 (7)(u) as follows:
+25 18-12-108. Possession of weapons by previous offenders.
+26 (7) In addition to a conviction for felony crime as defined in
+27 section 24-4.1-302 (1), a felony conviction or adjudication for one of the
+-22- SB26-075
+
+1 following felonies prohibits a person from possessing, using, or carrying
+2 upon the person a firearm as defined in section 18-1-901 (3)(h) or any
+3 other weapon that is subject to this article 12 pursuant to subsection (1)
+4 or (3) of this section:
+5 (u) KEEPING A PLACE OF COMMERCIAL SEXUAL ACTIVITY WITH A
+6 CHILD, IN VIOLATION OF SECTION 18-7-404, AND keeping a place of child
+7 prostitution in violation of section 18-7-404, AS IT EXISTED PRIOR TO JULY
+8 1, 2026;
+9 SECTION 27. In Colorado Revised Statutes, 18-17-103, amend
+10 (5)(b) introductory portion and (5)(b)(VI) as follows:
+11 18-17-103. Definitions.
+12 As used in this article 17, unless the context otherwise requires:
+13 (5) "Racketeering activity" means to commit, to attempt to
+14 commit, to conspire to commit, or to solicit, coerce, or intimidate another
+15 person to commit:
+16 (b) Any violation of the following provisions of the Colorado
+17 statutes or any criminal act committed in any jurisdiction of the United
+18 States that, if committed in this state, would be a crime under the
+19 following provisions of the Colorado statutes:
+20 (VI) Offenses relating to morals, as defined in sections 18-7-102
+21 (wholesale promotion of obscenity or promotion of obscenity), 18-7-203
+22 (pandering), 18-7-206 (pimping), 18-7-402 (soliciting for child
+23 prostitution COMMERCIAL SEXUAL ACTIVITY WITH A CHILD), 18-7-403
+24 (pandering of a child), 18-7-404 (keeping a place of child prostitution
+25 COMMERCIAL SEXUAL ACTIVITY WITH A CHILD), and 18-7-405 (pimping
+26 of a child), AND THE OFFENSES IN SECTIONS 18-7-402, 18-7-404, AND
+27 18-7-405, AS THOSE SECTIONS EXISTED PRIOR TO JULY 1, 2026;
+-23- SB26-075
+
+1 SECTION 28. In Colorado Revised Statutes, 24-4.1-302, amend
+2 (1)(ll) as follows:
+3 24-4.1-302. Definitions.
+4 As used in this part 3, and for no other purpose, including the
+5 expansion of the rights of any defendant:
+6 (1) "Crime" means any of the following offenses, acts, and
+7 violations as defined by the statutes of the state of Colorado, whether
+8 committed by an adult or a juvenile:
+9 (ll) Child prostitution, in violation of section 18-7-401, C.R.S.;
+10 soliciting for child prostitution SOLICITING FOR COMMERCIAL SEXUAL
+11 ACTIVITY WITH A CHILD, in violation of section 18-7-402; C.R.S.;
+12 procurement of a child for sexual exploitation, in violation of section
+13 18-6-404; C.R.S.; pimping of a child, in violation of section 18-7-405;
+14 C.R.S.; inducement of child prostitution INDUCEMENT OF COMMERCIAL
+15 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-405.5;
+16 C.R.S.; or patronizing a prostituted child ENGAGING IN COMMERCIAL
+17 SEXUAL ACTIVITY WITH A CHILD, in violation of section 18-7-406; C.R.S.
+18 SOLICITING FOR CHILD PROSTITUTION, IN VIOLATION OF SECTION 18-7-402,
+19 AS IT EXISTED PRIOR TO JULY 1, 2026; INDUCEMENT OF CHILD
+20 PROSTITUTION, IN VIOLATION OF SECTION 18-7-405.5, AS IT EXISTED PRIOR
+21 TO JULY 1, 2026; OR PATRONIZING A PROSTITUTED CHILD, IN VIOLATION OF
+22 SECTION 18-7-406, AS IT EXISTED PRIOR TO JULY 1, 2026;
+23 SECTION 29. Effective date - applicability. This act takes
+24 effect July 1, 2026, and applies to offenses committed on or after said
+25 date.
+26 SECTION 30. Safety clause. The general assembly finds,
+27 determines, and declares that this act is necessary for the immediate
+-24- SB26-075
+
+1 preservation of the public peace, health, or safety or for appropriations for
+2 the support and maintenance of the departments of the state and state
+3 institutions.
+-25- SB26-075

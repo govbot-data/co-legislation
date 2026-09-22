@@ -929,6 +929,7 @@
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-09-07T11:51:24.600449Z"
-    }
+    },
+    "text_extraction_latest_update": "2026-09-22T15:40:32.595415Z"
   }
 }

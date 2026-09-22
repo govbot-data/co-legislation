@@ -1,0 +1,533 @@
+Title: 
+Official Title: 
+Source: versions - Revised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REVISED
+This Version Includes All Amendments Adopted
+on Second Reading in the Second House
+LLS NO. 26-0143.01 Jed Franklin x5484 HOUSE BILL 26-1223
+House Committees Senate Committees
+Finance Finance
+Appropriations Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MODIFYING CERTAIN TAX EXPENDITURES, AND, IN
+102 CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill creates a new tax credit. The new tax credit
+allows taxpayers to claim a refundable tax credit, in addition to the child
+tax credit and the family affordability tax credit, in an amount determined
+by the amount and age of the taxpayer's children and the taxpayer's
+income. The total amount of the new tax credit is adjusted annually based
+on legislative council staff projections, such that the total amount of the
+ETANES
+ESUOH
+ESUOH
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,11
+yaM
+6202
+,4
+yaM
+6202
+,1
+yaM
+HOUSE SPONSORSHIP
+Woodrow and Boesenecker, Bacon, Brown, Clifford, Lindsay, McCluskie, McCormick,
+Nguyen, Rutinel, Sirota, Smith, Zokaie
+SENATE SPONSORSHIP
+Ball and Roberts,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+new tax credit claimed in an income tax year is projected to be the same
+as the amount of revenue raised in sections 3 and 4.
+Beginning January 1, 2027, the bill also repeals the downloaded
+software sales and use tax exemption so that all software that is available
+for repeated sale and license qualifies as tangible property and thus is
+subject to sales and use tax. The bill exempts from sales and use tax
+downloaded software governed by a negotiable license agreement or
+developed for use by a particular user.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2
+3 SECTION 1. In Colorado Revised Statutes, add 39-22-131 as
+4 follows:
+5 39-22-131. Family affordability credit - tax preference
+6 performance statement - legislative declaration - definitions.
+7 (1) (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+8 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+9 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+10 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY HEREBY FINDS AND
+11 DECLARES THAT THE PURPOSES OF THE INCOME TAX CREDIT CREATED IN
+12 THIS SECTION ARE THE SAME AS THE FAMILY AFFORDABILITY TAX CREDIT:
+13 TO SUBSTANTIALLY REDUCE CHILD POVERTY, MAKE COLORADO MORE
+14 AFFORDABLE FOR FAMILIES, AND HELP FAMILIES AFFORD EXPENSES
+15 ASSOCIATED WITH HAVING CHILDREN BY PROVIDING TAX RELIEF FOR
+16 CERTAIN INDIVIDUALS.
+17 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR, IN
+18 CONSULTATION WITH THE DEPARTMENT, SHALL MEASURE THE
+19 EFFECTIVENESS OF THE INCOME TAX CREDIT CREATED IN THIS SECTION IN
+20 COMBINATION WITH THE FAMILY AFFORDABILITY TAX CREDIT AND, IN THE
+21 SAME MANNER AS THE GENERAL ASSEMBLY AND THE STATE AUDITOR
+-2- 1223
+
+1 MEASURE THE EFFECTIVENESS OF THE FAMILY AFFORDABILITY TAX CREDIT
+2 BY DETERMINING THE NUMBER OF COLORADO FAMILIES THAT, AFTER
+3 CLAIMING A CREDIT PURSUANT TO THIS SECTION AND THE FAMILY
+4 AFFORDABILITY TAX CREDIT, NO LONGER FALL BELOW THE FEDERAL
+5 POVERTY LEVEL IN THE TAX YEAR IN WHICH THEY CLAIMED THE CREDITS.
+6 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+7 REQUIRES:
+8 (a) "CREDIT" MEANS THE CREDIT AGAINST INCOME TAX CREATED
+9 IN THIS SECTION.
+10 (b) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+11 (c) "ELIGIBLE CHILD" MEANS A QUALIFYING CHILD, AS DEFINED IN
+12 SECTION 152 (c) OF THE "INTERNAL REVENUE CODE OF 1986"; EXCEPT
+13 THAT THE AGE REQUIREMENTS ARE AS SET FORTH IN SUBSECTIONS
+14 (3)(a)(I), (3)(a)(II), (3)(b)(I), AND (3)(b)(II) OF THIS SECTION.
+15 (d) "FEDERAL POVERTY LEVEL" MEANS THE POVERTY LINE THAT
+16 IS REQUIRED TO BE UPDATED ANNUALLY WITHIN THE FEDERAL POVERTY
+17 GUIDELINES ADOPTED BY THE UNITED STATES DEPARTMENT OF HEALTH
+18 AND HUMAN SERVICES PURSUANT TO 42 U.S.C. SEC. 9902 (2).
+19 (e) "INFLATION" MEANS THE ANNUAL PERCENTAGE CHANGE IN THE
+20 UNITED STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS
+21 CONSUMER PRICE INDEX FOR DENVER-AURORA-LAKEWOOD FOR ALL
+22 ITEMS PAID BY ALL URBAN CONSUMERS, OR ITS APPLICABLE SUCCESSOR
+23 INDEX.
+24 (f) "JOINT FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+25 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+26 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+27 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+-3- 1223
+
+1 39-22-130 (7) TO BE NECESSARY FOR TWO RESIDENT INDIVIDUALS WHO
+2 FILE A JOINT RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+3 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+4 COMMENCING ON JANUARY 1, 2027.
+5 (g) "SINGLE FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+6 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+7 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+8 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+9 39-22-130 (7) TO BE NECESSARY FOR A SINGLE RESIDENT INDIVIDUAL WHO
+10 FILES A SINGLE RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+11 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+12 COMMENCING ON JANUARY 1, 2027.
+13 (3) (a) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY
+14 SECTION 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT
+15 ALLOWED BY SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING
+16 ON OR AFTER JANUARY 1, 2027, A RESIDENT INDIVIDUAL WHO FILES A
+17 SINGLE RETURN IS ALLOWED A CREDIT AGAINST THE INCOME TAXES
+18 IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+19 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+20 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+21 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+22 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+23 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+24 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+25 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+26 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(a)(I) OF THIS
+27 SECTION.
+-4- 1223
+
+1 (b) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY SECTION
+2 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT ALLOWED BY
+3 SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+4 JANUARY 1, 2027, TWO RESIDENT INDIVIDUALS WHO FILE A JOINT RETURN
+5 ARE ALLOWED A CREDIT AGAINST THE INCOME TAXES DUE IMPOSED
+6 PURSUANT TO THIS ARTICLE 22 FOR:
+7 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+8 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+9 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+10 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+11 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+12 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+13 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+14 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(b)(I) OF THIS
+15 SECTION.
+16 (4) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, FOR
+17 INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, THE
+18 CREDIT AMOUNTS IN:
+19 (I) SUBSECTION (3)(a)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+20 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+21 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+22 DOLLARS BY WHICH A RESIDENT INDIVIDUAL'S ADJUSTED GROSS INCOME
+23 EXCEEDS THE SINGLE FILER ADJUSTED BASE INCOME; AND
+24 (II) SUBSECTION (3)(b)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+25 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+26 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+27 DOLLARS BY WHICH TWO RESIDENT INDIVIDUALS' ADJUSTED GROSS
+-5- 1223
+
+1 INCOME EXCEEDS THE JOINT FILER ADJUSTED BASE INCOME.
+2 (b) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+3 1, 2028, THE DEPARTMENT SHALL ADJUST THE JOINT FILER ADJUSTED
+4 BASED INCOME AND SINGLE FILER ADJUSTED BASE INCOME TO REFLECT
+5 INFLATION FOR EACH INCOME TAX YEAR IN WHICH THE CREDIT DESCRIBED
+6 IN THIS SECTION IS ALLOWED IF CUMULATIVE INFLATION SINCE THE LAST
+7 ADJUSTMENT, WHEN APPLIED TO THE CURRENT LIMITS, RESULTS IN AN
+8 INCREASE OF AT LEAST ONE THOUSAND DOLLARS WHEN THE ADJUSTED
+9 LIMITS ARE ROUNDED TO THE NEAREST ONE THOUSAND DOLLARS.
+10 (5) BEGINNING WITH THE QUARTERLY JUNE REVENUE FORECAST
+11 THAT LEGISLATIVE COUNCIL STAFF PRESENTS IN JUNE OF 2027, AND FOR
+12 EACH JUNE REVENUE FORECAST THEREAFTER, AS PART OF THE QUARTERLY
+13 JUNE REVENUE FORECAST, LEGISLATIVE COUNCIL STAFF SHALL
+14 DETERMINE:
+15 (a) FOR THE CURRENT CALENDAR YEAR, A PROJECTION OF THE
+16 CHANGE IN STATE REVENUE DIRECTLY ATTRIBUTABLE TO THE CHANGES
+17 MADE IN THIS HOUSE BILL 26-1223, NOTWITHSTANDING THE CREDIT
+18 CREATED IN THIS SECTION;
+19 (b) A DOLLAR AMOUNT OF THE CREDIT AVAILABLE PURSUANT TO
+20 SUBSECTIONS (3)(a)(I) AND (3)(b)(I) OF THIS SECTION, WHICH DOLLAR
+21 AMOUNT MUST BE THE SAME FOR BOTH SUBSECTIONS (3)(a)(I) AND
+22 (3)(b)(I) OF THIS SECTION, SUCH THAT THE STAFF OF THE LEGISLATIVE
+23 COUNCIL PROJECTS, FOR THE CURRENT CALENDAR YEAR, THAT THE TOTAL
+24 DOLLAR AMOUNT OF CREDITS CLAIMED PURSUANT TO SUBSECTION (3) OF
+25 THIS SECTION WILL EQUAL THE DOLLAR AMOUNT THAT STAFF OF THE
+26 LEGISLATIVE COUNCIL DETERMINES PURSUANT TO SUBSECTION (5)(a) OF
+27 THIS SECTION.
+-6- 1223
+
+1 (6) IN THE CASE OF A PART-YEAR RESIDENT, THE CREDIT IS
+2 APPORTIONED IN THE RATIO DETERMINED UNDER SECTION 39-22-110 (1).
+3 (7) THE CREDIT IS NOT CONSIDERED TO BE INCOME OR RESOURCES
+4 FOR THE PURPOSE OF DETERMINING ELIGIBILITY FOR THE PAYMENT OF
+5 PUBLIC ASSISTANCE BENEFITS AND MEDICAL ASSISTANCE BENEFITS
+6 AUTHORIZED UNDER STATE LAW OR FOR A PAYMENT MADE UNDER ANY
+7 OTHER PUBLICLY FUNDED PROGRAM.
+8 (8) THE AMOUNT OF THE CREDIT THAT EXCEEDS THE RESIDENT
+9 INDIVIDUAL'S INCOME TAXES DUE IS REFUNDED TO THE INDIVIDUAL.
+10 (9) THE DEPARTMENT IS AUTHORIZED AND ENCOURAGED TO
+11 DEVELOP A MEANS OF REFUNDING THE CREDITS TO RESIDENT INDIVIDUALS
+12 WHO QUALIFY FOR THE CREDITS IN TWELVE EQUAL MONTHLY REFUNDS
+13 RATHER THAN ANNUALLY.
+14 (10) NOTWITHSTANDING SECTION 39-21-304 (4), THE CREDIT DOES
+15 NOT REPEAL AFTER A SPECIFIED PERIOD OF TAX YEARS.
+16 SECTION 2. In Colorado Revised Statutes, 39-26-102, amend
+17 (5.7) and (15)(c) as follows:
+18 39-26-102. Definitions - repeal.
+19 As used in this article 26, unless the context otherwise requires:
+20 (5.7) "Mainframe computer access" means the provision of access
+21 to computer equipment for the purpose of storing or processing data.
+22 "Mainframe computer access" does not include the provision of access to
+23 computer equipment for the purpose of examining or acquiring data
+24 maintained by the vendor. "Mainframe computer access" does not include
+25 the provision of access to computer equipment incident to electronic
+26 computer software delivery, as defined in subsection (15)(c)(II)(C) of this
+27 section, or incident to the use of computer software hosted by an
+-7- 1223
+
+1 application service provider, as defined in subsection (15)(c)(II)(A) of
+2 this section.
+3 (15) (c) (I) "Tangible personal property" commencing July 1,
+4 2012, shall include INCLUDES computer software. if the computer
+5 software meets all of the following criteria:
+6 (A) The computer software is prepackaged for repeated sale or
+7 license;
+8 (B) The use of the computer software is governed by a tear-open
+9 nonnegotiable license agreement; and
+10 (C) The computer software is delivered to the customer in a
+11 tangible medium. Computer software is not delivered to the customer in
+12 a tangible medium if it is provided through an application service
+13 provider, delivered by electronic computer software delivery, or
+14 transferred by load and leave computer software delivery.
+15 (II) As used in this paragraph (c) SUBSECTION (15)(c), unless the
+16 context otherwise requires:
+17 (A) "Application service provider" or "ASP" means an entity that
+18 retains custody over or hosts computer software for use by third parties.
+19 Users of the computer software hosted by an ASP typically will access the
+20 computer software via the internet. The ASP may or may not own or
+21 license the computer software, but generally will own and maintain
+22 hardware and networking equipment required for the user to access the
+23 computer software. Where the ASP owns the computer software, the ASP
+24 may charge the user a license fee for the computer software or a fee for
+25 maintaining the computer software or hardware used by its customer.
+26 (B) "Computer software" means a set of coded instructions THAT
+27 ARE BOTH designed to cause a computer or automatic data processing
+-8- 1223
+
+1 equipment to perform a task OTHER ELECTRONIC DEVICE TO PERFORM A
+2 TASK AND ARE DELIVERED BY ANY MEANS, INCLUDING COMPACT DISC,
+3 DOWNLOAD, OR REMOTE ACCESS THROUGH THE INTERNET. "COMPUTER
+4 SOFTWARE" INCLUDES APPLICATIONS INSTALLED ON CELLULAR PHONES,
+5 TABLETS, OR OTHER MOBILE DEVICES.
+6 (C) "Electronic computer software delivery" means computer
+7 software transferred by remote telecommunications to the purchaser's
+8 computer, where the purchaser does not obtain possession of any tangible
+9 medium in the transaction.
+10 (D) "Load and leave computer software delivery" means delivery
+11 of computer software to the purchaser by use of a tangible medium where
+12 the title to or possession of the tangible medium is not transferred to the
+13 purchaser, and where the computer software is manually loaded by the
+14 vendor, or the vendor's representative, at the purchaser's location.
+15 (E) "Prepackaged for repeated sale or license" means computer
+16 software that is prepackaged for repeated sale or license in the same form
+17 to multiple users without modification, and is typically sold in a
+18 shrink-wrapped box.
+19 (F) "Tangible medium" means a tape, disk, compact disc, card, or
+20 comparable physical medium.
+21 (G) "Tear-open nonnegotiable license agreement" means a license
+22 agreement contained on or in the package, which by its terms becomes
+23 effective upon opening of the package and accepting the licensing
+24 agreement. "Tear-open nonnegotiable license agreement" does not
+25 include a written license agreement or contract signed by the licensor and
+26 the licensee.
+27 (III) The internalized instruction code that controls the basic
+-9- 1223
+
+1 operations, such as arithmetic and logic, of the computer causing it to
+2 execute instructions contained in system programs is an integral part of
+3 the computer and is not normally accessible or modifiable by the user.
+4 Such internalized instruction code is considered part of the hardware and
+5 considered tangible personal property that is taxable pursuant to section
+6 39-26-104 (1)(a). The fact that the vendor does or does not charge
+7 separately for such code is immaterial.
+8 (IV) If a retailer sells computer software to a Colorado purchaser
+9 that is considered tangible personal property taxable pursuant to section
+10 39-26-104 (1)(a) and the Colorado purchaser pays the retailer for a
+11 quantity of computer software licenses with the intent to distribute the
+12 computer software to any of the purchaser's locations outside of
+13 Colorado, the measure of Colorado sales tax due is the total of the license
+14 fees associated only with the licenses that are actually used in Colorado.
+15 The Colorado purchaser shall provide a written statement to the retailer,
+16 attesting to the amount of the license fees associated with Colorado and
+17 with points outside of Colorado. The written statement shall relieve the
+18 retailer of any liability associated with the proration.
+19 SECTION 3. In Colorado Revised Statutes, 39-26-102, add
+20 (21)(c) as follows:
+21 39-26-102. Performance statement - definitions - repeal.
+22 As used in this article 26, unless the context otherwise requires:
+23 (21) (c) (I) BEGINNING JULY 1, 2026, BUT BEFORE JULY 1, 2046,
+24 A RETAILER THAT SELLS FOOD OR DRINK AS DESCRIBED IN SECTION
+25 39-26-104 (1)(e) IS DEEMED TO USE GAS AND ELECTRICITY IN THE
+26 PROCESSING OF PREPARED FOOD AS FOLLOWS:
+27 (A) IF THE RETAILER'S SALES OF PREPARED FOOD EXCEED
+-10- 1223
+
+1 TWENTY-FIVE PERCENT OF THE RETAILER'S TOTAL SALES REVENUE, ONE
+2 HUNDRED PERCENT OF THE PURCHASE PRICE PAID BY THE RETAILER FOR
+3 GAS AND ELECTRICITY IS EXEMPT FROM TAXATION UNDER THE PROVISIONS
+4 OF THIS PART 1. THE RETAILER MAY CLAIM THE EXEMPTION DESCRIBED IN
+5 THIS SUBSECTION (21)(c)(I)(A) WITH THE GAS OR ELECTRIC SERVICE
+6 UTILITY OR AS A CREDIT AGAINST THE TAX COLLECTED BY THE RETAILER.
+7 (B) IF THE RETAILER'S SALES OF PREPARED FOOD ARE
+8 TWENTY-FIVE PERCENT OR LESS OF THE RETAILER'S TOTAL SALES
+9 REVENUE, THE RETAILER IS ALLOWED A CREDIT AGAINST THE TAX
+10 COLLECTED BY THE RETAILER PURSUANT TO THIS PART 1 IN AN AMOUNT
+11 EQUAL TO ONE-HALF OF ONE PERCENT OF A RETAILER'S SALES OF
+12 PREPARED FOOD.
+13 (II) A RETAILER WHO CHOOSES TO CLAIM THE CREDIT ALLOWED
+14 BY THIS SUBSECTION (21)(c) MUST CLAIM THE CREDIT FOR THE PREVIOUS
+15 CALENDAR YEAR ON THE SALES TAX RETURN MADE FOR THE MONTH OF
+16 JANUARY; EXCEPT THAT A SEASONAL RETAILER MUST CLAIM THE CREDIT
+17 ON THE SALES TAX RETURN MADE FOR THE MONTH OF JUNE.
+18 SECTION 4. In Colorado Revised Statutes, 39-26-105, amend
+19 (1.3)(a)(III)(C), (1.3)(a)(V)(B), (1.3)(a)(V)(C), (1.3)(b)(I), (1.3)(c),
+20 (1.3)(c.5), and (1.3)(f.7); and add (1.3)(a)(V)(D), (1.3)(a)(V)(E), and
+21 (1.3)(b)(III) as follows:
+22 39-26-105. Vendor liable for tax - definitions - repeal.
+23 (1.3) (a) As used in this subsection (1.3), unless the context
+24 otherwise requires:
+25 (III) (C) "Qualifying retailer" means, for the specified sales tax
+26 period PERIODS in subsection (1.3)(a)(V)(C) SUBSECTIONS (1.3)(a)(V)(C),
+27 (1.3)(a)(V)(D), and (1.3)(a)(V)(E) of this section, a retailer doing
+-11- 1223
+
+1 business in the state that timely files sales tax returns as required under
+2 subsection (1)(b) of this section and section 39-26-109 and that operates
+3 in the alcoholic beverages drinking places industry, the catering industry,
+4 the food services contractor industry, the restaurant and other eating
+5 places industry, or the mobile food services industry, or that operates a
+6 hotel-operated restaurant, bar, or catering service.
+7 (V) (B) On and after June 14, 2021, but before June 3, 2022 BUT
+8 BEFORE THE EFFECTIVE DATE OF THIS SUBSECTION (1.3)(a)(V)(B), AS
+9 AMENDED, "specified sales tax period" means sales made in June 2021,
+10 July 2021, and August 2021, for which monthly returns must be filed
+11 pursuant to subsection (1)(b) of this section, on July 20, 2021, August 20,
+12 2021, and September 20, 2021, respectively.
+13 (C) On and after June 3, 2022 ON AND AFTER THE EFFECTIVE DATE
+14 OF THIS SUBSECTION (1.3)(a)(V)(C), AS AMENDED, "specified sales tax
+15 period" means sales made in July 2022, August 2022, and September
+16 2022, for which monthly returns must be filed pursuant to subsection
+17 (1)(b) of this section, on August 20, 2022, September 20, 2022, and
+18 October 20, 2022, respectively.
+19 (D) ON AND AFTER THE EFFECTIVE DATE OF THIS SUBSECTION
+20 (1.3)(a)(V)(D), AS AMENDED, "SPECIFIED SALES TAX PERIOD" MEANS
+21 SALES MADE IN JULY 2027, AUGUST 2027, NOVEMBER 2027, AND
+22 DECEMBER 2027, FOR WHICH MONTHLY RETURNS MUST BE FILED
+23 PURSUANT TO SUBSECTION (1)(b) OF THIS SECTION, ON AUGUST 20, 2027,
+24 SEPTEMBER 20, 2027, DECEMBER 20, 2027, AND JANUARY 20, 2028,
+25 RESPECTIVELY.
+26 (E) IN ADDITION TO THE DEFINITION IN SUBSECTION (1.3)(a)(V)(D),
+27 ON AND AFTER THE EFFECTIVE DATE OF THIS SUBSECTION (1.3)(a)(V)(E),
+-12- 1223
+
+1 AS AMENDED, "SPECIFIED SALES TAX PERIOD" MEANS SALES MADE IN JULY
+2 2028, AUGUST 2028, NOVEMBER 2028, AND DECEMBER 2028, FOR WHICH
+3 MONTHLY RETURNS MUST BE FILED PURSUANT TO SUBSECTION (1)(b) OF
+4 THIS SECTION, ON AUGUST 20, 2028, SEPTEMBER 20, 2028, DECEMBER 20,
+5 2028, AND JANUARY 20, 2029, RESPECTIVELY.
+6 (b) (I) A qualifying retailer in the alcoholic beverages drinking
+7 places industry, in the restaurant and other eating places industry, in the
+8 food services contractor industry, or operating a hotel-operated restaurant,
+9 bar, or catering service may deduct from state net taxable sales the lesser
+10 of state net taxable sales or, EXCEPT AS PROVIDED IN SUBSECTION
+11 (1)(b)(III) OF THIS SECTION, seventy thousand dollars and retain the
+12 resulting sales tax collected for each month specified in subsection
+13 (1.3)(a)(V) of this section.
+14 (III) FOR EACH MONTH SPECIFIED IN SUBSECTIONS (1.3)(a)(V)(D)
+15 AND (1.3)(a)(V)(E) OF THIS SECTION, THE MAXIMUM DEDUCTION ALLOWED
+16 PURSUANT TO SUBSECTION (1.3)(b)(I) OF THIS SECTION IS FOURTEEN
+17 THOUSAND DOLLARS.
+18 (c) (I) A qualifying retailer in the mobile food services industry
+19 may deduct from state net taxable sales the lesser of aggregate state net
+20 taxable sales for all sites or EXCEPT AS OTHERWISE PROVIDED IN
+21 SUBSECTION (1)(c)(II) OF THIS SECTION, seventy thousand dollars per
+22 motorized vehicle or nonmotorized cart, not to exceed five motorized
+23 vehicles or nonmotorized carts, and retain the resulting state sales tax
+24 collected for each month IN THE SPECIFIED SALES TAX PERIOD specified in
+25 subsection (1.3)(a)(V)(A) of this section.
+26 (II) FOR EACH MONTH SPECIFIED IN SUBSECTIONS (1.3)(a)(V)(D)
+27 AND (1.3)(a)(V)(E) OF THIS SECTION, THE MAXIMUM DEDUCTION ALLOWED
+-13- 1223
+
+1 PURSUANT TO SUBSECTION (1.3)(c)(I) OF THIS SECTION IS FOURTEEN
+2 THOUSAND DOLLARS.
+3 (c.5) (I) A qualifying retailer in the catering industry may deduct
+4 from state net taxable sales the lesser of aggregate state net taxable sales
+5 for all events or EXCEPT AS PROVIDED IN SUBSECTION (1)(c.5)(II) OF THIS
+6 SECTION, seventy thousand dollars and retain the resulting state sales tax
+7 collected for each month specified in subsection (1.3)(a)(V) of this
+8 section.
+9 (II) FOR EACH MONTH SPECIFIED IN SUBSECTIONS (1.3)(a)(V)(D)
+10 AND (1.3)(a)(V)(E) OF THIS SECTION, THE MAXIMUM DEDUCTION ALLOWED
+11 PURSUANT TO SUBSECTION (1.3)(c.5)(I) OF THIS SECTION IS FOURTEEN
+12 THOUSAND DOLLARS.
+13 (f.7) To the extent that information is available, and without
+14 changing the sales tax return form, the department of revenue shall
+15 include a report to its committee of reference at a hearing held in January
+16 2023 EACH YEAR, pursuant to section 2-7-203 (2)(a) of the "State
+17 Measurement for Accountable, Responsive, and Transparent (SMART)
+18 Government Act" specifying:
+19 (I) The amount of sales tax revenue that the state did not collect
+20 in 2022 THE PREVIOUS CALENDAR YEAR as a result of the deduction
+21 allowed in this subsection (1.3); and
+22 (II) How many retailers elected to take advantage of the deduction
+23 allowed in this subsection (1.3) in 2022 THE PREVIOUS CALENDAR YEAR.
+24 SECTION 5. In Colorado Revised Statutes, 39-26-123, amend
+25 (3)(b)(I)(B) as follows:
+26 39-26-123. Receipts - disposition - transfers of general fund
+27 surplus - sales tax holding fund - creation - definitions.
+-14- 1223
+
+1 (3) For any state fiscal year commencing on or after July 1, 2013,
+2 the state treasurer shall credit eighty-five percent of all net revenue
+3 collected under this article 26 to the old age pension fund created in
+4 section 1 of article XXIV of the state constitution. The state treasurer
+5 shall credit to the general fund the remaining fifteen percent of the net
+6 revenue, less:
+7 (b) (I) (B) Except as set forth in subsection (3)(b)(II) of this
+8 section and subject to subsection (3)(b)(III) of this section, beginning
+9 January 1, 2026, AND UNTIL DECEMBER 31, 2026, MONTHLY, an amount
+10 equal to one and six hundred fifty-five thousandths percent of net revenue
+11 excluding net revenue collected under part 2 of this article 26, which
+12 amount the state treasurer shall credit to the housing development grant
+13 fund created in section 24-32-721 (1), AND, BEGINNING JANUARY 1, 2027,
+14 MONTHLY, AN AMOUNT EQUAL TO ONE AND SIX HUNDRED TWENTY-FIVE
+15 THOUSANDTHS PERCENT OF NET REVENUE EXCLUDING NET REVENUE
+16 COLLECTED UNDER PART 2 OF THIS ARTICLE 26, WHICH AMOUNT THE STATE
+17 TREASURER SHALL CREDIT TO THE HOUSING DEVELOPMENT GRANT FUND
+18 CREATED IN SECTION 24-32-721 (1).
+19 SECTION 6. In Colorado Revised Statutes, 39-26-713, add (3)
+20 as follows:
+21 39-26-713. Tangible personal property.
+22 (3) THE SALE, STORAGE, USE, OR CONSUMPTION OF COMPUTER
+23 SOFTWARE, AS DEFINED IN SECTION 39-26-102 (15)(c)(II)(B), IS EXEMPT
+24 FROM TAXATION UNDER THE PROVISIONS OF PARTS 1 AND 2 OF THIS
+25 ARTICLE 26 IF THAT SALE, STORAGE, USE, OR CONSUMPTION OF COMPUTER
+26 SOFTWARE IS EITHER GOVERNED BY A NEGOTIABLE LICENSE AGREEMENT
+27 OR DEVELOPED FOR USE BY A PARTICULAR USER.
+-15- 1223
+
+1 (a) FOR PURPOSES OF THIS ARTICLE 26, "NEGOTIATED LICENSE
+2 AGREEMENT" MEANS A WRITTEN AGREEMENT OR CONTRACT THAT IS
+3 INDIVIDUALLY BARGAINED BETWEEN THE LICENSOR AND LICENSEE AND
+4 THAT IS SIGNED IN WRITING BY AUTHORIZED REPRESENTATIVES OF BOTH
+5 THE LICENSOR AND LICENSEE PRIOR TO OR CONTEMPORANEOUS WITH THE
+6 LICENSEE'S ACCESS TO OR USE OF THE SOFTWARE.
+7 (b) FOR PURPOSES OF THIS ARTICLE 26, "INDIVIDUALLY BARGAINED
+8 BETWEEN THE LICENSOR AND LICENSEE" SPECIFICALLY EXCLUDES A
+9 STANDARD, FORM, OR BOILERPLATE AGREEMENT THAT IS OFFERED BY THE
+10 LICENSOR ON A NONNEGOTIABLE OR SUBSTANTIALLY NONNEGOTIABLE
+11 BASIS TO MULTIPLE LICENSEES, REGARDLESS OF WHETHER THE
+12 AGREEMENT BEARS A HANDWRITTEN OR ELECTRONIC SIGNATURE, OR THE
+13 AGREEMENT IS PRINTED ON, WITHIN, OR AFFIXED TO THE SOFTWARE
+14 PACKAGING; EMBEDDED WITHIN THE COMPUTER SOFTWARE ITSELF; OR
+15 PRESENTED AS PART OF THE TERMS AND CONDITIONS OF ANY WEBSITE OR
+16 APPLICATION THROUGH WHICH THE SOFTWARE IS ACQUIRED, ACCESSED, OR
+17 USED.
+18 (c) FOR PURPOSES OF THIS ARTICLE 26, "SIGNED IN WRITING BY
+19 AUTHORIZED REPRESENTATIVES OF BOTH THE LICENSOR AND LICENSEE"
+20 SPECIFICALLY EXCLUDES AN ACCEPTANCE BY THE LICENSEE ON A
+21 CLICK-THROUGH, BROWSE-WRAP, SHRINK-WRAP, EMBEDDED SIGNATURE,
+22 IMPLIED, ACCOUNT CREATION, OR ANY OTHER AUTOMATED BASIS; EXCEPT
+23 THAT "SIGNED IN WRITING BY AUTHORIZED REPRESENTATIVES OF BOTH
+24 THE LICENSOR AND LICENSEE" MAY INCLUDE A SIGNATURE PERFORMED
+25 THROUGH AN ELECTRONIC SIGNATURE METHOD AUTHORIZED PURSUANT
+26 TO SECTION 39-21-120 AND DEPARTMENT RULES AND SPECIFICALLY
+27 INCLUDES ELECTRONIC SIGNATURE METHODS SUCH AS DOCUSIGN OR A
+-16- 1223
+
+1 SIMILAR AUTHENTICATED ELECTRONIC SIGNATURE.
+2 SECTION 7. In Colorado Revised Statutes, 39-26-715, add
+3 (2)(b)(IV) as follows:
+4 39-26-715. Fuel and oil - definitions.
+5 (2) The following are exempt from taxation under the provisions
+6 of part 2 of this article 26:
+7 (b) (IV) BEGINNING JULY 1, 2026, BUT BEFORE JULY 1, 2046, FOR
+8 PURPOSES OF THIS SUBSECTION (2)(b), THE DEEMED USAGE RULES SET
+9 FORTH IN SECTION 39-26-102 (21)(c)(I) APPLY.
+10
+11 SECTION 8. Appropriation. (1) For the 2026-27 state fiscal
+12 year, $48,326 is appropriated to the department of revenue. This
+13 appropriation is from the general fund. To implement this act, the
+14 department may use this appropriation as follows:
+15 (a) $10,086 to the executive director's office for personal services
+16 related to administration and support;
+17 (b) $13,821 to the taxation business group for personal services
+18 related to taxation services; and
+19 (c) $24,419 for tax administration IT system (GenTax) support.
+20 SECTION 9. Applicability. Sections 2 and 3 of this act apply to
+21 the sale, storage, use, and consumption of tangible personal property on
+22 or after January 1, 2027.
+23 SECTION 10. Effective date. This act takes effect upon passage;
+24 except that section 1 of this act takes effect only if House Bill 26-1221
+25 and House Bill 26-1222 do not become law.
+26 SECTION 11. Safety clause. The general assembly finds,
+27 determines, and declares that this act is necessary for the immediate
+-17- 1223
+
+1 preservation of the public peace, health, or safety or for appropriations for
+2 the support and maintenance of the departments of the state and state
+3 institutions.
+-18- 1223

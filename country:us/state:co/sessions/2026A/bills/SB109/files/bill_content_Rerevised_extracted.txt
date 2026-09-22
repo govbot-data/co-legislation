@@ -1,0 +1,261 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0734.01 Sam Anderson x4218 SENATE BILL 26-109
+Senate Committees House Committees
+Local Government & Housing Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING BUILDING CODE STANDARDS FOR ACCESSIBLE HOUSING
+102 SUPPORTED BY PUBLIC MONEY.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes the following changes to statutes concerning
+standards for accessible housing:
+! Repeals the definition of "ground story level";
+! Updates and clarifies definitions that reference
+International Code Council standards;
+! Clarifies that the intent and purpose of the standards for
+ESUOH
+ESUOH
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,12
+lirpA
+6202
+,51
+lirpA
+6202
+,11
+hcraM
+6202
+,01
+hcraM
+SENATE SPONSORSHIP
+Exum and Cutter, Amabile, Coleman, Gonzales J., Jodeh, Kipp, Wallace, Weissman
+HOUSE SPONSORSHIP
+Joseph and Ricks, Titone
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+accessible housing law is to serve persons with
+nonambulatory and semiambulatory disabilities;
+! Permits covered enforcing agencies to develop alternative
+processes to resolve appeals of orders, decisions, or
+determinations made by the enforcing agency regarding the
+application and interpretation of the standards for
+accessible housing law; and
+! Requires covered developers to create an implementation
+plan to deliver accessible units as required by the standards
+for accessible housing law.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 9-5-101, amend
+3 (5.5), (10), (11), (12), (13), and (14); repeal (5) and (8); and add (2.5)
+4 and (4.5) as follows:
+5 9-5-101. Definitions.
+6 As used in this article 5, unless the context otherwise requires:
+7
+8 (2.5) "ACCESSIBLE STORY" MEANS A STORY ON AN ACCESSIBLE
+9 ROUTE THAT CONTAINS LIVING, SLEEPING, COOKING, BATHING, AND TOILET
+10 FACILITIES AND, IF AVAILABLE IN THE DWELLING UNIT, LAUNDRY
+11 FACILITIES. FOR THE PURPOSES OF THIS ARTICLE 5, A BASEMENT IS NOT AN
+12 "ACCESSIBLE STORY" IF THE BASEMENT FLOOR IS LOCATED MORE THAN
+13 FOUR FEET BELOW THE EXTERIOR FINISHED GRADE, WHICH IS DETERMINED
+14 BY ASSESSING THE VERTICAL DIFFERENCE AT ANY POINT ALONG THE
+15 EXPOSED PERIPHERY OF THE DWELLING UNIT.
+16 (4.5) "DWELLING UNIT" MEANS ANY PORTION OF A BUILDING THAT
+17 CONTAINS LIVING FACILITIES, INCLUDING A ROOM OR ROOMS IN A LIVING
+18 FACILITY THAT HAVE SHARED COOKING, BATHING, TOILET, OR LAUNDRY
+19 FACILITIES SUCH AS DORMITORIES, SHELTERS, ASSISTED LIVING FACILITIES,
+20 AND BOARDING HOMES. "DWELLING UNIT" ALSO MEANS LIVING FACILITIES
+-2- 109
+
+1 THAT INCLUDE PROVISIONS FOR SLEEPING, COOKING, BATHING, AND TOILET
+2 FACILITIES FOR ONE OR MORE PERSONS AND ARE USED FOR EXTENDED
+3 STAYS, SUCH AS TIME-SHARES AND EXTENDED-STAY MOTELS. "DWELLING
+4 UNIT" DOES NOT MEAN A GUEST ROOM IN A MOTEL OR HOTEL.
+5 (5) "Ground story level" means the lowest story in a dwelling unit
+6 containing habitable rooms or areas with an accessible entrance located
+7 on an accessible route that contains living, sleeping, cooking, bathing, and
+8 toilet facilities. For the purposes of this article, a basement shall not be
+9 considered the ground story level if the finished basement floor is located
+10 more than four feet below the exterior finished grade determined at any
+11 point along the exposed periphery of the dwelling unit.
+12 (5.5) "ICC/ANSI A117.1 ICC A117.1" means the "Accessible and
+13 Usable Buildings and Facilities" standard "STANDARD FOR ACCESSIBLE
+14 AND USABLE BUILDINGS AND FACILITIES" 2017 EDITION, or any successor
+15 standard, promulgated and amended from time to time by the
+16 international code council AS ADOPTED BY REFERENCE BY THE BUILDING
+17 CODE OF THE RESPONSIBLE ENFORCEMENT AGENCY.
+18 (8) "Residential Dwelling unit" means any portion of a building
+19 that contains living facilities, including a room or rooms in a facility that
+20 have shared cooking, bathing, toilet, or laundry facilities such as
+21 dormitories, shelters, assisted living facilities, and boarding homes.
+22 "Residential Dwelling unit" also means facilities that include provisions
+23 for sleeping, cooking, bathing, and toilet facilities for one or more
+24 persons and are used for extended stays, such as time-shares and
+25 extended-stay motels. "Residential Dwelling unit" does not mean a guest
+26 room in a motel or hotel.
+27 (10) "Type A dwelling unit" means a dwelling unit designed in
+-3- 109
+
+1 accordance with ICC/ANSI A117.1, section 1002 ICC A117.1 SECTION
+2 1103, or any successor section within ICC/ANSI A117.1 ICC A117.1.
+3 (11) "Type A multistory dwelling unit" means a multiple-story
+4 dwelling unit with a ground story level designed in accordance with
+5 ICC/ANSI A117.1, section 1002 ICC A117.1 SECTION 1103, or any
+6 successor section within ICC/ANSI A117.1 and, if provided, accessible
+7 laundry facilities 7 on the ground story level ICC A117.1 WHERE THERE
+8 IS AT LEAST ONE ACCESSIBLE STORY THAT CAN BE ACCESSED VIA AN
+9 ACCESSIBLE ROUTE CONNECTED TO AN ACCESSIBLE ENTRANCE.
+10 (12) "Type B dwelling unit" means a dwelling unit with a ground
+11 floor level designed in accordance with ICC/ANSI A117.1, section 1003
+12 ICC A117.1 SECTION 1104, or any successor section within ICC/ANSI
+13 A117.1 ICC A117.1.
+14 (13) "Type B multistory dwelling unit" means a multiple-story
+15 dwelling unit with a ground story level designed in accordance with
+16 ICC/ANSI A117.1, section 1003 ICC A117.1 SECTION 1104, or any
+17 successor section within ICC/ANSI A117.1 and, if provided, accessible
+18 laundry facilities 7 on the ground story level ICC A117.1 WHERE THERE
+19 IS AT LEAST ONE ACCESSIBLE STORY THAT CAN BE ACCESSED VIA AN
+20 ACCESSIBLE ROUTE CONNECTED TO AN ACCESSIBLE ENTRANCE.
+21 (14) "Type B visitable ground floor TYPE C VISITABLE DWELLING
+22 UNIT" means a multiple-story dwelling unit with an accessible entrance
+23 and ACCESSIBLE toilet facility designed in accordance with ICC/ANSI
+24 A117.1, section 1003 ICC A117.1 SECTION 1105, or any successor section
+25 within ICC/ANSI A117.1 ICC A117.1.
+26
+27 SECTION 2. In Colorado Revised Statutes, 9-5-103, amend (1)
+-4- 109
+
+1 and (2); and repeal (3) as follows:
+2 9-5-103. Applicability of standards - enforcement.
+3 (1) The standards and specifications set forth in this article shall
+4 ARTICLE 5 apply to all buildings and facilities used for housing that are
+5 constructed in whole or in part by the use of state, county, or municipal
+6 funds MONEY or the funds MONEY of any political subdivision of the state
+7 or that are constructed with private funds MONEY. All such buildings and
+8 facilities to be constructed from plans on which architectural drawings are
+9 started after July 1, 1975, from any one of these funds or any combination
+10 thereof shall MUST conform to each of the standards and specifications
+11 prescribed in this article ARTICLE 5. The governmental unit responsible
+12 for the enforcement of this article ARTICLE 5 shall grant exceptions to or
+13 modify any particular standard or specification when it is determined THE
+14 GOVERNMENTAL UNIT RESPONSIBLE FOR ENFORCEMENT DETERMINES that
+15 it is impractical and would create an undue hardship. Any such exception
+16 or modification of the provisions of this article shall ARTICLE 5 MUST be
+17 made in writing as a matter of public record. These standards and
+18 specifications shall be adhered to in those buildings and facilities that are
+19 constructed or proposed on or after April 29, 2003. This article shall
+20 apply ARTICLE 5 APPLIES to permanent buildings.
+21 (2) The jurisdiction with responsibility for enforcement of this
+22 article ARTICLE 5 pursuant to section 9-5-104 shall designate a board of
+23 appeals OR OTHER PROCESS to hear and resolve appeals of orders,
+24 decisions, or determinations made by the enforcing agency regarding the
+25 application and interpretation of this article ARTICLE 5.
+26 (3) Any building or facility that would have been subject to this
+27 article 5 but was under construction prior to July 1, 1976, must comply
+-5- 109
+
+1 with the following:
+2 (a) If the walls or defining boundaries of an element or space are
+3 altered, then the altered element or space shall comply with the applicable
+4 provisions of section 9-5-105, unless such alteration is technically
+5 infeasible. If full compliance with this article is technically infeasible,
+6 compliance shall be implemented up to the point of technical infeasibility.
+7 No alteration shall be undertaken that negatively impacts accessibility of
+8 a building or facility pursuant to ICC/ANSI A117.1. This subsection
+9 (3)(a) shall not be construed to require the moving of any existing walls
+10 not otherwise planned to be moved.
+11 (b) Any additions to a building or facility shall be treated as new
+12 construction for the purposes of enforcement of this article.
+13 SECTION 3. In Colorado Revised Statutes, 9-5-105, amend (1)
+14 and (2)(b) as follows:
+15 9-5-105. Exemptions for certain privately funded projects.
+16 (1) Accessible dwelling units shall be provided as required in this
+17 article ARTICLE 5; except that this article ARTICLE 5 does not apply to
+18 privately funded projects for the construction of a detached residence
+19 DETACHED RESIDENTIAL DWELLING UNITS or residences or to other types
+20 of residential property containing less than seven residential DWELLING
+21 units. For the purpose of determining the number of accessibility points
+22 required pursuant to subsection (2) of this section, the accessible dwelling
+23 unit types shall have the following point values:
+24 Accessible dwelling Accessibility point value
+25 unit type: per dwelling unit:
+26 Type A dwelling unit 6
+27 Type A multistory dwelling unit 5
+-6- 109
+
+1 Type B dwelling unit 4
+2 Type B multistory dwelling unit 3
+3 Type B visitable ground floor
+4 TYPE C VISITABLE DWELLING UNIT 1
+5 (2) Residential projects.
+6 (b) A project shall MUST include enough accessible dwelling units
+7 to achieve at least the specified number of accessibility points required
+8 pursuant to paragraph (a) of this subsection (2) SUBSECTION (2)(a) OF THIS
+9 SECTION.
+10 (I) A project WITH FEWER THAN FIFTY UNITS may use any
+11 combination of accessible dwelling unit types to comply with this section.
+12 (II) AT LEAST TWO PERCENT OF UNITS IN A PROJECT WITH FIFTY OR
+13 MORE UNITS MUST BE ACCESSIBLE DWELLING UNITS AND MUST INCLUDE AT
+14 LEAST ONE UNIT THAT IS EITHER TYPE A, TYPE A MULTISTORY, TYPE B,
+15 TYPE B MULTISTORY, OR TYPE C VISITABLE DWELLING UNIT.
+16 SECTION 4. In Colorado Revised Statutes, amend 9-5-106 as
+17 follows:
+18 9-5-106. Implementation plan.
+19 The DEVELOPER OR builder of any project regulated by this article
+20 ARTICLE 5 shall create an implementation plan that guarantees the timely
+21 and evenly phased delivery of the required number of accessible
+22 DWELLING units. Such THE plan shall MUST clearly specify the number
+23 and type of ACCESSIBLE DWELLING units required and the order in which
+24 they are to be completed. Such THE implementation plan shall MUST be
+25 subject to approval by the entity with enforcement authority in such THE
+26 project's jurisdiction. The implementation plan shall not be approved
+27 ENTITY WITH ENFORCEMENT AUTHORITY SHALL NOT APPROVE THE
+-7- 109
+
+1 IMPLEMENTATION PLAN if more than thirty percent of the project is
+2 intended to be completed without providing a portion of accessible
+3 DWELLING units required by section 9-5-105; except that, if an undue
+4 hardship can be demonstrated, or other guarantees provided are deemed
+5 THE DEVELOPER OR BUILDER CAN DEMONSTRATE AN UNDUE HARDSHIP OR
+6 PROVIDE OTHER GUARANTEES THAT THE JURISDICTION WITH
+7 ENFORCEMENT AUTHORITY DEEMS sufficient, the jurisdiction having
+8 responsibility for enforcement may grant exceptions to this requirement.
+9 The implementation plan shall MUST be approved by the governmental
+10 unit responsible for enforcement before a building permit is issued.
+11 SECTION 5. Safety clause. The general assembly finds,
+12 determines, and declares that this act is necessary for the immediate
+13 preservation of the public peace, health, or safety or for appropriations for
+14 the support and maintenance of the departments of the state and state
+15 institutions.
+-8- 109

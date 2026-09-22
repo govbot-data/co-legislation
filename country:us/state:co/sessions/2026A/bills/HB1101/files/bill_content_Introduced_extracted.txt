@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0609.01 Owen Hatch x2698 HOUSE BILL 26-1101
+HOUSE SPONSORSHIP
+Espenoza and Soper,
+SENATE SPONSORSHIP
+Lindstedt and Pelton B.,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING ADDING CRIMINAL OFFENSES RELATED TO CRITICAL
+102 INFRASTRUCTURE COMPONENTS TO CRIMINAL OFFENSES
+103 INVOLVING COMMODITY METALS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill defines critical infrastructure related to commodity metals
+and adds several different criminal offenses related to the sale of,
+possession of, and failure to report stolen critical infrastructure.
+The bill prohibits an owner, keeper, or proprietor (owner) of a junk
+shop, junk store, salvage yard, or junk cart or other vehicle and every
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+collector of or dealer in junk, salvage, or other secondhand property who
+buys a commodity metal that was part of critical infrastructure (buyer)
+from paying cash for the commodity metal unless the seller is paid by
+means of any process in which a picture of the seller is taken.
+The bill prohibits a buyer from possessing a commodity metal that
+was part of critical infrastructure without a certification from the seller or
+donator of the commodity metal. A buyer who unknowingly takes
+possession of commodity metals from critical infrastructure as part of a
+load of otherwise non-commodity metals without a written certification
+has a duty to notify the appropriate law enforcement agency or municipal
+code enforcement agency.
+An owner of a junk shop, junk store, salvage yard, or junk cart
+must make their book or register available to a law enforcement agency
+or municipal code enforcement agency upon request.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 18-13-111, amend
+3 (1)(e), (1.5), (2), (5) introductory portion, (5)(e), (6), (10)(a)(II), and
+4 (10)(a)(III); and add (1.6), (8)(c.5), and (10)(a)(IV) as follows:
+5 18-13-111. Purchases of commodity metals, critical
+6 infrastructure metals, or detached catalytic converters - violations -
+7 creation - composition - reports - legislative declaration - definitions.
+8 (1) (e) The book or register shall MUST be made available to any
+9 peace officer A LAW ENFORCEMENT AGENCY OR MUNICIPAL CODE
+10 ENFORCEMENT AGENCY for inspection at any reasonable time UPON
+11 REQUEST.
+12 (1.5) (a) An owner, keeper, proprietor, collector, or dealer is
+13 permitted to pay a seller in cash for any commodity metal or detached
+14 catalytic converter transaction of three hundred dollars or less, UNLESS
+15 THE TRANSACTION INVOLVES A COMMODITY METAL THAT THE PAYING
+16 PARTY KNOWS OR SHOULD HAVE KNOWN WAS PART OF CRITICAL
+17 INFRASTRUCTURE.
+-2- HB26-1101
+
+1 (b) If the transaction costs more than three hundred dollars OR
+2 INVOLVES A COMMODITY METAL THAT THE PAYING PARTY KNOWS OR
+3 SHOULD HAVE KNOWN WAS PART OF CRITICAL INFRASTRUCTURE, the
+4 owner, keeper, proprietor, collector, or dealer shall pay the seller of a
+5 commodity metal or detached catalytic converter by check unless the
+6 seller is paid by means of any process in which a picture of the seller is
+7 taken when the money is paid.
+8 (1.6) (a) (I) AN OWNER, KEEPER, PROPRIETOR, COLLECTOR, OR
+9 DEALER SHALL NOT POSSESS A COMMODITY METAL THAT WAS PART OF
+10 CRITICAL INFRASTRUCTURE WITHOUT ALSO POSSESSING A WRITTEN
+11 CERTIFICATION ON THE LETTERHEAD OF THE PERSON WHO TRANSFERRED
+12 THE COMMODITY METAL TO THE OWNER, KEEPER, PROPRIETOR,
+13 COLLECTOR, OR DEALER. THE CERTIFICATION MUST SAY THAT THE
+14 TRANSFEROR MAY LAWFULLY TRANSFER THE COMMODITY METAL AND, IF
+15 AN AGENT OF THE TRANSFEROR IS IN POSSESSION OF THE COMMODITY
+16 METAL, THAT THE TRANSFEROR'S AGENT IS AUTHORIZED TO NEGOTIATE
+17 THE SALE OR OTHER TRANSFER OF THE COMMODITY METAL.
+18 (II) AN OWNER, KEEPER, PROPRIETOR, COLLECTOR, OR DEALER
+19 WHO KNOWINGLY POSSESSES A COMMODITY METAL THAT WAS PART OF
+20 CRITICAL INFRASTRUCTURE IN VIOLATION OF THIS SUBSECTION (1.6)(a)
+21 COMMITS UNLAWFUL POSSESSION OF CRITICAL INFRASTRUCTURE.
+22 (b) (I) AN OWNER, KEEPER, PROPRIETOR, COLLECTOR, OR DEALER
+23 WHO UNKNOWINGLY TAKES POSSESSION OF COMMODITY METALS FROM
+24 CRITICAL INFRASTRUCTURE AS PART OF A LOAD OF OTHERWISE
+25 NON-COMMODITY METALS WITHOUT A WRITTEN CERTIFICATION, AS
+26 DESCRIBED IN SUBSECTION (1.6)(a)(I) OF THIS SECTION, HAS A DUTY TO
+27 NOTIFY THE APPROPRIATE LAW ENFORCEMENT AGENCY OR MUNICIPAL
+-3- HB26-1101
+
+1 CODE ENFORCEMENT AGENCY BY THE END OF THE NEXT BUSINESS DAY
+2 AFTER DISCOVERING THE PROHIBITED MATERIAL. WRITTEN CERTIFICATION
+3 RELIEVES THE OWNER, KEEPER, PROPRIETOR, COLLECTOR, OR DEALER
+4 FROM PENALTY FOR POSSESSION OF THE PROHIBITED MATERIAL. THE
+5 PROHIBITED MATERIAL MUST BE SET ASIDE AND MUST NOT BE SOLD,
+6 PENDING A DETERMINATION AS TO ITS LEGAL STATUS MADE BY A LAW
+7 ENFORCEMENT AGENCY OR MUNICIPAL CODE ENFORCEMENT AGENCY.
+8 (II) AN OWNER, KEEPER, PROPRIETOR, COLLECTOR, OR DEALER
+9 WHO UNKNOWINGLY TAKES POSSESSION OF COMMODITY METALS FROM
+10 CRITICAL INFRASTRUCTURE AS PART OF A LOAD OF OTHERWISE
+11 NON-COMMODITY METALS WITHOUT A WRITTEN CERTIFICATION AND DOES
+12 NOT NOTIFY THE APPROPRIATE LAW ENFORCEMENT AGENCY OR MUNICIPAL
+13 CODE ENFORCEMENT AGENCY BY THE END OF THE NEXT BUSINESS DAY IN
+14 VIOLATION OF THIS SUBSECTION (1.6)(b) COMMITS FAILURE TO REPORT
+15 STOLEN CRITICAL INFRASTRUCTURE.
+16 (2) Except as otherwise provided in subsection (3) of this section,
+17 the owner, keeper, proprietor, collector, or dealer of any commodity metal
+18 or detached catalytic converter shall make a digital photographic record,
+19 video record, or other record that identifies the seller and the commodity
+20 metal or detached catalytic converter that the seller is selling. The digital
+21 photographic record, video record, or other record format shall be
+22 retained for one hundred eighty days, and the owner shall permit a law
+23 enforcement officer OR MUNICIPAL CODE ENFORCEMENT OFFICER to make
+24 inspections of the record.
+25 (5) A person who violates subsection (1) of this section by failing
+26 to keep a book or register, any A person who knowingly gives false
+27 information with respect to the information required to be maintained in
+-4- HB26-1101
+
+1 the book or register provided for in subsection (1) of this section, and any
+2 A person who violates subsection (1.3), (1.5), (1.6), or (2) of this section
+3 commits:
+4 (e) A class 5 felony if:
+5 (I) The amount is five thousand dollars or more but less than
+6 twenty thousand dollars; OR
+7 (II) THE VIOLATION INVOLVES COMMODITY METALS USED IN
+8 CRITICAL INFRASTRUCTURE WITH A VALUE OF MORE THAN TWO THOUSAND
+9 DOLLARS BUT LESS THAN TWENTY THOUSAND DOLLARS;
+10 (6) (a) There is a rebuttable presumption that metal purchased by
+11 a dealer for the purpose of recycling is a commodity metal if the
+12 commodity metal has a value of fifty cents per pound or greater for
+13 purposes of recycling the commodity metal.
+14 (b) THERE IS A REBUTTABLE PRESUMPTION THAT THE PAYING
+15 PARTY SHOULD HAVE KNOWN THE COMMODITY METAL WAS PART OF
+16 CRITICAL INFRASTRUCTURE IF THERE EXISTS EVIDENCE THAT THE
+17 INSULATING CASING OF A COMMODITY METAL WAS BURNED OR
+18 SMOLDERED OFF.
+19 (8) As used in this section, unless the context otherwise requires:
+20 (c.5) "CRITICAL INFRASTRUCTURE" MEANS ANY COMPONENT OF A
+21 COMMODITY METAL THAT IS USED IN COMMUNICATION, TRANSPORTATION,
+22 OR HOUSING INFRASTRUCTURE, THE THEFT OF WHICH POSES AN IMMINENT
+23 THREAT TO LIFE OR THE PHYSICAL SAFETY OF A PERSON, INCLUDING
+24 THROUGH SERIOUS HARM TO THE BASIC SUPPLY OF COMMUNICATION,
+25 TRANSPORTATION, OR HOUSING INFRASTRUCTURE TO THE POPULATION OR
+26 TO THE EXERCISE OF A CORE FUNCTION OF COMMUNICATION,
+27 TRANSPORTATION, OR HOUSING INFRASTRUCTURE.
+-5- HB26-1101
+
+1 (10) (a) The general assembly hereby finds, determines, and
+2 declares that:
+3 (II) Such thefts impact every community in Colorado; and
+4 (III) The regulation of commodity metal or detached catalytic
+5 converter purchases is a matter of statewide concern; AND
+6 (IV) IN THE CONTEXT OF COMMODITY METALS THAT MAKE UP
+7 CRITICAL INFRASTRUCTURE, THEIR THEFT REPRESENTS A SIGNIFICANT
+8 THREAT TO COLORADO CITIZENS.
+9 SECTION 2. Applicability. This act applies to offenses
+10 committed on or after the effective date of this act.
+11 SECTION 3. Safety clause. The general assembly finds,
+12 determines, and declares that this act is necessary for the immediate
+13 preservation of the public peace, health, or safety or for appropriations for
+14 the support and maintenance of the departments of the state and state
+15 institutions.
+-6- HB26-1101

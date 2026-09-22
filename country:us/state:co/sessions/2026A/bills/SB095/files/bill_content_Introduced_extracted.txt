@@ -1,0 +1,411 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0747.01 Shelby Ross x4510 SENATE BILL 26-095
+SENATE SPONSORSHIP
+Weissman,
+HOUSE SPONSORSHIP
+Froelich and Willford,
+Senate Committees House Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO SUPPORT VICTIM-SURVIVORS OF CERTAIN
+102 CRIMES THAT DO NOT INCLUDE CHANGES TO SUBSTANTIVE
+103 CRIMINAL OFFENSES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1 and 2 of the bill require a licensee, nurse, or certified
+midwife who performs a medical forensic examination to inform the
+victim-survivor about how to determine when the testing related to the
+examination is complete and how to obtain the results and records.
+Section 3 of the bill authorizes a hospital employee or agent who
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+is treating an emergency room patient for sexual assault to dispense a
+30-day supply of drugs for prophylaxis of sexually transmitted infections
+to the patient.
+Section 4 subjects a cause of action against a person arising from
+any protected statement by a victim-survivor to a special motion to
+dismiss unless the court determines that the plaintiff has established that
+there is a reasonable likelihood that the plaintiff will prevail on the claim.
+Section 5 of the bill makes a predispute arbitration agreement and
+predispute joint-action waiver void and unenforceable upon request of an
+individual who alleges conduct that results in a sexual harassment dispute
+or a sexual misconduct dispute or upon request of a named representative
+of a joint action, class action, or collective action that results in a sexual
+harassment dispute or a sexual misconduct dispute.
+Section 6 of the bill requires a judge to allow a forensic scientist
+to testify remotely in a criminal proceeding if a party requests and both
+parties consent to the remote testimony.
+Section 7 of the bill authorizes the court to order that the testimony
+of a victim-survivor of domestic violence, unlawful sexual behavior,
+stalking, human trafficking for involuntary servitude, or human
+trafficking for sexual servitude be taken in a room other than the
+courtroom and be televised by closed-circuit television in the courtroom
+under certain circumstances.
+Section 8 of the bill requires peace officer annual in-service
+training programs to include a 2-hour training to improve a peace officer's
+understanding of the impact of trauma on victim-survivors of crimes and
+the optimal way for a peace officer to respond to victim-survivors who
+are experiencing trauma. Section 10 of the bill includes trauma-informed
+investigation and response training as a permissible use of peace officer
+training and support fund money.
+Section 9 of the bill renames the Colorado sexual assault forensic
+medical evidence review board as the Colorado sexual assault response
+review board and adds 3 members to the board.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 12-240-139, amend
+3 (1)(b)(V)(B) and (1)(b)(V)(C); and add (1)(b)(V)(D) as follows:
+4 12-240-139. Injuries to be reported - exemptions - penalty for
+5 failure to report - immunity from liability - definitions.
+6 (1) (b) (V) A licensee, nurse, or certified midwife who performs
+7 a medical forensic examination as described in subsection (1)(b)(I) of this
+-2- SB26-095
+
+1 section shall inform the victim:
+2 (B) Of the contact information for the nearest community-based
+3 victim advocate pursuant to section 13-90-107 (1)(k)(II) if the victim
+4 makes a medical report pursuant to subsection (1)(b)(I)(B) of this section
+5 or an anonymous report pursuant to subsection (1)(b)(I)(C) of this
+6 section; and
+7 (C) That any forensic medical evidence collected must be
+8 maintained until after the assailant may no longer be prosecuted for the
+9 crime and that the victim must be notified prior to the destruction of such
+10 THE evidence; AND
+11 (D) HOW TO DETERMINE WHEN THE TESTING RELATED TO THE
+12 MEDICAL FORENSIC EXAMINATION IS COMPLETE AND HOW TO OBTAIN THE
+13 RESULTS AND RECORDS.
+14 SECTION 2. In Colorado Revised Statutes, 12-255-133.5,
+15 amend (1)(b) and (1)(c); and add (1)(d) as follows:
+16 12-255-133.5. Licensee duties related to medical forensic
+17 evidence.
+18 (1) A licensee who performs a medical forensic examination as
+19 described in section 12-240-139 (1)(b)(I) shall inform the victim:
+20 (b) Of the contact information for the nearest community-based
+21 victim advocate pursuant to section 13-90-107 (1)(k)(II) if the victim
+22 makes a medical report pursuant to section 12-240-139 (1)(b)(I)(B) or an
+23 anonymous report pursuant to section 12-240-139 (1)(b)(I)(C); and
+24 (c) That any forensic medical evidence collected must be
+25 maintained until after the assailant may no longer be prosecuted for the
+26 crime and that the victim must be notified prior to the destruction of such
+27 THE evidence; AND
+-3- SB26-095
+
+1 (d) HOW TO DETERMINE WHEN THE TESTING RELATED TO THE
+2 MEDICAL FORENSIC EXAMINATION IS COMPLETE AND HOW TO OBTAIN THE
+3 RESULTS AND RECORDS.
+4 SECTION 3. In Colorado Revised Statutes, 12-280-120, amend
+5 (10)(a)(II) as follows:
+6 12-280-120. Compounding - dispensing - sale of drugs and
+7 devices - rules - definition.
+8 (10) (a) (II) Notwithstanding subsection (10)(a)(I) of this section,
+9 if the hospital employee or agent described in subsection (10)(a)(I) of this
+10 section is treating a registered emergency room patient for sexual assault,
+11 the hospital employee or agent may, in accordance with the guidelines of
+12 the federal centers for disease control and prevention, dispense between
+13 a seven-day and twenty-eight-day UP TO A THIRTY-DAY supply of drugs
+14 for prophylaxis of sexually transmitted infections to the patient.
+15 SECTION 4. In Colorado Revised Statutes, add 13-20-1102 as
+16 follows:
+17 13-20-1102. Motion to dismiss - appeal - definitions.
+18 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+19 REQUIRES:
+20 (a) "COMPLAINT" MEANS A PETITION OR CROSS-COMPLAINT.
+21 (b) "DEFENDANT" MEANS A RESPONDENT OR CROSS-DEFENDANT.
+22 (c) "PLAINTIFF" MEANS A PETITIONER OR CROSS-COMPLAINANT.
+23 (d) "PROTECTED STATEMENT BY A VICTIM-SURVIVOR" MEANS:
+24 (I) ANY WRITTEN OR ORAL STATEMENT OR WRITING MADE IN
+25 CONNECTION WITH ANY PHASE OF A CRIMINAL INVESTIGATION OR
+26 PROCEEDING;
+27 (II) ANY WRITTEN OR ORAL STATEMENT OR WRITING MADE IN
+-4- SB26-095
+
+1 CONNECTION WITH AN INVESTIGATION CONDUCTED PURSUANT TO TITLE
+2 IX OF THE FEDERAL "EDUCATION AMENDMENTS OF 1972", 20 U.S.C. SEC.
+3 1681;
+4 (III) ANY WRITTEN OR ORAL STATEMENT OR WRITING MADE IN
+5 CONNECTION WITH A CHILD WELFARE INVESTIGATION;
+6 (IV) ANY WRITTEN OR ORAL STATEMENT OR WRITING MADE IN
+7 CONNECTION WITH A PETITION FOR CIVIL PROTECTION ORDER PURSUANT
+8 TO ARTICLE 14 OF THIS TITLE 13 OR AN EXTREME RISK PROTECTION ORDER
+9 PURSUANT TO ARTICLE 14.5 OF THIS TITLE 13;
+10 (V) ANY WRITTEN OR ORAL STATEMENT OR WRITING TO ANY
+11 PERSON REQUIRED TO REPORT SUSPECTED CHILD ABUSE OR NEGLECT
+12 PURSUANT TO SECTION 19-3-304; AND
+13 (VI) ANY WRITTEN OR ORAL STATEMENT OR WRITING MADE IN
+14 CONNECTION WITH ANY OTHER QUASI-JUDICIAL PROCEEDING.
+15 (e) "VICTIM-SURVIVOR" MEANS A VICTIM-SURVIVOR OF A CRIME
+16 INVOLVING DOMESTIC VIOLENCE, AS DEFINED IN SECTION 18-6-800.3;
+17 UNLAWFUL SEXUAL BEHAVIOR, AS DESCRIBED IN PART 4 OF ARTICLE 3 OF
+18 TITLE 18; STALKING, AS DEFINED IN SECTION 18-3-602; HUMAN
+19 TRAFFICKING FOR INVOLUNTARY SERVITUDE, AS DEFINED IN SECTION
+20 18-3-503; OR HUMAN TRAFFICKING FOR SEXUAL SERVITUDE, AS DEFINED
+21 IN SECTION 18-3-504.
+22 (2) (a) A CAUSE OF ACTION AGAINST A PERSON ARISING FROM ANY
+23 PROTECTED STATEMENT BY A VICTIM-SURVIVOR IS SUBJECT TO A SPECIAL
+24 MOTION TO DISMISS UNLESS THE COURT DETERMINES THAT THE PLAINTIFF
+25 HAS ESTABLISHED THAT THERE IS A REASONABLE LIKELIHOOD THAT THE
+26 PLAINTIFF WILL PREVAIL ON THE CLAIM.
+27 (b) IN MAKING ITS DETERMINATION, THE COURT SHALL CONSIDER
+-5- SB26-095
+
+1 THE PLEADINGS AND SUPPORTING AND OPPOSING AFFIDAVITS STATING THE
+2 FACTS UPON WHICH THE LIABILITY OR DEFENSE IS BASED.
+3 (c) IF THE COURT DETERMINES THAT THE PLAINTIFF HAS
+4 ESTABLISHED A REASONABLE LIKELIHOOD THAT THE PLAINTIFF WILL
+5 PREVAIL ON THE CLAIM, THE COURT'S DETERMINATION IS NOT ADMISSIBLE
+6 AS EVIDENCE AT ANY LATER STAGE OF THE CASE OR AT ANY SUBSEQUENT
+7 PROCEEDING, AND NO BURDEN OF PROOF OR DEGREE OF PROOF OTHERWISE
+8 APPLICABLE IS AFFECTED BY THE COURT'S DETERMINATION AT ANY LATER
+9 STAGE OF THE CASE OR AT ANY SUBSEQUENT PROCEEDING.
+10 (3) THE SPECIAL MOTION MUST BE FILED WITHIN SIXTY-THREE
+11 DAYS AFTER THE SERVICE OF THE COMPLAINT OR, IN THE COURT'S
+12 DISCRETION, AT A LATER TIME UPON TERMS IT DEEMS PROPER. THE COURT
+13 SHALL SCHEDULE THE MOTION FOR A HEARING NOT MORE THAN
+14 TWENTY-EIGHT DAYS AFTER THE SERVICE OF THE MOTION UNLESS THE
+15 DOCKET CONDITIONS OF THE COURT REQUIRE A LATER HEARING.
+16 (4) ALL DISCOVERY PROCEEDINGS IN THE ACTION ARE STAYED
+17 UPON THE FILING OF A NOTICE OF MOTION MADE PURSUANT TO THIS
+18 SECTION. THE STAY OF DISCOVERY REMAINS IN EFFECT UNTIL NOTICE OF
+19 ENTRY OF THE ORDER RULING ON THE MOTION. NOTWITHSTANDING THIS
+20 SUBSECTION (4), THE COURT MAY, ON NOTICED MOTION AND FOR GOOD
+21 CAUSE SHOWN, ORDER THAT SPECIFIED DISCOVERY BE CONDUCTED.
+22 (5) IN ANY ACTION SUBJECT TO SUBSECTION (2) OF THIS SECTION,
+23 A PREVAILING DEFENDANT ON A SPECIAL MOTION TO DISMISS IS ENTITLED
+24 TO RECOVER THE DEFENDANT'S ATTORNEY FEES AND COSTS. IF THE COURT
+25 FINDS THAT A SPECIAL MOTION TO DISMISS IS FRIVOLOUS OR IS SOLELY
+26 INTENDED TO CAUSE UNNECESSARY DELAY, PURSUANT TO PART 1 OF
+27 ARTICLE 17 OF THIS TITLE 13, THE COURT SHALL AWARD COSTS AND
+-6- SB26-095
+
+1 REASONABLE ATTORNEY FEES TO A PLAINTIFF PREVAILING ON THE MOTION.
+2 SECTION 5. In Colorado Revised Statutes, add 13-22-203.5 as
+3 follows:
+4 13-22-203.5. Sexual harassment or sexual misconduct dispute
+5 - determination of applicability - definitions.
+6 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+7 REQUIRES:
+8 (a) "PREDISPUTE ARBITRATION AGREEMENT" MEANS ANY
+9 AGREEMENT TO ARBITRATE A DISPUTE THAT HAS NOT ARISEN AT THE TIME
+10 OF MAKING THE AGREEMENT.
+11 (b) "PREDISPUTE JOINT-ACTION WAIVER" MEANS AN AGREEMENT,
+12 WHETHER OR NOT PART OF A PREDISPUTE ARBITRATION AGREEMENT, THAT
+13 PROHIBITS OR WAIVES THE RIGHTS OF A PARTY TO THE AGREEMENT FROM
+14 PARTICIPATING IN A JOINT ACTION, CLASS ACTION, OR COLLECTIVE ACTION
+15 IN A JUDICIAL, ARBITRAL, ADMINISTRATIVE, OR OTHER FORUM
+16 CONCERNING A DISPUTE THAT HAS NOT ARISEN AT THE TIME OF MAKING
+17 THE AGREEMENT.
+18 (c) "SEXUAL HARASSMENT DISPUTE" MEANS A DISPUTE RELATING
+19 TO CONDUCT THAT IS ALLEGED TO CONSTITUTE SEXUAL HARASSMENT
+20 PURSUANT TO THE "COLORADO ANTI-DISCRIMINATION ACT", PARTS 3 TO
+21 8 OF ARTICLE 34 OF TITLE 24.
+22 (d) "SEXUAL MISCONDUCT DISPUTE" MEANS A DISPUTE INVOLVING
+23 SEXUAL MISCONDUCT, AS DEFINED IN SECTION 13-80-103.7 (2).
+24 (2) NOTWITHSTANDING ANY PROVISION OF LAW TO THE
+25 CONTRARY, A PREDISPUTE ARBITRATION AGREEMENT OR PREDISPUTE
+26 JOINT-ACTION WAIVER IS NOT VALID OR ENFORCEABLE UPON REQUEST OF
+27 AN INDIVIDUAL WHO ALLEGES CONDUCT THAT RESULTS IN A SEXUAL
+-7- SB26-095
+
+1 HARASSMENT DISPUTE OR A SEXUAL MISCONDUCT DISPUTE, OR UPON
+2 REQUEST OF A NAMED REPRESENTATIVE OF A JOINT ACTION, CLASS
+3 ACTION, OR COLLECTIVE ACTION THAT RESULTS IN A SEXUAL HARASSMENT
+4 DISPUTE OR A SEXUAL MISCONDUCT DISPUTE.
+5 (3) THIS SECTION APPLIES TO AN AGREEMENT TO ARBITRATE. THE
+6 COURT, RATHER THAN AN ARBITRATOR, SHALL DETERMINE THE VALIDITY
+7 AND ENFORCEABILITY OF AN ARBITRATION AGREEMENT REGARDLESS OF
+8 WHETHER THE PARTY RESISTING ARBITRATION CHALLENGES THE
+9 ARBITRATION AGREEMENT, SPECIFICALLY OR IN CONJUNCTION WITH OTHER
+10 TERMS OF THE CONTRACT THAT CONTAIN AN ARBITRATION AGREEMENT,
+11 AND REGARDLESS OF WHETHER THE ARBITRATION AGREEMENT DELEGATES
+12 VALIDITY AND ENFORCEABILITY DETERMINATIONS TO AN ARBITRATOR.
+13 SECTION 6. In Colorado Revised Statutes, add 13-90-101.5 as
+14 follows:
+15 13-90-101.5. Remote testimony by forensic scientists.
+16 UPON THE REQUEST OF A PARTY AND CONSENT OF BOTH PARTIES,
+17 A JUDGE SHALL ALLOW A FORENSIC SCIENTIST TO TESTIFY REMOTELY IN A
+18 CRIMINAL PROCEEDING.
+19 SECTION 7. In Colorado Revised Statutes, add 16-10-402.5 as
+20 follows:
+21 16-10-402.5. Use of closed-circuit television - victims of certain
+22 offenses involving domestic violence, unlawful sexual behavior,
+23 stalking, or human trafficking - definitions.
+24 (1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+25 REQUIRES:
+26 (a) "DOMESTIC VIOLENCE" HAS THE MEANING SET FORTH IN
+27 SECTION 18-6-800.3.
+-8- SB26-095
+
+1 (b) "HUMAN TRAFFICKING FOR INVOLUNTARY SERVITUDE" HAS
+2 THE MEANING SET FORTH IN SECTION 18-3-503.
+3 (c) "HUMAN TRAFFICKING FOR SEXUAL SERVITUDE" HAS THE
+4 MEANING SET FORTH IN SECTION 18-3-504.
+5 (d) "STALKING" HAS THE MEANING SET FORTH IN SECTION
+6 18-3-602.
+7 (e) "UNLAWFUL SEXUAL BEHAVIOR" MEANS UNLAWFUL SEXUAL
+8 BEHAVIOR DESCRIBED IN PART 4 OF ARTICLE 3 OF TITLE 18.
+9 (f) "VICTIM-SURVIVOR" MEANS A VICTIM-SURVIVOR OF A CRIME
+10 INVOLVING DOMESTIC VIOLENCE, UNLAWFUL SEXUAL BEHAVIOR,
+11 STALKING, HUMAN TRAFFICKING FOR INVOLUNTARY SERVITUDE, OR
+12 HUMAN TRAFFICKING FOR SEXUAL SERVITUDE.
+13 (2) (a) EXCEPT AS PROVIDED IN SUBSECTION (4) OF THIS SECTION,
+14 IN ANY PROSECUTION FOR A CRIME INVOLVING DOMESTIC VIOLENCE,
+15 UNLAWFUL SEXUAL BEHAVIOR, STALKING, HUMAN TRAFFICKING FOR
+16 INVOLUNTARY SERVITUDE, OR HUMAN TRAFFICKING FOR SEXUAL
+17 SERVITUDE, THE COURT MAY, UPON MOTION OF A PARTY OR UPON ITS OWN
+18 MOTION, ORDER THAT THE VICTIM-SURVIVOR'S TESTIMONY BE TAKEN IN
+19 A ROOM OTHER THAN THE COURTROOM AND BE TELEVISED BY
+20 CLOSED-CIRCUIT TELEVISION IN THE COURTROOM IF:
+21 (I) THE TESTIMONY IS TAKEN DURING THE PROCEEDING;
+22 (II) THE JUDGE DETERMINES PURSUANT TO SUBSECTION (2)(b)(II)
+23 OF THIS SECTION THAT TESTIMONY BY THE VICTIM-SURVIVOR IN THE
+24 COURTROOM AND IN THE PRESENCE OF THE DEFENDANT IN THE
+25 COURTROOM WOULD RESULT IN THE VICTIM-SURVIVOR SUFFERING SERIOUS
+26 EMOTIONAL DISTRESS OR TRAUMA; AND
+27 (III) CLOSED-CIRCUIT TELEVISION EQUIPMENT IS AVAILABLE FOR
+-9- SB26-095
+
+1 TESTIMONY.
+2 (b) (I) TO OBTAIN AN ORDER AUTHORIZING THE USE OF
+3 CLOSED-CIRCUIT TELEVISION FOR TESTIMONY BY A VICTIM-SURVIVOR, A
+4 PARTY SHALL FILE A WRITTEN MOTION WITH THE COURT NO LESS THAN
+5 THIRTY-FIVE DAYS PRIOR TO THE TRIAL. THE COURT MAY EXTEND THE
+6 TIME TO FILE A WRITTEN MOTION FOR GOOD CAUSE.
+7 (II) THE COURT SHALL HOLD AN EVIDENTIARY HEARING TO
+8 DETERMINE WHETHER TESTIMONY BY THE VICTIM-SURVIVOR IN THE
+9 COURTROOM AND IN THE PRESENCE OF THE DEFENDANT IN THE
+10 COURTROOM WOULD RESULT IN THE VICTIM-SURVIVOR SUFFERING SERIOUS
+11 EMOTIONAL DISTRESS OR TRAUMA. THE COURT MAY USE THE TESTIMONY
+12 OF A MEDICAL PROFESSIONAL OR MENTAL HEALTH PROFESSIONAL WHO HAS
+13 EVALUATED OR TREATED THE VICTIM-SURVIVOR TO SUPPORT THE COURT'S
+14 DETERMINATION.
+15 (c) ONLY THE PROSECUTING ATTORNEY, THE ATTORNEY FOR THE
+16 DEFENDANT, AND THE JUDGE MAY QUESTION THE VICTIM-SURVIVOR WHEN
+17 THE VICTIM-SURVIVOR TESTIFIES BY CLOSED-CIRCUIT TELEVISION.
+18 (d) THE OPERATORS OF THE CLOSED-CIRCUIT TELEVISION
+19 EQUIPMENT SHALL MAKE EVERY EFFORT TO BE UNOBTRUSIVE WHILE THE
+20 VICTIM-SURVIVOR IS TESTIFYING.
+21 (3) (a) ONLY THE FOLLOWING INDIVIDUALS MAY BE IN THE ROOM
+22 WITH THE VICTIM-SURVIVOR WHEN THE VICTIM-SURVIVOR TESTIFIES BY
+23 CLOSED-CIRCUIT TELEVISION:
+24 (I) THE PROSECUTING ATTORNEY;
+25 (II) THE ATTORNEY FOR THE DEFENDANT;
+26 (III) THE OPERATORS OF THE CLOSED-CIRCUIT TELEVISION
+27 EQUIPMENT;
+-10- SB26-095
+
+1 (IV) A PERSON WHOSE PRESENCE, IN THE OPINION OF THE COURT,
+2 CONTRIBUTES TO THE WELFARE AND WELL-BEING OF THE
+3 VICTIM-SURVIVOR, INCLUDING AN INDIVIDUAL WHO HAS DEALT WITH THE
+4 VICTIM-SURVIVOR IN A THERAPEUTIC SETTING; AND
+5 (V) THE JURY.
+6 (b) DURING THE VICTIM-SURVIVOR'S TESTIMONY BY
+7 CLOSED-CIRCUIT TELEVISION, THE JUDGE AND THE DEFENDANT, IF
+8 PRESENT, SHALL REMAIN IN THE COURTROOM.
+9 (c) THE JUDGE AND THE DEFENDANT MUST BE ALLOWED TO
+10 COMMUNICATE WITH THE INDIVIDUALS IN THE ROOM WHERE THE
+11 VICTIM-SURVIVOR IS TESTIFYING BY AN APPROPRIATE ELECTRONIC
+12 METHOD.
+13 (4) THIS SECTION DOES NOT APPLY IF THE DEFENDANT IS
+14 APPEARING PRO SE.
+15 (5) THIS SECTION DOES NOT APPLY IF THE VICTIM-SURVIVOR
+16 TESTIFYING IS, AT THE TIME OF A TRIAL, A CHILD LESS THAN TWELVE
+17 YEARS OLD OR IS A PERSON WHO HAS AN INTELLECTUAL AND
+18 DEVELOPMENTAL DISABILITY, AS DEFINED IN SECTION 25.5-10-202.
+19 CLOSED-CIRCUIT TELEVISION TESTIMONY BY A VICTIM-SURVIVOR AT THE
+20 TIME OF TRIAL WHO IS A CHILD LESS THAN TWELVE YEARS OLD OR WHO
+21 HAS AN INTELLECTUAL OR DEVELOPMENTAL DISABILITY IS GOVERNED BY
+22 SECTION 16-10-402.
+23 (6) (a) THIS SECTION DOES NOT PRECLUDE, FOR PURPOSES OF
+24 IDENTIFYING A DEFENDANT, THE PRESENCE OF BOTH THE
+25 VICTIM-SURVIVOR AND THE DEFENDANT IN THE COURTROOM AT THE SAME
+26 TIME.
+27 (b) THIS SECTION DOES NOT PRECLUDE THE REMOVAL OF THE
+-11- SB26-095
+
+1 DEFENDANT, RATHER THAN THE VICTIM-SURVIVOR, FROM THE
+2 COURTROOM UPON THE STIPULATION OF BOTH PARTIES AND THE APPROVAL
+3 OF THE COURT.
+4 (c) THIS SECTION DOES NOT PRECLUDE A COURT FROM TAKING
+5 OTHER, CONSTITUTIONALLY PERMISSIBLE MEASURES TO ACCOMMODATE
+6 THE NEEDS OF A TESTIFYING VICTIM-SURVIVOR.
+7 SECTION 8. In Colorado Revised Statutes, 24-31-315, amend
+8 (1)(a) as follows:
+9 24-31-315. Annual in-service training requirements.
+10 (1) (a) The annual in-service training programs must include
+11 proper restraint and holds training, a two-hour anti-bias training program,
+12 A TWO-HOUR TRAINING TO IMPROVE A PEACE OFFICER'S UNDERSTANDING
+13 OF THE IMPACT OF TRAUMA ON VICTIM-SURVIVORS OF CRIMES AND THE
+14 OPTIMAL WAY FOR A PEACE OFFICER TO RESPOND TO VICTIM-SURVIVORS
+15 WHO ARE EXPERIENCING OR RESPONDING TO TRAUMA, and, in alternating
+16 years, either a two-hour community policing and community partnerships
+17 training program or a two-hour situation de-escalation training program.
+18 The programs and curriculum may include interactive web-based training.
+19 Each certified peace officer shall satisfactorily complete the training by
+20 July 1, 2017, and shall satisfactorily complete the training at least once
+21 every five years thereafter.
+22 SECTION 9. In Colorado Revised Statutes, 24-31-1401, amend
+23 (1)(b), (2), (3)(c)(VI), and (3)(c)(VII); and add (3)(c)(VIII) and (3)(c)(IX)
+24 as follows:
+25 24-31-1401. Colorado sexual assault response review board -
+26 creation - membership - duties - report - short title - definitions -
+27 repeal.
+-12- SB26-095
+
+1 (1) As used in this section, unless the context otherwise requires:
+2 (b) "Review board" means the Colorado sexual assault forensic
+3 medical evidence RESPONSE review board, established in subsection (2)
+4 of this section.
+5 (2) The Colorado sexual assault forensic medical evidence
+6 RESPONSE review board is established in the department to carry out the
+7 duties described in subsection (6) of this section and submit the report
+8 described in subsection (7) of this section.
+9 (3) The board consists of:
+10 (c) The following members, appointed by the attorney general:
+11 (VI) Three representatives from organizations that provide
+12 services or advocate for communities that experience disproportionate
+13 rates of sexual assault; and
+14 (VII) Up to three members, at the discretion of the attorney
+15 general, whose contributions the attorney general determines would be
+16 valuable to the work of the review board; and
+17 (VIII) A REPRESENTATIVE OF A MUNICIPAL CRIME LABORATORY;
+18 AND
+19 (IX) TWO VICTIM-SURVIVORS, ONE REPRESENTING A RURAL
+20 COMMUNITY AND ONE REPRESENTING A METRO AREA OR URBAN
+21 COMMUNITY; AND
+22 SECTION 10. In Colorado Revised Statutes, 24-33.5-122,
+23 amend (1)(j)(I) as follows:
+24 24-33.5-122. Peace officer training and support fund - peace
+25 officer training and support distribution - first responder death
+26 benefit administration - death benefit fund - rules - definitions -
+27 repeal.
+-13- SB26-095
+
+1 (1) Definitions. As used in this section, unless the context
+2 otherwise requires:
+3 (j) (I) "Permissible purpose" means the initial and continuing
+4 education and training for peace officers, INCLUDING TRAINING AND
+5 EDUCATION FOR TRAUMA-INFORMED INVESTIGATIONS AND
+6 VICTIM-SURVIVOR RESPONSE FOR PEACE OFFICERS, and the compensation
+7 of peace officers.
+8 SECTION 11. Safety clause. The general assembly finds,
+9 determines, and declares that this act is necessary for the immediate
+10 preservation of the public peace, health, or safety or for appropriations for
+11 the support and maintenance of the departments of the state and state
+12 institutions.
+-14- SB26-095

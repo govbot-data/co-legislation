@@ -1,0 +1,445 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0052.01 Renee Leone x2695 HOUSE BILL 26-1329
+HOUSE SPONSORSHIP
+Clifford and Richardson,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING CRIMINALIZING CERTAIN MOTOR VEHICLE ACTIVITIES,
+102 AND, IN CONNECTION THEREWITH, CRIMINALIZING AND
+103 CREATING PENALTIES FOR MOTOR VEHICLE RACING, STREET
+104 TAKEOVERS, AND STUNT DRIVING.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes street takeovers, coordinated street takeovers,
+racing and drag racing, and stunt driving (prohibited motor vehicle
+activities) illegal on highways and roadways. More specifically, the bill
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+states that a person shall not:
+! Intentionally engage in a prohibited motor vehicle activity;
+! Coordinate or facilitate an event the person should
+reasonably know is a street takeover, a race or drag race, or
+stunt driving;
+! Ride as a passenger in a motor vehicle the person should
+reasonably know is participating in a street takeover, a race
+or drag race, or stunt driving;
+! Intentionally cause the movement of traffic to slow, stop,
+or be impeded in any way because of a street takeover, a
+race or drag race, or stunt driving;
+! Drive a motor vehicle to carry fuel for a motor vehicle the
+person should reasonably know is involved in a street
+takeover, a race or drag race, or stunt driving; or
+! Knowingly be a spectator to a race, drag race, or street
+takeover prohibited by the bill.
+The bill imposes penalties for a person that engages in a prohibited
+motor vehicle activity. The bill also imposes penalties for a person that
+engages in a prohibited motor vehicle activity and then eludes or attempts
+to elude a peace officer. Lastly, the bill states when and how a peace
+officer may, or a presiding court may issue an order to, impound,
+immobilize, or seize a motor vehicle involved in a prohibited motor
+vehicle activity.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 42-4-1105, amend
+3 (2) and (5)(a); repeal (1), (3), and (5)(d); add (2.1); and add with
+4 amended and relocated provisions (1.1) as follows:
+5 42-4-1105. Racing - drag racing - street takeovers - stunt
+6 driving - immobilization, impounding, or seizure of motor vehicle -
+7 penalties - definitions.
+8 (1) (a) Except as otherwise provided in subsection (4) of this
+9 section, it is unlawful for a person to knowingly engage in a speed contest
+10 on a highway.
+11 (b) For purposes of this section, "speed contest" means the
+12 operation of one or more motor vehicles to conduct a race or a time trial,
+-2- HB26-1329
+
+1 including but not limited to rapid acceleration, exceeding reasonable and
+2 prudent speeds for highways and existing traffic conditions, vying for
+3 position, or performing one or more lane changes in an attempt to gain
+4 advantage over one or more of the other race participants.
+5 (c) A person who violates any provision of this subsection (1)
+6 commits a class 1 misdemeanor traffic offense.
+7 (1.1) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+8 REQUIRES:
+9 (a) "BURNOUT" MEANS A MANEUVER PERFORMED BY A DRIVER OF
+10 A MOTOR VEHICLE WHEREBY THE MOTOR VEHICLE IS KEPT STATIONARY,
+11 OR IS IN MOTION, WHILE THE WHEELS ARE SPUN IN A MANNER THAT
+12 DEFEATS FRICTION AND ALLOWS THE TIRES TO SPIN FREELY, WHICH MAY
+13 THEN LEAD TO EXCESSIVE FRICTION AND CAUSE THE TIRES TO MELT.
+14 (b) "CONVICTION" HAS THE MEANING SET FORTH IN SECTION
+15 18-1.3-602 (2).
+16 (c) "COORDINATED STREET TAKEOVER" MEANS FIVE OR MORE
+17 MOTOR VEHICLES OPERATED BY DRIVERS IN AN ORGANIZED MANNER TO
+18 EFFECT A STREET TAKEOVER.
+19 (d) "DOUGHNUT" MEANS A MANEUVER PERFORMED BY A DRIVER
+20 OF A MOTOR VEHICLE WHEREBY THE FRONT OR REAR OF THE MOTOR
+21 VEHICLE IS ROTATED AROUND THE OPPOSITE SET OF WHEELS IN A
+22 CONTINUOUS MOTION, WHICH MAY CAUSE:
+23 (I) A CIRCULAR TIRE-MARK PATTERN OF RUBBER ON THE DRIVING
+24 SURFACE; OR
+25 (II) THE TIRES OF THE MOTOR VEHICLE TO HEAT UP AND EMIT
+26 SMOKE.
+27 (e) "DRAG RACE" MEANS THE OPERATION OF TWO OR MORE MOTOR
+-3- HB26-1329
+
+1 VEHICLES BY DRIVERS WHO DRIVE:
+2 (I) SIDE-BY-SIDE AT ACCELERATING SPEEDS IN A COMPETITIVE
+3 ATTEMPT TO ACCELERATE FASTER OR OUTDISTANCE EACH OTHER; OR
+4 (II) OVER A COMMON OR SELECTED COURSE FOR THE PURPOSE OF
+5 COMPARING THE RELATIVE SPEED OR POWER OF ACCELERATION OF THE
+6 MOTOR VEHICLE OR MOTOR VEHICLES WITHIN A CERTAIN DISTANCE OR
+7 TIME LIMIT.
+8 (f) (I) "DRIFTING" OR "DRIFT" MEANS A MANEUVER PERFORMED BY
+9 A DRIVER OF A MOTOR VEHICLE, AS PART OF A STREET TAKEOVER OR FOR
+10 EXHIBITION, STUNT, OR PERFORMATIVE REASONS, WHEREBY THE DRIVER
+11 INDUCES AND MAINTAINS AN OVERSTEERING ACTION TO CAUSE THE REAR
+12 WHEELS OF THE MOTOR VEHICLE TO LOSE TRACTION WITH THE DRIVING
+13 SURFACE AND THE MOTOR VEHICLE TO SLIDE SIDEWAYS IN A CONTROLLED
+14 TURN OR ARC WITH THE FRONT WHEELS TURNED IN THE OPPOSITE
+15 DIRECTION OF THE TURN OR ARC.
+16 (II) "DRIFTING" OR "DRIFT" DOES NOT INCLUDE A CORRECTIVE
+17 ACTION TAKEN BY A DRIVER TO REGAIN CONTROL OF A MOTOR VEHICLE
+18 AFTER AN UNINTENDED LOSS OF CONTROL OR TRACTION CAUSED BY ROAD
+19 CONDITIONS, WEATHER, OR AN EMERGENCY.
+20 (g) [Formerly 42-4-1105 (5)(d)] For purposes of this section,
+21 "Immobilization device" means a device locked into place over a wheel
+22 of a motor vehicle that prevents the motor vehicle from being moved.
+23 "Immobilization device" includes but is not limited to a device commonly
+24 referred to as a "traffic boot" or "boot".
+25 (h) (I) "MOTOR VEHICLE" HAS THE MEANING SET FORTH IN SECTION
+26 42-1-102 (58).
+27 (II) "MOTOR VEHICLE" INCLUDES A MOTORCYCLE, AUTOCYCLE,
+-4- HB26-1329
+
+1 MOPED, ALL-TERRAIN VEHICLE, OFF-ROAD VEHICLE, OR VEHICLE NOT
+2 LICENSED TO OPERATE ON A HIGHWAY OR ROADWAY.
+3 (i) (I) "RACE" MEANS A SPEED OR ACCELERATION CONTEST,
+4 COMPETITION, OR EXHIBITION ON A PUBLIC HIGHWAY OR ROADWAY THAT
+5 INVOLVES TWO OR MORE DRIVERS OF MOTOR VEHICLES WHO ATTEMPT TO
+6 OUTDISTANCE ONE ANOTHER OR OTHERWISE ACHIEVE SUPERIORITY AND
+7 THEREBY DRIVE AT AN UNSAFE OR EXCESSIVE SPEED.
+8 (II) A RACE MAY:
+9 (A) BE PREARRANGED BY A DRIVER OR OTHER INDIVIDUAL;
+10 (B) OCCUR AS THE RESULT OF A SPONTANEOUS COMPETITIVE
+11 CHALLENGE AND RESPONSE MADE BY ONE OR MORE DRIVERS THAT, UNDER
+12 THE CIRCUMSTANCES, CAN REASONABLY BE INTERPRETED AS A
+13 CHALLENGE OR AGREEMENT TO RACE; OR
+14 (C) OCCUR AS PART OF A STREET TAKEOVER OR A COORDINATED
+15 STREET TAKEOVER.
+16 (j) (I) "SPECTATOR" MEANS AN INDIVIDUAL WHO KNOWINGLY AND
+17 VOLUNTARILY ATTENDS OR REMAINS PRESENT AT A RACE, DRAG RACE,
+18 STREET TAKEOVER, OR COORDINATED STREET TAKEOVER ON A PUBLIC
+19 HIGHWAY OR ROADWAY FOR THE PURPOSE OF VIEWING, ENCOURAGING, OR
+20 OTHERWISE PARTICIPATING IN THE EVENT, WHEN THE INDIVIDUAL'S
+21 PRESENCE IS THE RESULT OF AN AFFIRMATIVE CHOICE TO SUPPORT OR
+22 ENGAGE WITH THE RACE, DRAG RACE, STREET TAKEOVER, OR
+23 COORDINATED STREET TAKEOVER AND IS NOT MERELY THE RESULT OF
+24 INCIDENTAL LAWFUL PRESENCE IN THE AREA.
+25 (II) FOR THE PURPOSE OF DETERMINING WHETHER AN INDIVIDUAL
+26 IS A SPECTATOR, A FINDER OF FACT MAY CONSIDER:
+27 (A) THE RELATIONSHIP BETWEEN THE INDIVIDUAL AND A DRIVER
+-5- HB26-1329
+
+1 PARTICIPATING IN THE RACE, DRAG RACE, STREET TAKEOVER, OR
+2 COORDINATED STREET TAKEOVER;
+3 (B) WHETHER THE INDIVIDUAL IS ENGAGED IN GAMBLING OR
+4 BETTING ON THE OUTCOME OF THE RACE, DRAG RACE, STREET TAKEOVER,
+5 OR COORDINATED STREET TAKEOVER;
+6 (C) THAT THE INDIVIDUAL PHOTOGRAPHED, FILMED, OR RECORDED
+7 THE EVENT AND WHETHER THE INDIVIDUAL POSTED THE CONTENT TO
+8 SOCIAL MEDIA; AND
+9 (D) ANY OTHER EVIDENCE THAT MAY SHOW THAT THE INDIVIDUAL
+10 AFFIRMATIVELY AND KNOWINGLY CHOSE TO ATTEND, VIEW, OR
+11 PARTICIPATE IN THE RACE, DRAG RACE, STREET TAKEOVER, OR
+12 COORDINATED STREET TAKEOVER.
+13 (k) "STREET TAKEOVER" MEANS THE INTENTIONAL ACT BY ONE OR
+14 MORE DRIVERS OF MOTOR VEHICLES TO OCCUPY OR BLOCK AN OPEN
+15 PUBLIC HIGHWAY OR ROADWAY FOR THE PURPOSE OF CONDUCTING A
+16 RACE, A DRAG RACE, STUNT DRIVING, OR ANOTHER MOTOR VEHICLE
+17 PERFORMANCE, CONTEST, EXHIBITION, OR DISPLAY, AND WHICH ACT
+18 THEREBY SLOWS, STOPS, OR OTHERWISE IMPEDES THE NORMAL MOVEMENT
+19 OF OTHER MOTOR VEHICLES.
+20 (l) "STUNT DRIVING" MEANS TO, ON A HIGHWAY OR ROADWAY OR
+21 AS PART OF A STREET TAKEOVER, PERFORM OR ENGAGE IN:
+22 (I) A BURNOUT;
+23 (II) A DOUGHNUT;
+24 (III) DRIFTING; OR
+25 (IV) A WHEELIE.
+26 (m) "WHEELIE" MEANS A MANEUVER PERFORMED BY A DRIVER OF
+27 A MOTOR VEHICLE WHEREBY THE DRIVER INTENTIONALLY CAUSES ONE OR
+-6- HB26-1329
+
+1 MORE WHEELS, IN ANY COMBINATION OF FRONT, REAR, OR SIDE WHEELS,
+2 TO BE RAISED OFF OF THE DRIVING SURFACE WHILE DRIVING.
+3 (2) (a) Except as otherwise provided in subsection (4) of this
+4 section, it is unlawful for a person to knowingly engage in a speed
+5 exhibition on a highway. A PERSON SHALL NOT:
+6 (I) INTENTIONALLY DRIVE A MOTOR VEHICLE IN A STREET
+7 TAKEOVER, A COORDINATED STREET TAKEOVER, OR A RACE OR DRAG RACE
+8 ON A HIGHWAY OR ROADWAY;
+9 (II) INTENTIONALLY STUNT DRIVE ON A HIGHWAY OR ROADWAY;
+10 (III) COORDINATE, FACILITATE, COLLECT MONEY FOR, OR
+11 PARTICIPATE IN, IN ANY MANNER, AN EVENT THE PERSON SHOULD
+12 REASONABLY KNOW IS A STREET TAKEOVER, A COORDINATED STREET
+13 TAKEOVER, A RACE OR DRAG RACE, OR STUNT DRIVING;
+14 (IV) RIDE AS A PASSENGER IN A MOTOR VEHICLE THE PERSON
+15 SHOULD REASONABLY KNOW, WHEN THE PERSON MAKES THE DECISION TO
+16 RIDE AS A PASSENGER, IS PARTICIPATING IN A STREET TAKEOVER, A
+17 COORDINATED STREET TAKEOVER, A RACE OR DRAG RACE, OR STUNT
+18 DRIVING;
+19 (V) INTENTIONALLY CAUSE THE MOVEMENT OF TRAFFIC,
+20 INCLUDING PEDESTRIAN TRAFFIC, TO SLOW, STOP, OR BE IMPEDED IN ANY
+21 WAY BECAUSE OF A STREET TAKEOVER, A COORDINATED STREET
+22 TAKEOVER, A RACE OR DRAG RACE, OR STUNT DRIVING; OR
+23 (VI) DRIVE A MOTOR VEHICLE FOR THE PURPOSE OF PROVIDING
+24 FUEL FOR A MOTOR VEHICLE THE PERSON SHOULD REASONABLY KNOW IS
+25 INVOLVED IN A STREET TAKEOVER, A COORDINATED STREET TAKEOVER, A
+26 RACE OR DRAG RACE, OR STUNT DRIVING.
+27 (b) For purposes of this section, "speed exhibition" means the
+-7- HB26-1329
+
+1 operation of a motor vehicle to present a display of speed or power.
+2 "Speed exhibition" includes, but is not limited to, squealing the tires of a
+3 motor vehicle while it is stationary or in motion, rapid acceleration, rapid
+4 swerving or weaving in and out of traffic, producing smoke from tire
+5 slippage, or leaving visible tire acceleration marks on the surface of the
+6 highway or ground.
+7 (c) EXCEPT AS PROVIDED IN SUBSECTION (2)(d) OF THIS SECTION,
+8 a person who violates any provision of this subsection (2) THAT VIOLATES
+9 SUBSECTION (2)(a) OF THIS SECTION commits a class 2 misdemeanor
+10 traffic offense AN UNLAWFUL EXHIBITION OF RACING OR STUNT DRIVING.
+11 UNLAWFUL EXHIBITION OF RACING OR STUNT DRIVING IS A CLASS 1
+12 MISDEMEANOR TRAFFIC OFFENSE AND, UPON CONVICTION, SHALL BE
+13 PUNISHED AS PROVIDED IN SECTION 42-4-1701 (3)(a)(II), AND THE
+14 EXECUTIVE DIRECTOR OF THE DEPARTMENT SHALL REVOKE THE PERSON'S
+15 DRIVER'S LICENSE IN ACCORDANCE WITH SECTION 42-2-127 FOR UP TO ONE
+16 YEAR; EXCEPT THAT:
+17 (I) A SECOND VIOLATION WITHIN ONE YEAR AFTER THE DATE OF
+18 THE FIRST VIOLATION THAT RESULTED IN A CONVICTION IS A CLASS 6
+19 FELONY AND, UPON CONVICTION, SHALL BE PUNISHED AS PROVIDED IN
+20 SECTION 18-1.3-401, AND THE EXECUTIVE DIRECTOR OF THE DEPARTMENT
+21 SHALL REVOKE THE PERSON'S DRIVER'S LICENSE IN ACCORDANCE WITH
+22 SECTION 42-2-127 FOR UP TO AN ADDITIONAL TWO YEARS; AND
+23 (II) A THIRD OR SUBSEQUENT VIOLATION WITHIN A FIVE-YEAR
+24 PERIOD IS A CLASS 5 FELONY AND, UPON CONVICTION, SHALL BE PUNISHED
+25 AS PROVIDED IN SECTION 18-1.3-401, AND THE EXECUTIVE DIRECTOR OF
+26 THE DEPARTMENT SHALL REVOKE THE PERSON'S DRIVER'S LICENSE IN
+27 ACCORDANCE WITH SECTION 42-2-127 FOR UP TO AN ADDITIONAL THREE
+-8- HB26-1329
+
+1 YEARS.
+2 (d) (I) A PERSON THAT VIOLATES SUBSECTION (2)(a)(I), (2)(a)(II),
+3 (2)(a)(V), OR (2)(a)(VI) OF THIS SECTION WHILE ENGAGED IN A
+4 COORDINATED STREET TAKEOVER COMMITS AN UNLAWFUL COORDINATED
+5 STREET TAKEOVER. UNLAWFUL COORDINATED STREET TAKEOVER IS A
+6 CLASS 6 FELONY AND, UPON CONVICTION, SHALL BE PUNISHED AS
+7 PROVIDED IN SECTION 18-1.3-401; EXCEPT THAT THE COURT SHALL IMPOSE
+8 A FINE OF NOT LESS THAN TWO THOUSAND FIVE HUNDRED DOLLARS AND
+9 NOT MORE THAN FOUR THOUSAND DOLLARS, AND THE EXECUTIVE
+10 DIRECTOR OF THE DEPARTMENT SHALL REVOKE THE PERSON'S DRIVER'S
+11 LICENSE IN ACCORDANCE WITH SECTION 42-2-127 FOR UP TO TWO YEARS.
+12 (II) A SECOND VIOLATION WITHIN ONE YEAR AFTER THE DATE OF
+13 THE FIRST VIOLATION THAT RESULTED IN A CONVICTION IS A CLASS 6
+14 FELONY IF BOTH VIOLATIONS ARE UNLAWFUL COORDINATED STREET
+15 TAKEOVERS AS DESCRIBED IN SUBSECTION (2)(d)(I) OF THIS SECTION AND,
+16 UPON CONVICTION, SHALL BE PUNISHED AS PROVIDED IN SECTION
+17 18-1.3-401; EXCEPT THAT THE COURT SHALL IMPOSE A FINE OF NOT LESS
+18 THAN THREE THOUSAND FIVE HUNDRED DOLLARS AND NOT MORE THAN
+19 FIVE THOUSAND DOLLARS, AND THE EXECUTIVE DIRECTOR OF THE
+20 DEPARTMENT SHALL REVOKE THE PERSON'S DRIVER'S LICENSE IN
+21 ACCORDANCE WITH SECTION 42-2-127 FOR UP TO AN ADDITIONAL TWO
+22 YEARS.
+23 (III) A THIRD OR SUBSEQUENT VIOLATION WITHIN A FIVE-YEAR
+24 PERIOD AFTER THE DATE OF THE FIRST VIOLATION IS A CLASS 5 FELONY IF
+25 ALL VIOLATIONS ARE UNLAWFUL COORDINATED STREET TAKEOVERS AS
+26 DESCRIBED IN SUBSECTION (2)(d)(I) OF THIS SECTION AND, UPON
+27 CONVICTION, SHALL BE PUNISHED AS PROVIDED IN SECTION 18-1.3-401;
+-9- HB26-1329
+
+1 EXCEPT THAT THE COURT SHALL IMPOSE A FINE OF NOT LESS THAN FOUR
+2 THOUSAND FIVE HUNDRED DOLLARS AND NOT MORE THAN SIX THOUSAND
+3 DOLLARS, AND THE EXECUTIVE DIRECTOR OF THE DEPARTMENT SHALL
+4 REVOKE THE PERSON'S DRIVER'S LICENSE IN ACCORDANCE WITH SECTION
+5 42-2-127 FOR UP TO AN ADDITIONAL THREE YEARS.
+6 (e) (I) A PERSON SHALL NOT KNOWINGLY BE A SPECTATOR TO A
+7 RACE, DRAG RACE, STREET TAKEOVER, OR COORDINATED STREET
+8 TAKEOVER PROHIBITED PURSUANT TO THIS SECTION.
+9 (II) A PERSON THAT VIOLATES SUBSECTION (2)(e)(I) OF THIS
+10 SECTION COMMITS A CLASS B TRAFFIC INFRACTION AND SHALL BE SUBJECT
+11 TO PENALTIES AS PROVIDED IN SECTION 42-4-1701 (3)(a).
+12 (2.1) (a) IN ACCORDANCE WITH SECTION 16-3-102 (1), A PEACE
+13 OFFICER MAY ARREST AND TAKE INTO CUSTODY A PERSON THAT VIOLATES
+14 SUBSECTION (2)(a) OF THIS SECTION.
+15 (b) WHEN A COURT HEARS A CASE IN WHICH A PERSON IS CHARGED
+16 WITH A VIOLATION OF SUBSECTION (2)(a) OF THIS SECTION:
+17 (I) THE ARRESTING OFFICER OR PROSECUTOR SHALL PROVIDE THE
+18 COURT A COPY OF THE DRIVING RECORD OF THE PERSON CHARGED; AND
+19 (II) THE COURT SHALL OBTAIN ANY RECORDS NECESSARY TO
+20 DETERMINE IF THE PERSON CHARGED HAS ONE OR MORE PRIOR
+21 CONVICTIONS FOR VIOLATING SUBSECTION (2)(a) OF THIS SECTION.
+22 (c) (I) A COURT THAT HEARS A CASE IN WHICH A PERSON IS
+23 CHARGED WITH A VIOLATION OF SUBSECTION (2)(a) OF THIS SECTION MAY
+24 ENTER AN ORDER OF IMPOUNDMENT OR IMMOBILIZATION OF THE MOTOR
+25 VEHICLE THE PERSON WAS DRIVING DURING THE VIOLATION AS PART OF
+26 SENTENCING THE PERSON TO INCARCERATION OR AS A CONDITION OF
+27 PROBATION.
+-10- HB26-1329
+
+1 (II) WITHIN SEVEN BUSINESS DAYS AFTER THE DATE THE COURT
+2 ISSUES AN ORDER OF IMPOUNDMENT OR IMMOBILIZATION PURSUANT TO
+3 SUBSECTION (2.1)(c)(I) OF THIS SECTION, THE CLERK OF THE COURT SHALL
+4 SEND NOTICE OF THE ORDER BY CERTIFIED MAIL WITH RETURN RECEIPT
+5 REQUESTED TO:
+6 (A) THE REGISTERED OWNER OF THE MOTOR VEHICLE IF THE
+7 REGISTERED OWNER IS NOT THE PERSON THAT WAS ARRESTED; AND
+8 (B) A PERSON OF RECORD CLAIMING A LIEN AGAINST THE MOTOR
+9 VEHICLE.
+10 (III) (A) AN IMPOUNDING AGENCY SHALL RELEASE A MOTOR
+11 VEHICLE THAT WAS IMPOUNDED OR IMMOBILIZED PURSUANT TO
+12 SUBSECTION (2.1)(c)(I) OF THIS SECTION TO THE OWNER OR PERSON
+13 ENTITLED TO POSSESSION UNDER THE CONDITIONS SET FORTH IN SECTION
+14 42-13-106.
+15 (B) UNLESS THE COURT DISMISSES THE ORDER OF IMPOUNDMENT
+16 OR IMMOBILIZATION, ALL COSTS AND FEES ASSOCIATED WITH THE
+17 IMPOUNDMENT OR IMMOBILIZATION ORDERED PURSUANT TO SUBSECTION
+18 (2.1)(c)(I) OF THIS SECTION, INCLUDING THE COST OF THE NOTICE, SHALL
+19 BE PAID BY THE PERSON CHARGED PURSUANT TO THIS SECTION.
+20 (d) NOTWITHSTANDING SUBSECTION (2.1)(c) OF THIS SECTION, IF
+21 A PEACE OFFICER ARRESTS AND TAKES INTO CUSTODY A PERSON DRIVING
+22 A MOTOR VEHICLE IN VIOLATION OF SUBSECTION (2)(a) OF THIS SECTION,
+23 THE MOTOR VEHICLE MAY BE IMPOUNDED IMMEDIATELY TO STORE THE
+24 VEHICLE AS EVIDENCE OR TO BEGIN ASSET FORFEITURE PROCEEDINGS AS
+25 PERMITTED BY LAW.
+26 (e) A MOTOR VEHICLE USED IN VIOLATION OF SUBSECTION (2)(a)
+27 OF THIS SECTION MAY BE IMPOUNDED FOR SAFEKEEPING, AS EVIDENCE, OR
+-11- HB26-1329
+
+1 FOR ASSET FORFEITURE IF:
+2 (I) THE OWNER OF THE MOTOR VEHICLE CANNOT BE VERIFIED; OR
+3 (II) THE MOTOR VEHICLE IS NOT REGISTERED WITH THE
+4 DEPARTMENT.
+5 (3) (a) Except as otherwise provided in subsection (4) of this
+6 section, a person shall not, for the purpose of facilitating or aiding or as
+7 an incident to any speed contest or speed exhibition upon a highway, in
+8 any manner obstruct or place a barricade or obstruction, or assist or
+9 participate in placing any such barricade or obstruction, upon a highway.
+10 (b) A person who violates any provision of this subsection (3)
+11 commits, pursuant to section 42-4-1703, the offense that the person aided
+12 in or facilitated the commission of. Nothing in this subsection (3) shall be
+13 construed to preclude charging a person under section 42-4-1703 for
+14 otherwise being a party to the crime of engaging in a speed contest or
+15 engaging in a speed exhibition.
+16 (5) (a) In addition to a sentence imposed pursuant to this section
+17 or pursuant to any other provision of law:
+18 (I) Upon the second conviction for an offense specified in
+19 subsection (1) or (2) (2)(a) of this section, or any other crime, the
+20 underlying factual basis of which has been found by the court to include
+21 an act of operating a motor vehicle in violation of subsection (1) or (2)
+22 (2)(a) of this section, the court may, in its discretion, order the primary
+23 law enforcement agency involved with the case to place an
+24 immobilization device on the motor vehicle or motor vehicles so operated
+25 for a period of up to fourteen days.
+26 (II) (A) Upon the third or subsequent conviction for an offense
+27 specified in subsection (1) or (2) of this section, or any other crime, the
+-12- HB26-1329
+
+1 underlying factual basis of which has been found by the court to include
+2 an act of operating a motor vehicle in violation of subsection (1) or (2) of
+3 this section, the court may, in its discretion, order the primary law
+4 enforcement agency involved with the case to place an immobilization
+5 device on the motor vehicle or motor vehicles so operated for a period of
+6 up to thirty days but more than fourteen days A MOTOR VEHICLE MAY BE
+7 SUBJECT TO THE PROCEDURES APPLIED TO SEIZED PROPERTY SET FORTH IN
+8 SECTIONS 16-13-505 TO 16-13-510 IF THE MOTOR VEHICLE IS USED IN
+9 VIOLATION OF SUBSECTION (2)(a) OF THIS SECTION BY A PERSON THAT HAS
+10 TWO OR MORE PRIOR CONVICTIONS FOR VIOLATIONS OF SUBSECTION (2)(a)
+11 OF THIS SECTION WITHIN THE FIVE YEARS BEFORE THE VIOLATION THAT
+12 RESULTED IN A CONVICTION.
+13 (B) SUBSECTION (5)(a)(II)(A) OF THIS SECTION APPLIES TO A
+14 PERSON CONVICTED OF THE VIOLATIONS OF SUBSECTION (2)(a) OF THIS
+15 SECTION WITHIN THE FIVE YEARS BEFORE THE VIOLATION THAT RESULTED
+16 IN A CONVICTION ONLY IF THE PERSON IS THE REGISTERED OWNER OF THE
+17 MOTOR VEHICLE TO BE SEIZED.
+18 (d) For purposes of this section, "immobilization device" means
+19 a device locked into place over a wheel of a motor vehicle that prevents
+20 the motor vehicle from being moved. "Immobilization device" includes
+21 but is not limited to a device commonly referred to as a "traffic boot" or
+22 "boot".
+23 SECTION 2. In Colorado Revised Statutes, 42-2-127, amend
+24 (5)(c) as follows:
+25 42-2-127. Authority to suspend license - to deny license - type
+26 of conviction - points.
+27 (5) Point system schedule:
+-13- HB26-1329
+
+1 Type of conviction Points
+2 (c) (I) Engaging in a speed contest in violation of section
+3 42-4-1105 (1) INTENTIONALLY DRIVING A MOTOR VEHICLE IN A STREET
+4 TAKEOVER, A COORDINATED STREET TAKEOVER, OR A RACE OR DRAG RACE
+5 IN VIOLATION OF SECTION 42-4-1105 (2)(a)(I) . . . . . . . . . . . . . . . . . . 12
+6 (II) Aiding or facilitating engaging in a speed contest in violation
+7 of section 42-4-1105 (3) INTENTIONALLY STUNT DRIVING IN VIOLATION OF
+8 SECTION 42-4-1105 (2)(a)(II) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+9 (III) Engaging in a speed exhibition in violation of section
+10 42-4-1105 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+11 (IV) Aiding or facilitating engaging in a speed exhibition in
+12 violation of section 42-4-1105 (3) DRIVING A MOTOR VEHICLE FOR THE
+13 PURPOSE OF PROVIDING FUEL FOR A MOTOR VEHICLE THE PERSON SHOULD
+14 REASONABLY KNOW IS INVOLVED IN A STREET TAKEOVER, A COORDINATED
+15 STREET TAKEOVER, A RACE OR DRAG RACE, OR STUNT DRIVING IN
+16 VIOLATION OF SECTION 42-4-1105 (2)(a)(VI) . . . . . . . . . . . . . . . . . 5 12
+17 SECTION 3. In Colorado Revised Statutes, 18-9-116.5, amend
+18 (1) and (2)(a) as follows:
+19 18-9-116.5. Vehicular eluding.
+20 (1) Any A person who, while operating a motor vehicle,
+21 knowingly eludes or attempts to elude a peace officer also operating a
+22 motor vehicle, and who knows or reasonably should know that he or she
+23 is THEY ARE being pursued by said A peace officer, and who operates his
+24 or her THEIR vehicle in a reckless manner, commits vehicular eluding.
+25 (2) (a) Vehicular eluding is a class 5 felony; except that:
+26 (I) Vehicular eluding that results in bodily injury to another person
+27 is a class 4 felony; and
+-14- HB26-1329
+
+1 (II) Vehicular eluding that results in death to another person is a
+2 class 3 felony; AND
+3 (III) VEHICULAR ELUDING COMMITTED BY A DRIVER OF A MOTOR
+4 VEHICLE IN CONNECTION WITH OR IMMEDIATELY AFTER A VIOLATION OF
+5 SECTION 42-4-1105 (2)(a)(I), (2)(a)(II), (2)(a)(III), (2)(a)(V), OR
+6 (2)(a)(VI) IS A CLASS 4 FELONY.
+7 SECTION 4. In Colorado Revised Statutes, 42-4-110.5, add (9)
+8 as follows:
+9 42-4-110.5. Automated vehicle identification systems - school
+10 buses - exceptions to liability - penalty - contracting - limits on use of
+11 photographs and video - rules - legislative declaration - definitions.
+12 (9) AN AUTOMATED VEHICLE IDENTIFICATION SYSTEM INSTALLED
+13 AND UTILIZED PURSUANT TO THIS SECTION MAY BE USED TO ASSIST IN AN
+14 INVESTIGATION TO IDENTIFY A MOTOR VEHICLE USED IN VIOLATION OF
+15 SECTION 42-4-1105.
+16 SECTION 5. Effective date - applicability. This act takes effect
+17 June 15, 2026, and applies to offenses committed on or after said date.
+18 SECTION 6. Safety clause. The general assembly finds,
+19 determines, and declares that this act is necessary for the immediate
+20 preservation of the public peace, health, or safety or for appropriations for
+21 the support and maintenance of the departments of the state and state
+22 institutions.
+-15- HB26-1329

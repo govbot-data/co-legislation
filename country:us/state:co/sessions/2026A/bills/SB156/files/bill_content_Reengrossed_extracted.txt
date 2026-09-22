@@ -1,0 +1,604 @@
+Title: 
+Official Title: 
+Source: versions - Reengrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REENGROSSED
+This Version Includes All Amendments
+Adopted in the House of Introduction
+LLS NO. 26-0938.01 Renee Leone x2695 SENATE BILL 26-156
+Senate Committees House Committees
+Business, Labor, & Technology
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING CHANGES TO THE STATE WORK FORCE DEVELOPMENT
+102 COUNCIL'S PRACTICES, AND, IN CONNECTION THEREWITH,
+103 REDUCING AN APPROPRIATION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill implements changes to the practices of the state work
+force development council (council), including by:
+! Streamlining requirements for the council's talent pipeline
+report based on industry changes over the last several
+years;
+ETANES
+ETANES
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,92
+lirpA
+6202
+,82
+lirpA
+SENATE SPONSORSHIP
+Kipp and Carson, Coleman, Exum, Marchman
+HOUSE SPONSORSHIP
+Phillips and Gonzalez R.,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Creating greater flexibility to allow the council to develop
+certain criteria for the creation of career pathways based on
+data and feedback collected by the council;
+! Updating the duties of the council to better reflect the
+council's current education, training, and workforce
+preparation practices; and
+! Amending the directives for and duties of the position of
+the postsecondary and workforce readiness statewide
+coordinator, who works under the direction of the council,
+to better align with the updated working structure of that
+position as related to several other entities.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend with
+3 relocated provisions 24-46.3-100.3 as follows:
+4 24-46.3-100.3. Definitions.
+5 As used in this article 46.3, unless the context otherwise requires:
+6 (1) [Formerly 24-46.3-104 (2)(a)] "Apprenticeship" means a
+7 registered apprenticeship program with a written plan that is designed to
+8 move an apprentice from a low- or no-skill entry-level position to full
+9 occupational proficiency. The program must comply with the parameters
+10 established under the FEDERAL "National Apprenticeship Act", 29 U.S.C.
+11 sec. 50, as amended, and regulations promulgated under the act, and must
+12 be administered by the United States department of labor's office of
+13 apprenticeship LABOR or a state apprenticeship agency recognized by the
+14 United States department of labor. An individual business, an employer
+15 association, or a labor organization sponsors a registered apprenticeship.
+16 Upon finishing a training program, the apprentice earns a "completion of
+17 registered apprenticeship" certificate, which is an industry-issued and
+18 nationally recognized credential that validates proficiency in an
+19 apprenticeable occupation, or is awarded a certificate of completion.
+-2- 156
+
+1 (2) [Formerly 24-46.3-104 (2)(b)] "Career pathway" means a
+2 series of connected education and training strategies and support services
+3 that enable individuals AN INDIVIDUAL to secure industry-relevant skills
+4 and OR certification where applicable, to obtain employment within an
+5 occupational area, and to advance to higher levels of future education and
+6 employment.
+7 (3) [Formerly 24-46.3-104 (2)(b.5)] "Certificate of completion"
+8 means a certificate awarded to an apprentice in recognition of the
+9 successful completion of an apprenticeship program.
+10 (1) (4) "Department" means the department of labor and
+11 employment.
+12 (2) (5) "Federal act" means the federal "Workforce Innovation and
+13 Opportunity Act", 29 U.S.C. sec. 3101 et seq.
+14 (6) [Formerly 24-46.3-104 (2)(d)] "Growing industries" means
+15 industries that are:
+16 (a) Projected to create new jobs annually for at least the next ten
+17 years; OR
+18 (b) ALIGNED WITH THE STATE'S ECONOMIC DEVELOPMENT
+19 STRATEGY.
+20 (7) [Formerly 24-46.3-104 (2)(e)] "Partners" means, at a
+21 minimum, state agencies and organizations described in section
+22 24-46.3-103, the state board for community colleges and occupational
+23 education created in section 23-60-104, C.R.S., and interested
+24 postsecondary education providers.
+25 (3) (8) "State council" means the state work force development
+26 council created in section 24-46.3-101 (1).
+27 (9) [Formerly 24-46.3-104 (2)(g)] "Top jobs" means jobs that
+-3- 156
+
+1 have strong projected average openings per year for ten years and pay a
+2 living HIGH wage as defined in the Colorado talent pipeline report
+3 prepared pursuant to section 24-46.3-103.
+4 SECTION 2. In Colorado Revised Statutes, amend 24-46.3-103
+5 as follows:
+6 24-46.3-103. Growing industries and in-demand occupations
+7 talent pipeline working group - annual Colorado talent report -
+8 legislative declaration.
+9 (1) (a) The general assembly hereby finds determines, and
+10 declares that:
+11 (I) Colorado's economy is diverse and constantly changing, and
+12 its key GROWING industries are dependent on an accurately
+13 APPROPRIATELY skilled workforce to continue to thrive;
+14 (II) Colorado's key GROWING industry employers continue to lack
+15 the skilled workers they need to stay and grow in the state;
+16 (III) THESE CONTINUOUSLY UNFILLED ROLES IN GROWING
+17 INDUSTRIES CONSTITUTE IN-DEMAND OCCUPATIONS IN COLORADO, AND IT
+18 IS IMPERATIVE TO THE STATE'S COMMUNITIES AND ECONOMY THAT THERE
+19 IS A PUBLIC UNDERSTANDING OF HOW TO:
+20 (A) DETERMINE WHICH OCCUPATIONS ARE IN-DEMAND; AND
+21 (B) ACCESS TRAINING OPPORTUNITIES FOR JOB PLACEMENT IN
+22 IN-DEMAND OCCUPATIONS;
+23 (III) (IV) Coloradans miss opportunities for good jobs in growing
+24 industries because they do not have access to the right education, training,
+25 or adequate hands-on experience at the right time to secure employment
+26 IN IN-DEMAND OCCUPATIONS;
+27 (IV) (V) Providing clear access to industry-driven career pathways
+-4- 156
+
+1 for education and employment advancement can result in long-term
+2 improvements in the economic well-being of Coloradans and will provide
+3 industries with the talent pipeline needed to thrive now and in the future
+4 MAINTAINING A COORDINATED STRATEGY ACROSS STATE AGENCIES TO
+5 PROMOTE ACCESS TO INDUSTRY-DRIVEN CAREER PATHWAYS IS CRITICAL
+6 TO SUPPORTING THE ECONOMIC WELL-BEING OF COLORADANS AND OF
+7 COLORADO'S INDUSTRIES;
+8 (V) (VI) Creating a coordinated system to advance the skills and
+9 educational attainment of Coloradans across workforce development and
+10 education, in alignment with economic development goals, and in
+11 partnership with industry ENSURING THAT PROVIDERS OF EDUCATION AND
+12 TRAINING, WORKFORCE DEVELOPMENT EXPERTS, ECONOMIC DEVELOPERS,
+13 THE STATE, AND LOCAL COMMUNITIES HAVE A CLEAR UNDERSTANDING OF
+14 THE LABOR MARKET AND THE STATE'S OCCUPATIONAL NEEDS is the most
+15 promising way to advance Coloradans and supply industry with the talent
+16 it demands;
+17 (VI) (VII) Deep, authentic, and ongoing employer engagement
+18 and input is ARE critical to ensure that education and training programs
+19 are aligned with DESIGNED TO MEET the real and current needs of industry;
+20 and
+21 (VII) (VIII) Sector partnerships are a proven, established model
+22 of engaging employers and coordinating workforce development,
+23 economic development, and education STRATEGIES in response to the
+24 needs of industry and on behalf of workers INDIVIDUALS seeking good
+25 jobs.
+26 (b) The general assembly further finds determines, and declares
+27 that it will be IS beneficial to create a working group with the state
+-5- 156
+
+1 council, comprised of representatives from the relevant state departments
+2 and offices, to discuss and determine the most effective way to use sector
+3 partnerships at the regional level to align workforce development,
+4 economic development, and education in the state to WITH the needs of
+5 key GROWING industries AND IN-DEMAND OCCUPATIONS.
+6 (2) The state council, the department of higher education, the
+7 department of education, the department of labor and employment, and
+8 the Colorado office of economic development shall work collaboratively
+9 to:
+10 (a) Discuss and determine needs across key industries and
+11 ANALYZE COLORADO'S LABOR MARKET CONDITIONS TO IDENTIFY
+12 GROWING INDUSTRIES AND IN-DEMAND occupations including AND
+13 IDENTIFY challenges TO and opportunities in FOR developing and growing
+14 relevant talent pipelines;
+15 (b) IDENTIFY THE IN-DEMAND AND HIGH-WAGE OCCUPATIONS IN
+16 COLORADO THAT ARE ELIGIBLE FOR FEDERAL SUPPORT, AS DEFINED IN THE
+17 FEDERAL "HIGHER EDUCATION ACT OF 1965", 20 U.S.C. SEC. 1001 ET
+18 SEQ., OR A SUCCESSOR ACT;
+19 (b) (c) Ensure that the talent pipeline development infrastructure
+20 includes:
+21 (I) A listening process to collect workforce needs for key
+22 industries' FEEDBACK ON OCCUPATIONAL DEMAND FROM employers;
+23 (II) Curriculum alignment for high-demand occupation skill needs
+24 ANALYSIS OF THE STATE'S CURRENT TRAINING CAPACITY AND ABILITY TO
+25 SUPPORT WORKFORCE DEVELOPMENT FOR IN-DEMAND OCCUPATIONS;
+26 (III) Occupation-aligned education and training options with a
+27 clearly articulated progression ANALYSIS OF THE SKILLS ESSENTIAL FOR
+-6- 156
+
+1 IN-DEMAND OCCUPATIONS TO ASSIST TRAINING PROVIDERS IN
+2 MAINTAINING THE RELEVANCE OF THEIR PROGRAMS; AND
+3 (IV) Skills assessments; and
+4 (V) (IV) Academic career counseling;
+5 (c) (d) Utilize sector partnerships to:
+6 (I) Advise the development of career pathway programs for
+7 critical IN-DEMAND occupations in key GROWING industries; and
+8 (II) Ensure the coordination of education and workforce initiatives
+9 to develop a strong talent pipeline; and
+10 (III) PROVIDE RESOURCES TO, PARTICIPATE IN, AND PROMOTE
+11 CAREER EXPLORATION ACTIVITIES THAT ARE ALIGNED WITH IN-DEMAND
+12 OCCUPATIONS, AS APPROPRIATE; AND
+13 (d) (e) Utilize existing measures and data systems to improve
+14 systems alignment and interagency communication.
+15 (3) (a) In doing the work specified in subsection (2) of this
+16 section, the state council, in partnership with the department of higher
+17 education, the department of education, the department of labor and
+18 employment, and the Colorado office of economic development, shall
+19 coordinate the production of PRODUCE an annual Colorado talent report.
+20 In preparing the annual Colorado talent report, the state council, the
+21 departments, and the office may use previously collected data and are not
+22 required to collect new data. for the purposes of the report. The talent
+23 report shall MUST:
+24 (I) Take into consideration the data contained in the annual job
+25 skills report produced by the department of higher education and use such
+26 data to inform workforce development issues across key industries;
+27 (II) (I) Utilize state-level data generated from state-level sources
+-7- 156
+
+1 whenever possible;
+2 (III) (II) Utilize and, as appropriate, expand existing data-sharing
+3 agreements between agencies and partners;
+4 (IV) Provide a progress report on the status of career pathway
+5 programs targeted at key industries;
+6 (V) (III) Provide an analysis of data regarding the skills required
+7 for key industry jobs IN-DEMAND OCCUPATIONS; AND
+8 (VI) (IV) Include recommendations related to FOR advancing
+9 talent pipeline and career pathways development.
+10 (VII) Include recommendations regarding the alignment and
+11 consistency of data nomenclature, collection practices, and data-sharing.
+12 The recommendations shall not allow the disclosure of the personally
+13 identifiable information of a student enrolled in kindergarten or one of
+14 grades one through twelve without informed written permission from the
+15 student's parent or legal guardian. The recommendations may disclose
+16 d e - i d e n t i f i e d , a n o n y m o u s , o r a g g r e g a t e
+17 kindergarten-through-twelfth-grade student data without permission from
+18 a parent or legal guardian.
+19 (VIII) Repealed.
+20 (IX) Include the report regarding the industry infrastructure grant
+21 program, prepared as required by section 24-46.3-405.
+22 (b) The heads of the department of higher education, the
+23 department of education, the department of labor and employment, and
+24 the Colorado office of economic development shall include the
+25 recommendations from the state council, and any comments they may
+26 wish to add concerning the recommendations, to the house of
+27 representatives and senate committees of reference with jurisdiction over
+-8- 156
+
+1 business issues by January 1, 2015. The heads of the departments shall
+2 annually present such recommendations and comments during the
+3 legislative hearings required pursuant to the "State Measurement for
+4 Accountable, Responsive, and Transparent (SMART) Government Act",
+5 part 2 of article 7 of title 2, C.R.S. MAY SHARE THEIR ANALYSIS ON HOW
+6 DATA IN THE REPORT IMPACTS THE STATE'S STRATEGIC GOALS THROUGH
+7 THEIR REGULAR REPORTING MECHANISMS.
+8 (c) IN JANUARY OF EACH YEAR, THE DEPARTMENT OF HIGHER
+9 EDUCATION, THE DEPARTMENT OF EDUCATION, THE DEPARTMENT OF
+10 LABOR AND EMPLOYMENT, AND THE COLORADO OFFICE OF ECONOMIC
+11 DEVELOPMENT SHALL SUMMARIZE THE COLORADO TALENT REPORT, THEIR
+12 RECOMMENDATIONS, AND OTHER COMMENTS IN A PRESENTATION TO THE
+13 SENATE BUSINESS, LABOR, AND TECHNOLOGY COMMITTEE AND THE HOUSE
+14 OF REPRESENTATIVES BUSINESS AFFAIRS AND LABOR COMMITTEE, OR
+15 THEIR SUCCESSOR COMMITTEES, DURING THE HEARINGS HELD PURSUANT
+16 TO THE "SMART ACT", PART 2 OF ARTICLE 7 OF TITLE 2.
+17 SECTION 3. In Colorado Revised Statutes, 24-46.3-104, amend
+18 (1), (3)(a), (3)(b), (3)(c), (6), and (7); and repeal (2), (5), and (5.5) as
+19 follows:
+20 24-46.3-104. Career pathways - design - legislative declaration
+21 - definition.
+22 (1) The general assembly hereby finds that creating
+23 industry-driven career pathways for education assists students in entering
+24 the work force WORKFORCE and provides industries with the talent
+25 pipeline necessary to fuel Colorado's economy. Recognizing the need for
+26 the coordinated development of career pathways for students, the general
+27 assembly enacted section 24-46.3-103 in 2014, tasking the state council
+-9- 156
+
+1 to work collaboratively with the department of higher education, the
+2 department of education, the department of labor and employment, and
+3 the Colorado office of economic development to create the talent pipeline
+4 development infrastructure for use in creating ANALYZE COLORADO'S
+5 LABOR MARKET CONDITIONS AND IN-DEMAND OCCUPATIONS TO INFORM
+6 THE CREATION AND EVOLUTION OF career pathways for students. Creating
+7 career pathways for growing Colorado industries with occupations in high
+8 demand JOB PLACEMENT IN GROWING INDUSTRIES AND IN-DEMAND
+9 OCCUPATIONS will:
+10 (a) Increase the number of Colorado citizens accessing
+11 postsecondary education and apprenticeships IMPROVE EDUCATION AND
+12 CAREER ADVISING AND NAVIGATION FOR COLORADANS INTERESTED IN
+13 POSTSECONDARY OPPORTUNITIES DESIGNED TO MEET LABOR MARKET
+14 NEEDS;
+15 (b) Increase the number of Colorado citizens COLORADANS
+16 completing degrees, apprenticeships, and other credentials;
+17 (c) Decrease the need for remediation at the postsecondary level;
+18 (d) Increase entry into employment IN-DEMAND OCCUPATIONS and
+19 increase wages over time;
+20 (e) Create better transitions for students in the career pathways
+21 from high school, community colleges, or adult education programs to
+22 apprenticeships, higher education, or into the work force WORKFORCE;
+23 (f) Create better connections between postsecondary EDUCATION
+24 and work force WORKFORCE readiness initiatives in high school and adult
+25 work force WORKFORCE programs; and
+26 (g) Through partnerships with industry, assist students in
+27 obtaining work experience and employment during and after THEIR
+-10- 156
+
+1 participation in TRAINING AND educational programs.
+2 (2) As used in this section, unless the context otherwise requires:
+3 (a) "Apprenticeship" means a registered apprenticeship program
+4 with a written plan that is designed to move an apprentice from a low- or
+5 no-skill entry-level position to full occupational proficiency. The program
+6 must comply with the parameters established under the "National
+7 Apprenticeship Act", 29 U.S.C. sec. 50, as amended, and regulations
+8 promulgated under the act, and must be administered by the United States
+9 department of labor's office of apprenticeship or a state apprenticeship
+10 agency recognized by the United States department of labor. An
+11 individual business, an employer association, or a labor organization
+12 sponsors a registered apprenticeship. Upon finishing a training program,
+13 the apprentice earns a "completion of registered apprenticeship"
+14 certificate, which is an industry-issued and nationally recognized
+15 credential that validates proficiency in an apprenticeable occupation, or
+16 is awarded a certificate of completion.
+17 (b) "Career pathway" means a series of connected education and
+18 training strategies and support services that enable individuals to secure
+19 industry-relevant skills and certification where applicable, to obtain
+20 employment within an occupational area, and to advance to higher levels
+21 of future education and employment.
+22 (b.5) "Certificate of completion" means a certificate awarded to
+23 an apprentice in recognition of the successful completion of an
+24 apprenticeship program.
+25 (c) "Critical occupations" means top jobs or employment in jobs
+26 that lead to top jobs.
+27 (d) "Growing industries" means industries that are projected to
+-11- 156
+
+1 create new jobs annually for at least the next ten years.
+2 (e) "Partners" means, at a minimum, state agencies and
+3 organizations described in section 24-46.3-103, the state board for
+4 community colleges and occupational education created in section
+5 23-60-104, C.R.S., and interested postsecondary education providers.
+6 (f) "State council" means the state work force development
+7 council created in section 24-46.3-101.
+8 (g) "Top jobs" means jobs that have strong projected average
+9 openings per year for ten years and pay a living wage as defined in the
+10 Colorado talent pipeline report prepared pursuant to section 24-46.3-103.
+11 (3) (a) The state council, in collaboration with its partners, and
+12 after consulting with local work force WORKFORCE boards and a task
+13 force within the department of education consisting of leadership from
+14 the department of education and superintendents of local school districts,
+15 shall design, MAINTAIN, AND UPDATE integrated career pathways for
+16 students within industry sectors identified in the annual Colorado talent
+17 report prepared pursuant to section 24-46.3-103 that are AS growing
+18 industries and that have critical IN-DEMAND occupations. that are without
+19 clearly articulated career pathways.
+20 (b) (I) In collaboration with its partners pursuant to subsection
+21 (3)(a) of this section, AND AT THE BEGINNING OF THE 2026-27 ACADEMIC
+22 YEAR AND AT THE BEGINNING OF EACH ACADEMIC YEAR THEREAFTER, the
+23 state council shall,
+24 (A) Design at least one career pathway that is ready for
+25 implementation by or before the 2016-17 academic year for critical
+26 occupations in a growing industry; and
+27 (B) subject to available appropriation or money from other
+-12- 156
+
+1 sources, design at least two OR UPDATE career pathways that are ready for
+2 implementation at the beginning of each subsequent academic year for
+3 critical IN-DEMAND occupations in growing industries.
+4 (II) Based on the top jobs listing in the talent pipeline report
+5 prepared in January 2014, the first three growing industries for design of
+6 a career pathway are construction and related skilled trades, information
+7 technology, and health care THE STATE COUNCIL SHALL CONTINUE TO
+8 WORK TO IDENTIFY GROWING INDUSTRIES AND IN-DEMAND OCCUPATIONS
+9 THAT ARE APPROPRIATE FOR CAREER PATHWAY DEVELOPMENT BASED ON
+10 THE DATA PROVIDED IN THE ANNUAL COLORADO TALENT REPORT.
+11 (c) Industry, through regional sector partnerships, and statewide
+12 trade associations, AND OTHER APPROPRIATE COUNCILS OR ENTITIES, shall
+13 review each career pathway annually to ensure that the career pathway
+14 remains relevant to the industry and shall provide input for ongoing
+15 adjustments to the career pathway to meet work force WORKFORCE needs.
+16 (5) The state council and partners shall use the model developed
+17 to create the manufacturing career pathway pursuant to section
+18 23-60-1003, C.R.S., including any improvements to the model based upon
+19 the implementation of the manufacturing career pathway. Consistent with
+20 the manufacturing career pathway, career pathways created pursuant to
+21 this section must have the components described in section 23-60-1003
+22 (2), C.R.S., as they relate to the specific career pathway being created.
+23 (5.5) (a) As used in this subsection (5.5), "energy sector" means
+24 current and emerging establishments and partnerships engaged in
+25 electromechanical generation and maintenance, electrical energy
+26 transmission and distribution, energy efficiency and environmental
+27 technology, and renewable energy production. The energy sector includes
+-13- 156
+
+1 but is not limited to occupations and activities relating to the
+2 development, installation, and maintenance of products or technologies
+3 in the areas of carbon capture, energy storage, building electrification,
+4 electric vehicles, charging infrastructure, hydrogen fuel cell technology,
+5 and renewable natural gas.
+6 (b) The state council and partners, including the department of
+7 natural resources, shall create an industry-driven energy sector career
+8 pathway for implementation by or before the 2022-23 academic year. The
+9 state council shall comply with the provisions of this section, including
+10 career pathway design, components, implementation, industry review, and
+11 promotion of the energy sector career pathway.
+12 (c) The strengthening photovoltaic and renewable careers
+13 (SPARC) workforce development program, created in part 5 of this
+14 article 46.3, shall provide money and other supports for in-demand and
+15 growing occupations in the energy sector career pathway created pursuant
+16 to this subsection (5.5).
+17 (6) Once a career pathway is completed pursuant to this section,
+18 the state council, IN COORDINATION WITH PARTNER AGENCIES, TRADE
+19 ASSOCIATIONS, AND OTHER COUNCILS OR ENTITIES, shall facilitate
+20 outreach and training related to advising TO ADVISE students on the career
+21 pathways for all partners involved in implementing the career pathway,
+22 as well as other local, regional, or state entities that are interested in
+23 promoting the career pathway to students.
+24 (7) (a) Once a career pathway is completed pursuant to this
+25 section, the state council shall, subject to available appropriation or
+26 money from other sources, collaborate with the department of higher
+27 education and the department of labor and employment to create a
+-14- 156
+
+1 microsite concerning PUBLISH the career pathway on a state-provided, free
+2 online resource. At a minimum, the following information must be
+3 included:
+4 (I) Industry-sector career awareness;
+5 (II) Salary and wage information for the industry-sector career;
+6 (III) The industry-sector employment forecast;
+7 (IV) Information on programs within the career pathway, services
+8 provided, and financial aid opportunities for students; and
+9 (V) Online student support services.
+10 (b) ACADEMIC INSTITUTIONS MAY, IN DESIGNING OR UPDATING
+11 PROGRAMS:
+12 (I) INTEGRATE CAREER PATHWAYS INTO STUDENT ADVISING AND
+13 ACADEMIC PLANNING;
+14 (II) ALIGN ACADEMIC AND TRAINING PROGRAMS TO PROVIDE
+15 CLEAR CURRICULAR SEQUENCES THAT LEAD TO STACKABLE,
+16 INDUSTRY-RECOGNIZED CREDENTIALS; AND
+17 (III) EMBED ALIGNED, WORK-BASED LEARNING OPPORTUNITIES AS
+18 AN INTEGRAL COMPONENT OF THE STUDENT EXPERIENCE IN
+19 COLLABORATION WITH INDUSTRY.
+20 (b) (c) The state council may use money appropriated by the
+21 general assembly pursuant to section 24-46.3-101 (13) or money from any
+22 other source to add additional information and tools to a THE ONLINE
+23 PLATFORM THAT PROMOTES career pathways. microsite, similar to the
+24 information and tools provided in the microsite relating to the
+25 manufacturing career pathway.
+26 SECTION 4. In Colorado Revised Statutes, 24-46.3-302, amend
+27 (1) and (2)(a) as follows:
+-15- 156
+
+1 24-46.3-302. Postsecondary and workforce readiness statewide
+2 coordinator - position created - duties.
+3 (1) (a) There is created the position of postsecondary and work
+4 force WORKFORCE readiness statewide coordinator to work under the
+5 direction of the state work force development council. The statewide
+6 coordinator works SHALL WORK with and helps to HELP coordinate the
+7 efforts of local education providers, businesses, industry, area technical
+8 colleges, community colleges, apprenticeship programs, the department
+9 of education, the work force development STATE council, the career and
+10 technical education division within the Colorado community college
+11 system, the department of higher education, college preparation programs,
+12 and other appropriate entities to raise the level of postsecondary and work
+13 force WORKFORCE readiness that Colorado high school graduates achieve
+14 HAVE ACCESS TO, especially with regard to readiness upon high school
+15 graduation, for skilled career positions in business and industry,
+16 INCLUSIVE OF INDICATORS IDENTIFIED IN THE SCHOOL ACCOUNTABILITY
+17 FRAMEWORK.
+18 (b) The executive committee of the state work force development
+19 council shall enter into a memorandum of understanding with the
+20 commissioner of education as necessary to enable the statewide
+21 coordinator to collaborate with the office of postsecondary readiness and
+22 other appropriate offices and divisions within the department of education
+23 in implementing initiatives to increase the level of postsecondary and
+24 work force WORKFORCE readiness that high school graduates achieve.
+25 (2) (a) The statewide coordinator shall assist local WORKFORCE
+26 CENTERS AND education providers in:
+27 (I) Developing and implementing initiatives to increase the level
+-16- 156
+
+1 of postsecondary and work force WORKFORCE readiness OPPORTUNITIES
+2 that high school graduates achieve, which may include but need not be
+3 limited to HAVE ACCESS TO, INCLUDING specialized, industry-based
+4 curricula and programs; apprenticeship programs; and internships and
+5 externships;
+6 (II) Implementing concurrent enrollment programs as provided in
+7 article 35 of title 22, C.R.S., and in entering into concurrent enrollment
+8 agreements with area technical colleges, community colleges, and
+9 four-year institutions of higher education;
+10 (III) (II) Identifying local industry and work force WORKFORCE
+11 needs and existing educational tools, programs, and resources to help
+12 prepare middle and high school students to meet those needs upon
+13 graduating from high school;
+14 (IV) (III) Working with state and federal programs that provide
+15 career and work force WORKFORCE development opportunities for AND
+16 OUT-OF-SCHOOL YOUTH AND students enrolled in middle and high school
+17 and in accessing any state or federal moneys that are MONEY THAT IS
+18 available to local education providers to support and implement the
+19 programs;
+20 (V) (IV) Promoting opportunities for industry to engage in the
+21 classroom with students enrolled in grades six through twelve AND
+22 OUT-OF-SCHOOL YOUTH; AND
+23 (VI) Engaging students with the manufacturing career pathway
+24 created pursuant to section 23-60-1003, C.R.S.; and
+25 (VII) (V) Developing partnerships with businesses, industry,
+26 INDUSTRIES, unions, area technical colleges, community colleges,
+27 apprenticeship programs, and other entities to create opportunities for
+-17- 156
+
+1 students to participate in educational and training programs that lead to
+2 obtaining a career entry-level credential THE SKILLS, CREDENTIALS, AND
+3 EXPERIENCE NECESSARY TO OBTAIN EMPLOYMENT IN IN-DEMAND
+4 OCCUPATIONS IN COLORADO.
+5 SECTION 5. In Colorado Revised Statutes, amend 24-46.3-303
+6 as follows:
+7 24-46.3-303. Annual report.
+8 The state work force development council and the department of
+9 education shall annually review the work of the statewide coordinator in
+10 implementing the duties described in section 24-46.3-302, AND SUCH
+11 REVIEW SHALL INCLUDE SPECIFIC METRICS AND DATA THAT DEMONSTRATE
+12 THE PROGRESS AND GROWTH OF THE STATEWIDE COORDINATOR. The state
+13 work force development council shall include a summary of the review
+14 in the Colorado talent report prepared pursuant to section 24-46.3-103 (3).
+15 SECTION 6. In Colorado Revised Statutes, 22-43.7-109, amend
+16 (14) as follows:
+17 22-43.7-109. Financial assistance for public school capital
+18 construction - application requirements - evaluation criteria - local
+19 match requirements - technology grants - career and technical
+20 education capital construction grants - rules - definitions - repeal.
+21 (14) For fiscal year 2019-20 and for each succeeding fiscal year,
+22 the board, with the support of the division and subject to the approval of
+23 the state board regarding financial assistance awards as specified in this
+24 section, may provide financial assistance in the form of career and
+25 technical education capital construction grants. In conjunction with its
+26 establishment of an annual financial assistance timeline as required by
+27 subsection (2)(a) of this section, the board shall annually notify all
+-18- 156
+
+1 potential applicants, by such means as the board deems appropriate, that
+2 it will accept and consider applications for financial assistance in the form
+3 of career and technical education capital construction grants. To be
+4 eligible for a career and technical education capital construction grant, an
+5 applicant for financial assistance must apply specifically for that grant in
+6 accordance with the financial assistance timeline established by the board
+7 pursuant to subsection (2)(a) of this section and must submit an
+8 application in the form prescribed by the board pursuant to subsection (4)
+9 of this section. The board may award career and technical education
+10 capital construction grants to fund career and technical education capital
+11 construction projects. In awarding grants, the board shall consider
+12 whether each grant application describes a career and technical education
+13 capital construction project that concerns a professional field that is
+14 identified as a key GROWING industry in the most recent annual Colorado
+15 talent report produced by the state work force development council
+16 pursuant to section 24-46.3-103 (3). Nothing in this subsection (14)
+17 prohibits the board from considering other factors in awarding and
+18 denying career and technical education capital construction grants.
+19 SECTION 7. Appropriation - adjustments to 2026 long bill. To
+20 implement this act, the general fund appropriation made in the annual
+21 general appropriation act for the 2026-27 state fiscal year to the
+22 department of labor and employment for use by the division of
+23 employment and training for workforce development council is decreased
+24 by $46,605.
+25 (2) Subsection (1) of this section does not require a reduction of
+26 an appropriation in the annual general appropriation act for the 2026-27
+27 state fiscal year if:
+-19- 156
+
+1 (a) The amount of the general fund appropriation made in the
+2 annual general appropriation act for the 2026-27 state fiscal year to the
+3 department of labor and employment for use by the division of
+4 employment and training for workforce development council is less than
+5 the amount of the adjustment required in subsection (1) of this section; or
+6 (b) The annual general appropriation act for the 2026-27 state
+7 fiscal year does not include an appropriation to the department of labor
+8 and employment for use by the division of employment and training for
+9 workforce development council.
+10 SECTION 8. Act subject to petition - effective date. This act
+11 takes effect at 12:01 a.m. on the day following the expiration of the
+12 ninety-day period after final adjournment of the general assembly (August
+13 12, 2026, if adjournment sine die is on May 13,2026); except that section
+14 7 of this act takes effect only if the annual general appropriation act for
+15 the 2026-27 state fiscal year becomes law, in which case section 7 takes
+16 effect upon the effective date of this act or of the annual general
+17 appropriation act for state fiscal year 2026-27, whichever is later, and
+18 except that, if a referendum petition is filed pursuant to section 1 (3) of
+19 article V of the state constitution against this act or an item, section, or
+20 part of this act within such period, then the act, item, section, or part will
+21 not take effect unless approved by the people at the general election to be
+22 held in November 2026 and, in such case, will take effect on the date of
+23 the official declaration of the vote thereon by the governor.
+-20- 156

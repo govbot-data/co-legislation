@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Final Act
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+SENATE BILL 26-042
+BY SENATOR(S) Weissman and Amabile, Benavidez, Cutter, Gonzalez J.,
+Hinrichsen, Jodeh, Kipp, Kolker, Lindstedt, Snyder, Wallace, Coleman;
+also REPRESENTATIVE(S) Zokaie and Sirota, Bacon, Boesenecker,
+Lindsay, Mabrey, McCluskie.
+CONCERNING THE CLASSIFICATION OF CERTAIN STATE REVENUE FOR THE
+PURPOSES OF CALCULATING STATE FISCAL YEAR SPENDING PURSUANT
+TO SECTION 20 OF ARTICLE X OF THE STATE CONSTITUTION, AND, IN
+CONNECTION THEREWITH, CLARIFYING THE STATUTORY DEFINITIONS
+OF COLLECTIONS FOR ANOTHER GOVERNMENT AND DAMAGE AWARDS
+AND MAKING AN APPROPRIATION.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds and declares that:
+(a) Section 20 (2)(e) of article X of the state constitution exempts
+"collections for another government" and "damage awards" from "fiscal
+year spending", as defined in section 20 (2)(e) of article X of the state
+constitution;
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(b) Under the existing statutory definition of "damage award", some
+money that the state collects as fines or penalties for violations of certain
+legal requirements is treated as state fiscal year spending when determining
+whether the state has exceeded the state's fiscal year spending limit despite
+the constitutional exemption for such collections;
+(c) It is inconsistent with section 20 of article X of the state
+constitution to treat money that the state collects as fines or penalties for
+violations of certain legal requirements as state revenue in light of the
+specific exemption for "damage awards";
+(d) (I) Under the existing definition of "collections for another
+government", some money that the state collects from taxes on gasoline that
+is used as fuel for the propulsion of certain aircraft and that is distributed to
+other governmental or airport entities is treated as state fiscal year spending
+when determining whether the state has exceeded the state's fiscal year
+spending limit despite the constitutional exemption for such collections;
+(II) It is inconsistent with section 20 of article X of the state
+constitution to treat money that the state collects from the excise tax and
+sales and use tax on gasoline that is used as fuel for the propulsion of
+certain aircraft and that is distributed to other governmental and airport
+entities as state fiscal year spending in light of the specific exemption for
+"collections for another government";
+(e) (I) Under the existing definition of "collections for another
+government", some money that the state collects from the fee for criminal
+history record checks that is transmitted to the federal bureau of
+investigation for the portions of such criminal history record checks
+conducted by the federal government is treated as state fiscal year spending
+when determining whether the state has exceeded the state's fiscal year
+spending limit despite the constitutional exemption for such collections;
+(II) It is inconsistent with section 20 of article X of the state
+constitution to treat money that the state collects from the fee for criminal
+history record checks and that is transmitted to the federal bureau of
+investigation as state fiscal year spending in light of the specific exemption
+for "collections for another government"; and
+(f) Nothing in this act operates to exclude any money that has been
+PAGE 2-SENATE BILL 26-042
+
+included as "collections for another government" or "damage awards" under
+the preexisting definition of those terms from the clarified definitions of
+those terms in this act - that money continues to be included in these
+clarified definitions.
+SECTION 2. In Colorado Revised Statutes, 24-77-102, amend
+(1)(b), (2)(a), (2)(b)(IV), and (2)(b)(V); and add (1)(e), (1)(f), and (2)(c) as
+follows:
+24-77-102. Definitions.
+As used in this article 77, unless the context otherwise requires:
+(1) (b) EXCEPT AS OTHERWISE SPECIFIED IN SUBSECTION (1)(b)(IV)
+OF THIS SECTION, for state fiscal years commencing on or after July 1, 2023,
+notwithstanding the definition of "collections for another government" in
+subsection (1)(a) of this section, the only revenues collected by the state for
+the benefit and use of another government other than the state and passed
+through to that government other than the state for the benefit of and use by
+that government that qualify as "collections for another government"
+without further identification by the general assembly are revenues collected
+pursuant to:
+(I) The authority of the government for whose benefit the state
+collects the revenue;
+(II) The authority of the state and apportioned to another
+government in connection with that government forgoing the imposition of
+certain taxes and collecting the corresponding tax revenue; or
+(III) A constitutional requirement that the state collect the revenue
+for the benefit of another government; OR
+(IV) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+2025:
+(A) THE AUTHORITY OF THE STATE TO COLLECT AN EXCISE TAX AND
+SALES AND USE TAX ON GASOLINE THAT IS USED AS JET FUEL AND
+DISTRIBUTE THE REVENUE TO A NON-STATE ENTITY; AND
+PAGE 3-SENATE BILL 26-042
+
+(B) THE AUTHORITY OF THE STATE TO COLLECT A FEE FOR CRIMINAL
+HISTORY RECORD CHECKS, A PORTION OF WHICH IS TRANSMITTED TO THE
+FEDERAL BUREAU OF INVESTIGATION FOR THE REQUIRED FEDERAL
+COMPONENT OF SUCH RECORD CHECKS.
+(e) "COLLECTIONS FOR ANOTHER GOVERNMENT", WITH RESPECT TO
+REVENUE THAT IS COLLECTED IN ACCORDANCE WITH SUBSECTION
+(1)(b)(IV)(A) OF THIS SECTION, INCLUDES THE FOLLOWING REVENUE THAT
+IS PLACED IN OR CREDITED TO THE AVIATION FUND CREATED IN SECTION
+43-10-109 AND DISTRIBUTED IN ACCORDANCE WITH SECTION 43-10-110 TO
+GOVERNMENTAL OR AIRPORT ENTITIES OPERATING AN FAA-DESIGNATED
+PUBLIC-USE AIRPORT:
+(I) REVENUE FROM THE EXCISE TAX ON GASOLINE USED AS FUEL FOR
+THE PROPULSION OF NONTURBO-PROPELLER, NONJET ENGINE,
+TURBO-PROPELLER, OR JET ENGINE AIRCRAFT COLLECTED BY THE STATE
+PURSUANT TO SECTION 39-27-102 (1)(a)(IV) THAT IS PLACED IN THE
+AVIATION FUND PURSUANT TO SECTION 39-27-112 (2)(b); AND
+(II) REVENUE FROM THE SALES AND USE TAXES COLLECTED DURING
+A FISCAL YEAR BY THE STATE PURSUANT TO SECTIONS 39-26-104 AND
+39-26-202 ON AVIATION FUELS USED IN TURBO-PROPELLER OR JET ENGINE
+AIRCRAFT THAT IS CREDITED TO THE AVIATION FUND PURSUANT TO SECTION
+43-10-109 (2)(a)(I).
+(f) "COLLECTIONS FOR ANOTHER GOVERNMENT", WITH RESPECT TO
+REVENUE THAT IS RECEIVED IN ACCORDANCE WITH SUBSECTION
+(1)(b)(IV)(B) OF THIS SECTION, INCLUDES THE FEE REVENUES THAT ARE
+COLLECTED BY THE DEPARTMENT OF PUBLIC SAFETY FOR THE PURPOSE OF
+CRIMINAL HISTORY RECORD CHECKS PURSUANT TO SECTION 24-33.5-426
+AND THAT IS TRANSMITTED TO THE FEDERAL BUREAU OF INVESTIGATION FOR
+A REQUIRED FEDERAL COMPONENT OF SUCH CRIMINAL HISTORY RECORD
+CHECKS.
+(2) "Damage award" means any pecuniary compensation received
+by the state as a result of:
+(a) Any judgment or allowance in favor of the state; and
+(b) For state fiscal years commencing on or after July 1, 2024:
+PAGE 4-SENATE BILL 26-042
+
+(IV) A monetary fine or penalty collected by the division of
+administration of the department of public health and environment pursuant
+to section 25-7-115, 25-7-122, or 25-7-123 and deposited in the community
+impact cash fund created in section 25-7-129 or in the motor vehicle
+emissions assistance fund created in section 25-7-129.5; and
+(V) A monetary penalty collected by the division of labor standards
+and statistics of the department of labor and pursuant to section 8-1-114;
+AND
+(c) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+2025, MONEY DEPOSITED IN THE CRIME VICTIM COMPENSATION FUND OF
+EACH JUDICIAL DISTRICT PURSUANT TO SECTION 24-4.1-117 (2) INCLUDING
+ALL MONEY PAID AS A COST OR SURCHARGE LEVIED ON CRIMINAL ACTIONS
+PURSUANT TO SECTION 24-4.1-119; ALL MONEY RECEIVED FROM ANY ACTION
+OR SUIT TO RECOVER DAMAGES FROM AN ASSAILANT FOR A COMPENSABLE
+CRIME WHICH WAS THE BASIS FOR APPROVAL OF, AND LIMITED TO,
+COMPENSATION RECEIVED UNDER PART 1 OF ARTICLE 4.1 OF THIS TITLE 24;
+AND ANY RESTITUTION PAID BY AN ASSAILANT TO A VICTIM FOR DAMAGES
+FOR A COMPENSABLE CRIME WHICH WAS THE BASIS FOR APPROVAL OF
+COMPENSATION RECEIVED UNDER PART 1 OF ARTICLE 4.1 OF THIS TITLE 24
+AND FOR DAMAGES FOR WHICH THE VICTIM HAS RECEIVED APPROVAL OF,
+AND LIMITED TO, COMPENSATION RECEIVED UNDER PART 1 OF ARTICLE 4.1
+OF THIS TITLE 24.
+SECTION 3. In Colorado Revised Statutes, 24-4.1-117, amend (5)
+as follows:
+24-4.1-117. Fund created - control of fund.
+(5) (a) FOR STATE FISCAL YEARS COMMENCING PRIOR TO JULY 1,
+2026, all money deposited in the fund must be used solely for the
+compensation of victims pursuant to this part 1; except that the district
+attorney and the court executive may use an aggregate of no more than
+twenty-two and one-half percent of the total amount of money in the crime
+victim compensation fund for administrative costs incurred pursuant to this
+part 1. The district attorney may use no more than twenty percent of the
+total amount of money in the fund for administrative costs. The court
+executive may use no more than two and one-half percent of the total
+amount of money in the fund for administrative costs.
+PAGE 5-SENATE BILL 26-042
+
+(b) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+2026:
+(I) ALL MONEY DEPOSITED IN THE FUND MUST BE USED SOLELY FOR
+THE COMPENSATION OF VICTIMS PURSUANT TO THIS PART 1; AND
+(II) THE GENERAL ASSEMBLY SHALL APPROPRIATE MONEY TO THE
+DISTRICT ATTORNEY IN EACH JUDICIAL DISTRICT IN AN AMOUNT EQUAL TO
+TWENTY PERCENT OF THE TOTAL AMOUNT OF MONEY IN THE FUND IN THAT
+JUDICIAL DISTRICT FOR ADMINISTRATIVE COSTS AND TO THE COURT
+EXECUTIVE IN EACH JUDICIAL DISTRICT IN AN AMOUNT EQUAL TO TWO AND
+ONE-HALF PERCENT OF THE TOTAL AMOUNT OF MONEY IN THE FUND IN THAT
+JUDICIAL DISTRICT FOR ADMINISTRATIVE COSTS.
+SECTION 4. Appropriation. For the 2026-27 state fiscal year,
+$2,250,000 is appropriated to the judicial department for use by state courts
+administration. This appropriation is from the general fund. To implement
+this act, the state courts may use this appropriation for Victims'
+Compensation Administration.
+SECTION 5. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 6-SENATE BILL 26-042
+
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+James Rashad Coleman, Sr. Julie McCluskie
+PRESIDENT OF SPEAKER OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+____________________________ ____________________________
+Esther van Mourik Vanessa Reilly
+SECRETARY OF CHIEF CLERK OF THE HOUSE
+THE SENATE OF REPRESENTATIVES
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 7-SENATE BILL 26-042

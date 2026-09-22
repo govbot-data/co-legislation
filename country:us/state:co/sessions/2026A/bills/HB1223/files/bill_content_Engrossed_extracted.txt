@@ -1,0 +1,505 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0143.01 Jed Franklin x5484 HOUSE BILL 26-1223
+House Committees Senate Committees
+Finance
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING MODIFYING CERTAIN TAX EXPENDITURES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 2 of the bill creates a new tax credit. The new tax credit
+allows taxpayers to claim a refundable tax credit, in addition to the child
+tax credit and the family affordability tax credit, in an amount determined
+by the amount and age of the taxpayer's children and the taxpayer's
+income. The total amount of the new tax credit is adjusted annually based
+on legislative council staff projections, such that the total amount of the
+new tax credit claimed in an income tax year is projected to be the same
+as the amount of revenue raised in sections 3 and 4. ESUOH
+gnidaeR
+dn2
+dednemA
+6202
+,1
+yaM
+HOUSE SPONSORSHIP
+Woodrow and Boesenecker,
+SENATE SPONSORSHIP
+Ball and Roberts,
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Beginning January 1, 2027, the bill also repeals the downloaded
+software sales and use tax exemption so that all software that is available
+for repeated sale and license qualifies as tangible property and thus is
+subject to sales and use tax. The bill exempts from sales and use tax
+downloaded software governed by a negotiable license agreement or
+developed for use by a particular user.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration.
+3 (1) The general assembly finds and declares that:
+4 (a) The general assembly has an ongoing responsibility to review,
+5 evaluate, and update the state tax code within constitutional limitations
+6 to ensure that the state code is effective, equitable, and aligned with
+7 Colorado's priorities;
+8 (b) (I) The downloaded software sales and use tax exemption
+9 exempts certain software that is downloaded at the time of purchase from
+10 sales and use tax by modifying the definition of tangible personal
+11 property to not include certain types of software;
+12 (II) Unlike Colorado, thirty-four states subject the sale and use of
+13 downloadable software to state sales and use tax;
+14 (III) At the local level in Colorado, unlike the state level, many
+15 home rule municipalities subject the sale and use of downloadable
+16 software to a local sales and use tax. Therefore, the sales and use tax
+17 treatment of the sale and use of downloadable software is not consistent
+18 across the state.
+19 (IV) The primary purpose of the downloaded software sales and
+20 use tax exemption tax expenditure was to resolve taxpayer confusion and
+21 decrease administrative burden by clarifying the definition of tangible
+22 personal property as it relates to software; and
+-2- 1223
+
+1 (V) The primary purpose of modifying the downloaded software
+2 sales and use tax exemption tax expenditure is to further resolve taxpayer
+3 confusion and decrease administrative burden by clarifying that all
+4 computer software available for repeated sale and governed by a
+5 nonnegotiable license agreement qualifies as tangible personal property
+6 and is subject to sales and use tax;
+7 (c) (I) Colorado state income tax is determined based on the
+8 amount of a person's federal taxable income;
+9 (II) Recent federal law modified the computation of federal
+10 taxable income and so impacted Colorado state income tax revenue;
+11 (III) The recent federal modification to the computation of federal
+12 taxable income reduced state income tax revenue;
+13 (IV) The amount and availability of the family affordability tax
+14 credit is determined in part by the amount of state income tax revenue;
+15 (V) Therefore, by modifying the computation of federal taxable
+16 income, federal law impacted the amount and availability of the family
+17 affordability tax credit; and
+18 (VI) At least in part due to the enactment of recent federal law, the
+19 family affordability tax credit will not be available for the 2026 state
+20 income tax year and will be available in a reduced amount for income tax
+21 years 2027 and 2028;
+22 (d) (I) In establishing the family affordability tax credit, the
+23 general assembly found and declared that:
+24 (A) Colorado families struggle to afford many necessary goods
+25 and services, such as child care, housing, and health care. Eighty-three
+26 percent of Colorado parents worry that their children won't be able to
+27 afford to live in the state in the future.
+-3- 1223
+
+1 (B) Targeted tax credits are a proven tool to lift families out of
+2 poverty. Research has shown that families that claim these types of tax
+3 credits, such as the state and federal child tax credit and the state and
+4 federal earned income tax credit, have better health, improved schooling
+5 outcomes, and increased adult earning potential. As the cost of raising
+6 children has increased, a family affordability tax credit is critical for the
+7 well-being of many children and families across Colorado.
+8 (C) According to the Institute on Taxation and Economic Policy,
+9 "[t]o cut child poverty rates by half, the majority of states would require
+10 a base credit value of between three thousand dollars and four thousand
+11 five hundred dollars per child plus a twenty percent boost for young
+12 children." When coupled with the state and federal earned income tax
+13 credit and the state and federal child tax credit, the additional investment
+14 provided by the family affordability tax credit would establish Colorado
+15 as a national leader in equitable economic policy.
+16 (D) Colorado is dealing with rising costs and funding shortfalls in
+17 many areas across our state, and it is necessary to provide tax credits to
+18 the people who need it most in a way that will do the most good.
+19 Establishing the family affordability tax credit is a proven way to do that;
+20 and
+21 (E) By prioritizing the state's lowest-income families, expanding
+22 the child age eligibility, and including more families, the state can provide
+23 research-backed investments for families. Through thoughtful and
+24 strategic investment, Colorado can cut child poverty nearly in half.
+25 (II) Therefore, it is a priority of Colorado to provide a tax credit
+26 that targets the same taxpayers that the family affordability tax credit
+27 targeted, to offset the reduction in the family affordability tax credit.
+-4- 1223
+
+1 (e) (I) This House Bill 26-1223 constitutes a single comprehensive
+2 tax policy change that emphasizes a high-quality, fair tax system based on
+3 principles of horizontal and vertical equity. Horizontal equity holds that
+4 similarly situated taxpayers who engage in the same activity should be
+5 treated equally. Repealing the downloadable software sales tax exemption
+6 promotes horizontal equity by treating the taxation of all software
+7 purchasers the same whether the purchaser downloads the software or
+8 purchases it at a physical retail location. Vertical equity holds that
+9 taxpayers who can pay more in taxes should pay more in taxes. Creating
+10 a tax credit that prioritizes low- and middle-income families with children
+11 reduces the tax burden on the families who can afford to pay the least in
+12 taxes.
+13 (II) The income tax credit created in this House Bill 26-1223
+14 reduces state tax revenue in an amount equal to or greater than the
+15 amount of state revenue gain attributable to the changes made in this
+16 House Bill 26-1223;
+17 (III) Any net district revenue gain resulting from the tax policy
+18 change in this House Bill 26-1223 is incidental and de minimis; and
+19 (IV) Therefore, consistent with the Colorado Supreme Court's
+20 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that a tax
+21 policy change that causes either no net district tax revenue gain or a net
+22 district tax revenue gain that is only incidental and de minimis does not
+23 require voter approval under section 20 (4)(a) of article X of the state
+24 constitution, this House Bill 26-1223 is not a tax policy change that
+25 requires voter approval.
+26 SECTION 2. In Colorado Revised Statutes, add 39-22-131 as
+27 follows:
+-5- 1223
+
+1 39-22-131. Family affordability credit - tax preference
+2 performance statement - legislative declaration - definitions.
+3 (1) (a) IN ACCORDANCE WITH SECTION 39-21-304 (1), WHICH
+4 REQUIRES EACH BILL THAT CREATES A NEW TAX EXPENDITURE TO INCLUDE
+5 A TAX PREFERENCE PERFORMANCE STATEMENT AS PART OF A STATUTORY
+6 LEGISLATIVE DECLARATION, THE GENERAL ASSEMBLY HEREBY FINDS AND
+7 DECLARES THAT THE PURPOSES OF THE INCOME TAX CREDIT CREATED IN
+8 THIS SECTION ARE THE SAME AS THE FAMILY AFFORDABILITY TAX CREDIT:
+9 TO SUBSTANTIALLY REDUCE CHILD POVERTY, MAKE COLORADO MORE
+10 AFFORDABLE FOR FAMILIES, AND HELP FAMILIES AFFORD EXPENSES
+11 ASSOCIATED WITH HAVING CHILDREN BY PROVIDING TAX RELIEF FOR
+12 CERTAIN INDIVIDUALS.
+13 (b) THE GENERAL ASSEMBLY AND THE STATE AUDITOR, IN
+14 CONSULTATION WITH THE DEPARTMENT, SHALL MEASURE THE
+15 EFFECTIVENESS OF THE INCOME TAX CREDIT CREATED IN THIS SECTION IN
+16 COMBINATION WITH THE FAMILY AFFORDABILITY TAX CREDIT AND, IN THE
+17 SAME MANNER AS THE GENERAL ASSEMBLY AND THE STATE AUDITOR
+18 MEASURE THE EFFECTIVENESS OF THE FAMILY AFFORDABILITY TAX CREDIT
+19 BY DETERMINING THE NUMBER OF COLORADO FAMILIES THAT, AFTER
+20 CLAIMING A CREDIT PURSUANT TO THIS SECTION AND THE FAMILY
+21 AFFORDABILITY TAX CREDIT, NO LONGER FALL BELOW THE FEDERAL
+22 POVERTY LEVEL IN THE TAX YEAR IN WHICH THEY CLAIMED THE CREDITS.
+23 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+24 REQUIRES:
+25 (a) "CREDIT" MEANS THE CREDIT AGAINST INCOME TAX CREATED
+26 IN THIS SECTION.
+27 (b) "DEPARTMENT" MEANS THE DEPARTMENT OF REVENUE.
+-6- 1223
+
+1 (c) "ELIGIBLE CHILD" MEANS A QUALIFYING CHILD, AS DEFINED IN
+2 SECTION 152 (c) OF THE "INTERNAL REVENUE CODE OF 1986"; EXCEPT
+3 THAT THE AGE REQUIREMENTS ARE AS SET FORTH IN SUBSECTIONS
+4 (3)(a)(I), (3)(a)(II), (3)(b)(I), AND (3)(b)(II) OF THIS SECTION.
+5 (d) "FEDERAL POVERTY LEVEL" MEANS THE POVERTY LINE THAT
+6 IS REQUIRED TO BE UPDATED ANNUALLY WITHIN THE FEDERAL POVERTY
+7 GUIDELINES ADOPTED BY THE UNITED STATES DEPARTMENT OF HEALTH
+8 AND HUMAN SERVICES PURSUANT TO 42 U.S.C. SEC. 9902 (2).
+9 (e) "INFLATION" MEANS THE ANNUAL PERCENTAGE CHANGE IN THE
+10 UNITED STATES DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS
+11 CONSUMER PRICE INDEX FOR DENVER-AURORA-LAKEWOOD FOR ALL
+12 ITEMS PAID BY ALL URBAN CONSUMERS, OR ITS APPLICABLE SUCCESSOR
+13 INDEX.
+14 (f) "JOINT FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+15 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+16 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+17 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+18 39-22-130 (7) TO BE NECESSARY FOR TWO RESIDENT INDIVIDUALS WHO
+19 FILE A JOINT RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+20 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+21 COMMENCING ON JANUARY 1, 2026.
+22 (g) "SINGLE FILER ADJUSTED BASE INCOME" MEANS, FOR INCOME
+23 TAX YEARS COMMENCING BEFORE JANUARY 1, 2034, AN AMOUNT OF
+24 ADJUSTED GROSS INCOME EQUAL TO THE AMOUNT OF ADJUSTED GROSS
+25 INCOME DETERMINED BY THE DEPARTMENT PURSUANT TO SECTION
+26 39-22-130 (7) TO BE NECESSARY FOR A SINGLE RESIDENT INDIVIDUAL WHO
+27 FILES A SINGLE RETURN TO QUALIFY FOR THE FAMILY AFFORDABILITY TAX
+-7- 1223
+
+1 CREDIT PURSUANT TO SECTION 39-22-130 FOR THE INCOME TAX YEAR
+2 COMMENCING ON JANUARY 1, 2026.
+3 (3) (a) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY
+4 SECTION 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT
+5 ALLOWED BY SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING
+6 ON OR AFTER JANUARY 1, 2027, A RESIDENT INDIVIDUAL WHO FILES A
+7 SINGLE RETURN IS ALLOWED A CREDIT AGAINST THE INCOME TAXES
+8 IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+9 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+10 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+11 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+12 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+13 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+14 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+15 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+16 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(a)(I) OF THIS
+17 SECTION.
+18 (b) IN ADDITION TO THE CHILD TAX CREDIT ALLOWED BY SECTION
+19 39-22-129 AND THE FAMILY AFFORDABILITY TAX CREDIT ALLOWED BY
+20 SECTION 39-22-130, FOR INCOME TAX YEARS COMMENCING ON OR AFTER
+21 JANUARY 1, 2027, TWO RESIDENT INDIVIDUALS WHO FILE A JOINT RETURN
+22 ARE ALLOWED A FAMILY AFFORDABILITY TAX CREDIT AGAINST THE
+23 INCOME TAXES DUE IMPOSED PURSUANT TO THIS ARTICLE 22 FOR:
+24 (I) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS
+25 FIVE YEARS OLD OR YOUNGER AT THE CLOSE OF THE INCOME TAX YEAR IN
+26 AN AMOUNT DETERMINED BY STAFF OF THE LEGISLATIVE COUNCIL
+27 PURSUANT TO SUBSECTION (5)(b) OF THIS SECTION; AND
+-8- 1223
+
+1 (II) EACH ELIGIBLE CHILD OF THE RESIDENT INDIVIDUAL WHO IS SIX
+2 YEARS OLD OR OLDER BUT LESS THAN SEVENTEEN YEARS OLD AT THE
+3 CLOSE OF THE INCOME TAX YEAR IN AN AMOUNT THAT IS SEVENTY-FIVE
+4 PERCENT OF THE AMOUNT ALLOWED IN SUBSECTION (3)(b)(I) OF THIS
+5 SECTION.
+6 (4) (a) NOTWITHSTANDING SUBSECTION (3) OF THIS SECTION, FOR
+7 INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1, 2027, THE
+8 CREDIT AMOUNTS IN:
+9 (I) SUBSECTION (3)(a)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+10 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+11 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+12 DOLLARS BY WHICH A RESIDENT INDIVIDUAL'S ADJUSTED GROSS INCOME
+13 EXCEEDS THE SINGLE FILER ADJUSTED BASE INCOME; AND
+14 (II) SUBSECTION (3)(b)(I) OF THIS SECTION ARE REDUCED, BUT NOT
+15 BELOW ZERO, BY AN AMOUNT EQUAL TO SIX AND EIGHT HUNDRED
+16 SEVENTY-FIVE ONE-THOUSANDTHS PERCENT FOR EACH FIVE THOUSAND
+17 DOLLARS BY WHICH TWO RESIDENT INDIVIDUALS' ADJUSTED GROSS
+18 INCOME EXCEEDS THE JOINT FILER ADJUSTED BASE INCOME.
+19 (b) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+20 1, 2028, THE DEPARTMENT SHALL ADJUST THE JOINT FILER ADJUSTED
+21 BASED INCOME AND SINGLE FILER ADJUSTED BASE INCOME TO REFLECT
+22 INFLATION FOR EACH INCOME TAX YEAR IN WHICH THE CREDIT DESCRIBED
+23 IN THIS SECTION IS ALLOWED IF CUMULATIVE INFLATION SINCE THE LAST
+24 ADJUSTMENT, WHEN APPLIED TO THE CURRENT LIMITS, RESULTS IN AN
+25 INCREASE OF AT LEAST ONE THOUSAND DOLLARS WHEN THE ADJUSTED
+26 LIMITS ARE ROUNDED TO THE NEAREST ONE THOUSAND DOLLARS.
+27 (5) BEGINNING WITH THE QUARTERLY DECEMBER REVENUE
+-9- 1223
+
+1 FORECAST THAT LEGISLATIVE COUNCIL STAFF PRESENTS IN DECEMBER OF
+2 2026, AND FOR EACH DECEMBER REVENUE FORECAST THEREAFTER, AS
+3 PART OF THE QUARTERLY DECEMBER REVENUE FORECAST, LEGISLATIVE
+4 COUNCIL STAFF SHALL DETERMINE:
+5 (a) FOR THE CURRENT CALENDAR YEAR, A PROJECTION OF THE
+6 AMOUNT OF STATE REVENUE GAIN DIRECTLY ATTRIBUTABLE TO THE
+7 CHANGES MADE IN THIS HOUSE BILL 26-1223, NOTWITHSTANDING THE
+8 CREDIT CREATED IN THIS SECTION;
+9 (b) A DOLLAR AMOUNT OF THE CREDIT AVAILABLE PURSUANT TO
+10 SUBSECTIONS (3)(a)(I) AND (3)(b)(I) OF THIS SECTION, WHICH DOLLAR
+11 AMOUNT MUST BE THE SAME FOR BOTH SUBSECTIONS (3)(a)(I) AND
+12 (3)(b)(I) OF THIS SECTION, SUCH THAT THE STAFF OF THE LEGISLATIVE
+13 COUNCIL PROJECTS, FOR THE CURRENT CALENDAR YEAR, THAT THE TOTAL
+14 DOLLAR AMOUNT OF CREDITS CLAIMED PURSUANT TO SUBSECTION (3) OF
+15 THIS SECTION WILL EQUAL THE DOLLAR AMOUNT THAT STAFF OF THE
+16 LEGISLATIVE COUNCIL DETERMINES PURSUANT TO SUBSECTION (5)(a) OF
+17 THIS SECTION.
+18 (6) IN THE CASE OF A PART-YEAR RESIDENT, THE CREDIT IS
+19 APPORTIONED IN THE RATIO DETERMINED UNDER SECTION 39-22-110 (1).
+20 (7) THE CREDIT IS NOT CONSIDERED TO BE INCOME OR RESOURCES
+21 FOR THE PURPOSE OF DETERMINING ELIGIBILITY FOR THE PAYMENT OF
+22 PUBLIC ASSISTANCE BENEFITS AND MEDICAL ASSISTANCE BENEFITS
+23 AUTHORIZED UNDER STATE LAW OR FOR A PAYMENT MADE UNDER ANY
+24 OTHER PUBLICLY FUNDED PROGRAM.
+25 (8) THE AMOUNT OF THE CREDIT THAT EXCEEDS THE RESIDENT
+26 INDIVIDUAL'S INCOME TAXES DUE IS REFUNDED TO THE INDIVIDUAL.
+27 (9) THE DEPARTMENT IS AUTHORIZED AND ENCOURAGED TO
+-10- 1223
+
+1 DEVELOP A MEANS OF REFUNDING THE CREDITS TO RESIDENT INDIVIDUALS
+2 WHO QUALIFY FOR THE CREDITS IN TWELVE EQUAL MONTHLY REFUNDS
+3 RATHER THAN ANNUALLY.
+4 (10) NOTWITHSTANDING SECTION 39-21-304 (4), THE CREDIT DOES
+5 NOT REPEAL AFTER A SPECIFIED PERIOD OF TAX YEARS.
+6 SECTION 3. In Colorado Revised Statutes, 39-26-102, amend
+7 (5.7) and (15)(c) as follows:
+8 39-26-102. Definitions - repeal.
+9 As used in this article 26, unless the context otherwise requires:
+10 (5.7) "Mainframe computer access" means the provision of access
+11 to computer equipment for the purpose of storing or processing data.
+12 "Mainframe computer access" does not include the provision of access to
+13 computer equipment for the purpose of examining or acquiring data
+14 maintained by the vendor. "Mainframe computer access" does not include
+15 the provision of access to computer equipment incident to electronic
+16 computer software delivery, as defined in subsection (15)(c)(II)(C) of this
+17 section, or incident to the use of computer software hosted by an
+18 application service provider, as defined in subsection (15)(c)(II)(A) of
+19 this section.
+20 (15) (c) (I) "Tangible personal property" commencing July 1,
+21 2012, shall include INCLUDES computer software. if the computer
+22 software meets all of the following criteria:
+23 (A) The computer software is prepackaged for repeated sale or
+24 license;
+25 (B) The use of the computer software is governed by a tear-open
+26 nonnegotiable license agreement; and
+27 (C) The computer software is delivered to the customer in a
+-11- 1223
+
+1 tangible medium. Computer software is not delivered to the customer in
+2 a tangible medium if it is provided through an application service
+3 provider, delivered by electronic computer software delivery, or
+4 transferred by load and leave computer software delivery.
+5 (II) As used in this paragraph (c) SUBSECTION (15)(c), unless the
+6 context otherwise requires:
+7 (A) "Application service provider" or "ASP" means an entity that
+8 retains custody over or hosts computer software for use by third parties.
+9 Users of the computer software hosted by an ASP typically will access the
+10 computer software via the internet. The ASP may or may not own or
+11 license the computer software, but generally will own and maintain
+12 hardware and networking equipment required for the user to access the
+13 computer software. Where the ASP owns the computer software, the ASP
+14 may charge the user a license fee for the computer software or a fee for
+15 maintaining the computer software or hardware used by its customer.
+16 (B) "Computer software" means a set of coded instructions THAT
+17 ARE BOTH designed to cause a computer or automatic data processing
+18 equipment to perform a task OTHER ELECTRONIC DEVICE TO PERFORM A
+19 TASK AND ARE DELIVERED BY ANY MEANS, INCLUDING COMPACT DISC,
+20 DOWNLOAD, OR REMOTE ACCESS THROUGH THE INTERNET. "COMPUTER
+21 SOFTWARE" INCLUDES APPLICATIONS INSTALLED ON CELLULAR PHONES,
+22 TABLETS, OR OTHER MOBILE DEVICES.
+23 (C) "Electronic computer software delivery" means computer
+24 software transferred by remote telecommunications to the purchaser's
+25 computer, where the purchaser does not obtain possession of any tangible
+26 medium in the transaction.
+27 (D) "Load and leave computer software delivery" means delivery
+-12- 1223
+
+1 of computer software to the purchaser by use of a tangible medium where
+2 the title to or possession of the tangible medium is not transferred to the
+3 purchaser, and where the computer software is manually loaded by the
+4 vendor, or the vendor's representative, at the purchaser's location.
+5 (E) "Prepackaged for repeated sale or license" means computer
+6 software that is prepackaged for repeated sale or license in the same form
+7 to multiple users without modification, and is typically sold in a
+8 shrink-wrapped box.
+9 (F) "Tangible medium" means a tape, disk, compact disc, card, or
+10 comparable physical medium.
+11 (G) "Tear-open nonnegotiable license agreement" means a license
+12 agreement contained on or in the package, which by its terms becomes
+13 effective upon opening of the package and accepting the licensing
+14 agreement. "Tear-open nonnegotiable license agreement" does not
+15 include a written license agreement or contract signed by the licensor and
+16 the licensee.
+17 (III) The internalized instruction code that controls the basic
+18 operations, such as arithmetic and logic, of the computer causing it to
+19 execute instructions contained in system programs is an integral part of
+20 the computer and is not normally accessible or modifiable by the user.
+21 Such internalized instruction code is considered part of the hardware and
+22 considered tangible personal property that is taxable pursuant to section
+23 39-26-104 (1)(a). The fact that the vendor does or does not charge
+24 separately for such code is immaterial.
+25 (IV) If a retailer sells computer software to a Colorado purchaser
+26 that is considered tangible personal property taxable pursuant to section
+27 39-26-104 (1)(a) and the Colorado purchaser pays the retailer for a
+-13- 1223
+
+1 quantity of computer software licenses with the intent to distribute the
+2 computer software to any of the purchaser's locations outside of
+3 Colorado, the measure of Colorado sales tax due is the total of the license
+4 fees associated only with the licenses that are actually used in Colorado.
+5 The Colorado purchaser shall provide a written statement to the retailer,
+6 attesting to the amount of the license fees associated with Colorado and
+7 with points outside of Colorado. The written statement shall relieve the
+8 retailer of any liability associated with the proration.
+9 SECTION 4. In Colorado Revised Statutes, 39-26-123, amend
+10 (3)(b)(I)(B) as follows:
+11 39-26-123. Receipts - disposition - transfers of general fund
+12 surplus - sales tax holding fund - creation - definitions.
+13 (3) For any state fiscal year commencing on or after July 1, 2013,
+14 the state treasurer shall credit eighty-five percent of all net revenue
+15 collected under this article 26 to the old age pension fund created in
+16 section 1 of article XXIV of the state constitution. The state treasurer
+17 shall credit to the general fund the remaining fifteen percent of the net
+18 revenue, less:
+19 (b)(I)(B) Except as set forth in subsection (3)(b)(II) of this section
+20 and subject to subsection (3)(b)(III) of this section, beginning January 1,
+21 2026, AND UNTIL DECEMBER 31, 2026, MONTHLY, an amount equal to one
+22 and six hundred fifty-five thousandths percent of net revenue excluding
+23 net revenue collected under part 2 of this article 26, which amount the
+24 state treasurer shall credit to the housing development grant fund created
+25 in section 24-32-721 (1), AND, BEGINNING JANUARY 1, 2027, MONTHLY,
+26 AN AMOUNT EQUAL TO ONE AND SIX HUNDRED TWENTY-FIVE
+27 THOUSANDTHS PERCENT OF NET REVENUE EXCLUDING NET REVENUE
+-14- 1223
+
+1 COLLECTED UNDER PART 2 OF THIS ARTICLE 26, WHICH AMOUNT THE STATE
+2 TREASURER SHALL CREDIT TO THE HOUSING DEVELOPMENT GRANT FUND
+3 CREATED IN SECTION 24-32-721 (1).
+4 SECTION 5. In Colorado Revised Statutes, 39-26-713, add (3)
+5 as follows:
+6 39-26-713. Tangible personal property.
+7 (3) THE SALE, STORAGE, USE, OR CONSUMPTION OF COMPUTER
+8 SOFTWARE, AS DEFINED IN SECTION 39-26-102 (15)(c)(II)(B), IS EXEMPT
+9 FROM TAXATION UNDER THE PROVISIONS OF PARTS 1 AND 2 OF THIS
+10 ARTICLE 26 IF THAT SALE, STORAGE, USE, OR CONSUMPTION OF COMPUTER
+11 SOFTWARE IS:
+12 (a) GOVERNED BY A NEGOTIABLE LICENSE AGREEMENT; OR
+13 (b) DEVELOPED FOR USE BY A PARTICULAR USER.
+14 SECTION 6. In Colorado Revised Statutes, 29-2-105, add (11)
+15 as follows:
+16 29-2-105. Contents of sales tax ordinances and proposals.
+17 (11) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE SALE
+18 AND USE OF COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY, AS
+19 THOSE TERMS ARE DEFINED IN SECTION 39-26-102 (15)(c), ON DECEMBER
+20 31, 2026, IS SUBJECT TO TAXATION BY A COUNTY OR MUNICIPALITY
+21 PURSUANT TO ARTICLE 26 OF TITLE 39, UNLESS A COUNTY OR
+22 MUNICIPALITY ELECTS TO DEFINE COMPUTER SOFTWARE AS TANGIBLE
+23 PERSONAL PROPERTY, AS THOSE TERMS ARE DEFINED IN SECTION
+24 39-26-102 (15)(c), ON JANUARY 1, 2027, IN A MANNER AND METHOD THAT
+25 COMPLIES WITH SECTION 20 OF ARTICLE X OF THE STATE CONSTITUTION,
+26 FOR THE PURPOSE OF SUBJECTING COMPUTER SOFTWARE AS TANGIBLE
+27 PERSONAL PROPERTY TO TAXATION PURSUANT TO ARTICLE 26 OF TITLE 39.
+-15- 1223
+
+1 SECTION 7. In Colorado Revised Statutes, 32-9-119, add (2)(d)
+2 as follows:
+3 32-9-119. Additional powers of district.
+4 (2) (d) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE SALE
+5 AND USE OF COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY, AS
+6 THOSE TERMS ARE DEFINED IN SECTION 39-26-102 (15)(c), ON DECEMBER
+7 31, 2026, IS SUBJECT TO TAXATION BY THE DISTRICT PURSUANT TO
+8 ARTICLE 26 OF TITLE 39, UNLESS THE DISTRICT ELECTS TO DEFINE
+9 COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY, AS THOSE
+10 TERMS ARE DEFINED IN SECTION 39-26-102 (15)(c), ON JANUARY 1, 2027,
+11 IN A MANNER AND METHOD THAT COMPLIES WITH SECTION 20 OF ARTICLE
+12 X OF THE STATE CONSTITUTION, FOR THE PURPOSE OF SUBJECTING
+13 COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY TO TAXATION
+14 PURSUANT TO ARTICLE 26 OF TITLE 39.
+15 SECTION 8. In Colorado Revised Statutes, 32-13-107, amend
+16 (1)(a) as follows:
+17 32-13-107. Sales and use tax imposed - collection -
+18 administration of tax - use - definitions.
+19 (1) (a) (I) Except as otherwise provided in paragraph (b) of this
+20 subsection (1) SUBSECTION (1)(b) OF THIS SECTION, upon the approval of
+21 the registered electors pursuant to the provisions of section 32-13-105, the
+22 board has the power to levy such uniform sales and use taxes throughout
+23 the district created in section 32-13-104 upon every transaction or other
+24 incident with respect to which a sales and use tax is levied by the state,
+25 pursuant to the provisions of article 26 of title 39; C.R.S.; except that
+26 beginning July 1, 2016, such sales and use tax shall not be levied or
+27 collected on the sale or use of aviation fuel.
+-16- 1223
+
+1 (II) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE SALE
+2 AND USE OF COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY, AS
+3 THOSE TERMS ARE DEFINED IN SECTION 39-26-102 (15)(c), ON DECEMBER
+4 31, 2026, IS SUBJECT TO TAXATION BY THE DISTRICT PURSUANT TO
+5 ARTICLE 26 OF TITLE 39, UNLESS THE DISTRICT ELECTS TO DEFINE
+6 COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY, AS THOSE
+7 TERMS ARE DEFINED IN SECTION 39-26-102 (15)(c), ON JANUARY 1, 2027,
+8 IN A MANNER AND METHOD THAT COMPLIES WITH SECTION 20 OF ARTICLE
+9 X OF THE STATE CONSTITUTION, FOR THE PURPOSE OF SUBJECTING
+10 COMPUTER SOFTWARE AS TANGIBLE PERSONAL PROPERTY TO TAXATION
+11 PURSUANT TO ARTICLE 26 OF TITLE 39.
+12 SECTION 9. Effective date - applicability. This act takes effect
+13 on passage, except sections 3 and 4 are effective January 1, 2027, and
+14 apply to the sale, storage, use, and consumption of tangible personal
+15 property on and after January 1, 2027.
+16 SECTION 10. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-17- 1223

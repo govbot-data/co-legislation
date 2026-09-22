@@ -1,0 +1,396 @@
+Title: 
+Official Title: 
+Source: versions - Rerevised
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+REREVISED
+This Version Includes All Amendments
+Adopted in the Second House
+LLS NO. 26-0622.01 Jed Franklin x5484 SENATE BILL 26-040
+Senate Committees House Committees
+Local Government & Housing Transportation, Housing & Local Government
+A BILL FOR AN ACT
+101 CONCERNING THE AFFORDABLE HOME OWNERSHIP PROGRAM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The division of housing in the department of local affairs
+(division) administers an affordable home ownership program (program)
+that makes grants to nonprofit organizations, local governments, tribal
+governments, community development financial institutions, and
+community land trusts (eligible organizations) to support affordable home
+ownership, including the development of residential housing units that are
+described in an eligible organization's funding request (project). Current
+law specifies that only a household with an income less than or equal to
+ESUOH
+ESUOH
+ETANES
+ETANES
+gnidaeR
+dr3
+dednemA
+gnidaeR
+dn2
+dednemA
+dednemanU
+gnidaeR
+dr3
+gnidaeR
+dn2
+dednemA
+6202
+,12
+lirpA
+6202
+,02
+lirpA
+6202
+,13
+hcraM
+6202
+,03
+hcraM
+SENATE SPONSORSHIP
+Simpson and Amabile, Ball, Benavidez, Bridges, Catlin, Coleman, Cutter, Daugherty,
+Exum, Frizell, Gonzales J., Jodeh, Kipp, Kirkmeyer, Kolker, Lindstedt, Marchman, Mullica,
+Pelton R., Roberts, Snyder, Wallace, Weissman
+HOUSE SPONSORSHIP
+Stewart K. and Smith, Bacon, Boesenecker, Brown, Carter, Clifford, Duran, English,
+Froelich, Jackson, Joseph, Lieder, Lindsay, Lukens, McCluskie, McCormick, Nguyen,
+Paschal, Phillips, Ricks, Rutinel, Rydin, Stewart R.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+120% of the area median income is eligible for assistance through the
+program, but it is unclear whether this requirement applies to housing
+units constructed by an eligible organization through one of its projects.
+The bill clarifies that only a household with an income less than or equal
+to 120% of the statewide area median income is eligible for housing
+constructed by an eligible organization through one of its projects.
+In addition, the program requires that housing offered through the
+program, including all taxes and fees, costs not more than 35% of a
+household's monthly income. The bill allows the division to modify this
+percentage as applied to a residential unit constructed by an eligible
+organization as part of an affordable housing project pursuant to a waiver
+process initiated by an eligible organization if a substantial need for
+housing the project's target population exists, the unit has been adequately
+marketed to eligible buyers for purchase for at least 6 months after the
+issuance of a certificate of occupancy, and the unit has not been
+purchased by an eligible buyer within that 6-month period. In lieu of this
+process, the division may approve an eligible organization's process for
+determining when to exceed the maximum monthly household income for
+a unit funded by the program.
+The division may issue a waiver with a different housing cost limit
+from the limit requested by the eligible organization if a different limit
+would better serve needs identified in a housing assessment and the
+project remains financially feasible in the division's discretion.
+For an eligible organization, the bill specifies that the division is
+required to accept a local affordability mechanism in lieu of any
+state-prescribed use covenant if the division determines that the local
+affordability mechanism allows the state to maintain its obligations for
+compliance and compliance monitoring and is substantially equivalent to
+or more protective of long-term affordability and primary occupancy than
+a state-prescribed use covenant or the local affordability mechanism is
+necessary to access financing for disproportionately impacted
+communities.
+The division may allow an eligible organization to rent residential
+units constructed as part of the project. On or before December 31, 2026,
+the division is required to issue guidance for when units within a project
+may be rented.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 29-32-103, amend
+3 (1)(a) as follows:
+4 29-32-103. Transfers of money - permitted uses of the fund -
+-2- 040
+
+1 continuous appropriation.
+2 (1) (a) The affordable housing support fund is hereby created in
+3 the state treasury. The support fund consists of money deposited into it
+4 under subsections (1)(b)(II) and (3) of this section. The division of
+5 housing shall administer the support fund and expend the money in the
+6 support fund only for the purposes set forth in section 29-32-104 (3)(a)
+7 and (3)(b). The division of local government in the department of local
+8 affairs created in section 24-32-103 shall expend the money in the support
+9 fund only for the purposes set forth in section 29-32-104 (3)(c). Except
+10 as otherwise provided in subsection (1)(b) of this section, all money not
+11 expended or encumbered, and all interest earned on the investment or
+12 deposit of money in the support fund, remains in the support fund and
+13 does not revert to the general fund or any other fund at the end of any
+14 fiscal year. Except as otherwise provided in subsections (1)(b) and (1)(c)
+15 of this section and section 29-32-104 (3)(b)(II), all money transferred to
+16 the support fund pursuant to subsection (3) of this section is continuously
+17 appropriated to the division of housing for the purposes set forth in
+18 section 29-32-104 (3)(a) and (3)(b) and, to the extent allocated by the
+19 division of housing, to the division of local government for the purposes
+20 set forth in section 29-32-104 (3)(c).
+21 SECTION 2. In Colorado Revised Statutes, 29-32-104, amend
+22 (1)(a) and (3)(a) as follows:
+23 29-32-104. Permissible expenditures - affordable housing
+24 programs - report - definitions.
+25 (1) The office shall contract with the administrator. The office
+26 may select an administrator without a competitive procurement process
+27 but shall announce the contract opening publicly and select the
+-3- 040
+
+1 administrator in a meeting that is open to the public, no less than
+2 seventy-two hours after notice of such meeting is publicly available. No
+3 single contract may exceed five years in duration. Upon the expiration of
+4 any contract term, the office may renew the contract with the same
+5 administrator or may select another administrator. The administrator
+6 selected by the office shall expend the money transferred to the financing
+7 fund in section 29-32-103 (2) that the administrator receives from the
+8 office to support the following programs only:
+9 (a) (I) A land banking program to be administered by the
+10 administrator. The program shall provide grants to local governments and
+11 tribal governments and loans to non-profit organizations with a
+12 demonstrated history of providing affordable housing to acquire and
+13 preserve land for the development of affordable housing. For purposes of
+14 this subsection (1)(a), "affordable housing" means rental housing that has
+15 a designated imputed income limit by household size not to exceed sixty
+16 percent of the area median income as established by the United States
+17 Department of Housing and Urban Development and published by the
+18 department or a statewide political subdivision or authority on housing,
+19 and regulated units in the project must have a gross rent limit that does
+20 not exceed thirty percent of the imputed income limitation applicable to
+21 the units and for-sale housing that could be purchased by a household
+22 with an annual income of at or below one hundred TWENTY percent of the
+23 area median income. Mixed use development is an allowable use of land
+24 purchased under this program if the predominant use of the land is
+25 affordable housing. Loans made by the program shall be forgiven if land
+26 acquired with the assistance of the program is properly zoned with an
+27 active plan for the development of affordable housing within 5 years of
+-4- 040
+
+1 date the loan is made and if the development is permitted and funded
+2 within 10 years. The lender and borrower may establish additional terms
+3 if needed. If land acquired with the assistance of the program is not
+4 developed within the timeline above, the loan must be repaid, with
+5 interest, as soon as practical, but not more than six months after
+6 expiration of said timeline, unless the office agrees to extend all or a
+7 portion of the timeline in its reasonable discretion. Land acquired with the
+8 assistance of the program that is not developed within the timeline above
+9 may be used by the owner for any purpose upon payment of the loan with
+10 interest or, in exchange for a waiver of interest, conveyed to a state
+11 agency or other entity for the development of affordable housing with the
+12 approval of the administrator. All principal and interest payments on
+13 loans made under this paragraph (a) SUBSECTION (1)(a) shall be paid to
+14 the administrator and used by the administrator for the purposes set forth
+15 in this subsection (1). As determined by the administrator, a minimum of
+16 15% and a maximum of 25% of monies transferred to the financing fund
+17 annually may be used for the program. The administrator may utilize the
+18 funds it receives from the office for the program to pay for the costs of
+19 administering the program; except that the total combined annual
+20 administrative expenditures of money from the financing fund by the
+21 administrator and the office shall not exceed two percent of the funds the
+22 administrator receives from the office for the program for the state fiscal
+23 year.
+24 (II) FOR LAND BANKING PROGRAM GRANTS TO SUPPORT TRIBAL
+25 GOVERNMENT PROGRAMS, THE TRIBE SHALL ESTABLISH INCOME LIMITS BY
+26 HOUSEHOLD SIZE AND GROSS RENT LIMITS REQUIRED BY SUBSECTION
+27 (1)(a)(I) OF THIS SECTION. THE TRIBAL GOVERNMENT SHALL SUBMIT
+-5- 040
+
+1 EVIDENCE TO THE OFFICE OR ADMINISTRATOR THAT IT HAS SATISFIED THE
+2 REQUIREMENTS OF THIS SUBSECTION (1)(a)(II), INCLUDING BY PROVIDING
+3 GENERAL INFORMATION ABOUT THE PROCESS IT USED TO ESTABLISH THESE
+4 LIMITATIONS, BUT SHALL NOT BE REQUIRED TO DISCLOSE CONFIDENTIAL
+5 TRIBAL DATA, INCLUDING THE SPECIFIC LIMITATIONS IT SETS PURSUANT TO
+6 THIS SUBSECTION (1)(a)(II).
+7 (3) The division of housing and the division of local government
+8 shall expend the money transferred to the support fund in section
+9 29-32-103 (1) to support the following programs only:
+10 (a) (I) An affordable home ownership program administered by
+11 the division or one or more contractors of the division. The program shall
+12 offer home ownership down-payment assistance to first-time homebuyers
+13 and shall prioritize assistance, to the extent practicable, to first-generation
+14 homebuyers. The assistance shall be provided to households with income
+15 less than or equal to one hundred twenty percent of the area median
+16 income of households of that size in the territory or jurisdiction of local
+17 government or tribal government in which the housing is located, as
+18 calculated and published for a given year by the United States department
+19 of housing and urban development, and the cost of the monthly housing
+20 payment toward mortgage principal, mortgage interest, property taxes,
+21 mortgage and homeowner's insurance, homeowner association fees, land
+22 lease fees, and metropolitan district fees shall MUST not cost more than
+23 thirty-five THIRTY-EIGHT percent of monthly household income. INCOME;
+24 EXCEPT THAT THE COST OF THE MONTHLY HOUSING PAYMENT MUST NOT
+25 BE CONSIDERED WHEN PROVIDING HOMEOWNERS WITH ASSISTANCE FOR
+26 HOME REHABILITATION. The program shall also make grants to
+27 nonprofit organizations, local governments, tribal governments,
+-6- 040
+
+1 community development financial institutions, and community land trusts
+2 to support affordable home ownership FOR HOUSEHOLDS WITH INCOME
+3 LESS THAN OR EQUAL TO EITHER ONE HUNDRED TWENTY PERCENT OF THE
+4 AREA MEDIAN INCOME OF HOUSEHOLDS OF THAT SIZE IN THE TERRITORY
+5 OR JURISDICTION OF A LOCAL GOVERNMENT IN WHICH THE HOUSEHOLDS
+6 ARE LOCATED, OR ONE HUNDRED TWENTY PERCENT OF THE STATEWIDE
+7 AREA MEDIAN INCOME OF HOUSEHOLDS OF THAT SIZE, AS CALCULATED
+8 AND PUBLISHED FOR A GIVEN YEAR BY THE UNITED STATES DEPARTMENT
+9 OF HOUSING AND URBAN DEVELOPMENT, AND THE COST OF THE MONTHLY
+10 HOUSING PAYMENT TOWARD MORTGAGE PRINCIPAL, MORTGAGE INTEREST,
+11 PROPERTY TAXES, MORTGAGE AND HOMEOWNER'S INSURANCE,
+12 HOMEOWNERS' ASSOCIATION FEES, LAND LEASE FEES, AND METROPOLITAN
+13 DISTRICT FEES MUST NOT COST MORE THAN THIRTY-FIVE PERCENT OF
+14 MONTHLY HOUSEHOLD INCOME. THE AREA MEDIAN INCOME ELECTION
+15 DESCRIBED IN THIS SUBSECTION (3)(a)(I) MUST BE MADE AT THE
+16 BEGINNING OF THE ASSISTANCE AGREEMENT AND MUST NOT BE REVOKED
+17 OR CHANGED UNTIL THE END OF THE ASSISTANCE AGREEMENT. The
+18 program shall also make grants or loans to groups or associations of
+19 mobile home owners and their assignees to assist them with the purchase
+20 of a mobile home park pursuant to section 38-12-217. Said grants and
+21 loans shall be used to support affordable home ownership for households
+22 with income less than or equal to one hundred TWENTY percent of the area
+23 median income of households of that size in the territory or jurisdiction
+24 of local government or tribal government in which the households are
+25 located, as calculated and published for a given year by the United States
+26 department of housing and urban development, and the cost of the
+27 monthly housing payment toward mortgage principal, mortgage interest,
+-7- 040
+
+1 property taxes, mortgage and homeowner's insurance, homeowner
+2 association fees, land lease fees, and metropolitan district fees shall MUST
+3 not cost more than thirty-five percent of monthly household income. All
+4 principal and interest payments on loans made under this subsection
+5 (3)(a) shall be paid to the division and used by the division for the
+6 purposes set forth in this subsection (3). Up to fifty percent of money
+7 transferred to the support fund annually may be used for the program. The
+8 division shall determine how much of the available funding shall be
+9 allocated to each aspect of the program. The division may utilize up to
+10 five percent of the funds it receives from the fund for the program to pay
+11 for the direct and indirect costs of administering the program.
+12 (II) FOR PROJECTS UNDERTAKEN BY AN ELIGIBLE ORGANIZATION,
+13 AS DEFINED IN SECTION 29-32-105.7 (2)(a), THE DIVISION MAY INCREASE
+14 OR WAIVE THE MAXIMUM PERCENTAGE OF INCOME THAT A HOUSEHOLD
+15 MAY ALLOCATE FOR MONTHLY HOUSING COSTS OTHERWISE REQUIRED BY
+16 SUBSECTION (3)(a)(I) OF THIS SECTION PURSUANT TO THE PROCESS SET
+17 FORTH IN SECTION 29-32-105.7. IF A WAIVER IS GRANTED, THE DIVISION IS
+18 AUTHORIZED TO AMEND EXISTING CONTRACTS ENTERED INTO AFTER JULY
+19 1, 2026, EVEN IF THE PROJECT WAS ORIGINALLY AWARDED UNDER A
+20 SOLICITATION ISSUED PRIOR TO JULY 1, 2026.
+21 (III) FOR GRANTS TO SUPPORT TRIBAL GOVERNMENT PROGRAMS,
+22 THE TRIBE SHALL ESTABLISH LIMITATIONS ON HOUSEHOLD INCOME AND
+23 MAXIMUM PERCENTAGE OF INCOME THAT A HOUSEHOLD MAY ALLOCATE
+24 FOR MONTHLY HOUSING COSTS REQUIRED BY SUBSECTION (3)(a)(I) OF THIS
+25 SECTION AND SHALL ESTABLISH A TRIBAL AFFORDABILITY MECHANISM IN
+26 LIEU OF ANY STATE-PRESCRIBED USE COVENANT. THE TRIBAL
+27 GOVERNMENT SHALL SUBMIT EVIDENCE TO THE DIVISION THAT IT HAS
+-8- 040
+
+1 SATISFIED THE REQUIREMENTS OF THIS SUBSECTION (3)(a)(III), INCLUDING
+2 BY PROVIDING GENERAL INFORMATION ABOUT THE PROCESS IT USED TO
+3 ESTABLISH THESE LIMITATIONS AND MECHANISMS BUT IS NOT REQUIRED
+4 TO DISCLOSE CONFIDENTIAL TRIBAL DATA, INCLUDING THE SPECIFIC
+5 LIMITATIONS OR MECHANISMS IT SETS UNDER THIS SUBSECTION. UNLESS
+6 OTHERWISE AUTHORIZED BY LAW, THE DIVISION OF HOUSING AND THE
+7 DIVISION OF LOCAL GOVERNMENT SHALL ADMINISTER AND EXPEND
+8 FUNDING TO TRIBAL GOVERNMENTS UNDER THIS SECTION ONLY FOR THE
+9 PURPOSES SET FORTH IN SECTIONS 29-32-104 (3)(a), (3)(b), OR (3)(c).
+10 SECTION 3. In Colorado Revised Statutes, add 29-32-105.7 as
+11 follows:
+12 29-32-105.7. Home ownership program flexibility - waiver -
+13 affordability mechanisms - legislative declaration - definitions.
+14 (1) (a) THE GENERAL ASSEMBLY FINDS AND DECLARES THAT:
+15 (I) PROPOSITION 123, APPROVED BY A MAJORITY OF ELIGIBLE
+16 ELECTORS DURING THE NOVEMBER 2022 GENERAL ELECTION, WAS
+17 INTENDED TO REACH ALL COMMUNITIES IN THE STATE;
+18 (II) AFFORDABLE HOME OWNERSHIP OPPORTUNITIES ARE LIMITED
+19 BY CHANGING ECONOMIC CONDITIONS THROUGHOUT THE STATE;
+20 (III) THE FUNDING PROVIDED PURSUANT TO PROPOSITION 123
+21 SHOULD BE ALLOCATED TO BUILDING HOUSING THAT WOULD NOT
+22 OTHERWISE BE BUILT WITHOUT FINANCIAL ASSISTANCE; AND
+23 (IV) STATUTORY RESTRICTIONS ON ELIGIBILITY FOR ASSISTANCE
+24 USING PROPOSITION 123 FUNDING, INCLUDING LIMITATIONS ON
+25 HOUSEHOLD INCOME AND MAXIMUM ALLOWABLE MONTHLY HOUSING
+26 COSTS, COUPLED WITH INCREASED INTEREST RATES, LAND COSTS, AND
+27 BUILDING MATERIAL COSTS, ARE PREVENTING THE PROPOSITION 123 HOME
+-9- 040
+
+1 OWNERSHIP PROGRAM FROM BEING USED IN SOME COMMUNITIES.
+2 (b) THE GENERAL ASSEMBLY FURTHER FINDS AND DECLARES THAT
+3 IT IS THE GENERAL ASSEMBLY'S INTENT THAT THE WAIVER PROCESS SET
+4 FORTH IN THIS SECTION WILL ALLOW THE DIVISION MORE FLEXIBILITY TO
+5 ALLOCATE FUNDING FOR AFFORDABLE HOME OWNERSHIP PROJECTS IN
+6 COMMUNITIES ACROSS THE STATE.
+7 (2) AS USED IN THIS SECTION, UNLESS THE CONTEXT OTHERWISE
+8 REQUIRES:
+9 (a) "ELIGIBLE ORGANIZATION" MEANS A NON-PROFIT
+10 ORGANIZATION, LOCAL GOVERNMENT, COMMUNITY DEVELOPMENT
+11 FINANCIAL INSTITUTION OR COMMUNITY LAND TRUST THAT IS ELIGIBLE
+12 FOR FUNDING PURSUANT TO SECTION 29-32-104 (3)(a).
+13 (b) "PROJECT" MEANS A RESIDENTIAL HOUSING UNIT OR GROUP OF
+14 UNITS DESCRIBED WITHIN AN ELIGIBLE ORGANIZATION'S REQUEST FOR
+15 FUNDING PURSUANT TO SECTION 29-32-104 (3)(a)(I).
+16 (3) NOTWITHSTANDING THE PROVISIONS OF SECTION 29-32-104
+17 (3)(a), AN ORGANIZATION THAT WAS AWARDED MONEY FOR AN
+18 AFFORDABLE HOME OWNERSHIP PROJECT PURSUANT TO SECTION
+19 29-32-104 (3)(a) AND THAT CONSTRUCTED A RESIDENTIAL UNIT AS PART
+20 OF THE PROJECT THAT HAS NOT BEEN PURCHASED WITHIN SIX MONTHS OF
+21 THE ISSUANCE OF A CERTIFICATE OF OCCUPANCY, MAY SUBMIT A REQUEST
+22 TO THE DIVISION FOR A WAIVER OF THE MAXIMUM MONTHLY HOUSING
+23 COST LIMIT FOR THAT RESIDENTIAL UNIT.
+24
+25 (b) THE DIVISION MAY APPROVE A WAIVER REQUEST IF AN ELIGIBLE
+26 ORGANIZATION AWARDED MONEY FOR AN AFFORDABLE HOME OWNERSHIP
+27 PROGRAM PURSUANT TO SECTION 29-32-104 (3)(a) ESTABLISHES THAT:
+-10- 040
+
+1 (I) A SUBSTANTIAL NEED FOR HOUSING THE PROJECT'S TARGET
+2 POPULATION EXISTS; AND
+3 (II) THE UNIT HAS BEEN ADEQUATELY MARKETED TO ELIGIBLE
+4 BUYERS FOR PURCHASE FOR AT LEAST SIX MONTHS AFTER FINAL
+5 COMPLETION OF THE UNIT, AND THE UNIT HAS NOT BEEN PURCHASED BY
+6 AN ELIGIBLE BUYER WITHIN THAT SIX-MONTH PERIOD.
+7 (c) THE DIVISION MAY:
+8 (I) ISSUE A WAIVER WITH HOUSING COST LIMITS THAT ARE
+9 DIFFERENT FROM THOSE REQUESTED BY THE ELIGIBLE ORGANIZATION IN
+10 THE WAIVER REQUEST IF DIFFERENT HOUSING COST LIMITS WOULD BETTER
+11 SERVE NEEDS IDENTIFIED IN THE COMMUNITY, THE PROJECT REMAINS
+12 FINANCIALLY FEASIBLE IN THE DIVISION'S DISCRETION, AND THERE ARE
+13 ELIGIBLE BUYERS THAT MEET THE PARAMETERS SET BY THE DIVISION
+14 PURSUANT TO THIS SUBSECTION (3)(c)(I); OR
+15 (II) MODIFY THE TOTAL AMOUNT OF FUNDING PROVIDED
+16 PURSUANT TO SECTION 29-32-104 (3)(a) TO ACCOUNT FOR AN INCREASE IN
+17 THE SALE PRICE OF THE UNIT.
+18 (4) IN LIEU OF THE PROCESS DESCRIBED IN SUBSECTION (3) OF THIS
+19 SECTION, THE DIVISION MAY APPROVE AN ELIGIBLE ORGANIZATION'S
+20 PROCESS FOR DETERMINING WHEN TO EXCEED THE MAXIMUM MONTHLY
+21 HOUSEHOLD INCOME FOR A UNIT FUNDED PURSUANT TO SECTION
+22 29-32-104 (3)(a). AN ELIGIBLE ORGANIZATION'S PROCESS APPROVED
+23 UNDER THIS SUBSECTION (4) SHALL NOT REQUIRE A SIX-MONTH
+24 MARKETING PERIOD.
+25
+26
+27 (5) (a) FOR PROJECTS FUNDED PURSUANT TO SECTION 29-32-104
+-11- 040
+
+1 (3)(a), AN ELIGIBLE ORGANIZATION MAY REQUEST THAT THE DIVISION
+2 ALLOW IT TO RENT RESIDENTIAL UNITS CONSTRUCTED AS PART OF THE
+3 PROJECT. THE DIVISION HAS THE AUTHORITY TO RENT OR ALLOW THE
+4 RENTAL OF A RESIDENTIAL UNIT CONSTRUCTED AS PART OF THE PROJECT.
+5 (b) ON OR BEFORE DECEMBER 31, 2026, THE DIVISION SHALL ISSUE
+6 GUIDANCE FOR WHEN AN ELIGIBLE ORGANIZATION MAY RENT UNITS
+7 WITHIN A PROJECT AND DEVELOP A PROCESS BY WHICH RENTED UNITS MAY
+8 RETURN TO THE FOR-SALE MARKET.
+9 (c) A HOMEOWNER MAY RENT A UNIT FUNDED PURSUANT TO
+10 SECTION 29-32-104 (3)(a) AS LONG AS THE UNIT REMAINS THEIR PRIMARY
+11 RESIDENCE.
+12 SECTION 4. Effective date - applicability. This act takes effect
+13 July 1, 2026, and applies to requests for waivers received by the division
+14 on or after said date.
+15 SECTION 5. Safety clause. The general assembly finds,
+16 determines, and declares that this act is necessary for the immediate
+17 preservation of the public peace, health, or safety or for appropriations for
+18 the support and maintenance of the departments of the state and state
+19 institutions.
+-12- 040

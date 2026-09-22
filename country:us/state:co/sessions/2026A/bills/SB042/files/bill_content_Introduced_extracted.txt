@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0419.01 Nicole Myers x4326 SENATE BILL 26-042
+SENATE SPONSORSHIP
+Weissman and Amabile,
+HOUSE SPONSORSHIP
+Zokaie and Sirota,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE CLASSIFICATION OF CERTAIN STATE REVENUE FOR
+102 THE PURPOSES OF CALCULATING STATE FISCAL YEAR SPENDING
+103 PURSUANT TO SECTION 20 OF ARTICLE X OF THE STATE
+104 CONSTITUTION, AND, IN CONNECTION THEREWITH, CLARIFYING
+105 THE STATUTORY DEFINITIONS OF COLLECTIONS FOR ANOTHER
+106 GOVERNMENT AND DAMAGE AWARDS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Section 20 of article X of the state constitution (TABOR) defines
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+"fiscal year spending" as excluding "collections for another government"
+and "damage awards". Although TABOR does not define either
+"collections for another government" or "damage awards", the TABOR
+implementing statutes define both terms. The bill clarifies both of these
+definitions for state fiscal years commencing on or after July 1, 2025.
+The bill clarifies that "collections for another government", as used
+for the purpose of determining whether specific money received by the
+state is subject to the TABOR limitation on state fiscal year spending,
+includes revenue from the excise tax on gasoline used as fuel for the
+propulsion of specified aircraft collected by the state and distributed to
+governmental or airport entities operating an FAA-designated public use
+airport.
+The bill also clarifies that "damage award", as used for the purpose
+of determining whether specific money received by the state is subject to
+the TABOR limitation on state fiscal year spending, includes certain civil
+fines and penalties imposed by the state.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration.
+3 (1) The general assembly finds and declares that:
+4 (a) Section 20 (2)(e) of article X of the state constitution exempts
+5 "collections for another government" and "damage awards" from "fiscal
+6 year spending", as defined in section 20 (2)(e) of article X of the state
+7 constitution;
+8 (b) Under the existing statutory definition of "damage award",
+9 some money that the state collects as fines or penalties for violations of
+10 certain legal requirements is treated as state fiscal year spending when
+11 determining whether the state has exceeded the state's fiscal year
+12 spending limit despite the constitutional exemption for such collections;
+13 (c) It is inconsistent with section 20 of article X of the state
+14 constitution to treat money that the state collects as fines or penalties for
+15 violations of certain legal requirements as state revenue in light of the
+16 specific exemption for "damage awards";
+-2- SB26-042
+
+1 (d) Under the existing definition of "collections for another
+2 government", some money that the state collects from the excise tax on
+3 gasoline that is used as fuel for the propulsion of certain aircraft and that
+4 is distributed to other governmental or airport entities is treated as state
+5 fiscal year spending when determining whether the state has exceeded the
+6 state's fiscal year spending limit despite the constitutional exemption for
+7 such collections;
+8 (e) It is inconsistent with section 20 of article X of the state
+9 constitution to treat money that the state collects from the excise tax on
+10 gasoline that is used as fuel for the propulsion of certain aircraft and that
+11 is distributed to other governmental and airport entities as state fiscal year
+12 spending in light of the specific exemption for "collections for another
+13 government"; and
+14 (f) Nothing in this act operates to exclude any money that has
+15 been included as "collections for another government" or "damage
+16 awards" under the preexisting definition of those terms from the clarified
+17 definitions of those terms in this act - that money continues to be included
+18 in these clarified definitions.
+19 SECTION 2. In Colorado Revised Statutes, 24-77-102, amend
+20 (1)(b), (2)(a), (2)(b)(IV), and (2)(b)(V); and add (1)(e) and (2)(c) as
+21 follows:
+22 24-77-102. Definitions.
+23 As used in this article 77, unless the context otherwise requires:
+24 (1) (b) EXCEPT AS OTHERWISE SPECIFIED IN SUBSECTION (1)(b)(IV)
+25 OF THIS SECTION, for state fiscal years commencing on or after July 1,
+26 2023, notwithstanding the definition of "collections for another
+27 government" in subsection (1)(a) of this section, the only revenues
+-3- SB26-042
+
+1 collected by the state for the benefit and use of another government other
+2 than the state and passed through to that government other than the state
+3 for the benefit of and use by that government that qualify as "collections
+4 for another government" without further identification by the general
+5 assembly are revenues collected pursuant to:
+6 (I) The authority of the government for whose benefit the state
+7 collects the revenue;
+8 (II) The authority of the state and apportioned to another
+9 government in connection with that government forgoing the imposition
+10 of certain taxes and collecting the corresponding tax revenue; or
+11 (III) A constitutional requirement that the state collect the revenue
+12 for the benefit of another government; OR
+13 (IV) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+14 2025, THE AUTHORITY OF THE STATE TO COLLECT AN EXCISE TAX ON
+15 GASOLINE THAT IS USED AS JET FUEL AND DISTRIBUTE THE REVENUE TO A
+16 NON-STATE ENTITY.
+17 (e) "COLLECTIONS FOR ANOTHER GOVERNMENT", WITH RESPECT
+18 TO REVENUE THAT IS COLLECTED IN ACCORDANCE WITH SUBSECTION
+19 (1)(b)(IV) OF THIS SECTION, INCLUDES THE REVENUE FROM THE EXCISE
+20 TAX ON GASOLINE USED AS FUEL FOR THE PROPULSION OF
+21 NONTURBO-PROPELLER, NONJET ENGINE, TURBO-PROPELLER, OR JET
+22 ENGINE AIRCRAFT COLLECTED BY THE STATE PURSUANT TO SECTION
+23 39-27-102 (1)(a)(IV) THAT IS PLACED, PURSUANT TO SECTION 39-27-112
+24 (2)(b), IN THE AVIATION FUND CREATED IN SECTION 43-10-109 AND
+25 DISTRIBUTED IN ACCORDANCE WITH SECTION 43-10-110 TO
+26 GOVERNMENTAL OR AIRPORT ENTITIES OPERATING AN FAA-DESIGNATED
+27 PUBLIC USE AIRPORT.
+-4- SB26-042
+
+1 (2) "Damage award" means any pecuniary compensation received
+2 by the state as a result of:
+3 (a) Any judgment or allowance in favor of the state; and
+4 (b) For state fiscal years commencing on or after July 1, 2024:
+5 (IV) A monetary fine or penalty collected by the division of
+6 administration of the department of public health and environment
+7 pursuant to section 25-7-115, 25-7-122, or 25-7-123 and deposited in the
+8 community impact cash fund created in section 25-7-129 or in the motor
+9 vehicle emissions assistance fund created in section 25-7-129.5; and
+10 (V) A monetary penalty collected by the division of labor
+11 standards and statistics of the department of labor and pursuant to section
+12 8-1-114; AND
+13 (c) FOR STATE FISCAL YEARS COMMENCING ON OR AFTER JULY 1,
+14 2025:
+15 (I) A FINE, PENALTY, OR FORFEITURE THAT IS CREDITED TO THE
+16 HIGHWAY USERS TAX FUND PURSUANT TO SECTIONS 18-4-509 (2)(a),
+17 39-27-104 (1)(g), 42-1-217 (1)(a), 42-1-217 (1)(b), 42-1-217 (1)(d),
+18 42-1-217 (1)(e), 42-1-217 (2), 42-4-225 (3), AND 42-4-235 (2)(a);
+19 (II) A MONETARY PENALTY COLLECTED PURSUANT TO SECTION
+20 10-1-310, 10-3-1108, OR 10-3-1109, BY THE COMMISSIONER OF
+21 INSURANCE IN THE DIVISION OF INSURANCE IN THE DEPARTMENT OF
+22 REGULATORY AGENCIES;
+23 (III) A CIVIL MONEY PENALTY COLLECTED PURSUANT TO SECTION
+24 11-30-106.5 OR 11-44-123, BY THE COMMISSIONER OF FINANCIAL
+25 SERVICES IN THE DIVISION OF FINANCIAL SERVICES IN THE DEPARTMENT OF
+26 REGULATORY AGENCIES;
+27 (IV) A CIVIL MONEY PENALTY COLLECTED PURSUANT TO SECTION
+-5- SB26-042
+
+1 11-102-503 OR 11-109-602, BY THE BANKING BOARD IN THE DIVISION OF
+2 BANKING IN THE DEPARTMENT OF REGULATORY AGENCIES;
+3 (V) A CIVIL MONETARY PENALTY COLLECTED PURSUANT TO
+4 SECTION 25-1-107.5, BY THE DEPARTMENT OF HEALTH CARE POLICY AND
+5 FINANCING;
+6 (VI) A FINE COLLECTED PURSUANT TO SECTION 25-1.5-117, BY THE
+7 DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT;
+8 (VII) AN OVERPAYMENT OR CIVIL MONETARY PENALTY
+9 COLLECTED PURSUANT TO SECTION 25.5-4-301 (2)(a)(I), BY THE
+10 DEPARTMENT OF HEALTH CARE POLICY AND FINANCING;
+11 (VIII) PROCEEDS OWING TO THE STATE AS A RESULT OF AN ACTION
+12 OR SETTLEMENT OF A CLAIM PURSUANT TO SECTION 25.5-4-306;
+13 (IX) A CIVIL PENALTY COLLECTED PURSUANT TO SECTION
+14 25-11-107 (4) BY THE DEPARTMENT OF PUBLIC HEALTH AND
+15 ENVIRONMENT OR BY THE ATTORNEY GENERAL ON BEHALF OF THE
+16 DEPARTMENT;
+17 (X) AN ADMINISTRATIVE PENALTY COLLECTED PURSUANT TO
+18 SECTION 25-17-407, BY THE DEPARTMENT OF PUBLIC HEALTH AND
+19 ENVIRONMENT;
+20 (XI) AN ADMINISTRATIVE OR CIVIL PENALTY COLLECTED
+21 PURSUANT TO SECTION 25-15-309, BY THE DEPARTMENT OF PUBLIC
+22 HEALTH AND ENVIRONMENT;
+23 (XII) AN ADMINISTRATIVE OR CIVIL PENALTY COLLECTED
+24 PURSUANT TO SECTION 30-20-113 (5), BY THE DEPARTMENT OF PUBLIC
+25 HEALTH AND ENVIRONMENT;
+26 (XIII) THE SIXTY-FIVE PERCENT MONETARY PENALTY COLLECTED
+27 PURSUANT TO SECTION 8-81-101 (4)(a)(II), BY THE DIVISION OF
+-6- SB26-042
+
+1 UNEMPLOYMENT INSURANCE IN THE DEPARTMENT OF LABOR AND
+2 EMPLOYMENT;
+3 (XIV) A PENALTY COLLECTED PURSUANT TO SECTION 38-12-1105,
+4 BY THE DIVISION OF HOUSING IN THE DEPARTMENT OF LOCAL AFFAIRS;
+5 (XV) A MONETARY PENALTY COLLECTED PURSUANT TO SECTION
+6 44-30-524 BY THE COLORADO LIMITED GAMING CONTROL COMMISSION IN
+7 THE DIVISION OF GAMING IN THE DEPARTMENT OF REVENUE;
+8 (XVI) A PENALTY COLLECTED PURSUANT TO SECTION 8-1-116 BY
+9 THE DIRECTOR OF THE DIVISION OF LABOR STANDARDS AND STATISTICS IN
+10 THE DEPARTMENT OF LABOR AND EMPLOYMENT;
+11 (XVII) A PENALTY COLLECTED PURSUANT TO SECTION 25-5-1009
+12 BY THE STATE BOARD OF HEALTH IN THE DEPARTMENT OF PUBLIC HEALTH
+13 AND ENVIRONMENT;
+14 (XVIII) MONEY DEPOSITED IN THE CRIME VICTIM COMPENSATION
+15 FUND OF EACH JUDICIAL DISTRICT PURSUANT TO SECTION 24-4.1-117 (2)
+16 INCLUDING ALL MONEY PAID AS A COST OR SURCHARGE LEVIED ON
+17 CRIMINAL ACTIONS PURSUANT TO SECTION 24-4.1-119; ALL MONEY
+18 RECEIVED FROM ANY ACTION OR SUIT TO RECOVER DAMAGES FROM AN
+19 ASSAILANT FOR A COMPENSABLE CRIME WHICH WAS THE BASIS FOR
+20 APPROVAL OF, AND LIMITED TO, COMPENSATION RECEIVED UNDER PART 1
+21 OF ARTICLE 4.1 OF THIS TITLE 24; AND ANY RESTITUTION PAID BY AN
+22 ASSAILANT TO A VICTIM FOR DAMAGES FOR A COMPENSABLE CRIME WHICH
+23 WAS THE BASIS FOR APPROVAL OF COMPENSATION RECEIVED UNDER PART
+24 1 OF ARTICLE 4.1 OF THIS TITLE 24 AND FOR DAMAGES FOR WHICH THE
+25 VICTIM HAS RECEIVED APPROVAL OF, AND LIMITED TO, COMPENSATION
+26 RECEIVED UNDER PART 1 OF ARTICLE 4.1 OF THIS TITLE 24; AND
+27 (XIX) REIMBURSEMENTS COLLECTED PURSUANT TO SECTION
+-7- SB26-042
+
+1 25.5-4-301 BY THE DEPARTMENT OF HEALTH CARE POLICY AND FINANCING
+2 FROM LEGALLY RESPONSIBLE PARTIES WHEN THE DEPARTMENT HAS PAID
+3 CLAIMS ON BEHALF OF A MEMBER OF THE STATE'S MEDICAID PROGRAM;
+4 SECTION 3. Safety clause. The general assembly finds,
+5 determines, and declares that this act is necessary for the immediate
+6 preservation of the public peace, health, or safety or for appropriations for
+7 the support and maintenance of the departments of the state and state
+8 institutions.
+-8- SB26-042

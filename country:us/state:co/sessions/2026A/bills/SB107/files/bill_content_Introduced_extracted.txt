@@ -1,0 +1,379 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0014.01 Alison Killen x4350 SENATE BILL 26-107
+SENATE SPONSORSHIP
+Kipp and Rich,
+HOUSE SPONSORSHIP
+Soper and Carter,
+Senate Committees House Committees
+State, Veterans, & Military Affairs
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO THE "COLORADO OPEN RECORDS
+102 ACT".
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill makes the following changes to the "Colorado Open
+Records Act" (CORA):
+! Excludes from the definition of a "public record" a written
+document or electronic record that is produced by a device
+or application that is used to assist an individual with a
+disability or individuals with language barriers to facilitate
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+communication if the written document or electronic record
+has been produced to facilitate communication in lieu of
+verbal communication;
+! Requires a public entity to post any rules or policies
+adopted pursuant to CORA, including any records retention
+policy, and to post information for members of the public
+regarding how to make a public records request;
+! Changes the reasonable time to respond to a CORA request
+from 3 to 5 working days and changes the extension of time
+for the response period if extenuating circumstances exist
+from not exceeding 7 additional days to not exceeding 10
+additional days;
+! Adds an extenuating circumstance that allows extension of
+the response period when the custodian is not scheduled to
+work within the response period;
+! If public records are in the sole and exclusive custody and
+control of a person who is not scheduled to work within the
+response period, requires a custodian to provide all other
+available responsive public records within the response
+period and to notify the requester of the earliest date on
+which the person is expected to be available or that the
+person is not expected to return. The requester may make
+a subsequent request for additional responsive records, if
+any, on or after the date the custodian provides.
+! Allows a custodian to determine that a request, other than
+a request for a contract or other information delivered using
+computer data extraction methods that require minimal
+human intervention for retrieval, is made for the direct
+solicitation of business for pecuniary gain and provides a
+30-day response period for such request; requires the
+custodian to provide written notice of the custodian's
+determination to the requester and permits the requester to
+appeal the determination to the district court; and allows a
+custodian to charge the requester for the reasonable cost of
+directly responding to the request notwithstanding the
+allowance for the first hour of research and retrieval to be
+free of charge and notwithstanding the statutory cap on fees
+which otherwise would apply;
+! In addition to the prohibition on disclosing public
+elementary or secondary school students' addresses and
+telephone numbers, prohibits disclosure of any other
+student information that could be used to directly contact,
+address, or send a message to a student through any means
+or method;
+! Allows a requester to ask a custodian for a reasonable
+-2- SB26-107
+
+breakdown of costs that comprise the fee charged for the
+research and retrieval of requested public records and
+requires a custodian to provide such a breakdown upon
+request;
+! Clarifies that the custodian of records for a public entity
+must allow a requester to pay any fee or deposit associated
+with a request for public records with a credit card or
+electronic payment if the public entity allows members of
+the public to pay in this manner for any other service or
+product provided by the public entity;
+! Allows a custodian to treat a CORA request received
+within 14 calendar days of another CORA request for
+information pertaining to facially similar content and made
+by the same person as one request for purposes of
+calculating the fee that the custodian may charge the
+requester for research and retrieval of responsive public
+records;
+! Requires a custodian who fails to respond to a request for
+inspection within the applicable time period to provide the
+requester with one additional hour of research and retrieval
+time without charge for each calendar day that the response
+is late; and
+! Clarifies that if a custodian imposes any requirements
+concerning the prepayment or payment of a fee in
+connection with a request for inspection of public records,
+the requirements must be in accordance with the
+custodian's adopted rules or written policies and must not
+be inconsistent with the provisions of CORA.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-72-202, amend
+3 (6)(b)(XVII) and (6)(b)(XVIII); and add (6)(b)(XIX) as follows:
+4 24-72-202. Definitions.
+5 As used in this part 2, unless the context otherwise requires:
+6 (6) (b) "Public records" does not include:
+7 (XVII) A complaint of harassment or discrimination, as described
+8 in section 22-1-143, that is unsubstantiated and all records related to the
+9 unsubstantiated complaint, including records of an investigation into the
+-3- SB26-107
+
+1 complaint; or
+2 (XVIII) Jail assessments conducted pursuant to section 30-10-530
+3 (5)(d) or 24-31-118; OR
+4 (XIX) (A) A WRITTEN DOCUMENT OR ELECTRONIC RECORD THAT
+5 IS PRODUCED BY A DEVICE OR APPLICATION THAT IS USED TO ASSIST AN
+6 INDIVIDUAL WITH A DISABILITY TO FACILITATE COMMUNICATION IF THE
+7 WRITTEN DOCUMENT OR ELECTRONIC RECORD HAS BEEN PRODUCED TO
+8 FACILITATE COMMUNICATION FOR THE INDIVIDUAL WITH THE DISABILITY
+9 IN LIEU OF VERBAL COMMUNICATION; OR
+10 (B) A WRITTEN DOCUMENT OR ELECTRONIC RECORD THAT IS
+11 PRODUCED BY A DEVICE OR APPLICATION THAT IS USED TO ASSIST
+12 INDIVIDUALS WITH A LANGUAGE BARRIER TO FACILITATE COMMUNICATION
+13 IF THE WRITTEN DOCUMENT OR ELECTRONIC RECORD HAS BEEN PRODUCED
+14 TO FACILITATE COMMUNICATION BETWEEN THE INDIVIDUALS WITH A
+15 LANGUAGE BARRIER IN LIEU OF VERBAL COMMUNICATION. AS USED IN THIS
+16 SUBSECTION (6)(b)(XIX)(B), "LANGUAGE BARRIER" MEANS A DIFFICULTY
+17 FOR INDIVIDUALS TO COMMUNICATE BECAUSE THE INDIVIDUALS SPEAK
+18 DIFFERENT LANGUAGES OR DO NOT OTHERWISE SHARE A COMMON
+19 LANGUAGE.
+20 SECTION 2. In Colorado Revised Statutes, 24-72-203, amend
+21 (3)(b) introductory portion, (3)(b)(I), (3)(b)(II) introductory portion,
+22 (3)(b)(II)(B), (3)(b)(III), (3)(d)(I), and (3)(d)(II); and add (1)(c),
+23 (3)(b)(IV), (3)(e), and (3)(f) as follows:
+24 24-72-203. Public records open to inspection - definitions.
+25 (1) (c) A PUBLIC ENTITY THAT HAS PUBLIC RECORDS THAT MAY BE
+26 SUBJECT TO DISCLOSURE PURSUANT TO THIS PART 2 SHALL POST ON ITS
+27 WEBSITE ANY RULES OR POLICIES ADOPTED IN ACCORDANCE WITH THIS
+-4- SB26-107
+
+1 PART 2, INCLUDING RULES CONCERNING THE INSPECTION OF PUBLIC
+2 RECORDS. THE PUBLIC ENTITY SHALL ALSO POST ON ITS WEBSITE ANY
+3 RECORDS RETENTION POLICY THAT IT HAS AND SHALL PROVIDE ON ITS
+4 WEBSITE INFORMATION TO MEMBERS OF THE PUBLIC CONCERNING HOW TO
+5 REQUEST INSPECTION OF PUBLIC RECORDS FROM A CUSTODIAN OF THE
+6 PUBLIC RECORD. IF THE PUBLIC ENTITY DOES NOT HAVE A PUBLICLY
+7 ACCESSIBLE WEBSITE, THEN THE INFORMATION REQUIRED TO BE POSTED
+8 PURSUANT TO THIS SUBSECTION (1)(c) MUST BE PHYSICALLY POSTED IN
+9 THE LOCATION DESIGNATED BY THE PUBLIC ENTITY FOR POSTING NOTICES.
+10 (3) (b) The date and hour set for the inspection of records not
+11 readily available at the time of the request shall MUST be within a
+12 reasonable time after the request. As used in this subsection (3), a
+13 "reasonable time" shall be IS presumed to be three FIVE working days or
+14 less. Such period may be extended if extenuating circumstances exist.
+15 However, such period of extension shall not exceed seven TEN working
+16 days. A finding that extenuating circumstances exist shall MUST be made
+17 in writing by the custodian and shall MUST be provided to the person
+18 making the request within the three-day FIVE-DAY period. Extenuating
+19 circumstances shall apply only when:
+20 (I) A broadly stated request is made that encompasses all or
+21 substantially all of a large category of records and the request is without
+22 sufficient specificity to allow the custodian reasonably to prepare or
+23 gather the records within the three-day FIVE-DAY period; or
+24 (II) A broadly stated request is made that encompasses all or
+25 substantially all of a large category of records and the agency is unable to
+26 prepare or gather the records within the three-day FIVE-DAY period
+27 because:
+-5- SB26-107
+
+1 (B) In the case of the general assembly or its staff or service
+2 agencies, the general assembly is in session; or
+3 (III) A request involves such a large volume of records that the
+4 custodian cannot reasonably prepare or gather the records within the
+5 three-day FIVE-DAY period without substantially interfering with the
+6 custodian's obligation to perform his or her THE CUSTODIAN'S other public
+7 service responsibilities; OR
+8 (IV) THE CUSTODIAN, OR A PERSON WHO IS ESSENTIAL TO THE
+9 PROCESS OF RESPONDING TO REQUESTS, IS NOT SCHEDULED TO WORK
+10 WITHIN ALL OR PART OF THE FIVE-DAY PERIOD.
+11 (d) Notwithstanding any other provision of this section, if the
+12 public records requested are election-related and are in the custody and
+13 control of a county clerk and recorder but are in active use, in storage, or
+14 otherwise not readily available at the time a requester asks to examine
+15 them, and the request is made during an election for which the county
+16 clerk and recorder is the designated election official, the county clerk and
+17 recorder may, at the county clerk and recorder's discretion, take additional
+18 time to fulfill the request as specified in this subsection (3)(d); except that
+19 the provisions of this subsection (3)(d) do not apply if the requester of the
+20 public records is a mass medium organization as defined in section
+21 13-90-119 (1)(a), or a newsperson, as defined in section 13-90-119 (1)(c).
+22 The county clerk and recorder may take additional time to fulfill the
+23 request as follows:
+24 (I) During the period beginning on the sixtieth day before election
+25 day and concluding with the date by which the county clerk and recorder
+26 certifies the final official abstract of votes cast for the applicable election,
+27 the county clerk and recorder may extend the period for production of
+-6- SB26-107
+
+1 records up to an additional ten working days past the seven-day TEN-DAY
+2 extension allowed under subsection (3)(b) of this section;
+3 (II) The county clerk and recorder shall provide written notice of
+4 the extension to the requester within three FIVE working days from the
+5 date of the request;
+6 (e) (I) (A) IF A CUSTODIAN, DESPITE EXPENDING REASONABLE
+7 EFFORT, IS UNABLE TO DETERMINE OR ACCESS PUBLIC RECORDS THAT MAY
+8 BE RESPONSIVE TO A REQUEST BECAUSE THE PUBLIC RECORDS MAY BE IN
+9 THE SOLE AND EXCLUSIVE CUSTODY AND CONTROL OF ANOTHER
+10 EMPLOYEE, VOLUNTEER, DIRECTOR, AGENT, ELECTED OFFICIAL, OR OTHER
+11 PERSON AUTHORIZED TO HAVE CUSTODY AND CONTROL OF THE PUBLIC
+12 RECORDS WHO IS ON LEAVE, NOT ON CONTRACT, OR OTHERWISE NOT
+13 SCHEDULED TO WORK WITHIN THE APPLICABLE RESPONSE PERIOD, THE
+14 CUSTODIAN SHALL PROVIDE WITHIN THE APPLICABLE RESPONSE PERIOD
+15 ALL OTHER AVAILABLE RESPONSIVE PUBLIC RECORDS IN ACCORDANCE
+16 WITH THIS PART 2. THE CUSTODIAN SHALL NOTIFY THE REQUESTER OF THE
+17 EARLIEST DATE ON WHICH THE OTHER PERSON WHO MAY HAVE ANY
+18 ADDITIONAL POTENTIALLY RESPONSIVE PUBLIC RECORDS IS EXPECTED TO
+19 BE AVAILABLE, AND, IF THE PERSON'S RETURN DATE IS UNABLE TO BE
+20 DETERMINED AT THE TIME OF THE REQUEST, THE CUSTODIAN SHALL
+21 NOTIFY THE REQUESTER OF THE DATE OF THE PERSON'S RETURN AS SOON
+22 AS IT IS ABLE TO BE DETERMINED OR, IF THE PERSON IS NOT EXPECTED TO
+23 RETURN TO WORK, THE CUSTODIAN SHALL PROVIDE NOTICE TO THE
+24 REQUESTER OF THAT. THE REQUESTER MAY SUBMIT A NEW REQUEST FOR
+25 ANY ADDITIONAL POTENTIALLY RESPONSIVE PUBLIC RECORDS ON OR
+26 AFTER THE DATE THAT THE CUSTODIAN PROVIDES.
+27 (B) THIS SUBSECTION (3)(e) IS NOT INTENDED TO BE USED TO
+-7- SB26-107
+
+1 INTENTIONALLY DELAY OR CIRCUMVENT THE RELEASE OF PUBLIC RECORDS
+2 AND DOES NOT EXEMPT A CUSTODIAN'S RESPONSIBILITY TO MAINTAIN
+3 REASONABLE ACCESS TO PUBLIC RECORDS.
+4 (II) THE PROVISIONS SET FORTH IN THIS SUBSECTION (3)(e) DO NOT
+5 MODIFY THE PROVISIONS SET FORTH IN SUBSECTION (2)(a) OF THIS
+6 SECTION.
+7 (III) AS USED IN THIS SUBSECTION (3)(e), UNLESS THE CONTEXT
+8 OTHERWISE REQUIRES, "APPLICABLE RESPONSE PERIOD" MEANS:
+9 (A) THE FIVE-DAY PERIOD OR THE TEN-DAY EXTENSION SET FORTH
+10 IN SUBSECTION (3)(b) OF THIS SECTION; OR
+11 (B) THE PERIOD INCLUDING THE ADDITIONAL TEN-DAY PERIOD SET
+12 FORTH IN SUBSECTION (3)(d)(I) OF THIS SECTION.
+13 (f) (I) IF A CUSTODIAN DETERMINES THAT REQUESTED PUBLIC
+14 RECORDS WILL BE USED FOR THE DIRECT SOLICITATION OF BUSINESS FOR
+15 PECUNIARY GAIN, THE CUSTODIAN SHALL PROVIDE THE REQUESTER WITH
+16 WRITTEN NOTICE OF THE DETERMINATION WITHIN THE FIVE-DAY PERIOD,
+17 AND, NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION, IN
+18 SETTING A DATE AND HOUR FOR RECORDS TO BE AVAILABLE FOR
+19 INSPECTION, THE CUSTODIAN SHALL HAVE THIRTY WORKING DAYS FROM
+20 PROVIDING THE NOTICE. A REQUESTER MAY SUBMIT WITH A REQUEST A
+21 SIGNED STATEMENT AFFIRMING THAT THE REQUESTED PUBLIC RECORDS
+22 WILL NOT BE USED FOR THE DIRECT SOLICITATION OF BUSINESS FOR
+23 PECUNIARY GAIN, WHICH THE CUSTODIAN MUST CONSIDER IN MAKING THE
+24 CUSTODIAN'S DETERMINATION PURSUANT TO THIS SUBSECTION (3)(f)(I).
+25 THE CUSTODIAN SHALL NOT CONSIDER IF THE REQUESTER MAY RECEIVE
+26 ANY MONETARY OR EQUITABLE AWARD PURSUANT TO LITIGATION IN
+27 MAKING THE DETERMINATION OF WHETHER A REQUEST IS FOR THE DIRECT
+-8- SB26-107
+
+1 SOLICITATION OF BUSINESS FOR PECUNIARY GAIN.
+2 (II) A REQUESTER THAT MAKES A REQUEST THAT HAS BEEN
+3 DETERMINED BY A CUSTODIAN TO BE FOR THE DIRECT SOLICITATION OF
+4 BUSINESS FOR PECUNIARY GAIN MAY APPLY TO THE DISTRICT COURT OF
+5 THE DISTRICT IN WHICH THE REQUESTED PUBLIC RECORDS ARE LOCATED
+6 FOR A DETERMINATION THAT THE REQUEST IS NOT FOR THE DIRECT
+7 SOLICITATION OF BUSINESS FOR PECUNIARY GAIN. THE COURT SHALL
+8 REVIEW THE MATTER AT THE EARLIEST PRACTICAL TIME AND HAS
+9 DISCRETION TO LIMIT ITS REVIEW TO SUBMISSION OF PLEADINGS,
+10 AFFIDAVITS, AND OTHER MATERIAL AS DEEMED APPROPRIATE BY THE
+11 COURT, OR THE COURT MAY SCHEDULE A HEARING. IN ITS REVIEW, THE
+12 COURT SHALL APPLY AN ABUSE OF DISCRETION STANDARD TO THE
+13 CUSTODIAN'S DETERMINATION.
+14 (III) NOTWITHSTANDING SECTION 24-72-205 (6)(a), A CUSTODIAN
+15 IS ENTITLED TO RECOVER THE REASONABLE COST ASSOCIATED WITH
+16 DIRECTLY RESPONDING TO A REQUEST FOR RECORDS THAT HAS BEEN
+17 DETERMINED BY THE CUSTODIAN TO BE FOR THE DIRECT SOLICITATION OF
+18 BUSINESS FOR PECUNIARY GAIN.
+19 (IV) A REQUEST FOR PUBLIC RECORDS FOR PURPOSES RELATED TO
+20 COLLECTIVE BARGAINING, ORGANIZING, OR OTHER RIGHTS AND ACTIVITIES
+21 PROTECTED BY ARTICLE 33 OF TITLE 29 BY AN ENTITY ENGAGED IN
+22 COLLECTIVE BARGAINING, ORGANIZING, OR OTHER RIGHTS AND ACTIVITIES
+23 PROTECTED BY ARTICLE 33 OF TITLE 29 IS NOT A REQUEST FOR THE DIRECT
+24 SOLICITATION OF BUSINESS FOR PECUNIARY GAIN.
+25 (V) THIS SUBSECTION (3)(f) DOES NOT APPLY TO A CONTRACT OR
+26 OTHER INFORMATION DELIVERED USING COMPUTER DATA EXTRACTION
+27 METHODS THAT REQUIRE MINIMAL HUMAN INTERVENTION FOR RETRIEVAL.
+-9- SB26-107
+
+1 SECTION 3. In Colorado Revised Statutes, 24-72-204, amend
+2 (3)(a)(VI) as follows:
+3 24-72-204. Allowance or denial of inspection - grounds -
+4 procedure - appeal - definitions - repeal.
+5 (3) (a) The custodian shall deny the right of inspection of the
+6 following records, unless otherwise provided by law; except that the
+7 custodian shall make any of the following records, other than letters of
+8 reference concerning employment, licensing, or issuance of permits,
+9 available to the person in interest in accordance with this subsection (3):
+10 (VI) Except as provided in section 1-2-227, addresses and
+11 telephone numbers of students in any public elementary or secondary
+12 school AND ANY OTHER INFORMATION OF STUDENTS IN ANY PUBLIC
+13 ELEMENTARY OR SECONDARY SCHOOL THAT COULD BE USED BY A PERSON
+14 TO DIRECTLY CONTACT, ADDRESS, OR SEND A MESSAGE TO THE STUDENT
+15 THROUGH ANY MEANS OR METHOD;
+16 SECTION 4. In Colorado Revised Statutes, 24-72-205, amend
+17 (6)(a) and (7); and add (6)(c), (6)(d), and (8) as follows:
+18 24-72-205. Copy, printout, or photograph of a public record
+19 - imposition of research and retrieval fee.
+20 (6) (a) A custodian may impose a fee in response to a request for
+21 the research and retrieval of public records only if the custodian has, prior
+22 to the date of receiving the request, either posted on the custodian's
+23 website or otherwise published a written policy that specifies the
+24 applicable conditions concerning the research and retrieval of public
+25 records by the custodian, including the amount of any current fee. Under
+26 any such policy, the custodian shall not impose a charge for the first hour
+27 of time expended in connection with the research and retrieval of public
+-10- SB26-107
+
+1 records. After the first hour of time has been expended, the custodian may
+2 charge a fee for the research and retrieval of public records that shall not
+3 exceed thirty dollars per hour. IF REQUESTED, A CUSTODIAN SHALL
+4 PROVIDE A REASONABLE BREAKDOWN OF COSTS THAT COMPRISE THE FEE
+5 CHARGED FOR THE RESEARCH AND RETRIEVAL OF PUBLIC RECORDS
+6 AUTHORIZED PURSUANT TO THIS SUBSECTION (6)(a).
+7 (c) FOR PURPOSES OF THE FEE CHARGED PURSUANT TO THIS
+8 SUBSECTION (6), A CUSTODIAN MAY TREAT A REQUEST FOR PUBLIC
+9 RECORDS MADE WITHIN FOURTEEN CALENDAR DAYS OF ANOTHER REQUEST
+10 FOR INFORMATION PERTAINING TO FACIALLY SIMILAR CONTENT MADE BY
+11 THE SAME PERSON AS ONE REQUEST AND NOT AS MULTIPLE INDIVIDUAL
+12 REQUESTS.
+13 (d) IN ADDITION TO THE FIRST HOUR IN WHICH A CUSTODIAN SHALL
+14 NOT IMPOSE A CHARGE FOR THE TIME EXPENDED IN THE RESEARCH AND
+15 RETRIEVAL OF PUBLIC RECORDS PURSUANT TO SUBSECTION (6)(a) OF THIS
+16 SECTION, A CUSTODIAN WHO FAILS TO RESPOND TO A REQUEST FOR
+17 INSPECTION OF PUBLIC RECORDS WITHIN THE TIME PERIOD REQUIRED BY
+18 SECTION 24-72-203 (3) SHALL ALSO PROVIDE THE REQUESTER WITH ONE
+19 ADDITIONAL HOUR OF RESEARCH AND RETRIEVAL TIME WITHOUT CHARGE
+20 FOR EACH CALENDAR DAY, OR PORTION THEREOF, THAT THE RESPONSE IS
+21 LATE.
+22 (7) If a custodian of a public record requested pursuant to this part
+23 2 PUBLIC ENTITY allows members of the public to pay for any other
+24 service or product provided by the custodian PUBLIC ENTITY with a credit
+25 card or electronic payment, the PUBLIC ENTITY AND THE custodian OF THE
+26 PUBLIC RECORD REQUESTED PURSUANT TO THIS PART 2 must allow the
+27 requester of the public record to pay any fee or deposit associated with the
+-11- SB26-107
+
+1 request with a credit card or via an electronic payment. The custodian
+2 may require a requester to pay any service charge or fee imposed by the
+3 processor of a credit card or electronic payment.
+4 (8) IF A CUSTODIAN IMPOSES ANY REQUIREMENTS CONCERNING
+5 THE PREPAYMENT OF FEES OR THE PAYMENT OF FEES IN CONNECTION WITH
+6 A REQUEST FOR INSPECTION OF PUBLIC RECORDS, THE REQUIREMENTS
+7 MUST BE IN ACCORDANCE WITH THE CUSTODIAN'S ADOPTED RULES OR
+8 WRITTEN POLICIES PURSUANT TO THIS PART 2 AND MUST NOT BE
+9 INCONSISTENT WITH THE PROVISIONS SET FORTH IN THIS SECTION.
+10 SECTION 5. Act subject to petition - effective date -
+11 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+12 the expiration of the ninety-day period after final adjournment of the
+13 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+14 2026); except that, if a referendum petition is filed pursuant to section 1
+15 (3) of article V of the state constitution against this act or an item, section,
+16 or part of this act within such period, then the act, item, section, or part
+17 will not take effect unless approved by the people at the general election
+18 to be held in November 2026 and, in such case, will take effect on the
+19 date of the official declaration of the vote thereon by the governor.
+20 (2) This act applies to requests for public records made pursuant
+21 to article 72 of title 24, Colorado Revised Statutes, on or after the
+22 applicable effective date of this act.
+-12- SB26-107

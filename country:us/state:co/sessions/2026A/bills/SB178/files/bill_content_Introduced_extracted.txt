@@ -1,0 +1,656 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0619.04 Christy Chase x2008 SENATE BILL 26-178
+SENATE SPONSORSHIP
+Mullica and Jodeh,
+HOUSE SPONSORSHIP
+Brown and Gilchrist,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING MEASURES TO ADDRESS THE AFFORDABILITY OF HEALTH
+102 INSURANCE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Sections 1 through 8 of the bill modify the "Health Insurance
+Affordability Act" to:
+! Authorize the Colorado health insurance affordability
+enterprise (enterprise) to impose a one-time supplemental
+assessment, allocated equally among health insurance
+companies that meet specified criteria;
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+! Allow the enterprise to invest specified money in the health
+insurance affordability cash fund (cash fund) without
+regard to otherwise applicable requirements for such
+investments and to contract with private professional fund
+managers to advise on investment strategies;
+! Modify the allocation of enterprise revenue among
+authorized purposes and allow the enterprise to reallocate
+unexpended amounts for specified purposes;
+! Authorize a 25-year loan from the unclaimed property trust
+fund (trust fund) to the cash fund;
+! Direct the health insurance affordability board, in
+recommending parameters for implementing subsidies for
+state-subsidized individual health coverage plans, to
+recommend coverage that prioritizes enrollment stability
+and customer predictability; when seeking input on its
+recommendations regarding plans, coverage, and the
+number of eligible slots, to enable feedback in at least
+English and Spanish and in other languages upon request;
+and to indicate how it incorporated such feedback into its
+final recommendations; and
+! Direct the enterprise to conduct or contract a third party to
+conduct a study to evaluate the feasibility of restructuring
+the enterprise programs to increase health insurance
+affordability and maximize enrollment in health insurance
+plans.
+Section 9 directs the state treasurer to enter into a loan agreement
+with the enterprise authorizing an interest-bearing loan of $100 million
+from the trust fund to the cash fund, with required full repayment of the
+loan no later than 25 years after the date of the loan.
+Sections 10 and 11 expand the tax credits for contributions to the
+Colorado health benefit exchange (exchange) to also allow tax credits for
+contributions to the enterprise and, of the $9 million available for the tax
+credits, allocate $5 million to qualified taxpayers that make contributions
+to the exchange and $4 million to qualified taxpayers that make
+contributions to the enterprise.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-16-1202, amend
+3 (2) as follows:
+4 10-16-1202. Legislative declaration.
+5 (2) The general assembly further finds and declares that,
+-2- SB26-178
+
+1 consistent with the determination of the Colorado supreme court in
+2 Nicholl v. E-470 Public Highway Authority, 896 P.2d 859 (Colo. 1995),
+3 the power to impose taxes is inconsistent with enterprise status under
+4 section 20 of article X of the state constitution, and the health insurance
+5 affordability fees and special assessments, AS WELL AS THE
+6 SUPPLEMENTAL ASSESSMENT, charged and collected by the health
+7 insurance affordability enterprise are fees, not taxes, because the fees and
+8 assessments are imposed for the specific purpose of allowing the
+9 enterprise to defray the costs of providing the business services specified
+10 in section 10-16-1204 (1)(a) to the carriers, HEALTH INSURANCE
+11 COMPANIES, and hospitals that pay the fees and assessments and are
+12 collected at rates that are reasonably calculated based on the benefits
+13 received by those carriers, HEALTH INSURANCE COMPANIES, and hospitals.
+14 SECTION 2. In Colorado Revised Statutes, 10-16-1203, amend
+15 (5); and add (6.5), (16), and (17) as follows:
+16 10-16-1203. Definitions.
+17 As used in this part 12, unless the context otherwise requires:
+18 (5) "Fee" means the health insurance affordability fee established
+19 and assessed pursuant to section 10-16-1205 SECTION 10-16-1205
+20 (1)(a)(I).
+21 (6.5) "HEALTH INSURANCE COMPANY" MEANS AN INSURANCE
+22 COMPANY, INCLUDING A HEALTH MAINTENANCE ORGANIZATION, THAT
+23 OFFERS POLICIES OF SICKNESS AND ACCIDENT INSURANCE IN THE STATE
+24 AND THAT HAD OVER TWENTY THOUSAND COVERED LIVES IN THE STATE IN
+25 THE 2025 CALENDAR YEAR.
+26 (16) "SUPPLEMENTAL ASSESSMENT" MEANS THE ONE-TIME
+27 SUPPLEMENTAL HEALTH INSURANCE AFFORDABILITY ASSESSMENT
+-3- SB26-178
+
+1 ESTABLISHED AND ASSESSED PURSUANT TO SECTION 10-16-1205
+2 (1)(a)(III).
+3 (17) "UNCLAIMED PROPERTY TRUST FUND" MEANS THE
+4 UNCLAIMED PROPERTY TRUST FUND CREATED IN SECTION 38-13-801 (1).
+5 SECTION 3. In Colorado Revised Statutes, 10-16-1204, amend
+6 (1)(a) introductory portion, (1)(a)(I) introductory portion, (1)(a)(I)(F),
+7 (2)(f), (2)(g), and (3); and add (2)(b.5) and (2)(h) as follows:
+8 10-16-1204. Health insurance affordability enterprise -
+9 creation - powers and duties - assess and allocate enterprise fees and
+10 assessments.
+11 (1) (a) There is hereby created in the division the Colorado health
+12 insurance affordability enterprise. The enterprise is and operates as a
+13 government-owned business within the division for the purpose of
+14 assessing and collecting the health insurance affordability fee from
+15 carriers that offer health benefit plans in the state, THE SUPPLEMENTAL
+16 ASSESSMENT FROM HEALTH INSURANCE COMPANIES, and a special
+17 assessment on hospitals in the state and using and allocating the fee and
+18 assessment ASSESSMENTS for the purposes specified in this part 12 in
+19 order to:
+20 (I) Provide the following business services to carriers that pay the
+21 fee AND TO HEALTH INSURANCE COMPANIES THAT PAY THE SUPPLEMENTAL
+22 ASSESSMENT:
+23 (F) Creating a healthier risk pool for all carriers AND HEALTH
+24 INSURANCE COMPANIES by establishing a path for consistent coverage for
+25 individuals; and
+26 (2) The enterprise's primary powers and duties are:
+27 (b.5) TO ASSESS AND COLLECT THE SUPPLEMENTAL ASSESSMENT
+-4- SB26-178
+
+1 SPECIFIED IN SECTION 10-16-1205 (1)(a)(III);
+2 (f) To engage in outreach and related efforts to increase
+3 enrollment in health benefit plans across the state; and
+4 (g) To adopt and amend or repeal policies for the regulation of its
+5 affairs and the conduct of its business consistent with this part 12; AND
+6 (h) (I) TO INVEST MONEY IN THE FUND WITHOUT REGARD TO THE
+7 LIMITATIONS SET FORTH IN SECTION 24-36-103, 24-75-601.1, OR
+8 24-75-603.
+9 (II) FOR PURPOSES OF INVESTING THE MONEY IN THE FUND, THE
+10 ENTERPRISE MAY ENTER INTO CONTRACTS WITH PRIVATE PROFESSIONAL
+11 FUND MANAGERS TO PROVIDE EXPERTISE, TECHNICAL SUPPORT, AND
+12 ADVICE ON INVESTMENT MARKET CONDITIONS. IN SEEKING BIDS FOR SUCH
+13 CONTRACTS, THE ENTERPRISE SHALL EMPLOY STANDARD PUBLIC BIDDING
+14 PRACTICES, INCLUDING THE USE OF REQUESTS FOR INFORMATION,
+15 REQUESTS FOR PROPOSALS, OR ANY OTHER STANDARD VENDOR SELECTION
+16 PRACTICES DETERMINED BY THE ENTERPRISE TO BE BEST SUITED FOR
+17 SELECTING AN APPROPRIATE PRIVATE PROFESSIONAL FUND MANAGER.
+18 (3) The enterprise shall exercise IS A TYPE 2 ENTITY, AS DEFINED
+19 IN SECTION 24-1-105, AND EXERCISES its powers and perform PERFORMS
+20 its duties as if the same were transferred to the division by a type 2
+21 transfer, as defined in section 24-1-105 UNDER THE DIRECTION AND
+22 SUPERVISION OF THE COMMISSIONER.
+23 SECTION 4. In Colorado Revised Statutes, 10-16-1205, amend
+24 (1)(b) introductory portion, (1)(b)(IV)(B), (2)(a), and (2)(d)(I)
+25 introductory portion; repeal (2)(e)(III); and add (1)(a)(III) and (2)(f) as
+26 follows:
+27 10-16-1205. Health insurance affordability fee - supplemental
+-5- SB26-178
+
+1 assessment - special assessment on hospitals - allocation of revenues.
+2 (1) (a) (III) (A) NO EARLIER THAN JANUARY 1, 2027, THE
+3 ENTERPRISE SHALL ASSESS AND COLLECT FROM HEALTH INSURANCE
+4 COMPANIES A ONE-TIME SUPPLEMENTAL HEALTH INSURANCE
+5 AFFORDABILITY ASSESSMENT OF FORTY MILLION DOLLARS.
+6 (B) THE ENTERPRISE SHALL DIVIDE AND ASSESS THE
+7 SUPPLEMENTAL ASSESSMENT EQUALLY AMONG HEALTH INSURANCE
+8 COMPANIES THAT ARE SUBJECT TO THE SUPPLEMENTAL ASSESSMENT. IN
+9 DETERMINING THE EQUAL SHARE OF THE SUPPLEMENTAL ASSESSMENT
+10 OWED BY EACH HEALTH INSURANCE COMPANY SUBJECT TO THE SPECIAL
+11 ASSESSMENT, A HEALTH INSURANCE COMPANY THAT OPERATES IN
+12 MULTIPLE MARKETS IN THE STATE UNDER MULTIPLE LICENSES OR
+13 MULTIPLE CARRIERS IS TREATED AS A SINGLE HEALTH INSURANCE
+14 COMPANY AND IS SUBJECT TO A SINGLE, EQUAL SHARE OF THE
+15 SUPPLEMENTAL ASSESSMENT.
+16 (b) The enterprise shall use the fee, THE SUPPLEMENTAL
+17 ASSESSMENT, the special assessment on hospitals, and any other money
+18 available in the fund as follows, allocated in accordance with subsection
+19 (2) of this section:
+20 (IV) To pay the actual administrative costs of the enterprise for
+21 implementing and administering this part 12, limited to three percent of
+22 the enterprise's revenues. Actual administrative costs include the
+23 following:
+24 (B) The enterprise's actual costs related to implementing and
+25 maintaining the fee, SUPPLEMENTAL ASSESSMENT, and special assessment
+26 on hospitals, including personal services and operating expenses; and
+27 (2) (a) The enterprise shall transmit the fees, SUPPLEMENTAL
+-6- SB26-178
+
+1 ASSESSMENT, and special assessments collected pursuant to this section
+2 to the state treasurer for deposit in the health insurance affordability cash
+3 fund created in section 10-16-1206 and, except as provided in subsection
+4 (4) of this section, shall allocate the money in the fund in accordance with
+5 this subsection (2).
+6 (d) (I) Except as provided in subsections (2)(d)(IV) and (2)(e) of
+7 this section, the enterprise shall allocate the revenues collected in 2023
+8 and each year thereafter THROUGH 2026, and any other money deposited
+9 in the fund in 2023 and each year thereafter THROUGH 2026, in the
+10 following amounts and order of priority:
+11 (e) (III) This subsection (2)(e) takes effect on January 1, 2026,
+12 only if the condition specified in section 10-16-1209 (1) occurs.
+13 (f) (I) THE ENTERPRISE SHALL ALLOCATE AT LEAST THE
+14 FOLLOWING REVENUES ASSESSED FOR THE 2027 CALENDAR YEAR AND FOR
+15 EACH CALENDAR YEAR THEREAFTER, AND ANY OTHER MONEY DEPOSITED
+16 IN THE FUND IN 2027 AND EACH YEAR THEREAFTER, AS FOLLOWS:
+17 (A) FIRST, AT LEAST TWENTY PERCENT FOR SUBSIDIES FOR
+18 STATE-SUBSIDIZED INDIVIDUAL HEALTH COVERAGE PLANS PURCHASED BY
+19 QUALIFIED INDIVIDUALS;
+20 (B) SECOND, AT LEAST FIFTY PERCENT TO THE REINSURANCE
+21 PROGRAM CASH FUND;
+22 (C) THIRD, AT LEAST TWENTY-FIVE PERCENT TO REDUCE THE
+23 COSTS OF INDIVIDUAL HEALTH BENEFIT PLANS FOR INDIVIDUALS WHO
+24 PURCHASE AN INDIVIDUAL HEALTH BENEFIT PLAN ON THE EXCHANGE;
+25 (D) FOURTH, UP TO THREE PERCENT FOR ACTUAL ADMINISTRATIVE
+26 COSTS AS SET FORTH IN SUBSECTION (1)(b)(IV) OF THIS SECTION; AND
+27 (E) FIFTH, THE ACTUAL COSTS OF ENSURING COMPLIANCE WITH
+-7- SB26-178
+
+1 THE FEDERAL HYDE AMENDMENT OR A SIMILAR AMENDMENT.
+2 (II) THE ENTERPRISE SHALL ALLOCATE ANY AMOUNT OF REVENUES
+3 REMAINING AFTER ALLOCATING REVENUES PURSUANT TO SUBSECTION
+4 (2)(f)(I) OF THIS SECTION TO MEET THE FOLLOWING OBJECTIVES:
+5 (A) TO AT LEAST MAINTAIN A STATEWIDE AVERAGE PREMIUM
+6 REDUCTION IN THE REINSURANCE PROGRAM AT THE SAME LEVEL AS
+7 ACHIEVED FOR THE 2026 CALENDAR YEAR, PROVIDE PREMIUM ASSISTANCE
+8 FOR INDIVIDUALS WHO PURCHASE INSURANCE ON THE EXCHANGE AT THE
+9 SAME LEVEL OF PREMIUM ASSISTANCE PROVIDED IN THE 2026 CALENDAR
+10 YEAR, AND PROVIDE COVERAGE FOR QUALIFIED INDIVIDUALS AT THE
+11 ENROLLMENT LEVEL ACHIEVED IN THE 2026 CALENDAR YEAR; AND
+12 (B) TO SUPPORT ADDITIONAL AFFORDABILITY EFFORTS TO
+13 MAINTAIN OR INCREASE COVERAGE IN THE INDIVIDUAL MARKET.
+14 (III) IN ANY CALENDAR YEAR, AFTER MAKING THE ALLOCATIONS
+15 SPECIFIED IN SUBSECTIONS (2)(f)(I) AND (2)(f)(II) OF THIS SECTION, IF
+16 THERE IS MONEY REMAINING IN THE FUND ON AUGUST 1 OF THAT
+17 CALENDAR YEAR, THE ENTERPRISE MAY REALLOCATE ANY AMOUNT OF THE
+18 REVENUES COLLECTED AND ALLOCATED PURSUANT TO SUBSECTION
+19 (2)(f)(I) OR (2)(f)(II) OF THIS SECTION THAT HAVE NOT BEEN EXPENDED
+20 ON OR BEFORE AUGUST 1 OF THAT CALENDAR YEAR FOR ANY OTHER
+21 PURPOSE SPECIFIED IN SUBSECTION (2)(f)(I) OR (2)(f)(II) OF THIS SECTION
+22 EXCEPT THE ADMINISTRATIVE COSTS DESCRIBED IN SUBSECTION
+23 (2)(f)(I)(D) OF THIS SECTION.
+24 SECTION 5. In Colorado Revised Statutes, 10-16-1206, amend
+25 (1)(h) and (1)(i); and add (1)(j), (1)(k), and (6) as follows:
+26 10-16-1206. Health insurance affordability cash fund -
+27 creation - repeal.
+-8- SB26-178
+
+1 (1) There is created in the state treasury the health insurance
+2 affordability cash fund. The fund consists of:
+3 (h) Gifts, grants, or donations received from private or public
+4 sources; and
+5 (i) Any other money that may be appropriated or transferred to the
+6 fund. THE SUPPLEMENTAL ASSESSMENT COLLECTED FROM HEALTH
+7 INSURANCE COMPANIES PURSUANT TO SECTION 10-16-1205 (1)(a)(III);
+8 (j) MONEY CREDITED TO THE FUND AS A LOAN FROM THE
+9 UNCLAIMED PROPERTY TRUST FUND PURSUANT TO SUBSECTION (6) OF THIS
+10 SECTION AND SECTION 38-13-801 (7); AND
+11 (k) ANY OTHER MONEY THAT MAY BE APPROPRIATED OR
+12 TRANSFERRED TO THE FUND.
+13 (6) (a) MONEY CREDITED TO THE FUND PURSUANT TO SECTION
+14 38-13-801 (7) IS A LOAN FROM THE UNCLAIMED PROPERTY TRUST FUND TO
+15 THE FUND. THE ENTERPRISE MAY ACCEPT AND EXPEND THE MONEY SO
+16 CREDITED IN ACCORDANCE WITH THIS PART 12 AND SHALL REPAY THE
+17 LOAN IN ACCORDANCE WITH SECTION 38-13-801 (7).
+18 (b) A LOAN MADE FROM THE UNCLAIMED PROPERTY TRUST FUND
+19 TO A SEPARATE FUND IN THE ENTERPRISE:
+20 (I) IS AN INTERFUND LOAN ACCORDING TO GOVERNMENTAL
+21 ACCOUNTING STANDARDS BOARD CODIFICATION 1800.102, MEANING
+22 THAT THE LOAN IS NOT CLASSIFIED AS REVENUE AND IS BOOKED AS AN
+23 INTERFUND RECEIVABLE OR PAYABLE; AND
+24 (II) IS NEITHER A GRANT, AS DEFINED IN SECTION 24-77-102 (7)(a),
+25 SINCE IT IS REQUIRED TO BE REPAID, NOR STATE FISCAL YEAR SPENDING,
+26 AS DEFINED IN SECTION 24-77-102 (17), NOR STATE REVENUES, AS
+27 DEFINED IN SECTION 24-77-103.6 (6)(c), AND DOES NOT COUNT AGAINST
+-9- SB26-178
+
+1 EITHER THE STATE FISCAL YEAR SPENDING LIMIT IMPOSED BY SECTION 20
+2 OF ARTICLE X OF THE STATE CONSTITUTION OR THE EXCESS STATE
+3 REVENUES CAP, AS DEFINED IN SECTION 24-77-103.6 (6)(b)(I)(G).
+4 (c) LOAN LIABILITIES THAT ARE RECORDED IN THE FUND BUT THAT
+5 ARE NOT REQUIRED TO BE PAID IN THE CURRENT STATE FISCAL YEAR SHALL
+6 NOT BE CONSIDERED WHEN CALCULATING SUFFICIENT STATUTORY FUND
+7 BALANCE FOR PURPOSES OF SECTION 24-75-109.
+8 SECTION 6. In Colorado Revised Statutes, 10-16-1207, amend
+9 (4)(c)(I), (4.5), and (7)(a)(III); and add (4)(c.5)(I.5) as follows:
+10 10-16-1207. Health insurance affordability board - creation -
+11 membership - powers and duties - subject to open meetings and
+12 public records laws - annual report - commissioner rules.
+13 (4) The board is authorized to:
+14 (c) Recommend, for approval and establishment by the
+15 commissioner by rule:
+16 (I) The timing and methodology for assessing and collecting the
+17 fee, SUPPLEMENTAL ASSESSMENT, and special assessment, subject to
+18 section 10-16-1205 (1)(a);
+19 (c.5) Further recommend, for approval and establishment by the
+20 commissioner by rule, additional parameters for implementing the
+21 subsidies for state-subsidized individual health coverage plans authorized
+22 by this part 12, including that the coverage required pursuant to
+23 state-subsidized individual health coverage plans must:
+24 (I.5) PRIORITIZE ENROLLMENT STABILITY AND CUSTOMER
+25 PREDICTABILITY;
+26 (4.5) Prior to making any final recommendation pursuant to
+27 subsection (4) of this section regarding plans, coverage, and the number
+-10- SB26-178
+
+1 of eligible slots, the board shall seek input and recommendations from
+2 individuals directly affected by programs funded by the enterprise and
+3 shall discuss any input and recommendations received at a board meeting
+4 held in accordance with subsection (6) of this section. The board shall
+5 TAKE REASONABLE STEPS TO provide opportunities for individuals to
+6 provide input and recommendations in AT LEAST English and Spanish
+7 AND, TO THE EXTENT PRACTICABLE AND UPON A REQUEST SUBMITTED AT
+8 LEAST SEVEN DAYS IN ADVANCE OF THE TIME FOR PROVIDING INPUT AND
+9 RECOMMENDATIONS, IN OTHER LANGUAGES. THE BOARD SHALL ALSO
+10 INDICATE HOW INPUT AND RECOMMENDATIONS FROM INDIVIDUALS
+11 DIRECTLY AFFECTED BY ENTERPRISE PROGRAMS WERE INCORPORATED
+12 INTO ANY FINAL RECOMMENDATIONS MADE PURSUANT TO SUBSECTION (4)
+13 OF THIS SECTION.
+14 (7) (a) By February 15, 2026, and by every February 15 thereafter,
+15 the board shall prepare a report detailing:
+16 (III) The share of the total revenue that was received from the fee
+17 AND, FOR THE REPORT PREPARED FOR 2028, FROM THE SUPPLEMENTAL
+18 ASSESSMENT;
+19 SECTION 7. In Colorado Revised Statutes, 10-16-1211, amend
+20 (1)(b)(I)(G); and add (1)(b)(I)(I) and (1)(b)(I)(J) as follows:
+21 10-16-1211. Performance audit of the enterprise - repeal.
+22 (1) By December 31, 2027, the state auditor shall complete a
+23 performance audit of the enterprise. In conducting the audit, the state
+24 auditor shall:
+25 (b) Specify, for each year since the creation of the enterprise:
+26 (I) The annual revenue deposited in the fund from:
+27 (G) Interest and income derived from the deposit and investment
+-11- SB26-178
+
+1 of money in the fund; and
+2 (I) THE SUPPLEMENTAL ASSESSMENT COLLECTED FROM HEALTH
+3 INSURANCE COMPANIES PURSUANT TO SECTION 10-16-1205 (1)(a)(III);
+4 AND
+5 (J) MONEY ALLOCATED TO THE FUND AS A LOAN FROM THE
+6 UNCLAIMED PROPERTY TRUST FUND PURSUANT TO SECTIONS 10-16-1206
+7 (6) AND 38-13-801 (7);
+8 SECTION 8. In Colorado Revised Statutes, add 10-16-1212 as
+9 follows:
+10 10-16-1212. Study concerning optimization of health insurance
+11 affordability programs - repeal.
+12 (1) THE ENTERPRISE SHALL CONDUCT OR CONTRACT WITH A THIRD
+13 PARTY TO CONDUCT A STUDY, TO BE COMPLETED NO LATER THAN JULY 1,
+14 2027, TO:
+15 (a) EVALUATE THE FEASIBILITY OF RESTRUCTURING THE
+16 ENTERPRISE PROGRAMS TO INCREASE AFFORDABILITY AND MAXIMIZE
+17 ENROLLMENT, INCLUDING THE POTENTIAL CREATION OF A BASIC HEALTH
+18 PROGRAM PURSUANT TO SECTION 1331 OF THE FEDERAL ACT, 42 U.S.C.
+19 SEC. 18051; AND
+20 (b) EVALUATE OR EXPLORE ANY OTHER RELATED ISSUES.
+21 (2) WITHIN THIRTY DAYS AFTER THE STUDY IS COMPLETED, THE
+22 ENTERPRISE SHALL SUBMIT THE RESULTS OF THE STUDY TO THE HEALTH
+23 AND HUMAN SERVICES COMMITTEES OF THE SENATE AND THE HOUSE OF
+24 REPRESENTATIVES, OR THEIR SUCCESSOR COMMITTEES.
+25 (3) THIS SECTION IS REPEALED, EFFECTIVE JANUARY 1, 2028.
+26 SECTION 9. In Colorado Revised Statutes, 38-13-801, amend
+27 (1)(b); and add (2)(g) and (7) as follows:
+-12- SB26-178
+
+1 38-13-801. Unclaimed property trust fund - creation -
+2 payments - interest - appropriations - records - rules - definition.
+3 (1) (b) Except as provided in subsections (2), (3), and (3.5), AND
+4 (7) of this section, the principal of the trust fund shall not be expended
+5 except to pay claims made pursuant to this article 13. Money constituting
+6 the principal of the trust fund is not fiscal year spending of the state for
+7 purposes of section 20 of article X of the state constitution and is not
+8 subject to appropriation by the general assembly.
+9 (2) (g) PRINCIPAL CREDITED, AS REQUIRED BY SUBSECTION (7) OF
+10 THIS SECTION, AS A LOAN TO THE HEALTH INSURANCE AFFORDABILITY
+11 CASH FUND CREATED IN SECTION 10-16-1206 DOES NOT CONSTITUTE
+12 FISCAL YEAR SPENDING OF THE STATE FOR PURPOSES OF SECTION 20 OF
+13 ARTICLE X OF THE STATE CONSTITUTION.
+14 (7) (a) (I) AFTER RESERVING THE AMOUNTS DESCRIBED IN
+15 SUBSECTION (3)(b) OF THIS SECTION AND TRANSMITTING THE MONEY
+16 NECESSARY FOR THE PURPOSES DESCRIBED IN SUBSECTION (3)(a) OF THIS
+17 SECTION, ON AUGUST 15, 2026, THE STATE TREASURER SHALL EXECUTE A
+18 LOAN AGREEMENT WITH THE COLORADO HEALTH INSURANCE
+19 AFFORDABILITY ENTERPRISE. THE LOAN AGREEMENT MUST REQUIRE THE
+20 STATE TREASURER TO MAKE A LOAN IN THE AMOUNT OF ONE HUNDRED
+21 MILLION DOLLARS FROM THE UNCLAIMED PROPERTY TRUST FUND TO THE
+22 ENTERPRISE, SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION (7), TO
+23 FACILITATE THE ENTERPRISE'S ABILITY TO FUND ENTERPRISE PROGRAMS AS
+24 SPECIFIED IN PART 12 OF ARTICLE 16 OF TITLE 10.
+25 (II) THE LOAN AGREEMENT MUST SPECIFY:
+26 (A) THE TERM OF THE LOAN, WHICH MUST NOT EXCEED
+27 TWENTY-FIVE YEARS; AND
+-13- SB26-178
+
+1 (B) THE REPAYMENT PLAN, INCLUDING THE DATE BY WHICH THE
+2 ENTERPRISE MUST BEGIN MAKING PAYMENTS ON THE LOAN AND A
+3 REQUIREMENT THAT THE ENTERPRISE MAKE ANNUAL PAYMENTS ON THE
+4 LOAN FROM ITS REVENUE BEFORE MAKING ANY OTHER ALLOCATION OF ITS
+5 REVENUE FOR PURPOSES SPECIFIED IN PART 12 OF ARTICLE 16 OF TITLE 10.
+6 (III) THE LOAN BEARS INTEREST AT A RATE NEGOTIATED BETWEEN
+7 THE STATE TREASURER AND THE COMMISSIONER OF INSURANCE, ON
+8 BEHALF OF THE ENTERPRISE, BUT THE INTEREST RATE MUST NOT EXCEED
+9 THE INTEREST RATE THAT WOULD BE GRANTED TO AN ENTITY THAT HAS AT
+10 LEAST AN "AA" CREDIT RATING, OR ITS EQUIVALENT, FROM A NATIONALLY
+11 RECOGNIZED CREDIT RATING ORGANIZATION.
+12 (b) THE STATE TREASURER SHALL EXECUTE THE LOAN AGREEMENT
+13 DESCRIBED IN SUBSECTION (7)(a) OF THIS SECTION AFTER THE STATE
+14 TREASURER CERTIFIES THAT:
+15 (I) THE LOAN WILL NOT IMPAIR THE UNCLAIMED PROPERTY TRUST
+16 FUND'S ABILITY TO PAY CLAIMS; AND
+17 (II) THE LOAN AGREEMENT DETAILS REPAYMENT TERMS.
+18 (c) UPON EXECUTION OF THE LOAN AGREEMENT, THE STATE
+19 TREASURER SHALL CREDIT ONE HUNDRED MILLION DOLLARS FROM THE
+20 UNCLAIMED PROPERTY TRUST FUND TO THE HEALTH INSURANCE
+21 AFFORDABILITY CASH FUND CREATED IN SECTION 10-16-1206 AS A LOAN
+22 IN ACCORDANCE WITH THIS SUBSECTION (7).
+23 (d) (I) THE ENTERPRISE SHALL MAKE PAYMENTS TO THE STATE
+24 TREASURER IN REPAYMENT OF THE LOAN IN ACCORDANCE WITH THE
+25 TERMS OF THE LOAN AGREEMENT. ANY REMAINING OUTSTANDING
+26 PRINCIPAL AND ACCRUED INTEREST IS DUE AND PAYABLE IN FULL BY THE
+27 ENTERPRISE AT MATURITY.
+-14- SB26-178
+
+1 (II) THE STATE TREASURER SHALL CREDIT PAYMENTS ON THE LOAN
+2 TO THE UNCLAIMED PROPERTY TRUST FUND.
+3 (e) THE MAXIMUM TERM OF THE LOAN IS TWENTY-FIVE YEARS
+4 AFTER THE DATE THE LOAN PROCEEDS ARE CREDITED TO THE HEALTH
+5 INSURANCE AFFORDABILITY CASH FUND. THE ENTERPRISE MAY MAKE
+6 PRINCIPAL REPAYMENTS TO THE STATE TREASURER AT ANY TIME WITHOUT
+7 PENALTY.
+8 (f) THE ENTERPRISE SHALL PAY ANY REMAINING OUTSTANDING
+9 PRINCIPAL AND ACCRUED INTEREST IN FULL TO THE STATE TREASURER NO
+10 LATER THAN AUGUST 15, 2051; EXCEPT THAT, IF THE ENTERPRISE IS
+11 ELIMINATED BEFORE THE DATE THE LOAN MATURES, THE ENTERPRISE
+12 SHALL PAY IN FULL THE REMAINING OUTSTANDING PRINCIPAL AND
+13 ACCRUED INTEREST OWED ON THE LOAN BEFORE THE ENTERPRISE IS
+14 DISSOLVED.
+15 (g) AS USED IN THIS SUBSECTION (7), "COLORADO HEALTH
+16 INSURANCE AFFORDABILITY ENTERPRISE" OR "ENTERPRISE" MEANS THE
+17 COLORADO HEALTH INSURANCE AFFORDABILITY ENTERPRISE CREATED IN
+18 SECTION 10-16-1204.
+19 SECTION 10. In Colorado Revised Statutes, 10-22-103, add
+20 (2.5) and (6.7) as follows:
+21 10-22-103. Definitions.
+22 As used in this article 22, unless the context otherwise requires:
+23 (2.5) "ENTERPRISE" MEANS THE COLORADO HEALTH INSURANCE
+24 AFFORDABILITY ENTERPRISE CREATED IN SECTION 10-16-1204.
+25 (6.7) "HIA BOARD" MEANS THE HEALTH INSURANCE
+26 AFFORDABILITY BOARD CREATED IN SECTION 10-16-1207.
+27 SECTION 11. In Colorado Revised Statutes, 10-22-110, amend
+-15- SB26-178
+
+1 (1)(a), (3)(a), (4)(a), (4)(b), (4)(c)(I) introductory portion, (4)(c)(II),
+2 (5)(a), and (5)(b)(II); and add (3.5), (4)(d), and (6) as follows:
+3 10-22-110. Tax credit for contributions to the exchange or
+4 enterprise - allocation notice - rules - repeal.
+5 (1) (a) (I) For the tax year 2013 and each tax year thereafter
+6 THROUGH THE TAX YEAR 2026, a credit against the tax imposed by
+7 sections 10-3-209 and 10-6-128 is allowed to any insurance company that
+8 becomes a qualified taxpayer by making a contribution to the exchange
+9 pursuant to this section.
+10 (II) FOR THE TAX YEAR 2027 AND EACH TAX YEAR THEREAFTER,
+11 A CREDIT AGAINST THE TAX IMPOSED BY SECTIONS 10-3-209 AND 10-6-128
+12 IS ALLOWED TO ANY INSURANCE COMPANY THAT BECOMES A QUALIFIED
+13 TAXPAYER BY MAKING A CONTRIBUTION TO THE EXCHANGE OR TO THE
+14 ENTERPRISE PURSUANT TO THIS SECTION.
+15 (3) (a) FOR EACH TAX YEAR THROUGH THE TAX YEAR 2026, subject
+16 to subsection (4)(c) of this section, an insurance company shall become
+17 a qualified taxpayer if all of the following conditions are met:
+18 (I) The insurance company declares with its quarterly tax payment
+19 due on or about July 31 in the manner prescribed by the commissioner its
+20 intent to contribute to the exchange on or before October 31 an amount
+21 of money equal to the premium taxes paid by the company pursuant to the
+22 July 31 tax payment or a lesser amount as specified by the commissioner
+23 if required pursuant to paragraph (b) of subsection (4) SUBSECTION (4)(b)
+24 of this section;
+25 (II) The total amount of the tax credits granted by the
+26 commissioner does not exceed five million dollars; except that, on and
+27 after September 1, 2022, through August 31, 2028 AUGUST 31, 2027, the
+-16- SB26-178
+
+1 total amount of the tax credits does not exceed nine million dollars; and
+2 (III) The insurance company receives an allocation notice from
+3 the commissioner and the insurance company makes the contribution to
+4 the exchange as specified in the allocation notice on or before October 31.
+5 (3.5) (a) FOR THE TAX YEAR 2027 AND EACH TAX YEAR
+6 THEREAFTER, SUBJECT TO SUBSECTION (4)(d) OF THIS SECTION, AN
+7 INSURANCE COMPANY SHALL BECOME A QUALIFIED TAXPAYER IF ALL OF
+8 THE FOLLOWING CONDITIONS ARE MET:
+9 (I) THE INSURANCE COMPANY DECLARES WITH ITS QUARTERLY TAX
+10 PAYMENT DUE ON OR ABOUT JULY 31 IN THE MANNER PRESCRIBED BY THE
+11 COMMISSIONER ITS INTENT TO CONTRIBUTE TO THE EXCHANGE OR TO THE
+12 ENTERPRISE ON OR BEFORE OCTOBER 31 AN AMOUNT OF MONEY EQUAL TO
+13 THE PREMIUM TAXES PAID BY THE COMPANY PURSUANT TO THE JULY 31
+14 TAX PAYMENT OR A LESSER AMOUNT AS SPECIFIED BY THE COMMISSIONER
+15 IF REQUIRED PURSUANT TO SUBSECTION (4)(b) OF THIS SECTION;
+16 (II) THE AGGREGATE TOTAL AMOUNT OF THE TAX CREDITS
+17 GRANTED BY THE COMMISSIONER DOES NOT EXCEED NINE MILLION
+18 DOLLARS, ALLOCATED AS FOLLOWS:
+19 (A) FIVE MILLION DOLLARS FOR TAX CREDITS FOR QUALIFIED
+20 TAXPAYERS THAT CONTRIBUTE TO THE EXCHANGE; AND
+21 (B) FOUR MILLION DOLLARS FOR TAX CREDITS FOR QUALIFIED
+22 TAXPAYERS THAT CONTRIBUTE TO THE ENTERPRISE; AND
+23 (III) THE INSURANCE COMPANY:
+24 (A) RECEIVES AN ALLOCATION NOTICE FROM THE COMMISSIONER;
+25 AND
+26 (B) MAKES THE CONTRIBUTION, AS SPECIFIED IN THE ALLOCATION
+27 NOTICE, TO THE EXCHANGE OR ENTERPRISE, AS APPLICABLE, ON OR BEFORE
+-17- SB26-178
+
+1 OCTOBER 31.
+2 (b) SUBJECT TO SUBSECTION (4)(d) OF THIS SECTION, AN
+3 INSURANCE COMPANY THAT BECOMES A QUALIFIED TAXPAYER MAY CLAIM
+4 THE TAX CREDIT ON ONE OR MORE SUBSEQUENT QUARTERLY OR ANNUAL
+5 TAX PAYMENTS BEGINNING ON OR ABOUT OCTOBER 31.
+6 (c) WHEN IT RECEIVES A CONTRIBUTION PURSUANT TO THIS
+7 SECTION, THE BOARD OR HIA BOARD, AS APPLICABLE, SHALL PROMPTLY
+8 NOTIFY THE COMMISSIONER OF THE AMOUNT AND DATE OF THE
+9 CONTRIBUTION AND THE NAME OF THE CONTRIBUTOR.
+10 (4) (a) Subject to paragraph (c) of this subsection (4) SUBSECTION
+11 (4)(c) OR (4)(d) OF THIS SECTION, AS APPLICABLE, by September 30 of
+12 each year, the commissioner shall:
+13 (I) Send an allocation notice to each insurance company whose
+14 declaration of intent to contribute to the exchange OR TO THE ENTERPRISE,
+15 AS APPLICABLE, has been accepted pursuant to this subsection (4). The
+16 allocation notice shall specify the amount of tax credits allocated to the
+17 insurance company and the amount of cash the insurance company must
+18 contribute to the exchange by October 31, which amounts shall be
+19 identical and not exceed the amount of premium taxes paid by the
+20 insurance company in its quarterly tax payment due on or about July 31.
+21 (II) Post on the division's website whether the full amount of tax
+22 credits authorized to be allocated each year has been allocated.
+23 (b) (I) Subject to subsection (4)(c) OR (4)(d) of this section, AS
+24 APPLICABLE, the commissioner shall allocate no more than the following
+25 total amounts of premium tax credits per year:
+26 (A) Before September 1, 2022, a total of five million dollars;
+27 (B) On and after September 1, 2022, through August 31, 2028
+-18- SB26-178
+
+1 AUGUST 31, 2027, a total of nine million dollars; and
+2 (C) On and after September 1, 2028 SEPTEMBER 1, 2027, a total
+3 of five million dollars FOR TAX CREDITS FOR QUALIFIED TAXPAYERS THAT
+4 CONTRIBUTE TO THE EXCHANGE AND A TOTAL OF FOUR MILLION DOLLARS
+5 FOR TAX CREDITS FOR QUALIFIED TAXPAYERS THAT CONTRIBUTE TO THE
+6 ENTERPRISE.
+7 (II) (A) FOR EACH TAX YEAR THROUGH THE TAX YEAR 2026,
+8 except as provided in subsection (4)(b)(III) of this section, the
+9 commissioner shall allocate to an insurance company that has declared its
+10 intent to contribute to the exchange pursuant to this section tax credits in
+11 an amount equal to the amount of premium taxes paid by the insurance
+12 company in its quarterly tax payment due on or about July 31 in the order
+13 in which the division receives such quarterly tax payments until the full
+14 amount of credits available pursuant to this section has been allocated.
+15 (B) FOR THE TAX YEAR 2027 AND EACH TAX YEAR THEREAFTER,
+16 EXCEPT AS PROVIDED IN SUBSECTION (4)(b)(III) OF THIS SECTION, THE
+17 COMMISSIONER SHALL ALLOCATE TO AN INSURANCE COMPANY THAT HAS
+18 DECLARED ITS INTENT TO CONTRIBUTE TO THE EXCHANGE OR TO THE
+19 ENTERPRISE PURSUANT TO THIS SECTION TAX CREDITS IN AN AMOUNT
+20 EQUAL TO THE AMOUNT OF PREMIUM TAXES PAID BY THE INSURANCE
+21 COMPANY IN ITS QUARTERLY TAX PAYMENT DUE ON OR ABOUT JULY 31 IN
+22 THE ORDER IN WHICH THE DIVISION RECEIVES SUCH QUARTERLY TAX
+23 PAYMENTS UNTIL THE FULL AMOUNT OF CREDITS AVAILABLE, AS SPECIFIED
+24 IN SUBSECTION (4)(b)(I)(C) OF THIS SECTION, HAS BEEN ALLOCATED.
+25 (III) (A) If the amount of premium taxes or the sum of all the
+26 premium taxes filed by all the insurance companies on any one day would
+27 exceed, singly or in the aggregate, the annual maximum aggregate amount
+-19- SB26-178
+
+1 of tax credits available under SUBSECTION (3.5)(a)(II)(A) OF this section
+2 FOR QUALIFIED TAXPAYERS THAT CONTRIBUTE TO THE EXCHANGE, the
+3 commissioner shall reduce the allocation to the insurance company whose
+4 contribution first exceeds the annual maximum aggregate to the amount
+5 needed to satisfy the annual maximum aggregate SPECIFIED IN
+6 SUBSECTION (3.5)(a)(II)(A) OF THIS SECTION. If the commissioner is
+7 unable to determine the order of receipt of tax payments on that day, the
+8 commissioner shall allocate the tax credits to the company or among the
+9 companies on a pro rata basis based on the ratio such company's quarterly
+10 tax payment bears to the total amount of all such companies' quarterly tax
+11 payments until the full amount of credits available pursuant to
+12 SUBSECTION (3.5)(a)(II)(A) OF this section has been allocated.
+13 (B) IF THE AMOUNT OF PREMIUM TAXES OR THE SUM OF ALL THE
+14 PREMIUM TAXES FILED BY ALL THE INSURANCE COMPANIES ON ANY ONE
+15 DAY WOULD EXCEED, SINGLY OR IN THE AGGREGATE, THE ANNUAL
+16 MAXIMUM AGGREGATE AMOUNT OF TAX CREDITS AVAILABLE UNDER
+17 SUBSECTION (3.5)(a)(II)(B) OF THIS SECTION FOR QUALIFIED TAXPAYERS
+18 THAT CONTRIBUTE TO THE ENTERPRISE, THE COMMISSIONER SHALL
+19 REDUCE THE ALLOCATION TO THE INSURANCE COMPANY WHOSE
+20 CONTRIBUTION FIRST EXCEEDS THE ANNUAL MAXIMUM AGGREGATE TO
+21 THE AMOUNT NEEDED TO SATISFY THE ANNUAL MAXIMUM AGGREGATE
+22 SPECIFIED IN SUBSECTION (3.5)(a)(II)(B) OF THIS SECTION. IF THE
+23 COMMISSIONER IS UNABLE TO DETERMINE THE ORDER OF RECEIPT OF TAX
+24 PAYMENTS ON THAT DAY, THE COMMISSIONER SHALL ALLOCATE THE TAX
+25 CREDITS TO THE COMPANY OR AMONG THE COMPANIES ON A PRO RATA
+26 BASIS BASED ON THE RATIO SUCH COMPANY'S QUARTERLY TAX PAYMENT
+27 BEARS TO THE TOTAL AMOUNT OF ALL SUCH COMPANIES' QUARTERLY TAX
+-20- SB26-178
+
+1 PAYMENTS UNTIL THE FULL AMOUNT OF CREDITS AVAILABLE PURSUANT TO
+2 SUBSECTION (3.5)(a)(II)(B) OF THIS SECTION HAS BEEN ALLOCATED.
+3 (c) (I) FOR EACH TAX YEAR THROUGH THE TAX YEAR 2026, the
+4 commissioner shall allow insurance companies to declare their intent to
+5 contribute to the exchange pursuant to this section on the insurance
+6 companies' quarterly tax payments due on or about October 31 and shall
+7 send such companies allocation notices by February 1 if:
+8 (II) An insurance company that declares its intent to contribute to
+9 the exchange pursuant to this paragraph (c) SUBSECTION (4)(c) shall make
+10 the contribution to the exchange as specified in the allocation notice on
+11 or before March 1 and may claim the tax credit on one or more
+12 subsequent quarterly or annual tax payments due on or about March 1.
+13 (d) (I) FOR THE TAX YEAR 2027 AND EACH TAX YEAR THEREAFTER,
+14 THE COMMISSIONER SHALL ALLOW INSURANCE COMPANIES TO DECLARE
+15 THEIR INTENT TO CONTRIBUTE TO THE EXCHANGE OR TO THE ENTERPRISE
+16 PURSUANT TO THIS SECTION ON THE INSURANCE COMPANIES' QUARTERLY
+17 TAX PAYMENTS DUE ON OR ABOUT OCTOBER 31 AND SHALL SEND SUCH
+18 COMPANIES ALLOCATION NOTICES BY FEBRUARY 1 IF:
+19 (A) THE FULL AMOUNT OF TAX CREDITS AVAILABLE IN ANY ONE
+20 YEAR HAS NOT BEEN FULLY ALLOCATED BY THE COMMISSIONER PURSUANT
+21 TO STATEMENTS OF INTENT FILED WITH INSURANCE COMPANIES'
+22 QUARTERLY TAX PAYMENTS DUE ON OR ABOUT JULY 31; OR
+23 (B) THE TOTAL AMOUNT OF TAX CREDITS HAS BEEN CLAIMED, BUT
+24 ONE OR MORE INSURANCE COMPANIES FAILED TO TIMELY MAKE A
+25 CONTRIBUTION TO THE EXCHANGE OR TO THE ENTERPRISE, AS APPLICABLE.
+26 (II) AN INSURANCE COMPANY THAT DECLARES ITS INTENT TO
+27 CONTRIBUTE TO THE EXCHANGE OR TO THE ENTERPRISE PURSUANT TO THIS
+-21- SB26-178
+
+1 SUBSECTION (4)(d) SHALL MAKE THE CONTRIBUTION TO THE EXCHANGE OR
+2 TO THE ENTERPRISE, AS APPLICABLE, AS SPECIFIED IN THE ALLOCATION
+3 NOTICE ON OR BEFORE MARCH 1 AND MAY CLAIM THE TAX CREDIT ON ONE
+4 OR MORE SUBSEQUENT QUARTERLY OR ANNUAL TAX PAYMENTS DUE ON OR
+5 ABOUT MARCH 1.
+6 (5) The board shall use money contributed to the exchange as
+7 follows:
+8 (a) The amount of contributions from insurers to which the first
+9 five million dollars of tax credits is allocated pursuant to subsection (4)(b)
+10 of this section and the interest derived from the deposit and investment of
+11 the money, to operate and sustain the exchange and to build reserves;
+12 except that, on and after September 1, 2028 SEPTEMBER 1, 2027, the total
+13 amount of contributions and interest derived from the deposit and
+14 investment of the money shall be used for the purposes specified in this
+15 subsection (5)(a).
+16 (b) (II) This subsection (5)(b) is repealed, effective December 31,
+17 2028 DECEMBER 31, 2027.
+18 (6) THE HIA BOARD SHALL USE THE MONEY CONTRIBUTED TO THE
+19 ENTERPRISE AS SPECIFIED IN SECTION 10-16-1207 (4)(e).
+20 SECTION 12. Safety clause. The general assembly finds,
+21 determines, and declares that this act is necessary for the immediate
+22 preservation of the public peace, health, or safety or for appropriations for
+23 the support and maintenance of the departments of the state and state
+24 institutions.
+-22- SB26-178

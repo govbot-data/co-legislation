@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+ENGROSSED
+This Version Includes All Amendments Adopted
+on Second Reading in the House of Introduction
+LLS NO. 26-0626.01 Craig Harper x3481 HOUSE BILL 26-1150
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT
+102 OF AGRICULTURE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Supplemental appropriations are made to the department of
+agriculture.
+1 Be it enacted by the General Assembly of the State of Colorado:
+ESUOH
+dednemanU
+gnidaeR
+dn2
+6202
+,11
+yraurbeF
+HOUSE SPONSORSHIP
+Sirota, Brown, Taggart
+SENATE SPONSORSHIP
+Bridges, Amabile, Kirkmeyer
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+1 SECTION 1. Appropriation to the department of agriculture
+2 for the fiscal year beginning July 1, 2025. In Session Laws of Colorado
+3 2025, section 2 of chapter 476, (SB 25-206), amend Part I as follows:
+4 Section 2. Appropriation.
+-2- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 PART I
+2 DEPARTMENT OF AGRICULTURE
+3
+4 (1) COMMISSIONER'S OFFICE AND ADMINISTRATIVE SERVICES
+5 Personal Services 3,490,750 1,287,892 2,086,365a 116,493(I)
+6 (22.0 FTE)
+7 Health, Life, and Dental 5,079,024 1,503,984 3,176,054b 398,986(I)
+8 5,203,331 1,507,390 3,283,325b 412,616(I)
+9 Short-term Disability 21,422 6,973 12,880b 1,569(I)
+10 21,451 12,909b
+11 Paid Family and Medical
+12 Leave Insurance 136,554 44,822 81,644b 1a 10,087(I)
+13 136,741 81,831b
+-3- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Unfunded Liability
+2 Amortization Equalization
+3 Disbursement Payments 3,046,536 996,085 1,826,294b 13a 224,144(I)
+4 3,050,692 1,830,450b
+5 Salary Survey 831,950 273,624 496,652b 61,674(I)
+6 Step Pay 142,728 42,557 94,591b 5,580(I)
+7 PERA Direct Distribution 515,620 169,252 346,368b
+8 Shift Differential 56,448 860 55,402b 146a 40(I)
+9 Workers' Compensation 264,452 48,270 216,182b
+10 Operating Expenses1 426,475 173,527 251,998a 950(I)
+11 Legal Services 1,018,672 307,247 711,425b
+12 Administrative Law Judge
+13 Services 10,835 10,835b
+14 Payment to Risk Management
+15 and Property Funds 520,432 315,512 204,920b
+-4- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Vehicle Lease Payments 623,229 310,790 305,630b 6,809(I)
+2 511,453 255,049 250,816b 5,588(I)
+3 Information Technology
+4 Asset Maintenance 42,041 42,041
+5 Leased Space 19,301 19,301b
+6 Office Consolidation COP 529,063 529,063b
+7 Annual Depreciation-Lease
+8 Equivalent Payment 461,617 461,617b
+9 Payments to OIT 3,499,689 2,223,702 1,275,987b
+10 3,306,930 2,101,223 1,205,707b
+11 Digital Trunk Radio
+12 Payments 18,120 11,779 6,341b
+13 CORE Operations 34,321 4,681 25,915b 3,725a
+14 Utilities 240,000 50,000 190,000a
+15 Agrivoltaic Grants 300,000 300,000
+-5- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Agriculture Management
+2 Fund 2,048,914 2,048,914c
+3 (2.0 FTE)
+4 Indirect Cost Assessment 204,307 204,307c
+5 23,582,500
+6 23,406,644
+7
+8 a An estimated $2,289,749 shall be from departmental indirect cost recoveries or the Indirect Costs Excess Recovery Fund created in Section 24-75-1401 (2), C.R.S., and an
+9 estimated $242,499 shall be from statewide indirect cost recoveries or the Indirect Costs Excess Recovery Fund created in Section 24-75-1401 (2), C.R.S.
+-6- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 b Of these amounts, an estimated $2,702,587 $2,735,300 shall be from the Brand Inspection Fund created in Section 35-41-102 (1), C.R.S., an estimated $1,573,647 $1,569,296 shall
+2 be from the Plant Health, Pest Control, and Environmental Protection Cash Fund created in Section 35-1-106.3 (1), C.R.S., an estimated $608,630 $610,897 shall be from the Colorado
+3 State Fair Authority Cash Fund created in Section 35-65-107 (1), C.R.S., an estimated $606,135 $622,891 shall be from the Agriculture Management Fund created in Section 35-1-106.9,
+4 C.R.S., an estimated $565,282 $566,722 shall be from the Inspection and Consumer Services Cash Fund created in Section 35-1-106.5 (1), C.R.S., an estimated $526,027 $524,972 shall
+5 be from the Agricultural Products Inspection Cash Fund created in Section 35-23-114 (3)(a), C.R.S., an estimated $355,091$353,130 shall be from the Marijuana Tax Cash Fund created
+6 in Section 39-28.8-501 (1), C.R.S., an estimated $65,536$61,988 shall be from the Pet Animal Care and Facility Fund created in Section 35-80-116, C.R.S., an estimated $12,242(I)
+7 shall be from the Agriculture Value-added Cash Fund created in Section 35-75-205 (1), C.R.S., which amount is included for informational purposes only, an estimated $8,499 shall
+8 be from the Alternative Livestock Farm Cash Fund created in Section 35-41.5-116, C.R.S., an estimated $8,283$7,664(I) shall be from the Colorado Wine Industry Development Fund
+9 created in Section 35-29.5-105 (1), C.R.S., which amount is included for informational purposes only, an estimated $1,050(I) shall be from the Veterinary Vaccine and Service Fund
+10 created in Section 35-50-106 (1), C.R.S., which amount is included for informational purposes only, an estimated $1,475 shall be from the Aquaculture Cash Fund created in Section
+11 35-24.5-111, C.R.S., and an estimated $2,822,617$2,767,524 shall be from various sources of cash funds.
+12 c These amounts shall be from the Agriculture Management Fund created in Section 35-1-106.9, C.R.S.
+13
+14 (2) AGRICULTURAL SERVICES
+15 Animal Industry Division 3,211,508 2,578,653 455,595a 177,260(I)
+16 (21.0 FTE)
+-7- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Plant Industry Division 7,723,804 653,767 6,268,181b 801,856(I)
+2 (58.3 FTE)
+3 Inspection and Consumer
+4 Services Division 5,584,324 1,391,789 3,792,692c 84,000d 315,843(I)
+5 (47.2 FTE)
+6 Conservation Services
+7 Division2 5,888,733 2,179,513 2,432,916e 450,000f 826,304(I)
+8 (27.0 FTE)
+9 Appropriation to the Noxious
+10 Weed Management Fund 450,000 450,000
+11 Lease Purchase Lab
+12 Equipment 99,360 99,360g
+13 Indirect Cost Assessment 1,582,203 1,263,678g 318,525(I)
+14 24,539,932
+15
+-8- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 a Of this amount, an estimated $336,569(I) shall be from the Veterinary Vaccine and Service Fund created in Section 35-50-106 (1), C.R.S., which amount is included for informational
+2 purposes only, an estimated $58,419 shall be from the Agriculture Management Fund created in Section 35-1-106.9, C.R.S., an estimated $5,000 shall be from the Aquaculture Cash
+3 Fund created in Section 35-24.5-111, C.R.S., an estimated $5,000(I) shall be from the Diseased Livestock Indemnity Fund created in Section 35-50-114 (3), C.R.S., which amount is
+4 included for informational purposes only, an estimated $5,000(I) shall be from the Cervidae Disease Revolving Fund created in Section 35-50-115 (1)(a), C.R.S., which amount is
+5 included for informational purposes only, and an estimated $45,607 shall be from various sources of cash funds.
+6 b Of this amount, an estimated $3,775,244 shall be from the Plant Health, Pest Control, and Environmental Protection Cash Fund created in Section 35-1-106.3 (1), C.R.S., $1,122,463
+7 shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S., an estimated $1,035,220 shall be from the Industrial Hemp Registration Program Cash Fund
+8 created in Section 35-61-106 (1), C.R.S., an estimated $16,124 shall be from the Emergency Invasive Pest Control Fund created in Section 35-1-106.4 (1), C.R.S., an estimated $5,000
+9 shall be from the Seed Potato Cash Fund created in Section 35-27.3-111, C.R.S., and an estimated $314,130 shall be from various sources of cash funds.
+10 c Of this amount, an estimated $3,263,597 shall be from the Inspection and Consumer Services Cash Fund created in Section 35-1-106.5 (1), C.R.S., an estimated $170,000 shall be from
+11 the Plant Health, Pest Control, and Environmental Protection Cash Fund created in Section 35-1-106.3 (1), C.R.S., $169,678 shall be from the Marijuana Tax Cash Fund created in Section
+12 39-28.8-501 (1), C.R.S., and an estimated $189,417 shall be from various sources of cash funds.
+13 d This amount shall be from the Department of Public Health and Environment from the Clean Water Program Costs line item appropriation in the Clean Water Program subdivision
+14 in the Water Quality Control Division.
+-9- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 e Of this amount, an estimated $1,550,025 shall be from the Plant Health, Pest Control, and Environmental Protection Cash Fund created in Section 35-1-106.3 (1), C.R.S., an estimated
+2 $500,000(I) shall be from the Agriculture Value-added Cash Fund created in Section 35-75-205 (1), C.R.S., which amount is included for informational purposes only, an estimated
+3 $235,635 shall be from the Agriculture Management Fund created in Section 35-1-106.9, C.R.S., an estimated $15,000 shall be from the Noxious Weed Management Fund created in
+4 Section 35-5.5-116 (1), C.R.S., and an estimated $132,256 shall be from various sources of cash funds.
+5 f This amount shall be transferred from the appropriation to the Noxious Weed Management Fund line item within this section. This amount shall be from the Noxious Weed Management
+6 Fund created in Section 35-5.5-116 (1), C.R.S.
+7 g Of these amounts, an estimated $399,973 shall be from the Plant Health, Pest Control, and Environmental Protection Cash Fund created in Section 35-1-106.3 (1), C.R.S., an estimated
+8 $372,483 shall be from the Inspection and Consumer Services Cash Fund created in Section 35-1-106.5 (1), C.R.S., $194,279 shall be from the Marijuana Tax Cash Fund created in
+9 Section 39-28.8-501 (1), C.R.S., an estimated $67,321 shall be from the Industrial Hemp Registration Program Cash Fund created in Section 35-61-106 (1), C.R.S., an estimated
+10 $46,181(I) shall be from the Veterinary Vaccine and Service Fund created in Section 35-50-106 (1), C.R.S., and an estimated $282,801 shall be from various sources of cash funds.
+11
+12 (3) AGRICULTURAL MARKETS DIVISION
+13 (A) Agricultural Markets
+14 Program Costs3 2,271,920 1,311,239 32,451a 928,230(I)
+15 (6.4 FTE)
+-10- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Wine Promotion Board 574,246 574,246(I)b
+2 (1.5 FTE)
+3 Agriculture Workforce
+4 Development Program4, 5 660,261 360,261 300,000c
+5 (1.0 FTE)
+6 Indirect Cost Assessment 46,157 27,978(I)b 18,179(I)
+7 Community Food Access
+8 Program 172,238 172,238
+9 (2.0 FTE)
+10 3,724,822
+11
+12 a This amount shall be from various sources of cash funds within the Department.
+13 b These amounts shall be from the Colorado Wine Industry Development Fund created in Section 35-29.5-105 (1), C.R.S., which amount is included for informational purposes as the
+14 fund is continuously appropriated pursuant to Section 35-29.5-105 (1), C.R.S.
+15 c This amount shall be from the Agriculture Management Fund created in Section 35-1-106.9, C.R.S.
+-11- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1
+2 (B) Agricultural Products Inspection
+3 Program Costs 2,825,876 200,000 2,625,876a
+4 (34.5 FTE)
+5 Indirect Cost Assessment 157,097 157,097a
+6 2,982,973
+7
+8 a These amounts shall be from the Agricultural Products Inspection Cash Fund created in Section 35-23-114 (3)(a), C.R.S.
+9
+10 6,707,795
+11
+12 (4) BRAND BOARD
+13 Brand Inspection 5,920,613 5,920,613a
+14 (59.0 FTE)
+15 Alternative Livestock 15,355 15,355b
+-12- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Brand Estray Fund 40,000 40,000(I)c
+2 Indirect Cost Assessment 281,500 281,500d
+3 6,257,468
+4
+5 a This amount shall be from the Brand Inspection Fund created in Section 35-41-102 (1), C.R.S.
+6 b This amount shall be from the Alternative Livestock Farm Cash Fund created in Section 35-41.5-116, C.R.S.
+7 c This amount shall be from the Estray Fund created in Section 35-41-102 (1), C.R.S., and is included for informational purposes as the fund is continuously appropriated pursuant to
+8 Section 35-41-102 (1), C.R.S.
+9 d Of this amount, an estimated $269,763 shall be from the Brand Inspection Fund created in Section 35-41-102 (1), C.R.S., an estimated $5,593 shall be from the Alternative Livestock
+10 Farm Cash Fund created in Section 35-41.5-116, C.R.S., and an estimated $5,297(I) shall be from the Estray Fund created in Section 35-41-102 (1), C.R.S., which amount is included
+11 for informational purposes only, and an estimated $847 shall be from various sources of cash funds.
+12
+13 (5) COLORADO STATE FAIR
+14 Program Costs 10,469,738 10,469,738a
+15 (26.9 FTE)
+-13- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 FFA and 4H Funding 550,000 250,000 300,000b
+2 State Fair Facilities
+3 Maintenance 429,492 300,000 129,492a
+4 Indirect Cost Assessment 164,006 164,006a
+5 11,613,236
+6
+7 a These amounts shall be from the Colorado State Fair Authority Cash Fund created in Section 35-65-107 (1), C.R.S.
+8 b This amount shall be from the Marijuana Tax Cash Fund created in Section 39-28.8-501 (1), C.R.S.
+9
+10 (6) CONSERVATION BOARD
+11 Program Costs 648,957 648,957
+12 734,011 85,054a
+13 (5.2 FTE)
+14 (6.0 FTE)
+-14- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 Distributions to Soil
+2 Conservation Districts 483,767 483,767
+3 Matching Grants to Districts 675,000 225,000 450,000a
+4 Salinity Control Grants 506,781 506,781(I)
+5 Appropriation to the
+6 Conservation District Grant
+7 Fund 700,000 700,000b
+8 3,014,505
+9 3,099,559
+10
+11 a Of this amount, an estimated $350,000(I) shall be from the Conservation District Grant Fund created in Section 35-1-106.7 (1), C.R.S., which amount is included for informational
+12 purposes only, and an estimated $100,000 $185,054 shall be from the Agriculture Management Fund created in Section 35-1-106.9, C.R.S.
+13 b This amount shall be from the Severance Tax Operational Fund created in Section 39-29-109 (2)(b), C.R.S.
+14
+15
+-15- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 (7) DIVISION OF ANIMAL WELFARE
+2 Program Costs 590,801 580,801 10,000a
+3 (3.1 FTE)
+4 Bureau of Animal Protection 494,525 494,525
+5 (4.0 FTE)
+6 Pet Animal Care Facilities
+7 Act 895,722 170,295 725,427b
+8 (11.0 FTE)
+9 Indirect Cost Assessment 96,978 96,978b
+10 2,078,026
+11
+12 a This amount shall be from the Animal Protection Fund created in Section 35-42-113 (1), C.R.S.
+13 b This amount shall be from the Pet Animal Care and Facility Fund created in Section 35-80-116 (1), C.R.S.
+14
+15
+-16- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 TOTALS PART I
+2 (AGRICULTURE) $77,793,462 $20,564,403 $49,443,501a $3,066,248 $4,719,310b
+3 $77,702,660 $20,389,589 $49,515,104a $4,731,719b
+4
+5 a Of this amount, $1,911,846 $1,911,227 contains an (I) notation.
+6 b This amount contains an (I) notation.
+7
+8 FOOTNOTES -- The following statements are referenced to the numbered footnotes throughout section 2.
+9
+10 1 Department of Agriculture, Commissioner's Office and Administrative Services, Operating Expenses -- It is the General Assembly's intent that $207,099
+11 General Fund of this appropriation be used for the implementation of a Human Resources and Business Operations solution within OnBase. This appropriation
+12 remains available for expenditure until the completion of the project or the close of the 2026-27 state fiscal year, whichever comes first.
+13
+14 2 Department of Agriculture, Agricultural Services, Conservation Services Division -- It is the General Assembly's intent that $500,000 General Fund of this
+15 appropriation be disbursed for grants for renewable energy, energy efficiency, and climate resilience projects. This appropriation remains available until the
+16 close of the 2027-28 state fiscal year.
+-17- 1150
+
+APPROPRIATION FROM
+ITEM & TOTAL GENERAL GENERAL CASH REAPPROPRIATED FEDERAL
+SUBTOTAL FUND FUND FUNDS FUNDS FUNDS
+EXEMPT
+$ $ $ $ $ $ $
+1 3 Department of Agriculture, Agricultural Markets Division, Agricultural Markets, Program Costs -- It is the General Assembly's intent that $39,825 General
+2 Fund of this appropriation be used for the International Markets program, and $26,550 General Fund be used for the Colorado Proud program.
+3
+4 4 Department of Agriculture, Agricultural Markets Division, Agricultural Markets, Agriculture Workforce Development Program -- This appropriation remains
+5 available for expenditure until the close of the 2026-27 state fiscal year.
+6
+7 5 Department of Agriculture, Agricultural Markets Division, Agricultural Markets, Agriculture Workforce Development Program - It is the General Assembly's
+8 intent that $64,108 General Fund of this appropriation be used for purposes of the Workforce Development program.
+-18- 1150
+
+1 SECTION 2. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-19- 1150

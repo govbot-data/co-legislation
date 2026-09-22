@@ -1,0 +1,590 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0277.01 Richard Sweetman x4333 SENATE BILL 26-163
+SENATE SPONSORSHIP
+Roberts,
+HOUSE SPONSORSHIP
+Smith,
+Senate Committees House Committees
+Finance
+A BILL FOR AN ACT
+101 CONCERNING THE REGULATION OF GAMBLING ACTIVITIES IN THE
+102 STATE, AND, IN CONNECTION THEREWITH, EXPANDING THE
+103 MEMBERSHIP OF THE COLORADO LIMITED GAMING CONTROL
+104 COMMISSION, REPEALING THE COLORADO RACING COMMISSION
+105 AND TRANSFERRING ITS AUTHORITIES TO THE COLORADO
+106 LIMITED GAMING CONTROL COMMISSION, REPEALING THE
+107 DIVISION OF RACING EVENTS AND TRANSFERRING ITS
+108 REGULATORY ACTIVITIES TO THE DIVISION OF GAMING,
+109 EXPANDING THE SCOPE OF THE LICENSING DUTIES THAT THE
+110 COLORADO LIMITED GAMING CONTROL COMMISSION MAY
+111 DELEGATE TO THE DIVISION OF GAMING, ALLOWING
+112 INDIVIDUALS TO VOLUNTARILY EXCLUDE THEMSELVES FROM
+113 SPORTS BETTING IN THE STATE, AND ALLOWING THE DIRECTOR
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+101 OF THE DIVISION OF GAMING TO APPROVE OPTIONAL WAGERS
+102 AND MINOR MODIFICATIONS FOR CERTAIN TABLE GAMES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill repeals the Colorado racing commission and the division
+of racing events within the department of revenue (department). The bill
+transfers the authorities of the Colorado racing commission to the
+Colorado limited gaming control commission (commission), and the bill
+transfers the regulatory activities of the division of racing events to the
+division of gaming (division).
+The bill adds 2 members to the commission: One member who
+represents the public and one member who:
+! Has been engaged in the racing industry for at least 5 years;
+! Has been a licensed veterinarian in Colorado for at least 5
+years and is currently practicing in Colorado; or
+! Has been engaged in business in a management-level
+capacity for at least 5 years.
+Under current law, the commission, at its discretion, may delegate
+only certain licensing duties described under the "Limited Gaming Act of
+1991" (gaming act) to the division. The bill allows the commission to
+delegate to the division licensing duties that appear elsewhere in the
+gaming act.
+The bill authorizes investigators of the division and their
+supervisors to inspect, examine, investigate, hold, or impound any
+premises in the state where an investigator or supervisor suspects that
+unlicensed gaming or unlicensed sports betting is conducted.
+Under current law, the division is required to operate a program
+that allows individuals to voluntarily exclude themselves from gaming
+activities in the state. The bill expands the program to allow individuals
+to voluntarily exclude themselves from sports betting in the state.
+The bill allows the director of the division to approve optional
+wagers and minor modifications for commission-approved poker,
+blackjack, craps, and roulette games.
+The bill clarifies the definition of "race meet" for purposes of the
+regulation of racing events.
+The bill allows the executive director of the department to delegate
+certain non-rule-making and nonlicensing functions to a designee.
+-2- SB26-163
+
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, amend 44-30-301 as
+3 follows:
+4 44-30-301. Colorado limited gaming control commission -
+5 creation - repeal.
+6 (1) Commission created. There is created, within the division of
+7 gaming, the Colorado limited gaming control commission. The
+8 commission consists of five members, all of whom must be citizens of the
+9 United States and residents of this state who have been residents of the
+10 state for the past five years. The members shall be appointed by the
+11 governor, with the consent and approval of the senate. No member shall
+12 have been convicted of a felony or gambling-related offense,
+13 notwithstanding the provisions of section 24-5-101. No more than three
+14 of the five members may be affiliated with the same political party and no
+15 more than one member may be from any one congressional district;
+16 except that a member who is serving pursuant to subsection (1)(a) of this
+17 section as a registered elector of Teller or Gilpin county may reside in the
+18 same congressional district as one of the other members. At the first
+19 meeting of each fiscal year, a chair and vice-chair of the commission shall
+20 be chosen from the membership by a majority of the members.
+21 Membership and operation of the commission shall additionally meet the
+22 following requirements: THE COLORADO LIMITED GAMING CONTROL
+23 COMMISSION IS CREATED WITHIN THE DIVISION OF GAMING.
+24 (2) Membership.
+25 (a) THE COMMISSION CONSISTS OF SEVEN MEMBERS WHO ARE
+26 RESIDENTS OF COLORADO AND CITIZENS OF THE UNITED STATES AND WHO
+-3- SB26-163
+
+1 HAVE BEEN RESIDENTS OF COLORADO FOR THE FIVE YEARS PRECEDING
+2 THEIR APPOINTMENT, AS FOLLOWS:
+3 (a) (I) One member of the commission shall have had at least five
+4 years' law enforcement experience as a peace officer certified pursuant to
+5 section 24-31-305;
+6 (II) One member shall be an attorney admitted WHO HAS BEEN
+7 LICENSED to the practice of law in Colorado for not less than five years
+8 and who has experience in regulatory law;
+9 (III) One member shall be a certified public accountant or public
+10 accountant who has been practicing in Colorado for at least five years and
+11 who has a comprehensive knowledge of the principles and practices of
+12 corporate finance;
+13 (IV) One member shall have been engaged in business in a
+14 management-level capacity for at least five years; and
+15 (V) One member shall be a registered elector of any county in the
+16 state who is not employed in a profession or industry otherwise described
+17 in this subsection (1)(a). To the extent that applications have been
+18 submitted for consideration for membership on the commission, the
+19 governor shall prioritize appointing members who are registered electors
+20 of Gilpin county or Teller county. The registered elector members of the
+21 commission from Gilpin and Teller counties may be employed in a
+22 profession or industry otherwise described in this subsection (1)(a).
+23 SUBSECTION (2)(a);
+24 (VI) ONE MEMBER SHALL BE AN INDIVIDUAL WHO:
+25 (A) HAS BEEN ENGAGED IN THE RACING INDUSTRY FOR AT LEAST
+26 FIVE YEARS;
+27 (B) HAS BEEN A LICENSED VETERINARIAN IN COLORADO FOR AT
+-4- SB26-163
+
+1 LEAST FIVE YEARS AND IS CURRENTLY PRACTICING IN COLORADO; OR
+2 (C) HAS BEEN ENGAGED IN BUSINESS IN A MANAGEMENT-LEVEL
+3 CAPACITY FOR AT LEAST FIVE YEARS; AND
+4 (VII) ONE MEMBER SHALL REPRESENT THE PUBLIC.
+5 (b) The term of office for each member is four years; except that
+6 the terms shall MUST be staggered so that no more than two THREE
+7 members' terms expire in the same year. No member of the commission
+8 is eligible to MAY serve more than two consecutive terms.
+9 (c) NO MORE THAN FOUR OF THE SEVEN MEMBERS MAY BE
+10 AFFILIATED WITH THE SAME POLITICAL PARTY, AND NO MORE THAN ONE
+11 MEMBER MAY BE FROM ANY ONE CONGRESSIONAL DISTRICT; EXCEPT THAT
+12 A MEMBER WHO IS SERVING PURSUANT TO SUBSECTION (2)(a) OF THIS
+13 SECTION AS A REGISTERED ELECTOR OF GILPIN OR TELLER COUNTY MAY
+14 RESIDE IN THE SAME CONGRESSIONAL DISTRICT AS ONE OF THE OTHER
+15 MEMBERS.
+16 (3) Appointments.
+17 (a) THE GOVERNOR SHALL APPOINT THE MEMBERS OF THE
+18 COMMISSION WITH THE CONSENT AND APPROVAL OF THE SENATE.
+19 (b) TO THE EXTENT THAT THE GOVERNOR RECEIVES APPLICATIONS
+20 FOR MEMBERSHIP ON THE COMMISSION, THE GOVERNOR SHALL PRIORITIZE
+21 APPOINTING MEMBERS WHO ARE REGISTERED ELECTORS OF GILPIN COUNTY
+22 OR TELLER COUNTY. THE REGISTERED ELECTOR MEMBERS OF THE
+23 COMMISSION FROM GILPIN AND TELLER COUNTIES MAY BE EMPLOYED IN
+24 A PROFESSION OR INDUSTRY OTHERWISE DESCRIBED IN SUBSECTION (2)(a)
+25 OF THIS SECTION.
+26 (c) THE GOVERNOR SHALL NOT APPOINT AS A MEMBER ANY
+27 INDIVIDUAL WHO HAS BEEN CONVICTED OF A FELONY OR
+-5- SB26-163
+
+1 GAMBLING-RELATED OFFENSE, NOTWITHSTANDING THE PROVISIONS OF
+2 SECTION 24-5-101.
+3 (c) (d) THE GOVERNOR SHALL FILL any vacancy on the commission
+4 shall be filled for the unexpired term in the same manner as the original
+5 appointment. The member appointed to fill the vacancy shall be from the
+6 same category described in subsection (1)(a) SUBSECTION(2)(a) of this
+7 section as the member vacating the position.
+8 (d) (e) THE GOVERNOR MAY REMOVE any member of the
+9 commission may be removed by the governor at any time.
+10 (e) (f) THE GOVERNOR SHALL TERMINATE the term of any member
+11 of the commission who misses more than two consecutive regular
+12 commission meetings without good cause, shall be terminated and THE
+13 GOVERNOR SHALL APPOINT the member's successor shall be appointed in
+14 the manner AS provided for appointments under IN this section.
+15 (g) (I) THE GOVERNOR SHALL APPOINT THE MEMBERS DESCRIBED
+16 IN SUBSECTIONS (2)(a)(VI) AND (2)(a)(VII) OF THIS SECTION ON OR
+17 BEFORE DECEMBER 1, 2026.
+18 (II) THIS SUBSECTION (3)(g) IS REPEALED, EFFECTIVE MAY 1, 2027.
+19 (f) (4) Compensation. Commission members shall receive as
+20 compensation for their services one hundred dollars for each day spent in
+21 the conduct of commission business. and shall be reimbursed IN
+22 ADDITION, THE DEPARTMENT SHALL REIMBURSE MEMBERS for necessary
+23 travel and other reasonable expenses incurred in the performance of their
+24 THE MEMBERS' official duties. The maximum annual compensation for
+25 each member, of the commission, including reimbursement for necessary
+26 travel and other reasonable expenses incurred in the performance of their
+27 THE MEMBERS' official duties, shall not exceed IS ten thousand dollars. per
+-6- SB26-163
+
+1 year.
+2 (g) (5) Financial disclosure statements required. Prior to
+3 confirmation by the senate, each member AN INDIVIDUAL APPOINTED TO
+4 THE COMMISSION BY THE GOVERNOR shall file with the secretary of state
+5 a financial disclosure statement in the form required and prescribed by the
+6 executive director. IF THE INDIVIDUAL IS CONFIRMED BY THE SENATE TO
+7 SERVE ON THE COMMISSION, the INDIVIDUAL SHALL FILE WITH THE
+8 SECRETARY OF STATE AN UPDATED statement shall be renewed as of ON
+9 OR BEFORE each January 1 during the member's INDIVIDUAL'S term of
+10 office.
+11 (h) (6) Meetings - selection of chair and vice chair.
+12 (a) AT THE FIRST MEETING OF EACH FISCAL YEAR, A MAJORITY OF
+13 THE COMMISSION MEMBERS SHALL SELECT A MEMBER TO SERVE AS CHAIR
+14 AND A MEMBER TO SERVE AS VICE-CHAIR.
+15 (b) The commission shall hold at least one meeting each month
+16 and any additional meetings as may be prescribed by rules of the
+17 commission. In addition, special meetings may be called by the chairman
+18 CHAIR, any two commission members, or the director, if written
+19 notification of the meeting is delivered to each member at least
+20 seventy-two hours prior to the meeting. Notwithstanding the provisions
+21 of section 24-6-402, in emergency situations in which a majority of the
+22 commission certifies that exigencies of time require that the commission
+23 meet without delay, the requirements of public notice and of seventy-two
+24 hours' actual advance written notice to members may be dispensed with,
+25 and commission members as well as the public shall receive the notice as
+26 is reasonable under the circumstances.
+27 (i) (c) A majority of the commission shall constitute CONSTITUTES
+-7- SB26-163
+
+1 a quorum, but AND the concurrence of a majority of the members
+2 appointed to the commission shall be IS required for any final
+3 determination by the commission.
+4 (j) (d) The commission shall keep a complete and accurate record
+5 of all its meetings.
+6 SECTION 2. In Colorado Revised Statutes, amend 44-30-507 as
+7 follows:
+8 44-30-507. Delegation of licensing duties.
+9 The commission, at its discretion, may delegate licensing duties
+10 described in this part 5 ARTICLE 30 to the division.
+11 SECTION 3. In Colorado Revised Statutes, 44-30-204, amend
+12 (1)(b) as follows:
+13 44-30-204. Investigator - peace officers.
+14 (1) All investigators of the division and their supervisors,
+15 including the director and the executive director, have all the powers of
+16 any peace officer to:
+17 (b) Inspect, examine, investigate, hold, or impound any premises
+18 IN THE STATE where:
+19 (I) Limited gaming or sports betting is conducted;
+20 (II) AN INVESTIGATOR OR SUPERVISOR SUSPECTS THAT
+21 UNLICENSED GAMING OR UNLICENSED SPORTS BETTING IS CONDUCTED;
+22 (III) THERE ARE any devices or equipment designed for or used in
+23 limited gaming or sports betting; and OR
+24 (IV) THERE ARE any books and OR records THAT ARE RELATED in
+25 any way connected with any limited TO gaming or sports betting; activity;
+26 SECTION 4. In Colorado Revised Statutes, 44-30-203, add (3)
+27 as follows:
+-8- SB26-163
+
+1 44-30-203. Director - qualification - powers and duties.
+2 (3) NOTWITHSTANDING ANY PROVISION OF SECTION 44-30-302 TO
+3 THE CONTRARY, THE DIRECTOR MAY APPROVE OPTIONAL WAGERS AND
+4 MINOR MODIFICATIONS FOR COMMISSION-APPROVED POKER, BLACKJACK,
+5 CRAPS, AND ROULETTE GAMES, BUT THE COMMISSION'S APPROVAL IS
+6 REQUIRED FOR ANY NEW GAME OR GAME TYPES.
+7 SECTION 5. In Colorado Revised Statutes, 44-30-1703, amend
+8 (1)(a) introductory portion, (1)(a)(II), (2)(a), and (2)(b)(I) as follows:
+9 44-30-1703. Exclusion of certain individuals from
+10 participation in gaming activities and sports betting - duties of
+11 division - mechanism for self-exclusion - confidential records - rules.
+12 (1) (a) On and after January 1, 2023, The division shall operate a
+13 program to:
+14 (II) Exclude from certain sports betting individuals who:
+15 (A) Are prohibited from placing wagers on certain sporting events
+16 pursuant to section 44-30-1502; OR
+17 (B) VOLUNTARILY REQUEST TO BE EXCLUDED FROM SPORTS
+18 BETTING IN THE STATE PURSUANT TO SUBSECTION (2)(a) OF THIS SECTION.
+19 (2) (a) The division shall include in the program described in
+20 subsection (1) of this section mechanisms by which individuals may
+21 request to be excluded from participation in gaming activities in the state,
+22 as described in subsection (1)(a)(I)(A) of this section, OR FROM SPORTS
+23 BETTING IN THE STATE, AS DESCRIBED IN SUBSECTION (1)(a)(II)(B) OF THIS
+24 SECTION. The mechanisms must include the receipt of such requests by
+25 the division in written, electronic, and telephonic form.
+26 (b) Notwithstanding any other provision of law, the personal
+27 identifying information of the following individuals is confidential and
+-9- SB26-163
+
+1 is not subject to the requirements of the "Colorado Open Records Act",
+2 part 2 of article 72 of title 24:
+3 (I) Individuals who request to be excluded from participation in
+4 gaming activities OR SPORTS BETTING in the state pursuant to subsection
+5 (2)(a) of this section; and
+6 SECTION 6. In Colorado Revised Statutes, 44-32-102, amend
+7 (4), (6), (7), (11)(c), and (20) as follows:
+8 44-32-102. Definitions - rules.
+9 As used in this article 32, unless the context otherwise requires:
+10 (4) "Commission" means the Colorado racing LIMITED GAMING
+11 CONTROL commission created in part 3 of this article 32 SECTION
+12 44-30-301.
+13 (6) "Director" means the director of the division of racing events
+14 GAMING.
+15 (7) "Division" means the division of racing events GAMING
+16 created in part 2 of this article 32 SECTION 44-30-201.
+17 (11) (c) The commission, for good cause, may grant a licensed
+18 class A horse track permission to receive simulcast races at an alternate
+19 location within five miles of its track during the times when the track is
+20 not in operation.
+21 (20) (a) "Race meet" OR "MEET" means any A live exhibition of
+22 racing involving horses registered within their breed, conducted at a track
+23 located within the state of Colorado and operated by a licensee under a
+24 license granted pursuant to section 44-32-505, where the pari-mutuel
+25 system of wagering is used.
+26 (b) "RACE MEET" OR "MEET" INCLUDES THE TOTAL, CONTINUOUS
+27 PERIOD DURING WHICH A RACING ASSOCIATION OR TRACK PREMISES IS
+-10- SB26-163
+
+1 UNDER THE FULL REGULATORY JURISDICTION OF THE DIVISION, WHICH
+2 PERIOD ENCOMPASSES:
+3 (I) THE LIVE RACING PERIOD, WHICH IS ALL LICENSED DAYS
+4 APPROVED BY THE COMMISSION FOR THE CONDUCT OF LIVE, COMPETITIVE
+5 HORSE RACING;
+6 (II) THE PREMEET REGULATORY PERIOD, WHICH IS THE ENTIRE
+7 PERIOD COMMENCING ON THE FIRST DAY THE LICENSED TRACK PREMISES
+8 ARE MADE AVAILABLE FOR OR UTILIZED FOR RECEIVING HORSES,
+9 CONDUCTING OFFICIAL REGULATED TRAINING, OR PERFORMING OFFICIAL
+10 PREMEET REGULATORY INSPECTIONS, WHICHEVER OCCURS EARLIEST; AND
+11 (III) THE POST-MEET REGULATORY PERIOD, WHICH IS SEVEN
+12 CALENDAR DAYS IMMEDIATELY FOLLOWING AND INCLUDING THE FINAL
+13 LICENSED DAY OF LIVE RACING CONDUCTED BY A RACING ASSOCIATION
+14 FOR THE CALENDAR YEAR.
+15 SECTION 7. In Colorado Revised Statutes, repeal 44-32-103 as
+16 follows:
+17 44-32-103. Division and commission subject to termination.
+18 The provisions of section 24-34-104 concerning the termination
+19 schedule for regulatory bodies of the state, unless extended as provided
+20 in that section, are applicable to the division of racing events created by
+21 section 44-32-201 and the Colorado racing commission created by section
+22 44-32-301.
+23 SECTION 8. In Colorado Revised Statutes, amend 44-32-201 as
+24 follows:
+25 44-32-201. Commission to regulate racing events - rules.
+26 (1) The division of racing events is created in the department, the
+27 head of which is the director of the division of racing events. The director
+-11- SB26-163
+
+1 is appointed by, and may be removed by, the executive director. The
+2 division of racing events, the Colorado racing commission created in
+3 section 44-32-301, and the director of the division of racing events are
+4 type 2 entities, as defined in section 24-1-105, and exercise their
+5 respective powers and perform their respective duties and functions as
+6 specified in this article 32 under the department; except that The
+7 commission has full and exclusive authority to promulgate ADOPT rules
+8 related to racing. without any approval by, or delegation of authority
+9 from, the department.
+10 (2) The division shall make investigations and shall request the
+11 commission, or the district attorney of any district, as appropriate, to
+12 prosecute, on behalf of and in the name of the division, suits and
+13 proceedings for any of the purposes necessary and proper for carrying out
+14 the functions of the division.
+15 SECTION 9. In Colorado Revised Statutes, 44-32-202, amend
+16 (1), (2), and (3) introductory portion as follows:
+17 44-32-202. Director - qualifications - powers and duties - rules.
+18 (1) The director shall be qualified by training and experience to
+19 direct the work of the division CONCERNING THE REGULATION OF RACING
+20 ACTIVITIES; and, notwithstanding the provisions of section 24-5-101, shall
+21 be of good character and shall not have been convicted of any felony or
+22 gambling-related offense.
+23 (2) The director shall not engage in any other profession or
+24 occupation that could present a conflict of interest with the director's
+25 duties as director of the division CONCERNING THE REGULATION OF
+26 RACING ACTIVITIES.
+27 (3) The director, as administrative head of the division, shall
+-12- SB26-163
+
+1 direct and supervise all administrative and technical activities of the
+2 division CONCERNING THE REGULATION OF RACING ACTIVITIES. In addition
+3 to the duties imposed upon the director elsewhere in this article 32, it
+4 shall be IS the director's duty:
+5 SECTION 10. In Colorado Revised Statutes, amend 44-32-203
+6 as follows:
+7 44-32-203. Investigators - peace officers.
+8 (1) All investigators of the division of racing events, including the
+9 director and the executive director, shall For purposes of enforcement of
+10 this article 32, be ALL INVESTIGATORS OF THE DIVISION, INCLUDING THE
+11 DIRECTOR AND THE EXECUTIVE DIRECTOR, ARE considered peace officers
+12 as described in sections SECTION 16-2.5-101. and 16-2.5-126.
+13 (2) Nothing in this section shall be construed to prohibit local
+14 sheriffs, police departments, and other local law enforcement agencies or
+15 the Colorado bureau of investigation from enforcing the provisions of this
+16 article 32 or rules promulgated ADOPTED pursuant to this article 32 or
+17 from performing their other duties to the full extent permitted by law. All
+18 such sheriffs, police officers, district attorneys, AND other local law
+19 enforcement agencies or AND the Colorado bureau of investigation shall
+20 have all the powers set forth in subsection (1) of this section.
+21 SECTION 11. In Colorado Revised Statutes, add 44-32-303 as
+22 follows:
+23 44-32-303. Repeal of part - transfer of functions.
+24 (1) (a) ON AND AFTER THE EFFECTIVE DATE OF THIS SECTION, THE
+25 RIGHTS, POWERS, DUTIES, AND FUNCTIONS VESTED IN THE COLORADO
+26 RACING COMMISSION PRIOR TO THAT DATE ARE TRANSFERRED FROM THE
+27 COLORADO RACING COMMISSION TO THE COLORADO LIMITED GAMING
+-13- SB26-163
+
+1 CONTROL COMMISSION.
+2 (b) (I) ON AND AFTER THE EFFECTIVE DATE OF THIS SECTION,
+3 WHENEVER ANY PROVISION OF LAW REFERS TO THE COLORADO RACING
+4 COMMISSION IN CONNECTION WITH THE FUNCTIONS TRANSFERRED TO THE
+5 COLORADO LIMITED GAMING CONTROL COMMISSION PURSUANT TO THIS
+6 SUBSECTION (1), THE LAW SHALL BE CONSTRUED AS REFERRING TO THE
+7 COLORADO LIMITED GAMING CONTROL COMMISSION.
+8 (II) ANY CONTRACT ENTERED INTO BY THE COLORADO RACING
+9 COMMISSION PRIOR TO THE EFFECTIVE DATE OF THIS SECTION IN
+10 CONNECTION WITH THE FUNCTIONS TRANSFERRED TO THE COLORADO
+11 LIMITED GAMING CONTROL COMMISSION PURSUANT TO THIS SUBSECTION
+12 (1) IS VALIDATED, WITH THE COLORADO LIMITED GAMING CONTROL
+13 COMMISSION SUCCEEDING TO ALL RIGHTS AND OBLIGATIONS UNDER THE
+14 CONTRACT.
+15 (III) ON AND AFTER THE EFFECTIVE DATE OF THIS SECTION, THE
+16 COLORADO LIMITED GAMING CONTROL COMMISSION SHALL SATISFY ANY
+17 OBLIGATIONS INCURRED BY THE COLORADO RACING COMMISSION, BUT
+18 NOT YET PAID, IN CONNECTION WITH THE FUNCTIONS TRANSFERRED TO THE
+19 COLORADO LIMITED GAMING CONTROL COMMISSION PURSUANT TO THIS
+20 SUBSECTION (1).
+21 (c) (I) AS OF THE EFFECTIVE DATE OF THIS SECTION, EMPLOYEES OF
+22 THE COLORADO RACING COMMISSION PRIOR TO SUCH DATE WHOSE
+23 POWERS, DUTIES, AND FUNCTIONS CONCERNED THE POWERS, DUTIES, AND
+24 FUNCTIONS REGARDING RACING EVENTS THAT ARE ASSUMED BY THE
+25 COLORADO LIMITED GAMING CONTROL COMMISSION PURSUANT TO
+26 SUBSECTION (1)(a) OF THIS SECTION AND WHOSE EMPLOYMENT IN THE
+27 DIVISION OF GAMING IS DEEMED NECESSARY BY THE EXECUTIVE DIRECTOR
+-14- SB26-163
+
+1 TO CARRY OUT THE PURPOSES OF THIS ARTICLE 32 ARE TRANSFERRED TO
+2 THE DIVISION OF GAMING AND BECOME EMPLOYEES OF THE DIVISION OF
+3 GAMING.
+4 (II) ANY EMPLOYEES TRANSFERRED TO THE DIVISION OF GAMING
+5 PURSUANT TO THIS SUBSECTION (1)(c) WHO ARE CLASSIFIED EMPLOYEES
+6 IN THE STATE PERSONNEL SYSTEM RETAIN ALL RIGHTS TO THE PERSONNEL
+7 SYSTEM AND RETIREMENT BENEFITS PURSUANT TO THE LAWS OF THIS
+8 STATE, AND THEIR SERVICE IS DEEMED TO HAVE BEEN CONTINUOUS. ANY
+9 TRANSFERS AND ANY ABOLISHMENT OF POSITIONS IN THE STATE
+10 PERSONNEL SYSTEM SHALL BE MADE AND PROCESSED IN ACCORDANCE
+11 WITH STATE PERSONNEL SYSTEM LAWS AND RULES.
+12 (d) AS OF THE EFFECTIVE DATE OF THIS SECTION, ALL RULES
+13 ADOPTED BY THE COLORADO RACING COMMISSION PURSUANT TO SECTION
+14 44-32-201 (1), AS THAT SECTION EXISTED UNTIL THE EFFECTIVE DATE OF
+15 THIS SECTION, CONTINUE TO BE EFFECTIVE UNTIL REVISED, AMENDED,
+16 REPEALED, OR NULLIFIED PURSUANT TO LAW.
+17 (2) THIS PART 3 IS REPEALED, EFFECTIVE JULY 1, 2027.
+18 SECTION 12. In Colorado Revised Statutes, 44-32-401, amend
+19 (1) introductory portion and (1)(a) as follows:
+20 44-32-401. Director and commission members - position of
+21 trust - conflicts of interest - definition.
+22 (1) Appointment to the commission or to the position of director
+23 or employment in the division of racing events GAMING is a position of
+24 public trust, and therefore, in order to ensure the confidence of the people
+25 of the state in the integrity of the division, and the commission, the
+26 director and members of the commission and the employees of the
+27 division are subject to this section. While serving as director or as a
+-15- SB26-163
+
+1 member of the commission or while employed by the division, no person
+2 nor AN INDIVIDUAL AND any member of the person's INDIVIDUAL'S
+3 immediate family shall NOT:
+4 (a) Hold any pecuniary interest in any racetrack operating within
+5 the state of Colorado nor OR in any stable, compound, or farm that houses
+6 animals licensed or registered to race within the state; of Colorado;
+7 SECTION 13. In Colorado Revised Statutes, 44-32-501, amend
+8 (1)(b) and (3.5) as follows:
+9 44-32-501. Regulation of race meets and racing-related
+10 businesses - additional facilities - rules.
+11 (1) (b) The commission EXECUTIVE DIRECTOR shall license and
+12 regulate all kennels and stables housing racing animals both in connection
+13 with a race meet and to protect the general health and welfare of horses.
+14 The commission EXECUTIVE DIRECTOR shall cause the stables to be visited
+15 and inspected at least once a year by its members or employees OF THE
+16 DIVISION and shall require all such places to be constructed, maintained,
+17 and operated in accordance with the laws of this state and the rules of the
+18 commission EXECUTIVE DIRECTOR.
+19 (3.5) An additional facility, as described in section 44-32-102
+20 (11)(a)(II), must not be located within fifty miles of any class B horse
+21 track operated by another licensee without the written consent of the other
+22 licensee. The commission shall establish by rule the means of obtaining
+23 the consent.
+24 SECTION 14. In Colorado Revised Statutes, 13-4-102, amend
+25 (2)(ee) as follows:
+26 13-4-102. Jurisdiction.
+27 (2) The court of appeals has initial jurisdiction to:
+-16- SB26-163
+
+1 (ee) Review final actions and orders appropriate for judicial
+2 review of the Colorado racing LIMITED GAMING CONTROL commission,
+3 WHICH FINAL ACTIONS AND ORDERS ARE APPROPRIATE FOR JUDICIAL
+4 REVIEW, as provided in section 44-32-507 (4);
+5 SECTION 15. In Colorado Revised Statutes, amend 16-2.5-123
+6 as follows:
+7 16-2.5-123. Director of the division of gaming - gaming
+8 investigator.
+9 The director of the division of gaming in the department of
+10 revenue, THE DIRECTOR'S DESIGNEE, or a gaming investigator in the
+11 department of revenue is a peace officer while engaged in the
+12 performance of his or her THEIR duties whose primary authority shall be
+13 IS as stated in section 44-30-204 OR 44-32-203 (1) and shall also include
+14 INCLUDES the enforcement of all laws of the state of Colorado and who
+15 may be certified by the P.O.S.T. board.
+16 SECTION 16. In Colorado Revised Statutes, repeal 16-2.5-126
+17 as follows:
+18 16-2.5-126. Director of racing events - racing events
+19 supervisor - racing events investigator.
+20 The director of racing events, a racing events supervisor, and a
+21 racing events investigator are peace officers while engaged in the
+22 performance of their duties. whose primary authority shall be as stated in
+23 section 44-32-203 (1) and shall also include the enforcement of all laws
+24 of the state. of Colorado and who may be certified by the P.O.S.T. board.
+25 SECTION 17. In Colorado Revised Statutes, 18-10.5-102,
+26 amend (6)(b) as follows:
+27 18-10.5-102. Definitions.
+-17- SB26-163
+
+1 As used in this article 10.5, unless the context otherwise requires:
+2 (6) (b) "Simulated gambling device" does not include any
+3 pari-mutuel totalisator equipment that is used for pari-mutuel wagering
+4 on live or simulcast racing events and that has been approved by the
+5 director of the division of racing events GAMING for entities authorized
+6 and licensed under article 32 of title 44.
+7 SECTION 18. In Colorado Revised Statutes, 24-1-117, repeal
+8 (4)(a)(VI) as follows:
+9 24-1-117. Department of revenue - creation.
+10 (4) (a) The department of revenue consists of the following
+11 divisions:
+12 (VI) The division of racing events created in section 44-32-201
+13 (1), the director of the division of racing events, and the Colorado racing
+14 commission, created in section 44-32-301 (1), which are type 2 entities,
+15 as defined in section 24-1-105;
+16 SECTION 19. In Colorado Revised Statutes, 24-34-104, repeal
+17 (33)(a)(V) as follows:
+18 24-34-104. General assembly review of regulatory agencies
+19 and functions for repeal, continuation, or reestablishment - legislative
+20 declaration - repeal.
+21 (33) (a) The following agencies, functions, or both, are scheduled
+22 for repeal on September 1, 2032:
+23 (V) The division of racing events, including the Colorado racing
+24 commission, created in article 32 of title 44;
+25 SECTION 20. In Colorado Revised Statutes, amend 35-65-116
+26 as follows:
+27 35-65-116. Race meets - dates - licenses - fees.
+-18- SB26-163
+
+1 (1) The board is authorized to obtain a license to conduct horse
+2 race meets at the Colorado state fair and industrial exposition pursuant to
+3 article 32 of title 44. For the purposes of this section, the limitations in
+4 section 44-32-512 shall DO not apply, and the horse race meets shall be
+5 conducted as approved by the Colorado racing LIMITED GAMING CONTROL
+6 commission at the Colorado state fair and industrial exposition during its
+7 duration.
+8 (2) In lieu of obtaining a license to conduct a horse race meet, the
+9 board is authorized to contract for the conduct of horse race meets at the
+10 Colorado state fair and industrial exposition with a private, nonprofit
+11 person licensed to conduct horse race meets within forty miles of the state
+12 fair grounds, subject to authorization by the Colorado racing LIMITED
+13 GAMING CONTROL commission pursuant to section 44-32-512. The meet
+14 and the race days of the meet conducted at the Colorado state fair and
+15 industrial exposition shall be ARE in addition to the number of meets and
+16 race days permitted the licensee pursuant to section 44-32-603.
+17 SECTION 21. In Colorado Revised Statutes, 44-30-203, amend
+18 (2) introductory portion as follows:
+19 44-30-203. Director - qualification - powers and duties.
+20 (2) In addition to the duties imposed upon the director elsewhere
+21 in this part 2, and in parts 15 and 16 of this article 30, AND IN ARTICLE 32
+22 OF THIS TITLE 44, the director shall:
+23 SECTION 22. In Colorado Revised Statutes, 44-40-109, amend
+24 (2) introductory portion and (2)(a) as follows:
+25 44-40-109. Commission - powers and duties - rules.
+26 (2) Except as provided in subsection (3) of this section, rules
+27 promulgated ADOPTED pursuant to subsection (1) of this section must
+-19- SB26-163
+
+1 include:
+2 (a) The types of lotteries to be conducted, but no A lottery
+3 conducted under this article 40 other than instant scratch games shall NOT
+4 be based upon the game of chance commonly known as bingo, nor shall
+5 any lottery be conducted that depends upon the outcome of any AN
+6 athletic contest except races at state-licensed dog or horse tracks if
+7 approved by the Colorado racing LIMITED GAMING CONTROL commission;
+8 SECTION 23. Act subject to petition - effective date. This act
+9 takes effect at 12:01 a.m. on the day following the expiration of the
+10 ninety-day period after final adjournment of the general assembly (August
+11 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+12 referendum petition is filed pursuant to section 1 (3) of article V of the
+13 state constitution against this act or an item, section, or part of this act
+14 within such period, then the act, item, section, or part will not take effect
+15 unless approved by the people at the general election to be held in
+16 November 2026 and, in such case, will take effect on the date of the
+17 official declaration of the vote thereon by the governor.
+-20- SB26-163

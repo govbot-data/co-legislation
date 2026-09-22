@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-1022.01 Yelana Love x2295 HOUSE BILL 26-1427
+HOUSE SPONSORSHIP
+Espenoza,
+SENATE SPONSORSHIP
+Snyder,
+House Committees Senate Committees
+Judiciary
+A BILL FOR AN ACT
+101 CONCERNING UPDATES TO THE "UNIFORM ANTITRUST PRE-MERGER
+102 NOTIFICATION ACT" APPROVED BY THE UNIFORM LAW
+103 COMMISSION.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov/.)
+Colorado Commission on Uniform State Laws. The bill updates
+the "Uniform Antitrust Pre-Merger Notification Act" (act) with
+amendments to the act adopted by the Uniform Law Commission.
+The bill:
+! Defines "Uniform Antitrust Pre-Merger Notification Act"
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+for purposes of the act;
+! Requires the filing of a Hart-Scott-Rodino form with the
+Colorado attorney general (AG) within one business day
+after filing with the federal government (rather than
+contemporaneously);
+! Requires the AG to provide a secure means to accept and
+store materials they receive under the act;
+! When receiving information from the attorney general of
+another state that has also enacted the act, requires the AG
+to provide assurances to the other attorney general that the
+AG will maintain the confidentiality of the documents or
+information they receive;
+! Requires the AG to destroy or return the materials
+submitted to them within 120 days after the close of the
+transaction subject to disclosure under the act or the
+conclusion of any legal proceeding directly related to the
+transaction subject to disclosure under the act, whichever
+is later; and
+! Requires the AG to provide written notice and a 3-day
+period to cure before imposing civil penalties against a
+person for noncompliance with the Hart-Scott-Rodino form
+filing requirements.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 6-4.5-102, add (9)
+3 as follows:
+4 6-4.5-102. Definitions.
+5 In this article 4.5:
+6 (9) "UNIFORM ANTITRUST PRE-MERGER NOTIFICATION ACT"
+7 MEANS THE "UNIFORM ANTITRUST PRE-MERGER NOTIFICATION ACT"
+8 APPROVED AND RECOMMENDED FOR ENACTMENT IN ALL THE STATES BY
+9 THE NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE
+10 LAWS.
+11 SECTION 2. In Colorado Revised Statutes, 6-4.5-103, amend (a)
+12 introductory portion and (d); and add (e) as follows:
+13 6-4.5-103. Filing requirement.
+-2- HB26-1427
+
+1 (a) A person filing a pre-merger notification shall file
+2 contemporaneously a complete electronic copy of the Hart-Scott-Rodino
+3 form with the attorney general NOT LATER THAN ONE BUSINESS DAY AFTER
+4 FILING OF THE PRE-MERGER NOTIFICATION if:
+5 (d) The attorney general may not charge a fee connected with
+6 filing or providing the form or additional documentary material under this
+7 section THE ATTORNEY GENERAL SHALL PROVIDE A SECURE MEANS TO
+8 RECEIVE AND STORE THE MATERIALS REQUIRED TO BE SUBMITTED TO THE
+9 ATTORNEY GENERAL BY THIS SECTION.
+10 (e) THE ATTORNEY GENERAL MAY NOT CHARGE A FEE CONNECTED
+11 WITH FILING OR PROVIDING THE FORM OR ADDITIONAL DOCUMENTARY
+12 MATERIAL UNDER THIS SECTION.
+13 SECTION 3. In Colorado Revised Statutes, 6-4.5-104, amend
+14 (d)(3); and add (e) as follows:
+15 6-4.5-104. Confidentiality.
+16 (d) This article 4.5 does not:
+17 (3) Preclude the attorney general from sharing information with
+18 the attorney general of another state that has enacted the "Uniform
+19 Antitrust Pre-Merger Notification Act" or a substantively equivalent act.
+20 The other state's act must include confidentiality provisions at least as
+21 protective as the confidentiality provisions of the "Uniform Antitrust
+22 Pre-Merger Notification Act", AND THE OTHER STATE MUST PROVIDE
+23 ASSURANCES TO THE ATTORNEY GENERAL THAT IT AGREES TO MAINTAIN
+24 THE CONFIDENTIALITY OF THE DOCUMENTS OR INFORMATION RECEIVED.
+25 (e) EXCEPT AS OTHERWISE PROVIDED BY COURT ORDER OR OTHER
+26 LAW, THE ATTORNEY GENERAL SHALL DESTROY OR RETURN THE
+27 MATERIALS SUBMITTED PURSUANT TO SECTION 6-4.5-103 NOT LATER THAN
+-3- HB26-1427
+
+1 ONE HUNDRED TWENTY DAYS AFTER THE LATER OF:
+2 (1) THE CLOSE OF THE TRANSACTION SUBJECT TO DISCLOSURE
+3 UNDER SECTION 6-4.5-103; OR
+4 (2) THE CONCLUSION OF ANY LEGAL PROCEEDINGS DIRECTLY
+5 RELATED TO THE TRANSACTION SUBJECT TO DISCLOSURE UNDER SECTION
+6 6-4.5-103.
+7 SECTION 4. In Colorado Revised Statutes, amend 6-4.5-105 as
+8 follows:
+9 6-4.5-105. Reciprocity.
+10 (a) The attorney general may disclose a Hart-Scott-Rodino form
+11 and additional documentary material filed or provided under section
+12 6-4.5-103 to the attorney general of another state that enacts the "Uniform
+13 Antitrust Pre-Merger Notification Act" or a substantively equivalent act.
+14 The other state's act must include confidentiality provisions at least as
+15 protective as the confidentiality provisions of the "Uniform Antitrust
+16 Pre-Merger Notification Act", AND THE OTHER STATE MUST PROVIDE
+17 ASSURANCES TO THE ATTORNEY GENERAL THAT IT AGREES TO MAINTAIN
+18 THE CONFIDENTIALITY OF THE DOCUMENTS OR INFORMATION RECEIVED.
+19 (b) At least two FIVE business days before making a disclosure
+20 under subsection (a) of this section, the attorney general shall give notice
+21 of the disclosure to the person filing or providing the form or additional
+22 documentary material under section 6-4.5-103.
+23 SECTION 5. In Colorado Revised Statutes, amend 6-4.5-106 as
+24 follows:
+25 6-4.5-106. Civil penalty.
+26 AFTER WRITTEN NOTICE AND A THREE-BUSINESS DAY PERIOD TO
+27 CURE, the attorney general may seek imposition of a civil penalty of not
+-4- HB26-1427
+
+1 more than ten thousand dollars per day of noncompliance on a person that
+2 fails to comply with section 6-4.5-103 (a), (b), or (c). A civil penalty
+3 imposed under this section is subject to procedural requirements
+4 applicable to the attorney general, including the requirements of due
+5 process.
+6 SECTION 6. Act subject to petition - effective date. This act
+7 takes effect at 12:01 a.m. on the day following the expiration of the
+8 ninety-day period after final adjournment of the general assembly (August
+9 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+10 referendum petition is filed pursuant to section 1 (3) of article V of the
+11 state constitution against this act or an item, section, or part of this act
+12 within such period, then the act, item, section, or part will not take effect
+13 unless approved by the people at the general election to be held in
+14 November 2026 and, in such case, will take effect on the date of the
+15 official declaration of the vote thereon by the governor.
+-5- HB26-1427

@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0383.01 Jed Franklin x5484 HOUSE BILL 26-1003
+HOUSE SPONSORSHIP
+Ricks and Camacho,
+SENATE SPONSORSHIP
+Kolker,
+House Committees Senate Committees
+Business Affairs & Labor
+A BILL FOR AN ACT
+101 CONCERNING MODIFICATIONS TO THE SMALL BUSINESS RECOVERY AND
+102 RESILIENCY LOAN PROGRAM.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Currently, the purpose of the small business recovery and
+resiliency loan program (program) is to support the state's recovery from
+the economic crisis caused by COVID-19 by supporting Colorado small
+businesses recovering from COVID-19. The bill modifies the purpose of
+the program to supporting Colorado's small businesses through the
+program.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Currently, money in the small business recovery and resiliency
+fund (fund) may be used for specified purposes if the money from the
+fund is matched by money provided by other sources at a ratio of $1 of
+money from the fund to $4 of money from other sources. The bill changes
+this ratio to $1 from the fund to $1 from other sources. Once the money
+from the fund is matched by other sources and comprises a tranche, the
+bill specifies that the money from the tranche may be used for loans or to
+purchase participation interest in loans for businesses as determined by
+the program oversight board (board), including working capital and the
+purchase of equipment.
+Currently, principal and interest payments on a loan may be
+deferred for up to one year for circumstances of hardship created by the
+COVID-19 pandemic or based on ongoing economic conditions. The bill
+allows a deferral for circumstances of hardship and repeals the
+requirement that the hardship must be caused by the COVID-19 pandemic
+or ongoing economic conditions.
+Currently, each tranche is subject to an initial period of time, as
+determined by the board, in which a portion of the money from the fund
+is allocated to each county, as determined by the board, based on
+specified criteria or a statutory formula. Currently, the money allocated
+to each county must be reserved for applications from eligible borrowers
+located in that county for the initial period of time. The bill repeals the
+requirement that the money is reserved for the initial period of time and
+that the money is allocated to a county. The bill requires each tranche of
+loan funding to be used to fund businesses across the state over the
+duration of the program. The program will track the distribution of capital
+to counties.
+The bill requires the state treasurer to transfer $5 million from the
+fund to the Colorado startup loan program fund on June 30, 2026.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 24-48.5-605, amend
+3 (1)(b), (4)(a), (4)(b) introductory portion, (4)(b)(IV), and (4)(c) as
+4 follows:
+5 24-48.5-605. Small business recovery and resiliency loan
+6 program - creation - requirements - oversight.
+7 (1) (b) The purpose of the loan program is to support the state's
+8 recovery from the economic crisis caused by COVID-19 through
+-2- HB26-1003
+
+1 leveraging private investment to support Colorado small businesses
+2 recovering from the crisis caused by COVID-19 by making loans,
+3 acquiring participation interest in loans, leveraging private small business
+4 lending through the Colorado credit reserve program, or other activities
+5 that accomplish the same purpose. The loan program is also designed to
+6 support resiliency for small businesses as new challenges emerge. The
+7 loan program may only make loans directly if federal or state bank
+8 regulators prohibit the banking industry from originating loans for the
+9 loan program.
+10 (4) Any contract for the administration of a loan program must
+11 include the following terms in order to receive money provided by the
+12 office pursuant to subsection (3) of this section:
+13 (a) Except for money contributed to the Colorado credit reserve,
+14 the money from the small business recovery and resiliency fund provided
+15 by the office in a single tranche may not be committed pursuant to a
+16 contract relating to a loan program until money is committed pursuant to
+17 a contract relating to a loan program from other sources at a ratio of at
+18 least four dollars ONE DOLLAR from other sources for each one dollar
+19 provided by the state from the small business recovery and resiliency
+20 fund. If a loan program manager does not secure sufficient investments
+21 from other sources to meet this requirement within the time allowed by
+22 a contract, the money provided by the state must be returned to the small
+23 business recovery and resiliency fund.
+24 (b) Except for money contributed to the Colorado credit reserve,
+25 once the money in a tranche is matched in accordance with subsection
+26 (4)(a) of this section, it must be used to make loans or purchase
+27 participation interest in loans for BUSINESSES AS DETERMINED BY THE
+-3- HB26-1003
+
+1 OVERSIGHT BOARD, INCLUDING working capital including AND the
+2 purchase of equipment. to eligible borrowers, or other activities that
+3 accomplish the same purpose The oversight board shall consult with
+4 lending industry leaders and representatives of small businesses with
+5 regard to subsections (4)(b)(I) to (4)(b)(VI) of this section. Each loan
+6 must be subject to the following terms:
+7 (IV) Principal and interest payments may be deferred for up to one
+8 year, as determined by the oversight board, with the unpaid interest being
+9 capitalized. Deferrals must be limited to circumstances of hardship.
+10 created by the COVID-19 pandemic or based on ongoing economic
+11 conditions
+12 (c) (I) To ensure geographic equity, each tranche of loan funding
+13 must be subject to an initial period of time in which a portion of the
+14 money is allocated to each county on a basis proportional to the county's
+15 share of small businesses relative to the state, the county's share of small
+16 business employees relative to the state, the county's share of small
+17 business personal property relative to the state, or other similar metrics as
+18 determined by the oversight board, or based on a formula established
+19 under subsection (4)(c)(IV) of this section. The money allocated to each
+20 county must be reserved for applications from eligible borrowers located
+21 in that county for the initial period of time. For the purposes of this
+22 subsection (4)(c), an eligible borrower is considered to be located in the
+23 county in which it has its principal place of business, as reflected in its
+24 most recent filing with the secretary of state or subject to such other
+25 documentation as the oversight board establishes. The oversight board
+26 shall determine the amount of time in which the money in each tranche
+27 is subject to a geographic restriction under this subsection (4)(c)(I) EACH
+-4- HB26-1003
+
+1 TRANCHE OF LOAN FUNDING SHALL BE USED TO FUND BUSINESSES ACROSS
+2 THE STATE OVER THE DURATION OF THE PROGRAM. THE PROGRAM SHALL
+3 TRACK THE DISTRIBUTION OF CAPITAL TO COUNTIES.
+4 (II) Once the time period established by the oversight board under
+5 subsection (4)(c)(I) of this section has passed, all money remaining in the
+6 tranche is available to eligible borrowers on a statewide basis.
+7 (III) For money contributed to the Colorado credit reserve, the
+8 oversight board may waive the requirements of this subsection (4)(c) or
+9 establish alternative geographic distribution requirements or targets.
+10 (IV) For any tranche of loan funding, the oversight board may, in
+11 its discretion, establish an alternative formula for the allocation of money
+12 to counties for purposes of subsection (4)(c)(I) of this section that
+13 accounts for how affected each county has been by the COVID-19
+14 pandemic and its impacts or based on ongoing economic conditions.
+15 SECTION 2. In Colorado Revised Statutes, 24-48.5-608, add
+16 (2)(d) as follows:
+17 24-48.5-608. Small business recovery and resiliency fund -
+18 repeal.
+19 (2) (d) (I) ON JUNE 30, 2026, THE STATE TREASURER SHALL
+20 TRANSFER FIVE MILLION DOLLARS FROM THE SMALL BUSINESS RECOVERY
+21 AND RESILIENCY FUND TO THE COLORADO STARTUP LOAN PROGRAM FUND
+22 ESTABLISHED IN SECTION 24-48.5-131 (9).
+23 (II) THIS SUBSECTION (2)(d) IS REPEALED, EFFECTIVE JULY 1, 2027.
+24 SECTION 3. Safety clause. The general assembly finds,
+25 determines, and declares that this act is necessary for the immediate
+26 preservation of the public peace, health, or safety or for appropriations for
+-5- HB26-1003
+
+1 the support and maintenance of the departments of the state and state
+2 institutions.
+-6- HB26-1003

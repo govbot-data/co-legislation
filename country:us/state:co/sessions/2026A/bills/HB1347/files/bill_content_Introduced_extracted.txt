@@ -1,0 +1,377 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0715.01 Anna Petrini x5497 HOUSE BILL 26-1347
+HOUSE SPONSORSHIP
+Gilchrist and Brown, Camacho, Clifford, Froelich, Stewart R., Willford
+SENATE SPONSORSHIP
+Daugherty and Ball,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING CHANGING PRACTICES RELATED TO FEDERAL BENEFITS
+102 FOR YOUTH IN FOSTER CARE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Under current law, a county department of human or social
+services (county department) is required, beginning on or before July 1,
+2027, to determine whether a child or youth who is in foster care (child
+or youth) and who has a deceased parent may be eligible to receive
+federal survivor benefits and to apply for and manage those benefits
+under certain circumstances. Current law sets forth various survivor
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+benefit application, accounting, and notice requirements for county
+departments, which must save survivor benefit money in an account for
+the individual child or youth in some cases.
+The bill extends, beginning on or before July 1, 2028, certain
+application, accounting, and notice provisions already in place for
+survivor benefits to federal supplemental security income benefits (SSI),
+which are monthly payments awarded to a child or youth with a disability
+and limited resources. The bill adds requirements related to identifying
+and documenting the disability of a child or youth in the child welfare
+system. A county department must deposit amounts above the countable
+resource threshold for SSI eligibility in a savings account specifically for
+individuals with disabilities, established and maintained for the child or
+youth in foster care. If a child or youth is receiving SSI, the county
+department must document how the money is spent in the state's welfare
+case management system.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 19-7-105, amend
+3 (1)(b) introductory portion, (2), (3)(b), (3)(c), (3)(d), (3)(e), (3)(f), (4),
+4 (5)(a), (5)(b), (6)(a)(I), (6)(a)(II), (6)(a)(III), (8) introductory portion,
+5 (8)(b), (8)(c), (8)(h), and (9); and add (1)(d), (3)(a.5), (3)(c.5), (8)(a.5),
+6 (8)(g.5), and (10) as follows:
+7 19-7-105. Federal benefits for children and youth in foster
+8 care - rules - legislative intent - legislative declaration - definitions.
+9 (1) (b) The general assembly further declares its intent to ensure
+10 that ALL federal benefits, INCLUDING SURVIVOR BENEFITS AND DISABILITY
+11 BENEFITS, provided to children or youth in foster care are set aside
+12 specifically for the use of individual children or youth in foster care,
+13 thereby:
+14 (d) WITH RESPECT TO FEDERAL SUPPLEMENTAL SECURITY INCOME
+15 BENEFITS FOR WHICH A CHILD OR YOUTH QUALIFIES BASED ON DISABILITY,
+16 IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT:
+17 (I) ALL CHILDREN AND YOUTH ENTERING THE FOSTER CARE
+-2- HB26-1347
+
+1 SYSTEM BE SCREENED TO DETERMINE WHETHER THEY ARE ELIGIBLE FOR
+2 OR RECEIVING FEDERAL SUPPLEMENTAL SECURITY INCOME;
+3 (II) TRANSPARENCY REGARDING HOW FEDERAL SUPPLEMENTAL
+4 SECURITY INCOME IS BEING SPENT AND MANAGED ON BEHALF OF CHILDREN
+5 AND YOUTH IN THE FOSTER CARE SYSTEM BE INCREASED; AND
+6 (III) WITH SUPPORT FROM THE STATE DEPARTMENT, COUNTY
+7 DEPARTMENTS IMPROVE THEIR CAPACITY AND CAPITALIZE ON COMMUNITY
+8 RESOURCES, INCLUDING BENEFIT PLANNERS, TO APPLY FOR AND MANAGE
+9 FEDERAL SUPPLEMENTAL SECURITY INCOME ON BEHALF OF CHILDREN AND
+10 YOUTH IN THE FOSTER CARE SYSTEM.
+11 (2) As used in this section, unless the context otherwise requires:
+12 (a) "COST OF CARE" HAS THE MEANING SET FORTH IN SECTION
+13 19-1-103.
+14 (b) "FEDERAL SUPPLEMENTAL SECURITY INCOME" MEANS BENEFITS
+15 AUTHORIZED PURSUANT TO TITLE XVI OF THE FEDERAL "SOCIAL
+16 SECURITY ACT", 42 U.S.C. SEC. 1381 ET SEQ.
+17 (a) (c) "Federal survivor benefits" means survivor benefits that are
+18 administered by the United States social security administration, veterans
+19 benefits administration, or the railroad retirement board and that are based
+20 on the eligibility of an insured parent.
+21 (b) (d) "Interested party" means a child or youth; the child's or
+22 youth's counsel for youth; a parent and the parent's counsel, unless
+23 parental rights have been terminated or there is a court order restricting
+24 access; the individual with whom the child or youth is currently placed;
+25 the guardian ad litem; or other party who may have information about the
+26 child's or youth's eligibility for or receipt of federal survivor benefits OR
+27 FEDERAL SUPPLEMENTAL SECURITY INCOME.
+-3- HB26-1347
+
+1 (3) (a.5) (I) BEGINNING ON OR BEFORE JULY 1, 2028, IF THE
+2 COUNTY DEPARTMENT MAKES A FINDING OF SUBSTANTIATED ABUSE OR
+3 NEGLECT, THE COUNTY DEPARTMENT SHALL REFER THE CHILD OR YOUTH
+4 TO THE APPROPRIATE STATE OR LOCAL AGENCY FOR DEVELOPMENTAL
+5 SCREENING WITHIN FORTY-FIVE DAYS AFTER A CHILD'S OR YOUTH'S
+6 OUT-OF-HOME PLACEMENT.
+7 (II) IF THE COUNTY DEPARTMENT DETERMINES THAT A CHILD MAY
+8 BE ELIGIBLE TO RECEIVE FEDERAL SUPPLEMENTAL SECURITY INCOME, THE
+9 COUNTY DEPARTMENT SHALL INITIATE THE APPLICATION PROCESS
+10 PURSUANT TO SUBSECTION (3)(d) OF THIS SECTION WITHIN FORTY-FIVE
+11 DAYS AFTER RECEIVING A DETERMINATION OF A CHILD'S OR YOUTH'S
+12 DISABILITY PURSUANT TO A DEVELOPMENTAL SCREENING DESCRIBED IN
+13 SUBSECTION (3)(a.5)(I) OF THIS SECTION.
+14 (III) WHEN A CHILD IS ENROLLED IN THE CHILDREN'S HABILITATION
+15 RESIDENTIAL PROGRAM WAIVER ESTABLISHED PURSUANT TO SECTION
+16 25.5-6-903 (4), THE COUNTY DEPARTMENT SHALL APPLY FOR FEDERAL
+17 SUPPLEMENTAL SECURITY INCOME ON BEHALF OF THE CHILD IF AN
+18 APPLICATION FOR FEDERAL SUPPLEMENTAL SECURITY INCOME HAS NOT
+19 ALREADY BEEN SUBMITTED ON THE CHILD'S BEHALF OR THE CHILD HAS
+20 COUNTABLE RESOURCES THAT EXCEED THE THRESHOLD ESTABLISHED BY
+21 THE UNITED STATES SOCIAL SECURITY ADMINISTRATION.
+22 (b) Beginning on or before July 1, 2027, if a county department
+23 makes an initial determination that the child or youth is not likely to be
+24 eligible for federal survivor benefits OR, BEGINNING ON OR BEFORE JULY
+25 1, 2028, IF A COUNTY DEPARTMENT MAKES AN INITIAL DETERMINATION
+26 THAT THE CHILD OR YOUTH IS NOT LIKELY TO BE ELIGIBLE FOR FEDERAL
+27 SUPPLEMENTAL SECURITY INCOME, the county department shall annually
+-4- HB26-1347
+
+1 review the case of the child or youth to determine whether circumstances
+2 have changed to make the child or youth eligible for federal survivor
+3 benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME.
+4 (c) In conducting an initial benefit eligibility determination or an
+5 annual review pursuant to this subsection (3), the county department shall
+6 consult with interested parties as necessary to assess the child's or youth's
+7 eligibility for federal survivor benefits OR FEDERAL SUPPLEMENTAL
+8 SECURITY INCOME and to determine, in accordance with applicable federal
+9 law, the most likely, appropriate representative payee or fiduciary.
+10 (c.5) (I) THE COUNTY DEPARTMENT MUST DOCUMENT WHY A
+11 CHILD OR YOUTH IS NOT REASONABLY EXPECTED TO MEET THE ELIGIBILITY
+12 CRITERIA FOR FEDERAL SUPPLEMENTAL SECURITY INCOME IF:
+13 (A) THE COUNTY DEPARTMENT MAKES AN INITIAL OR SUBSEQUENT
+14 DETERMINATION PURSUANT TO THIS SUBSECTION (3) THAT THE CHILD OR
+15 YOUTH IS NOT LIKELY TO BE ELIGIBLE TO RECEIVE FEDERAL
+16 SUPPLEMENTAL SECURITY INCOME; AND
+17 (B) THE COUNTY DEPARTMENT IDENTIFIES A CHILD OR YOUTH AS
+18 HAVING A DISABILITY FOR THE PURPOSES OF COMPLIANCE WITH
+19 APPLICABLE STATE OR FEDERAL REPORTING REQUIREMENTS, INCLUDING
+20 REPORTING REQUIRED PURSUANT TO SECTION 26-5-119 OR 45 CFR
+21 1355.44.
+22 (II) IF THE COUNTY DEPARTMENT MAKES AN INITIAL OR
+23 SUBSEQUENT DETERMINATION PURSUANT TO THIS SUBSECTION (3) THAT
+24 A CHILD OR YOUTH IS LIKELY TO BE ELIGIBLE TO RECEIVE FEDERAL
+25 SUPPLEMENTAL SECURITY INCOME, THE COUNTY DEPARTMENT MUST
+26 IDENTIFY THE CHILD OR YOUTH AS HAVING A DISABILITY FOR THE
+27 PURPOSES OF COMPLIANCE WITH APPLICABLE STATE OR FEDERAL
+-5- HB26-1347
+
+1 REPORTING REQUIREMENTS, INCLUDING REPORTING REQUIRED PURSUANT
+2 TO SECTION 26-5-119 OR 45 CFR 1355.44.
+3 (d) If the county department determines that the child or youth
+4 may be eligible to receive federal survivor benefits OR FEDERAL
+5 SUPPLEMENTAL SECURITY INCOME and that the county department is the
+6 most appropriate representative payee or fiduciary, then the county
+7 department shall, in compliance with all applicable federal rules and
+8 regulations, apply for the federal survivor benefits OR FEDERAL
+9 SUPPLEMENTAL SECURITY INCOME on behalf of the child or youth. If the
+10 county department determines that the child or youth may be eligible for
+11 federal survivor benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME
+12 but that the county department is not the most appropriate representative
+13 payee or fiduciary, the county department shall provide information to the
+14 prospective representative payee or fiduciary that the county department
+15 has identified about how to apply for federal survivor benefits OR
+16 FEDERAL SUPPLEMENTAL SECURITY INCOME on behalf of the child or
+17 youth and how to become the child's or youth's representative payee or
+18 fiduciary.
+19 (e) Following a denial of federal survivor benefits OR FEDERAL
+20 SUPPLEMENTAL SECURITY INCOME or other adverse benefit eligibility
+21 determination, the county department shall consult with interested parties
+22 and determine whether there are grounds to appeal. If there are grounds
+23 to appeal AND THE COUNTY DEPARTMENT WAS THE ORIGINAL APPLICANT,
+24 the county department shall appeal the denial or adverse determination.
+25 (f) If a child or youth in noncertified kinship care may be eligible
+26 for federal survivor benefits OR FEDERAL SUPPLEMENTAL SECURITY
+27 INCOME, the county department shall provide the noncertified kinship
+-6- HB26-1347
+
+1 caregiver with information about how to apply for federal survivor
+2 benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME on behalf of the
+3 child or youth.
+4 (4) If the county department becomes the representative payee or
+5 fiduciary for a child's or youth's federal survivor benefits OR FEDERAL
+6 SUPPLEMENTAL SECURITY INCOME, the county department shall annually
+7 reassess, in consultation with interested parties, whether a candidate other
+8 than the county department would be a preferable representative payee or
+9 fiduciary.
+10 (5) (a) Beginning on or before July 1, 2027, IN THE CASE OF
+11 FEDERAL SURVIVOR BENEFITS, AND BEGINNING ON OR BEFORE JULY 1,
+12 2028, IN THE CASE OF FEDERAL SUPPLEMENTAL SECURITY INCOME, if a
+13 county department is the representative payee or fiduciary for a child or
+14 youth, the county department shall:
+15 (I) Not use any federal survivor benefits of a child or youth to pay
+16 for or reimburse the county department for care or services for the child
+17 or youth, including, but not limited to, foster care maintenance expenses
+18 as defined in the federal "Social Security Act", 42 U.S.C. sec. 675 (4)(A),
+19 and cost of care. as defined in section 19-1-103.
+20 (II) IF THE CHILD OR YOUTH RECEIVES FEDERAL SURVIVOR
+21 BENEFITS, establish and maintain, consistent with federal and state asset
+22 and resource limits, an account for deposit of the federal survivor benefits
+23 of a child or youth. The account may be an individual account or an
+24 approved collective account, if the representative payee maintains a
+25 separate ledger and accounting records for each child or youth beneficiary
+26 of an approved collective account. The contents of the account, including
+27 applicable interest or earnings, must be saved for the individual child or
+-7- HB26-1347
+
+1 youth.
+2 (II.5) (A) IF THE CHILD OR YOUTH ACCUMULATES FEDERAL
+3 SUPPLEMENTAL SECURITY INCOME ABOVE THE COUNTABLE RESOURCE
+4 THRESHOLD FOR FEDERAL SUPPLEMENTAL SECURITY INCOME ELIGIBILITY
+5 ESTABLISHED BY THE UNITED STATES SOCIAL SECURITY ADMINISTRATION,
+6 THE AMOUNT OF INCOME ABOVE THE THRESHOLD MUST BE DEPOSITED IN
+7 AN ACCOUNT ESTABLISHED AND MAINTAINED FOR THE CHILD OR YOUTH
+8 PURSUANT TO SECTION 23-3.1-311. THE COUNTY DEPARTMENT SHALL
+9 CHOOSE THE MOST CONSERVATIVE INVESTMENT OPTION AVAILABLE.
+10 COUNTY DEPARTMENT PERSONNEL ARE NOT REQUIRED TO SUBMIT THEIR
+11 OWN PERSONALLY IDENTIFIABLE INFORMATION TO COMPLY WITH THIS
+12 SUBSECTION (5)(a)(II.5)(A).
+13 (B) IF A CHILD OR YOUTH IS RECEIVING FEDERAL SUPPLEMENTAL
+14 SECURITY INCOME, THE COUNTY DEPARTMENT SHALL DOCUMENT IN THE
+15 STATE AUTOMATED CASE MANAGEMENT SYSTEM ALL EXPENDITURES,
+16 INCLUDING, BUT NOT LIMITED TO, EXPENDITURES FROM FEDERAL
+17 SUPPLEMENTAL SECURITY INCOME, MADE ON BEHALF OF THE CHILD OR
+18 YOUTH BY NEED TYPE AND FUNDING SOURCE.
+19 (III) Provide an annual accounting of the accumulation of the
+20 child's or youth's federal survivor benefits OR FEDERAL SUPPLEMENTAL
+21 SECURITY INCOME, IF THE FEDERAL SUPPLEMENTAL SECURITY INCOME IS
+22 DEPOSITED INTO AN ACCOUNT PURSUANT TO SUBSECTION (5)(a)(II.5) OF
+23 THIS SECTION, to the child or youth and the legal representative of the
+24 child or youth. IF THE CHILD OR YOUTH RECEIVES FEDERAL SUPPLEMENTAL
+25 SECURITY INCOME, THE COUNTY DEPARTMENT SHALL PROVIDE THE CHILD
+26 OR YOUTH AND THE LEGAL REPRESENTATIVE OF THE CHILD OR YOUTH
+27 WITH AN ANNUAL ACCOUNTING OF THE EXPENDITURES DOCUMENTED
+-8- HB26-1347
+
+1 PURSUANT TO SUBSECTION (5)(a)(II.5) OF THIS SECTION. A COUNTY
+2 DEPARTMENT CHILD WELFARE CASEWORKER SHALL ANNUALLY SHARE THE
+3 ACCOUNTING INFORMATION WITH THE CHILD OR YOUTH AND THE LEGAL
+4 REPRESENTATIVE OF THE CHILD OR YOUTH. The annual accounting
+5 information must include:
+6 (A) The amount and source of federal survivor benefits OR
+7 FEDERAL SUPPLEMENTAL SECURITY INCOME collected by the county
+8 department and credited to the EACH account maintained on behalf of the
+9 child or youth;
+10 (B) The balance of the EACH account maintained on behalf of the
+11 child or youth; and
+12 (C) Information regarding the child's or youth's accounts and
+13 earnings related to those accounts, if applicable, and any additional assets
+14 and resources, including benefits, insurance, cash assets, trust accounts,
+15 and earnings, if the assets or resources are controlled by the county
+16 department; AND
+17 (D) FOR A CHILD OR YOUTH RECEIVING FEDERAL SUPPLEMENTAL
+18 SECURITY INCOME, INFORMATION ABOUT THE EXPENDITURES MADE ON
+19 BEHALF OF THE CHILD OR YOUTH BY NEED TYPE AND FUNDING SOURCE.
+20 (b) If a county department is not the representative payee or
+21 fiduciary for a child's or youth's federal survivor benefits OR FEDERAL
+22 SUPPLEMENTAL SECURITY INCOME, the county department is not
+23 responsible for establishing or maintaining an account for deposit of the
+24 federal survivor benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME
+25 of the child or youth or providing related accounting information pursuant
+26 to subsection (5)(a) of this section.
+27 (6) (a) The county department shall provide timely,
+-9- HB26-1347
+
+1 developmentally appropriate notice to the parties, unless prevented by a
+2 court order, of:
+3 (I) Submission of an application for federal survivor benefits OR
+4 FEDERAL SUPPLEMENTAL SECURITY INCOME on behalf of a child or youth;
+5 (II) Submission of a request for the county department to become
+6 the representative payee or fiduciary for the child's or youth's federal
+7 survivor benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME and
+8 identification of the representative payee or fiduciary ultimately selected;
+9 (III) Receipt by the county department of a federal agency's
+10 decision regarding federal survivor benefits OR FEDERAL SUPPLEMENTAL
+11 SECURITY INCOME, including denial, termination, or reduction of federal
+12 survivor benefits OR FEDERAL SUPPLEMENTAL SECURITY INCOME;
+13 (8) On or before January 1, 2027, IN THE CASE OF FEDERAL
+14 SURVIVOR BENEFITS, AND BEGINNING ON OR BEFORE JANUARY 1, 2028, IN
+15 THE CASE OF FEDERAL SUPPLEMENTAL SECURITY INCOME, the STATE
+16 department, of human services, in consultation with interested
+17 stakeholders, including, but not limited to, county departments,
+18 organizations that advocate on behalf of youth in foster care,
+19 organizations that represent court-appointed special advocates,
+20 organizations that advocate on behalf of disability rights, the office of
+21 respondent parents' counsel, and the office of the child's representative,
+22 shall adopt rules consistent with applicable state and federal law for the
+23 implementation of this section. The rules must include guidance to the
+24 county departments on:
+25 (a.5) SCREENING PROCESSES FOR IDENTIFYING WHETHER A CHILD
+26 OR YOUTH IS ALREADY RECEIVING FEDERAL SUPPLEMENTAL SECURITY
+27 INCOME OR MAY BE ELIGIBLE TO RECEIVE FEDERAL SUPPLEMENTAL
+-10- HB26-1347
+
+1 SECURITY INCOME AND SCREENING PROCESSES FOR SUBSEQUENT ANNUAL
+2 ELIGIBILITY REVIEWS.
+3 (b) Best practices for consulting with the child or youth or other
+4 interested parties who may have information about the child's or youth's
+5 receipt of or eligibility for federal survivor benefits OR FEDERAL
+6 SUPPLEMENTAL SECURITY INCOME;
+7 (c) The application process for federal survivor benefits OR
+8 FEDERAL SUPPLEMENTAL SECURITY INCOME for each child or youth, who,
+9 pursuant to screening, is likely to be determined eligible; for federal
+10 survivor benefits;
+11 (g.5) THE PROCESS FOR ESTABLISHING AND MAINTAINING AN
+12 ACCOUNT PURSUANT TO SECTION 23-3.1-311 FOR AMOUNTS OVER THE
+13 FEDERAL SUPPLEMENTAL SECURITY INCOME COUNTABLE RESOURCE
+14 THRESHOLD, AND FOR PROVIDING RELATED ACCOUNTING INFORMATION
+15 ANNUALLY;
+16 (h) Specifications for providing required notices regarding federal
+17 survivor benefit OR FEDERAL SUPPLEMENTAL SECURITY INCOME
+18 applications, applications for a county department to become a
+19 representative payee or fiduciary, receipt of decisions regarding federal
+20 survivor benefit eligibility, appeals of denials, and establishment of
+21 accounts; and
+22 (9) (a) The department of human services shall provide ONGOING
+23 technical assistance and guidance to the county departments about how
+24 the county departments: shall address saving federal survivor benefits in
+25 the best interests of a child or youth.
+26 (I) APPLY FOR FEDERAL SURVIVOR BENEFITS OR FEDERAL
+27 SUPPLEMENTAL SECURITY INCOME ON BEHALF OF A CHILD OR YOUTH;
+-11- HB26-1347
+
+1 (II) STREAMLINE DISABILITY SCREENING PROCESSES TO ENSURE
+2 THAT COUNTY DEPARTMENTS ACCURATELY IDENTIFY A CHILD OR YOUTH
+3 WITH A DISABILITY IN ACCORDANCE WITH STATE AND FEDERAL REPORTING
+4 REQUIREMENTS AND ELIGIBILITY REQUIREMENTS FOR STATE MEDICAL
+5 ASSISTANCE PROGRAM WAIVERS AND FEDERAL SUPPLEMENTAL SECURITY
+6 INCOME;
+7 (III) CAPITALIZE ON COMMUNITY RESOURCES, INCLUDING BENEFIT
+8 PLANNERS, IN FEDERAL SUPPLEMENTAL SECURITY INCOME APPLICATION,
+9 BENEFIT MANAGEMENT, AND PLANNING ON BEHALF OF A CHILD OR YOUTH;
+10 (IV) MINIMIZE COUNTY DEPARTMENT RISK IN ESTABLISHING AND
+11 MAINTAINING AN ACCOUNT ON BEHALF OF A CHILD OR YOUTH PURSUANT
+12 TO THIS ARTICLE 7; AND
+13 (V) ADDRESS SAVING FEDERAL SURVIVOR BENEFITS IN THE BEST
+14 INTERESTS OF A CHILD OR YOUTH.
+15 (b) THE STATE DEPARTMENT SHALL COORDINATE WITH THE OFFICE
+16 OF THE CHILD'S REPRESENTATIVE TO PROVIDE TECHNICAL ASSISTANCE AND
+17 GUIDANCE TO COUNSEL FOR YOUTH AND GUARDIANS AD LITEM ABOUT
+18 WHETHER AND HOW TO APPEAL A DENIAL OR ADVERSE DETERMINATION
+19 REGARDING A CHILD'S OR YOUTH'S ELIGIBILITY FOR FEDERAL
+20 SUPPLEMENTAL SECURITY INCOME.
+21 (c) IN PROVIDING THE TECHNICAL ASSISTANCE AND GUIDANCE
+22 REQUIRED PURSUANT TO THIS SUBSECTION (9), THE STATE DEPARTMENT
+23 SHALL MAXIMIZE EFFICIENCIES BY COORDINATING STAFF SUPPORT FOR
+24 BOTH FEDERAL SURVIVOR BENEFITS AND FEDERAL SUPPLEMENTAL
+25 SECURITY INCOME OBTAINED PURSUANT TO THIS SECTION.
+26 (10) BEGINNING ON OR BEFORE JULY 1, 2028, A COUNTY
+27 DEPARTMENT SHALL DESIGNATE ONE EMPLOYEE TO SERVE AS THE POINT
+-12- HB26-1347
+
+1 OF CONTACT FOR FEDERAL BENEFITS FOR CHILDREN OR YOUTH IN FOSTER
+2 CARE TO SERVE AS A LIAISON WITH THE STATE DEPARTMENT FOR THE
+3 PURPOSES OF TECHNICAL ASSISTANCE AND GUIDANCE PROVIDED
+4 PURSUANT TO SUBSECTION (9) OF THIS SECTION.
+5 SECTION 2. Act subject to petition - effective date. This act
+6 takes effect at 12:01 a.m. on the day following the expiration of the
+7 ninety-day period after final adjournment of the general assembly (August
+8 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+9 referendum petition is filed pursuant to section 1 (3) of article V of the
+10 state constitution against this act or an item, section, or part of this act
+11 within such period, then the act, item, section, or part will not take effect
+12 unless approved by the people at the general election to be held in
+13 November 2026 and, in such case, will take effect on the date of the
+14 official declaration of the vote thereon by the governor.
+-13- HB26-1347

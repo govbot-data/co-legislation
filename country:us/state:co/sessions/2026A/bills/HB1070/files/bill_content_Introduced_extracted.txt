@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 26-0278.01 Josh Schultz x5486 HOUSE BILL 26-1070
+HOUSE SPONSORSHIP
+Hartsook and Brown,
+SENATE SPONSORSHIP
+Jodeh and Frizell,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING THIRD-PARTY NETWORK LEASE AGREEMENTS FOR
+102 DENTAL SERVICES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill imposes requirements regarding a contract or agreement
+between an insurance carrier (carrier) and a third party concerning access
+to dental care services, including:
+! Prohibiting a carrier from entering into a third-party
+network lease agreement to provide access to dental care
+services or contractually agreed-upon discounts provided
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+by a dental provider who is contracted as a participating
+provider (provider) with the carrier, unless the provider
+gives affirmative consent to allow the third party to access
+the provider's dental care services and contractually
+agreed-upon discounts;
+! Prohibiting a carrier from canceling a contract with a
+provider on the grounds that the provider refuses to allow
+access by a third party to the dental care services and
+contractually agreed-upon discounts provided by the
+provider; and
+! If a provider allows a third party to access the provider's
+dental care services and contractually agreed-upon
+discounts through a contract between a carrier and a third
+party, requiring the carrier to comply with specified
+obligations.
+The bill create exemptions from the prohibitions on specified
+contract provisions in contracts between carriers and dental providers,
+including if:
+! A provider network contract for dental services is provided
+to beneficiaries of programs for medical assistance
+sponsored by the state of Colorado; or
+! Access to a provider network contract is granted to a dental
+carrier or an entity operating in accordance with the same
+brand licensee program as the contracting entity, and a list
+of the carriers or entities with the same brand licensee
+program as the contracting entity is made available to a
+provider on the contracting entity's website.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. In Colorado Revised Statutes, 10-16-121.5, amend
+3 (4); and add (5), (6), (7), (8), (9), and (10) as follows:
+4 10-16-121.5. Prohibited contract provisions in contracts
+5 between carriers and providers for dental care services - definitions.
+6 (4) For purposes of AS USED IN this section:
+7 (a) "AFFIRMATIVE CONSENT" MEANS A DENTAL PROVIDER'S
+8 EXPRESS CONSENT TO A THIRD PARTY ACCESSING THE DENTAL PROVIDER'S
+9 DENTAL CARE SERVICES AND CONTRACTUALLY AGREED-UPON DISCOUNTS.
+10 THE TERMS OF THE AFFIRMATIVE CONSENT MUST BE CLEAR AND READILY
+-2- HB26-1070
+
+1 UNDERSTANDABLE. AFFIRMATIVE CONSENT MUST INCLUDE THE DENTAL
+2 PROVIDER'S SIGNATURE. THE SIGNATURE MAY BE AN ELECTRONIC
+3 SIGNATURE IF THE FORM OF THE SIGNATURE IS RECOGNIZED AS A VALID
+4 SIGNATURE UNDER APPLICABLE FEDERAL OR STATE LAW, INCLUDING
+5 CHECKING A BOX INDICATING AFFIRMATIVE CONSENT.
+6 (b) "Covered services" means dental care services for which:
+7 (I) Reimbursement is available under a covered person's plan
+8 contract; or for which
+9 (II) A reimbursement would be available but for the application
+10 of contractual limitations, such as deductibles, copayments, coinsurance,
+11 waiting periods, annual or lifetime maximums, frequency limitations,
+12 alternative benefit payments, or any other contractual limitations.
+13 (c) "THIRD PARTY" MEANS AN ENTITY THAT ENTERS INTO A
+14 THIRD-PARTY NETWORK LEASE AGREEMENT WITH A CARRIER OR A DENTAL
+15 BENEFITS ADMINISTRATOR.
+16 (d) "THIRD-PARTY NETWORK LEASE AGREEMENT" MEANS AN
+17 AGREEMENT OR CONTRACT ENTERED INTO BETWEEN A CARRIER OR A
+18 DENTAL BENEFITS ADMINISTRATOR AND A THIRD PARTY TO GAIN ACCESS
+19 TO THE DENTAL CARE SERVICES AND CONTRACTUALLY AGREED-UPON
+20 DISCOUNTS PROVIDED BY A PARTICIPATING PROVIDER THAT HAS ENTERED
+21 INTO A CONTRACT WITH THE CARRIER OR THE DENTAL BENEFITS
+22 ADMINISTRATOR.
+23 (5) A CARRIER SHALL NOT ENTER INTO A THIRD-PARTY NETWORK
+24 LEASE AGREEMENT TO PROVIDE ACCESS TO DENTAL CARE SERVICES OR
+25 CONTRACTUALLY AGREED-UPON DISCOUNTS PROVIDED BY A DENTAL
+26 PROVIDER WHO IS CONTRACTED AS A PARTICIPATING PROVIDER WITH THE
+27 CARRIER, UNLESS THE PARTICIPATING PROVIDER GIVES AFFIRMATIVE
+-3- HB26-1070
+
+1 CONSENT TO ALLOW THE THIRD PARTY TO ACCESS THE PARTICIPATING
+2 PROVIDER'S DENTAL CARE SERVICES AND CONTRACTUALLY AGREED-UPON
+3 DISCOUNTS.
+4 (6) A CARRIER SHALL NOT CANCEL OR OTHERWISE TERMINATE A
+5 CONTRACT WITH A PARTICIPATING PROVIDER ON THE GROUNDS THAT THE
+6 PARTICIPATING PROVIDER REFUSES TO ALLOW ACCESS BY A THIRD PARTY
+7 TO THE DENTAL CARE SERVICES AND CONTRACTUALLY AGREED-UPON
+8 DISCOUNTS PROVIDED BY THE PARTICIPATING PROVIDER. WHEN INITIALLY
+9 CONTRACTING WITH A DENTAL PROVIDER, A CARRIER SHALL NOT REFUSE
+10 TO CONTRACT WITH THE DENTAL PROVIDER SOLELY ON THE BASIS THAT
+11 THE DENTAL PROVIDER DOES NOT CONSENT TO ALLOW A THIRD PARTY TO
+12 ACCESS THE DENTAL PROVIDER'S DENTAL CARE SERVICES AND
+13 CONTRACTUALLY AGREED-UPON DISCOUNTS.
+14 (7) IF A PARTICIPATING PROVIDER GIVES AFFIRMATIVE CONSENT TO
+15 ALLOW A THIRD PARTY TO ACCESS THE PARTICIPATING PROVIDER'S DENTAL
+16 CARE SERVICES AND CONTRACTUALLY AGREED-UPON DISCOUNTS
+17 THROUGH A THIRD-PARTY NETWORK LEASE AGREEMENT ENTERED INTO
+18 BETWEEN A CARRIER AND A THIRD PARTY, THE CARRIER SHALL:
+19 (a) ALLOW THE PARTICIPATING PROVIDER THE OPTION OF
+20 CONTRACTING DIRECTLY WITH THE THIRD PARTY INSTEAD OF ALLOWING
+21 THE THIRD PARTY TO ACCESS THE PARTICIPATING PROVIDER'S SERVICES
+22 AND CONTRACTUALLY AGREED-UPON DISCOUNTS THROUGH THE
+23 THIRD-PARTY NETWORK LEASE AGREEMENT;
+24 (b) REQUIRE THAT THE THIRD-PARTY NETWORK LEASE AGREEMENT
+25 OBLIGATE THE THIRD PARTY TO COMPLY WITH ALL APPLICABLE TERMS, FEE
+26 SCHEDULES, LIMITATIONS, AND CONDITIONS OF THE CONTRACT BETWEEN
+27 THE CARRIER AND THE PARTICIPATING PROVIDER;
+-4- HB26-1070
+
+1 (c) AT THE TIME A CONTRACT BETWEEN A CARRIER AND A
+2 PARTICIPATING PROVIDER IS ENTERED INTO, RENEWED, OR EXTENDED, OR
+3 WHENEVER THERE IS A MATERIAL MODIFICATION TO THE CONTRACT
+4 RELEVANT TO GRANTING ACCESS TO A THIRD PARTY THROUGH A
+5 THIRD-PARTY NETWORK LEASE AGREEMENT:
+6 (I) GIVE TO THE PARTICIPATING PROVIDER, IN WRITING OR
+7 ELECTRONICALLY, A LIST OF ALL THIRD PARTIES KNOWN BY THE CARRIER
+8 TO WHICH THE CARRIER HAS PROVIDED OR WILL PROVIDE ACCESS TO THE
+9 DENTAL CARE SERVICES AND CONTRACTUALLY AGREED-UPON DISCOUNTS
+10 PROVIDED BY THE PARTICIPATING PROVIDER; AND
+11 (II) ALLOW THE PARTICIPATING PROVIDER TO REMOVE CONSENT
+12 TO PARTICIPATE IN A THIRD-PARTY NETWORK LEASE AGREEMENT;
+13 (d) MAINTAIN A WEBSITE THROUGH WHICH THE PARTICIPATING
+14 PROVIDER MAY OBTAIN A LIST, REVIEWED EVERY NINETY DAYS AND, IF
+15 NEEDED, UPDATED, OF ALL THIRD PARTIES THAT HAVE ACCESS TO THE
+16 PARTICIPATING PROVIDER'S DENTAL CARE SERVICES AND CONTRACTUALLY
+17 AGREED-UPON DISCOUNTS;
+18 (e) REQUIRE A THIRD PARTY TO IDENTIFY ON EACH REMITTANCE OR
+19 EXPLANATION OF PAYMENT SENT TO THE PARTICIPATING PROVIDER THE
+20 SOURCE OF ANY CONTRACTUAL DISCOUNT IN RATES TAKEN BY THE THIRD
+21 PARTY;
+22 (f) NOTIFY THE PARTICIPATING PROVIDER AT LEAST THIRTY DAYS
+23 BEFORE THE EFFECTIVE DATE OF A NEW THIRD-PARTY NETWORK LEASE
+24 AGREEMENT;
+25 (g) NOTIFY EACH THIRD PARTY DESCRIBED UNDER SUBSECTION
+26 (7)(c)(I) OR (7)(d) OF THIS SECTION OF THE TERMINATION OF THE
+27 CONTRACT BETWEEN A CARRIER AND A PARTICIPATING PROVIDER AT
+-5- HB26-1070
+
+1 LEAST THIRTY DAYS BEFORE THE EFFECTIVE DATE OF THE TERMINATION;
+2 AND
+3 (h) MAKE AVAILABLE TO THE PARTICIPATING PROVIDER WITHIN
+4 THIRTY DAYS AFTER THE PARTICIPATING PROVIDER'S REQUEST A COPY OF
+5 THE CONTRACT CURRENTLY IN FORCE THAT WAS RELIED UPON BY THE
+6 CARRIER IN THE ADJUDICATION OF THE PARTICIPATING PROVIDER'S CLAIM.
+7 (8) THE NOTICE REQUIRED UNDER SUBSECTION (7)(f) OR (7)(g) OF
+8 THIS SECTION MAY BE PROVIDED BY ANY REASONABLE MEANS, INCLUDING
+9 WRITTEN NOTICE OR ELECTRONIC COMMUNICATION.
+10 (9) SUBJECT TO ANY APPLICABLE CONTINUITY OF CARE
+11 REQUIREMENTS, AGREEMENTS, OR CONTRACTUAL PROVISIONS, A THIRD
+12 PARTY'S RIGHT TO ACCESS A DENTAL PROVIDER'S SERVICES AND
+13 CONTRACTUALLY AGREED-UPON DISCOUNTS TERMINATES ON THE DATE
+14 THE CONTRACT BETWEEN THE CARRIER AND THE PROVIDER IS
+15 TERMINATED.
+16 (10) THIS SECTION DOES NOT APPLY IF:
+17 (a) A PROVIDER NETWORK CONTRACT FOR DENTAL SERVICES IS
+18 PROVIDED TO BENEFICIARIES OF PROGRAMS FOR MEDICAL ASSISTANCE
+19 SPONSORED BY THE STATE, INCLUDING PROGRAMS ADMINISTERED
+20 PURSUANT TO THE "CHILDREN'S BASIC HEALTH PLAN ACT", ARTICLE 8 OF
+21 TITLE 25.5, AND THE "COLORADO MEDICAL ASSISTANCE ACT", ARTICLES
+22 4, 5, AND 6 OF TITLE 25.5, TO THE EXTENT THE PROVIDER NETWORK
+23 CONTRACT IS PROVIDED TO BENEFICIARIES OF THESE PROGRAMS; OR
+24 (b) ACCESS TO A PROVIDER NETWORK CONTRACT IS GRANTED TO
+25 A CARRIER OR AN ENTITY OPERATING IN ACCORDANCE WITH THE SAME
+26 BRAND LICENSEE PROGRAM AS THE CONTRACTING ENTITY, AND A LIST OF
+27 THE CARRIERS OR ENTITIES WITH THE SAME BRAND LICENSEE PROGRAM AS
+-6- HB26-1070
+
+1 THE CONTRACTING ENTITY IS MADE AVAILABLE TO A PROVIDER ON THE
+2 CONTRACTING ENTITY'S WEBSITE.
+3 SECTION 2. Act subject to petition - effective date -
+4 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+5 the expiration of the ninety-day period after final adjournment of the
+6 general assembly (August 12, 2026, if adjournment sine die is on May 13,
+7 2026); except that, if a referendum petition is filed pursuant to section 1
+8 (3) of article V of the state constitution against this act or an item, section,
+9 or part of this act within such period, then the act, item, section, or part
+10 will not take effect unless approved by the people at the general election
+11 to be held in November 2026 and, in such case, will take effect on the
+12 date of the official declaration of the vote thereon by the governor.
+13 (2) This act applies to an agreement or contract entered into or
+14 renewed on or after the applicable effective date of this act.
+-7- HB26-1070

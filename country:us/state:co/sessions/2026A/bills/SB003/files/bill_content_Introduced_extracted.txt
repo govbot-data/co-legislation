@@ -1,0 +1,884 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Second Regular Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+CORRECTED INTRODUCED
+LLS NO. 26-0139.01 Clare Haffner x6137 SENATE BILL 26-003
+SENATE SPONSORSHIP
+Wallace and Cutter,
+HOUSE SPONSORSHIP
+Brown and Stewart R.,
+Senate Committees House Committees
+Transportation & Energy
+A BILL FOR AN ACT
+101 CONCERNING EXPANDING THE SCOPE OF THE "BATTERY STEWARDSHIP
+102 ACT" TO COVER THE END-OF-LIFE MANAGEMENT OF ELECTRIC
+103 VEHICLE BATTERIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Senate Bill 25-163 created the "Battery Stewardship Act", which
+requires the establishment of battery stewardship organizations
+(organizations) and the submittal of battery stewardship plans (plans) to
+the executive director of the department of public health and environment
+(executive director) for the collection, transportation, processing, and
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+recycling of certain batteries.
+The bill expands the scope of the "Battery Stewardship Act" to
+cover the end-of-life management of propulsion batteries, which are
+batteries that are primarily used to supply power to an electric or hybrid
+vehicle, and establishes requirements concerning propulsion batteries that
+differ from the requirements for the batteries currently contemplated by
+the "Battery Stewardship Act".
+No later than April 1, 2028, and every 5 years thereafter, an
+organization must submit a plan for the collection, transportation,
+processing, reuse, repurposing, and recycling of propulsion batteries as
+part of a battery stewardship program. The bill specifies what a plan must
+contain to be approved by the executive director. On and after August 1,
+2028, a provider of propulsion batteries selling, making available for sale,
+or distributing propulsion batteries or vehicles containing a propulsion
+battery in or into the state is required to participate in and finance an
+organization that has submitted a plan.
+An organization implementing a plan on behalf of providers of
+propulsion batteries is required to develop a website that includes
+educational and promotional materials and safety information related to
+battery storage and collection activities and submit annual reports to the
+executive director that concern certain information about the preceding
+year of plan implementation.
+The bill includes requirements for the marking and labeling of
+propulsion batteries and requires the solid and hazardous waste
+commission to, no later than July 1, 2027, adopt rules establishing a
+process for the department of public health and environment to certify an
+entity as a qualified propulsion battery recycler.
+On and after August 1, 2028, all propulsion batteries in the state
+must be managed in accordance with the requirements established by the
+bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Short title. The short title of this act is the
+3 "Promoting Responsible End-of-Life Management of Electric Vehicle
+4 Batteries Act".
+5 SECTION 2. In Colorado Revised Statutes, 25-17-1002, amend
+6 (2); and add (1.5) as follows:
+7 25-17-1002. Legislative declaration.
+8 (1.5) THE GENERAL ASSEMBLY FURTHER FINDS THAT:
+-2- SB26-003
+
+1 (a) ELECTRIC VEHICLES ARE CRUCIAL TOOLS FOR REDUCING
+2 GREENHOUSE GAS EMISSIONS, WHICH THE STATE IS REQUIRED TO
+3 ELIMINATE BY 2050. ELECTRIC VEHICLES ARE ALSO VITAL TO REDUCING
+4 LOCAL AIR POLLUTION IN AREAS OF THE STATE, SUCH AS THE DENVER
+5 METRO AND NORTH FRONT RANGE AREA, THAT THE FEDERAL
+6 ENVIRONMENTAL PROTECTION AGENCY HAS DESIGNATED AS BEING IN
+7 NONATTAINMENT WITH A NATIONAL AMBIENT AIR QUALITY STANDARD. TO
+8 ACHIEVE EMISSION REDUCTIONS NEEDED TO MEET STATE-MANDATED
+9 CLIMATE GOALS AND FEDERALLY REQUIRED OZONE LEVELS, MANY MORE
+10 ELECTRIC VEHICLES WILL NEED TO BE DEPLOYED IN COLORADO.
+11 (b) AS ELECTRIC VEHICLE SALES IN THE STATE CONTINUE TO GROW,
+12 SUBSTANTIALLY MORE ELECTRIC VEHICLES WILL BE RETIRED IN THE
+13 COMING YEARS, AND THEIR BATTERIES, KNOWN AS PROPULSION
+14 BATTERIES, WILL NEED TO BE HANDLED;
+15 (c) PROPULSION BATTERIES OFTEN RETAIN VALUE EVEN AFTER
+16 THEY CEASE TO POWER THE ORIGINAL VEHICLES AND CAN BE REUSED,
+17 REPURPOSED, OR RECYCLED. SECONDARY USE CASES FOR A PROPULSION
+18 BATTERY IMPROVE THE SUSTAINABILITY PROFILE OF THE ELECTRIC
+19 VEHICLE INDUSTRY BY EXTENDING THE USEFUL LIFE OF THE CRITICAL
+20 MINERALS CONTAINED WITHIN EACH PROPULSION BATTERY. SECONDARY
+21 USES ALSO CREATE LOCAL ECONOMIC OPPORTUNITIES.
+22 (d) MULTIPLE ANALYSES HAVE ESTABLISHED THAT EXPENSIVE AND
+23 HAZARDOUS RISKS RESULT FROM THE IMPROPER HANDLING AND DISPOSAL
+24 OF PROPULSION BATTERIES; AND
+25 (e) UNWANTED PROPULSION BATTERIES THAT ARE STORED
+26 IMPROPERLY INSTEAD OF BEING SORTED FOR REUSE, REMANUFACTURING,
+27 REPURPOSING, OR ULTIMATE RECYCLING AND RECOVERY OF VALUABLE
+-3- SB26-003
+
+1 MATERIALS COULD POTENTIALLY REDUCE THE ENVIRONMENTAL BENEFITS
+2 OF A ROBUST CIRCULAR ECONOMY FOR PROPULSION BATTERIES WHILE
+3 ALSO INCREASING THE RISK OF BATTERY FIRES. A ROBUST EXTENDED
+4 PROVIDER RESPONSIBILITY POLICY IS NEEDED TO ENABLE A PROPULSION
+5 BATTERY CIRCULAR ECONOMY IN THE STATE.
+6 (2) The general assembly therefore declares that it is in the public
+7 interest of Colorado to:
+8 (a) Require producers of batteries AND PROVIDERS OF PROPULSION
+9 BATTERIES to finance and implement a coordinated, state-approved
+10 system that increases access to the safe disposal of batteries in Colorado;
+11 (b) REDUCE THE INHERENT RISK OF FIRE THAT CAN OCCUR WHEN
+12 PROPULSION BATTERIES ARE IMPROPERLY DISPOSED OF; AND
+13 (c) ENCOURAGE THE REUSE, REMANUFACTURING, AND
+14 REPURPOSING OF PROPULSION BATTERIES AND THE ULTIMATE RECYCLING
+15 OF THE VALUABLE MATERIALS IN A PROPULSION BATTERY THAT CAN BE
+16 PUT BACK INTO THE SUPPLY CHAIN.
+17 SECTION 3. In Colorado Revised Statutes, 25-17-1003, amend
+18 (3), (4), (8)(b)(VI), (25), (26), (28), (29), (30), and (31); and add (1.5),
+19 (2.5), (13.5), (19.5), (23.3), (23.5), (23.7), (26.3), (26.5), (26.7), (32),
+20 (33), (34), (35), (36), (37), (38), (39), and (40) as follows:
+21 25-17-1003. Definitions - rules.
+22 As used in this part 10, unless the context otherwise requires:
+23 (1.5) "BATTERY" MEANS A DEVICE CONSISTING OF ONE OR MORE
+24 ELECTRICALLY CONNECTED ELECTROCHEMICAL CELLS, WHICH DEVICE IS
+25 DESIGNED TO RECEIVE, STORE, AND DELIVER ELECTRIC ENERGY.
+26 (2.5) "BATTERY MANAGEMENT HIERARCHY" MEANS THE PROCESS
+27 OF SECONDARY HANDLERS, SECONDARY USERS, AND PROPULSION BATTERY
+-4- SB26-003
+
+1 PROVIDERS FIRST STRIVING TO REUSE, REPURPOSE, OR REMANUFACTURE
+2 PROPULSION BATTERIES, WHEN DOING SO IS POSSIBLE AND
+3 COST-EFFECTIVE, BEFORE ENGAGING IN RESPONSIBLE END-OF-LIFE
+4 MANAGEMENT VIA A QUALIFIED BATTERY RECYCLER.
+5 (3) "Battery stewardship organization" or "organization" means
+6 a producer OR PROPULSION BATTERY PROVIDER that directly implements
+7 a battery stewardship plan in accordance with this part 10 or a nonprofit
+8 organization designated by a producer or a group of producers, OR BY ONE
+9 OR MORE PROPULSION BATTERY PROVIDERS, to implement a battery
+10 stewardship plan in accordance with this part 10.
+11 (4) "Battery stewardship plan" or "plan" means a plan for:
+12 (a) The collection, transportation, processing, and recycling of
+13 covered batteries submitted to the executive director pursuant to section
+14 25-17-1005 (1); OR
+15 (b) THE COLLECTION, TRANSPORTATION, REUSE,
+16 REMANUFACTURING, REPURPOSING, AND RECYCLING OF PROPULSION
+17 BATTERIES SUBMITTED TO THE EXECUTIVE DIRECTOR PURSUANT TO
+18 SECTION 25-17-1005 (1.5).
+19 (8) (b) "Covered battery" does not include:
+20 (VI) A battery, INCLUDING A PROPULSION BATTERY, assembled by
+21 or for a vehicle manufacturer, or franchised dealer, that is designed to
+22 power a motor vehicle, a part of a motor vehicle, or a component part of
+23 a motor vehicle, including a replacement part for use in a motor vehicle.
+24 (13.5) "END OF LIFE" MEANS THE STAGE WHEN A PROPULSION
+25 BATTERY OR COVERED BATTERY IS RETIRED FROM ITS FIRST APPLICATION.
+26 (19.5) "ORPHANED BATTERY" MEANS A PROPULSION BATTERY OR
+27 REPURPOSED BATTERY THAT HAS AN UNIDENTIFIABLE PROPULSION
+-5- SB26-003
+
+1 BATTERY PROVIDER OR SECONDARY USER OR A PROPULSION BATTERY
+2 PROVIDER OR SECONDARY USER THAT NO LONGER EXISTS.
+3 (23.3) "PROPULSION BATTERY" MEANS A BATTERY THAT IS
+4 PRIMARILY USED TO SUPPLY POWER TO PROPEL AN ELECTRIC OR HYBRID
+5 VEHICLE.
+6 (23.5) (a) "PROPULSION BATTERY PROVIDER" MEANS:
+7 (I) A PERSON THAT FIRST SELLS, OFFERS FOR SALE, OR DISTRIBUTES
+8 A PROPULSION BATTERY OR A VEHICLE CONTAINING A PROPULSION
+9 BATTERY IN OR INTO THE STATE, INCLUDING VEHICLE MANUFACTURERS
+10 LICENSED PURSUANT TO APPLICABLE STATE LAWS OR PROPULSION
+11 BATTERY MANUFACTURERS THAT DISTRIBUTE PROPULSION BATTERIES
+12 UNDER THEIR OWN NAME OR BRAND;
+13 (II) IF THERE IS NOT A PERSON THAT SUBSECTION (23.5)(a)(I) OF
+14 THIS SECTION APPLIES TO, THE OWNER OR LICENSEE OF THE BRAND OR
+15 TRADEMARK UNDER WHICH THE PROPULSION BATTERY IS SOLD, OFFERED
+16 FOR SALE, OR DISTRIBUTED IN OR INTO THE STATE. THIS INCLUDES AN
+17 EXCLUSIVE LICENSEE WITH THE EXCLUSIVE RIGHT TO USE THE BRAND OR
+18 TRADEMARK IN CONNECTION WITH THE DISTRIBUTION OR SALE OF
+19 PROPULSION BATTERIES.
+20 (III) IF THERE IS NOT A PERSON THAT SUBSECTION (23.5)(a)(I) OR
+21 (23.5)(a)(II) OF THIS SECTION APPLIES TO, THE PERSON THAT IMPORTS THE
+22 PROPULSION BATTERY INTO THE STATE FOR SALE, DISTRIBUTION, OR
+23 INSTALLATION; AND
+24 (IV) IF THERE IS NOT A PERSON THAT SUBSECTION (23.5)(a)(I),
+25 (23.5)(a)(II), OR (23.5)(a)(III) OF THIS SECTION APPLIES TO, THE
+26 DISTRIBUTOR, DEALER, OR WHOLESALER THAT SELLS, OFFERS FOR SALE, OR
+27 DISTRIBUTES THE PROPULSION BATTERY IN OR INTO THE STATE.
+-6- SB26-003
+
+1 (b) FOR THE PURPOSES OF THIS SUBSECTION (23.5), THE SALE OF A
+2 PROPULSION BATTERY OCCURS IN THE STATE IF THE PROPULSION BATTERY,
+3 OR THE VEHICLE CONTAINING THE PROPULSION BATTERY, IS DELIVERED TO
+4 A LICENSED DEALER OR DIRECTLY TO A CONSUMER IN THE STATE.
+5 (23.7) (a) "QUALIFIED BATTERY RECYCLER" MEANS AN ENTITY OR
+6 FACILITY THAT:
+7 (I) IS CERTIFIED BY THE DEPARTMENT PURSUANT TO RULES
+8 ESTABLISHED BY THE COMMISSION IN ACCORDANCE WITH SECTION
+9 25-17-1018 (1);
+10 (II) ABIDES BY ALL APPLICABLE FEDERAL, STATE, AND LOCAL
+11 LAWS; AND
+12 (III) EXTRACTS AND SEPARATES A COMPOSITION OF COMPONENTS
+13 FROM AN END-OF-LIFE PROPULSION BATTERY, SUCH AS ALUMINUM,
+14 COBALT, COPPER, GRAPHITE, IRON, LITHIUM COMPOUNDS, MANGANESE,
+15 AND NICKEL, AND SENDS THE MATERIAL FOR FURTHER PROCESSING OR
+16 REFINING TO ANOTHER QUALIFIED BATTERY RECYCLER.
+17 (b) "QUALIFIED BATTERY RECYCLER" INCLUDES AN ENTITY OR
+18 FACILITY THAT MEETS THE SPECIFICATIONS OF SUBSECTION (23.7)(a) OF
+19 THIS SECTION AND RELIES ON A SEPARATE ENTITY OR FACILITY FOR THE
+20 COLLECTION AND SORTING OF PROPULSION BATTERIES.
+21 (c) "QUALIFIED BATTERY RECYCLER" DOES NOT INCLUDE AN
+22 ENTITY OR FACILITY THAT ONLY ENGAGES IN THE COLLECTION OR
+23 LOGISTICS OF MOVING MATERIALS FOR RECYCLING.
+24 (25) (a) "Recycling" has the meaning set forth in section
+25 25-17-703 (37).
+26 (b) "RECYCLING" DOES NOT INCLUDE SMELTING.
+27 (26) "Recycling efficiency rate" means the ratio of the weight of
+-7- SB26-003
+
+1 components and materials recycled by a battery stewardship organization
+2 from covered batteries OR PROPULSION BATTERIES to the weight of
+3 covered batteries OR PROPULSION BATTERIES, RESPECTIVELY, as collected
+4 by the battery stewardship organization.
+5 (26.3) "REMANUFACTURE" MEANS THE PROCESS OF REFURBISHING
+6 END-OF-LIFE BATTERY PACKS, MODULES, OR CELLS TO FULFILL THE SAME
+7 USE THAT WAS ORIGINALLY INTENDED FOR THE BATTERY PACKS,
+8 MODULES, OR CELLS.
+9 (26.5) "REPURPOSE" MEANS THE PROCESS OF MODIFYING A
+10 PROPULSION BATTERY OR PROPULSION BATTERY PACK, MODULE, OR CELL
+11 TO STORE AND SUPPLY ELECTRICITY IN A MANNER OTHER THAN THE
+12 ORIGINAL INTENDED PURPOSE OF THE PROPULSION BATTERY.
+13 (26.7) "RESPONSIBLE END-OF-LIFE MANAGEMENT" MEANS
+14 ENSURING AN END-OF-LIFE PROPULSION BATTERY IS MANAGED PURSUANT
+15 TO THE BATTERY MANAGEMENT HIERARCHY.
+16 (28) "Universal waste" has the meaning set forth in rules adopted
+17 by the commission "REUSE" MEANS THE USE OF A PROPULSION BATTERY
+18 IN ANOTHER VEHICLE.
+19 (29) "Universal waste battery" means a waste battery generated by
+20 a nonresidential entity, such as a business, school, or government agency,
+21 that is managed as universal waste regulated in accordance with the
+22 commission's rules governing standards for universal waste management
+23 "SECONDARY HANDLER" MEANS AN ENTITY OR FACILITY THAT TAKES
+24 POSSESSION OF A PROPULSION BATTERY TO SORT, REUSE,
+25 REMANUFACTURE, OR PREPARE THE PROPULSION BATTERY FOR
+26 REPURPOSING BY A SECONDARY USER OR FOR RESPONSIBLE END-OF-LIFE
+27 MANAGEMENT BY A QUALIFIED BATTERY RECYCLER.
+-8- SB26-003
+
+1 (30) "Universal waste handler" means the owner or operator of a
+2 facility that receives, accumulates, and sends universal waste to another
+3 universal waste handler, a destination facility, or a foreign destination in
+4 accordance with the commission's rules governing standards for universal
+5 waste management "SECONDARY USER" MEANS AN ENTITY THAT
+6 REPURPOSES A PROPULSION BATTERY FOR FURTHER USE.
+7 (31) "Written certification" means written certification by a
+8 producer that:
+9 (a) The producer is a member of a battery stewardship
+10 organization; and
+11 (b) A covered battery or battery-containing product is marked in
+12 accordance with section 25-17-1013 or the rules adopted in accordance
+13 with section 25-17-1013 "SMELTING" MEANS TO MELT OR FUSE A
+14 METALLIFEROUS MINERAL, OFTEN WITH AN ACCOMPANYING CHEMICAL
+15 CHANGE, USUALLY TO SEPARATE THE METAL.
+16 (32) "SOLID WASTE COLLECTOR" MEANS A PERSON THAT OPERATES
+17 COLLECTION ROUTES FOR THE REMOVAL OF SOLID WASTE FROM
+18 RESIDENTIAL, MULTIRESIDENTIAL, COMMERCIAL, OR INDUSTRIAL
+19 PREMISES.
+20 (33) "SOLID WASTE DISPOSAL SITE AND FACILITY" HAS THE SAME
+21 MEANING AS "SOLID WASTES DISPOSAL SITE AND FACILITY" AS DEFINED IN
+22 SECTION 30-20-101 (8).
+23 (34) "STATE OF CHARGE" MEANS THE MEASURE OF A PROPULSION
+24 BATTERY'S REMAINING CAPACITY, EXPRESSED AS A PERCENTAGE OF ITS
+25 TOTAL CAPACITY.
+26 (35) "STATE OF HEALTH" MEANS A CALCULATED PARAMETER THAT
+27 CORRELATES TO USABLE PROPULSION BATTERY ENERGY FOR THE
+-9- SB26-003
+
+1 CERTIFIED RANGE VALUE AND IS NORMALIZED FROM ZERO TO ONE
+2 HUNDRED PERCENT.
+3 (36) "UNIVERSAL WASTE" HAS THE MEANING SET FORTH IN RULES
+4 ADOPTED BY THE COMMISSION.
+5 (37) "UNIVERSAL WASTE BATTERY" MEANS A WASTE BATTERY
+6 GENERATED BY A NONRESIDENTIAL ENTITY, SUCH AS A BUSINESS, SCHOOL,
+7 OR GOVERNMENT AGENCY, THAT IS MANAGED AS UNIVERSAL WASTE
+8 REGULATED IN ACCORDANCE WITH THE COMMISSION'S RULES GOVERNING
+9 STANDARDS FOR UNIVERSAL WASTE MANAGEMENT.
+10 (38) "UNIVERSAL WASTE HANDLER" MEANS THE OWNER OR
+11 OPERATOR OF A FACILITY THAT RECEIVES, ACCUMULATES, AND SENDS
+12 UNIVERSAL WASTE TO ANOTHER UNIVERSAL WASTE HANDLER, A
+13 DESTINATION FACILITY, OR A FOREIGN DESTINATION IN ACCORDANCE WITH
+14 THE COMMISSION'S RULES GOVERNING STANDARDS FOR UNIVERSAL WASTE
+15 MANAGEMENT.
+16 (39) "UNWANTED PROPULSION BATTERY" MEANS A PROPULSION
+17 BATTERY THAT IS NO LONGER WANTED BY THE OWNER AND IS THUS
+18 REQUIRED TO BE COLLECTED BY A BATTERY STEWARDSHIP ORGANIZATION
+19 FOR RESPONSIBLE END-OF-LIFE MANAGEMENT.
+20 (40) "WRITTEN CERTIFICATION" MEANS WRITTEN CERTIFICATION
+21 BY A PRODUCER THAT:
+22 (a) THE PRODUCER IS A MEMBER OF A BATTERY STEWARDSHIP
+23 ORGANIZATION; AND
+24 (b) A COVERED BATTERY OR BATTERY-CONTAINING PRODUCT IS
+25 MARKED IN ACCORDANCE WITH SECTION 25-17-1013 OR THE RULES
+26 ADOPTED IN ACCORDANCE WITH SECTION 25-17-1013.
+27 SECTION 4. In Colorado Revised Statutes, 25-17-1004, amend
+-10- SB26-003
+
+1 (2)(e)(I) and (3); and add (1.5) as follows:
+2 25-17-1004. Requirement that producers and propulsion
+3 battery providers participate in a battery stewardship plan - retailer
+4 and propulsion battery provider requirements - no point-of-sale fees.
+5 (1.5) ON AND AFTER AUGUST 1, 2028:
+6 (a) A PROPULSION BATTERY PROVIDER SELLING, MAKING
+7 AVAILABLE FOR SALE, OR DISTRIBUTING PROPULSION BATTERIES OR
+8 VEHICLES CONTAINING A PROPULSION BATTERY IN OR INTO THE STATE
+9 SHALL PARTICIPATE IN AND FINANCE A BATTERY STEWARDSHIP
+10 ORGANIZATION THAT HAS SUBMITTED A PLAN PURSUANT TO SECTION
+11 25-17-1005 (1.5); AND
+12 (b) A PROPULSION BATTERY PROVIDER SHALL NOT SELL, MAKE
+13 AVAILABLE FOR SALE, OR DISTRIBUTE PROPULSION BATTERIES IN OR INTO
+14 THE STATE UNLESS THAT PROPULSION BATTERY PROVIDER PARTICIPATES
+15 IN A BATTERY STEWARDSHIP ORGANIZATION AND A BATTERY
+16 STEWARDSHIP PLAN.
+17 (2) (e) (I) (A) A battery stewardship organization IMPLEMENTING
+18 A BATTERY STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED
+19 BATTERIES shall make information available to a retailer for voluntary use
+20 that the retailer may use to inform customers of available end-of-life
+21 management options for covered batteries collected by the battery
+22 stewardship organization, which information must include in-store
+23 signage, written materials, and other promotional materials.
+24 (B) A BATTERY STEWARDSHIP ORGANIZATION IMPLEMENTING A
+25 BATTERY STEWARDSHIP PLAN ON BEHALF OF PROPULSION BATTERY
+26 PROVIDERS SHALL MAKE INFORMATION AVAILABLE TO A PROPULSION
+27 BATTERY PROVIDER FOR VOLUNTARY USE TO INFORM CUSTOMERS OF
+-11- SB26-003
+
+1 AVAILABLE END-OF-LIFE MANAGEMENT OPTIONS FOR PROPULSION
+2 BATTERIES COLLECTED BY THE BATTERY STEWARDSHIP ORGANIZATION,
+3 WHICH INFORMATION MUST INCLUDE IN-STORE SIGNAGE, WRITTEN
+4 MATERIALS, AND OTHER PROMOTIONAL MATERIALS.
+5 (3) A retailer, producer, PROPULSION BATTERY PROVIDER, or
+6 battery stewardship organization shall not charge a point-of-sale fee to
+7 consumers to cover the administrative or operational costs of a battery
+8 stewardship organization or a battery stewardship program.
+9 SECTION 5. In Colorado Revised Statutes, 25-17-1005, amend
+10 (2), (3)(c), and (3)(e); and add (1.5) as follows:
+11 25-17-1005. Battery stewardship plans - review and approval
+12 by the executive director.
+13 (1.5) NO LATER THAN APRIL 1, 2028, AND EVERY FIVE YEARS
+14 THEREAFTER, A BATTERY STEWARDSHIP ORGANIZATION SHALL SUBMIT TO
+15 THE EXECUTIVE DIRECTOR A PLAN FOR THE COLLECTION,
+16 TRANSPORTATION, PROCESSING, REUSE, REPURPOSING, AND RECYCLING OF
+17 PROPULSION BATTERIES UNDER A BATTERY STEWARDSHIP PROGRAM. THE
+18 EXECUTIVE DIRECTOR SHALL REVIEW AND APPROVE, DISAPPROVE, OR
+19 CONDITIONALLY APPROVE A PLAN BASED ON WHETHER THE PLAN:
+20 (a) LISTS AND PROVIDES CONTACT INFORMATION FOR EACH
+21 PROPULSION BATTERY PROVIDER COVERED BY THE PLAN;
+22 (b) INCLUDES SAFETY TRAINING PROCEDURES RELATED TO
+23 PROPULSION BATTERY COLLECTION ACTIVITIES, INCLUDING A DESCRIPTION
+24 OF OPERATING PROTOCOLS TO REDUCE THE RISK OF FIRE, RESPONSE
+25 PROTOCOLS IN THE EVENT OF A FIRE, AND PROTOCOLS FOR SAFE
+26 MANAGEMENT OF DAMAGED OR DEFECTIVE PROPULSION BATTERIES THAT
+27 ARE RETURNED;
+-12- SB26-003
+
+1 (c) DESCRIBES A METHOD TO ESTABLISH AND ADMINISTER A
+2 MEANS FOR FULLY FUNDING THE PROGRAM IN A MANNER THAT EQUITABLY
+3 DISTRIBUTES THE PROGRAM'S COSTS AMONG THE PROPULSION BATTERY
+4 PROVIDERS PARTICIPATING IN THE ORGANIZATION, INCLUDING A
+5 DESCRIPTION OF THE CHARGES COLLECTED FROM PROPULSION BATTERY
+6 PROVIDERS PURSUANT TO SECTION 25-17-1012. IF A PROPULSION BATTERY
+7 PROVIDER CHOOSES TO DIRECTLY IMPLEMENT A PLAN INDIVIDUALLY
+8 WITHOUT DESIGNATING A NONPROFIT ORGANIZATION, THE PLAN MUST
+9 DESCRIBE THE PROPOSED METHOD TO ESTABLISH AND ADMINISTER A
+10 MEANS FOR FULLY FUNDING THE PROGRAM.
+11 (d) DESCRIBES HOW THE PROGRAM WILL COLLECT PROPULSION
+12 BATTERIES ON A FREE, CONTINUOUS, AND CONVENIENT BASIS;
+13 (e) IDENTIFIES PROPOSED SERVICE PROVIDERS, SUCH AS SORTERS,
+14 COLLECTORS, TRANSPORTERS, REFURBISHERS, REPURPOSERS, AND
+15 QUALIFIED BATTERY RECYCLERS, TO BE USED BY THE PROGRAM FOR THE
+16 FINAL DISPOSITION OF PROPULSION BATTERIES AND PROPOSED PROVISIONS
+17 FOR RECORD KEEPING, TRACKING, AND DOCUMENTING THE FATE OF
+18 COLLECTED PROPULSION BATTERIES; AND
+19 (f) DETAILS HOW THE PROGRAM WILL ACHIEVE A RECYCLING
+20 EFFICIENCY RATE OF AT LEAST SIXTY PERCENT.
+21 (2) A battery stewardship organization IMPLEMENTING A BATTERY
+22 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+23 must provide plan amendments to the executive director for approval
+24 when proposing changes to the performance goals described in section
+25 25-17-1006 based on the experience of the program, including the
+26 experience of the program during the six months before the submission
+27 of the amendments, or when there is a change to the method of financing
+-13- SB26-003
+
+1 the program pursuant to section 25-17-1007 (1).
+2 (3) (c) If a revised plan is disapproved by the executive director,
+3 a producer OR PROPULSION BATTERY PROVIDER operating under the plan
+4 is not in compliance with this part 10 until the executive director approves
+5 a plan submitted by an organization that covers the producer or the
+6 producer's battery brand or battery-containing product brand OR THE
+7 PROPULSION BATTERY PROVIDER.
+8 (e) A battery stewardship organization shall provide written
+9 notification to the executive director within thirty days after a producer
+10 OR PROPULSION BATTERY PROVIDER begins to participate or ceases to
+11 participate in the organization or after the adding or removing of a
+12 processor or transporter.
+13 SECTION 6. In Colorado Revised Statutes, 25-17-1006, amend
+14 (1) introductory portion and (2) as follows:
+15 25-17-1006. Performance goals.
+16 (1) A battery stewardship plan FOR COVERED BATTERIES must
+17 include performance goals that measure, on an annual basis, the
+18 achievements of the battery stewardship program, including:
+19 (2) A battery stewardship organization IMPLEMENTING A BATTERY
+20 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+21 shall meet the performance goals established pursuant to the
+22 organization's approved plan and shall not reduce or cease collection,
+23 education and outreach, or other activities implemented under an
+24 approved plan based on the achievement of performance goals.
+25 SECTION 7. In Colorado Revised Statutes, 25-17-1007, amend
+26 (1)(a) introductory portion, (1)(a)(I), (2)(a) introductory portion, (2)(a)(I),
+27 and (2)(c) as follows:
+-14- SB26-003
+
+1 25-17-1007. Collection of charges - reimbursement of
+2 collection sites and electronic waste recyclers.
+3 (1) (a) A battery stewardship organization implementing a battery
+4 stewardship plan on behalf of producers OR PROPULSION BATTERY
+5 PROVIDERS shall develop and administer a system to collect charges from
+6 participating producers OR PROPULSION BATTERY PROVIDERS, AS
+7 APPLICABLE, to cover the costs of program implementation, including:
+8 (I) Covered battery OR PROPULSION BATTERY collection, sortation,
+9 transportation, processing, and recycling in a manner that is safe for
+10 public health and the environment;
+11 (2) (a) A battery stewardship organization IMPLEMENTING A
+12 BATTERY STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED
+13 BATTERIES shall reimburse a participating collection site, as described in
+14 section 25-17-1008, for:
+15 (I) Demonstrable costs incurred by a local government serving as
+16 a collection site, a solid waste DISPOSAL SITE AND facility, or a local
+17 government's designated collection site as a result of implementing a
+18 battery stewardship program, including associated labor costs and other
+19 costs associated with accessibility and collection site standards such as
+20 storage; and
+21 (c) A battery stewardship organization IMPLEMENTING A BATTERY
+22 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+23 shall, at a minimum, provide collection sites with appropriate containers
+24 for covered batteries subject to its program as well as training, signage,
+25 safety guidance, and educational materials at no cost to the collection
+26 sites.
+27 SECTION 8. In Colorado Revised Statutes, 25-17-1008, amend
+-15- SB26-003
+
+1 (1), (2)(a) introductory portion, (4)(a)(I) introductory portion, (4)(a)(II),
+2 and (6)(a); and add (7) as follows:
+3 25-17-1008. Collection site requirements - statewide collection
+4 opportunities - minimum amount of collection sites - collection and
+5 recycling requirements for propulsion batteries.
+6 (1) (a) A battery stewardship organization implementing a battery
+7 stewardship plan ON BEHALF OF PRODUCERS OF COVERED BATTERIES shall
+8 provide the collection of covered batteries, including all types and brands
+9 of covered batteries, on a free, continuous, convenient, visible, and
+10 accessible basis to any person.
+11 (b) Except as provided in subsection (3) of this section, a battery
+12 stewardship plan FOR COVERED BATTERIES must arrange for the collection
+13 of each type and brand of covered battery from a person at a collection
+14 site in accordance with the statewide collection opportunities described
+15 in subsections (4)(b) and (4)(c) of this section.
+16 (2) (a) For each collection site used by a battery stewardship
+17 program FOR COVERED BATTERIES, the battery stewardship organization
+18 implementing the program shall:
+19 (4) (a) (I) A battery stewardship organization implementing a
+20 battery stewardship plan ON BEHALF OF PRODUCERS OF COVERED
+21 BATTERIES shall:
+22 (II) A battery stewardship organization IMPLEMENTING A BATTERY
+23 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+24 shall determine statewide collection opportunities through geographic
+25 information modeling that considers permanent collection sites.
+26 (6) (a) If cost-effective, mutually agreeable, and otherwise
+27 practicable, a battery stewardship organization shall use existing public
+-16- SB26-003
+
+1 and private waste collection services and facilities in implementing a
+2 battery stewardship program ON BEHALF OF PRODUCERS OF COVERED
+3 BATTERIES, including collection sites that are established through other
+4 battery collection services, transporters, consolidators, processors,
+5 electronic waste recyclers, and retailers.
+6 (7) A BATTERY STEWARDSHIP ORGANIZATION IMPLEMENTING A
+7 BATTERY STEWARDSHIP PLAN ON BEHALF OF PROPULSION BATTERY
+8 PROVIDERS SHALL:
+9 (a) UPON RECEIVING NOTIFICATION THAT A PROPULSION BATTERY
+10 NEEDS COLLECTION, RETRIEVE THE BATTERY AND ENSURE RESPONSIBLE
+11 END-OF-LIFE MANAGEMENT IN A TIMELY AND SAFE MANNER;
+12 (b) ENSURE THE RESPONSIBLE END-OF-LIFE MANAGEMENT OF A
+13 PROPULSION BATTERY THAT IS RETURNED DIRECTLY TO A PROPULSION
+14 BATTERY PROVIDER IN ACCORDANCE WITH THE BATTERY MANAGEMENT
+15 HIERARCHY; AND
+16 (c) COORDINATE WITH QUALIFIED BATTERY RECYCLERS FOR THE
+17 RESPONSIBLE END-OF-LIFE MANAGEMENT OF PROPULSION BATTERIES TO
+18 ENSURE COMPLIANCE WITH THIS PART 10.
+19 SECTION 9. In Colorado Revised Statutes, 25-17-1009, amend
+20 (1) as follows:
+21 25-17-1009. Assessment of battery-containing products
+22 required.
+23 (1) On or before December 1, 2028, a battery stewardship
+24 organization IMPLEMENTING A BATTERY STEWARDSHIP PLAN ON BEHALF
+25 OF PRODUCERS OF COVERED BATTERIES shall complete an assessment of
+26 the opportunities and challenges associated with the end-of-life
+27 management of portable and medium-format embedded batteries in the
+-17- SB26-003
+
+1 state. A battery stewardship organization should, to the extent feasible,
+2 extrapolate findings from related studies, including those conducted
+3 within Colorado, and apply the findings to the assessment for Colorado.
+4 SECTION 10. In Colorado Revised Statutes, 25-17-1010, amend
+5 (1) introductory portion, (2) introductory portion, (3), (4), and (6); and
+6 add (7) as follows:
+7 25-17-1010. Education and outreach requirements -
+8 coordination with other battery stewardship organizations - survey
+9 of public awareness.
+10 (1) A battery stewardship organization IMPLEMENTING A BATTERY
+11 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+12 shall carry out promotional activities in support of the implementation of
+13 a battery stewardship program, including:
+14 (2) A battery stewardship organization IMPLEMENTING A BATTERY
+15 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+16 shall provide:
+17 (3) A battery stewardship organization IMPLEMENTING A BATTERY
+18 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+19 may seek reimbursement from the producer of a recalled battery for
+20 expenses incurred in the collection, transportation, and processing of the
+21 recalled battery.
+22 (4) Upon request by a retailer or other potential collector, a battery
+23 stewardship organization IMPLEMENTING A BATTERY STEWARDSHIP PLAN
+24 ON BEHALF OF PRODUCERS OF COVERED BATTERIES shall provide the
+25 retailer or other potential collector educational materials describing
+26 collection opportunities for batteries.
+27 (6) During the first year of program implementation, and every
+-18- SB26-003
+
+1 five years thereafter, a battery stewardship organization IMPLEMENTING
+2 A BATTERY STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED
+3 BATTERIES shall carry out, in coordination with the other approved battery
+4 stewardship organizations, a survey of public awareness regarding the
+5 requirements of the program established pursuant to this part 10. The
+6 battery stewardship organization shall share the results of the public
+7 awareness survey with the executive director through the annual reporting
+8 process described in section 25-17-1011.
+9 (7) A BATTERY STEWARDSHIP ORGANIZATION IMPLEMENTING A
+10 BATTERY STEWARDSHIP PLAN ON BEHALF OF PROPULSION BATTERY
+11 PROVIDERS SHALL:
+12 (a) DEVELOP AND MAINTAIN A WEBSITE; AND
+13 (b) PROVIDE ON THE WEBSITE:
+14 (I) EDUCATIONAL AND PROMOTIONAL MATERIALS TO PROPULSION
+15 BATTERY PROVIDERS, SOLID WASTE COLLECTORS, AND RECYCLING
+16 COLLECTORS;
+17 (II) SAFETY INFORMATION RELATED TO BATTERY STORAGE AND
+18 COLLECTION ACTIVITIES, INCLUDING APPROPRIATE PROTOCOLS TO REDUCE
+19 RISKS OF FIRES, RESPONSE PROTOCOLS IN THE EVENT OF A FIRE, AND
+20 RESPONSE PROTOCOLS IN THE EVENT OF DETECTION OF A DAMAGED OR
+21 DEFECTIVE PROPULSION BATTERY; AND
+22 (III) SAFETY TRAINING MATERIALS FOR FIREFIGHTERS AND FIRST
+23 RESPONDERS RELATED TO PROPULSION BATTERY FIRES, RESPONSE
+24 PROTOCOLS IN THE EVENT OF A PROPULSION BATTERY FIRE, AND
+25 PROTOCOLS FOR SAFE MANAGEMENT OF DAMAGED OR DEFECTIVE
+26 PROPULSION BATTERIES.
+27 SECTION 11. In Colorado Revised Statutes, 25-17-1011, amend
+-19- SB26-003
+
+1 (1) introductory portion; and add (4), (5), and (6) as follows:
+2 25-17-1011. Annual reporting requirements - proprietary
+3 information.
+4 (1) On or before June 1, 2029, and on or before each June 1
+5 thereafter, a battery stewardship organization IMPLEMENTING A BATTERY
+6 STEWARDSHIP PLAN ON BEHALF OF PRODUCERS OF COVERED BATTERIES
+7 shall submit an annual report to the executive director covering the
+8 preceding calendar year of battery stewardship plan implementation. The
+9 report must include the following:
+10 (4) ON OR BEFORE JUNE 1, 2030, AND ON OR BEFORE EACH JUNE 1
+11 THEREAFTER, A BATTERY STEWARDSHIP ORGANIZATION IMPLEMENTING A
+12 BATTERY STEWARDSHIP PLAN ON BEHALF OF PROPULSION BATTERY
+13 PROVIDERS SHALL SUBMIT AN ANNUAL REPORT TO THE EXECUTIVE
+14 DIRECTOR COVERING THE PRECEDING CALENDAR YEAR OF BATTERY
+15 STEWARDSHIP PLAN IMPLEMENTATION. THE REPORT MUST INCLUDE THE
+16 FOLLOWING:
+17 (a) A FINANCIAL ASSESSMENT OF THE PROGRAM IMPLEMENTED BY
+18 THE ORGANIZATION, INCLUDING A BREAKDOWN OF THE PROGRAM'S
+19 EXPENSES, SUCH AS COLLECTION EXPENSES, RECYCLING EXPENSES,
+20 EDUCATION AND OUTREACH EXPENSES, AND OVERHEAD EXPENSES;
+21 (b) A SUMMARY FINANCIAL STATEMENT DOCUMENTING THE
+22 FINANCING OF THE ORGANIZATION'S PROGRAM AND AN ANALYSIS OF
+23 PROGRAM COSTS AND EXPENDITURES, INCLUDING AN ANALYSIS OF THE
+24 PROGRAM'S EXPENSES, SUCH AS EXPENSES FOR COLLECTION,
+25 TRANSPORTATION, RECYCLING, EDUCATION, AND ADMINISTRATIVE
+26 OVERHEAD. THE SUMMARY FINANCIAL STATEMENT MUST BE SUFFICIENTLY
+27 DETAILED TO SHOW THAT THE CHARGES COLLECTED FROM PROPULSION
+-20- SB26-003
+
+1 BATTERY PROVIDERS AS A RESULT OF THE PROVIDERS' ACTIVITIES IN THE
+2 STATE ARE SPENT ON PROGRAM IMPLEMENTATION IN THE STATE. IF THE
+3 ORGANIZATION IS IMPLEMENTING SIMILAR PROGRAMS IN MULTIPLE
+4 STATES, THE ORGANIZATION MAY SUBMIT A FINANCIAL STATEMENT
+5 INCLUDING ALL COVERED STATES, AS LONG AS THE STATEMENT BREAKS
+6 OUT FINANCIAL INFORMATION PERTINENT TO COLORADO.
+7 (c) THE WEIGHT, BY CHEMISTRY, OF PROPULSION BATTERIES
+8 COLLECTED UNDER THE PROGRAM;
+9 (d) THE WEIGHT OF MATERIALS RECYCLED FROM PROPULSION
+10 BATTERIES COLLECTED UNDER THE PROGRAM, IN TOTAL AND BY METHOD
+11 OF REUSE, REMANUFACTURING, REPURPOSING, AND BATTERY RECYCLING
+12 AND BY QUALIFIED BATTERY RECYCLER;
+13 (e) THE RECYCLING EFFICIENCY RATE FOR RECYCLED PROPULSION
+14 BATTERIES, THE RECOVERY OF MATERIALS FROM RECYCLED PROPULSION
+15 BATTERIES, AND THE YIELD OF THE FINAL OUTPUT FRACTIONS OF CRITICAL
+16 MINERALS, INCLUDING LITHIUM, COBALT, NICKEL, AND COPPER, OR OTHER
+17 RELEVANT METALS, AS APPLICABLE;
+18 (f) A LIST OF ALL FACILITIES USED IN THE PROCESSING OF
+19 PROPULSION BATTERIES, INCLUDING IDENTIFICATION OF A FACILITY'S
+20 LOCATION AND WHETHER THE FACILITY IS LOCATED DOMESTICALLY;
+21 (g) FOR EACH FACILITY USED IN THE RESPONSIBLE END-OF-LIFE
+22 MANAGEMENT OF PROPULSION BATTERIES, A DESCRIPTION OF HOW THE
+23 FACILITY MANAGED PROPULSION BATTERIES AND PROPULSION BATTERY
+24 COMPONENTS;
+25 (h) THE ESTIMATED AGGREGATE SALES, BY WEIGHT AND
+26 CHEMISTRY, OF PROPULSION BATTERIES SOLD, OFFERED FOR SALE, OR
+27 DISTRIBUTED IN OR INTO THE STATE BY PARTICIPATING PROPULSION
+-21- SB26-003
+
+1 BATTERY PROVIDERS FOR EACH OF THE FIVE YEARS IMMEDIATELY
+2 PRECEDING THE SUBMISSION OF THE ANNUAL REPORT; AND
+3 (i) A DESCRIPTION OF THE METHODS USED TO COLLECT,
+4 TRANSPORT, AND RECYCLE PROPULSION BATTERIES BY THE
+5 ORGANIZATION.
+6 (5) THE WEIGHT OF PROPULSION BATTERIES OR RECOVERED
+7 RESOURCES FROM THOSE BATTERIES SHALL BE COUNTED ONLY ONCE
+8 TOWARD AN ORGANIZATION'S RECYCLING EFFICIENCY RATE AND FOR THE
+9 PURPOSES OF COLLECTING CHARGES PURSUANT TO SECTION 25-17-1007
+10 (1)(a) AND SHALL NOT BE COUNTED BY MORE THAN ONE BATTERY
+11 STEWARDSHIP ORGANIZATION.
+12 (6) THE EXECUTIVE DIRECTOR AND A BATTERY STEWARDSHIP
+13 ORGANIZATION SHALL KEEP PROPRIETARY INFORMATION PROVIDED BY A
+14 PROPULSION BATTERY PROVIDER CONFIDENTIAL AND MAKE AGGREGATED
+15 INFORMATION AVAILABLE UPON REQUEST.
+16 SECTION 12. In Colorado Revised Statutes, 25-17-1012, amend
+17 (2)(d)(III), (2)(d)(IV), and (2)(d)(V) as follows:
+18 25-17-1012. Annual fee - battery stewardship fund -
+19 responsibilities of the executive director.
+20 (2) (d) The department shall use funds collected pursuant to this
+21 section to provide direct services to battery stewardship organizations
+22 with an approved plan to ensure effective program oversight, compliance
+23 support, and public engagement. Such services include:
+24 (III) Providing, upon request, a list of approved battery
+25 stewardship organizations, participating producers AND PROPULSION
+26 BATTERY PROVIDERS, and compliant retailers to increase consumer
+27 awareness and promote participation in a battery stewardship program;
+-22- SB26-003
+
+1 (IV) Offering technical assistance, including regulatory guidance,
+2 best practices for collection site operations, and support for retailers, and
+3 producers, AND PROPULSION BATTERY PROVIDERS navigating compliance
+4 requirements;
+5 (V) Collaborating with approved battery stewardship
+6 organizations to address operational challenges; facilitate coordination
+7 between producers, recyclers, PROPULSION BATTERY PROVIDERS, and local
+8 governments; and ensure continuous program improvement; and
+9 SECTION 13. In Colorado Revised Statutes, 25-17-1013, add (3)
+10 as follows:
+11 25-17-1013. Marking and labeling requirements for batteries
+12 - rules.
+13 (3) ON AND AFTER AUGUST 1, 2028, A PROPULSION BATTERY
+14 PROVIDER SHALL NOT SELL, OFFER FOR SALE, OR DISTRIBUTE IN OR INTO
+15 THE STATE A PROPULSION BATTERY UNLESS THE PROPULSION BATTERY
+16 PROVIDER:
+17 (a) APPLIES A UNIQUE IDENTIFIER AS A PERMANENT LABEL TO THE
+18 PROPULSION BATTERY THAT IS VISIBLE ONCE THE BATTERY IS REMOVED
+19 FROM A VEHICLE. THE LABEL MUST INCLUDE THE FOLLOWING:
+20 (I) AN IDENTIFICATION OF THE CHEMISTRY OF THE PROPULSION
+21 BATTERY, INCLUDING THE CATHODE TYPE AND ANODE TYPE, IN
+22 ACCORDANCE WITH SAE INTERNATIONAL'S STANDARD J2984, "CHEMICAL
+23 IDENTIFICATION OF TRANSPORTATION BATTERIES FOR RECYCLING";
+24 (II) THE NAME OF THE PROPULSION BATTERY PROVIDER, OR THE
+25 SECONDARY USER WITH RESPECT TO A REPURPOSED BATTERY,
+26 RESPONSIBLE FOR THE PROPULSION BATTERY AND ITS DATE OF
+27 MANUFACTURE;
+-23- SB26-003
+
+1 (III) THE MINIMUM VOLTAGE OF THE BATTERY PACK;
+2 (IV) THE RATED CAPACITY AS MEASURED BY SAE
+3 INTERNATIONAL'S STANDARD J2288, "LIFE CYCLE TESTING OF ELECTRIC
+4 VEHICLE BATTERY MODULES";
+5 (V) THE NUMBER OF CELLS IN THE PROPULSION BATTERY;
+6 (VI) ANY HAZARDOUS SUBSTANCES CONTAINED IN THE
+7 PROPULSION BATTERY;
+8 (VII) PRODUCT SAFETY AND RECALL INFORMATION;
+9 (VIII) SAFE DISPOSAL AND BATTERY RETURN INFORMATION; AND
+10 (IX) A DIGITAL IDENTIFIER THAT IS LINKED TO A DATA
+11 REPOSITORY. IN LIEU OF A UNIQUE DIGITAL IDENTIFIER OR ENTRY IN THE
+12 DATA REPOSITORY WEBSITE FOR EACH SEPARATE DATE OF MANUFACTURE
+13 INCLUDED ON THE LABEL, A PROPULSION BATTERY PROVIDER MAY UTILIZE
+14 A COMMON DIGITAL IDENTIFIER, LINKED TO A COMMON DATA REPOSITORY
+15 WEBSITE, COVERING A PERIOD OF TIME REPRESENTING MULTIPLE DATES OF
+16 MANUFACTURE.
+17 (b) ENSURES THAT BATTERY STATE OF HEALTH DATA ARE EASILY
+18 INTERPRETABLE AND ACCESSIBLE TO SECONDARY HANDLERS AND
+19 SECONDARY USERS WHILE THE PROPULSION BATTERY IS INSIDE A VEHICLE
+20 AND THAT THE LAST AVAILABLE STATE OF HEALTH AND STATE OF CHARGE
+21 DATA, AND ANY INSTANCES OF OVERHEATING, OVERCHARGING, OR OTHER
+22 FAULTS, ARE ACCESSIBLE ONCE THE PROPULSION BATTERY HAS BEEN
+23 REMOVED FROM THE VEHICLE.
+24 SECTION 14. In Colorado Revised Statutes, 25-17-1014, amend
+25 (2)(d); and add (3) and (4) as follows:
+26 25-17-1014. Battery disposal and collection requirements -
+27 landfill disposal prohibited.
+-24- SB26-003
+
+1 (2) On and after January 1, 2030:
+2 (d) An owner or operator of a solid waste DISPOSAL SITE AND
+3 facility does not violate this section if the facility has posted in a
+4 conspicuous location a sign stating that covered batteries must be
+5 managed through collection sites established by a battery stewardship
+6 organization and are not accepted for disposal; and
+7 (3) ON AND AFTER AUGUST 1, 2028, A PERSON SHALL MANAGE AN
+8 UNWANTED PROPULSION BATTERY BY:
+9 (a) RETURNING OR DELIVERING THE PROPULSION BATTERY OR THE
+10 VEHICLE CONTAINING THE PROPULSION BATTERY TO THE PROPULSION
+11 BATTERY PROVIDER, THE SECONDARY USER, OR A BATTERY STEWARDSHIP
+12 ORGANIZATION;
+13 (b) NOTIFYING THE PROPULSION BATTERY PROVIDER, THE
+14 SECONDARY USER, OR A BATTERY STEWARDSHIP ORGANIZATION AND
+15 COORDINATING TIMELY AND SAFE PICKUP OF THE PROPULSION BATTERY BY
+16 THE BATTERY STEWARDSHIP ORGANIZATION; OR
+17 (c) SELLING OR TRANSFERRING THE PROPULSION BATTERY OR THE
+18 VEHICLE CONTAINING THE PROPULSION BATTERY TO A SECONDARY
+19 HANDLER, SECONDARY USER, OR QUALIFIED BATTERY RECYCLER.
+20 (4) ON AND AFTER AUGUST 1, 2028:
+21 (a) ALL PROPULSION BATTERIES IN THE STATE MUST BE MANAGED
+22 RESPONSIBLY AT END OF LIFE IN ACCORDANCE WITH THIS PART 10;
+23 (b) PROPULSION BATTERIES THAT ARE HAZARDOUS WASTE AS
+24 DEFINED UNDER FEDERAL OR STATE HAZARDOUS OR SOLID WASTE LAWS
+25 MUST BE MANAGED IN A MANNER CONSISTENT WITH THOSE LAWS; AND
+26 (c) A PERSON SHALL NOT DISPOSE OF A PROPULSION BATTERY BY
+27 TAKING THE PROPULSION BATTERY TO A LANDFILL.
+-25- SB26-003
+
+1 SECTION 15. In Colorado Revised Statutes, amend 25-17-1015
+2 as follows:
+3 25-17-1015. Enforcement - responsibilities of the department
+4 - study - repeal.
+5 (1) For violations related to covered batteries and the management
+6 of universal waste pursuant to this part 10, the enforcement process is
+7 conducted pursuant to section 25-15-308 and rules adopted by the
+8 commission in accordance with section 25-15-302.
+9 (2) TO IMPLEMENT THIS PART 10, THE DEPARTMENT SHALL:
+10 (a) NOTIFY SECONDARY HANDLERS, SECONDARY USERS, AND SOLID
+11 WASTE COLLECTORS THAT THE DISPOSAL OF PROPULSION BATTERIES IN
+12 LANDFILLS IS PROHIBITED AND THAT A BATTERY STEWARDSHIP
+13 ORGANIZATION CAN BE CONTACTED TO TAKE RESPONSIBILITY FOR AN
+14 UNWANTED PROPULSION BATTERY; AND
+15 (b) DETERMINE HOW TO PROCEED IF THE FEDERAL GOVERNMENT
+16 ENACTS A LAW OR ADOPTS REGULATIONS PERTAINING TO PROPULSION
+17 BATTERIES THAT MAY IMPACT THE REQUIREMENTS OF THIS PART 10.
+18 (3) THE DEPARTMENT SHALL:
+19 (a) INCLUDE THE DATA COLLECTED ON PROPULSION BATTERIES
+20 PURSUANT TO THIS PART 10 WITH THE DATA ON RECYCLING, SOLID WASTE,
+21 AND SOLID WASTE DIVERSION THAT IS COLLECTED AND REPORTED
+22 ANNUALLY BY THE DEPARTMENT TO THE STANDING COMMITTEE OF
+23 REFERENCE IN EACH HOUSE OF THE GENERAL ASSEMBLY EXERCISING
+24 JURISDICTION OVER MATTERS CONCERNING PUBLIC HEALTH AND THE
+25 ENVIRONMENT PURSUANT TO SECTION 30-20-122 (1); AND
+26 (b) ANNUALLY POST ON THE DEPARTMENT'S PUBLIC WEBSITE
+27 AGGREGATED DATA ON THE DISPOSITION OF PROPULSION BATTERIES
+-26- SB26-003
+
+1 REMOVED FROM VEHICLES, INCLUDING DATA ON THE NUMBER OF THE
+2 REMOVED PROPULSION BATTERIES SOLD OR DISTRIBUTED FOR REUSING,
+3 REMANUFACTURING, REPURPOSING, OR RECYCLING. THE DEPARTMENT
+4 SHALL NOT DISCLOSE PROPRIETARY OR CONFIDENTIAL INFORMATION.
+5 (4) NOTHING IN THIS PART 10 EXEMPTS A PERSON FROM
+6 COMPLYING WITH ANY OTHER APPLICABLE LOCAL, STATE, OR FEDERAL
+7 LAWS OR REGULATORY REQUIREMENTS.
+8 (5) (a) THE DEPARTMENT SHALL:
+9 (I) CONDUCT A STUDY TO DETERMINE WHETHER THERE IS
+10 EVIDENCE OF ABANDONMENT OF ORPHANED BATTERIES AND ANALYZE
+11 TRENDS IN THE PREVALENCE OF ORPHANED BATTERIES; AND
+12 (II) ON OR BEFORE JANUARY 1, 2031, POST A REPORT INCLUDING
+13 THE STUDY'S FINDINGS ON THE DEPARTMENT'S PUBLIC WEBSITE.
+14 (b) THIS SUBSECTION (5) IS REPEALED, EFFECTIVE JANUARY 1,
+15 2033.
+16 SECTION 16. In Colorado Revised Statutes, amend 25-17-1018
+17 as follows:
+18 25-17-1018. Rules. (1) (a) The commission may adopt rules
+19 implementing this part 10. NO LATER THAN JULY 1, 2027, THE
+20 COMMISSION SHALL ADOPT RULES ESTABLISHING A PROCESS FOR THE
+21 DEPARTMENT TO CERTIFY A QUALIFIED BATTERY RECYCLER, WHICH
+22 PROCESS MUST INCLUDE:
+23 (I) A REASONABLE STANDARD OF REVIEW;
+24 (II) AN APPEALS PROCESS FOR AN APPLICANT DENIED
+25 CERTIFICATION;
+26 (III) THE ABILITY FOR AN APPLICANT DENIED CERTIFICATION TO
+27 CURE IDENTIFIED DEFICIENCIES AND BE REEVALUATED FOR CERTIFICATION;
+-27- SB26-003
+
+1 (IV) REQUIRING A POTENTIAL QUALIFIED BATTERY RECYCLER TO
+2 DEMONSTRATE THAT EMPLOYEES UNDERGO MANDATORY SAFETY
+3 TRAINING TO ENSURE THE PROPER MANAGEMENT AND RECYCLING OF
+4 PROPULSION BATTERIES. THE DEPARTMENT MAY REQUIRE, DEVELOP, OR
+5 SELECT APPROPRIATE TRAINING MODULES OR MAY ALLOW A POTENTIAL
+6 QUALIFIED BATTERY RECYCLER TO SUBMIT ITS OWN SAFETY TRAINING
+7 PLAN FOR APPROVAL.
+8 (V) REASSESSMENT AND RECERTIFICATION TIME FRAMES.
+9 (b) IN ESTABLISHING THE REQUIREMENTS FOR A QUALIFIED
+10 BATTERY RECYCLER BY RULE, THE COMMISSION SHALL:
+11 (I) INCLUDE CRITERIA THAT MINIMIZES THE GENERATION OF
+12 HAZARDOUS WASTE, GREENHOUSE GAS EMISSIONS, ENVIRONMENTAL
+13 IMPACTS, ENVIRONMENTAL JUSTICE IMPACTS, AND PUBLIC HEALTH
+14 IMPACTS;
+15 (II) INCLUDE CRITERIA THAT MINIMIZE RISKS TO PUBLIC HEALTH
+16 AND WORKER HEALTH AND SAFETY;
+17 (III) INCLUDE CRITERIA FOR A RECYCLING EFFICIENCY RATE OF AT
+18 LEAST SIXTY PERCENT AND DEVELOP MINIMUM MATERIAL-SPECIFIC
+19 RECOVERY RATE REQUIREMENTS OF KEY ACTIVE MATERIALS USED IN
+20 PROPULSION BATTERIES, CONSIDERING DEVELOPMENTS IN DOMINANT
+21 PROPULSION BATTERY TECHNOLOGY AND RECYCLING; AND
+22 (IV) ESTABLISH REASSESSMENT OF RECYCLING EFFICIENCY RATE
+23 GUIDANCE AND RECERTIFICATION TIME FRAMES EVERY FIVE YEARS.
+24 (c) THE REQUIREMENTS FOR QUALIFIED BATTERY RECYCLERS
+25 ESTABLISHED BY THE COMMISSION PURSUANT TO THIS SUBSECTION (1) ARE
+26 IN ADDITION TO, AND DO NOT REPLACE, OTHER STATE PERMITTING
+27 REQUIREMENTS OR REQUIREMENTS INCLUDED IN THE FEDERAL "RESOURCE
+-28- SB26-003
+
+1 CONSERVATION AND RECOVERY ACT OF 1976", 42 U.S.C. SEC. 6901 ET
+2 SEQ.
+3 (2) IF THE FEDERAL GOVERNMENT ENACTS A LAW OR ADOPTS
+4 REGULATIONS PERTAINING TO PROPULSION BATTERIES THAT MAY IMPACT
+5 THE REQUIREMENTS OF THIS PART 10, THE COMMISSION SHALL REVIEW,
+6 EVALUATE, AND COMPARE ANY FEDERAL REQUIREMENTS TO RULES
+7 ADOPTED UNDER THIS PART 10 AND SHALL, IF NECESSARY, REVISE THE
+8 RULES TO ENSURE COMPLIANCE WITH FEDERAL STANDARDS AND TO
+9 ACHIEVE GREATER RECYCLING EFFICIENCY AND FEASIBILITY.
+10 (3) THE COMMISSION MAY ADOPT RULES IMPLEMENTING ANY
+11 OTHER PROVISIONS OF THIS PART 10.
+12 SECTION 17. In Colorado Revised Statutes, add 25-17-1019 and
+13 25-17-1020 as follows:
+14 25-17-1019. Responsibilities of secondary handlers and
+15 secondary users.
+16 (1) AFTER TAKING POSSESSION OF A PROPULSION BATTERY, A
+17 SECONDARY HANDLER OR SECONDARY USER SHALL MANAGE THE
+18 PROPULSION BATTERY IN ACCORDANCE WITH THE BATTERY MANAGEMENT
+19 HIERARCHY.
+20 (2) FOR PROPULSION BATTERIES THAT ARE UNABLE TO BE REUSED,
+21 REPURPOSED, OR REMANUFACTURED, A SECONDARY HANDLER OR
+22 SECONDARY USER SHALL COORDINATE WITH A QUALIFIED BATTERY
+23 RECYCLER FOR RESPONSIBLE END-OF-LIFE MANAGEMENT OR CONTACT A
+24 BATTERY STEWARDSHIP ORGANIZATION TO ENSURE COMPLIANCE WITH
+25 THIS PART 10.
+26 (3) (a) A PROPULSION BATTERY PROVIDER CEASES TO BE THE
+27 RESPONSIBLE ENTITY FOR A PROPULSION BATTERY AFTER A SECONDARY
+-29- SB26-003
+
+1 USER REPURPOSES THAT PROPULSION BATTERY, UNLESS THE PROPULSION
+2 BATTERY PROVIDER AGREES TO ACCEPT CONTINUED RESPONSIBILITY FOR
+3 THE PROPULSION BATTERY BY CONTRACT.
+4 (b) A SECONDARY USER THAT REPURPOSES A PROPULSION BATTERY
+5 SHALL, BEFORE SELLING, OFFERING FOR SALE, OR DISTRIBUTING THE
+6 PROPULSION BATTERY, PROVIDE UPDATED LABELING IDENTIFYING THE
+7 SECONDARY USER AS THE RESPONSIBLE ENTITY FOR THE MODIFIED
+8 PROPULSION BATTERY PURSUANT TO SECTION 25-17-1013 (3)(a)(II),
+9 EXCEPT AS PROVIDED IN SUBSECTION (3)(a) OF THIS SECTION.
+10 25-17-1020. Applicability. A VEHICLE CONTAINING A PROPULSION
+11 BATTERY ORIGINALLY SOLD IN THE STATE IS NOT SUBJECT TO THIS PART 10
+12 WHEN IT IS RETIRED OUT OF STATE.
+13 SECTION 18. Act subject to petition - effective date. This act
+14 takes effect at 12:01 a.m. on the day following the expiration of the
+15 ninety-day period after final adjournment of the general assembly (August
+16 12, 2026, if adjournment sine die is on May 13, 2026); except that, if a
+17 referendum petition is filed pursuant to section 1 (3) of article V of the
+18 state constitution against this act or an item, section, or part of this act
+19 within such period, then the act, item, section, or part will not take effect
+20 unless approved by the people at the general election to be held in
+21 November 2026 and, in such case, will take effect on the date of the
+22 official declaration of the vote thereon by the governor.
+-30- SB26-003
